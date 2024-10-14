@@ -46,6 +46,23 @@
         .button:hover {
             background-color: #0056b3;
         }
+        .loader {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        ol {
+            text-align: left;
+            padding-left: 20px;
+        }
     </style>
 </head>
 <body>
@@ -60,26 +77,60 @@
         function openApp() {
             const recallId = getQueryParam('id');
             if (recallId) {
-                window.location.href = `recalld://open?id=${recallId}`;
+                const appUrl = `recalld://open?id=${recallId}`;
+                const appStoreUrl = 'https://apps.apple.com/us/app/recalld/id6505043137';
                 
+                let redirected = false;
+                
+                window.location.href = appUrl;
+
                 setTimeout(function() {
-                    if (!document.hidden) {
-                        window.location.href = 'https://apps.apple.com/us/app/recalld/id6505043137';
+                    if (!redirected) {
+                        redirected = true;
+                        window.location.href = appStoreUrl;
                     }
-                }, 2000);
+                }, 2500);
+
+                window.addEventListener('blur', function() {
+                    redirected = true;
+                });
+
+                window.addEventListener('visibilitychange', function() {
+                    if (document.hidden) {
+                        redirected = true;
+                    }
+                });
             } else {
                 window.location.href = 'https://apps.apple.com/us/app/recalld/id6505043137';
             }
+        }
+
+        function showLoading() {
+            document.getElementById('loading').style.display = 'block';
+            setTimeout(() => {
+                document.getElementById('instructions').style.display = 'block';
+                document.getElementById('instructionList').style.display = 'block';
+            }, 5000);
         }
 
         const recallId = getQueryParam('id');
         if (recallId) {
             document.getElementById('app-redirect').innerHTML = `
                 <h1>Opening RECALLd...</h1>
-                <p>If nothing happens, click the button below to open the app or download it from the App Store.</p>
-                <a href="#" onclick="openApp()" class="button">Open RECALLd</a>
+                <div id="loading" style="display: none;">
+                    <p>Attempting to open RECALLd app...</p>
+                    <div class="loader"></div>
+                </div>
+                <p id="instructions" style="display: none;">If the app doesn't open automatically:</p>
+                <ol id="instructionList" style="display: none;">
+                    <li>Check if RECALLd is installed on your device</li>
+                    <li>If installed, close this page and try the link again</li>
+                    <li>If not installed, download RECALLd from the App Store</li>
+                </ol>
+                <a href="#" onclick="openApp(); showLoading(); return false;" class="button">Open RECALLd</a>
             `;
             openApp();
+            showLoading();
         } else {
             document.getElementById('app-redirect').innerHTML = `
                 <h1>Welcome to RECALLd</h1>
