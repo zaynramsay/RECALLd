@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RECALLd - Open App</title>
+    <!-- Favicon and Open Graph tags as before -->
+    <style>
+        /* ... (styles as before) ... */
+    </style>
+</head>
+<body>
+    <div id="app-redirect"></div>
+
+    <script>
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        function openApp() {
+            const recallId = getQueryParam('id');
+            if (recallId) {
+                const appUrl = `recalld://open?id=${recallId}`;
+                const appStoreUrl = 'https://apps.apple.com/us/app/recalld/id6505043137';
+                
+                let redirected = false;
+                
+                window.location.href = appUrl;
+
+                setTimeout(function() {
+                    if (!redirected) {
+                        redirected = true;
+                        window.location.href = appStoreUrl;
+                    }
+                }, 2500);
+
+                window.addEventListener('blur', function() {
+                    redirected = true;
+                });
+
+                window.addEventListener('visibilitychange', function() {
+                    if (document.hidden) {
+                        redirected = true;
+                    }
+                });
+            } else {
+                window.location.href = '/'; // Redirect to home page if no ID
+            }
+        }
+
+        function showLoading() {
+            document.getElementById('loading').style.display = 'block';
+            setTimeout(() => {
+                document.getElementById('instructions').style.display = 'block';
+                document.getElementById('instructionList').style.display = 'block';
+            }, 5000);
+        }
+
+        const recallId = getQueryParam('id');
+        if (recallId) {
+            document.getElementById('app-redirect').innerHTML = `
+                <h1>Opening RECALLd...</h1>
+                <div id="loading" style="display: none;">
+                    <p>Attempting to open RECALLd app...</p>
+                    <div class="loader"></div>
+                </div>
+                <p id="instructions" style="display: none;">If the app doesn't open automatically:</p>
+                <ol id="instructionList" style="display: none;">
+                    <li>Check if RECALLd is installed on your device</li>
+                    <li>If installed, close this page and try the link again</li>
+                    <li>If not installed, download RECALLd from the App Store</li>
+                </ol>
+                <a href="#" onclick="openApp(); showLoading(); return false;" class="button">Open RECALLd</a>
+            `;
+            openApp();
+            showLoading();
+        } else {
+            window.location.href = '/'; // Redirect to home page if no ID
+        }
+    </script>
+</body>
+</html>
