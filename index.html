@@ -3,18 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RECALLd - Check out this recall on RECALLd!</title>
-   
+    <title>RECALLd - Stay Informed About Product Recalls</title>
+
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://recalld.app/">
+    <meta property="og:url" content="https://your-username.github.io/">
     <meta property="og:title" content="RECALLd - Stay Informed About Product Recalls">
     <meta property="og:description" content="Keep your family safe with real-time product recall information.">
-    <meta property="og:image" content="https://recalld.app/og-image.jpeg">
-    
+    <meta property="og:image" content="https://your-username.github.io/images/og-image.jpg">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://your-username.github.io/">
+    <meta property="twitter:title" content="RECALLd - Stay Informed About Product Recalls">
+    <meta property="twitter:description" content="Keep your family safe with real-time product recall information.">
+    <meta property="twitter:image" content="https://your-username.github.io/images/og-image.jpg">
+
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -27,7 +37,7 @@
             padding: 20px;
             box-sizing: border-box;
         }
-        #app-redirect {
+        #home-content {
             background-color: white;
             border-radius: 10px;
             padding: 30px;
@@ -57,98 +67,13 @@
         .button:hover {
             background-color: #0056b3;
         }
-        .loader {
-            border: 5px solid #f3f3f3;
-            border-top: 5px solid #3498db;
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            animation: spin 1s linear infinite;
-            margin: 20px auto;
-        }
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-        ol {
-            text-align: left;
-            padding-left: 20px;
-        }
     </style>
 </head>
 <body>
-    <div id="app-redirect"></div>
-
-    <script>
-        function getQueryParam(param) {
-            const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(param);
-        }
-
-        function openApp() {
-            const recallId = getQueryParam('id');
-            if (recallId) {
-                const appUrl = `recalld://open?id=${recallId}`;
-                const appStoreUrl = 'https://apps.apple.com/us/app/recalld/id6505043137';
-                
-                let redirected = false;
-                
-                window.location.href = appUrl;
-
-                setTimeout(function() {
-                    if (!redirected) {
-                        redirected = true;
-                        window.location.href = appStoreUrl;
-                    }
-                }, 2500);
-
-                window.addEventListener('blur', function() {
-                    redirected = true;
-                });
-
-                window.addEventListener('visibilitychange', function() {
-                    if (document.hidden) {
-                        redirected = true;
-                    }
-                });
-            } else {
-                window.location.href = 'https://apps.apple.com/us/app/recalld/id6505043137';
-            }
-        }
-
-        function showLoading() {
-            document.getElementById('loading').style.display = 'block';
-            setTimeout(() => {
-                document.getElementById('instructions').style.display = 'block';
-                document.getElementById('instructionList').style.display = 'block';
-            }, 5000);
-        }
-
-        const recallId = getQueryParam('id');
-        if (recallId) {
-            document.getElementById('app-redirect').innerHTML = `
-                <h1>Opening RECALLd...</h1>
-                <div id="loading" style="display: none;">
-                    <p>Attempting to open RECALLd app...</p>
-                    <div class="loader"></div>
-                </div>
-                <p id="instructions" style="display: none;">If the app doesn't open automatically:</p>
-                <ol id="instructionList" style="display: none;">
-                    <li>Check if RECALLd is installed on your device</li>
-                    <li>If installed, close this page and try the link again</li>
-                    <li>If not installed, download RECALLd from the App Store</li>
-                </ol>
-                <a href="#" onclick="openApp(); showLoading(); return false;" class="button">Open RECALLd</a>
-            `;
-            openApp();
-            showLoading();
-        } else {
-            document.getElementById('app-redirect').innerHTML = `
-                <h1>Welcome to RECALLd</h1>
-                <p>Stay informed about product recalls and keep your family safe.</p>
-                <a href="https://apps.apple.com/us/app/recalld/id6505043137" class="button">Download on the App Store</a>
-            `;
-        }
-    </script>
+    <div id="home-content">
+        <h1>Welcome to RECALLd</h1>
+        <p>Stay informed about product recalls and keep your family safe.</p>
+        <a href="https://apps.apple.com/us/app/recalld/id6505043137" class="button">Download on the App Store</a>
+    </div>
 </body>
 </html>
