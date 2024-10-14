@@ -13,14 +13,14 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://your-username.github.io/open.html">
+    <meta property="og:url" content="https://your-username.github.io/open/">
     <meta property="og:title" content="RECALLd - Open Recall Information">
     <meta property="og:description" content="View important recall information to keep your family safe.">
     <meta property="og:image" content="https://your-username.github.io/images/og-image.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://your-username.github.io/open.html">
+    <meta property="twitter:url" content="https://your-username.github.io/open/">
     <meta property="twitter:title" content="RECALLd - Open Recall Information">
     <meta property="twitter:description" content="View important recall information to keep your family safe.">
     <meta property="twitter:image" content="https://your-username.github.io/images/og-image.jpg">
@@ -90,13 +90,14 @@
     <div id="app-redirect"></div>
 
     <script>
-        function getQueryParam(param) {
-            const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(param);
+        function getRecallId() {
+            const path = window.location.pathname;
+            const match = path.match(/\/open\/(\w+)/);
+            return match ? match[1] : null;
         }
 
         function openApp() {
-            const recallId = getQueryParam('id');
+            const recallId = getRecallId();
             if (recallId) {
                 const appUrl = `recalld://open?id=${recallId}`;
                 const appStoreUrl = 'https://apps.apple.com/us/app/recalld/id6505043137';
@@ -122,7 +123,7 @@
                     }
                 });
             } else {
-                window.location.href = '/'; // Redirect to home page if no ID
+                window.location.href = '/';
             }
         }
 
@@ -134,7 +135,7 @@
             }, 5000);
         }
 
-        const recallId = getQueryParam('id');
+        const recallId = getRecallId();
         if (recallId) {
             document.getElementById('app-redirect').innerHTML = `
                 <h1>Opening RECALLd...</h1>
@@ -153,7 +154,7 @@
             openApp();
             showLoading();
         } else {
-            window.location.href = '/'; // Redirect to home page if no ID
+            window.location.href = '/';
         }
     </script>
 </body>
