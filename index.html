@@ -91,10 +91,21 @@
             font-size: 17px;
             line-height: 1.17648;
             letter-spacing: -0.022em;
+            margin: 0 8px;
         }
 
         .button:hover {
             background-color: #0077ED;
+        }
+
+        .button.secondary {
+            background-color: #fff;
+            color: var(--primary-color);
+            border: 1px solid var(--primary-color);
+        }
+
+        .button.secondary:hover {
+            background-color: #f5f5f7;
         }
 
         .loader {
@@ -127,6 +138,13 @@
             margin-bottom: 24px;
             border-radius: 27.5%;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .button-group {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
         }
     </style>
 </head>
@@ -186,8 +204,11 @@
                     <p>Attempting to open RECALLd app...</p>
                     <div class="loader"></div>
                 </div>
-                <p id="instructions" style="display: none;">If the app doesn't open automatically, click the button below to open the app or download it from the App Store.</p>
-                <a href="#" onclick="openApp(); showLoading(); return false;" class="button">Open RECALLd</a>
+                <p id="instructions" style="display: none;">If the app doesn't open automatically, use one of the buttons below to open the app or download it from the App Store.</p>
+                <div class="button-group">
+                    <a href="#" onclick="openApp(); showLoading(); return false;" class="button">Open RECALLd</a>
+                    <a href="https://apps.apple.com/us/app/recalld/id6505043137" class="button secondary">Download App</a>
+                </div>
             `;
             openApp();
             showLoading();
