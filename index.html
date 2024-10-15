@@ -16,14 +16,14 @@
     <meta property="og:url" content="https://recalld.app/">
     <meta property="og:title" content="RECALLd - Stay Informed About Product Recalls">
     <meta property="og:description" content="Keep your family safe with real-time product recall information.">
-    <meta property="og:image" content="https://recalld.app/og-image.jpeg">
+    <meta property="og:image" content="https://recalld.app/og-image.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://recalld.app/">
     <meta property="twitter:title" content="RECALLd - Stay Informed About Product Recalls">
     <meta property="twitter:description" content="Keep your family safe with real-time product recall information.">
-    <meta property="twitter:image" content="https://recalld.app/og-image.jpeg">
+    <meta property="twitter:image" content="https://recalld.app/og-image.jpg">
 
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
@@ -140,30 +140,25 @@
                 
                 let redirected = false;
                 
-                console.log('Attempting to open app with URL:', appUrl);
                 window.location.href = appUrl;
 
                 setTimeout(function() {
                     if (!redirected) {
-                        console.log('Redirect timeout reached, redirecting to App Store');
                         redirected = true;
                         window.location.href = appStoreUrl;
                     }
-                }, 5000); // Increased to 5 seconds
+                }, 2500);
 
                 window.addEventListener('blur', function() {
-                    console.log('Window blurred, app likely opened');
                     redirected = true;
                 });
 
                 window.addEventListener('visibilitychange', function() {
                     if (document.hidden) {
-                        console.log('Page hidden, app likely opened');
                         redirected = true;
                     }
                 });
             } else {
-                console.log('No recall ID found, redirecting to App Store');
                 window.location.href = 'https://apps.apple.com/us/app/recalld/id6505043137';
             }
         }
@@ -177,7 +172,6 @@
 
         const recallId = getQueryParam('id');
         if (recallId) {
-            console.log('Recall ID found:', recallId);
             document.getElementById('app-redirect').innerHTML = `
                 <img src="/app-icon.png" alt="RECALLd App Icon" class="app-icon">
                 <h1>Opening RECALLd</h1>
@@ -187,13 +181,10 @@
                 </div>
                 <p id="instructions" style="display: none;">If the app doesn't open automatically, click the button below to open the app or download it from the App Store.</p>
                 <a href="#" onclick="openApp(); showLoading(); return false;" class="button">Open RECALLd</a>
-                <br><br>
-                <a href="recalld://open?id=${recallId}">Test Direct App Open</a>
             `;
-            openApp(); // Call this immediately
+            openApp();
             showLoading();
         } else {
-            console.log('No recall ID found, showing welcome page');
             document.getElementById('app-redirect').innerHTML = `
                 <img src="/app-icon.png" alt="RECALLd App Icon" class="app-icon">
                 <h1>Welcome to RECALLd</h1>
