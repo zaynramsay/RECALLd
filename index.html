@@ -140,25 +140,30 @@
                 
                 let redirected = false;
                 
+                console.log('Attempting to open app with URL:', appUrl);
                 window.location.href = appUrl;
 
                 setTimeout(function() {
                     if (!redirected) {
+                        console.log('Redirect timeout reached, redirecting to App Store');
                         redirected = true;
                         window.location.href = appStoreUrl;
                     }
-                }, 2500);
+                }, 5000); // Increased to 5 seconds
 
                 window.addEventListener('blur', function() {
+                    console.log('Window blurred, app likely opened');
                     redirected = true;
                 });
 
                 window.addEventListener('visibilitychange', function() {
                     if (document.hidden) {
+                        console.log('Page hidden, app likely opened');
                         redirected = true;
                     }
                 });
             } else {
+                console.log('No recall ID found, redirecting to App Store');
                 window.location.href = 'https://apps.apple.com/us/app/recalld/id6505043137';
             }
         }
@@ -172,6 +177,7 @@
 
         const recallId = getQueryParam('id');
         if (recallId) {
+            console.log('Recall ID found:', recallId);
             document.getElementById('app-redirect').innerHTML = `
                 <img src="/app-icon.png" alt="RECALLd App Icon" class="app-icon">
                 <h1>Opening RECALLd</h1>
@@ -181,10 +187,13 @@
                 </div>
                 <p id="instructions" style="display: none;">If the app doesn't open automatically, click the button below to open the app or download it from the App Store.</p>
                 <a href="#" onclick="openApp(); showLoading(); return false;" class="button">Open RECALLd</a>
+                <br><br>
+                <a href="recalld://open?id=${recallId}">Test Direct App Open</a>
             `;
-            openApp();
+            openApp(); // Call this immediately
             showLoading();
         } else {
+            console.log('No recall ID found, showing welcome page');
             document.getElementById('app-redirect').innerHTML = `
                 <img src="/app-icon.png" alt="RECALLd App Icon" class="app-icon">
                 <h1>Welcome to RECALLd</h1>
