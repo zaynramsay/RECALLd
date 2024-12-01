@@ -8,10 +8,23 @@
     --transition-slow: 500ms;
     --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
     --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+    --bounce-out: cubic-bezier(0.34, 1.56, 0.64, 1);
+    --spring: cubic-bezier(0.68, -0.6, 0.32, 1.6);
+    
+    /* Animation durations system */
+    --duration-50: 50ms;
+    --duration-100: 100ms;
+    --duration-150: 150ms;
+    --duration-300: 300ms;
+    --duration-500: 500ms;
+    --duration-700: 700ms;
     
     /* Light theme defaults */
     --primary-blue: #0071e3;
     --primary-blue-hover: #0077ED;
+    --primary-blue-10: rgba(0, 113, 227, 0.1);
+    --primary-blue-20: rgba(0, 113, 227, 0.2);
+    --primary-blue-50: rgba(0, 113, 227, 0.5);
     --primary-red: #fa114f;
     --surface-primary: #ffffff;
     --surface-secondary: #f5f5f7;
@@ -19,13 +32,36 @@
     --text-primary: #1d1d1f;
     --text-secondary: #6e6e73;
     --text-tertiary: #86868b;
+    
+    /* Enhanced gradients */
     --gradient-dark: linear-gradient(180deg, #f5f5f7 0%, #ffffff 100%);
     --gradient-glow: radial-gradient(circle at top, rgba(0, 113, 227, 0.1), transparent 70%);
     --gradient-text: linear-gradient(135deg, #1d1d1f 0%, #424245 100%);
+    --gradient-mesh: conic-gradient(
+        from 180deg at 50% 50%,
+        var(--primary-blue-10) 0deg,
+        transparent 60deg,
+        var(--primary-blue-10) 120deg,
+        transparent 180deg,
+        var(--primary-blue-10) 240deg,
+        transparent 300deg,
+        var(--primary-blue-10) 360deg
+    );
+    
+    /* Card and surface styles */
     --card-background: rgba(255, 255, 255, 0.8);
     --card-border: rgba(0, 0, 0, 0.1);
     --shadow-color: rgba(0, 0, 0, 0.1);
     --button-text: #ffffff;
+    
+    /* Fluid typography */
+    --font-size-sm: clamp(0.8rem, 0.17vw + 0.76rem, 0.89rem);
+    --font-size-base: clamp(1rem, 0.34vw + 0.91rem, 1.19rem);
+    --font-size-md: clamp(1.25rem, 0.61vw + 1.1rem, 1.58rem);
+    --font-size-lg: clamp(1.56rem, 1vw + 1.31rem, 2.11rem);
+    --font-size-xl: clamp(1.95rem, 1.56vw + 1.56rem, 2.81rem);
+    --font-size-2xl: clamp(2.44rem, 2.38vw + 1.85rem, 3.75rem);
+    --font-size-3xl: clamp(3.05rem, 3.54vw + 2.17rem, 5rem);
 }
 
 /* Dark theme colors */
@@ -58,6 +94,7 @@
 /* Enhanced body styling */
 body {
     font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: var(--font-size-base);
     background: var(--gradient-dark);
     color: var(--text-primary);
     min-height: 100vh;
@@ -83,6 +120,7 @@ body {
     perspective: 1000px;
     overflow: hidden;
     position: relative;
+    padding: 0 24px;
 }
 
 /* Advanced background effects */
@@ -101,7 +139,7 @@ body {
     border-radius: 32px;
     margin-bottom: 40px;
     transform: translateZ(0);
-    transition: all var(--transition-medium) var(--ease-out-expo);
+    transition: all var(--duration-300) var(--bounce-out);
     box-shadow: 
         0 20px 40px var(--shadow-color),
         0 0 0 0.5px var(--card-border);
@@ -118,7 +156,7 @@ body {
 /* Typography enhancements */
 h1 {
     font-family: 'SF Pro Display', sans-serif;
-    font-size: clamp(40px, 8vw, 64px);
+    font-size: var(--font-size-3xl);
     font-weight: 700;
     line-height: 1.1;
     letter-spacing: -0.03em;
@@ -128,19 +166,21 @@ h1 {
     opacity: 0;
     transform: translateY(20px);
     animation: slideUp 1s var(--ease-out-expo) forwards;
+    padding: 0 24px;
 }
 
 .hero-description {
-    font-size: clamp(18px, 4vw, 24px);
+    font-size: var(--font-size-lg);
     color: var(--text-secondary);
     max-width: 600px;
     margin: 24px auto 40px;
     opacity: 0;
     transform: translateY(20px);
     animation: slideUp 1s var(--ease-out-expo) 0.2s forwards;
+    padding: 0 24px;
 }
 
-/* Enhanced button styles */
+/* Enhanced button styles with advanced interactions */
 .button-group {
     display: flex;
     gap: 20px;
@@ -148,21 +188,34 @@ h1 {
     opacity: 0;
     transform: translateY(20px);
     animation: slideUp 1s var(--ease-out-expo) 0.4s forwards;
+    padding: 0 20px;
 }
 
 .button {
+    --hover-offset: 0px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     min-width: 200px;
     padding: 16px 32px;
     border-radius: 980px;
-    font-size: 18px;
+    font-size: var(--font-size-base);
     font-weight: 500;
     text-decoration: none;
-    transition: all var(--transition-medium) var(--ease-out-expo);
+    transition: all var(--duration-300) var(--bounce-out);
+    transform: translateY(var(--hover-offset));
     position: relative;
     overflow: hidden;
+}
+
+.button:hover {
+    --hover-offset: -4px;
+}
+
+.button:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--surface-primary),
+                0 0 0 4px var(--primary-blue-20);
 }
 
 .button::before {
@@ -184,9 +237,8 @@ h1 {
 }
 
 .button.primary:hover {
-    transform: translateY(-2px);
     background-color: var(--primary-blue-hover);
-    box-shadow: 0 8px 32px rgba(0, 113, 227, 0.4);
+    box-shadow: 0 8px 32px var(--primary-blue-20);
 }
 
 .button.secondary {
@@ -197,13 +249,17 @@ h1 {
 }
 
 .button.secondary:hover {
-    transform: translateY(-2px);
     background: var(--surface-secondary);
     border-color: var(--card-border);
     box-shadow: 0 8px 32px var(--shadow-color);
 }
 
-/* Enhanced feature cards */
+/* Enhanced feature cards with modern effects */
+.features-section {
+    scroll-snap-type: y proximity;
+    scroll-padding-top: 2rem;
+}
+
 .features-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -215,29 +271,44 @@ h1 {
 }
 
 .feature-card {
+    --card-scale: 1;
+    --rotation-y: 0deg;
+    --rotation-x: 0deg;
+    --border-width: 1px;
+    --border-radius: 24px;
+    
+    scroll-snap-align: start;
     background: var(--card-background);
     backdrop-filter: blur(20px);
-    border-radius: 24px;
+    border-radius: var(--border-radius);
     padding: 32px;
-    border: 1px solid var(--card-border);
-    transition: all var(--transition-medium) var(--ease-out-expo);
+    transform: scale(var(--card-scale)) 
+               rotateY(var(--rotation-y)) 
+               rotateX(var(--rotation-x));
+    transition: all var(--duration-300) var(--bounce-out);
     position: relative;
 }
 
 .feature-card::before {
-    content: '';
+    content: "";
     position: absolute;
     inset: 0;
-    border-radius: 24px;
-    padding: 1px;
-    background: linear-gradient(180deg, var(--card-border), transparent);
-    -webkit-mask: linear-gradient(#000, #000) content-box, linear-gradient(#000, #000);
-    -webkit-mask-composite: xor;
+    padding: var(--border-width);
+    background: linear-gradient(
+        to bottom right,
+        var(--primary-blue-20),
+        transparent 50%
+    );
+    border-radius: var(--border-radius);
+    mask: linear-gradient(#fff 0 0) content-box,
+          linear-gradient(#fff 0 0);
     mask-composite: exclude;
 }
 
 .feature-card:hover {
-    transform: translateY(-8px);
+    --card-scale: 1.02;
+    --rotation-y: 2deg;
+    --rotation-x: -1deg;
     background: var(--surface-secondary);
 }
 
@@ -245,7 +316,7 @@ h1 {
     font-size: 32px;
     margin-bottom: 24px;
     color: var(--primary-blue);
-    transition: transform var(--transition-medium) var(--ease-out-expo);
+    transition: transform var(--duration-300) var(--bounce-out);
 }
 
 .feature-card:hover .feature-icon {
@@ -254,7 +325,7 @@ h1 {
 
 .feature-title {
     font-family: 'SF Pro Display', sans-serif;
-    font-size: 24px;
+    font-size: var(--font-size-xl);
     font-weight: 600;
     margin-bottom: 16px;
     color: var(--text-primary);
@@ -262,63 +333,59 @@ h1 {
 
 .feature-description {
     color: var(--text-secondary);
+    font-size: var(--font-size-base);
     line-height: 1.6;
 }
 
+/* App Store button styles */
 .app-store-button {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    min-width: 200px;
+    padding: 16px 32px;
+    border-radius: 980px;
+    font-size: var(--font-size-base);
+    font-weight: 500;
+    text-decoration: none;
+    transition: all var(--duration-300) var(--bounce-out);
+    position: relative;
+    overflow: hidden;
+    height: 56px;
     background-color: #000000;
     color: #ffffff;
-    padding: 8px 24px;
-    border-radius: 7px;
-    text-decoration: none;
-    font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif;
-    font-size: 20px;
-    font-weight: 500;
-    min-width: 200px;
-    height: 44px;
-    transition: all var(--transition-medium) var(--ease-out-expo);
 }
 
 .app-store-button:hover {
-    background-color: #0a0a0a;
     transform: translateY(-2px);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
-}
-
-.app-store-button .apple-logo {
-    width: 24px;
-    height: 24px;
-    margin-right: 8px;
-    position: relative;
-    top: -1px;
+    background-color: #0a0a0a;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
 }
 
 .app-store-button .button-text {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    line-height: 1;
+    line-height: 1.1;
+    margin-left: 8px;
 }
 
 .app-store-button .download-text {
-    font-size: 12px;
-    margin-bottom: 2px;
+    font-size: var(--font-size-sm);
     opacity: 0.8;
+    margin-bottom: 2px;
 }
 
 .app-store-button .store-text {
-    font-size: 20px;
+    font-size: var(--font-size-base);
     letter-spacing: -0.01em;
 }
 
-@media (max-width: 768px) {
-    .app-store-button {
-        width: 100%;
-        max-width: 300px;
-    }
+.app-store-button .apple-logo {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 0;
 }
 
 /* Enhanced animations */
@@ -351,6 +418,21 @@ h1 {
     }
 }
 
+/* Scroll-triggered animations */
+@media (prefers-reduced-motion: no-preference) {
+    .feature-card {
+        opacity: 0;
+        transform: translateY(20px);
+        transition: opacity var(--duration-700) ease,
+                    transform var(--duration-700) var(--spring);
+    }
+
+    .feature-card.in-view {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 /* Responsive enhancements */
 @media (max-width: 768px) {
     .button-group {
@@ -369,6 +451,59 @@ h1 {
         margin-top: 60px;
         padding: 0 20px;
     }
+    
+    .app-store-button {
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    h1 {
+        font-size: var(--font-size-2xl);
+    }
+    
+    .hero-description {
+        font-size: var(--font-size-md);
+    }
+}
+
+/* Enhanced mobile navigation */
+@media (max-width: 480px) {
+    .container {
+        padding: 0 16px;
+    }
+    
+    .feature-card {
+        padding: 24px;
+    }
+    
+    .feature-title {
+        font-size: var(--font-size-lg);
+    }
+    
+    .feature-description {
+        font-size: var(--font-size-sm);
+    }
+}
+
+/* Print styles */
+@media print {
+    .button-group,
+    .app-store-button,
+    .background-gradient {
+        display: none;
+    }
+    
+    body {
+        background: none;
+        color: #000;
+    }
+    
+    .feature-card {
+        break-inside: avoid;
+        border: 1px solid #ccc;
+        background: none;
+        box-shadow: none;
+    }
 }
 
 /* Reduced motion preferences */
@@ -378,5 +513,43 @@ h1 {
         animation-iteration-count: 1 !important;
         transition-duration: 0.01ms !important;
         scroll-behavior: auto !important;
+    }
+    
+    .feature-card,
+    .button,
+    .app-icon {
+        transform: none !important;
+        transition: none !important;
+    }
+}
+
+/* High contrast mode support */
+@media (forced-colors: active) {
+    .button,
+    .feature-card,
+    .app-icon {
+        border: 2px solid ButtonText;
+    }
+    
+    .button:focus-visible {
+        outline: 2px solid ButtonText;
+        outline-offset: 2px;
+    }
+}
+
+/* RTL language support */
+[dir="rtl"] {
+    .app-store-button .button-text {
+        margin-left: 0;
+        margin-right: 8px;
+        align-items: flex-end;
+    }
+    
+    .feature-card::before {
+        background: linear-gradient(
+            to bottom left,
+            var(--primary-blue-20),
+            transparent 50%
+        );
     }
 }
