@@ -43,116 +43,8 @@
     <meta property="twitter:image:alt" content="RECALLd App Preview">
 
     <link rel="stylesheet" href="styles.css">
-    <style>
-        /* New styles for navbar and trust banner */
-        .navbar {
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            padding: 1rem 2rem;
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-            z-index: 1000;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            text-decoration: none;
-            color: inherit;
-        }
-
-        .logo img {
-            width: 32px;
-            height: 32px;
-        }
-
-        .logo-text {
-            font-size: 1.5rem;
-            font-weight: bold;
-            letter-spacing: -0.5px;
-        }
-
-        .nav-links {
-            display: flex;
-            gap: 2rem;
-        }
-
-        .nav-links a {
-            text-decoration: none;
-            color: inherit;
-            opacity: 0.8;
-            transition: opacity 0.2s;
-        }
-
-        .nav-links a:hover {
-            opacity: 1;
-        }
-
-        .trust-banner {
-            background: linear-gradient(to right, #f8f9fa, #e9ecef);
-            padding: 3rem 1rem;
-            text-align: center;
-            margin-top: 2rem;
-        }
-
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 2rem;
-            max-width: 1200px;
-            margin: 2rem auto;
-        }
-
-        .stat-card {
-            text-align: center;
-            padding: 1.5rem;
-        }
-
-        .stat-number {
-            font-size: 2.5rem;
-            font-weight: bold;
-            color: #0071e3;
-            margin-bottom: 0.5rem;
-        }
-
-        .stat-label {
-            font-size: 1rem;
-            opacity: 0.8;
-        }
-
-        /* Adjust hero section for navbar */
-        .hero-section {
-            padding-top: 80px;
-        }
-
-        @media (max-width: 768px) {
-            .nav-links {
-                display: none;
-            }
-        }
-    </style>
 </head>
 <body>
-    <!-- New navbar -->
-    <nav class="navbar">
-        <a href="/" class="logo">
-            <img src="/app-icon.png" alt="RECALLd Logo">
-            <span class="logo-text">RECALLd</span>
-        </a>
-        <div class="nav-links">
-            <a href="#features">Features</a>
-            <a href="#about">About</a>
-            <a href="https://apps.apple.com/us/app/recalld/id6505043137">Download</a>
-        </div>
-    </nav>
-
     <main id="app-redirect">
         <section class="hero-section" aria-labelledby="hero-title">
             <div class="background-gradient" aria-hidden="true"></div>
@@ -188,25 +80,6 @@
             </div>
         </section>
 
-        <!-- New trust banner -->
-        <section class="trust-banner">
-            <h2>Trusted by Families Across the Nation</h2>
-            <div class="stats-grid">
-                <div class="stat-card">
-                    <div class="stat-number">50K+</div>
-                    <div class="stat-label">Active Users</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">1000+</div>
-                    <div class="stat-label">Recalls Tracked</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">24/7</div>
-                    <div class="stat-label">Alert Monitoring</div>
-                </div>
-            </div>
-        </section>
-
         <section class="features-grid fade-in" 
                  id="features" 
                  aria-label="App Features">
@@ -227,7 +100,6 @@
             </div>
         </section>
     </main>
-
 
     <script type="module">
         // App redirect functionality
