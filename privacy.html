@@ -105,14 +105,20 @@
             transform: translateX(0);
         }
         .privacy-active .toggle-option {
-            color: white !important;
+            color: var(--primary-text);
+        }
+        .privacy-active .toggle-option:first-child {
+            color: white;
         }
         
         .terms-active .toggle-background {
             transform: translateX(calc(100% + 0.25rem));
         }
         .terms-active .toggle-option {
-            color: white !important;
+            color: var(--primary-text);
+        }
+        .terms-active .toggle-option:last-child {
+            color: white;
         }
 
         .content-wrapper {
@@ -166,12 +172,53 @@
             letter-spacing: -0.022em;
         }
 
-        p {
+        .section-content {
             color: var(--secondary-text);
+            line-height: 1.6;
             margin-bottom: 1.5rem;
-            font-size: 1.0625rem;
-            line-height: 1.5;
-            white-space: pre-wrap;
+        }
+
+        .section-content p {
+            margin-bottom: 1rem;
+            color: var(--secondary-text);
+        }
+
+        /* List styling */
+        .legal-list {
+            margin: 1rem 0;
+            padding-left: 2rem;
+        }
+
+        .legal-list.numbered {
+            list-style-type: decimal;
+        }
+
+        .legal-list.bulleted {
+            list-style-type: disc;
+        }
+
+        .legal-list li {
+            margin-bottom: 0.75rem;
+            padding-left: 0.5rem;
+            color: var(--secondary-text);
+        }
+
+        /* Special formatting for the contact section */
+        .section:last-child .section-content {
+            background: var(--alert-bg);
+            padding: 1.5rem;
+            border-radius: 0.75rem;
+            margin-top: 1rem;
+        }
+
+        /* Handle nested lists */
+        .legal-list .legal-list {
+            margin: 0.75rem 0 0.75rem 1rem;
+        }
+
+        /* Alpha list items */
+        .legal-list li[data-list-type="alpha"] {
+            list-style-type: upper-alpha;
         }
 
         .alert {
@@ -198,6 +245,17 @@
             animation: slideDown 0.8s cubic-bezier(0.16, 1, 0.3, 1);
         }
 
+        .error-message {
+            text-align: center;
+            padding: 2rem;
+            color: var(--secondary-text);
+        }
+
+        .error-message h2 {
+            color: var(--primary-text);
+            margin-bottom: 1rem;
+        }
+
         @keyframes slideDown {
             0% {
                 transform: translateY(-2rem);
@@ -207,11 +265,6 @@
                 transform: translateY(0);
                 opacity: 1;
             }
-        }
-
-        strong {
-            color: var(--primary-text);
-            font-weight: 600;
         }
 
         @media (max-width: 768px) {
@@ -269,57 +322,87 @@
                 }
                 
                 let text = await response.text();
-                
-                // Clean the JSON string
                 text = text
-                    .replace(/[\x00-\x1F\x7F-\x9F]/g, '')  // Remove control characters
-                    .replace(/\r\n/g, '\n')                 // Normalize line endings
-                    .replace(/\n\s+/g, '\n')               // Clean up indentation
-                    .replace(/\\/g, '\\\\')                // Escape backslashes
-                    .replace(/[\u2028\u2029]/g, '')        // Remove line/paragraph separators
+                    .replace(/[\x00-\x1F\x7F-\x9F]/g, '')
+                    .replace(/\r\n/g, '\n')
+                    .replace(/\n\s+/g, '\n')
+                    .replace(/\\/g, '\\\\')
+                    .replace(/[\u2028\u2029]/g, '')
                     .trim();
                 
-                // Parse the cleaned JSON
                 const data = JSON.parse(text);
                 const contentContainer = document.getElementById(`${type}-content`);
                 contentContainer.innerHTML = '';
-        
+
                 // Add title
                 const titleElement = document.createElement('h1');
                 titleElement.textContent = data.title;
                 contentContainer.appendChild(titleElement);
-        
+
                 // Add last updated
                 const lastUpdatedElement = document.createElement('p');
                 lastUpdatedElement.className = 'last-updated';
                 lastUpdatedElement.textContent = `Last updated: ${data.lastUpdated}`;
                 contentContainer.appendChild(lastUpdatedElement);
-        
-                // Add sections with proper formatting
+
+                // Add sections with enhanced formatting
                 data.sections.forEach(section => {
                     const sectionDiv = document.createElement('div');
                     sectionDiv.className = 'section';
-        
-                    // Add heading
+
                     const headingElement = document.createElement('h2');
                     headingElement.textContent = section.heading;
                     sectionDiv.appendChild(headingElement);
-        
-                    // Add content with proper formatting
-                    const contentElement = document.createElement('div');
-                    contentElement.className = 'section-content';
-                    
-                    // Format the content with proper line breaks
-                    const formattedContent = section.content
-                        .split('\n')
-                        .map(line => line.trim())
-                        .join('\n');
-                    
-                    // Use pre-wrap to preserve formatting
-                    contentElement.style.whiteSpace = 'pre-wrap';
-                    contentElement.textContent = formattedContent;
-                    sectionDiv.appendChild(contentElement);
-        
+
+                    const contentDiv = document.createElement('div');
+                    contentDiv.className = 'section-content';
+
+                    // Process the content with enhanced list formatting
+                    const lines = section.content.split('\n');
+                    let inList = false;
+                    let listType = null;
+                    let listHtml = '';
+
+                    lines.forEach(line => {
+                        const trimmedLine = line.trim();
+                        
+                        // Check for different list patterns
+                        const isNumbered = /^\d+\.\s/.test(trimmedLine);
+                        const isBullet = /^•\s/.test(trimmedLine) || /^-\s/.test(trimmedLine);
+                        const isAlpha = /^[A-Z]\.\s/.test(trimmedLine);
+
+                        if (isNumbered || isBullet || isAlpha) {
+                            if (!inList) {
+                                // Start new list
+                                inList = true;
+                                listType = isNumbered ? 'ol' : 'ul';
+                                listHtml = `<${listType} class="legal-list ${isNumbered ? 'numbered' : 'bulleted'}">`;
+                            }
+                            // Add list item
+                            const itemContent = trimmedLine.replace(/^(\d+\.|•|-|[A-Z]\.)\s/, '');
+                            listHtml += `<li>${itemContent}</li>`;
+                        } else {
+                            if (inList) {
+                                // End current list
+                                listHtml += `</${listType}>`;
+                                contentDiv.innerHTML += listHtml;
+                                inList = false;
+                                listHtml = '';
+                            }
+                            // Regular paragraph
+                            if (trimmedLine) {
+                                contentDiv.innerHTML += `<p>${trimmedLine}</p>`;
+                            }
+                        }
+                    });
+
+                    // Close any open list
+                    if (inList) {
+                        listHtml += `</${listType}>`;
+                        contentDiv.innerHTML += listHtml;
+                    }
+
+                    sectionDiv.appendChild(contentDiv);
                     contentContainer.appendChild(sectionDiv);
                 });
                 
@@ -353,42 +436,39 @@
             const container = document.body;
             const privacyContent = document.getElementById('privacy-content');
             const termsContent = document.getElementById('terms-content');
-            const toggleOptions = document.querySelectorAll('.toggle-option');
-
-            // Ensure the document is loaded
-            if (type === 'terms' && termsContent.children.length === 0) {
-                loadLegalDocument('terms');
-            } else if (type === 'privacy' && privacyContent.children.length === 0) {
-                loadLegalDocument('privacy');
-            }
-
+            
             if (type === 'terms') {
                 container.classList.remove('privacy-active');
                 container.classList.add('terms-active');
-                privacyContent.hidden = true;
+                privacyContent.privacyContent.hidden = true;
                 termsContent.hidden = false;
-                toggleOptions[0].style.color = '';
-                toggleOptions[1].style.color = 'white';
             } else {
                 container.classList.remove('terms-active');
                 container.classList.add('privacy-active');
                 privacyContent.hidden = false;
                 termsContent.hidden = true;
-                toggleOptions[0].style.color = 'white';
-                toggleOptions[1].style.color = '';
             }
         }
 
-        document.addEventListener('DOMContentLoaded', () => {
+        document.addEventListener('DOMContentLoaded', async () => {
             // Add click event listeners to toggle options
             const toggleOptions = document.querySelectorAll('.toggle-option');
             toggleOptions[0].addEventListener('click', () => switchContent('privacy'));
             toggleOptions[1].addEventListener('click', () => switchContent('terms'));
 
-            // Load privacy document by default
-            loadLegalDocument('privacy');
-            switchContent('privacy');
-            checkUpdate();
+            try {
+                // Load both documents initially
+                await Promise.all([
+                    loadLegalDocument('privacy'),
+                    loadLegalDocument('terms')
+                ]);
+                
+                // Switch to privacy view by default
+                switchContent('privacy');
+                checkUpdate();
+            } catch (error) {
+                console.error('Error during initialization:', error);
+            }
         });
     </script>
 </body>
