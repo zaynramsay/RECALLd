@@ -263,21 +263,47 @@
 
         async function loadLegalDocument(type) {
             try {
-                // Fetch the JSON file
+                // Fetch the JSON file with proper error handling
                 const response = await fetch(`datamodels/${type}.json`);
-                const text = await response.text();
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
                 
-                // Pre-process the JSON text to handle potential formatting issues
-                const cleanedText = text
-                    .replace(/\n\s+(?=["{}])/g, '\n') // Remove excessive indentation
-                    .replace(/\\n\s+/g, '\\n'); // Clean up escaped newlines
+                // Get the text content first
+                let text = await response.text();
                 
-                const data = JSON.parse(cleanedText);
+                // Log the first part of the response for debugging
+                console.log(`Raw response (first 100 chars): ${text.substring(0, 100)}`);
+                
+                // Clean the JSON string before parsing
+                // Remove any BOM characters that might be present
+                text = text.replace(/^\uFEFF/, '');
+                // Normalize line endings
+                text = text.replace(/\r\n/g, '\n');
+                
+                // Try to parse the cleaned JSON
+                let data;
+                try {
+                    data = JSON.parse(text);
+                } catch (parseError) {
+                    console.error('JSON Parse Error. Text sample:', text.substring(0, 200));
+                    console.error('Parse error details:', parseError);
+                    throw new Error(`JSON Parse error: ${parseError.message}`);
+                }
+        
+                // Validate the parsed data structure
+                if (!data.title || !data.lastUpdated || !Array.isArray(data.sections)) {
+                    throw new Error('Invalid document structure');
+                }
+        
                 const contentContainer = document.getElementById(`${type}-content`);
+                if (!contentContainer) {
+                    throw new Error('Content container not found');
+                }
                 
-                // Clear and prepare container
+                // Clear existing content
                 contentContainer.innerHTML = '';
-                
+        
                 // Add title
                 const titleElement = document.createElement('h1');
                 titleElement.textContent = data.title;
@@ -289,40 +315,33 @@
                 lastUpdatedElement.textContent = `Last updated: ${data.lastUpdated}`;
                 contentContainer.appendChild(lastUpdatedElement);
         
-                // Add sections with improved formatting
-                data.sections.forEach(section => {
+                // Add sections
+                data.sections.forEach((section, index) => {
                     const sectionDiv = document.createElement('div');
                     sectionDiv.className = 'section';
         
-                    // Add heading
                     const headingElement = document.createElement('h2');
                     headingElement.textContent = section.heading;
                     sectionDiv.appendChild(headingElement);
         
-                    // Add content with proper formatting
                     const contentElement = document.createElement('div');
                     contentElement.className = 'section-content';
-                    
-                    // Process the content to properly handle lists and formatting
-                    const formattedContent = section.content
-                        .split('\n')
-                        .map(line => line.trim())
-                        .filter(line => line)
-                        .join('\n');
-                    
-                    contentElement.textContent = formattedContent;
+                    contentElement.innerHTML = section.content
+                        .replace(/\n/g, '<br>')
+                        .replace(/\s{2,}/g, ' ')
+                        .trim();
                     sectionDiv.appendChild(contentElement);
         
                     contentContainer.appendChild(sectionDiv);
                 });
-                
+        
             } catch (error) {
-                console.error('Error details:', error);
+                console.error('Detailed error:', error);
                 const contentContainer = document.getElementById(`${type}-content`);
                 contentContainer.innerHTML = `
                     <div class="error-message">
                         <h2>Error Loading Document</h2>
-                        <p>Unable to load ${type} document. Please try again later.</p>
+                        <p>Unable to load ${type} document. Please check the console for details.</p>
                         <p>Error details: ${error.message}</p>
                     </div>`;
             }
