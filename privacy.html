@@ -263,45 +263,25 @@
 
         async function loadLegalDocument(type) {
             try {
-                // Fetch the JSON file with proper error handling
                 const response = await fetch(`datamodels/${type}.json`);
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 
-                // Get the text content first
                 let text = await response.text();
                 
-                // Log the first part of the response for debugging
-                console.log(`Raw response (first 100 chars): ${text.substring(0, 100)}`);
+                // Clean the JSON string
+                text = text
+                    .replace(/[\x00-\x1F\x7F-\x9F]/g, '')  // Remove control characters
+                    .replace(/\r\n/g, '\n')                 // Normalize line endings
+                    .replace(/\n\s+/g, '\n')               // Clean up indentation
+                    .replace(/\\/g, '\\\\')                // Escape backslashes
+                    .replace(/[\u2028\u2029]/g, '')        // Remove line/paragraph separators
+                    .trim();
                 
-                // Clean the JSON string before parsing
-                // Remove any BOM characters that might be present
-                text = text.replace(/^\uFEFF/, '');
-                // Normalize line endings
-                text = text.replace(/\r\n/g, '\n');
-                
-                // Try to parse the cleaned JSON
-                let data;
-                try {
-                    data = JSON.parse(text);
-                } catch (parseError) {
-                    console.error('JSON Parse Error. Text sample:', text.substring(0, 200));
-                    console.error('Parse error details:', parseError);
-                    throw new Error(`JSON Parse error: ${parseError.message}`);
-                }
-        
-                // Validate the parsed data structure
-                if (!data.title || !data.lastUpdated || !Array.isArray(data.sections)) {
-                    throw new Error('Invalid document structure');
-                }
-        
+                // Parse the cleaned JSON
+                const data = JSON.parse(text);
                 const contentContainer = document.getElementById(`${type}-content`);
-                if (!contentContainer) {
-                    throw new Error('Content container not found');
-                }
-                
-                // Clear existing content
                 contentContainer.innerHTML = '';
         
                 // Add title
@@ -315,26 +295,34 @@
                 lastUpdatedElement.textContent = `Last updated: ${data.lastUpdated}`;
                 contentContainer.appendChild(lastUpdatedElement);
         
-                // Add sections
-                data.sections.forEach((section, index) => {
+                // Add sections with proper formatting
+                data.sections.forEach(section => {
                     const sectionDiv = document.createElement('div');
                     sectionDiv.className = 'section';
         
+                    // Add heading
                     const headingElement = document.createElement('h2');
                     headingElement.textContent = section.heading;
                     sectionDiv.appendChild(headingElement);
         
+                    // Add content with proper formatting
                     const contentElement = document.createElement('div');
                     contentElement.className = 'section-content';
-                    contentElement.innerHTML = section.content
-                        .replace(/\n/g, '<br>')
-                        .replace(/\s{2,}/g, ' ')
-                        .trim();
+                    
+                    // Format the content with proper line breaks
+                    const formattedContent = section.content
+                        .split('\n')
+                        .map(line => line.trim())
+                        .join('\n');
+                    
+                    // Use pre-wrap to preserve formatting
+                    contentElement.style.whiteSpace = 'pre-wrap';
+                    contentElement.textContent = formattedContent;
                     sectionDiv.appendChild(contentElement);
         
                     contentContainer.appendChild(sectionDiv);
                 });
-        
+                
             } catch (error) {
                 console.error('Detailed error:', error);
                 const contentContainer = document.getElementById(`${type}-content`);
