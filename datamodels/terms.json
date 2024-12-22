@@ -1,46 +1,108 @@
 {
-    "title": "Terms of Service",
+    "title": "Comprehensive Terms of Service and User Agreement",
     "lastUpdated": "December 22, 2024",
     "sections": [
         {
             "heading": "Acceptance of Terms",
-            "content": "By accessing or using RECALLd, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions, you must not access or use our service."
+            "content": "CRITICAL NOTICE OF BINDING LEGAL AGREEMENT: By accessing, downloading, installing, or utilizing RECALLd (hereinafter 'SERVICE'), you irrevocably acknowledge and agree to be unconditionally bound by these comprehensive Terms of Service ('TERMS'). YOUR CONTINUED INTERACTION WITH THE SERVICE CONSTITUTES EXPLICIT, UNEQUIVOCAL ACCEPTANCE OF THESE TERMS. If you do not absolutely and unambiguously agree to each and every term, condition, provision, and stipulation contained herein, you are EXPRESSLY PROHIBITED from accessing, using, or interacting with the SERVICE in any manner whatsoever."
         },
         {
             "heading": "Modifications to Terms",
-            "content": "RECALLd reserves the right to modify or replace these Terms of Service at any time. We will provide notice of any material changes. Your continued use of RECALLd after such modifications constitutes your acceptance of the new Terms of Service."
+            "content": "RECALLd RESERVES THE ABSOLUTE AND UNILATERAL RIGHT to modify, amend, supplement, or entirely replace these Terms of Service at any time and without prior notification. Material modifications shall be communicated through reasonable means, which may include in-application notifications or updates. YOUR CONTINUED USE OF THE SERVICE FOLLOWING ANY MODIFICATIONS CONSTITUTES YOUR IRREVOCABLE ACCEPTANCE OF THE UPDATED TERMS. Users are EXPRESSLY OBLIGATED to periodically review these Terms to ensure comprehensive understanding of current conditions. No additional consent beyond continued service usage shall be required for term modifications."
         },
         {
             "heading": "License Grant",
-            "content": "Subject to these Terms, RECALLd grants you a limited, non-exclusive, non-transferable, and revocable license to access and use our service for personal, non-commercial purposes."
+            "content": "Subject to strict adherence to these Terms, RECALLd hereby grants you a STRICTLY LIMITED, NON-EXCLUSIVE, NON-TRANSFERABLE, IMMEDIATELY REVOCABLE LICENSE to access and utilize the SERVICE. This license is:
+            1. PERSONAL IN NATURE
+            2. STRICTLY NON-COMMERCIAL
+            3. SUBJECT TO IMMEDIATE TERMINATION AT THE SOLE DISCRETION OF RECALLd
+            Any deviation from these license parameters shall result in IMMEDIATE TERMINATION of access rights."
         },
         {
             "heading": "Disclaimer of Warranties",
-            "content": "RECALLd is provided 'as is' and 'as available' without any warranties of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement."
+            "content": "THE SERVICE IS PROVIDED ON AN 'AS IS' AND 'AS AVAILABLE' BASIS, WITH ABSOLUTELY NO WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. RECALLd EXPLICITLY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
+            1. IMPLIED WARRANTIES OF MERCHANTABILITY
+            2. FITNESS FOR A PARTICULAR PURPOSE
+            3. NON-INFRINGEMENT
+            4. ACCURACY OF INFORMATION
+            5. CONTINUOUS OR UNINTERRUPTED SERVICE AVAILABILITY
+            Users acknowledge and accept that the SERVICE may contain imperfections, errors, or operational limitations."
         },
         {
             "heading": "Limitation of Liability",
-            "content": "To the fullest extent permitted by applicable law, RECALLd and its affiliates, officers, employees, agents, partners, and licensors shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses."
+            "content": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, RECALLd AND ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS, AND LICENSORS SHALL BE CATEGORICALLY EXEMPT FROM LIABILITY FOR:
+            1. INDIRECT DAMAGES
+            2. INCIDENTAL DAMAGES
+            3. SPECIAL DAMAGES
+            4. CONSEQUENTIAL DAMAGES
+            5. PUNITIVE DAMAGES
+            
+            SPECIFIC EXEMPTIONS INCLUDE, BUT ARE NOT LIMITED TO:
+            - Loss of profits
+            - Loss of data
+            - Loss of use
+            - Loss of goodwill
+            - INTANGIBLE LOSSES
+
+            THE TOTAL AGGREGATE LIABILITY OF RECALLd SHALL NOT EXCEED THE LESSER OF:
+            A. THE AMOUNT PAID BY THE USER FOR SERVICE ACCESS
+            B. $50.00 USD"
         },
         {
             "heading": "User Responsibilities",
-            "content": "You agree to use RECALLd in compliance with all applicable laws and regulations. You are responsible for maintaining the confidentiality of any credentials associated with your use of the service."
+            "content": "By utilizing the SERVICE, you UNCONDITIONALLY AGREE to:
+            1. COMPLY ABSOLUTELY with all applicable local, state, federal, and international laws and regulations
+            2. MAINTAIN STRICT CONFIDENTIALITY of any credentials associated with SERVICE access
+            3. PREVENT UNAUTHORIZED ACCESS to your account
+            4. IMMEDIATELY NOTIFY RECALLd of any suspected security violations
+            5. USE THE SERVICE SOLELY FOR INTENDED, LAWFUL PURPOSES
+
+            FAILURE TO ADHERE TO THESE RESPONSIBILITIES MAY RESULT IN IMMEDIATE SERVICE TERMINATION."
         },
         {
             "heading": "Intellectual Property",
-            "content": "All rights, title, and interest in and to RECALLd (excluding content provided by users) are and will remain the exclusive property of RECALLd and its licensors."
+            "content": "ALL RIGHTS, TITLE, AND INTEREST in and to the SERVICE (EXCLUDING USER-PROVIDED CONTENT) ARE AND SHALL REMAIN THE EXCLUSIVE, PERPETUAL, AND IRREVOCABLE PROPERTY OF RECALLd AND ITS LICENSORS. This encompasses, but is not limited to:
+            1. SOURCE CODE
+            2. DESIGN ELEMENTS
+            3. UNDERLYING ALGORITHMS
+            4. GRAPHICAL INTERFACES
+            5. DOCUMENTATION
+
+            NO TRANSFER OF INTELLECTUAL PROPERTY RIGHTS IS IMPLIED OR GRANTED BY THESE TERMS."
         },
         {
             "heading": "Termination",
-            "content": "We reserve the right to terminate or suspend access to our service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms of Service."
+            "content": "RECALLd RESERVES THE ABSOLUTE AND UNCONDITIONAL RIGHT to:
+            1. TERMINATE or SUSPEND SERVICE ACCESS
+            2. TAKE ACTION WITHOUT PRIOR NOTICE
+            3. PROCEED WITHOUT LIABILITY
+            
+            TERMINATION MAY OCCUR FOR ANY REASON, INCLUDING BUT NOT LIMITED TO:
+            - BREACH OF TERMS
+            - SUSPECTED FRAUDULENT ACTIVITY
+            - VIOLATION OF APPLICABLE LAWS
+            - SOLE DISCRETION OF RECALLd
+
+            UPON TERMINATION, ALL RIGHTS GRANTED HEREIN SHALL IMMEDIATELY CEASE."
         },
         {
             "heading": "Governing Law",
-            "content": "These Terms shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law provisions."
+            "content": "THESE TERMS SHALL BE:
+            1. GOVERNED BY AND CONSTRUED IN ACCORDANCE with the laws of the United States
+            2. INTERPRETED WITHOUT REGARD to conflict of law provisions
+            3. SUBJECT TO EXCLUSIVE JURISDICTION of the federal and state courts in the jurisdiction where RECALLd is primarily established
+
+            ANY LEGAL ACTION OR PROCEEDING SHALL BE BROUGHT EXCLUSIVELY in the aforementioned jurisdictions."
         },
         {
             "heading": "Contact",
-            "content": "For any questions about these Terms of Service, please contact us at bysnapps@gmail.com"
+            "content": "FOR INQUIRIES, COMMUNICATIONS, OR LEGAL CORRESPONDENCE REGARDING THESE COMPREHENSIVE TERMS OF SERVICE, CONTACT:
+
+            EMAIL: bysnapps@gmail.com
+
+            ALL COMMUNICATIONS SHALL BE DEEMED EFFECTIVE UPON RECEIPT BY RECALLd.
+
+            BY UTILIZING THIS SERVICE, YOU ACKNOWLEDGE FULL UNDERSTANDING AND ACCEPTANCE OF THESE COMPREHENSIVE TERMS."
         }
     ]
 }
