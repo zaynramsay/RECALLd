@@ -104,16 +104,22 @@
     <script type="module">
         // App redirect functionality
         const APP = {
-            config: {
-                appUrl: 'recalld://open',
-                appStoreUrl: 'https://apps.apple.com/us/app/recalld/id6505043137',
-                redirectTimeout: 2500
-            },
+    config: {
+        appUrl: 'recalld://open',
+        appStoreUrl: 'https://apps.apple.com/us/app/recalld/id6505043137',
+        redirectTimeout: 2500
+    },
 
-            init() {
-                this.setupEventListeners();
-                this.handleRecallId();
-            },
+    init() {
+        // Check for privacy route first
+        if (window.location.pathname === '/privacy') {
+            window.location.href = '/privacy-policy.html';
+            return;
+        }
+        
+        this.setupEventListeners();
+        this.handleRecallId();
+    },
 
             setupEventListeners() {
                 // Smooth scrolling
