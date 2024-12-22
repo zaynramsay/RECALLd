@@ -240,6 +240,17 @@
             <div class="toggle-option" onclick="switchContent('terms')">Terms of Service</div>
         </div>
 
+        <script>
+            // Wrap switchContent to handle async nature
+            function handleSwitchContent(type) {
+                switchContent(type).catch(console.error);
+            }
+
+            // Replace existing onclick handlers
+            document.querySelector('.toggle-option:first-of-type').onclick = () => handleSwitchContent('privacy');
+            document.querySelector('.toggle-option:last-of-type').onclick = () => handleSwitchContent('terms');
+        </script>
+
         <div class="content-wrapper">
             <!-- Dynamic Content Sections -->
             <div id="privacy-content" class="content-section">
@@ -309,10 +320,17 @@
             }
         }
 
-        function switchContent(type) {
+        async function switchContent(type) {
             const container = document.body;
             const privacyContent = document.getElementById('privacy-content');
             const termsContent = document.getElementById('terms-content');
+
+            // Ensure the document is loaded
+            if (type === 'terms' && termsContent.children.length === 0) {
+                await loadLegalDocument('terms');
+            } else if (type === 'privacy' && privacyContent.children.length === 0) {
+                await loadLegalDocument('privacy');
+            }
 
             if (type === 'terms') {
                 container.classList.add('terms-active');
