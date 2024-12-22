@@ -125,7 +125,17 @@
         .content-wrapper {
             position: relative;
             width: 100%;
-            perspective: 2000px;
+            perspective: 3000px; /* Increased perspective for more dramatic effect */
+            transform-style: preserve-3d;
+            min-height: 600px; /* Add minimum height to prevent layout shift */
+        }
+
+        .content-wrapper {
+            position: relative;
+            width: 100%;
+            perspective: 3000px; /* Increased perspective for more dramatic effect */
+            transform-style: preserve-3d;
+            min-height: 600px; /* Add minimum height to prevent layout shift */
         }
 
         .content-section {
@@ -133,18 +143,69 @@
             padding: 3rem;
             border-radius: 1.5rem;
             box-shadow: var(--card-shadow);
-            transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
-            backface-visibility: hidden;
-            width: 100%;
-        }
-
-        .content-section[hidden] {
-            display: block;
-            opacity: 0;
-            transform: rotateY(180deg);
             position: absolute;
             top: 0;
             left: 0;
+            width: 100%;
+            backface-visibility: hidden;
+            transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+        }
+
+        /* Active state */
+        #privacy-content {
+            transform: rotateY(0deg);
+            z-index: 2;
+        }
+
+        #terms-content {
+            transform: rotateY(-180deg);
+            z-index: 1;
+        }
+
+        /* Flipped state */
+        .terms-active #privacy-content {
+            transform: rotateY(180deg);
+        }
+
+        .terms-active #terms-content {
+            transform: rotateY(0deg);
+        }
+
+        /* Remove hidden attribute handling since we're using absolute positioning */
+        .content-section[hidden] {
+            display: block;
+        }
+
+        /* Add content fade effect */
+        .content-section > * {
+            transition: opacity 0.3s ease;
+        }
+
+        .content-section.fade-content > * {
+            opacity: 0;
+        }
+
+        /* Optional: Add a nice gradient effect on the cards */
+        .content-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border-radius: 1.5rem;
+            background: linear-gradient(
+                135deg,
+                rgba(255, 255, 255, 0.1) 0%,
+                rgba(255, 255, 255, 0) 100%
+            );
+            pointer-events: none;
+        }
+
+        /* Optional: Add subtle border highlight */
+        .content-section {
+            border: 1px solid rgba(255, 255, 255, 0.1);
         }
 
         h1 {
@@ -437,26 +498,26 @@
             const container = document.body;
             const privacyContent = document.getElementById('privacy-content');
             const termsContent = document.getElementById('terms-content');
-            const toggleOptions = document.querySelectorAll('.toggle-option');
             
-            // First, ensure the document is loaded
-            if (type === 'terms' && termsContent.children.length === 0) {
-                loadLegalDocument('terms');
-            } else if (type === 'privacy' && privacyContent.children.length === 0) {
-                loadLegalDocument('privacy');
-            }
+            // Add fade out effect
+            privacyContent.classList.add('fade-content');
+            termsContent.classList.add('fade-content');
             
-            if (type === 'terms') {
-                container.classList.remove('privacy-active');
-                container.classList.add('terms-active');
-                privacyContent.hidden = true;
-                termsContent.hidden = false;
-            } else {
-                container.classList.remove('terms-active');
-                container.classList.add('privacy-active');
-                privacyContent.hidden = false;
-                termsContent.hidden = true;
-            }
+            setTimeout(() => {
+                if (type === 'terms') {
+                    container.classList.remove('privacy-active');
+                    container.classList.add('terms-active');
+                } else {
+                    container.classList.remove('terms-active');
+                    container.classList.add('privacy-active');
+                }
+                
+                // Remove fade effect after animation
+                setTimeout(() => {
+                    privacyContent.classList.remove('fade-content');
+                    termsContent.classList.remove('fade-content');
+                }, 400);
+            }, 300);
         }
 
         document.addEventListener('DOMContentLoaded', async () => {
