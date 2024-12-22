@@ -1,42 +1,67 @@
 {
-    "title": "Privacy Policy",
+    "title": "Comprehensive Privacy Policy and User Agreement",
     "lastUpdated": "December 22, 2024",
     "sections": [
         {
             "heading": "Information We Collect",
-            "content": "RECALLd is designed with your privacy in mind. We do not collect or store any personal information. The app functions by retrieving publicly available recall information from the FDA's API."
+            "content": "RECALLd is strategically designed with an paramount commitment to user privacy. The Application employs a rigorous data minimization approach, categorically affirming that no personal identifiable information (PII) is collected, stored, or processed. The sole mechanism of data interaction is through the retrieval of publicly available recall information via the U.S. Food and Drug Administration's (FDA) publicly accessible Application Programming Interface (API)."
         },
         {
             "heading": "Use of FDA API",
-            "content": "Our app interacts with the FDA's public API to retrieve recall information. When making requests to this API, only the information necessary for the request (such as search parameters) is sent. No personal user data is transmitted to the FDA through this process."
+            "content": "The Application interfaces exclusively with the FDA's public API through a meticulously controlled protocol. API requests are strictly limited to the minimal information necessary for functional execution. No user-specific, personally attributable data is transmitted during these interactions. Each API request is designed to protect user anonymity and maintain the highest standards of data privacy."
         },
         {
             "heading": "Data Storage",
-            "content": "Any data stored on your device (such as your preferences or search history) is kept locally and is not transmitted to our servers or any third parties."
+            "content": "All application-related data, including but not limited to user preferences and search history, are:
+            1. Stored exclusively within the user's local device environment
+            2. Completely isolated from external transmission
+            3. Maintained within the device's native storage infrastructure
+            This approach ensures absolute data localization and prevents any unauthorized data access or transmission."
         },
         {
             "heading": "Notifications",
-            "content": "If you enable notifications, these are handled by your device's operating system. We do not collect or store any information related to notifications."
+            "content": "Notification mechanisms are managed entirely through the user's operating system infrastructure. The Application categorically disclaims any capability or intention to:
+            1. Collect notification-related metadata
+            2. Store notification interaction information
+            3. Utilize notifications for tracking or monitoring purposes"
         },
         {
             "heading": "Data Security",
-            "content": "While we do not collect personal data, we have implemented measures to ensure the app's security and protect against unauthorized access or data breaches."
+            "content": "While the Application maintains a minimal data interaction approach, comprehensive security protocols are implemented to:
+            1. Prevent unauthorized access attempts
+            2. Mitigate potential security vulnerabilities
+            3. Ensure application integrity
+            Users acknowledge that no digital system can provide absolute security guarantees."
         },
         {
             "heading": "Third-Party Links",
-            "content": "Our app may contain links to external sites, including official FDA pages. We are not responsible for the privacy practices or content of these external sites."
+            "content": "The Application may contain hyperlinks to external websites, including official FDA resources. The Application explicitly and categorically disclaims:
+            1. Responsibility for external site content
+            2. Liability for external site privacy practices
+            3. Guarantee of external site security standards
+            Users are advised to exercise discretion when accessing external links."
         },
         {
             "heading": "Children's Privacy",
-            "content": "Our app does not knowingly collect any personal information from children under 13."
+            "content": "RECALLd is expressly not designed or intended for individuals under 13 years of age. The Application implements stringent measures to:
+            1. Prevent intentional collection of information from minors
+            2. Ensure no data processing involving individuals under 13
+            3. Maintain absolute compliance with children's privacy protection standards"
         },
         {
             "heading": "Changes to This Policy",
-            "content": "We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy in the app."
+            "content": "This Privacy Policy may be unilaterally modified at any time. Modifications become immediately effective upon posting within the Application. Users acknowledge and agree that:
+            1. Continued use of the Application constitutes explicit acceptance of modified terms
+            2. No additional, separate consent shall be required upon policy updates
+            3. Users are obligated to periodically review the most current version of this Policy"
         },
         {
             "heading": "Contact Us",
-            "content": "If you have any questions about this Privacy Policy, please contact us at bysnapps@gmail.com"
+            "content": "For any inquiries, clarifications, or communications regarding this Comprehensive Privacy Policy and User Agreement, please contact:
+
+            Email: bysnapps@gmail.com
+
+            By providing this contact mechanism, the Application demonstrates its commitment to transparency and user communication."
         }
     ]
 }
