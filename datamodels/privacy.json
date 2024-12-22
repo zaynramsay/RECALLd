@@ -1,0 +1,42 @@
+{
+    "title": "Privacy Policy",
+    "lastUpdated": "December 22, 2024",
+    "sections": [
+        {
+            "heading": "Information We Collect",
+            "content": "RECALLd is designed with your privacy in mind. We do not collect or store any personal information. The app functions by retrieving publicly available recall information from the FDA's API."
+        },
+        {
+            "heading": "Use of FDA API",
+            "content": "Our app interacts with the FDA's public API to retrieve recall information. When making requests to this API, only the information necessary for the request (such as search parameters) is sent. No personal user data is transmitted to the FDA through this process."
+        },
+        {
+            "heading": "Data Storage",
+            "content": "Any data stored on your device (such as your preferences or search history) is kept locally and is not transmitted to our servers or any third parties."
+        },
+        {
+            "heading": "Notifications",
+            "content": "If you enable notifications, these are handled by your device's operating system. We do not collect or store any information related to notifications."
+        },
+        {
+            "heading": "Data Security",
+            "content": "While we do not collect personal data, we have implemented measures to ensure the app's security and protect against unauthorized access or data breaches."
+        },
+        {
+            "heading": "Third-Party Links",
+            "content": "Our app may contain links to external sites, including official FDA pages. We are not responsible for the privacy practices or content of these external sites."
+        },
+        {
+            "heading": "Children's Privacy",
+            "content": "Our app does not knowingly collect any personal information from children under 13."
+        },
+        {
+            "heading": "Changes to This Policy",
+            "content": "We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy in the app."
+        },
+        {
+            "heading": "Contact Us",
+            "content": "If you have any questions about this Privacy Policy, please contact us at bysnapps@gmail.com"
+        }
+    ]
+}
