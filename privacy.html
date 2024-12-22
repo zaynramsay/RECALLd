@@ -66,6 +66,7 @@
             align-items: center;
         }
 
+        /* Toggle switch base styles */
         .toggle-switch {
             display: flex;
             background: var(--switch-bg);
@@ -78,18 +79,19 @@
             -webkit-backdrop-filter: blur(20px);
             border: 1px solid var(--border-color);
         }
-
+        
         .toggle-option {
             padding: 0.625rem 2rem;
             cursor: pointer;
             position: relative;
             z-index: 1;
-            transition: color 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            transition: color 0.3s ease;
             font-size: 0.875rem;
             font-weight: 500;
             white-space: nowrap;
+            color: var(--primary-text);
         }
-
+        
         .toggle-background {
             position: absolute;
             height: calc(100% - 0.5rem);
@@ -97,26 +99,25 @@
             width: calc(50% - 0.25rem);
             background: var(--switch-selected);
             border-radius: 1.5rem;
-            transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            transition: transform 0.3s ease;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
-
+        
+        /* Position rules for toggle states */
         .privacy-active .toggle-background {
-            transform: translateX(0);
-        }
-        .privacy-active .toggle-option {
-            color: var(--primary-text);
-        }
-        .privacy-active .toggle-option:first-child {
-            color: white;
+            transform: translateX(0.25rem);
         }
         
         .terms-active .toggle-background {
-            transform: translateX(calc(100% + 0.25rem));
+            transform: translateX(calc(100% - 0.25rem));
         }
-        .terms-active .toggle-option {
+        
+        /* Text color rules for active states */
+        .toggle-option {
             color: var(--primary-text);
         }
+        
+        .privacy-active .toggle-option:first-child,
         .terms-active .toggle-option:last-child {
             color: white;
         }
@@ -436,11 +437,19 @@
             const container = document.body;
             const privacyContent = document.getElementById('privacy-content');
             const termsContent = document.getElementById('terms-content');
+            const toggleOptions = document.querySelectorAll('.toggle-option');
+            
+            // First, ensure the document is loaded
+            if (type === 'terms' && termsContent.children.length === 0) {
+                loadLegalDocument('terms');
+            } else if (type === 'privacy' && privacyContent.children.length === 0) {
+                loadLegalDocument('privacy');
+            }
             
             if (type === 'terms') {
                 container.classList.remove('privacy-active');
                 container.classList.add('terms-active');
-                privacyContent.privacyContent.hidden = true;
+                privacyContent.hidden = true;
                 termsContent.hidden = false;
             } else {
                 container.classList.remove('terms-active');
