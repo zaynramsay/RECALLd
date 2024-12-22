@@ -101,13 +101,18 @@
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
 
+        .privacy-active .toggle-background {
+            transform: translateX(0);
+        }
+        .privacy-active .toggle-option {
+            color: white !important;
+        }
+        
         .terms-active .toggle-background {
             transform: translateX(calc(100% + 0.25rem));
         }
-
-        .terms-active .toggle-option:last-child,
-        .terms-active .toggle-option:first-child:not(:last-child) {
-            color: white;
+        .terms-active .toggle-option {
+            color: white !important;
         }
 
         .content-wrapper {
