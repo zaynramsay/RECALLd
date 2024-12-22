@@ -1,104 +1,204 @@
-import React, { useState, useEffect } from 'react';
-import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="color-scheme" content="dark light">
+    <title>Privacy Policy - RECALLd</title>
+    <style>
+        :root {
+            --primary-bg: #ffffff;
+            --secondary-bg: #f3f4f6;
+            --primary-text: #111827;
+            --secondary-text: #4b5563;
+            --accent-color: #3b82f6;
+            --border-color: #e5e7eb;
+            --alert-bg: #dbeafe;
+            --alert-text: #1e40af;
+        }
 
-const PrivacyPolicy = () => {
-  const [lastChecked, setLastChecked] = useState(() => {
-    return localStorage.getItem('lastPrivacyCheck') || null;
-  });
-  const [showUpdateAlert, setShowUpdateAlert] = useState(false);
-  
-  const CURRENT_PRIVACY_VERSION = '2024-12-22'; // Current privacy policy date
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary-bg: #111827;
+                --secondary-bg: #1f2937;
+                --primary-text: #f9fafb;
+                --secondary-text: #d1d5db;
+                --accent-color: #60a5fa;
+                --border-color: #374151;
+                --alert-bg: rgba(30, 64, 175, 0.2);
+                --alert-text: #93c5fd;
+            }
+        }
 
-  useEffect(() => {
-    const checkPrivacyUpdate = () => {
-      const lastCheck = localStorage.getItem('lastPrivacyCheck');
-      if (!lastCheck) {
-        localStorage.setItem('lastPrivacyCheck', CURRENT_PRIVACY_VERSION);
-        return;
-      }
-      
-      if (lastCheck !== CURRENT_PRIVACY_VERSION) {
-        setShowUpdateAlert(true);
-        localStorage.setItem('lastPrivacyCheck', CURRENT_PRIVACY_VERSION);
-      }
-    };
-    
-    checkPrivacyUpdate();
-  }, []);
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-  return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-800">
-      {showUpdateAlert && (
-        <Alert className="mb-6 bg-blue-50 dark:bg-blue-900/20 border-blue-200 dark:border-blue-800">
-          <AlertTitle className="text-blue-800 dark:text-blue-200">
-            Privacy Policy Update
-          </AlertTitle>
-          <AlertDescription className="text-blue-600 dark:text-blue-300">
-            Our privacy policy has been updated since your last visit. Please review the changes.
-          </AlertDescription>
-        </Alert>
-      )}
-      
-      <main className="max-w-4xl mx-auto px-6 py-12">
-        <a href="/" className="inline-flex items-center space-x-2 text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 transition-colors mb-8">
-          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" className="transition-transform group-hover:-translate-x-1">
-            <path d="M15.8333 10H4.16666M4.16666 10L9.16666 15M4.16666 10L9.16666 5" 
-                  stroke="currentColor" 
-                  stroke-width="1.5" 
-                  stroke-linecap="round" 
-                  stroke-linejoin="round"/>
-          </svg>
-          <span>Back to Home</span>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: var(--secondary-bg);
+            color: var(--primary-text);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        .alert {
+            background: var(--alert-bg);
+            color: var(--alert-text);
+            padding: 1rem;
+            border-radius: 0.5rem;
+            margin-bottom: 2rem;
+            display: none;
+        }
+
+        .alert.visible {
+            display: block;
+            animation: slideDown 0.3s ease-out;
+        }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            color: var(--secondary-text);
+            text-decoration: none;
+            margin-bottom: 2rem;
+            gap: 0.5rem;
+        }
+
+        .back-link:hover {
+            color: var(--primary-text);
+        }
+
+        .content {
+            background: var(--primary-bg);
+            padding: 2rem;
+            border-radius: 1rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 2.25rem;
+            margin-bottom: 0.5rem;
+            color: var(--primary-text);
+        }
+
+        .last-updated {
+            color: var(--secondary-text);
+            margin-bottom: 2rem;
+        }
+
+        .section {
+            margin-bottom: 2rem;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--primary-text);
+        }
+
+        p {
+            color: var(--secondary-text);
+            margin-bottom: 1rem;
+        }
+
+        a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @keyframes slideDown {
+            from {
+                transform: translateY(-1rem);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .contact-section {
+            border-top: 1px solid var(--border-color);
+            margin-top: 2rem;
+            padding-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="update-alert" class="alert">
+            <strong>Privacy Policy Update</strong>
+            <p>Our privacy policy has been updated since your last visit. Please review the changes.</p>
+        </div>
+
+        <a href="/" class="back-link">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M15.8333 10H4.16666M4.16666 10L9.16666 15M4.16666 10L9.16666 5" 
+                    stroke="currentColor" 
+                    stroke-width="1.5" 
+                    stroke-linecap="round" 
+                    stroke-linejoin="round"/>
+            </svg>
+            Back to Home
         </a>
 
-        <div className="space-y-12 bg-white dark:bg-gray-900 rounded-2xl shadow-lg p-8">
-          <header className="border-b border-gray-200 dark:border-gray-800 pb-6">
-            <h1 className="text-4xl font-bold text-gray-900 dark:text-gray-100">Privacy Policy</h1>
-            <p className="mt-2 text-gray-600 dark:text-gray-400">Last updated: December 22, 2024</p>
-          </header>
+        <div class="content">
+            <h1>Privacy Policy</h1>
+            <p class="last-updated">Last updated: December 22, 2024</p>
 
-          {[
-            {
-              title: "Information We Collect",
-              content: "RECALLd is designed with your privacy in mind. We do not collect or store any personal information. The app functions by retrieving publicly available recall information from the FDA's API."
-            },
-            {
-              title: "Use of FDA API",
-              content: "Our app interacts with the FDA's public API to retrieve recall information. When making requests to this API, only the information necessary for the request (such as search parameters) is sent. No personal user data is transmitted to the FDA through this process."
-            },
-            {
-              title: "Data Storage",
-              content: "Any data stored on your device (such as your preferences or search history) is kept locally and is not transmitted to our servers or any third parties."
-            }
-          ].map((section, index) => (
-            <section key={index} className="animate-fadeIn">
-              <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">
-                {section.title}
-              </h2>
-              <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                {section.content}
-              </p>
-            </section>
-          ))}
+            <div class="section">
+                <h2>Information We Collect</h2>
+                <p>RECALLd is designed with your privacy in mind. We do not collect or store any personal information. The app functions by retrieving publicly available recall information from the FDA's API.</p>
+            </div>
 
-          <footer className="border-t border-gray-200 dark:border-gray-800 pt-6 mt-12">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">
-              Contact Us
-            </h2>
-            <p className="text-gray-600 dark:text-gray-400">
-              If you have any questions about this Privacy Policy, please contact us at{' '}
-              <a 
-                href="mailto:bysnapps@gmail.com"
-                className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors"
-              >
-                bysnapps@gmail.com
-              </a>
-            </p>
-          </footer>
+            <div class="section">
+                <h2>Use of FDA API</h2>
+                <p>Our app interacts with the FDA's public API to retrieve recall information. When making requests to this API, only the information necessary for the request (such as search parameters) is sent. No personal user data is transmitted to the FDA through this process.</p>
+            </div>
+
+            <div class="section">
+                <h2>Data Storage</h2>
+                <p>Any data stored on your device (such as your preferences or search history) is kept locally and is not transmitted to our servers or any third parties.</p>
+            </div>
+
+            <div class="contact-section">
+                <h2>Contact Us</h2>
+                <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:bysnapps@gmail.com">bysnapps@gmail.com</a></p>
+            </div>
         </div>
-      </main>
     </div>
-  );
-};
 
-export default PrivacyPolicy;
+    <script>
+        const CURRENT_PRIVACY_VERSION = '2024-12-22';
+        
+        function checkPrivacyUpdate() {
+            const lastCheck = localStorage.getItem('lastPrivacyCheck');
+            
+            if (!lastCheck) {
+                localStorage.setItem('lastPrivacyCheck', CURRENT_PRIVACY_VERSION);
+                return;
+            }
+            
+            if (lastCheck !== CURRENT_PRIVACY_VERSION) {
+                document.getElementById('update-alert').classList.add('visible');
+                localStorage.setItem('lastPrivacyCheck', CURRENT_PRIVACY_VERSION);
+            }
+        }
+
+        // Check for updates when the page loads
+        document.addEventListener('DOMContentLoaded', checkPrivacyUpdate);
+    </script>
+</body>
+</html>
