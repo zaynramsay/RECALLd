@@ -105,12 +105,8 @@
             transform: translateX(calc(100% + 0.25rem));
         }
 
-        .toggle-option {
-            color: var(--secondary-text);
-        }
-
         .terms-active .toggle-option:last-child,
-        :not(.terms-active) .toggle-option:first-child {
+        .terms-active .toggle-option:first-child:not(:last-child) {
             color: white;
         }
 
