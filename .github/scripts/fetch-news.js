@@ -8,6 +8,10 @@ if (!API_KEY) {
     process.exit(1);
 }
 
+// Add debugging (key length only for security)
+console.log('API Key length:', API_KEY.length);
+console.log('First 4 chars (for verification):', API_KEY.substring(0, 4));
+
 const OUTPUT_FILE = path.join(__dirname, '../../data/news.json');
 
 // Ensure data directory exists
@@ -23,7 +27,9 @@ console.log('Starting news fetch...');
 const query = encodeURIComponent('food recall');
 const url = `https://newsapi.org/v2/everything?q=${query}&language=en&sortBy=publishedAt&pageSize=100&apiKey=${API_KEY}`;
 
-console.log('Using URL (without API key):', url.replace(API_KEY, 'XXXXX'));
+// Log full URL for debugging (with key truncated)
+const debugUrl = url.replace(API_KEY, API_KEY.substring(0, 4) + '...');
+console.log('Debug URL:', debugUrl);
 
 https.get(url, (resp) => {
     if (resp.statusCode !== 200) {
