@@ -1,8 +1,8 @@
 name: Fetch News
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual triggers
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   fetch-news:
@@ -19,7 +19,7 @@ jobs:
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: |
-          node ./.github/scripts/fetch-news.js
+          node .github/scripts/fetch-news.js
           
       - name: Commit and Push
         run: |
