@@ -19,8 +19,8 @@ if (!fs.existsSync(dataDir)) {
 
 console.log('Starting news fetch...');
 
-// More inclusive query for food recalls
-const query = encodeURIComponent('FDA food recall OR USDA food recall OR food safety alert OR product recall food');
+// Simplified query
+const query = encodeURIComponent('food recall');
 const url = `https://newsapi.org/v2/everything?q=${query}&language=en&sortBy=publishedAt&pageSize=100&apiKey=${API_KEY}`;
 
 console.log('Using URL (without API key):', url.replace(API_KEY, 'XXXXX'));
@@ -50,7 +50,7 @@ https.get(url, (resp) => {
                 lastUpdated: timestamp,
                 articles: news.articles,
                 totalResults: news.totalResults,
-                query: query // Store the query for reference
+                query: query
             };
             
             fs.writeFileSync(OUTPUT_FILE, JSON.stringify(storage, null, 2));
