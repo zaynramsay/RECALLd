@@ -19,6 +19,7 @@ jobs:
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: |
+          echo "Key length: ${#NEWS_API_KEY}"  # show length without revealing key
           node .github/scripts/fetch-news.js
           
       - name: Commit and Push
