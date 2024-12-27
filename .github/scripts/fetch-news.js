@@ -19,14 +19,15 @@ if (!fs.existsSync(dataDir)) {
 
 console.log('Starting news fetch...');
 
-// Create a properly encoded query string for food recalls
-const query = encodeURIComponent('(FDA OR USDA) AND ("food recall" OR "product recall")');
-const url = `https://newsapi.org/v2/everything?q=${query}&language=en&sortBy=publishedAt&pageSize=100&domains=fda.gov,usda.gov,foodsafety.gov&apiKey=${API_KEY}`;
+// More inclusive query for food recalls
+const query = encodeURIComponent('FDA food recall OR USDA food recall OR food safety alert OR product recall food');
+const url = `https://newsapi.org/v2/everything?q=${query}&language=en&sortBy=publishedAt&pageSize=100&apiKey=${API_KEY}`;
+
+console.log('Using URL (without API key):', url.replace(API_KEY, 'XXXXX'));
 
 https.get(url, (resp) => {
     if (resp.statusCode !== 200) {
         console.error('API request failed:', resp.statusCode, resp.statusMessage);
-        console.error('URL:', url.replace(API_KEY, 'REDACTED')); // Log URL without API key
         process.exit(1);
     }
 
@@ -48,7 +49,8 @@ https.get(url, (resp) => {
             const storage = {
                 lastUpdated: timestamp,
                 articles: news.articles,
-                totalResults: news.totalResults
+                totalResults: news.totalResults,
+                query: query // Store the query for reference
             };
             
             fs.writeFileSync(OUTPUT_FILE, JSON.stringify(storage, null, 2));
