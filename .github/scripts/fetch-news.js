@@ -2,15 +2,23 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
+// Enhanced debugging for API key
 const API_KEY = process.env.NEWS_API_KEY;
+console.log('Environment variables available:', Object.keys(process.env));
+console.log('API Key exists:', !!API_KEY);
+console.log('API Key length:', API_KEY ? API_KEY.length : 0);
+console.log('First 4 chars:', API_KEY ? API_KEY.substring(0, 4) : 'N/A');
+console.log('Last 4 chars:', API_KEY ? API_KEY.slice(-4) : 'N/A');
+
 if (!API_KEY) {
     console.error('NEWS_API_KEY environment variable is not set');
     process.exit(1);
 }
 
-// Add debugging (key length only for security)
-console.log('API Key length:', API_KEY.length);
-console.log('First 4 chars (for verification):', API_KEY.substring(0, 4));
+if (API_KEY.length !== 32) {
+    console.error(`Invalid API key length: ${API_KEY.length} (expected 32)`);
+    process.exit(1);
+}
 
 const OUTPUT_FILE = path.join(__dirname, '../../data/news.json');
 
@@ -23,20 +31,35 @@ if (!fs.existsSync(dataDir)) {
 
 console.log('Starting news fetch...');
 
-// Simplified query
-const query = encodeURIComponent('food recall');
-const url = `https://newsapi.org/v2/everything?q=${query}&language=en&sortBy=publishedAt&pageSize=100&apiKey=${API_KEY}`;
+// Get date range for the API query
+function getDateRange() {
+    const end = new Date();
+    const start = new Date();
+    start.setDate(start.getDate() - 30); // Last 30 days
+    
+    return {
+        from: start.toISOString().split('T')[0],
+        to: end.toISOString().split('T')[0]
+    };
+}
 
-// Log full URL for debugging (with key truncated)
+// Construct the API URL with date range
+const query = encodeURIComponent('food recall');
+const dates = getDateRange();
+const url = `https://newsapi.org/v2/everything?` +
+    `q=${query}&` +
+    `language=en&` +
+    `from=${dates.from}&` +
+    `to=${dates.to}&` +
+    `sortBy=publishedAt&` +
+    `pageSize=100&` +
+    `apiKey=${API_KEY}`;
+
+// Log URL for debugging (with key truncated)
 const debugUrl = url.replace(API_KEY, API_KEY.substring(0, 4) + '...');
 console.log('Debug URL:', debugUrl);
 
 https.get(url, (resp) => {
-    if (resp.statusCode !== 200) {
-        console.error('API request failed:', resp.statusCode, resp.statusMessage);
-        process.exit(1);
-    }
-
     let data = '';
     
     resp.on('data', (chunk) => {
@@ -45,9 +68,16 @@ https.get(url, (resp) => {
     
     resp.on('end', () => {
         try {
+            // Log the raw response for debugging
+            console.log('Raw API Response:', data);
+            
             const news = JSON.parse(data);
             if (news.status === 'error') {
-                console.error('API returned error:', news.message);
+                console.error('API Error Details:', {
+                    status: news.status,
+                    code: news.code,
+                    message: news.message
+                });
                 process.exit(1);
             }
             
@@ -68,6 +98,9 @@ https.get(url, (resp) => {
         }
     });
 }).on('error', (err) => {
-    console.error('Error fetching news:', err);
+    console.error('Error fetching news:', err.message);
+    if (err.response) {
+        console.error('Response Headers:', err.response.headers);
+    }
     process.exit(1);
 });
