@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-28T21:17:20.310Z",
+  "lastUpdated": "2024-12-28T21:37:31.102Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Bill Chappell",
+      "title": "Costco egg recall for salmonella receives FDA's most severe designation",
+      "description": "The FDA has classified its recall of eggs sold under Costco's Kirkland brand as a Class I recall, a designation reserved for instances of the highest potential health risk — including death.",
+      "url": "https://www.npr.org/2024/12/27/nx-s1-5241071/fda-costco-egg-recall-notice-severe",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/960x540+30+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F54%2F0822e5384374831ae5fe1ac935f5%2Fimage-1-101.jpg",
+      "publishedAt": "2024-12-27T21:35:48Z",
+      "content": "The Food and Drug Administration has classified its recall of eggs sold under Costco's Kirkland brand as a Class I recall, a designation reserved for instances of the highest potential health risk in… [+2299 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -359,7 +372,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Experts warn of a surge in activity associated FICORA and Kaiten botnets",
-      "description": "FortiGuard Labs observed increased activity from two botnets, the Mirai variant “FICORA” and the Kaiten variant “CAPSAICIN”. FortiGuard Labs researchers observed a surge in activity associated with two botnets, the Mirai variant “FICORA” and the Kaiten varian…",
+      "description": "FortiGuard Labs observed increased activity from two botnets, the Mirai variant “FICORA�� and the Kaiten variant “CAPSAICIN”. FortiGuard Labs researchers observed a surge in activity associated with two botnets, the Mirai variant “FICORA” and the Kaiten varian…",
       "url": "https://securityaffairs.com/172373/uncategorized/surge-ficora-kaiten-botnets.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-31.png",
       "publishedAt": "2024-12-27T11:24:13Z",
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/oregon-house-cat-died-eating-95851971.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-12-26T00:42:30Z",
       "content": "An Oregon house cat died after eating pet food that tested positive for bird flu, Oregon authorities said, prompting a recall of raw frozen pet food that was sold nationwide.\r\nNorthwest Naturals, a p… [+2084 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Oregon house cat died after eating pet food that tested positive for bird flu - The Associated Press",
-      "description": "Oregon house cat died after eating pet food that tested positive for bird fluThe Associated Press Bird flu kills 20 big cats at US animal sanctuaryBBC.com Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive fo…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175753729",
-      "urlToImage": null,
-      "publishedAt": "2024-12-26T00:12:09Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ],
-  "totalResults": 1044,
+  "totalResults": 1045,
   "query": "food%20recall"
 }
