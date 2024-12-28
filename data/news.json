@@ -1,6 +1,565 @@
 {
-  "lastUpdated": "2024-12-27T22:52:13.098Z",
+  "lastUpdated": "2024-12-28T20:47:04.900Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Crooksandliars.com"
+      },
+      "author": "Susie Madrak",
+      "title": "Oregon House Cat Dies Of Bird Flu After Eating Raw Pet Food",
+      "description": "An Oregon house cat died after eating pet food that tested positive for bird flu, Oregon authorities said, prompting a recall of raw frozen pet food that was sold nationwide. Via HuffPost:\nNorthwest Naturals, a pet food company based in Portland, Oregon, said…",
+      "url": "https://crooksandliars.com/2024/12/oregon-house-cat-dies-bird-flu-after",
+      "urlToImage": "https://crooksandliars.com/files/embeds/2024/12/63633.jpg",
+      "publishedAt": "2024-12-27T20:37:51Z",
+      "content": "An Oregon house cat died after eating pet food that tested positive for bird flu, Oregon authorities said, prompting a recall of raw frozen pet food that was sold nationwide. Via HuffPost:Northwest N… [+1317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Cat death linked to bird flu prompts warning about feeding raw meat to felines - KOMO News",
+      "description": "Cat death linked to bird flu prompts warning about feeding raw meat to felinesKOMO News Cats can get sick with bird flu. Here’s how to protect themThe Associated Press Cat food recalled after death linked to bird flu contaminationUSA TODAY Popular cat food re…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175775953",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T20:32:15Z",
+      "content": "It is wrong always, everywhere and for everyone to believe anything upon\r\ninsufficient evidence.\r\n- W. K. Clifford, British philosopher, circa 1876"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Mary Kekatos",
+      "title": "Systane eye drops recalled due to fungal contamination: FDA",
+      "description": "It is unclear what type of fungus the eye drops are contaminated with.",
+      "url": "https://abcnews.go.com/Health/systane-eye-drops-recalled-due-fungal-contamination-fda/story?id=117145512",
+      "urlToImage": "https://i.abcnewsfe.com/a/a04a6ba6-5127-4e48-a8b4-505db1873936/systane-eye-drop-recall-1-ht-jm-241227_1735318711585_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-27T20:28:35Z",
+      "content": "One lot of eye drops is being voluntarily recalled due to potential fungal contamination, the U.S. Food and Drug Administration announced earlier this week.\r\nThe eye drops, Systane Lubricant Eye Drop… [+2828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Samantha Kelly",
+      "title": "Pet Food Recall Linked to Bird Flu Contamination: What to Know",
+      "description": "Northwest Naturals says a batch of Feline Turkey Recipe tested positive for bird flu. One cat has died in connection with the product.",
+      "url": "https://www.cnet.com/health/pet-food-recall-linked-to-bird-flu-contamination-what-to-know/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/5b65c50a1f84a240ea692bb8b58c00e766e9bea8/hub/2024/12/27/7c4dea26-2f20-4d9c-b3df-106b731b0162/gettyimages-145561913.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-12-27T20:13:06Z",
+      "content": "Northwest Naturals, a pet food company, is recalling a batch of its raw turkey pet food after a cat died from bird flu linked to the product.\r\nIn a press release this week, the Oregon-based company s… [+2002 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Issam AHMED",
+      "title": "New Bird Flu Mutation Discovered In US As Cat Infections Cause Alarm",
+      "description": "The ongoing spread of bird flu in the United States has alarmed experts -- not just because of human cases causing severe illness, but also due to troubling new instances of infections in cats.",
+      "url": "https://www.ibtimes.com/new-bird-flu-mutation-discovered-us-cat-infections-cause-alarm-3757074",
+      "urlToImage": "https://d.ibtimes.com/en/full/4571760/colorized-transmission-electron-micrograph-avian-influenza-h5n1-virus-particles-blue-grown.jpg",
+      "publishedAt": "2024-12-27T19:45:17Z",
+      "content": "The ongoing spread of bird flu in the United States has alarmed experts -- not just because of human cases causing severe illness, but also due to troubling new instances of infections in cats.\r\nA sa… [+3880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "AFP",
+      "title": "New bird flu mutation discovered in US as cat infections cause alarm",
+      "description": "The ongoing spread of bird flu in the United States has alarmed experts — not just because of human cases causing severe illness, but also due to troubling new instances of infections in cats.  A sample of the virus found in a critically ill patient in the Un…",
+      "url": "https://www.digitaljournal.com/world/new-bird-flu-mutation-discovered-in-us-as-cat-infections-cause-alarm/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/12/f61fd5e5c3a1887ecb650afa77a659729a2efba2-768x576.jpg",
+      "publishedAt": "2024-12-27T19:43:15Z",
+      "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and… [+4162 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Feed",
+      "title": "Is it possible for cats to get bird flu? Popular pet food brand issues emergency recall",
+      "description": "A cat in Oregon died from bird flu, which was linked to contaminated pet food, prompting a nationwide recall. Experts warn that avian flu can infect both pets and humans.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/is-it-possible-for-cats-to-get-bird-flu-popular-pet-food-brand-issues-emergency-recall/articleshow/116723423.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116723445,width-1200,height-630,imgsize-22196,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-27T19:00:52Z",
+      "content": "State health officials and the Centres for Disease Control and Prevention (CDC) are keeping a close eye on the household for signs of bird flu. The CDC recently discovered the first severe human case… [+3651 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wonkette.com"
+      },
+      "author": "Gary Legum",
+      "title": "Should You Panic About The Bird Flu? Probably Not! But Maybe!",
+      "description": "Could be bad. Could be nothing. Let's see how it lands!",
+      "url": "https://www.wonkette.com/p/should-you-panic-about-the-bird-flu",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd33dccd4-ae5b-46d8-83c3-9d48ff25f192_800x533.jpeg",
+      "publishedAt": "2024-12-27T18:35:59Z",
+      "content": "Call it Revenge of the Birds.\r\nNo one knows exactly how many birds are killed by outdoor cats in a year. But most estimates range from 1.4 to 3 billion in the United States alone. That is a lot of mu… [+6047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Gardners Candies Issues Allergy Alert on Undeclared Tree Nuts in Cappuccino Meltaway® Bars and Gardners Meltaway Treat Boxes Containing Cappuccino Meltaway Bars",
+      "description": "Gardners Candies of Tyrone, PA is recalling its 1.25 ounce packages of Gardners Candies brand Cappuccino Meltaway® Bars because they may contain undeclared tree nuts (cashews). People who have an allergy or severe sensitivity to tree nuts run the risk of seri…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardners-candies-issues-allergy-alert-undeclared-tree-nuts-cappuccino-meltawayr-bars-and-gardners",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2024-12-27T17:24:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nDecember 27, 2024\r\nFDA Publish Date:\r\nDecember 27, 2024\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUnd… [+1932 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Kate Gibson",
+      "title": "FDA wants new testing to detect asbestos in products with talc",
+      "description": "The proposed rule is required under a law passed by Congress last year, and is intended to ensure the safety of makeup and baby powder.",
+      "url": "https://www.cbsnews.com/news/fda-asbestos-talc-cosmetics-baby-powder/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/12/27/130753bf-9013-4364-97d7-d93df9c32c67/thumbnail/1200x630/b9324192c81d2b1061f33c6bc5c0c88a/gettyimages-1306836238.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+      "publishedAt": "2024-12-27T17:12:18Z",
+      "content": "Manufacturers of baby powder and cosmetic products made with talc will have to test them for asbestos under a proposal announced by the U.S. Food and Drug Administration.\r\nThe agency's proposal comes… [+2320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Global News"
+      },
+      "author": "The Canadian Press",
+      "title": "U.S. pet food sold in B.C. recalled over bird flu infection | Globalnews.ca",
+      "description": "Northwest Naturals says it is recalling one batch of its two-pound Feline Turkey Recipe raw frozen pet food after it tested positive for highly pathogenic avian influenza virus.",
+      "url": "https://globalnews.ca/news/10934503/northwest-naturals-pet-food-recall-bird-flu-contamination-bc-us/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2024/12/20241226181256-20241226181224-550078cde17ebe002ceddb1a615025b8fad795eb3f809ec9ee9df54fd4cba1d3.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2024-12-27T17:03:01Z",
+      "content": "A pet food company in Oregon sent out a voluntary recall after a house cat died from eating its products, which tested positive for bird flu, and the company says the same contaminated batch was sold… [+1787 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Emma Marsden",
+      "title": "How To Protect Your Pet From Bird Flu",
+      "description": "Pet owners are reminded that prevention is the best strategy for protecting their animal companions from the disease.",
+      "url": "https://www.newsweek.com/how-protect-your-pet-bird-flu-2006592",
+      "urlToImage": "https://d.newsweek.com/en/full/2552252/bird-flu.jpg",
+      "publishedAt": "2024-12-27T16:40:06Z",
+      "content": "As cases of bird flu increase, experts are urging pet owners to remain vigilant and take precautions to safeguard their animals from the disease.\r\nWhile avian influenza primarily affects wild and dom… [+4367 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "Sammi Caramela",
+      "title": "Over 7,000 Pounds of Sausage Recalled Over 'Health Hazard'",
+      "description": "Over 7,000 pounds of Italian sausage have been recalled due to a high-risk \"health hazard\" posing a risk of serious side effects or death.",
+      "url": "http://www.vice.com/en/article/sausage-recalled-health-hazard/",
+      "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2024/12/sausage-recalled-health-hazard.jpg?w=2000",
+      "publishedAt": "2024-12-27T16:24:11Z",
+      "content": "Over 7,000 pounds of Italian sausage have been recalled due to a health hazard.\r\nThe U.S. Department of Agriculture’s (USDA) Food Safety and Inspection Services (FSIS) has recently recalled Italian p… [+1581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Meghan Holohan",
+      "title": "Cat dies of bird flu after eating contaminated cat food, company issues recall",
+      "description": "Northwest Naturals is recalling a batch of its pet food after a cat died from bird flu, which was found in the cat food. Bird flu can be more severe in cats, experts say.",
+      "url": "https://www.today.com/health/recall/cat-food-bird-flu-recall-rcna185534",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-12/recall-cat-food-mc-241227-copy-67ff05.jpg",
+      "publishedAt": "2024-12-27T16:24:04Z",
+      "content": "Northwest Naturals is recalling one batch of its cat food after a house cat died of bird flu and the raw food it ate was found to be contaminated with the virus H5N1, according to the Oregon Departme… [+4088 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Emma Marsden",
+      "title": "Prebiotic Supplement Recall in 25 States As FDA Issues Risk Warning",
+      "description": "Customers who purchased the supplement are advised to discontinue use immediately and inspect their product to identify if it matches the recalled batches.",
+      "url": "https://www.newsweek.com/prebiotic-supplement-recall-25-states-fda-issues-risk-warning-2006574",
+      "urlToImage": "https://d.newsweek.com/en/full/2552181/supplements.jpg",
+      "publishedAt": "2024-12-27T15:42:34Z",
+      "content": "ZOE US Inc. has issued a voluntary recall of its Daily 30+ Prebiotic Blend dietary supplement due to the potential presence of foreign objects, including small metal pieces and stones.\r\nThe recall wa… [+3995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freethoughtblogs.com"
+      },
+      "author": "PZ Myers",
+      "title": "It’s killing the cats!",
+      "description": "Tragic news from Shelton*, Washington: in an animal sanctuary that specializes in big cats, the Wild Felid Advocacy Center, the tigers and caracals and lynxes have been dropping like flies. “They’re drowning, basically, in their own lungs,” said Melinda Mathe…",
+      "url": "https://freethoughtblogs.com/pharyngula/2024/12/27/its-killing-the-cats/",
+      "urlToImage": "https://freethoughtblogs.com/pharyngula/wp-content/themes/ftb2-theme/images/logo.gif",
+      "publishedAt": "2024-12-27T15:33:12Z",
+      "content": "Tragic news from Shelton*, Washington: in an animal sanctuary that specializes in big cats, the Wild Felid Advocacy Center, the tigers and caracals and lynxes have been dropping like flies.\r\nTheyre d… [+2311 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sara Moniuszko",
+      "title": "Systane eye drops recalled due to potential fungal contamination",
+      "description": "Fungal contamination of an eye product is known to potentially cause eye infections​​, which may be vision- or life-threatening, according to the FDA.",
+      "url": "https://www.cbsnews.com/news/systane-eye-drops-recalled-potential-fungal-contamination/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/12/27/52e351c0-46c5-4255-8716-8d6d617d77d9/thumbnail/1200x630g2/0fd1e40e0892b64839690ea1ee96e0ff/image-1-118.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+      "publishedAt": "2024-12-27T15:10:40Z",
+      "content": "One lot of Systane brand eye drops were voluntarily recalled due to possible fungal contamination, the United States Food and Drug Administration announced earlier this week. \r\nSystane Lubricant Eye … [+1756 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Emma Marsden",
+      "title": "Hair Spray Recall in 12 States As FDA Issues Risk Warning",
+      "description": "A hair spray has been recalled as it contains a prohibited ingredient.",
+      "url": "https://www.newsweek.com/hair-spray-recall-12-states-fda-issues-risk-warning-2006524",
+      "urlToImage": "https://d.newsweek.com/en/full/2552140/hairspray.jpg",
+      "publishedAt": "2024-12-27T15:01:50Z",
+      "content": "A company has announced a voluntary recall of its hairspray in 12 states after it was discovered that the product contains dichloromethane, a prohibited ingredient.\r\nThe recall by CRLAB USA, based ou… [+3092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "A. Pawlowski",
+      "title": "Costco egg recall may cause 'serious' illness or death, FDA says as it raises risk level",
+      "description": "An ongoing recall of Costco eggs over salmonella has been escalated by the U.S.",
+      "url": "https://www.today.com/health/recall/costco-egg-recall-december-2024-rcna185535",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-11/egg-recall-te-241129-781457.jpg",
+      "publishedAt": "2024-12-27T15:01:35Z",
+      "content": "An ongoing recall of Costco eggs over salmonella has been escalated by the U.S. Food and Drug Administration, who placed the recall in its most severe class in December 2024, about a month after the … [+2833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Taiwei Lou, Zhiru Zhao, Hongjin Du, Jiwei Zhang, Tian Ni, Miaoran Wang, Qiuyan Li",
+      "title": "The interaction between sleep patterns and oxidative balance scores on the risk of cognitive function decline: Results from the national health and nutrition examination survey 2011–2014",
+      "description": "Background Unhealthy sleep and exposures to oxidative factors are both associated with poor cognitive performance (PCP), but limited evidence has been found regarding the relationship between sleep patterns and oxidative factor exposures independently or join…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313784",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313784.g002&size=inline",
+      "publishedAt": "2024-12-27T14:00:00Z",
+      "content": "Citation: Lou T, Zhao Z, Du H, Zhang J, Ni T, Wang M, et al. (2024) The interaction between sleep patterns and oxidative balance scores on the risk of cognitive function decline: Results from the nat… [+25681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Cindy Garris, Irina Kolobova, Vasiliki Chounta, Alberto Díaz De Santiago, Robin Dretler, Tulika Singh, Gary Sinclair",
+      "title": "Qualitative evaluation of survey questions to assess treatment preference for daily oral or long‑acting injectable antiretroviral therapy among people living with HIV",
+      "description": "Treatment of HIV has historically required taking daily oral antiretroviral therapy (ART). A recent alternative to daily oral ART is long-acting injectable ART with cabotegravir plus rilpivirine, administered monthly or every 2 months. The purpose of this qua…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309588",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309588.g003&size=inline",
+      "publishedAt": "2024-12-27T14:00:00Z",
+      "content": "Abstract\r\nTreatment of HIV has historically required taking daily oral antiretroviral therapy (ART). A recent alternative to daily oral ART is long-acting injectable ART with cabotegravir plus rilpiv… [+44228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Abdeta Muktar Ahmed, Ayanle Suleiman Ahmed, Mohamed Mussa Abdilahi, Abdulkadir Mohamed Nuh",
+      "title": "Determinants and prevalence of metabolic syndrome among the adult population in Hargeisa, Somaliland: A community-based cross-sectional study",
+      "description": "Background Metabolic syndrome (met-s) is a medical condition that includes abdominal obesity, hyperlipidemia, high blood glucose, and high blood pressure. It is associated with a high risk of developing cardiovascular diseases and type 2 diabetes mellitus. Th…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316094",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316094.g004&size=inline",
+      "publishedAt": "2024-12-27T14:00:00Z",
+      "content": "Citation: Ahmed AM, Ahmed AS, Abdilahi MM, Nuh AM (2024) Determinants and prevalence of metabolic syndrome among the adult population in Hargeisa, Somaliland: A community-based cross-sectional study.… [+26737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Steamykitchen.com"
+      },
+      "author": "Jaden",
+      "title": "Feed Your Head: 6 Recipes to Keep Your Brain Healthy",
+      "description": "Do you ever feel like your brain just doesn’t recall things at the same speed that it used to? This has plagued me since my 30s, but it seems like some days are worse than others and I’m left snapping my fingers and describing well known celebrities as “you k…",
+      "url": "https://steamykitchen.com/250957-feed-your-head-6-recipes-to-keep-your-brain-healthy.html",
+      "urlToImage": "https://steamykitchen.com/wp-content/uploads/2024/12/The-Best-Chinese-Recipes-to-Cook-in-the-Air-Fryer-4-640x800.png",
+      "publishedAt": "2024-12-27T13:00:17Z",
+      "content": "Do you ever feel like your brain just doesn’t recall things at the same speed that it used to? This has plagued me since my 30s, but it seems like some days are worse than others and I’m left snappin… [+7952 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Dog goes viral over her love for garbage men",
+      "description": "Maddie’s weekend can’t officially start until her favorite neighborhood garbage men arrive at her home in northern Ireland.",
+      "url": "https://abcnews.go.com/International/video/dog-viral-love-garbage-men-117136618",
+      "urlToImage": "https://i.abcnewsfe.com/a/420150e1-a7e1-4a5b-9916-4393d39026bd/241227_gmafl_dog_bin_men_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2024-12-27T11:47:26Z",
+      "content": "<ul><li>By The Numbers: Holiday gift returns on the rise\r\n</li><li>Trump teases territory expansion plan in Christmas messages \r\n</li><li>Pheonix airport shooting leaves 4 people injured \r\n</li><li>R… [+4321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freethoughtblogs.com"
+      },
+      "author": "Great American Satan",
+      "title": "Life List: American Crow",
+      "description": "I admit, Australia has America beat, in the category of evil genius super-bird species.  There are hella parrots there and corvids too.  But our reigning champ of world-beating nasty little punk emeff gangster birds does well for itself.  So well, it’s been m…",
+      "url": "https://freethoughtblogs.com/gas/2024/12/27/life-list-american-crow/",
+      "urlToImage": "https://freethoughtblogs.com/gas/wp-content/themes/ftb2-theme/images/logo.gif",
+      "publishedAt": "2024-12-27T11:30:15Z",
+      "content": "I admit, Australia has America beat, in the category of evil genius super-bird species.  There are hella parrots there and corvids too.  But our reigning champ of world-beating nasty little punk emef… [+8095 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Drone owner helps save dog from frozen lake",
+      "description": "Kishan Patel stepped into action, helping police in Parsippany, New Jersey, rescue a 20-month-old sheepadoodle from a snow-covered frozen lake.",
+      "url": "https://abcnews.go.com/US/video/drone-owner-helps-save-dog-frozen-lake-117136372",
+      "urlToImage": "https://i.abcnewsfe.com/a/998ffd92-e7b7-4e54-aa51-e5bb380b7158/241227_wnn_drone_dog_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2024-12-27T11:25:54Z",
+      "content": "<ul><li>By The Numbers: Holiday gift returns on the rise\r\n</li><li>Trump teases territory expansion plan in Christmas messages \r\n</li><li>Pheonix airport shooting leaves 4 people injured \r\n</li><li>R… [+4321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Experts warn of a surge in activity associated FICORA and Kaiten botnets",
+      "description": "FortiGuard Labs observed increased activity from two botnets, the Mirai variant “FICORA” and the Kaiten variant “CAPSAICIN”. FortiGuard Labs researchers observed a surge in activity associated with two botnets, the Mirai variant “FICORA” and the Kaiten varian…",
+      "url": "https://securityaffairs.com/172373/uncategorized/surge-ficora-kaiten-botnets.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-31.png",
+      "publishedAt": "2024-12-27T11:24:13Z",
+      "content": "Experts warn of a surge in activity associated FICORA and Kaiten botnets\r\n | Brazilian citizen charged for threatening to release data stolen from a company in 2020\r\n | A new Mirai botnet variant tar… [+126514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T11:00:17Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Abc News",
+      "title": "Video New bird flu warning for pet owners",
+      "description": "Health officials are warning pet owners not to give their cats raw food after a house cat in Oregon died of bird flu.",
+      "url": "https://abcnews.go.com/Health/video/new-bird-flu-warning-pet-owners-117135903",
+      "urlToImage": "https://i.abcnewsfe.com/a/f430d12f-d1b5-4fb6-897b-aeb90309d467/241227_gmafl_bird_flu_pets_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2024-12-27T10:55:33Z",
+      "content": "<ul><li>By The Numbers: Holiday gift returns on the rise\r\n</li><li>Trump teases territory expansion plan in Christmas messages \r\n</li><li>Pheonix airport shooting leaves 4 people injured \r\n</li><li>R… [+4321 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "rhosie@businessinsider.com (Rachel Hosie)",
+      "title": "A woman who lost 100 pounds on semaglutide shared 3 ways the holiday season has changed — including not feeling the need to diet in the new year",
+      "description": "At her Thanksgiving table in 2024, half of Ashley Dunham's guests were on a GLP-1 weight loss drug. She made green beans for six, not 10, to reduce food waste.",
+      "url": "https://www.businessinsider.com/ozempic-holiday-season-christmas-thanksgiving-weight-loss-new-year-diet-2024-12",
+      "urlToImage": "https://i.insider.com/6761ac4c6c531c315b88c49a?width=1200&format=jpeg",
+      "publishedAt": "2024-12-27T10:05:47Z",
+      "content": "The holiday season used to be conflicting for Ashley Dunham.\r\nIt was a joyous time to get together with family and friends over delicious food and drinks. But as someone who wanted to lose weight, na… [+4030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Palo Alto Networks fixed a high-severity PAN-OS flaw",
+      "description": "Palo Alto Networks addressed a high-severity PAN-OS flaw that could trigger denial-of-service (DoS) on vulnerable devices. Palo Alto Networks addressed a high-severity flaw, tracked as CVE-2024-3393 (CVSS score: 8.7), in PAN-OS software that could cause a den…",
+      "url": "https://securityaffairs.com/172370/security/palo-alto-networks-high-severity-pan-os-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png",
+      "publishedAt": "2024-12-27T09:55:56Z",
+      "content": "Brazilian citizen charged for threatening to release data stolen from a company in 2020\r\n | A new Mirai botnet variant targets DigiEver DS-2105 Pro DVRs\r\n | A ransomware attack disrupted services at … [+126437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Carla K. Johnson",
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.",
+      "url": "https://phys.org/news/2024-12-cats-sick-bird-flu.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/cats-can-get-sick-with.jpg",
+      "publishedAt": "2024-12-27T09:20:01Z",
+      "content": "by Carla K. Johnson The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been sprea… [+4311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Brazilian citizen charged for threatening to release data stolen from a company in 2020",
+      "description": "A Brazilian citizen faces U.S. charges for allegedly threatening to release data stolen from a company in a March 2020 security breach. The U.S. government has charged the Brazilian citizen Junior Barros De Oliveira, 29, with allegedly threatening to release …",
+      "url": "https://securityaffairs.com/172362/hacking/brazilian-citizen-extortion-attempt.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg",
+      "publishedAt": "2024-12-27T08:37:46Z",
+      "content": "Brazilian citizen charged for threatening to release data stolen from a company in 2020\r\n | A new Mirai botnet variant targets DigiEver DS-2105 Pro DVRs\r\n | A ransomware attack disrupted services at … [+126437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CounterPunch"
+      },
+      "author": "Jeffrey St. Clair",
+      "title": "The Sound of da Police: the Year Criminal Injustice",
+      "description": "For nearly two days, the NYPD covered up the fact that one of their officers had fired a gun inside Hind Hall, while they were arresting students. Ultimately, the shooting was only revealed by the New York City DA's office. If you call in the NYPD, you can pr…",
+      "url": "https://www.counterpunch.org/2024/12/27/the-sound-of-da-police-the-year-criminal-injustice/",
+      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2024/12/uclacops.png",
+      "publishedAt": "2024-12-27T06:59:11Z",
+      "content": "I know this for a fact, you don’t like how I actYou claim I’m sellin’ crack,but you be doin’ thatI’d rather say “See ya” ’cause I would never be yaBe an officer? You wicked overseerYou hotshot, wanna… [+119736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T06:34:56Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Farmers recall Dr. Manmohan Singh's lifeline of over ₹71,000 crore to agriculture",
+      "description": "Farmers have been protesting for nearly ten months, demanding a legal guarantee on MSP and a debt waiver. They recall the 2008 debt relief under former PM Dr. Manmohan Singh. Dr. Singh, who passed away at 92, was known for his economic reforms and farmer-cent…",
+      "url": "https://economictimes.indiatimes.com/news/india/manmohan-singh-passes-away-farmers-recall-former-prime-ministers-lifeline-of-71000-crore-to-agriculture/articleshow/116700617.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116701323,width-1200,height-630,imgsize-18262,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-27T04:53:48Z",
+      "content": "Farmers protesting for nearly ten months for a legal guarantee on Minimum Support Price (MSP) and a debt waiver recalled the historic farm debt relief granted by the central government under former P… [+2960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The BMJ"
+      },
+      "author": "Tasnim, T., Karim, K. M. R., Bhatta, C.",
+      "title": "Association of diet quality and nutrient intake with odds of dyslipidaemia in patients with cardiovascular diseases: a hospital based cross-sectional study in Bangladesh",
+      "description": "Objective The aim of this study is to evaluate diet quality and other associated factors with dyslipidaemia in cardiovascular disease (CVD) patients in Bangladesh.\n\nDesign The study employed a cross-sectional design.\n\nSetting Data from medical records, dietar…",
+      "url": "https://bmjopen.bmj.com/content/14/12/e091025",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-12-27T04:32:17Z",
+      "content": "Introduction\r\nHeart disease is increasing worldwide, with South Asian nations experiencing the greatest prevalence and mortality rates among all low and middle income countries (LMICs).1 South Asians… [+13195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Cats can get sick with bird flu. Here's how to protect them - ABC News",
+      "description": "Cats can get sick with bird flu. Here's how to protect themABC News Pet food recall issued after Oregon house cat dies from eating product that tested positive for bird fluWBAL TV Baltimore KOIN: Bird flu case in cat connected to pet foodThe Hill Cats can get…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175772057",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T01:52:13Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston 25 News"
+      },
+      "author": "Carla K. Johnson",
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat from bird flu and a pet food recall are raising questions about how people can protect their pets",
+      "url": "https://www.boston25news.com/news/health/cats-can-get-sick/FQ67UWOJYVDHXIPUCKIQTHJTXM/",
+      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FL7MB4UESZOUNVQKPHPB4KUTEPM.jpg?auth=c42b24e0aa44b7b65a7b739b2a696d416a82827bb783937fac20037a9f286b44&width=1200&height=630&smart=true",
+      "publishedAt": "2024-12-27T00:49:49Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Nationwide voluntary recall of pet food linked to bird flu",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b038ca1-6c8f-47e0-ace6-c3d8f4852bd4",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T00:17:23Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "House cat dies after eating raw food contaminated with bird flu; recall initiated",
+      "description": "The Oregon Department of Agriculture (ODA) is alerting pet owners that samples of Northwest Naturals brand 2-pound Turkey Recipe raw & frozen pet food tested positive for a H5N1 strain of the Highly Pathogenic Avian Influenza (HPAI) virus. Testing conducted b…",
+      "url": "https://www.foodsafetynews.com/2024/12/house-cat-dies-after-eating-raw-food-contaminated-with-bird-flu-recall-initiated/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/076/573/449/aMBJ5DWdLYPZ9AlP6XRNjrp4Z/88dbaff8b2d660f7137560ffc31eebf0a9802b49.png",
+      "publishedAt": "2024-12-27T00:07:54Z",
+      "content": "The Oregon Department of Agriculture (ODA) is alerting pet owners that samples of Northwest Naturals brand 2-pound Turkey Recipe raw &amp; frozen pet food tested positive for a H5N1 strain of the Hig… [+2919 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "CARLA K. JOHNSON AP medical writer",
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat from bird flu and a pet food recall are raising questions about how people can protect their pets",
+      "url": "https://abcnews.go.com/Lifestyle/wireStory/cats-sick-bird-flu-protect-117127670",
+      "urlToImage": "https://i.abcnewsfe.com/a/8d371ab8-8d11-49f4-a019-de8ed46d7016/wirestory_7a57b3047164676a7d237bcd05a5b9db_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-26T23:45:35Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Audrey Washington",
+      "title": "Metro Atlanta pet owners on alert following nationwide food recall involving bird flu",
+      "description": "Metro Atlanta pet owners on alert following nationwide food recall involving bird fluwsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/atlanta/metro-atlanta-pet-owners-alert-following-nationwide-food-recall-involving-bird-flu/CKVGVIHO5NE2TE3XABK2MJFW2Y/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F12-26-2024%2Ft_ccc082dddeb64b13b2eaa1e804170da4_name_file_960x540_1200_v3_1_.jpg?auth=de295ce6baf94ad45c6e2a9142cdf9bfc144feeca3c0682d69cd66bc29153363&width=1200&height=630&smart=true",
+      "publishedAt": "2024-12-26T23:45:26Z",
+      "content": "ATLANTA — A warning for pet owners. There is a nationwide recall of a specific brand of Northwest Naturals pet food for cats.\r\nNorthwest Naturals, a pet food company based in Portland, Oregon, said T… [+1494 chars]"
+    },
     {
       "source": {
         "id": "cbc-news",
@@ -207,7 +766,7 @@
       "url": "https://www.portlandmercury.com/good-morning-news/2024/12/26/47565796/good-morning-news-power-outages-for-christmas-homeless-bans-surge-nationwide-and-the-beyonce-halftime-show-we-needed",
       "urlToImage": "https://media2.fdncms.com/portmerc/imager/u/large/47566846/gettyimages-2191421242.webp",
       "publishedAt": "2024-12-26T16:55:00Z",
-      "content": "If youre reading this, you probably know the value of the Mercurys newsreporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps o… [+6468 chars]"
+      "content": "If youre reading this, you probably know the value of the Mercurys newsreporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps o�� [+6468 chars]"
     },
     {
       "source": {
@@ -741,567 +1300,8 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/turkey1-copy.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-12-25T23:27:21Z",
       "content": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.\r\nNorthwest Naturals, owned… [+3089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "seattlepi.com"
-      },
-      "author": null,
-      "title": "Oregon house cat died after eating pet food that tested positive for bird flu",
-      "description": "Oregon authorities say a house cat died after eating raw frozen pet food that tested positive for bird flu. The Oregon Department of Agriculture says the indoor cat contracted the H5N1 virus by eating the pet food. In response, Oregon-based pet food company N…",
-      "url": "https://www.seattlepi.com/news/article/oregon-house-cat-died-after-eating-pet-food-that-20000927.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
-      "publishedAt": "2024-12-25T23:14:12Z",
-      "content": "PORTLAND, Ore. (AP) An Oregon house cat died after eating pet food that tested positive for bird flu, Oregon authorities said, prompting a recall of raw frozen pet food that was sold nationwide.\r\nNor… [+2195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Bob Cronin",
-      "title": "After Bird Flu Case, Agency Warns About Cat Food Brand",
-      "description": "The manufacturer of a brand of raw cat food has recalled the product after the death of a pet in Oregon from an H5N1 bird flu infection. Los Angeles County health officials also issued a recommendation that pet owners avoid Northwest Naturals Brand two-pound …",
-      "url": "https://www.newser.com/story/361556/recall-warning-follow-death-of-house-cat-from-bird-flu.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1580887-12-20241225170002.jpeg",
-      "publishedAt": "2024-12-25T22:30:00Z",
-      "content": "The manufacturer of a brand of raw cat food has recalled the product after the death of a pet in Oregon from an H5N1 bird flu infection. Los Angeles County health officials also issued a recommendati… [+894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Pet food recall over bird flu concerns, after cat dies - Axios",
-      "description": "Pet food recall over bird flu concerns, after cat diesAxios Northwest Naturals pet food recalled over bird flu contamination after cat diesNBC News More L.A. cats appear to be infected with H5N1 bird fluLos Angeles Times Portland cat death triggers nationwide…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175753233",
-      "urlToImage": null,
-      "publishedAt": "2024-12-25T21:32:11Z",
-      "content": "You can write a small letter to Grandma in the filename.\r\n-- Forbes Burkowski, CS, University of Washington"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "BellaCPP, Charming Kitten’s BellaCiao variant written in C++",
-      "description": "Iran-linked APT group Charming Kitten has been observed using a new variant of the BellaCiao malware dubbed BellaCPP, Kaspersky researchers warn. The Iran-linked APT group Charming Kitten has been observed using a C++ variant of the BellaCiao malware, dubbed …",
-      "url": "https://securityaffairs.com/172299/malware/bellacpp-charming-kittens-bellaciao-variant-written-in-c.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/12/iranian-hackers.jpg",
-      "publishedAt": "2024-12-25T21:27:05Z",
-      "content": "BellaCPP, Charming Kitten's BellaCiao variant written in C++\r\n | DMM Bitcoin $308M Bitcoin heist linked to North Korea\r\n | Adobe is aware that ColdFusion bug CVE-2024-53961 has a known PoC exploit co… [+126066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "cbsnews.com",
-      "title": "Pet food brand issues recall over bird flu contamination",
-      "description": "A voluntary recall was issued for a line of raw and frozen pet food after a cat died of bird flu.",
-      "url": "https://biztoc.com/x/b26a80c651cd3a1b",
-      "urlToImage": "https://biztoc.com/cdn/808/og.png",
-      "publishedAt": "2024-12-25T20:54:50Z",
-      "content": "A voluntary recall was issued for a line of raw and frozen pet food after a cat died of bird flu.\r\nThis story appeared on cbsnews.com, 2024-12-25 20:52:32."
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Aliza Chasan",
-      "title": "Pet food brand issues recall over bird flu contamination",
-      "description": "A voluntary recall was issued for a line of raw and frozen pet food after a cat died of bird flu.",
-      "url": "https://www.cbsnews.com/news/northwest-naturals-pet-food-recall-bird-flu-contamination/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/12/25/0e584275-3ab5-4af6-b952-7e3b7d017c91/thumbnail/1200x630/1039f21ca8373e9d4245c98fada8cc09/recalled-pet-food.jpg?v=fa9977353833f46f40b07abcd9d5240b",
-      "publishedAt": "2024-12-25T20:52:32Z",
-      "content": "Northwest Naturals issued a voluntary recall for a batch of pet food after a cat died of bird flu in Oregon, officials said. \r\nTesting done by the U.S. Department of Agriculture's National Veterinary… [+2979 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "axios.com",
-      "title": "Pet food recall over bird flu concerns, after cat dies",
-      "description": "A pet food company in Oregon has issued a voluntary recall of its raw and frozen products, as state officials investigate the bird flu death of a cat that they linked to its food.\nThe big picture: Northwest Naturals' recall of its 2lb Feline Turkey Recipe bra…",
-      "url": "https://biztoc.com/x/45a9692dbe062575",
-      "urlToImage": "https://biztoc.com/cdn/45a9692dbe062575_s.webp",
-      "publishedAt": "2024-12-25T20:44:02Z",
-      "content": "A pet food company in Oregon has issued a voluntary recall of its raw and frozen products, as state officials investigate the bird flu death of a cat that they linked to its food.The big picture: Nor… [+142 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Northwest Naturals pet food recalled over bird flu contamination after cat dies - NBC News",
-      "description": "Northwest Naturals pet food recalled over bird flu contamination after cat diesNBC News Popular pet food brand issues recall over bird flu contaminationKOMO News More L.A. cats appear to be infected with H5N1 bird fluLos Angeles Times Portland cat death trigg…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175753091",
-      "urlToImage": null,
-      "publishedAt": "2024-12-25T20:32:24Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Popular eye drops recalled over fungus",
-      "description": "The maker of Systane eye drops has recalled a batch over fears of fungal contamination that could lead to blindness or death Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/609954-eyedrops-recall-fungus-usa/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2024.12/article/676c4f8d85f54072d80a5695.jpg",
-      "publishedAt": "2024-12-25T20:08:00Z",
-      "content": "A popular brand of eye drops has been recalled in the US after a vial was found contaminated with fungus.\r\nThe Systane Lubricant Eye Drops Ultra PF – which stands for preservative-free – have been ma… [+1247 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Doha Madani",
-      "title": "Pet food recalled over bird flu contamination after cat dies",
-      "description": "Northwest Naturals voluntarily recalled a batch of raw frozen food after an indoor cat died of bird flu, Oregon officials said.",
-      "url": "https://www.nbcnews.com/news/animal-news/northwest-naturals-pet-food-recalled-bird-flu-contamination-cat-dies-rcna185405",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241225-northwest-naturals-cat-food-recall-al-1327-6f1b43.jpg",
-      "publishedAt": "2024-12-25T19:14:47Z",
-      "content": "A voluntary recall was issued for a line of raw and frozen pet food after a cat died of bird flu, a case that Oregon officials connected to the feline's contaminated food. \r\nNorthwest Naturals told c… [+1490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Editors' Picks",
-      "title": "Pet food recalled over bird flu contamination after cat dies",
-      "description": "A voluntary recall was issued for a line of raw and frozen pet food after a cat died of bird flu, a case that Oregon officials connected to the feline's contaminated food. Northwest Naturals told consumers Tuesday to toss their Feline Turkey Recipe raw frozen…",
-      "url": "https://www.newsbreak.com/share/3730376347720-pet-food-recalled-over-bird-flu-contamination-after-cat-dies?s=a2&share_destination_id=MjM1MTkxNTE1LTE3MzUxNzA4NzMwNjc%3D&pd=0Fuq3Xy5&hl=en_US&send_time=1735170873&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v4%2Cns_foryou_rank_exp_24q4-v9%2Cns_push_exp_rt_bucketv12-v6%2Cns_local_strategy_24q4_exp-v6%2Cns_foryou_recall_exp_24q4-v6",
-      "urlToImage": "https://img.particlenews.com/img/id/4ewtxY_0xfomgXh00",
-      "publishedAt": "2024-12-25T19:14:00Z",
-      "content": "Massachusetts Rescue Steps Up To Save Severely Neglected Young Dog\r\nSandy Paws Rescue Inc., a dedicated foster-based dog rescue in Massachusetts, recently introduced a young dog named Roscoe who is j… [+337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Brett Owens, Contributor, \n Brett Owens, Contributor\n https://www.forbes.com/sites/brettowens/",
-      "title": "Here’s What’s Different About Trump 2.0 For Dividend Investors",
-      "description": "I think it’s clear by now that Trump 2.0 is going to look different from Trump 1.0. We dividend investors need to position our portfolios for the changes coming soon.",
-      "url": "https://www.forbes.com/sites/brettowens/2024/12/25/heres-whats-different-about-trump-20-for-dividend-investors/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6765a67340390ff0dec25255/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-25T16:41:00Z",
-      "content": "UNITED STATES - DECEMBER 19: Robert F. Kennedy Jr., President-elect Donald Trump's pick to be ... [+] secretary of Health and Human Services, is seen in the U.S. Capitol on Thursday, December 19, 202… [+5216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Tribune News Service",
-      "title": "This condiment is the only sauce you’ll need to hack the holidays",
-      "description": "Garlic sauce has gone mainstream.",
-      "url": "https://www.bostonherald.com/2024/12/25/garlic-sauce-holidays/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/12/202412160400MCT_____PHOTO____FOOD-TOUM-LA.jpg?w=1024&h=768",
-      "publishedAt": "2024-12-25T14:20:40Z",
-      "content": "By Jenn Harris, Los Angeles Times\r\nLOS ANGELES — The condiment shelf in my refrigerator is a chaotic place. I am no Marie Kondo, but I could argue that each jar, squeeze bottle and tube sparks real j… [+6516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Brooke Steinberg",
-      "title": "Over 10,000 pounds of pork products recalled due to ‘health hazard’",
-      "description": "The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) has announced a high-risk warning on more than 10,000 pounds of pork products across four states in two separate recalls.",
-      "url": "https://nypost.com/2024/12/25/lifestyle/over-10000-pounds-of-pork-products-recalled-due-to-health-hazard/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/95840360.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-12-25T13:48:01Z",
-      "content": "The U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) has announced a high-risk warning on more than 10,000 pounds of pork products across four states in two separate recalls.… [+2951 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "DMM Bitcoin $308M Bitcoin heist linked to North Korea",
-      "description": "Japanese and U.S. authorities attributed the theft of $308 million cryptocurrency from DMM Bitcoin to North Korean cyber actors. Japanese and U.S. authorities linked the $308 million cyber heist targeting cryptocurrency company DMM Bitcoin to North Korea-link…",
-      "url": "https://securityaffairs.com/172290/hacking/dmm-bitcoin-308m-theft-linked-north-korea.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/09/bitcoin.jpg",
-      "publishedAt": "2024-12-25T12:02:37Z",
-      "content": "DMM Bitcoin $308M Bitcoin heist linked to North Korea\r\n | Adobe is aware that ColdFusion bug CVE-2024-53961 has a known PoC exploit code\r\n | Apache Foundation fixed a severe Tomcat vulnerability\r\n | … [+126001 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-12-25T11:00:12Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-12-25T11:00:10Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Popular pet food brand issues recall over bird flu contamination - KOMO News",
-      "description": "Popular pet food brand issues recall over bird flu contaminationKOMO News L.A. County health officials warn pet owners to avoid raw cat food after feline dies of bird fluLos Angeles Times Portland cat death triggers nationwide Northwest Naturals pet food reca…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175750251",
-      "urlToImage": null,
-      "publishedAt": "2024-12-25T10:12:31Z",
-      "content": "\"I don't believe in sweeping social change being manifested by one person, \r\nunless he has an atomic weapon.\"\r\n-- Howard Chaykin"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "House cat in Washington County died after contracting bird flu from raw frozen pet food - OregonLive",
-      "description": "House cat in Washington County died after contracting bird flu from raw frozen pet foodOregonLive Popular pet food brand issues recall over bird flu contaminationKOMO News L.A. County health officials warn pet owners to avoid raw cat food after feline dies of…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175749687",
-      "urlToImage": null,
-      "publishedAt": "2024-12-25T08:32:12Z",
-      "content": "\"An organization dries up if you don't challenge it with growth.\"\r\n-- Mark Shepherd, former President and CEO of Texas Instruments"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-12-25T08:01:35Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "forbes.com",
-      "title": "FDA Raises Costco Egg Recall—The Class I Warning, Explained",
-      "description": "When Costco’s Kirkland Signature Organic Pasture-Raised Eggs were recalled on November 27th, most consumers treated it as a precaution. But as the Costco egg recall escalated to the FDA’s most serious classification—Class I—the question remains: How and why d…",
-      "url": "https://biztoc.com/x/1cbda7afd53a6e6c",
-      "urlToImage": "https://biztoc.com/cdn/1cbda7afd53a6e6c_s.webp",
-      "publishedAt": "2024-12-25T05:44:00Z",
-      "content": "When Costcos Kirkland Signature Organic Pasture-Raised Eggs were recalled on November 27th, most consumers treated it as a precaution. But as the Costco egg recall escalated to the FDAs most serious … [+148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slj.com"
-      },
-      "author": "Betsy Bird",
-      "title": "31 Days, 31 Lists: 2024 Science and Nature Books for Kids",
-      "description": "Today, consider this post my present to all those nonfiction and informational book fans out there. It's just FULL of titles that won't really get their day in the sun unless we promote the bloody heck out them.",
-      "url": "https://afuse8production.slj.com/2024/12/25/31-days-31-lists-2024-science-and-nature-books-for-kids/",
-      "urlToImage": "https://afuse8production.slj.com/wp-content/uploads/2024/12/CallBeeDoctor.jpg",
-      "publishedAt": "2024-12-25T05:00:00Z",
-      "content": "My kids wonder why I do this particular list on Christmas, and I don’t really have a good answer for that. There’s no direct correlation between the holiday and the subject matter. Maybe you could co… [+42919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "abcnews.go.com",
-      "title": "FDA escalates recall of Costco eggs to include risks of 'severe illness or death'",
-      "description": "FDA escalates recall of Costco eggs to include risks of 'severe illness or death'\nThe recalled eggs are linked to salmonella exposure, according to the FDA.\nIn the days leading up to Christmas, the Food and Drug Administration has further raised the red flag …",
-      "url": "https://biztoc.com/x/34c700309638069b",
-      "urlToImage": "https://biztoc.com/cdn/34c700309638069b_s.webp",
-      "publishedAt": "2024-12-25T04:37:42Z",
-      "content": "FDA escalates recall of Costco eggs to include risks of 'severe illness or death'The recalled eggs are linked to salmonella exposure, according to the FDA.In the days leading up to Christmas, the Foo… [+152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?_f=app_share&pd=0FAT1rVC&lang=en_US&send_time=1735096474&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.51.0.21%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v3%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_recall_exp_24q4-v6%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_model_exp_25q1-v8%2Cns_local_strategy_24q4_exp-v16&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-25T03:15:00Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "cnbc",
-      "title": "HOLIDAY DANGER: FDA warns severe illness or death due to salmonella from COSTCO eggs...",
-      "description": "Regulators warned that eating these eggs could bring \"serious adverse health consequences or death.”",
-      "url": "https://www.cnbc.com/2024/12/24/fda-raises-recall-alert-to-highest-level-on-costco-eggs-over-risk-of-severe-illness-or-death-due-to-salmonella.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107184819-1674773008640-gettyimages-1246568964-AFP_337X34N.jpeg?v=1674773060&w=1920&h=1080",
-      "publishedAt": "2024-12-25T02:00:02Z",
-      "content": "Federal food regulators raised their alarm for recalled eggs sold from Costco stores over possible salmonella exposure, reclassifying the targeted product to their highest risk level.\r\nThe FDA had pr… [+827 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OregonLive"
-      },
-      "author": "Maxine Bernstein | The Oregonian/oregonlive",
-      "title": "House cat in Washington County died after contracting bird flu from raw frozen pet food",
-      "description": "The state issued an alert Christmas Eve about Morasch Meats of Portland’s voluntary recall of Northwest Naturals’ two-pound feline turkey recipe.",
-      "url": "https://www.oregonlive.com/health/2024/12/house-cat-in-washington-county-died-after-contracting-bird-flu-from-raw-frozen-pet-food.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/SJWSRFG4AVAMDM7LQEKRHU7H74.jpg?auth=b6ab35e520772c034837385f60ee696967f662a0a32ebe17b1a0e6978ec72a2c&width=1280&quality=90",
-      "publishedAt": "2024-12-25T01:22:37Z",
-      "content": "A house cat in Washington County contracted bird flu and died after eating Northwest Naturals raw frozen pet food, according to the Oregon Department of Agriculture.\r\nThe state issued an alert Christ… [+1562 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Astellas Pharma US, Inc. Issues Voluntary Nationwide Recall of One Lot of PROGRAF® 0.5mg (Tacrolimus) and One Lot of ASTAGRAF XL® 0.5mg (Tacrolimus Extended-Release Capsules) Because Bottles Shipped to U.S. May Contain Empty Capsules",
-      "description": "Astellas Pharma US, Inc. (Head of US Commercial: Michael Petroutsas, \"Astellas\") is voluntarily recalling one lot of PROGRAF® 0.5mg (tacrolimus) and one lot of ASTAGRAF XL® 0.5mg (tacrolimus extended-release) capsules to the consumer level. These products are…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/astellas-pharma-us-inc-issues-voluntary-nationwide-recall-one-lot-prografr-05mg-tacrolimus-and-one",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2024-12-25T01:02:20Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nDecember 23, 2024\r\nFDA Publish Date:\r\nDecember 24, 2024\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nBottles may contain empty cap… [+5160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Coronation Street's Gail bids farewell after 50 years",
-      "description": "A look back at some of Gail's highlights as the longstanding character leaves the cobbles.",
-      "url": "https://www.bbc.com/news/articles/cg52gz82ydqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2f99/live/e3c9eb90-c209-11ef-a0f2-fd81ae5962f4.jpg",
-      "publishedAt": "2024-12-25T00:29:10Z",
-      "content": "Gail, played by Helen Worth, is formerly and probably best known as Gail Platt\r\nCoronation Street's longstanding, long-suffering character Gail will bid farewell to Weatherfield on Christmas Day, aft… [+9736 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Gibson Achonu",
-      "title": "Imo Senator gifts constituents rice, preaches peace, unity at Yuletide",
-      "description": "The senator representing Imo West senatorial district (Orlu), Osita Izunaso, has distributed bags of rice to the twelve local government areas of the senatorial district as gifts to commemorate the celebration of the birth of Jesus Christ. He also admonished …",
-      "url": "https://punchng.com/imo-senator-gifts-constituents-rice-preaches-peace-unity-at-yuletide/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/12/25023731/OSITA-IZUNASO.png",
-      "publishedAt": "2024-12-25T00:26:57Z",
-      "content": "The senator representing Imo West senatorial district (Orlu), Osita Izunaso, has distributed bags of rice to the twelve local government areas of the senatorial district as gifts to commemorate the c… [+1598 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Alix Martichoux",
-      "title": "Eye drops recalled nationwide due to fungal contamination",
-      "description": "Check your medicine cabinets: A brand of eye drops sold nationally has been recalled due to the presence of fungus, which may cause vision damage.",
-      "url": "https://www.newsbreak.com/share/3729423598413-eye-drops-recalled-nationwide-due-to-fungal-contamination?_f=app_share&amp;pd=05RQAn6b&amp;lang=en_US&amp;send_time=1735085704&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.51.0.21%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q1-control%2Cns_push_exp_rt_bucketv12-v1%2Cns_local_strategy_24q4_exp-v9%2Cns_foryou_recall_exp_24q4-v4%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_model_exp_25q1-v7&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/3OAREp_0xerIOqp00",
-      "publishedAt": "2024-12-25T00:15:33Z",
-      "content": "( KSNT ) Check your medicine cabinets: A brand of eye drops sold nationally has been recalled due to the presence of fungus, which may cause vision damage. \r\n The Food and Drug Administration ( FDA )… [+1714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?s=a2&share_destination_id=MjE2MDA5NTc3LTE3MzUwODEyNDA1NTQ%3D&pd=0EcLxRgg&hl=en_US&send_time=1735081240&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_24q4-v8%2Cns_foryou_model_exp_25q1-v3%2Cns_foryou_blend_exp_25q1-v5%2Cns_local_strategy_24q4_exp-v15%2Cns_push_exp_rt_bucketv12-v6%2Cns_foryou_recall_exp_24q4-v7",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T23:01:26Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzUwODEwMDIzOTk%3D&pd=0H2BXtcW&hl=en_US&send_time=1735081002&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_24q4-v4%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_24q4-v4%2Cns_local_strategy_24q4_exp-v17",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T22:57:09Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?_f=app_share&pd=0ACnzguF&lang=en_US&send_time=1735078826&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.51.0.21%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_blend_exp_25q1-v7%2Cns_local_strategy_24q4_exp-v1%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_rank_exp_24q4-v3%2Cns_foryou_recall_exp_24q4-v4&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T22:20:54Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?s=a2&share_destination_id=MTA5MTUwNjc4LTE3MzUwNzgzOTEzODQ%3D&pd=07Nz4oyQ&hl=en_US&send_time=1735078391&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_rank_exp_24q4-v6%2Cns_foryou_model_exp_25q1-v3%2Cns_foryou_recall_exp_24q4-v7%2Cns_local_strategy_24q4_exp-v17",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T22:13:47Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?s=a2&share_destination_id=MjM1MTkxNTE1LTE3MzUwNzYwODEyNzc%3D&pd=0Fuq3Xy5&hl=en_US&send_time=1735076081&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.50.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_local_strategy_24q4_exp-v6%2Cns_foryou_recall_exp_24q4-v6%2Cns_foryou_rank_exp_24q4-v9%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v6",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T21:35:07Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "dailygalaxy.com",
-      "title": "FDA Issues Urgent Recall of Popular Eye Drops Due to Dangerous Fungal Contamination",
-      "description": "The Food and Drug Administration (FDA) has issued a nationwide recall of a specific lot of Systane Lubricant Eye Drops Ultra PF due to potential fungal contamination. The recall, announced on December 23, applies to single-use vials sold in 25-count packages,…",
-      "url": "https://biztoc.com/x/5f019515138939e8",
-      "urlToImage": "https://biztoc.com/cdn/5f019515138939e8_s.webp",
-      "publishedAt": "2024-12-24T19:17:38Z",
-      "content": "The Food and Drug Administration (FDA) has issued a nationwide recall of a specific lot of Systane Lubricant Eye Drops Ultra PF due to potential fungal contamination. The recall, announced on Decembe… [+157 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Liz Rymill",
-      "title": "Fifty years after Cyclone Tracy, a family remembers the eye of the storm",
-      "description": "Retired policeman Terry Ey and his wife Rosemary took up a posting in Darwin just before Christmas in 1974. They reflect on the terror and aftermath of one of Australia's worst ever natural disasters.",
-      "url": "https://www.abc.net.au/news/2024-12-25/cyclone-tracy-remembered-50-years-on-ey-family/104750884",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e68e36d5707c5d63b5191ab6950e0b80?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-12-24T19:15:00Z",
-      "content": "Dense monsoonal clouds hung low over Darwin Harbour and dumped their contents throughout the overcast afternoon of Christmas Eve 1974.\r\nTerry Ey had arrived in the Top End from South Australia a few … [+5995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "aol.com",
-      "title": "Eye drops recalled over fungal concerns: Here's which Systane products are impacted",
-      "description": "Select eye drops under the Systane brand were voluntarily recalled for concerns of fungal contamination, which could cause eye infection and threaten users' vision, according to a recall announcement published this week by the Food and Drug Administration.\nAl…",
-      "url": "https://biztoc.com/x/7bdd001437b56862",
-      "urlToImage": "https://biztoc.com/cdn/7bdd001437b56862_s.webp",
-      "publishedAt": "2024-12-24T18:44:27Z",
-      "content": "Select eye drops under the Systane brand were voluntarily recalled for concerns of fungal contamination, which could cause eye infection and threaten users' vision, according to a recall announcement… [+147 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?s=a2&share_destination_id=MjIwMzYzMDQ4LTE3MzUxMzc2OTExNDI%3D&pd=0EucUi8J&hl=en_US&send_time=1735137691&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_24q4-v9%2Cns_foryou_recall_exp_24q4-v9%2Cns_foryou_model_exp_25q1-v3%2Cns_local_strategy_24q4_exp-v16%2Cns_push_exp_rt_bucketv12-v8%2Cns_foryou_blend_exp_25q1-v6",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T18:25:58Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/news/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T18:25:58Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?s=a2&share_destination_id=ODg0OTM1NzEtMTczNTEyMzA4Njk0OQ%3D%3D&pd=05zJDfwt&hl=en_US&send_time=1735123086&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v3%2Cns_foryou_recall_exp_24q4-v9%2Cns_foryou_model_exp_25q1-v5%2Cns_local_strategy_24q4_exp-v18%2Cns_push_exp_rt_bucketv12-v4%2Cns_foryou_rank_exp_24q4-v7",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T18:25:58Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-12-24T18:25:58Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Olivia Hebert",
-      "title": "Sausage recall prompts ‘health hazard’ alert across three states",
-      "description": "The U.S. Department of Agriculture’s ( USDA ) Food Safety and Inspection Service (FSIS) has issued a high-risk recall for approximately 7,485 pounds of raw Italian pork sausage products produced by Impero Foods & Meats, Inc., a Baltimore-based establishment. …",
-      "url": "https://www.newsbreak.com/share/3729383650460-sausage-recall-prompts-health-hazard-alert-across-three-states?s=a2&share_destination_id=MTc5OTM4NTAzLTE3MzUwNzcwNjk5MjU%3D&pd=0CB0Dv47&hl=en_US&send_time=1735077069&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_24q4-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_24q4-v8%2Cns_local_strategy_24q4_exp-v10%2Cns_foryou_blend_exp_25q1-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/2O84ky_0xeoldrK00",
-      "publishedAt": "2024-12-24T18:25:58Z",
-      "content": "The recalled Old World Italian Sausage (not pictured) were produced by Impero Foods &amp; Meats, Inc. Getty Images \r\nThe U.S. Department of Agricultures ( USDA ) Food Safety and Inspection Service (F… [+2649 chars]"
     }
   ],
-  "totalResults": 1039,
+  "totalResults": 1043,
   "query": "food%20recall"
 }
