@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2024-12-28T21:37:31.102Z",
+  "lastUpdated": "2024-12-28T22:17:45.796Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Candy Bar Recall Sparks Nationwide Warning",
+      "description": "Gardners Candies initiated a recall of its Cappuccino Meltaway bars due to the possibility they contain undeclared cashews.",
+      "url": "https://www.newsweek.com/candy-bar-recall-sparks-nationwide-warning-2006769",
+      "urlToImage": "https://d.newsweek.com/en/full/2552515/chocolate.jpg",
+      "publishedAt": "2024-12-27T22:11:21Z",
+      "content": "Gardners Candies is recalling its Cappuccino Meltaway bars due to the possibility the product contains undeclared cashew nuts.\r\nWhy It Matters\r\nCustomers who purchased the bars and have a tree nut al… [+2735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Can Dogs Get Bird Flu? 10 Signs and Symptoms to Watch Out For",
+      "description": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing bird flu outbreak in the United States and how people can protect their pets.\nBird flu, or H5N1, has been spreading for years in wild birds, chickens, turkeys and m…",
+      "url": "https://biztoc.com/x/e4cabda18471e121",
+      "urlToImage": "https://biztoc.com/cdn/e4cabda18471e121_s.webp",
+      "publishedAt": "2024-12-27T21:56:46Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing bird flu outbreak in the United States and how people can protect their pets.Bird flu, or H5N1, has been… [+142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "AFP",
+      "title": "New bird flu mutation discovered in US as cat infections cause alarm",
+      "description": "The ongoing spread of bird flu in the United States has alarmed experts — not just because of human cases causing severe illness, but also due to troubling new instances of infections in cats.  A sample of the virus found in a critically ill patient in the Un…",
+      "url": "https://www.digitaljournal.com/life/new-bird-flu-mutation-discovered-in-us-as-cat-infections-cause-alarm/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/12/f61fd5e5c3a1887ecb650afa77a659729a2efba2.jpg",
+      "publishedAt": "2024-12-27T21:55:00Z",
+      "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and… [+4162 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jesus Mesa",
+      "title": "Can Dogs Get Bird Flu? 10 Signs and Symptoms to Watch Out For",
+      "description": "While dogs are not common carriers of bird flu, they can become infected, especially if exposed to sick or dead birds.",
+      "url": "https://www.newsweek.com/dogs-pets-bird-flu-h5n1-symptoms-signs-outbreak-2006801",
+      "urlToImage": "https://d.newsweek.com/en/full/2552492/golden-retriever-waiting-car.jpg",
+      "publishedAt": "2024-12-27T21:46:04Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing bird flu outbreak in the United States and how people can protect their pets.\r\nBird flu, or H5N1, has be… [+2886 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Clarissa-Jan Lim",
+      "title": "What to know about the spread of the bird flu",
+      "description": "The virus has spread among dairy cattle, humans and other mammals. But officials say the current public health risk is low.",
+      "url": "https://www.msnbc.com/top-stories/latest/bird-flu-h5n1-outbreak-spread-humans-rcna185560",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241227-bird-flu-testing-aa-1213-e99412.jpg",
+      "publishedAt": "2024-12-27T21:40:04Z",
+      "content": "The spread of the bird flu among humans and other mammals in the United States has sparked some concern among public health experts in recent weeks, though U.S. officials say the risk it currently po… [+3633 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -372,7 +437,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Experts warn of a surge in activity associated FICORA and Kaiten botnets",
-      "description": "FortiGuard Labs observed increased activity from two botnets, the Mirai variant “FICORA�� and the Kaiten variant “CAPSAICIN”. FortiGuard Labs researchers observed a surge in activity associated with two botnets, the Mirai variant “FICORA” and the Kaiten varian…",
+      "description": "FortiGuard Labs observed increased activity from two botnets, the Mirai variant “FICORA” and the Kaiten variant “CAPSAICIN”. FortiGuard Labs researchers observed a surge in activity associated with two botnets, the Mirai variant “FICORA” and the Kaiten varian…",
       "url": "https://securityaffairs.com/172373/uncategorized/surge-ficora-kaiten-botnets.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-31.png",
       "publishedAt": "2024-12-27T11:24:13Z",
@@ -1235,73 +1300,8 @@
       "urlToImage": "https://img.particlenews.com/img/id/4b5EyY_0xfyIk4p00",
       "publishedAt": "2024-12-26T01:48:05Z",
       "content": "Crocodile Dundee icon dies, aged 90\r\n One of the stars of Crocodile Dundee, who appeared alongside Paul Hogan in the 1986 blockbuster, has died at an estimated age of 90, the reptiles caretakers have… [+454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Ashley R. Williams",
-      "title": "Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird flu",
-      "description": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.",
-      "url": "https://www.newsbreak.com/share/3730526389977-voluntary-pet-food-recall-issued-after-oregon-house-cat-dies-from-eating-product-that-tested-positive-for-bird-flu?_f=app_share&amp;pd=0CtNws0T&amp;lang=en_US&amp;send_time=1735176696&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.51.0.21%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v9%2Cns_foryou_rank_exp_24q4-v7%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v1%2Cns_foryou_recall_exp_24q4-v6%2Cns_local_strategy_24q4_exp-v18&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/4b5EyY_0xfyIk4p00",
-      "publishedAt": "2024-12-26T01:32:08Z",
-      "content": "Crocodile Dundee icon dies, aged 90\r\n One of the stars of Crocodile Dundee, who appeared alongside Paul Hogan in the 1986 blockbuster, has died at an estimated age of 90, the reptiles caretakers have… [+454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Pet Food Brand Recalled For Bird Flu Contamination After House Cat Dies",
-      "description": "What's New\nA Portland-based pet food company has issued a voluntary recall after a pet cat in Oregon died from eating one of its products, which was positive for bird flu contamination.\nWhy It Matters\nNorthwest Naturals announced in a press release on Tuesday…",
-      "url": "https://biztoc.com/x/372fcf9a7eb43de2",
-      "urlToImage": "https://biztoc.com/cdn/372fcf9a7eb43de2_s.webp",
-      "publishedAt": "2024-12-26T01:07:31Z",
-      "content": "What's NewA Portland-based pet food company has issued a voluntary recall after a pet cat in Oregon died from eating one of its products, which was positive for bird flu contamination.Why It MattersN… [+140 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Monica Sager",
-      "title": "Pet Food Brand Recalled For Bird Flu Contamination After House Cat Dies",
-      "description": "The Oregon Health Authority and local officials are monitoring household members who had contact with the cat for flu symptoms.",
-      "url": "https://www.newsweek.com/oregon-northwest-naturals-pet-food-cat-died-bird-flu-2006033",
-      "urlToImage": "https://d.newsweek.com/en/full/2551496/house-cat-stock.jpg",
-      "publishedAt": "2024-12-26T01:04:15Z",
-      "content": "What's New\r\nA Portland-based pet food company has issued a voluntary recall after a pet cat in Oregon died from eating one of its products, which was positive for bird flu contamination.\r\nWhy It Matt… [+4479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Apache fixed a critical SQL Injection in Apache Traffic Control",
-      "description": "Apache Software Foundation (ASF) addressed a critical SQL Injection vulnerability, tracked as CVE-2024-45387, in Apache Traffic Control. The Apache Software Foundation (ASF) released security updates to address a critical security vulnerability, tracked as CV…",
-      "url": "https://securityaffairs.com/172307/security/apache-traffic-control-critical-flaw.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2013/04/apache-backdoor.jpg",
-      "publishedAt": "2024-12-26T00:43:20Z",
-      "content": "Apache fixed a critical SQL Injection in Apache Traffic Control\r\n | BellaCPP, Charming Kitten's BellaCiao variant written in C++\r\n | DMM Bitcoin $308M Bitcoin heist linked to North Korea\r\n | Adobe is… [+126134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Associated Press",
-      "title": "Recall issued after house cat dies from pet food contaminated with bird flu",
-      "description": "More than 60 people in eight states have been infected with bird flu.",
-      "url": "https://nypost.com/2024/12/25/us-news/recall-issued-after-oregon-house-cat-dies-from-pet-food-contaminated-with-bird-flu/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/oregon-house-cat-died-eating-95851971.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-12-26T00:42:30Z",
-      "content": "An Oregon house cat died after eating pet food that tested positive for bird flu, Oregon authorities said, prompting a recall of raw frozen pet food that was sold nationwide.\r\nNorthwest Naturals, a p… [+2084 chars]"
     }
   ],
-  "totalResults": 1045,
+  "totalResults": 1050,
   "query": "food%20recall"
 }
