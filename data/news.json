@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-28T22:38:53.809Z",
+  "lastUpdated": "2024-12-28T23:19:13.575Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "npr.org",
+      "title": "Costco egg recall for salmonella receives FDA's most severe designation",
+      "description": "Costco egg recall for salmonella receives FDA's most severe designation\nThe Food and Drug Administration has classified its recall of eggs sold under Costco's Kirkland brand as a Class I recall, a designation reserved for instances of the highest potential he…",
+      "url": "https://biztoc.com/x/5370ea190b6217ed",
+      "urlToImage": "https://biztoc.com/cdn/5370ea190b6217ed_s.webp",
+      "publishedAt": "2024-12-27T22:52:15Z",
+      "content": "Costco egg recall for salmonella receives FDA's most severe designationThe Food and Drug Administration has classified its recall of eggs sold under Costco's Kirkland brand as a Class I recall, a des… [+138 chars]"
+    },
     {
       "source": {
         "id": "cbs-news",
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://img.particlenews.com/img/id/4b5EyY_0xfyIk4p00",
       "publishedAt": "2024-12-26T02:25:33Z",
       "content": "Crocodile Dundee icon dies, aged 90\r\n One of the stars of Crocodile Dundee, who appeared alongside Paul Hogan in the 1986 blockbuster, has died at an estimated age of 90, the reptiles caretakers have… [+454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pleated-jeans.com"
-      },
-      "author": "Alex Buscemi",
-      "title": "30 Of The Darkest And Most Disturbing Facts People Learned This Year",
-      "description": "It’s been a year full of strange discoveries, and some of the darkest ones stick with us for better or worse. From unsettling truths about human nature to bizarre facts about the natural world, these bits of knowledge walk the fine line between fascinating an…",
-      "url": "https://pleated-jeans.com/2024/12/25/dark-disturbing-facts/",
-      "urlToImage": "https://pleated-jeans.com/wp-content/uploads/2024/12/dark-disturbing-facts.jpg",
-      "publishedAt": "2024-12-26T02:16:37Z",
-      "content": "Its been a year full of strange discoveries, and some of the darkest ones stick with us for better or worse.\r\nFrom unsettling truths about human nature to bizarre facts about the natural world, these… [+19290 chars]"
     }
   ],
-  "totalResults": 1051,
+  "totalResults": 1052,
   "query": "food%20recall"
 }
