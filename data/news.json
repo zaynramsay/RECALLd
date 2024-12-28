@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-28T20:47:04.900Z",
+  "lastUpdated": "2024-12-28T21:17:20.310Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Japan Today"
+      },
+      "author": null,
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets. Bird flu has been spreading for years in wild birds, chickens, turkeys and many other animals. It was fi…",
+      "url": "https://japantoday.com/category/features/health/cats-can-get-sick-with-bird-flu.-here%27s-how-to-protect-them",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T21:13:24Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3144 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -766,7 +779,7 @@
       "url": "https://www.portlandmercury.com/good-morning-news/2024/12/26/47565796/good-morning-news-power-outages-for-christmas-homeless-bans-surge-nationwide-and-the-beyonce-halftime-show-we-needed",
       "urlToImage": "https://media2.fdncms.com/portmerc/imager/u/large/47566846/gettyimages-2191421242.webp",
       "publishedAt": "2024-12-26T16:55:00Z",
-      "content": "If youre reading this, you probably know the value of the Mercurys newsreporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps o�� [+6468 chars]"
+      "content": "If youre reading this, you probably know the value of the Mercurys newsreporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps o… [+6468 chars]"
     },
     {
       "source": {
@@ -1287,21 +1300,8 @@
       "urlToImage": null,
       "publishedAt": "2024-12-26T00:12:09Z",
       "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Ashley R. Williams",
-      "title": "Northwest Naturals: Pet food voluntarily recalled for bird flu risk",
-      "description": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.",
-      "url": "https://www.cnn.com/2024/12/25/us/bird-flu-pet-food-voluntary-recall/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/turkey1-copy.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-12-25T23:27:21Z",
-      "content": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.\r\nNorthwest Naturals, owned… [+3089 chars]"
     }
   ],
-  "totalResults": 1043,
+  "totalResults": 1044,
   "query": "food%20recall"
 }
