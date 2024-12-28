@@ -2,13 +2,13 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-// Enhanced debugging for API key
 const API_KEY = process.env.NEWS_API_KEY;
+
+// Debug logging for API key
 console.log('Environment variables available:', Object.keys(process.env));
 console.log('API Key exists:', !!API_KEY);
 console.log('API Key length:', API_KEY ? API_KEY.length : 0);
 console.log('First 4 chars:', API_KEY ? API_KEY.substring(0, 4) : 'N/A');
-console.log('Last 4 chars:', API_KEY ? API_KEY.slice(-4) : 'N/A');
 
 if (!API_KEY) {
     console.error('NEWS_API_KEY environment variable is not set');
@@ -59,7 +59,15 @@ const url = `https://newsapi.org/v2/everything?` +
 const debugUrl = url.replace(API_KEY, API_KEY.substring(0, 4) + '...');
 console.log('Debug URL:', debugUrl);
 
-https.get(url, (resp) => {
+// Create request options with User-Agent header
+const options = {
+    headers: {
+        'User-Agent': 'GitHub-Action-Food-Recall-Monitor/1.0',
+        'X-Api-Key': API_KEY
+    }
+};
+
+https.get(url, options, (resp) => {
     let data = '';
     
     resp.on('data', (chunk) => {
