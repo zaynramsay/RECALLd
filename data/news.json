@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-28T22:17:45.796Z",
+  "lastUpdated": "2024-12-28T22:38:53.809Z",
   "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Andrew Adeolu",
+      "title": "Nearly 7,500 pounds of sausage recalled in three states due to \"health hazard\"; Baltimore-based food establishment distributes without USDA inspection",
+      "description": "Impero Foods & Meats Inc., a Baltimore-based establishment, has issued a recall for 7,485 pounds of raw pork sausage products after they were produced and distributed without the benefit of a federal inspection by the USDA's Food Safety and Inspection Service…",
+      "url": "https://www.cbsnews.com/baltimore/news/nearly-7500-pounds-of-sausage-recalled-in-three-states-due-to-health-hazard-baltimore-based-company-distributes-without-usda-inspection/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/12/27/1a724b65-19a8-45ae-a04e-0957416c4030/thumbnail/1200x630/1528029e83f7693440f4978078568a33/gettyimages-1337935442.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+      "publishedAt": "2024-12-27T22:31:13Z",
+      "content": "BALTIMORE - A Baltimore-based food and meat establishment is recalling 7,485 pounds of raw pork sausage products that were distributed in Maryland, Delaware, and Pennsylvania after they were produced… [+2430 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://pleated-jeans.com/wp-content/uploads/2024/12/dark-disturbing-facts.jpg",
       "publishedAt": "2024-12-26T02:16:37Z",
       "content": "Its been a year full of strange discoveries, and some of the darkest ones stick with us for better or worse.\r\nFrom unsettling truths about human nature to bizarre facts about the natural world, these… [+19290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Ashley R. Williams",
-      "title": "Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird flu",
-      "description": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.",
-      "url": "https://www.newsbreak.com/share/3730526389977-voluntary-pet-food-recall-issued-after-oregon-house-cat-dies-from-eating-product-that-tested-positive-for-bird-flu?s=a2&amp;share_destination_id=MTM1ODcyNzIyLTE3MzUxNzc2NTg4NjY%3D&amp;pd=09C6hWpd&amp;hl=en_US&amp;send_time=1735177658&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_24q4-v2%2Cns_foryou_recall_exp_24q4-v6%2Cns_foryou_blend_exp_25q1-v1%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_model_exp_25q1-v9%2Cns_local_strategy_24q4_exp-holdback",
-      "urlToImage": "https://img.particlenews.com/img/id/4b5EyY_0xfyIk4p00",
-      "publishedAt": "2024-12-26T01:48:05Z",
-      "content": "Crocodile Dundee icon dies, aged 90\r\n One of the stars of Crocodile Dundee, who appeared alongside Paul Hogan in the 1986 blockbuster, has died at an estimated age of 90, the reptiles caretakers have… [+454 chars]"
     }
   ],
-  "totalResults": 1050,
+  "totalResults": 1051,
   "query": "food%20recall"
 }
