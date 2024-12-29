@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2024-12-29T16:41:14.311Z",
+  "lastUpdated": "2024-12-29T17:16:54.695Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "AP",
+      "title": "How To Protect Your Cat From Bird Flu",
+      "description": "A pet food recall and the death of an Oregon house cat from avian flu are raising questions about how people can protect their pets.",
+      "url": "https://www.huffpost.com/entry/bc-us-med-bird-flu-pets-explainer_n_677029eee4b00983c2deedc0",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67702a8818000025005fa7d7.jpeg?cache=69ngpK9uQ6&ops=1200_630",
+      "publishedAt": "2024-12-28T16:49:45Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+4937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-28T16:44:05Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Chocolate candy bars recalled nationwide due to tree nut allergy risk",
+      "description": "Gardners Candies has issued a nationwide recall on one of its chocolate bars, due to the risk of a tree nut allergy . The Food and Drug Administration announced on Friday (December 27) that the company was issuing a recall on its 1.25-ounce packages of Cappuc…",
+      "url": "https://www.newsbreak.com/share/3733614138849-chocolate-candy-bars-recalled-nationwide-due-to-tree-nut-allergy-risk?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzU0NDMzMDQ4NDE%3D&pd=0EY3bTgT&hl=en_US&send_time=1735443304&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_local_strategy_24q4_exp-v14%2Cns_foryou_blend_exp_25q1-v3",
+      "urlToImage": "https://img.particlenews.com/img/id/3QxO8U_0xj4JPXg00",
+      "publishedAt": "2024-12-28T16:44:05Z",
+      "content": "Gardners Candies has issued a nationwide recall on one of its chocolate bars, due to the risk of a tree nut allergy . \r\n The Food and Drug Administration announced on Friday (December 27) that the co… [+2665 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -60,7 +99,7 @@
       },
       "author": "Quartz Bot",
       "title": "Egg recall escalates, American Airlines blames Boeing, and Christmas's top toy: Business news roundup",
-      "description": "The Food and Drug Administration (FDA) has issued a new warning about thousands of recalled eggs sold at Costco (COST) stores due to potential contamination with salmonella, a bacterium that can cause serious infections. The recall has been elevated to the FD…",
+      "description": "The Food and Drug Administration (FDA) has issued a new warning about thousands of recalled eggs sold at Costco (COST) stores due to potential contamination with salmonella, a bacterium that can cause serious infections. The recall has been elevated to the FD��",
       "url": "https://qz.com/egg-recall-escalates-american-airlines-blames-boeing-1851729388",
       "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5ff53c29ccc7e9d2011058e2d7e6226a.jpg",
       "publishedAt": "2024-12-28T14:00:00Z",
@@ -579,7 +618,7 @@
         "name": "Plos.org"
       },
       "author": "Taiwei Lou, Zhiru Zhao, Hongjin Du, Jiwei Zhang, Tian Ni, Miaoran Wang, Qiuyan Li",
-      "title": "The interaction between sleep patterns and oxidative balance scores on the risk of cognitive function decline: Results from the national health and nutrition examination survey 2011���2014",
+      "title": "The interaction between sleep patterns and oxidative balance scores on the risk of cognitive function decline: Results from the national health and nutrition examination survey 2011–2014",
       "description": "Background Unhealthy sleep and exposures to oxidative factors are both associated with poor cognitive performance (PCP), but limited evidence has been found regarding the relationship between sleep patterns and oxidative factor exposures independently or join…",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313784",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313784.g002&size=inline",
@@ -1261,47 +1300,8 @@
       "urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
       "publishedAt": "2024-12-26T13:26:09Z",
       "content": "Thermometers are an old $15 general food thermometer, an old $25 Thermapen knockoff designed for meat, and a new $20 spatula-embedded thermometer. In two past attempts, I've used the average of the f… [+966 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Healthday.com"
-      },
-      "author": "India Edwards",
-      "title": "Northwest Naturals Recalls Cat Food Over Bird Flu Contamination",
-      "description": "THURSDAY, Dec. 26, 2024 (HealthDay News) -- A batch of pet food has been voluntarily recalled nationwide after a cat in Oregon died of bird flu, an illness stat",
-      "url": "https://www.healthday.com/health-news/northwest-naturals-pet-food-linked-to-bird-flu-in-cat-issues-recall",
-      "urlToImage": "https://media.assettype.com/healthday-en%2F2024-10-17%2F7t51791z%2FAdobeStock434502641.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2024-12-26T13:14:04Z",
-      "content": "THURSDAY, Dec. 26, 2024 (HealthDay News) -- A batch of pet food has been voluntarily recalled nationwide after a cat in Oregon died of bird flu, an illness state officials linked to contaminated food… [+1495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Jenn Gidman",
-      "title": "Big Cats Drop Dead of H5N1 at Sanctuary",
-      "description": "Earlier this month, Gov. Gavin Newsom declared an emergency in California over bird flu spreading in cattle there. Now, in a different West Coast state, nearly two dozen big cats have died at a sanctuary of H5N1. At least 20 animals at the Wild Felid Advocacy…",
-      "url": "https://www.newser.com/story/361569/big-cats-drop-dead-of-h5n1-at-sanctuary.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1580931-12-20241226074744.jpeg",
-      "publishedAt": "2024-12-26T13:11:00Z",
-      "content": "Earlier this month, Gov. Gavin Newsom declared an emergency in California over bird flu spreading in cattle there. Now, in a different West Coast state, nearly two dozen big cats have died at a sanct… [+1196 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Search Engine Journal"
-      },
-      "author": "Angie Nikoleychuk",
-      "title": "Revolutionizing Marketing: The Rise Of Situational Content Strategies via @sejournal, @Juxtacognition",
-      "description": "Adapt your content strategy to the complexities of modern decision-making. Explore situational content strategies and connect with audiences in the right moment.\nThe post Revolutionizing Marketing: The Rise Of Situational Content Strategies appeared first on …",
-      "url": "https://www.searchenginejournal.com/the-rise-of-situational-content-strategies/533924/",
-      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/12/content-marketing-978.png",
-      "publishedAt": "2024-12-26T13:00:30Z",
-      "content": "Content marketing is experiencing a paradigm shift.\r\nFor decades, marketers have relied on the traditional funnel – a linear model designed to move consumers from awareness to action. But, as consume… [+27286 chars]"
     }
   ],
-  "totalResults": 1033,
+  "totalResults": 1036,
   "query": "food%20recall"
 }
