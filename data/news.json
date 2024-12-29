@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T16:22:48.297Z",
+  "lastUpdated": "2024-12-29T16:41:14.311Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Pro-Russia group NoName targeted the websites of Italian airports",
+      "description": "Pro-Russia group NoName057 targets Italian sites, including Malpensa and Linate airports, in a new DDoS campaign amid rising geopolitical tensions. The pro-Russia group NoName57 continues its campaign of DDoS attacks against Italian infrastructure. This time,…",
+      "url": "https://securityaffairs.com/172395/security/pro-russia-group-noname057-targets-italian-airports.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-33.png",
+      "publishedAt": "2024-12-28T16:36:10Z",
+      "content": "Pro-Russia group NoName targeted the websites of Italian airports\r\n | North Korea actors use OtterCookie malware in Contagious Interview campaign\r\n | Experts warn of a surge in activity associated FI… [+126664 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -566,7 +579,7 @@
         "name": "Plos.org"
       },
       "author": "Taiwei Lou, Zhiru Zhao, Hongjin Du, Jiwei Zhang, Tian Ni, Miaoran Wang, Qiuyan Li",
-      "title": "The interaction between sleep patterns and oxidative balance scores on the risk of cognitive function decline: Results from the national health and nutrition examination survey 2011–2014",
+      "title": "The interaction between sleep patterns and oxidative balance scores on the risk of cognitive function decline: Results from the national health and nutrition examination survey 2011���2014",
       "description": "Background Unhealthy sleep and exposures to oxidative factors are both associated with poor cognitive performance (PCP), but limited evidence has been found regarding the relationship between sleep patterns and oxidative factor exposures independently or join…",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313784",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313784.g002&size=inline",
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/12/content-marketing-978.png",
       "publishedAt": "2024-12-26T13:00:30Z",
       "content": "Content marketing is experiencing a paradigm shift.\r\nFor decades, marketers have relied on the traditional funnel – a linear model designed to move consumers from awareness to action. But, as consume… [+27286 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Oregon house cat died after eating pet food that tested positive for bird flu - KATU",
-      "description": "Oregon house cat died after eating pet food that tested positive for bird fluKATU Cat food recalled after death linked to bird flu contaminationUSA TODAY Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175756333",
-      "urlToImage": null,
-      "publishedAt": "2024-12-26T11:52:09Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ],
-  "totalResults": 1032,
+  "totalResults": 1033,
   "query": "food%20recall"
 }
