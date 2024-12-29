@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2024-12-29T15:18:28.643Z",
+  "lastUpdated": "2024-12-29T15:37:34.711Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Cocktail Recall Update As FDA Issues Risk Warning for 25 States",
+      "description": "The U.S. Food and Drug Administration has officially classified the recall of a Borsari Food Co. \"Bloody Mary Mix\" product as a Class II recall.\nA Class II classification indicates that the recalled product may pose a moderate health risk to consumers, with t…",
+      "url": "https://biztoc.com/x/c88c2aa55f7b0609",
+      "urlToImage": "https://biztoc.com/cdn/c88c2aa55f7b0609_s.webp",
+      "publishedAt": "2024-12-28T15:32:44Z",
+      "content": "The U.S. Food and Drug Administration has officially classified the recall of a Borsari Food Co. \"Bloody Mary Mix\" product as a Class II recall.A Class II classification indicates that the recalled p… [+141 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Emma Marsden",
+      "title": "Cocktail Recall Update As FDA Issues Risk Warning for 25 States",
+      "description": "A voluntary recall was initiated after it was discovered that pre-mixed Bloody Marys may contain undeclared allergens, including fish (anchovy), or soy.",
+      "url": "https://www.newsweek.com/cocktail-recall-update-fda-issues-risk-warning-25-states-2006906",
+      "urlToImage": "https://d.newsweek.com/en/full/2552603/bloody-mary.jpg",
+      "publishedAt": "2024-12-28T15:31:46Z",
+      "content": "The U.S. Food and Drug Administration has officially classified the recall of a Borsari Food Co. \"Bloody Mary Mix\" product as a Class II recall.\r\nA Class II classification indicates that the recalled… [+3631 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -606,7 +632,7 @@
       },
       "author": "Great American Satan",
       "title": "Life List: American Crow",
-      "description": "I admit, Australia has America beat, in the category of evil genius super-bird species.  There are hella parrots there and corvids too.  But our reigning champ of world-beating nasty little punk emeff gangster birds does well for itself.  So well, it’s been m…",
+      "description": "I admit, Australia has America beat, in the category of evil genius super-bird species.  There are hella parrots there and corvids too.  But our reigning champ of world-beating nasty little punk emeff gangster birds does well for itself.  So well, it’s been m���",
       "url": "https://freethoughtblogs.com/gas/2024/12/27/life-list-american-crow/",
       "urlToImage": "https://freethoughtblogs.com/gas/wp-content/themes/ftb2-theme/images/logo.gif",
       "publishedAt": "2024-12-27T11:30:15Z",
@@ -1274,34 +1300,8 @@
       "urlToImage": null,
       "publishedAt": "2024-12-26T11:52:09Z",
       "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Awaytogarden.com"
-      },
-      "author": "margaret",
-      "title": "looking back, and forward, at the garden with joe lamp’l",
-      "description": "WHETHER OUT LOUD here on the podcast or just between us on one of our periodic late Friday afternoon phone calls, I always benefit from catching up with Joe Lamp’l (a.k.a. Joe Gardener). Probably no time for talking is more beneficial than around year’s end, …",
-      "url": "https://awaytogarden.com/looking-back-and-forward-at-the-garden-with-joe-lampl/",
-      "urlToImage": "https://awaytogarden.com/wp-content/uploads/2024/12/Mixed-flowers-from-the-garden.jpeg",
-      "publishedAt": "2024-12-26T11:44:17Z",
-      "content": "WHETHER OUT LOUD here on the podcast or just between us on one of our periodic late Friday afternoon phone calls, I always benefit from catching up with Joe Lampl (a.k.a. Joe Gardener). Probably no t… [+25290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foodpoisonjournal.com"
-      },
-      "author": "Bruce Clark",
-      "title": "LA Best Restaurant Event hit with Norovirus Outbreak tied to Raw Oysters",
-      "description": "According to USA Today, The Los Angeles County Department of Public Health is investigating a norovirus outbreak after oysters served at a Los Angeles County event this month made over 80 people sick. The event was a Los Angeles Times 101 Best Restaurants eve…",
-      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/la-best-restaurant-event-hit-with-norovirus-outbreak-tied-to-raw-oysters/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/076/525/055/9BvRDJ724zWkBqlozlAKNOd03/081c03efeb219d7c19bcbcfe70b963b508253852.png",
-      "publishedAt": "2024-12-26T11:03:59Z",
-      "content": "According to USA Today, The Los Angeles County Department of Public Health is investigating a norovirus outbreak after oysters served at a Los Angeles County event this month made over 80 people sick… [+1049 chars]"
     }
   ],
-  "totalResults": 1030,
+  "totalResults": 1032,
   "query": "food%20recall"
 }
