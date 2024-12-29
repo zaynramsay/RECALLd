@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T02:56:43.759Z",
+  "lastUpdated": "2024-12-29T03:30:27.820Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Sarah Tate",
+      "title": "Candies Recalled In Tennessee Over 'Life-Threatening' Health Risk",
+      "description": "Candies Recalled In Tennessee Over 'Life-Threatening' Health Risknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/3732883282293-candies-recalled-in-tennessee-over-life-threatening-health-risk?s=a2&share_destination_id=NTExNjE4NTktMTczNTM1NjAwNTYwOQ%3D%3D&pd=03SfXHkO&hl=en_US&send_time=1735356005&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_24q4_exp-v18%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v1%2Cns_push_exp_rt_bucketv12-v8",
+      "urlToImage": "https://img.particlenews.com/img/id/43uP7n_0xiKvXIy00",
+      "publishedAt": "2024-12-28T03:21:06Z",
+      "content": "Photo: Getty Images \r\nAs revelers continue to celebrate the holiday season, many dessert lovers may be looking to dig in to any new sweet treats they may have received. However, they may want to take… [+1307 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/076/496/642/nE38ekNX9Qnr8R1yQMamprWxZ/6ef1652c6f992598b90c897107dced123e9b2d42.png",
       "publishedAt": "2024-12-26T04:29:49Z",
       "content": "1.    Yu Shang Food, Inc. Ready to Eat Meat Listeria Outbreak: As of December 5, 2024, 19 people from eight states have been infected with the outbreak strains of Listeria.  Sick people’s samples wer… [+14422 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "The Associated Press",
-      "title": "Oregon house cat died after eating pet food that tested positive for bird flu",
-      "description": "Oregon authorities say a house cat died after eating raw frozen pet food that tested positive for bird flu",
-      "url": "https://abcnews.go.com/Health/wireStory/oregon-house-cat-died-after-eating-pet-food-117108655",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2024-12-26T03:41:39Z",
-      "content": "PORTLAND, Ore. -- An Oregon house cat died after eating pet food that tested positive for bird flu, Oregon authorities said, prompting a recall of raw frozen pet food that was sold nationwide.\r\nNorth… [+2098 chars]"
     }
   ],
-  "totalResults": 1020,
+  "totalResults": 1021,
   "query": "food%20recall"
 }
