@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T21:17:31.624Z",
+  "lastUpdated": "2024-12-29T21:38:51.156Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Chocolate candy bars recalled nationwide due to tree nut allergy risk",
+      "description": "Gardners Candies has issued a nationwide recall on one of its chocolate bars, due to the risk of a tree nut allergy . The Food and Drug Administration announced on Friday (December 27) that the company was issuing a recall on its 1.25-ounce packages of Cappuc…",
+      "url": "https://www.newsbreak.com/share/3733614138849-chocolate-candy-bars-recalled-nationwide-due-to-tree-nut-allergy-risk?s=a2&share_destination_id=Mjc5MjE0OTcyLTE3MzU0MjA4OTQyMjg%3D&pd=0ItYZIUX&hl=en_US&send_time=1735420894&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v3%2Cns_foryou_recall_exp_25q1-v5%2Cns_local_strategy_24q4_exp-v13%2Cns_push_exp_rt_bucketv12-v5%2Cns_foryou_model_exp_25q1-v8",
+      "urlToImage": "https://img.particlenews.com/img/id/3QxO8U_0xj4JPXg00",
+      "publishedAt": "2024-12-28T21:22:12Z",
+      "content": "Gardners Candies has issued a nationwide recall on one of its chocolate bars, due to the risk of a tree nut allergy . \r\n The Food and Drug Administration announced on Friday (December 27) that the co… [+2665 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -644,7 +657,7 @@
         "name": "Plos.org"
       },
       "author": "Cindy Garris, Irina Kolobova, Vasiliki Chounta, Alberto Díaz De Santiago, Robin Dretler, Tulika Singh, Gary Sinclair",
-      "title": "Qualitative evaluation of survey questions to assess treatment preference for daily oral or long‑acting injectable antiretroviral therapy among people living with HIV",
+      "title": "Qualitative evaluation of survey questions to assess treatment preference for daily oral or long��acting injectable antiretroviral therapy among people living with HIV",
       "description": "Treatment of HIV has historically required taking daily oral antiretroviral therapy (ART). A recent alternative to daily oral ART is long-acting injectable ART with cabotegravir plus rilpivirine, administered monthly or every 2 months. The purpose of this qua…",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309588",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309588.g003&size=inline",
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
       "publishedAt": "2024-12-26T14:24:09Z",
       "content": "A ransomware attack disrupted services at Pittsburgh Regional Transit\r\n | A cyber attack hit Japan Airlines delaying ticket sales for flights\r\n | Apache fixed a critical SQL Injection in Apache Traff… [+126280 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rogerebert.com"
-      },
-      "author": "The Editors",
-      "title": "The Great Craft of 2024",
-      "description": "Incredible achievements of 2024 in cinematography, editing, art direction, original music, and more.",
-      "url": "https://www.rogerebert.com/features/the-great-craft-of-2024",
-      "urlToImage": "https://www.rogerebert.com/wp-content/uploads/2024/12/MixCollage-20-Dec-2024-10-53-AM-7148.jpg",
-      "publishedAt": "2024-12-26T13:45:51Z",
-      "content": "It’s that time of year when everyone is talking about their favorite films and performances, but not nearly enough attention is given to everything else that we love about the art of movies. We asked… [+44431 chars]"
     }
   ],
-  "totalResults": 1037,
+  "totalResults": 1038,
   "query": "food%20recall"
 }
