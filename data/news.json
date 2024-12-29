@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T14:37:40.085Z",
+  "lastUpdated": "2024-12-29T15:18:28.643Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Mega Millions Winner Bought Billion Dollar Ticket at NorCal Gas Station",
+      "description": "A person in California walked into a gas station and walked out a billion dollars richer ... they just didn't know it until last night! Here's the deal ... a Mega Millions player in the Golden State won the estimated $1.22 billion jackpot -- ending…",
+      "url": "https://www.tmz.com/2024/12/28/mega-millions-winner-bought-ticket-northern-california-gas-station/",
+      "urlToImage": "https://imagez.tmz.com/image/96/16by9/2024/12/28/96429f1c1aae4e4b9ed19ba16444d2a0_xl.jpg",
+      "publishedAt": "2024-12-28T15:13:19Z",
+      "content": "A person in California walked into a gas station and walked out a billion dollars richer ... they just didn't know it until last night!\r\nHere's the deal ... a Mega Millions player in the Golden State… [+1092 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -34,7 +47,7 @@
       },
       "author": "Ramon Ramirez",
       "title": " 10 of the most viral main characters of 2024",
-      "description": "This list appeared first in the Daily Dot’s newsletter web_crawlr. Every week, our Trending team will tell you what has been driving the discourse online in their “Main Character of the Week��� column. If you want to see more content like this before everyone e…",
+      "description": "This list appeared first in the Daily Dot’s newsletter web_crawlr. Every week, our Trending team will tell you what has been driving the discourse online in their “Main Character of the Week” column. If you want to see more content like this before everyone e…",
       "url": "https://www.dailydot.com/newsletters/viral-main-characters-2024/",
       "urlToImage": "https://uploads.dailydot.com/2024/12/YIR_WEBC_05_Main_CYIR_WEBC_ar_A.png?auto=compress&fit=scale&fm=png&h=400&w=800",
       "publishedAt": "2024-12-28T12:00:00Z",
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/076/525/055/9BvRDJ724zWkBqlozlAKNOd03/081c03efeb219d7c19bcbcfe70b963b508253852.png",
       "publishedAt": "2024-12-26T11:03:59Z",
       "content": "According to USA Today, The Los Angeles County Department of Public Health is investigating a norovirus outbreak after oysters served at a Los Angeles County event this month made over 80 people sick… [+1049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Ap News",
-      "title": "Pet food sold in Georgia recalled after testing positive for bird flu",
-      "description": "Pet food sold in Georgia recalled after testing positive for bird fluwsbtv.com",
-      "url": "https://www.wsbtv.com/news/national/pet-food-sold-georgia-recalled-after-testing-positive-bird-flu/HHG7DNTT5FEPRMHTRISNCOZAT4/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FULGKVA5M3ZDC5HINQALREJIZBM.png?auth=d5c83427b9e47b67d35cee135b3fcf134597e4cb412a61a7c7cb27d6478417ba&width=1200&height=630&smart=true",
-      "publishedAt": "2024-12-26T11:03:14Z",
-      "content": "ATLANTA — An Oregon house cat died after eating pet food that tested positive for bird flu, Oregon authorities said, prompting a recall of raw frozen pet food that was sold nationwide.\r\nNorthwest Nat… [+2236 chars]"
     }
   ],
-  "totalResults": 1029,
+  "totalResults": 1030,
   "query": "food%20recall"
 }
