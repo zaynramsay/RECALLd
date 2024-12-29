@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T06:44:13.031Z",
+  "lastUpdated": "2024-12-29T07:17:38.642Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "North Korea actors use OtterCookie malware in Contagious Interview campaign",
+      "description": "North Korea-linked threat actors are using the OtterCookie backdoor to target software developers with fake job offers. North Korea-linked threat actors were spotted using new malware called OtterCookie as part of the Contagious Interview campaign that target…",
+      "url": "https://securityaffairs.com/172382/malware/north-korea-linked-actors-using-ottercookie-backdoor.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-32.png",
+      "publishedAt": "2024-12-28T07:00:23Z",
+      "content": "North Korea actors use OtterCookie malware in Contagious Interview campaign\r\n | Experts warn of a surge in activity associated FICORA and Kaiten botnets\r\n | Brazilian citizen charged for threatening … [+126594 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -25,7 +38,7 @@
       "url": "http://twistedsifter.com/2024/12/the-same-frozen-tv-dinners-had-different-instructions-and-everybody-is-confused-you-guys-need-to-recall-or-something-because-this-is-crazy/",
       "urlToImage": "https://twistedsifter.com/wp-content/uploads/2024/12/ttbanquet.jpg",
       "publishedAt": "2024-12-28T04:48:00Z",
-      "content": "Talked about mixed messages!\r\nA TikTokker posted a video and talked to viewers about why she was confused about instructions on TV dinners that contradicted each other.\r\nThe woman said, I need someon��� [+1080 chars]"
+      "content": "Talked about mixed messages!\r\nA TikTokker posted a video and talked to viewers about why she was confused about instructions on TV dinners that contradicted each other.\r\nThe woman said, I need someon… [+1080 chars]"
     },
     {
       "source": {
@@ -1273,7 +1286,7 @@
       "url": "https://electronicintifada.net/content/small-acts-care-keep-us-alive/50246",
       "urlToImage": "https://electronicintifada.net/sites/default/files/styles/original_800w/public/2024-12/221124_khan_yunis_db_0088.jpg?itok=Jcbefh5H",
       "publishedAt": "2024-12-26T09:57:41Z",
-      "content": "Lina HamdounaThe Electronic Intifada26 December 2024\r\nBaking bread for displaced people in al-Mawasi, southern Gaza. \r\nDoaa AlbazAPA images\r\nWinter in Gaza is unlike any other. Here, it arrives burde��� [+5812 chars]"
+      "content": "Lina HamdounaThe Electronic Intifada26 December 2024\r\nBaking bread for displaced people in al-Mawasi, southern Gaza. \r\nDoaa AlbazAPA images\r\nWinter in Gaza is unlike any other. Here, it arrives burde… [+5812 chars]"
     },
     {
       "source": {
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://d.medicaldaily.com/en/full/479442/eye-drops.jpg",
       "publishedAt": "2024-12-26T07:04:19Z",
       "content": "The U.S. Food and Drug Administration (FDA) has sounded the alarm on a nationwide recall of Systane brand eye drops, citing potential fungal contamination that could pose serious risks to eyesight.\r\n… [+2212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Press Trust of India",
-      "title": "20 Years On, Woman Recalls Birth Of Son 'Tsunami' In Snake-Infested Jungle",
-      "description": "Namita Roy was just 26 years old when she gave birth to her son, &#039;Tsunami&#039;, in a snake-infested jungle where she and her family took shelter after deadly waves triggered by a massive earthquake.",
-      "url": "https://www.ndtv.com/india-news/20-years-on-woman-recalls-birth-of-son-tsunami-in-snake-infested-jungle-7333940",
-      "urlToImage": "https://c.ndtvimg.com/2024-12/99aivlig_tsunami_625x300_26_December_24.jpeg",
-      "publishedAt": "2024-12-26T05:49:43Z",
-      "content": "Port Blair: Namita Roy was just 26 years old when she gave birth to her son, 'Tsunami', in a snake-infested jungle where she and her family took shelter after deadly waves triggered by a massive eart… [+2894 chars]"
     }
   ],
-  "totalResults": 1023,
+  "totalResults": 1024,
   "query": "food%20recall"
 }
