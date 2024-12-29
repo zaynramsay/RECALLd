@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T05:38:59.600Z",
+  "lastUpdated": "2024-12-29T06:27:07.443Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Sarah Tate",
+      "title": "Candies Recalled In Arizona Over 'Life-Threatening' Health Risk",
+      "description": "Candies Recalled In Arizona Over 'Life-Threatening' Health Risknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/3732803073544-candies-recalled-in-arizona-over-life-threatening-health-risk?s=a2&share_destination_id=Mjg3OTA3MjY5LTE3MzUzNjU0MzMyMzI%3D&pd=0JU1pdEk&hl=en_US&send_time=1735365433&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_local_strategy_24q4_exp-v1%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v5%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v3",
+      "urlToImage": "https://img.particlenews.com/img/id/00J7El_0xiFplVD00",
+      "publishedAt": "2024-12-28T05:57:41Z",
+      "content": "Photo: Getty Images \r\nAs revelers continue to celebrate the holiday season, many dessert lovers may be looking to dig in to any new sweet treats they may have received. However, they may want to take… [+1305 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://c.ndtvimg.com/2024-12/99aivlig_tsunami_625x300_26_December_24.jpeg",
       "publishedAt": "2024-12-26T05:49:43Z",
       "content": "Port Blair: Namita Roy was just 26 years old when she gave birth to her son, 'Tsunami', in a snake-infested jungle where she and her family took shelter after deadly waves triggered by a massive eart… [+2894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Jonan Pilet",
-      "title": "Stanford study highlights flu virus risks in raw milk amid growing concerns",
-      "description": "According to a new study from Stanford University, the influenza virus can remain infectious in raw milk stored at refrigeration temperatures for up to five days. The research, published Dec. 12 in Environmental Science & Technology Letters, underscores the p…",
-      "url": "https://www.foodsafetynews.com/?p=245849",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/076/499/703/NWlVkgmbMQEZaERDYZyAqEwDo/45e8825bf906210e7015f4cd71074af358eda037.png",
-      "publishedAt": "2024-12-26T05:03:00Z",
-      "content": "According to a new study from Stanford University, the influenza virus can remain infectious in raw milk stored at refrigeration temperatures for up to five days. The research, published Dec. 12 in E… [+5060 chars]"
     }
   ],
-  "totalResults": 1022,
+  "totalResults": 1023,
   "query": "food%20recall"
 }
