@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T13:37:22.831Z",
+  "lastUpdated": "2024-12-29T14:16:26.774Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Quartz Bot",
+      "title": "Egg recall escalates, American Airlines blames Boeing, and Christmas's top toy: Business news roundup",
+      "description": "The Food and Drug Administration (FDA) has issued a new warning about thousands of recalled eggs sold at Costco (COST) stores due to potential contamination with salmonella, a bacterium that can cause serious infections. The recall has been elevated to the FD…",
+      "url": "https://qz.com/egg-recall-escalates-american-airlines-blames-boeing-1851729388",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5ff53c29ccc7e9d2011058e2d7e6226a.jpg",
+      "publishedAt": "2024-12-28T14:00:00Z",
+      "content": "The current artificial intelligence boom would not be possible without the fastest computers in the world supercomputers.\r\nSupercomputing, a type of high-performance computing, involves extremely fas… [+352 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -779,7 +792,7 @@
       "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b038ca1-6c8f-47e0-ace6-c3d8f4852bd4",
       "urlToImage": null,
       "publishedAt": "2024-12-27T00:17:23Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use �� [+678 chars]"
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     },
     {
       "source": {
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FULGKVA5M3ZDC5HINQALREJIZBM.png?auth=d5c83427b9e47b67d35cee135b3fcf134597e4cb412a61a7c7cb27d6478417ba&width=1200&height=630&smart=true",
       "publishedAt": "2024-12-26T11:03:14Z",
       "content": "ATLANTA — An Oregon house cat died after eating pet food that tested positive for bird flu, Oregon authorities said, prompting a recall of raw frozen pet food that was sold nationwide.\r\nNorthwest Nat… [+2236 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The BMJ"
-      },
-      "author": "Maviso, M., Namosha, E., Guldan, G. S.",
-      "title": "Exploring the factors associated with prelacteal feeds in Papua New Guinea: a population-based survey",
-      "description": "Background Prelacteal feeding disrupts early breastfeeding initiation and exclusive breastfeeding, and increases the risk of childhood illnesses and under-five mortality. Despite its negative health outcomes, newborns are given prelacteal feeds in Papua New G…",
-      "url": "https://bmjopen.bmj.com/content/14/12/e089605",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2024-12-26T10:38:14Z",
-      "content": "Introduction\r\nBreastfeeding and human milk are normative standards for infant feeding and nutrition, offering numerous short-term and long-term health benefits for the mother and her child.1 Exclusiv… [+11097 chars]"
     }
   ],
-  "totalResults": 1028,
+  "totalResults": 1029,
   "query": "food%20recall"
 }
