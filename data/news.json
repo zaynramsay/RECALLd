@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T10:19:08.107Z",
+  "lastUpdated": "2024-12-29T10:39:14.428Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Standard Digital"
+      },
+      "author": "The Conversation",
+      "title": "The lesser-known causes of food poisoning that may ruin dessert",
+      "description": "During the summer, more people cook outside at picnics and barbecues, removing the safety a kitchen provides – the sink to wash your hands in, the sterilised countertops to prepare food on",
+      "url": "https://www.standardmedia.co.ke/health/family-wellness/article/2001508718/the-lesser-known-causes-of-food-poisoning-that-may-ruin-dessert",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/FLkrSa8YxcfHj7G3j9enxS9eWAKJBFCeJP2oEIuC.jpg",
+      "publishedAt": "2024-12-28T10:30:39Z",
+      "content": "Blue Berry Panna Cotta in white chocolate Ganache, Zesty ash Yoghurt and blue berry sauce. [File, Standard]\r\nYou might take every precaution when barbecuing burgers and grilling chicken wings, but fo… [+3893 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,21 +1300,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-29.png",
       "publishedAt": "2024-12-26T10:20:09Z",
       "content": "A cyber attack hit Japan Airlines delaying ticket sales for flights\r\n | Apache fixed a critical SQL Injection in Apache Traffic Control\r\n | BellaCPP, Charming Kitten's BellaCiao variant written in C+… [+126206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Electronicintifada.net"
-      },
-      "author": "Lina Hamdouna",
-      "title": "Small acts of care keep us alive",
-      "description": "Israel has failed to destroy the spirit of solidarity.",
-      "url": "https://electronicintifada.net/content/small-acts-care-keep-us-alive/50246",
-      "urlToImage": "https://electronicintifada.net/sites/default/files/styles/original_800w/public/2024-12/221124_khan_yunis_db_0088.jpg?itok=Jcbefh5H",
-      "publishedAt": "2024-12-26T09:57:41Z",
-      "content": "Lina HamdounaThe Electronic Intifada26 December 2024\r\nBaking bread for displaced people in al-Mawasi, southern Gaza. \r\nDoaa AlbazAPA images\r\nWinter in Gaza is unlike any other. Here, it arrives burde… [+5812 chars]"
     }
   ],
-  "totalResults": 1025,
+  "totalResults": 1026,
   "query": "food%20recall"
 }
