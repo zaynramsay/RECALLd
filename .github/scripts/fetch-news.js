@@ -7,19 +7,16 @@ const CONFIG = {
     API_KEY: process.env.NEWS_API_KEY,
     OUTPUT_FILE: path.join(__dirname, '../../data/news.json'),
     USER_AGENT: 'GitHub-Action-Food-Recall-Monitor/1.0',
-    API_BASE_URL: 'https://newsapi.org/v2/top-headlines',
-    PAGE_SIZE: 100,
-    COUNTRIES: ['us', 'ca']
+    API_BASE_URL: 'https://newsapi.org/v2/everything',
+    PAGE_SIZE: 100
 };
 
 // Search parameters
 const SEARCH_PARAMS = {
-    queries: [
-        'food recall',
-        'fda recall',
-        'usda recall'
-    ],
-    language: 'en'
+    query: '("food recall" OR "FDA recall" OR "USDA recall")',  // Single combined query
+    language: 'en',
+    sortBy: 'publishedAt',
+    from: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]
 };
 
 /**
@@ -51,22 +48,20 @@ function ensureOutputDirectory() {
 }
 
 /**
- * Constructs the API URLs for each country
- * @returns {Array<string>} Array of API URLs
+ * Constructs the API URL
+ * @returns {string} API URL
  */
-function buildApiUrls() {
-    const combinedQuery = SEARCH_PARAMS.queries.join(' OR ');
-    
-    return CONFIG.COUNTRIES.map(country => {
-        const params = new URLSearchParams({
-            q: combinedQuery,
-            country: country,
-            pageSize: CONFIG.PAGE_SIZE,
-            apiKey: CONFIG.API_KEY
-        });
-        
-        return `${CONFIG.API_BASE_URL}?${params.toString()}`;
+function buildApiUrl() {
+    const params = new URLSearchParams({
+        q: SEARCH_PARAMS.query,
+        language: SEARCH_PARAMS.language,
+        sortBy: SEARCH_PARAMS.sortBy,
+        from: SEARCH_PARAMS.from,
+        pageSize: CONFIG.PAGE_SIZE,
+        apiKey: CONFIG.API_KEY
     });
+    
+    return `${CONFIG.API_BASE_URL}?${params.toString()}`;
 }
 
 /**
@@ -119,7 +114,6 @@ function makeRequest(url, options) {
  * @param {Array<Object>} newsResults - Array of API responses
  */
 function processAndSaveResponse(newsResults) {
-    // Combine articles from all responses and remove duplicates
     const allArticles = newsResults.flatMap(news => news.articles);
     const uniqueArticles = Array.from(new Map(
         allArticles.map(article => [article.url, article])
@@ -129,8 +123,7 @@ function processAndSaveResponse(newsResults) {
         lastUpdated: new Date().toISOString(),
         articles: uniqueArticles,
         totalResults: uniqueArticles.length,
-        queries: SEARCH_PARAMS.queries,
-        countries: CONFIG.COUNTRIES
+        query: SEARCH_PARAMS.query  // Changed from queries array
     };
     
     fs.writeFileSync(CONFIG.OUTPUT_FILE, JSON.stringify(storage, null, 2));
@@ -138,18 +131,16 @@ function processAndSaveResponse(newsResults) {
 }
 
 /**
- * Makes the HTTP requests to the News API for all countries
- * @returns {Promise} Promise that resolves when all requests are complete
+ * Makes the HTTP requests to the News API
+ * @returns {Promise} Promise that resolves when request is complete
  */
 async function fetchNewsData() {
-    const urls = buildApiUrls();
+    const url = buildApiUrl();
     const options = getRequestOptions();
     
     try {
-        const results = await Promise.all(
-            urls.map(url => makeRequest(url, options))
-        );
-        processAndSaveResponse(results);
+        const result = await makeRequest(url, options);
+        processAndSaveResponse([result]); // Keep array format for compatibility
     } catch (error) {
         throw new Error(`Failed to fetch news: ${error.message}`);
     }
