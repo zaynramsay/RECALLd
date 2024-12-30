@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-30T11:38:04.794Z",
+  "lastUpdated": "2024-12-30T12:39:52.254Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Wine and dine with art",
+      "description": "End-of-year pieces typically highlight the milestones of the past year. For a food writer, it's about the best meals savored; for a wine writer, it's the finest bottles uncorked. This year, my memory is foggy, the only memory I recall vividly is our bizarre t…",
+      "url": "https://www.hurriyetdailynews.com/opinion/aylin-oney-tan/wine-and-dine-with-art-204133",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/67713951b545fcaed3d1015a.jpg",
+      "publishedAt": "2024-12-29T11:58:13Z",
+      "content": "End-of-year pieces typically highlight the milestones of the past year. For a food writer, it's about the best meals savored; for a wine writer, it's the finest bottles uncorked. This year, my memory… [+6230 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,20 +1300,7 @@
       "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUSD3NQEO25CS3P6A3EW4IRVFNA.jpg?auth=1ca8c35d0d2a378db28dee64cca15a65e01fb6e8aea183f6d2e913df388c4aac&width=1200&height=630&smart=true",
       "publishedAt": "2024-12-26T16:05:24Z",
       "content": "The Food and Drug Administration is warning consumers to not use a type of eye drops from a single lot because they are contaminated with a fungus. \r\nThe FDA said Alcon Laboratories has recalled a lo… [+853 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Bruce Gil",
-      "title": "FDA elevates Costco's quarter-million egg recall to its highest risk level",
-      "description": "The Food and Drug Administration (FDA) has issued a new warning about thousands of recalled eggs sold at Costco (COST) stores due to potential contamination with salmonella, a bacterium that can cause serious infections. The recall has been elevated to the FD…",
-      "url": "https://qz.com/fda-egg-recall-costco-salmonella-1851728786",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ffb2daf6c491c3ace7c9f9b2b61eed54.jpg",
-      "publishedAt": "2024-12-26T15:50:00Z",
-      "content": "In This Story\r\nThe Food and Drug Administration (FDA) has issued a new warning about thousands of recalled eggs sold at Costco (COST-0.26%\r\n) stores due to potential contamination with salmonella, a … [+2250 chars]"
     }
   ],
-  "totalResults": 999
+  "totalResults": 1000
 }
