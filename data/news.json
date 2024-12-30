@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-30T12:39:52.254Z",
+  "lastUpdated": "2024-12-30T13:25:12.588Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 504 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Pro-Russia gro…",
+      "url": "https://securityaffairs.com/172413/breaking-news/security-affairs-newsletter-round-504-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2024-12-29T12:59:23Z",
+      "content": "Security Affairs newsletter Round 504 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Pro-Russia group NoName targeted the websites of Italian airports\r\n | North Korea actors use OtterCookie malware … [+126750 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,20 +1300,7 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676d7efa7e47105a84740b3c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2024-12-26T16:07:21Z",
       "content": "HOUSTON, TEXAS - AUGUST 15: Cartons of eggs are seen for sale in a Kroger grocery store on August ... [+] 15, 2022 in Houston, Texas. Egg prices steadily climb in the U.S. as inflation continues impa… [+5226 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSOC Charlotte"
-      },
-      "author": "Natalie Dreier",
-      "title": "FDA warns of fungal contamination of Systane eye drops, could damage eyesight",
-      "description": "The Food and Drug Administration is warning consumers to not use a type of eye drops from a single lot because they are contaminated with a fungus.",
-      "url": "https://www.wsoctv.com/news/trending/fda-warns-fungal-contamination-systane-eye-drops-could-damage-eyesight/LRVYDINQEZHCRNFX7MR753UXHI/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUSD3NQEO25CS3P6A3EW4IRVFNA.jpg?auth=1ca8c35d0d2a378db28dee64cca15a65e01fb6e8aea183f6d2e913df388c4aac&width=1200&height=630&smart=true",
-      "publishedAt": "2024-12-26T16:05:24Z",
-      "content": "The Food and Drug Administration is warning consumers to not use a type of eye drops from a single lot because they are contaminated with a fungus. \r\nThe FDA said Alcon Laboratories has recalled a lo… [+853 chars]"
     }
   ],
-  "totalResults": 1000
+  "totalResults": 1001
 }
