@@ -9,7 +9,7 @@ const CONFIG = {
     USER_AGENT: 'GitHub-Action-Food-Recall-Monitor/1.0',
     API_BASE_URL: 'https://newsapi.org/v2/top-headlines',
     PAGE_SIZE: 100,
-    COUNTRIES: ['us', 'ca'] // Added both US and Canada
+    COUNTRIES: ['us', 'ca']
 };
 
 // Search parameters
@@ -61,7 +61,6 @@ function buildApiUrls() {
         const params = new URLSearchParams({
             q: combinedQuery,
             country: country,
-            language: SEARCH_PARAMS.language,
             pageSize: CONFIG.PAGE_SIZE,
             apiKey: CONFIG.API_KEY
         });
