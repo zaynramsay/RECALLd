@@ -126,8 +126,7 @@ function processAndSaveResponse(newsResults) {
         lastUpdated: new Date().toISOString(),
         articles: uniqueArticles,
         totalResults: uniqueArticles.length,
-        queries: SEARCH_PARAMS.queries,
-        countries: []
+        query: SEARCH_PARAMS.query
     };
     
     fs.writeFileSync(CONFIG.OUTPUT_FILE, JSON.stringify(storage, null, 2));
