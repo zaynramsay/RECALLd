@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2024-12-30T13:39:36.749Z",
+  "lastUpdated": "2024-12-30T14:18:27.819Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 26",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Now You See Me, Now You Don’t: Using LLMs to Obfuscate Malicious JavaScript Analyzing Malicious Intent in Python Code: A Cas…",
+      "url": "https://securityaffairs.com/172418/uncategorized/security-affairs-malware-newsletter-round-26.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2024-12-29T14:14:15Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 26\r\n | Security Affairs newsletter Round 504 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Pro-Russia group NoName targeted the websites of Italian airport… [+126799 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Ahjané Forbes, USA TODAY",
+      "title": "BMW recalls 2024: Check the list of models recalled this year",
+      "description": "Millions of vehicles were recalled this year. Here's a list of recalls issued in 2024 for BMW vehicles.",
+      "url": "https://www.usatoday.com/story/money/cars/recalls/2024/12/29/bmw-recalled-cars-suvs-2024/77256889007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_BM8SfKcst8WBLl9BTRv0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/f0149c40e6a87007d2a1cec0c5714688",
+      "publishedAt": "2024-12-29T14:02:24Z",
+      "content": "Several recalls were issued this year for BMW of North America, LLC (BMW) vehicles.\r\nThe recall report data is from Jan. 1, 2024, to Dec. 27, 2024. The U.S. Department of Transportation (DOT) compile… [+8872 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1273,34 +1299,8 @@
       "url": "https://www.huffpost.com/entry/bc-us-bird-flu-pet-food-oregon_n_676d8964e4b0186e1db6c9c6",
       "urlToImage": "https://img.huffingtonpost.com/asset/676d8a2a18000025005fa6a7.jpeg?ops=1200_630",
       "publishedAt": "2024-12-26T16:54:50Z",
-      "content": "FILE -This colorized electron microscope image released by the National Institute of Allergy and Infectious Diseases on March 26, 2024, shows avian influenza A H5N1 virus particles (yellow), grown in�� [+3500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Urgent recall for pet food contaminated with bird flu issued after cat dies - Daily Mail",
-      "description": "Urgent recall for pet food contaminated with bird flu issued after cat diesDaily Mail Northwest Naturals pet food recalled over bird flu contamination after cat diesNBC News Cat food recalled after death linked to bird flu contaminationUSA TODAY Warning Issue…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175763147",
-      "urlToImage": null,
-      "publishedAt": "2024-12-26T16:52:07Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "Post-Christmas Food Recalls, Explained–What You Need To Know",
-      "description": "From eggs to hot cocoa, these food recalls could be hiding in your Christmas leftovers. Find out what’s at risk and how to keep your family safe.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2024/12/26/post-christmas-food-recalls-explainedwhat-you-need-to-know/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676d7efa7e47105a84740b3c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-26T16:07:21Z",
-      "content": "HOUSTON, TEXAS - AUGUST 15: Cartons of eggs are seen for sale in a Kroger grocery store on August ... [+] 15, 2022 in Houston, Texas. Egg prices steadily climb in the U.S. as inflation continues impa… [+5226 chars]"
+      "content": "FILE -This colorized electron microscope image released by the National Institute of Allergy and Infectious Diseases on March 26, 2024, shows avian influenza A H5N1 virus particles (yellow), grown in… [+3500 chars]"
     }
   ],
-  "totalResults": 1001
+  "totalResults": 1003
 }
