@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-30T18:27:42.207Z",
+  "lastUpdated": "2024-12-30T18:45:11.651Z",
   "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Dec. 29, 2024",
+      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, the annual correspondents' roundtable and Dr. Leana Wen join Major Garrett.",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-12-29-2024/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/12/29/01f9cf87-bf83-4f7e-851e-164ef0652412/thumbnail/1200x630/683d5d3be1c9c9b4e10ae1fe31ae7eb2/1229-ftn-panel.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+      "publishedAt": "2024-12-29T18:28:39Z",
+      "content": "On this \"Face the Nation\" broadcast, moderated by Major Garrett:\r\n<ul><li>Jan Crawford, Robert Costa, Scott MacFarlane, Ed O'Keefe and Caitlin Huey-Burns</li><li>Dr. Leana Wen, former Baltimore healt… [+52582 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,20 +1300,7 @@
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/12/cat-food-turkey.png?w=396&h=301",
       "publishedAt": "2024-12-26T18:06:39Z",
       "content": "A batch of cat food sold nationwide is being recalled following the death of an Oregon house cat, officials in the northwest state said.\r\nThe recall was issued on Christmas Eve, and the cause of the … [+2106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Bruce Gil",
-      "title": "A pet food recall over bird flu is linked to a cat's death",
-      "description": "A pet food company has issued a recall following the death of a cat in Oregon from the bird flu, according to state officials.Read more...",
-      "url": "https://qz.com/northwest-naturals-pet-food-bird-flu-recall-1851728910",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fb2301314fcdbbe3a09c0061cb9e31d7.jpg",
-      "publishedAt": "2024-12-26T18:02:53Z",
-      "content": "A pet food company has issued a recall following the death of a cat in Oregon from the bird flu, according to state officials.\r\nOregon-based Northwest Naturals issued a voluntary recall on Dec. 24 of… [+2160 chars]"
     }
   ],
-  "totalResults": 1005
+  "totalResults": 1006
 }
