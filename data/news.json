@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-30T09:21:39.033Z",
+  "lastUpdated": "2024-12-30T09:39:14.928Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "BY MICHAEL FREUND",
+      "title": "Hanukkah: What is the significance of the dreidel?",
+      "description": "That innocent little top, with a Hebrew letter carved on each side, carries within it a great deal of Jewish history and inspiration.",
+      "url": "https://www.jpost.com/opinion/article-834972",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/640869",
+      "publishedAt": "2024-12-29T09:35:37Z",
+      "content": "It is a common sight on Hanukkah, a scene replayed in Jewish homes throughout the world.\r\nHuddled together on the floor after having had their fill of latkes and jelly doughnuts, youngsters grab the … [+5908 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -203,7 +216,7 @@
       },
       "author": "support@bengreenfieldfitness.com (Ben Greenfield)",
       "title": "Cutting-Edge Regenerative Medicine, Budget-Friendly Biohacks, The *Truth* About Vegetable Oils, Optimizing Health Like a Battery?!, Ketogenic Diet Insights & More: The Most Listened-To Episodes of 2024",
-      "description": "Listen on: Reading time: 7 minutes What I Discuss: The benefits of the therapeutic ketogenic diet, my personal experience as\nThe post Cutting-Edge Regenerative Medicine, Budget-Friendly Biohacks, The *Truth* About Vegetable Oils, Optimizing Health Like a Batt…",
+      "description": "Listen on: Reading time: 7 minutes What I Discuss: The benefits of the therapeutic ketogenic diet, my personal experience as\nThe post Cutting-Edge Regenerative Medicine, Budget-Friendly Biohacks, The *Truth* About Vegetable Oils, Optimizing Health Like a Batt��",
       "url": "https://bengreenfieldlife.com/podcast/bestof2024/",
       "urlToImage": "https://bengreenfieldlife.com/wp-content/uploads/2024/12/Best-of-2024-1.png",
       "publishedAt": "2024-12-28T10:00:50Z",
@@ -1287,20 +1300,7 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-30.png",
       "publishedAt": "2024-12-26T15:38:28Z",
       "content": "A new Mirai botnet variant targets DigiEver DS-2105 Pro DVRs\r\n | A ransomware attack disrupted services at Pittsburgh Regional Transit\r\n | A cyber attack hit Japan Airlines delaying ticket sales for … [+126345 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Stephen Karganovic",
-      "title": "They Must Have Their Srebrenica in Syria…",
-      "description": "Following the abrupt and mysterious change of circumstances in Syria, the collective West propaganda machinery went into overdrive to pillory the previous government for a variety of heinous offences, real and imagined. The largely invented horror stories pub…",
-      "url": "https://www.globalresearch.ca/srebrenica-syria-stephen-karganovic/5875740",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2018/04/assad-1024x768.jpg",
-      "publishedAt": "2024-12-26T15:24:22Z",
-      "content": "Following the abrupt and mysterious change of circumstances in Syria, the collective West propaganda machinery went into overdrive to pillory the previous government for a variety of heinous offences… [+8064 chars]"
     }
   ],
-  "totalResults": 995
+  "totalResults": 996
 }
