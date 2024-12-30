@@ -13,10 +13,13 @@ const CONFIG = {
 
 // Search parameters
 const SEARCH_PARAMS = {
-    query: '("food recall" OR "FDA recall" OR "USDA recall")',  // Single combined query
+    queries: [
+        '("food recall" OR "FDA recall" OR "USDA recall")'
+    ],
     language: 'en',
     sortBy: 'publishedAt',
-    from: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]
+    // Get articles from last 14 days
+    from: new Date(Date.now() - 14 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]
 };
 
 /**
@@ -53,7 +56,7 @@ function ensureOutputDirectory() {
  */
 function buildApiUrl() {
     const params = new URLSearchParams({
-        q: SEARCH_PARAMS.query,
+        q: SEARCH_PARAMS.queries[0],
         language: SEARCH_PARAMS.language,
         sortBy: SEARCH_PARAMS.sortBy,
         from: SEARCH_PARAMS.from,
@@ -123,7 +126,8 @@ function processAndSaveResponse(newsResults) {
         lastUpdated: new Date().toISOString(),
         articles: uniqueArticles,
         totalResults: uniqueArticles.length,
-        query: SEARCH_PARAMS.query  // Changed from queries array
+        queries: SEARCH_PARAMS.queries,
+        countries: []
     };
     
     fs.writeFileSync(CONFIG.OUTPUT_FILE, JSON.stringify(storage, null, 2));
