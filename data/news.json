@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-30T11:16:24.899Z",
+  "lastUpdated": "2024-12-30T11:38:04.794Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-29T11:27:52Z",
+      "content": "[Removed]"
+    },
     {
       "source": {
         "id": null,
@@ -801,7 +814,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Experts warn of a surge in activity associated FICORA and Kaiten botnets",
-      "description": "FortiGuard Labs observed increased activity from two botnets, the Mirai variant ��FICORA” and the Kaiten variant “CAPSAICIN”. FortiGuard Labs researchers observed a surge in activity associated with two botnets, the Mirai variant “FICORA” and the Kaiten varian…",
+      "description": "FortiGuard Labs observed increased activity from two botnets, the Mirai variant “FICORA” and the Kaiten variant “CAPSAICIN”. FortiGuard Labs researchers observed a surge in activity associated with two botnets, the Mirai variant “FICORA” and the Kaiten varian…",
       "url": "https://securityaffairs.com/172373/uncategorized/surge-ficora-kaiten-botnets.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-31.png",
       "publishedAt": "2024-12-27T11:24:13Z",
@@ -1287,20 +1300,7 @@
       "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ffb2daf6c491c3ace7c9f9b2b61eed54.jpg",
       "publishedAt": "2024-12-26T15:50:00Z",
       "content": "In This Story\r\nThe Food and Drug Administration (FDA) has issued a new warning about thousands of recalled eggs sold at Costco (COST-0.26%\r\n) stores due to potential contamination with salmonella, a … [+2250 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "author": "Natalie Dreier",
-      "title": "FDA warns of fungal contamination of Systane eye drops, could damage eyesight",
-      "description": "The Food and Drug Administration is warning consumers to not use a type of eye drops from a single lot because they are contaminated with a fungus.",
-      "url": "https://www.wpxi.com/news/trending/fda-warns-fungal-contamination-systane-eye-drops-could-damage-eyesight/LRVYDINQEZHCRNFX7MR753UXHI/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUSD3NQEO25CS3P6A3EW4IRVFNA.jpg?auth=1ca8c35d0d2a378db28dee64cca15a65e01fb6e8aea183f6d2e913df388c4aac&width=1200&height=630&smart=true",
-      "publishedAt": "2024-12-26T15:44:56Z",
-      "content": "The Food and Drug Administration is warning consumers to not use a type of eye drops from a single lot because they are contaminated with a fungus. \r\nThe FDA said Alcon Laboratories has recalled a lo… [+853 chars]"
     }
   ],
-  "totalResults": 998
+  "totalResults": 999
 }
