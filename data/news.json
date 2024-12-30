@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-12-30T21:20:31.442Z",
+  "lastUpdated": "2024-12-30T21:27:03.188Z",
   "articles": [
     {
       "source": {
@@ -572,8 +572,46 @@
       "urlToImage": "https://d.newsweek.com/en/full/2550440/spaghetti-meatballs.jpg",
       "publishedAt": "2024-12-23T23:03:00Z",
       "content": "What's New\r\nAfter a global product development partner voluntarily recalled its Italian meatball dry mix last month, the U.S. Food and Drug Administration (FDA) has issued its second highest risk cla… [+2994 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Ahjané Forbes, USA TODAY",
+      "title": "Nuna Baby Essentials recalls over 608,000 RAVA car seats: See list of models impacted",
+      "description": "Nuna Baby Essentials issued a voluntary recall for 608,786 of its RAVA child seats, the NHTSA recall report said.",
+      "url": "https://www.usatoday.com/story/money/2024/12/20/nuna-baby-essentials-car-seat-recall-rava/77105820007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CxCGAlSouyxQBxVagTgNbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDA4/https://media.zenfs.com/en/usa_today_money_325/98c800cfae3c9a28fad44ddbfdba308e",
+      "publishedAt": "2024-12-20T19:15:51Z",
+      "content": "If you drive with precious cargo in your vehicle, you might want to check if you have this car seat.\r\nNuna Baby Essentials issued a voluntary recall for 608,786 of its RAVA child seats with a plastic… [+2691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
+      "title": "Lay’s Potato Chip Recall Explained—How Undeclared Allergens Affect You",
+      "description": "Lay’s potato chips recalled for undeclared milk allergens. Learn what the recall means, why food recall matters, and how to protect yourself during food recalls.",
+      "url": "https://www.forbes.com/sites/stephaniegravalese/2024/12/19/lays-potato-chip-recall-explained-how-undeclared-allergens-affect-you/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676454a96f4b44fb0fe26cd6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-19T17:18:10Z",
+      "content": "Why are lays chips being recalled? Find out why Lays Classic Potato Chips are being recalled and ... [+] what it means for you.\r\nGetty Images\r\nLay's Classic Potato Chips, a staple of American snackin… [+5261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "www.health.com",
+      "title": "Duloxetine Recall: FDA Sets Second-Highest Risk Level for Antidepressants Containing Potential Carcinogen",
+      "description": "Certain bottles and doses of duloxetine, a common antidepressant, have been recalled due to the presence of potentially cancer-causing chemicals. The recall was initiated on Nov. 19 by manufacturer Rising Pharma, Inc. and was set as a \"class II\" risk level by…",
+      "url": "https://freerepublic.com/focus/f-chat/4284827/posts",
+      "urlToImage": null,
+      "publishedAt": "2024-12-16T19:06:39Z",
+      "content": "Skip to comments.\r\nDuloxetine Recall: FDA Sets Second-Highest Risk Level for Antidepressants Containing Potential Carcinogenwww.health.com ^\r\n | December 10, 2024\r\n | Korin Miller \r\nPosted on 12/16/2… [+7145 chars]"
     }
   ],
-  "totalResults": 44,
-  "query": "(\"food recall\" OR \"FDA recall\" OR \"USDA recall\")"
+  "totalResults": 47
 }
