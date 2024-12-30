@@ -14,7 +14,11 @@ const CONFIG = {
 
 // Search parameters
 const SEARCH_PARAMS = {
-    query: 'food recall',
+    queries: [
+        'food recall',
+        'fda recall',
+        'usda recall'
+    ],
     language: 'en',
     sortBy: 'publishedAt'
 };
@@ -68,8 +72,11 @@ function getDateRange() {
  */
 function buildApiUrl() {
     const dates = getDateRange();
+    // Join queries with OR operator for News API
+    const combinedQuery = SEARCH_PARAMS.queries.join(' OR ');
+    
     const params = new URLSearchParams({
-        q: SEARCH_PARAMS.query,
+        q: combinedQuery,
         language: SEARCH_PARAMS.language,
         from: dates.from,
         to: dates.to,
