@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-29T23:38:13.217Z",
+  "lastUpdated": "2024-12-30T01:41:41.370Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Disneytouristblog.com"
+      },
+      "author": "Tom Bricker",
+      "title": "What to Expect of Crowds at Disneyland in 2025",
+      "description": "Shortly after sharing our list of the Best & Worst Weeks to Visit Walt Disney World in 2025 & 2026, I started working on the same thing for Disneyland and Disney California Adventure. Not since the most recent update–since it was first published. That was rou…",
+      "url": "https://www.disneytouristblog.com/crowd-calendar-predictions-disneyland-california-2025/",
+      "urlToImage": "https://www.disneytouristblog.com/wp-content/uploads/2024/01/main-street-crowds-disneyland-california-907.jpg",
+      "publishedAt": "2024-12-29T00:37:23Z",
+      "content": "Shortly after sharing our list of the Best &amp; Worst Weeks to Visit Walt Disney World in 2025 &amp; 2026, I started working on the same thing for Disneyland and Disney California Adventure. Not sin… [+17961 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -657,7 +670,7 @@
         "name": "Plos.org"
       },
       "author": "Cindy Garris, Irina Kolobova, Vasiliki Chounta, Alberto Díaz De Santiago, Robin Dretler, Tulika Singh, Gary Sinclair",
-      "title": "Qualitative evaluation of survey questions to assess treatment preference for daily oral or long��acting injectable antiretroviral therapy among people living with HIV",
+      "title": "Qualitative evaluation of survey questions to assess treatment preference for daily oral or long‑acting injectable antiretroviral therapy among people living with HIV",
       "description": "Treatment of HIV has historically required taking daily oral antiretroviral therapy (ART). A recent alternative to daily oral ART is long-acting injectable ART with cabotegravir plus rilpivirine, administered monthly or every 2 months. The purpose of this qua…",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309588",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309588.g003&size=inline",
@@ -1287,21 +1300,8 @@
       "urlToImage": null,
       "publishedAt": "2024-12-26T15:12:23Z",
       "content": "If A = B and B = C, then A = C, except where void or prohibited by law.\r\n-- Roy Santoro"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A ransomware attack disrupted services at Pittsburgh Regional Transit",
-      "description": "A ransomware attack on Pittsburgh Regional Transit (PRT) was the root cause of the agency’s service disruptions. On December 23, 2024, Pittsburgh Regional Transit (PRT) announced it was actively responding to a ransomware attack that was first detected on Thu…",
-      "url": "https://securityaffairs.com/172333/cyber-crime/pittsburgh-regional-transit-ransomware-attack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
-      "publishedAt": "2024-12-26T14:24:09Z",
-      "content": "A ransomware attack disrupted services at Pittsburgh Regional Transit\r\n | A cyber attack hit Japan Airlines delaying ticket sales for flights\r\n | Apache fixed a critical SQL Injection in Apache Traff… [+126280 chars]"
     }
   ],
-  "totalResults": 1038,
+  "totalResults": 994,
   "query": "food%20recall"
 }
