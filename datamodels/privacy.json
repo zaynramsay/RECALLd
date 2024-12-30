@@ -4,56 +4,56 @@
     "sections": [
         {
             "heading": "Information We Collect",
-            "content": "RECALLd is strategically designed with an paramount commitment to user privacy. The Application employs a rigorous data minimization approach, categorically affirming that no personal identifiable information (PII) is collected, stored, or processed. The sole mechanism of data interaction is through the retrieval of publicly available recall information via the U.S. Food and Drug Administration's (FDA) publicly accessible Application Programming Interface (API)."
+            "content": "RECALLd is designed with an unwavering commitment to user privacy. The Application implements a strict data minimization approach, explicitly stating that no personally identifiable information (PII) shall be collected, stored, or processed under any circumstances. The Application's sole data interaction occurs through the retrieval of publicly available recall information via the U.S. Food and Drug Administration's (FDA) publicly accessible Application Programming Interface (API)."
         },
         {
             "heading": "Use of FDA API",
-            "content": "The Application interfaces exclusively with the FDA's public API through a meticulously controlled protocol. API requests are strictly limited to the minimal information necessary for functional execution. No user-specific, personally attributable data is transmitted during these interactions. Each API request is designed to protect user anonymity and maintain the highest standards of data privacy."
+            "content": "The Application interfaces exclusively with the FDA's public API through strictly controlled protocols. API requests are explicitly limited to the minimum information necessary for functional execution. No user-specific or personally attributable data shall be transmitted during these interactions. Each API request is engineered to ensure complete user anonymity and maintain the highest standards of data privacy."
         },
         {
             "heading": "Data Storage",
             "content": "All application-related data, including but not limited to user preferences and search history, are:
-            1. Stored exclusively within the user's local device environment
-            2. Completely isolated from external transmission
-            3. Maintained within the device's native storage infrastructure
-            This approach ensures absolute data localization and prevents any unauthorized data access or transmission."
+            1. Stored exclusively and permanently within the user's local device environment
+            2. Completely isolated from any external transmission or access
+            3. Maintained solely within the device's native storage infrastructure
+            This approach ensures absolute data localization and prevents any unauthorized data access, transmission, or collection."
         },
         {
             "heading": "Notifications",
-            "content": "Notification mechanisms are managed entirely through the user's operating system infrastructure. The Application categorically disclaims any capability or intention to:
-            1. Collect notification-related metadata
-            2. Store notification interaction information
-            3. Utilize notifications for tracking or monitoring purposes"
+            "content": "Notification mechanisms are managed exclusively through the user's operating system infrastructure. The Application expressly disclaims any capability or intention to:
+            1. Collect, process, or store any notification-related metadata
+            2. Record or retain any notification interaction information
+            3. Utilize notifications for any tracking, monitoring, or data collection purposes"
         },
         {
             "heading": "Data Security",
             "content": "While the Application maintains a minimal data interaction approach, comprehensive security protocols are implemented to:
-            1. Prevent unauthorized access attempts
-            2. Mitigate potential security vulnerabilities
-            3. Ensure application integrity
-            Users acknowledge that no digital system can provide absolute security guarantees."
+            1. Prevent and detect any unauthorized access attempts
+            2. Mitigate all potential security vulnerabilities
+            3. Ensure continuous application integrity
+            Users explicitly acknowledge and agree that no digital system can guarantee absolute security, and they assume all risks associated with using the Application."
         },
         {
             "heading": "Third-Party Links",
-            "content": "The Application may contain hyperlinks to external websites, including official FDA resources. The Application explicitly and categorically disclaims:
-            1. Responsibility for external site content
-            2. Liability for external site privacy practices
-            3. Guarantee of external site security standards
-            Users are advised to exercise discretion when accessing external links."
+            "content": "The Application may contain hyperlinks to external websites, including official FDA resources. The Application hereby explicitly and irrevocably disclaims:
+            1. Any and all responsibility for external site content
+            2. Any liability for external site privacy practices or data handling
+            3. Any warranty or guarantee regarding external site security standards
+            Users acknowledge and assume all risks associated with accessing external links."
         },
         {
             "heading": "Children's Privacy",
-            "content": "RECALLd is expressly not designed or intended for individuals under 13 years of age. The Application implements stringent measures to:
-            1. Prevent intentional collection of information from minors
-            2. Ensure no data processing involving individuals under 13
-            3. Maintain absolute compliance with children's privacy protection standards"
+            "content": "RECALLd is expressly and unequivocally not designed or intended for use by individuals under 13 years of age. The Application implements mandatory measures to:
+            1. Prevent any intentional or incidental collection of information from minors
+            2. Ensure zero data processing involving individuals under 13 years of age
+            3. Maintain strict compliance with all applicable children's privacy protection standards and regulations"
         },
         {
             "heading": "Changes to This Policy",
-            "content": "This Privacy Policy may be unilaterally modified at any time. Modifications become immediately effective upon posting within the Application. Users acknowledge and agree that:
-            1. Continued use of the Application constitutes explicit acceptance of modified terms
-            2. No additional, separate consent shall be required upon policy updates
-            3. Users are obligated to periodically review the most current version of this Policy"
+            "content": "This Privacy Policy may be modified at our sole discretion at any time without prior notice. All modifications become immediately effective upon posting within the Application. Users explicitly acknowledge and irrevocably agree that:
+            1. Continued use of the Application constitutes binding acceptance of any modified terms
+            2. No additional or separate consent shall be required or requested upon policy updates
+            3. Users bear sole responsibility for regularly reviewing the most current version of this Policy"
         },
         {
             "heading": "Contact Us",
@@ -61,7 +61,7 @@
 
             Email: bysnapps@gmail.com
 
-            By providing this contact mechanism, the Application demonstrates its commitment to transparency and user communication."
+            The provision of this contact information does not create any obligation to respond and shall not be construed as a waiver of any terms within this Policy."
         }
     ]
 }
