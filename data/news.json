@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-30T09:39:14.928Z",
+  "lastUpdated": "2024-12-30T10:21:48.166Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "mindbodygreen.com"
+      },
+      "author": "https://www.mindbodygreen.com/wc/molly-knudsen",
+      "title": "These 4 Nutrients May Combat Your Dementia Risk—Are You Getting Enough?",
+      "description": "Here's how to get enough of them.",
+      "url": "https://www.mindbodygreen.com/articles/these-neuroprotective-nutrients-can-help-lower-your-dementia-risk-healthy-diet",
+      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/80if5w1xtla2onrc8.png",
+      "publishedAt": "2024-12-29T10:10:00Z",
+      "content": "The fear of losing your memory, reasoning, or other cognitive functions typically goes hand in hand with aging. And that worry is valid. About 50 million people across the world1\r\nare living with dem… [+6063 chars]"
+    },
     {
       "source": {
         "id": "the-jerusalem-post",
@@ -216,7 +229,7 @@
       },
       "author": "support@bengreenfieldfitness.com (Ben Greenfield)",
       "title": "Cutting-Edge Regenerative Medicine, Budget-Friendly Biohacks, The *Truth* About Vegetable Oils, Optimizing Health Like a Battery?!, Ketogenic Diet Insights & More: The Most Listened-To Episodes of 2024",
-      "description": "Listen on: Reading time: 7 minutes What I Discuss: The benefits of the therapeutic ketogenic diet, my personal experience as\nThe post Cutting-Edge Regenerative Medicine, Budget-Friendly Biohacks, The *Truth* About Vegetable Oils, Optimizing Health Like a Batt��",
+      "description": "Listen on: Reading time: 7 minutes What I Discuss: The benefits of the therapeutic ketogenic diet, my personal experience as\nThe post Cutting-Edge Regenerative Medicine, Budget-Friendly Biohacks, The *Truth* About Vegetable Oils, Optimizing Health Like a Batt…",
       "url": "https://bengreenfieldlife.com/podcast/bestof2024/",
       "urlToImage": "https://bengreenfieldlife.com/wp-content/uploads/2024/12/Best-of-2024-1.png",
       "publishedAt": "2024-12-28T10:00:50Z",
@@ -1287,20 +1300,7 @@
       "urlToImage": "https://d.ibtimes.com/en/full/4571588/astellas-pharma.jpg",
       "publishedAt": "2024-12-26T15:44:21Z",
       "content": "Astellas Pharma announced two urgent recalls for vital immunosuppressive drugs, Prograf and Astagraf XL, that are used to prevent organ rejection in transplant recipients.\r\nThe pharmaceutical company… [+1300 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A new Mirai botnet variant targets DigiEver DS-2105 Pro DVRs",
-      "description": "Akamai researchers discovered a new Mirai botnet variant targeting a vulnerability in DigiEver DS-2105 Pro DVRs. Akamai researchers spotted a Mirai-based botnet that is exploiting an remote code execution vulnerability in DigiEver DS-2105 Pro NVRs. The expert…",
-      "url": "https://securityaffairs.com/172345/malware/mirai-botnet-targets-digiever-ds-2105-pro-dvrs.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-30.png",
-      "publishedAt": "2024-12-26T15:38:28Z",
-      "content": "A new Mirai botnet variant targets DigiEver DS-2105 Pro DVRs\r\n | A ransomware attack disrupted services at Pittsburgh Regional Transit\r\n | A cyber attack hit Japan Airlines delaying ticket sales for … [+126345 chars]"
     }
   ],
-  "totalResults": 996
+  "totalResults": 997
 }
