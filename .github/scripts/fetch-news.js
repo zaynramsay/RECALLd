@@ -15,9 +15,9 @@ const CONFIG = {
 // Search parameters
 const SEARCH_PARAMS = {
     queries: [
-        'food recall',
-        'fda recall',
-        'usda recall'
+        'title:"food recall"',
+        'title:"fda recall"',
+        'title:"usda recall"'
     ],
     language: 'en',
     sortBy: 'publishedAt'
