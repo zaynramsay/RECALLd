@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2024-12-30T07:39:48.809Z",
+  "lastUpdated": "2024-12-30T08:26:32.682Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Rebecca Barry Hill",
+      "title": "Is It Possible to Improve Memory or Are We Doomed to Forget as We Age? (2023)",
+      "description": "Memory is a fickle beast at the best of times. But what if you could train it?",
+      "url": "https://www.nzherald.co.nz/viva/life/is-it-possible-to-improve-our-memories-or-are-we-doomed-to-forget-as-we-age/HW6QBYRSSRBCZB646GEQET2LTY/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/FEJXHSIARFFOTLVOJXLYRZLCYU.jpg?auth=dcdd87350a511e12d0fe245e2da624667cb4a499744a3e5ba29503630ea3b4be&width=1200&height=675&quality=70&focal=1411%2C724&smart=false",
+      "publishedAt": "2024-12-29T07:47:13Z",
+      "content": "Memory is a fickle beast at the best of times. But what if you could train it?\r\nIts an awful feeling. Youre at a party and the hosts sister approaches. You know her name, and youre pretty sure you di… [+18536 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,20 +1300,7 @@
       "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2018/04/assad-1024x768.jpg",
       "publishedAt": "2024-12-26T15:24:22Z",
       "content": "Following the abrupt and mysterious change of circumstances in Syria, the collective West propaganda machinery went into overdrive to pillory the previous government for a variety of heinous offences… [+8064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Frozen pet food that tested positive for bird flu recalled after house cat dies - WDIV ClickOnDetroit",
-      "description": "Frozen pet food that tested positive for bird flu recalled after house cat diesWDIV ClickOnDetroit Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird fluCNN Pet food recalled after cat death linked t…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175758157",
-      "urlToImage": null,
-      "publishedAt": "2024-12-26T15:12:23Z",
-      "content": "If A = B and B = C, then A = C, except where void or prohibited by law.\r\n-- Roy Santoro"
     }
   ],
-  "totalResults": 994
+  "totalResults": 995
 }
