@@ -1,14 +1,579 @@
 {
-  "lastUpdated": "2024-12-30T21:18:23.632Z",
-  "articles": [],
-  "totalResults": 0,
-  "queries": [
-    "food recall",
-    "fda recall",
-    "usda recall"
+  "lastUpdated": "2024-12-30T21:20:31.442Z",
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": "Carla K. Johnson, Associated Press",
+      "title": "How to protect your cats from catching bird flu",
+      "description": "Bird flu has been spreading for years in wild birds, chickens, turkeys and many other animals but the death of an Oregon house cat is raising questions about the ongoing outbreak and how people can protect their pets.",
+      "url": "https://www.pbs.org/newshour/health/how-to-protect-your-cats-from-catching-bird-flu",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/12/2022-08-14T045732Z_1963981020_RC2NTV97L6CP_RTRMADP_3_BRITAIN-ECONOMY-PETS-1024x683.jpg",
+      "publishedAt": "2024-12-29T21:03:30Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "University of Minnesota",
+      "title": "Oregon avian flu cat death prompts nationwide raw pet food recall",
+      "description": "The Oregon Department of Agriculture (ODA) yesterday reported that a house cat has died from H5N1 avian flu after eating raw frozen pet food, which has prompted the voluntary recall of raw pet food that was sold nationwide through distributors in 12 states as…",
+      "url": "https://freerepublic.com/focus/f-chat/4287028/posts",
+      "urlToImage": null,
+      "publishedAt": "2024-12-29T19:05:18Z",
+      "content": "Skip to comments.\r\nOregon avian flu cat death prompts nationwide raw pet food recallUniversity of Minnesota ^\r\n | 12/29/24\r\n | Lisa Schnirring \r\nPosted on 12/29/2024 11:05:18 AM PST by EBH\r\nThe Orego… [+5422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "AP",
+      "title": "How To Protect Your Cat From Bird Flu",
+      "description": "A pet food recall and the death of an Oregon house cat from avian flu are raising questions about how people can protect their pets.",
+      "url": "https://www.huffpost.com/entry/bc-us-med-bird-flu-pets-explainer_n_677029eee4b00983c2deedc0",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67702a8818000025005fa7d7.jpeg?cache=69ngpK9uQ6&ops=1200_630",
+      "publishedAt": "2024-12-28T16:49:45Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+4937 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Emma Marsden",
+      "title": "Cocktail Recall Update As FDA Issues Risk Warning for 25 States",
+      "description": "A voluntary recall was initiated after it was discovered that pre-mixed Bloody Marys may contain undeclared allergens, including fish (anchovy), or soy.",
+      "url": "https://www.newsweek.com/cocktail-recall-update-fda-issues-risk-warning-25-states-2006906",
+      "urlToImage": "https://d.newsweek.com/en/full/2552603/bloody-mary.jpg",
+      "publishedAt": "2024-12-28T15:31:46Z",
+      "content": "The U.S. Food and Drug Administration has officially classified the recall of a Borsari Food Co. \"Bloody Mary Mix\" product as a Class II recall.\r\nA Class II classification indicates that the recalled… [+3631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Oregon avian flu cat death prompts nationwide raw pet food recall - University of Minnesota Twin Cities",
+      "description": "Oregon avian flu cat death prompts nationwide raw pet food recallUniversity of Minnesota Twin Cities View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175778835",
+      "urlToImage": null,
+      "publishedAt": "2024-12-28T12:12:10Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Bird flu is a growing threat to pets — here’s how to protect your furry friends",
+      "description": "Bird flu has been spreading for years in wild birds, chickens, turkeys and many other animals. It was first confirmed in U.S. dairy cattle in March.",
+      "url": "https://nypost.com/2024/12/27/lifestyle/bird-flu-is-a-growing-threat-to-pets-heres-how-to-protect-your-furry-friends/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/close-veterinarian-white-coat-mask-95902165.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-12-28T00:45:00Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Can Dogs Get Bird Flu? 10 Signs and Symptoms to Watch Out For",
+      "description": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing bird flu outbreak in the United States and how people can protect their pets.\nBird flu, or H5N1, has been spreading for years in wild birds, chickens, turkeys and m…",
+      "url": "https://biztoc.com/x/e4cabda18471e121",
+      "urlToImage": "https://biztoc.com/cdn/e4cabda18471e121_s.webp",
+      "publishedAt": "2024-12-27T21:56:46Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing bird flu outbreak in the United States and how people can protect their pets.Bird flu, or H5N1, has been… [+142 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jesus Mesa",
+      "title": "Can Dogs Get Bird Flu? 10 Signs and Symptoms to Watch Out For",
+      "description": "While dogs are not common carriers of bird flu, they can become infected, especially if exposed to sick or dead birds.",
+      "url": "https://www.newsweek.com/dogs-pets-bird-flu-h5n1-symptoms-signs-outbreak-2006801",
+      "urlToImage": "https://d.newsweek.com/en/full/2552492/golden-retriever-waiting-car.jpg",
+      "publishedAt": "2024-12-27T21:46:04Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing bird flu outbreak in the United States and how people can protect their pets.\r\nBird flu, or H5N1, has be… [+2886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Japan Today"
+      },
+      "author": null,
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets. Bird flu has been spreading for years in wild birds, chickens, turkeys and many other animals. It was fi…",
+      "url": "https://japantoday.com/category/features/health/cats-can-get-sick-with-bird-flu.-here%27s-how-to-protect-them",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T21:13:24Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Cat death linked to bird flu prompts warning about feeding raw meat to felines - KOMO News",
+      "description": "Cat death linked to bird flu prompts warning about feeding raw meat to felinesKOMO News Cats can get sick with bird flu. Here’s how to protect themThe Associated Press Cat food recalled after death linked to bird flu contaminationUSA TODAY Popular cat food re…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175775953",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T20:32:15Z",
+      "content": "It is wrong always, everywhere and for everyone to believe anything upon\r\ninsufficient evidence.\r\n- W. K. Clifford, British philosopher, circa 1876"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Samantha Kelly",
+      "title": "Pet Food Recall Linked to Bird Flu Contamination: What to Know",
+      "description": "Northwest Naturals says a batch of Feline Turkey Recipe tested positive for bird flu. One cat has died in connection with the product.",
+      "url": "https://www.cnet.com/health/pet-food-recall-linked-to-bird-flu-contamination-what-to-know/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/5b65c50a1f84a240ea692bb8b58c00e766e9bea8/hub/2024/12/27/7c4dea26-2f20-4d9c-b3df-106b731b0162/gettyimages-145561913.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-12-27T20:13:06Z",
+      "content": "Northwest Naturals, a pet food company, is recalling a batch of its raw turkey pet food after a cat died from bird flu linked to the product.\r\nIn a press release this week, the Oregon-based company s… [+2002 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Feed",
+      "title": "Is it possible for cats to get bird flu? Popular pet food brand issues emergency recall",
+      "description": "A cat in Oregon died from bird flu, which was linked to contaminated pet food, prompting a nationwide recall. Experts warn that avian flu can infect both pets and humans.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/is-it-possible-for-cats-to-get-bird-flu-popular-pet-food-brand-issues-emergency-recall/articleshow/116723423.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116723445,width-1200,height-630,imgsize-22196,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-27T19:00:52Z",
+      "content": "State health officials and the Centres for Disease Control and Prevention (CDC) are keeping a close eye on the household for signs of bird flu. The CDC recently discovered the first severe human case… [+3651 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Meghan Holohan",
+      "title": "Cat dies of bird flu after eating contaminated cat food, company issues recall",
+      "description": "Northwest Naturals is recalling a batch of its pet food after a cat died from bird flu, which was found in the cat food. Bird flu can be more severe in cats, experts say.",
+      "url": "https://www.today.com/health/recall/cat-food-bird-flu-recall-rcna185534",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-12/recall-cat-food-mc-241227-copy-67ff05.jpg",
+      "publishedAt": "2024-12-27T16:24:04Z",
+      "content": "Northwest Naturals is recalling one batch of its cat food after a house cat died of bird flu and the raw food it ate was found to be contaminated with the virus H5N1, according to the Oregon Departme… [+4088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Carla K. Johnson",
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.",
+      "url": "https://phys.org/news/2024-12-cats-sick-bird-flu.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/cats-can-get-sick-with.jpg",
+      "publishedAt": "2024-12-27T09:20:01Z",
+      "content": "by Carla K. Johnson The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been sprea… [+4311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Cats can get sick with bird flu. Here's how to protect them - ABC News",
+      "description": "Cats can get sick with bird flu. Here's how to protect themABC News Pet food recall issued after Oregon house cat dies from eating product that tested positive for bird fluWBAL TV Baltimore KOIN: Bird flu case in cat connected to pet foodThe Hill Cats can get…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175772057",
+      "urlToImage": null,
+      "publishedAt": "2024-12-27T01:52:13Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston 25 News"
+      },
+      "author": "Carla K. Johnson",
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat from bird flu and a pet food recall are raising questions about how people can protect their pets",
+      "url": "https://www.boston25news.com/news/health/cats-can-get-sick/FQ67UWOJYVDHXIPUCKIQTHJTXM/",
+      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FL7MB4UESZOUNVQKPHPB4KUTEPM.jpg?auth=c42b24e0aa44b7b65a7b739b2a696d416a82827bb783937fac20037a9f286b44&width=1200&height=630&smart=true",
+      "publishedAt": "2024-12-27T00:49:49Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3497 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "CARLA K. JOHNSON AP medical writer",
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat from bird flu and a pet food recall are raising questions about how people can protect their pets",
+      "url": "https://abcnews.go.com/Lifestyle/wireStory/cats-sick-bird-flu-protect-117127670",
+      "urlToImage": "https://i.abcnewsfe.com/a/8d371ab8-8d11-49f4-a019-de8ed46d7016/wirestory_7a57b3047164676a7d237bcd05a5b9db_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-26T23:45:35Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Audrey Washington",
+      "title": "Metro Atlanta pet owners on alert following nationwide food recall involving bird flu",
+      "description": "Metro Atlanta pet owners on alert following nationwide food recall involving bird fluwsbtv.com",
+      "url": "https://www.wsbtv.com/news/local/atlanta/metro-atlanta-pet-owners-alert-following-nationwide-food-recall-involving-bird-flu/CKVGVIHO5NE2TE3XABK2MJFW2Y/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F12-26-2024%2Ft_ccc082dddeb64b13b2eaa1e804170da4_name_file_960x540_1200_v3_1_.jpg?auth=de295ce6baf94ad45c6e2a9142cdf9bfc144feeca3c0682d69cd66bc29153363&width=1200&height=630&smart=true",
+      "publishedAt": "2024-12-26T23:45:26Z",
+      "content": "ATLANTA — A warning for pet owners. There is a nationwide recall of a specific brand of Northwest Naturals pet food for cats.\r\nNorthwest Naturals, a pet food company based in Portland, Oregon, said T… [+1494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Cats can get sick with bird flu. Here’s how to protect them - The Associated Press",
+      "description": "Cats can get sick with bird flu. Here’s how to protect themThe Associated Press Bird flu has killed 20 big cats including cougars at a U.S. wildlife sanctuaryNPR Voluntary pet food recall issued after Oregon house cat dies from eating product that tested posi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175771297",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T22:12:14Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "The Associated Press",
+      "title": "Oregon cat’s death is a reminder pets can get bird flu. Here’s how you can protect them",
+      "description": "Though cases of infection are rare, cats seem especially susceptible to the bird flu virus, or Type A H5N1.",
+      "url": "https://www.oregonlive.com/business/2024/12/oregon-cats-death-is-a-reminder-pets-can-get-bird-flu-heres-how-you-can-protect-them.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/NCUF3NIJCRCXFIUGIHWGSFT6UY.jpg?auth=fa0eaa5d3cefc5b7c08efa10561c3622a7d8025d197bb89db0de17d72033b417&width=1280&quality=90",
+      "publishedAt": "2024-12-26T21:48:26Z",
+      "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "seattlepi.com"
+      },
+      "author": "By CARLA K. JOHNSON, AP Medical Writer",
+      "title": "Cats can get sick with bird flu. Here's how to protect them",
+      "description": "The death of an Oregon house cat from bird flu and a pet food recall are raising questions about how people can protect their pets. Oregon health officials have traced the cat’s illness to frozen cat food that contained raw turkey. Some pet owners feed their …",
+      "url": "https://www.seattlepi.com/living/article/cats-can-get-sick-with-bird-flu-here-s-how-to-20002082.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/46/34/00/26853435/6/rawImage.jpg",
+      "publishedAt": "2024-12-26T20:56:40Z",
+      "content": "FILE -This colorized electron microscope image released by the National Institute of Allergy and Infectious Diseases on March 26, 2024, shows avian influenza A H5N1 virus particles (yellow), grown in… [+3870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-23T22:58:15Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Life"
+      },
+      "author": "Elisabeth McGowan",
+      "title": "Christmas Food Recalls: List of Foods Pulled by the FDA",
+      "description": "Quite a few food items were recalled by the FDA just in time for the holidays this year. See the list of recalled products.",
+      "url": "https://hollywoodlife.com/feature/christmas-food-recalls-5356991/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2024/12/GettyImages-528790086-2_45b2b0-e1735242469702.jpeg?fit=1024%2C578",
+      "publishedAt": "2024-12-26T20:17:18Z",
+      "content": "Image Credit: Corbis via Getty Images\r\nIts the most wonderful time of the year to spend with loved ones, which usually means eating hearty meals and hosting holiday parties. But, with perhaps the wor… [+2282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Recall of raw and frozen cat food in Oregon after feline dies of bird flu - The Guardian US",
+      "description": "Recall of raw and frozen cat food in Oregon after feline dies of bird fluThe Guardian US Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird fluCNN Pet Brand Recalls Cat Food After Feline Dies From Ea…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175769669",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T20:12:22Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "What to Know About Cat Food Recall After Pet Dies of Bird Flu in Oregon - Gizmodo",
+      "description": "What to Know About Cat Food Recall After Pet Dies of Bird Flu in OregonGizmodo Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird fluCNN Northwest Naturals pet food recalled over bird flu contaminati…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175769009",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T19:32:05Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "What to Know About Cat Food Recall After Pet Dies of Bird Flu in Oregon",
+      "description": "The cat death appears to be the first case of H5N1 in the U.S. traced to raw pet food.",
+      "url": "https://gizmodo.com/what-to-know-about-cat-food-recall-after-pet-dies-of-bird-flu-in-oregon-2000543274",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/sad-cat.jpg",
+      "publishedAt": "2024-12-26T18:15:05Z",
+      "content": "A pet cat in Oregon has died from bird flu after eating raw cat food that tested positive for H5N1. It’s the latest worrying development in the ongoing spread of bird flu among animals and humans thi… [+3733 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Bruce Gil",
+      "title": "A pet food recall over bird flu is linked to a cat's death",
+      "description": "A pet food company has issued a recall following the death of a cat in Oregon from the bird flu, according to state officials.Read more...",
+      "url": "https://qz.com/northwest-naturals-pet-food-bird-flu-recall-1851728910",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fb2301314fcdbbe3a09c0061cb9e31d7.jpg",
+      "publishedAt": "2024-12-26T18:02:53Z",
+      "content": "A pet food company has issued a recall following the death of a cat in Oregon from the bird flu, according to state officials.\r\nOregon-based Northwest Naturals issued a voluntary recall on Dec. 24 of… [+2160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Urgent recall for pet food contaminated with bird flu issued after cat dies - Daily Mail",
+      "description": "Urgent recall for pet food contaminated with bird flu issued after cat diesDaily Mail Northwest Naturals pet food recalled over bird flu contamination after cat diesNBC News Cat food recalled after death linked to bird flu contaminationUSA TODAY Warning Issue…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175763147",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T16:52:07Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Frozen pet food that tested positive for bird flu recalled after house cat dies - WDIV ClickOnDetroit",
+      "description": "Frozen pet food that tested positive for bird flu recalled after house cat diesWDIV ClickOnDetroit Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird fluCNN Pet food recalled after cat death linked t…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175758157",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T15:12:23Z",
+      "content": "If A = B and B = C, then A = C, except where void or prohibited by law.\r\n-- Roy Santoro"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Oregon house cat died after eating pet food that tested positive for bird flu - KATU",
+      "description": "Oregon house cat died after eating pet food that tested positive for bird fluKATU Cat food recalled after death linked to bird flu contaminationUSA TODAY Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175756333",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T11:52:09Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Ashley R. Williams",
+      "title": "Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird flu",
+      "description": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.",
+      "url": "https://www.newsbreak.com/share/3730526389977-voluntary-pet-food-recall-issued-after-oregon-house-cat-dies-from-eating-product-that-tested-positive-for-bird-flu?s=a2&amp;share_destination_id=MjM0MzIwMzktMTczNTE4MzAzMTg5NA%3D%3D&amp;pd=01aJk7Oe&amp;hl=en_US&amp;send_time=1735183031&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q1-v5%2Cns_foryou_recall_exp_24q4-v5%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_rank_exp_24q4-v7%2Cns_push_exp_rt_bucketv12-control%2Cns_local_strategy_24q4_exp-v4",
+      "urlToImage": "https://img.particlenews.com/img/id/4b5EyY_0xfyIk4p00",
+      "publishedAt": "2024-12-26T03:17:37Z",
+      "content": "Crocodile Dundee icon dies, aged 90\r\n One of the stars of Crocodile Dundee, who appeared alongside Paul Hogan in the 1986 blockbuster, has died at an estimated age of 90, the reptiles caretakers have… [+454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Ashley R. Williams",
+      "title": "Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird flu",
+      "description": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.",
+      "url": "https://www.newsbreak.com/share/3730526389977-voluntary-pet-food-recall-issued-after-oregon-house-cat-dies-from-eating-product-that-tested-positive-for-bird-flu?_f=app_share&amp;pd=0F7zG5T5&amp;lang=en_US&amp;send_time=1735179895&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.51.0.21%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_24q4-v1%2Cns_push_exp_rt_bucketv12-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_local_strategy_24q4_exp-v13%2Cns_foryou_rank_exp_24q4-control&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/4b5EyY_0xfyIk4p00",
+      "publishedAt": "2024-12-26T02:25:33Z",
+      "content": "Crocodile Dundee icon dies, aged 90\r\n One of the stars of Crocodile Dundee, who appeared alongside Paul Hogan in the 1986 blockbuster, has died at an estimated age of 90, the reptiles caretakers have… [+454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Ashley R. Williams",
+      "title": "Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird flu",
+      "description": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.",
+      "url": "https://www.newsbreak.com/share/3730526389977-voluntary-pet-food-recall-issued-after-oregon-house-cat-dies-from-eating-product-that-tested-positive-for-bird-flu?s=a2&amp;share_destination_id=MTM1ODcyNzIyLTE3MzUxNzc2NTg4NjY%3D&amp;pd=09C6hWpd&amp;hl=en_US&amp;send_time=1735177658&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.51.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_24q4-v2%2Cns_foryou_recall_exp_24q4-v6%2Cns_foryou_blend_exp_25q1-v1%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_model_exp_25q1-v9%2Cns_local_strategy_24q4_exp-holdback",
+      "urlToImage": "https://img.particlenews.com/img/id/4b5EyY_0xfyIk4p00",
+      "publishedAt": "2024-12-26T01:48:05Z",
+      "content": "Crocodile Dundee icon dies, aged 90\r\n One of the stars of Crocodile Dundee, who appeared alongside Paul Hogan in the 1986 blockbuster, has died at an estimated age of 90, the reptiles caretakers have… [+454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Ashley R. Williams",
+      "title": "Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive for bird flu",
+      "description": "A Portland-based pet food company issued a nationwide voluntary recall after a house cat in Oregon died from eating one of its products, which tested positive for bird flu.",
+      "url": "https://www.newsbreak.com/share/3730526389977-voluntary-pet-food-recall-issued-after-oregon-house-cat-dies-from-eating-product-that-tested-positive-for-bird-flu?_f=app_share&amp;pd=0CtNws0T&amp;lang=en_US&amp;send_time=1735176696&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.51.0.21%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v9%2Cns_foryou_rank_exp_24q4-v7%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v1%2Cns_foryou_recall_exp_24q4-v6%2Cns_local_strategy_24q4_exp-v18&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/4b5EyY_0xfyIk4p00",
+      "publishedAt": "2024-12-26T01:32:08Z",
+      "content": "Crocodile Dundee icon dies, aged 90\r\n One of the stars of Crocodile Dundee, who appeared alongside Paul Hogan in the 1986 blockbuster, has died at an estimated age of 90, the reptiles caretakers have… [+454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Oregon house cat died after eating pet food that tested positive for bird flu - The Associated Press",
+      "description": "Oregon house cat died after eating pet food that tested positive for bird fluThe Associated Press Bird flu kills 20 big cats at US animal sanctuaryBBC.com Voluntary pet food recall issued after Oregon house cat dies from eating product that tested positive fo…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175753729",
+      "urlToImage": null,
+      "publishedAt": "2024-12-26T00:12:09Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Pet food recall over bird flu concerns, after cat dies - Axios",
+      "description": "Pet food recall over bird flu concerns, after cat diesAxios Northwest Naturals pet food recalled over bird flu contamination after cat diesNBC News More L.A. cats appear to be infected with H5N1 bird fluLos Angeles Times Portland cat death triggers nationwide…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175753233",
+      "urlToImage": null,
+      "publishedAt": "2024-12-25T21:32:11Z",
+      "content": "You can write a small letter to Grandma in the filename.\r\n-- Forbes Burkowski, CS, University of Washington"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "axios.com",
+      "title": "Pet food recall over bird flu concerns, after cat dies",
+      "description": "A pet food company in Oregon has issued a voluntary recall of its raw and frozen products, as state officials investigate the bird flu death of a cat that they linked to its food.\nThe big picture: Northwest Naturals' recall of its 2lb Feline Turkey Recipe bra…",
+      "url": "https://biztoc.com/x/45a9692dbe062575",
+      "urlToImage": "https://biztoc.com/cdn/45a9692dbe062575_s.webp",
+      "publishedAt": "2024-12-25T20:44:02Z",
+      "content": "A pet food company in Oregon has issued a voluntary recall of its raw and frozen products, as state officials investigate the bird flu death of a cat that they linked to its food.The big picture: Nor… [+142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Northwest Naturals pet food recalled over bird flu contamination after cat dies - NBC News",
+      "description": "Northwest Naturals pet food recalled over bird flu contamination after cat diesNBC News Popular pet food brand issues recall over bird flu contaminationKOMO News More L.A. cats appear to be infected with H5N1 bird fluLos Angeles Times Portland cat death trigg…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175753091",
+      "urlToImage": null,
+      "publishedAt": "2024-12-25T20:32:24Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Popular pet food brand issues recall over bird flu contamination - KOMO News",
+      "description": "Popular pet food brand issues recall over bird flu contaminationKOMO News L.A. County health officials warn pet owners to avoid raw cat food after feline dies of bird fluLos Angeles Times Portland cat death triggers nationwide Northwest Naturals pet food reca…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175750251",
+      "urlToImage": null,
+      "publishedAt": "2024-12-25T10:12:31Z",
+      "content": "\"I don't believe in sweeping social change being manifested by one person, \r\nunless he has an atomic weapon.\"\r\n-- Howard Chaykin"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "House cat in Washington County died after contracting bird flu from raw frozen pet food - OregonLive",
+      "description": "House cat in Washington County died after contracting bird flu from raw frozen pet foodOregonLive Popular pet food brand issues recall over bird flu contaminationKOMO News L.A. County health officials warn pet owners to avoid raw cat food after feline dies of…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175749687",
+      "urlToImage": null,
+      "publishedAt": "2024-12-25T08:32:12Z",
+      "content": "\"An organization dries up if you don't challenge it with growth.\"\r\n-- Mark Shepherd, former President and CEO of Texas Instruments"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Christmas Food Recall: List of Warnings Issued",
+      "description": "Consumers should check popular holiday foods found at Christmas get-togethers as the FDA has recalled certain items.",
+      "url": "https://biztoc.com/x/930eb01c92ae3303",
+      "urlToImage": "https://biztoc.com/cdn/808/og.png",
+      "publishedAt": "2024-12-24T18:22:10Z",
+      "content": "Consumers should check popular holiday foods found at Christmas get-togethers as the FDA has recalled certain items.\r\nThis story appeared on newsweek.com, 2024-12-24 18:11:04."
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Skinner",
+      "title": "Christmas Food Recall: List of Warnings Issued",
+      "description": "Consumers should check popular holiday foods found at Christmas get-togethers as the FDA has recalled certain items.",
+      "url": "https://www.newsweek.com/christmas-food-recall-fda-list-warnings-2005716",
+      "urlToImage": "https://d.newsweek.com/en/full/2551090/christmas-food-recall-list-fda.jpg",
+      "publishedAt": "2024-12-24T18:11:04Z",
+      "content": "What's New\r\nSeveral food items that may be found at family get-togethers during Christmas have ongoing recalls, something holiday shoppers should be aware of as they browse the aisles for ingredients… [+3340 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
+      "title": "FDA Raises Costco Egg Recall—The Class I Warning, Explained",
+      "description": "FDA escalates Costco egg recall to Class I, its highest risk level, over salmonella concerns. Learn what Class I means, how recalls escalate, and what it means for you.",
+      "url": "https://www.forbes.com/sites/stephaniegravalese/2024/12/24/fda-raises-costco-egg-recall-the-class-i-warning-explained/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676a2110cc37925876004edc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-24T17:24:37Z",
+      "content": "Costcos organic eggs just got a Class I recall, the FDAs version of a red alert. \r\nUCG/Universal Images Group via Getty Images\r\nWhen Costcos Kirkland Signature Organic Pasture-Raised Eggs were recall… [+4978 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Tiah Shepherd",
+      "title": "Italian Meatball Mix Recall as FDA Sets Risk Level",
+      "description": "After product was recalled last month, the FDA has issued its second highest risk classification over concerns of metal contamination.",
+      "url": "https://www.newsweek.com/italian-meatball-mix-fda-recall-2005192",
+      "urlToImage": "https://d.newsweek.com/en/full/2550440/spaghetti-meatballs.jpg",
+      "publishedAt": "2024-12-23T23:03:00Z",
+      "content": "What's New\r\nAfter a global product development partner voluntarily recalled its Italian meatball dry mix last month, the U.S. Food and Drug Administration (FDA) has issued its second highest risk cla… [+2994 chars]"
+    }
   ],
-  "countries": [
-    "us",
-    "ca"
-  ]
+  "totalResults": 44,
+  "query": "(\"food recall\" OR \"FDA recall\" OR \"USDA recall\")"
 }
