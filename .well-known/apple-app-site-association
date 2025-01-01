@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "9N4E47L7DX.BYSN.RECALLd",
-        "paths": ["/?idF-*"],
+        "paths": ["/?id=F-*"],
         "components": [
           {
-            "/": "/?idF-*",
-            "comment": "Matches URLs with idF parameter"
+            "/": "/?id=F-*",
+            "comment": "Matches URLs with id=F- pattern"
           }
         ],
         "appIDs": ["9N4E47L7DX.BYSN.RECALLd"]
