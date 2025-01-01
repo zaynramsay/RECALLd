@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-01T07:37:57.120Z",
+  "lastUpdated": "2025-01-01T08:26:10.261Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "New Year's Eve Food Recall: List of Warnings Issued",
+      "description": "This year, shoppers may need to be aware of foods that bring bad luck literally—in the case of recalls and even bacteria-related illness.",
+      "url": "https://biztoc.com/x/cca33b14d15804a6",
+      "urlToImage": "https://biztoc.com/cdn/808/og.png",
+      "publishedAt": "2024-12-31T08:06:54Z",
+      "content": "This year, shoppers may need to be aware of foods that bring bad luck literallyin the case of recalls and even bacteria-related illness.\r\nThis story appeared on newsweek.com, 2024-12-31 08:00:01."
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Suzanne Blake",
+      "title": "New Year's Eve Food Recall: List of Warnings Issued",
+      "description": "This year, shoppers may need to be aware of foods that bring bad luck literally—in the case of recalls and even bacteria-related illness.",
+      "url": "https://www.newsweek.com/new-years-eve-food-recall-list-warnings-issued-2007670",
+      "urlToImage": "https://d.newsweek.com/en/full/2553496/grocery-store.jpg",
+      "publishedAt": "2024-12-31T08:00:01Z",
+      "content": "New Year's Eve brings along a variety of traditions, and some of them center on food.\r\nWhile black-eyed peas are supposed to symbolize good luck in the new year, others opt to eat collard greens or h… [+3149 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -600,5 +626,5 @@
       "content": "Why are lays chips being recalled? Find out why Lays Classic Potato Chips are being recalled and ... [+] what it means for you.\r\nGetty Images\r\nLay's Classic Potato Chips, a staple of American snackin… [+5261 chars]"
     }
   ],
-  "totalResults": 46
+  "totalResults": 48
 }
