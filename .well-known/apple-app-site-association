@@ -4,8 +4,18 @@
     "details": [
       {
         "appID": "9N4E47L7DX.BYSN.RECALLd",
-        "paths": ["/open/*"]
+        "paths": ["/?idF-*"],
+        "components": [
+          {
+            "/": "/?idF-*",
+            "comment": "Matches URLs with idF parameter"
+          }
+        ],
+        "appIDs": ["9N4E47L7DX.BYSN.RECALLd"]
       }
     ]
+  },
+  "webcredentials": {
+    "apps": ["9N4E47L7DX.BYSN.RECALLd"]
   }
 }
