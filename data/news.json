@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-01T21:38:46.822Z",
+  "lastUpdated": "2025-01-01T22:18:23.935Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Food Recall List: Items With Highest Risk Warnings Going Into 2025",
+      "description": "Food recalls related to bacteria contamination hit their highest level in five years in 2024. That included 154 recalls from common pathogens E. coli, listeria and salmonella, according to data from the Food Industry Counsel law firm.\nWhy It Matters\nThose who…",
+      "url": "https://biztoc.com/x/321be83ec81ad068",
+      "urlToImage": "https://biztoc.com/cdn/321be83ec81ad068_s.webp",
+      "publishedAt": "2024-12-31T21:52:41Z",
+      "content": "Food recalls related to bacteria contamination hit their highest level in five years in 2024. That included 154 recalls from common pathogens E. coli, listeria and salmonella, according to data from … [+143 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Suzanne Blake",
+      "title": "Food Recall List: Items With Highest Risk Warnings Going Into 2025",
+      "description": "Recalls related to bacteria contamination hit their highest level in five years in 2024.",
+      "url": "https://www.newsweek.com/food-recall-list-items-highest-risk-going-2025-2008090",
+      "urlToImage": "https://d.newsweek.com/en/full/2554084/grocery-store.jpg",
+      "publishedAt": "2024-12-31T21:50:53Z",
+      "content": "Food recalls related to bacteria contamination hit their highest level in five years in 2024. That included 154 recalls from common pathogens E. coli, listeria and salmonella, according to data from … [+24351 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -639,5 +665,5 @@
       "content": "Why are lays chips being recalled? Find out why Lays Classic Potato Chips are being recalled and ... [+] what it means for you.\r\nGetty Images\r\nLay's Classic Potato Chips, a staple of American snackin… [+5261 chars]"
     }
   ],
-  "totalResults": 49
+  "totalResults": 51
 }
