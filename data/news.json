@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-01T11:38:06.992Z",
+  "lastUpdated": "2025-01-01T12:38:44.549Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Dessert Recall Update for Seven States as FDA Sets Risk Level",
+      "description": "It is required by law to identify all allergens in food labels, which includes soy, sesame, milk, eggs, fish, crustacean seafood, certain nuts and wheat.",
+      "url": "https://www.newsweek.com/dessert-recall-update-seven-states-fda-sets-risk-level-2007817",
+      "urlToImage": "https://d.newsweek.com/en/full/2553683/fda-dessert-recall-map.jpg",
+      "publishedAt": "2024-12-31T12:21:37Z",
+      "content": "The Lithuanian Bakery Inc. has voluntarily recalled two of its desserts after they were found to contain undeclared allergens and sulfites.\r\nThe bakery distributed its desserts to stores in several s… [+2776 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -626,5 +639,5 @@
       "content": "Why are lays chips being recalled? Find out why Lays Classic Potato Chips are being recalled and ... [+] what it means for you.\r\nGetty Images\r\nLay's Classic Potato Chips, a staple of American snackin… [+5261 chars]"
     }
   ],
-  "totalResults": 48
+  "totalResults": 49
 }
