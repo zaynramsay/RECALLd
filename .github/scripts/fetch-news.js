@@ -14,7 +14,10 @@ const CONFIG = {
 // Search parameters
 const SEARCH_PARAMS = {
     queries: [
-        '("food recall" OR "FDA recall" OR "USDA recall")'
+        // Combined optimal search query within API limits
+        '("food recall" OR "FDA recall" OR "USDA recall" OR "FSIS recall") OR ' +
+        '(food AND (listeria OR salmonella OR "E. coli" OR "foreign material")) OR ' +
+        '(food AND ("undeclared allergen" OR contamination OR mislabeling))'
     ],
     language: 'en',
     sortBy: 'publishedAt',
@@ -55,8 +58,11 @@ function ensureOutputDirectory() {
  * @returns {string} API URL
  */
 function buildApiUrl() {
+    // Use the single optimized query
+    const combinedQuery = SEARCH_PARAMS.queries[0];
+    
     const params = new URLSearchParams({
-        q: SEARCH_PARAMS.queries[0],
+        q: combinedQuery,
         language: SEARCH_PARAMS.language,
         sortBy: SEARCH_PARAMS.sortBy,
         from: SEARCH_PARAMS.from,
