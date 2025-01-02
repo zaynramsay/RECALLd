@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-01T23:38:07.204Z",
+  "lastUpdated": "2025-01-02T01:38:16.402Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-23T22:58:15Z",
+      "content": "[Removed]"
+    },
     {
       "source": {
         "id": null,
@@ -333,24 +346,11 @@
       },
       "author": "By CARLA K. JOHNSON, AP Medical Writer",
       "title": "Cats can get sick with bird flu. Here's how to protect them",
-      "description": "The death of an Oregon house cat from bird flu and a pet food recall are raising questions about how people can protect their pets. Oregon health officials have traced the cat’s illness to frozen cat food that contained raw turkey. Some pet owners feed their …",
+      "description": "The death of an Oregon house cat from bird flu and a pet food recall are raising questions about how people can protect their pets. Oregon health officials have traced the cat��s illness to frozen cat food that contained raw turkey. Some pet owners feed their …",
       "url": "https://www.seattlepi.com/living/article/cats-can-get-sick-with-bird-flu-here-s-how-to-20002082.php",
       "urlToImage": "https://s.hdnux.com/photos/01/46/34/00/26853435/6/rawImage.jpg",
       "publishedAt": "2024-12-26T20:56:40Z",
       "content": "FILE -This colorized electron microscope image released by the National Institute of Allergy and Infectious Diseases on March 26, 2024, shows avian influenza A H5N1 virus particles (yellow), grown in… [+3870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-12-23T22:58:15Z",
-      "content": "[Removed]"
     },
     {
       "source": {
