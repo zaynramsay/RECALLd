@@ -21,8 +21,8 @@ const SEARCH_PARAMS = {
     ],
     language: 'en',
     sortBy: 'publishedAt',
-    // Get articles from last 14 days
-    from: new Date(Date.now() - 14 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]
+    // Get articles from last 30 days
+    from: new Date(Date.now() - 30 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]
 };
 
 /**
