@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-02T02:49:28.784Z",
+  "lastUpdated": "2025-01-02T02:56:34.070Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Allie Griffin",
+      "title": "2024 was worst year for stomach virus outbreaks on cruise ships in over a decade: CDC",
+      "description": "In December alone, the CDC reported five separate outbreaks on four different ships -- sickening more than 800 people. All of the outbreaks were caused by the highly contagious norovirus.",
+      "url": "https://nypost.com/2024/12/31/health/2024-was-worst-year-for-stomach-virus-outbreaks-on-cruise-ships-in-decade-cdc/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/96057666.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-01-01T02:51:59Z",
+      "content": "This year marked the worst in over a decade for stomach bug outbreaks on cruise ships docking in the US, according to the latest data from the Centers for Disease Control and Prevention. \r\nWith one d… [+3091 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,19 +1261,6 @@
       "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/4/fc/4fcc2ffc-ac33-11ef-a24f-5f18da0e6004/67462cea85236.image.jpg?crop=1889%2C992%2C0%2C52&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-12-29T10:00:00Z",
       "content": "If we were to try to come up with a theme for Lancaster Countys top stories of 2024, as chosen by readers and newsroom staff, wed have to say they fall into two buckets: either theyre stories of peop… [+25269 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Norovirus outbreaks surge across the US: Symptoms, risks, and prevention measures",
-      "description": "Cases of norovirus are rising sharply in the United States this winter, with the CDC reporting a significant increase in outbreaks. The virus, known for causing sudden vomiting and diarrhoea, spreads rapidly in communal settings. This article outlines the sym…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/norovirus-outbreaks-surge-across-the-us-symptoms-risks-and-prevention-measures/articleshow/116759931.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116760144,width-1200,height-630,imgsize-1331128,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-12-29T05:23:54Z",
-      "content": "A surge in norovirus outbreaks is being reported across the United States this winter, with the Centres for Disease Control and Prevention (CDC) confirming 91 outbreaks during the week of December 5.… [+4816 chars]"
     }
   ],
   "totalResults": 97
