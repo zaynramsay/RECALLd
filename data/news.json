@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-02T11:37:56.687Z",
+  "lastUpdated": "2025-01-02T12:39:35.366Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Westernjournal.com"
+      },
+      "author": "Ben Zeisloft",
+      "title": "Recall on Walmart Produce Now Covers 20 States",
+      "description": "Braga Fresh issued a voluntary recall of broccoli floret packages distributed through Walmart over concerns of listeria contamination.",
+      "url": "https://www.westernjournal.com/recall-walmart-produce-now-covers-20-states/",
+      "urlToImage": "https://www.westernjournal.com/wp-content/uploads/2025/01/walmart.jpg",
+      "publishedAt": "2025-01-01T12:17:27Z",
+      "content": "A company which sells vegetables in Walmart stores issued a voluntary recall of certain broccoli packages sold at the ubiquitous retail chain.\r\nThe recall issued by Braga Fresh on Friday and publishe… [+2671 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -259,7 +272,7 @@
       "url": "https://www.newsweek.com/plastic-food-ingest-microplastic-toxic-cutting-board-2008005",
       "urlToImage": "https://d.newsweek.com/en/full/2553961/cutting-board.png",
       "publishedAt": "2024-12-31T17:14:13Z",
-      "content": "The thought that wooden cutting boards hold bacteria longer may not be true—in fact, the plastic cutting board in your kitchen could be doing more harm than good, an expert told Newsweek.\r\nWhy It Mat… [+5258 chars]"
+      "content": "The thought that wooden cutting boards hold bacteria longer may not be true��in fact, the plastic cutting board in your kitchen could be doing more harm than good, an expert told Newsweek.\r\nWhy It Mat… [+5258 chars]"
     },
     {
       "source": {
@@ -331,19 +344,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Yuxi Huang, Lifan Cao, Tanxing Chen, Xiaoqiang Chang, Yumei Fang, Liuliu Wu",
-      "title": "Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium tolerance in Triticum aestivum",
-      "description": "The ATP-dependent zinc metalloprotease (FtsH) protein gene family is essential for plant growth, development, and stress responses. Although FtsH genes have been identified in various plant species, the FtsH gene family in wheat (Triticum aestivum) remains un…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316486",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316486.g011&size=inline",
-      "publishedAt": "2024-12-31T14:00:00Z",
-      "content": "Citation: Huang Y, Cao L, Chen T, Chang X, Fang Y, Wu L (2024) Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium… [+37550 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Mohsen Ranjbaran, Simerdeep Kaur, Jiangshan Wang, Bibek Raut, Mohit S. Verma",
       "title": "A drop dispenser for simplifying on-farm detection of foodborne pathogens",
       "description": "Nucleic-acid biosensors have emerged as useful tools for on-farm detection of foodborne pathogens on fresh produce. Such tools are specifically designed to be user-friendly so that a producer can operate them with minimal training and in a few simple steps. H…",
@@ -351,6 +351,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315444.g005&size=inline",
       "publishedAt": "2024-12-31T14:00:00Z",
       "content": "Citation: Ranjbaran M, Kaur S, Wang J, Raut B, Verma MS (2024) A drop dispenser for simplifying on-farm detection of foodborne pathogens. PLoS ONE 19(12):\r\n e0315444.\r\nhttps://doi.org/10.1371/journal… [+38954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yuxi Huang, Lifan Cao, Tanxing Chen, Xiaoqiang Chang, Yumei Fang, Liuliu Wu",
+      "title": "Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium tolerance in Triticum aestivum",
+      "description": "The ATP-dependent zinc metalloprotease (FtsH) protein gene family is essential for plant growth, development, and stress responses. Although FtsH genes have been identified in various plant species, the FtsH gene family in wheat (Triticum aestivum) remains un…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316486",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316486.g011&size=inline",
+      "publishedAt": "2024-12-31T14:00:00Z",
+      "content": "Citation: Huang Y, Cao L, Chen T, Chang X, Fang Y, Wu L (2024) Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium… [+37550 chars]"
     },
     {
       "source": {
@@ -968,19 +981,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Marie N. Sangha, Didier K. Barwani, Cheseto Xavier, Linah Muhonja, Kelvin Moseti, Paul N. Karanja, Peter Kiiru, Isaac M. Osuga, Chrysantus M. Tanga",
-      "title": "We are what we eat: Implications of host plant suitability on sustainable production of silkworm pupae as novel ingredient with dietary and health benefits",
-      "description": "Although, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. mori pupae. This study evaluated the effects of four mulberry cultivars…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316290",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316290.g001&size=inline",
-      "publishedAt": "2024-12-30T14:00:00Z",
-      "content": "Abstract\r\nAlthough, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. m… [+44556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Beatriz Quiñones, Bertram G. Lee, Ashley Avilés Noriega, Lisa Gorski",
       "title": "Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in California",
       "description": "Non-typhoidal Salmonella enterica is a leading cause of gastrointestinal illnesses in the United States. Among the 2,600 different S. enterica serovars, Infantis has been significantly linked to human illnesses and is frequently recovered from broilers and ch…",
@@ -988,6 +988,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316466.g003&size=inline",
       "publishedAt": "2024-12-30T14:00:00Z",
       "content": "Citation: Quiñones B, Lee BG, Avilés Noriega A, Gorski L (2024) Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in Cal… [+38867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Marie N. Sangha, Didier K. Barwani, Cheseto Xavier, Linah Muhonja, Kelvin Moseti, Paul N. Karanja, Peter Kiiru, Isaac M. Osuga, Chrysantus M. Tanga",
+      "title": "We are what we eat: Implications of host plant suitability on sustainable production of silkworm pupae as novel ingredient with dietary and health benefits",
+      "description": "Although, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. mori pupae. This study evaluated the effects of four mulberry cultivars…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316290",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316290.g001&size=inline",
+      "publishedAt": "2024-12-30T14:00:00Z",
+      "content": "Abstract\r\nAlthough, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. m… [+44556 chars]"
     },
     {
       "source": {
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/12/2022-08-14T045732Z_1963981020_RC2NTV97L6CP_RTRMADP_3_BRITAIN-ECONOMY-PETS-1024x683.jpg",
       "publishedAt": "2024-12-29T21:03:30Z",
       "content": "The death of an Oregon house cat and a pet food recall are raising questions about the ongoing outbreak of bird flu and how people can protect their pets.\r\nBird flu has been spreading for years in wi… [+3454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "University of Minnesota",
-      "title": "Oregon avian flu cat death prompts nationwide raw pet food recall",
-      "description": "The Oregon Department of Agriculture (ODA) yesterday reported that a house cat has died from H5N1 avian flu after eating raw frozen pet food, which has prompted the voluntary recall of raw pet food that was sold nationwide through distributors in 12 states as…",
-      "url": "https://freerepublic.com/focus/f-chat/4287028/posts",
-      "urlToImage": null,
-      "publishedAt": "2024-12-29T19:05:18Z",
-      "content": "Skip to comments.\r\nOregon avian flu cat death prompts nationwide raw pet food recallUniversity of Minnesota ^\r\n | 12/29/24\r\n | Lisa Schnirring \r\nPosted on 12/29/2024 11:05:18 AM PST by EBH\r\nThe Orego… [+5422 chars]"
     }
   ],
   "totalResults": 96
