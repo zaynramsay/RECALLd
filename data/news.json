@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-02T03:24:01.833Z",
+  "lastUpdated": "2025-01-02T03:42:46.020Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Aila Slisco",
+      "title": "Broccoli Recall Sparks Warning in 20 States",
+      "description": "Broccoli bags sold at Walmart stores were recalled over concerns of possible contamination with a dangerous bacteria.",
+      "url": "https://www.newsweek.com/broccoli-recall-sparks-warning-20-states-2008208",
+      "urlToImage": "https://d.newsweek.com/en/full/2554266/broccoli.jpg",
+      "publishedAt": "2025-01-01T03:34:41Z",
+      "content": "Braga Fresh has issued a voluntary recall for 12-ounce bags of Marketside Broccoli Florets sold at Walmart stores in 20 states across the country.\r\nWhy It Matters\r\nThe recall was initiated over fears… [+3312 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -240,19 +253,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Mohsen Ranjbaran, Simerdeep Kaur, Jiangshan Wang, Bibek Raut, Mohit S. Verma",
-      "title": "A drop dispenser for simplifying on-farm detection of foodborne pathogens",
-      "description": "Nucleic-acid biosensors have emerged as useful tools for on-farm detection of foodborne pathogens on fresh produce. Such tools are specifically designed to be user-friendly so that a producer can operate them with minimal training and in a few simple steps. H…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315444",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315444.g005&size=inline",
-      "publishedAt": "2024-12-31T14:00:00Z",
-      "content": "Citation: Ranjbaran M, Kaur S, Wang J, Raut B, Verma MS (2024) A drop dispenser for simplifying on-farm detection of foodborne pathogens. PLoS ONE 19(12):\r\n e0315444.\r\nhttps://doi.org/10.1371/journal… [+38954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Yuxi Huang, Lifan Cao, Tanxing Chen, Xiaoqiang Chang, Yumei Fang, Liuliu Wu",
       "title": "Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium tolerance in Triticum aestivum",
       "description": "The ATP-dependent zinc metalloprotease (FtsH) protein gene family is essential for plant growth, development, and stress responses. Although FtsH genes have been identified in various plant species, the FtsH gene family in wheat (Triticum aestivum) remains un…",
@@ -260,6 +260,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316486.g011&size=inline",
       "publishedAt": "2024-12-31T14:00:00Z",
       "content": "Citation: Huang Y, Cao L, Chen T, Chang X, Fang Y, Wu L (2024) Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium… [+37550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Mohsen Ranjbaran, Simerdeep Kaur, Jiangshan Wang, Bibek Raut, Mohit S. Verma",
+      "title": "A drop dispenser for simplifying on-farm detection of foodborne pathogens",
+      "description": "Nucleic-acid biosensors have emerged as useful tools for on-farm detection of foodborne pathogens on fresh produce. Such tools are specifically designed to be user-friendly so that a producer can operate them with minimal training and in a few simple steps. H…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315444",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315444.g005&size=inline",
+      "publishedAt": "2024-12-31T14:00:00Z",
+      "content": "Citation: Ranjbaran M, Kaur S, Wang J, Raut B, Verma MS (2024) A drop dispenser for simplifying on-farm detection of foodborne pathogens. PLoS ONE 19(12):\r\n e0315444.\r\nhttps://doi.org/10.1371/journal… [+38954 chars]"
     },
     {
       "source": {
@@ -877,19 +890,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Beatriz Quiñones, Bertram G. Lee, Ashley Avilés Noriega, Lisa Gorski",
-      "title": "Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in California",
-      "description": "Non-typhoidal Salmonella enterica is a leading cause of gastrointestinal illnesses in the United States. Among the 2,600 different S. enterica serovars, Infantis has been significantly linked to human illnesses and is frequently recovered from broilers and ch…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316466",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316466.g003&size=inline",
-      "publishedAt": "2024-12-30T14:00:00Z",
-      "content": "Citation: Quiñones B, Lee BG, Avilés Noriega A, Gorski L (2024) Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in Cal… [+38867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Marie N. Sangha, Didier K. Barwani, Cheseto Xavier, Linah Muhonja, Kelvin Moseti, Paul N. Karanja, Peter Kiiru, Isaac M. Osuga, Chrysantus M. Tanga",
       "title": "We are what we eat: Implications of host plant suitability on sustainable production of silkworm pupae as novel ingredient with dietary and health benefits",
       "description": "Although, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. mori pupae. This study evaluated the effects of four mulberry cultivars…",
@@ -897,6 +897,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316290.g001&size=inline",
       "publishedAt": "2024-12-30T14:00:00Z",
       "content": "Abstract\r\nAlthough, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. m… [+44556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Beatriz Quiñones, Bertram G. Lee, Ashley Avilés Noriega, Lisa Gorski",
+      "title": "Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in California",
+      "description": "Non-typhoidal Salmonella enterica is a leading cause of gastrointestinal illnesses in the United States. Among the 2,600 different S. enterica serovars, Infantis has been significantly linked to human illnesses and is frequently recovered from broilers and ch…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316466",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316466.g003&size=inline",
+      "publishedAt": "2024-12-30T14:00:00Z",
+      "content": "Citation: Quiñones B, Lee BG, Avilés Noriega A, Gorski L (2024) Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in Cal… [+38867 chars]"
     },
     {
       "source": {
@@ -1178,7 +1191,7 @@
       },
       "author": "Clyde Wayne Crews Jr., Contributor, \n Clyde Wayne Crews Jr., Contributor\n https://www.forbes.com/sites/waynecrews/",
       "title": "An Inventory Of Biden Regulations To Overturn Quickly In The 119th Congress",
-      "description": "Here’s a glide path for the 119th Congress to target a surge in costly Biden rules with the Congressional Review Act and shape Trump’s regulatory rollback agenda",
+      "description": "Here’s a glide path for the 119th Congress to target a surge in costly Biden rules with the Congressional Review Act and shape Trump���s regulatory rollback agenda",
       "url": "https://www.forbes.com/sites/waynecrews/2024/12/29/an-inventory-of-biden-regulations-to-overturn-quickly-in-the-119th-congress/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67717f4a29a46bac9dc37a2e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2024-12-29T17:51:45Z",
@@ -1248,19 +1261,6 @@
       "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/KQHE4yn7uvX6RPfXDJtAPz6wW4qG6UHqJFxzx7XV.jpg",
       "publishedAt": "2024-12-29T12:20:27Z",
       "content": "A waiter at Koriema butchery in Baringo County chopping roasted goats meat gfor his customers on January 27,2023. [Kipsang Joseph, Standard]\r\nThe holiday season is a time of joy, togetherness, and sh… [+6536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "LancasterOnline"
-      },
-      "author": "STEPHANIE ZEIGLER | Managing Editor of Content",
-      "title": "Lancaster County's top stories of 2024: Controversies and inspiration",
-      "description": "If we were to try to come up with a theme for Lancaster County’s top stories of 2024, as chosen by readers and newsroom staff, we’d have to say they fall into two buckets: either they’re stories of people or…",
-      "url": "https://lancasteronline.com/news/local/lancaster-countys-top-stories-of-2024-controversies-and-inspiration/article_6ce2c27c-c21d-11ef-aafa-7b0f3217c340.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/4/fc/4fcc2ffc-ac33-11ef-a24f-5f18da0e6004/67462cea85236.image.jpg?crop=1889%2C992%2C0%2C52&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2024-12-29T10:00:00Z",
-      "content": "If we were to try to come up with a theme for Lancaster Countys top stories of 2024, as chosen by readers and newsroom staff, wed have to say they fall into two buckets: either theyre stories of peop… [+25269 chars]"
     }
   ],
   "totalResults": 97
