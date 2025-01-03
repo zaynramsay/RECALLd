@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-01-03T01:42:49.579Z",
+  "lastUpdated": "2025-01-03T06:29:53.114Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "FDA to begin testing raw milk cheese for contamination with bird flu",
+      "description": "The Food and Drug Administration has begun a domestic sampling assignment to collect and test aged raw milk cheese for Highly Pathogenic Avian Influenza (H5N1). The objectives of the assignment are:  An outbreak of H5N1 in multiple states precipitated this as…",
+      "url": "https://www.foodsafetynews.com/?p=246041",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/193/954/nGPeXKvLJY7G4donYd81p93OM/b4c2bf1826b5f6e6604ef0cd3619415011299e98.png",
+      "publishedAt": "2025-01-02T05:03:00Z",
+      "content": "The Food and Drug Administration has begun a domestic sampling assignment to collect and test aged raw milk cheese for Highly Pathogenic Avian Influenza (H5N1). The objectives of the assignment are: … [+1994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "FSA identifies main hazards from imported egg products",
+      "description": "Information published by the Food Standards Agency (FSA) has listed the top food safety concerns related to imported egg products. The risk profile identifies the main hazards associated with shell eggs and egg products imported into the United Kingdom. It co…",
+      "url": "https://www.foodsafetynews.com/2025/01/fsa-identifies-main-hazards-from-imported-egg-products/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/193/937/ZwVbKlDe9Y8OZdP7Q8moa3jPM/40b43acbf41841af4d7c473f58f12895ed7c014f.png",
+      "publishedAt": "2025-01-02T05:02:00Z",
+      "content": "Information published by the Food Standards Agency (FSA) has listed the top food safety concerns related to imported egg products.\r\nThe risk profile identifies the main hazards associated with shell … [+3805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Joe Whitworth",
+      "title": "Pesticide residues dominate EU import control changes",
+      "description": "Pesticide residues dominate the latest batch of changes made by the European Commission to the level of inspections on imported products. The revised legislation sets the rate of official controls and special conditions for food and feed of non-animal origin …",
+      "url": "https://www.foodsafetynews.com/2025/01/pesticide-residues-dominate-eu-import-control-changes/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/193/780/PwAV5rMNq6OZn4jKzkBm274Op/7659e68f2b4c9ce78c33ac5a92d175b612166f4b.png",
+      "publishedAt": "2025-01-02T05:01:00Z",
+      "content": "Pesticide residues dominate the latest batch of changes made by the European Commission to the level of inspections on imported products.\r\nThe revised legislation sets the rate of official controls a… [+4330 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -232,7 +271,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-12-30T11:00:33Z",
+      "publishedAt": "2024-12-30T13:22:12Z",
       "content": "[Removed]"
     },
     {
@@ -513,19 +552,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Yuxi Huang, Lifan Cao, Tanxing Chen, Xiaoqiang Chang, Yumei Fang, Liuliu Wu",
-      "title": "Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium tolerance in Triticum aestivum",
-      "description": "The ATP-dependent zinc metalloprotease (FtsH) protein gene family is essential for plant growth, development, and stress responses. Although FtsH genes have been identified in various plant species, the FtsH gene family in wheat (Triticum aestivum) remains un…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316486",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316486.g011&size=inline",
-      "publishedAt": "2024-12-31T14:00:00Z",
-      "content": "Citation: Huang Y, Cao L, Chen T, Chang X, Fang Y, Wu L (2024) Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium… [+37550 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Mohsen Ranjbaran, Simerdeep Kaur, Jiangshan Wang, Bibek Raut, Mohit S. Verma",
       "title": "A drop dispenser for simplifying on-farm detection of foodborne pathogens",
       "description": "Nucleic-acid biosensors have emerged as useful tools for on-farm detection of foodborne pathogens on fresh produce. Such tools are specifically designed to be user-friendly so that a producer can operate them with minimal training and in a few simple steps. H…",
@@ -533,6 +559,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315444.g005&size=inline",
       "publishedAt": "2024-12-31T14:00:00Z",
       "content": "Citation: Ranjbaran M, Kaur S, Wang J, Raut B, Verma MS (2024) A drop dispenser for simplifying on-farm detection of foodborne pathogens. PLoS ONE 19(12):\r\n e0315444.\r\nhttps://doi.org/10.1371/journal… [+38954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yuxi Huang, Lifan Cao, Tanxing Chen, Xiaoqiang Chang, Yumei Fang, Liuliu Wu",
+      "title": "Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium tolerance in Triticum aestivum",
+      "description": "The ATP-dependent zinc metalloprotease (FtsH) protein gene family is essential for plant growth, development, and stress responses. Although FtsH genes have been identified in various plant species, the FtsH gene family in wheat (Triticum aestivum) remains un…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316486",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316486.g011&size=inline",
+      "publishedAt": "2024-12-31T14:00:00Z",
+      "content": "Citation: Huang Y, Cao L, Chen T, Chang X, Fang Y, Wu L (2024) Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium… [+37550 chars]"
     },
     {
       "source": {
@@ -1150,19 +1189,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Marie N. Sangha, Didier K. Barwani, Cheseto Xavier, Linah Muhonja, Kelvin Moseti, Paul N. Karanja, Peter Kiiru, Isaac M. Osuga, Chrysantus M. Tanga",
-      "title": "We are what we eat: Implications of host plant suitability on sustainable production of silkworm pupae as novel ingredient with dietary and health benefits",
-      "description": "Although, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. mori pupae. This study evaluated the effects of four mulberry cultivars…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316290",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316290.g001&size=inline",
-      "publishedAt": "2024-12-30T14:00:00Z",
-      "content": "Abstract\r\nAlthough, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. m… [+44556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Beatriz Quiñones, Bertram G. Lee, Ashley Avilés Noriega, Lisa Gorski",
       "title": "Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in California",
       "description": "Non-typhoidal Salmonella enterica is a leading cause of gastrointestinal illnesses in the United States. Among the 2,600 different S. enterica serovars, Infantis has been significantly linked to human illnesses and is frequently recovered from broilers and ch…",
@@ -1170,6 +1196,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316466.g003&size=inline",
       "publishedAt": "2024-12-30T14:00:00Z",
       "content": "Citation: Quiñones B, Lee BG, Avilés Noriega A, Gorski L (2024) Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in Cal… [+38867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Marie N. Sangha, Didier K. Barwani, Cheseto Xavier, Linah Muhonja, Kelvin Moseti, Paul N. Karanja, Peter Kiiru, Isaac M. Osuga, Chrysantus M. Tanga",
+      "title": "We are what we eat: Implications of host plant suitability on sustainable production of silkworm pupae as novel ingredient with dietary and health benefits",
+      "description": "Although, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. mori pupae. This study evaluated the effects of four mulberry cultivars…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316290",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316290.g001&size=inline",
+      "publishedAt": "2024-12-30T14:00:00Z",
+      "content": "Abstract\r\nAlthough, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. m… [+44556 chars]"
     },
     {
       "source": {
@@ -1222,33 +1261,7 @@
       "urlToImage": null,
       "publishedAt": "2024-12-30T11:41:26Z",
       "content": "Author of the article:\r\nArticle content\r\nValue was in vogue in 2024.\r\nShoppers and restaurant patrons in the U.S. were choosy about where and how to spend their money as they wrestled with high housi… [+8840 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ETF Daily News"
-      },
-      "author": "MarketBeat News",
-      "title": "BioLargo (NASDAQ:BLGO) versus Basf (OTCMKTS:BASFY) Critical Analysis",
-      "description": "BioLargo (NASDAQ:BLGO – Get Free Report) and Basf (OTCMKTS:BASFY – Get Free Report) are both construction companies, but which is the better business? We will compare the two companies based on the strength of their profitability, institutional ownership, val…",
-      "url": "https://www.etfdailynews.com/2024/12/30/biolargo-nasdaqblgo-versus-basf-otcmktsbasfy-critical-analysis/",
-      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/basf-se-logo-1200x675.jpg&w=240&h=240&zc=2",
-      "publishedAt": "2024-12-30T11:32:43Z",
-      "content": "BioLargo (NASDAQ:BLGO – Get Free Report) and Basf (OTCMKTS:BASFY – Get Free Report) are both construction companies, but which is the better business? We will compare the two companies based on the s… [+4874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Threat actors attempt to exploit a flaw in Four-Faith routers",
-      "description": "VulnCheck researchers warn that threat actors are attempting to exploit a high-severity vulnerability impacting some Four-Faith routers. Cybersecurity firm VulnCheck warns that a high-severity flaw, tracked as CVE-2024-12856 (CVSS score: 7.2), in Four-Faith r…",
-      "url": "https://securityaffairs.com/172450/hacking/four-faith-routers-flaw-exploited.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-34.png",
-      "publishedAt": "2024-12-30T09:04:42Z",
-      "content": "Threat actors attempt to exploit a flaw in Four-Faith routers\r\n | ZAGG disclosed a data breach that exposed its customers' credit card data\r\n | China-linked APT Salt Typhoon breached a ninth U.S. tel… [+127023 chars]"
     }
   ],
-  "totalResults": 96
+  "totalResults": 97
 }
