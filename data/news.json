@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-02T18:29:00.760Z",
+  "lastUpdated": "2025-01-03T01:42:49.579Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Food & Wine",
+      "title": "These Are the 13 Most-Read Health and Science Stories of 2024",
+      "description": "From toxic cinnamon powder to powerhouse veggies, we learned a ton about the foods (and drinks) that fuel us.From unexpected health risks in everyday items to new insights about nutrition, the biggest science- and health-related stories of 2024 were packed wi…",
+      "url": "https://freerepublic.com/focus/f-chat/4287588/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-01-01T23:50:44Z",
+      "content": "Skip to comments.\r\nThese Are the 13 Most-Read Health and Science Stories of 2024Food &amp; Wine ^\r\n | Stacey Leasca\r\nPosted on 01/01/2025 3:50:44 PM PST by nickcarraway\r\nFrom toxic cinnamon powder to… [+9976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Proposed updates to HIPAA Security Rule mandate to restore the loss of certain relevant electronic information systems and data within 72 hours",
+      "description": "HHS OCR proposed updates to the HIPAA Security Rule to boost cybersecurity for electronic protected health information (ePHI). On December 27, 2024, the United States Department of Health and Human Services’ (HHS) Office for Civil Rights (OCR) proposed update…",
+      "url": "https://securityaffairs.com/172518/breaking-news/hhs-updates-hipaa-security-rule.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/healthcare-MedicalData-breach.jpg",
+      "publishedAt": "2025-01-01T19:15:04Z",
+      "content": "Proposed updates to HIPAA Security Rule mandate to restore the loss of certain relevant electronic information systems and data within 72 hours\r\n | U.S. Treasury sanctions Russian and Iranian entitie… [+127585 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,32 +1248,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-34.png",
       "publishedAt": "2024-12-30T09:04:42Z",
       "content": "Threat actors attempt to exploit a flaw in Four-Faith routers\r\n | ZAGG disclosed a data breach that exposed its customers' credit card data\r\n | China-linked APT Salt Typhoon breached a ninth U.S. tel… [+127023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Polaris Market Research & Consulting LLP",
-      "title": "By 2034, the Ethylene Copolymers Market is projected to grow at a CAGR of 6.6%, reaching a value of USD 106.92 billion | PMR",
-      "description": "The increasing need for long-lasting packaging solutions in sectors like food and beverage and e-commerce is driving the growth of the ethylene copolymers market. The increasing need for long-lasting packaging solutions in sectors like food and beverage and e…",
-      "url": "https://www.globenewswire.com/news-release/2024/12/30/3002477/0/en/By-2034-the-Ethylene-Copolymers-Market-is-projected-to-grow-at-a-CAGR-of-6-6-reaching-a-value-of-USD-106-92-billion-PMR.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/cf0a808d-3703-43f4-9b34-ec72345f8585",
-      "publishedAt": "2024-12-30T08:46:00Z",
-      "content": "New York, USA, Dec. 30, 2024 (GLOBE NEWSWIRE) -- Market Overview\r\nIn 2024, the ethylene copolymers market was projected to be valued at USD 52.80 billion. From 2025 to 2034, the market is anticipated… [+8011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Daily"
-      },
-      "author": "Suneeta Sunny",
-      "title": "Your Cup Might Be Brewing More Than You Expect: Tea Bags Release Billions Of Microplastics",
-      "description": "A recent study found that a single tea bag can release more than 8 million nanoplastic particles into the drink during steeping.",
-      "url": "https://www.medicaldaily.com/your-cup-might-brewing-more-you-expect-tea-bags-release-billions-microplastics-472900",
-      "urlToImage": "https://d.medicaldaily.com/en/full/479458/tea-bag.jpg",
-      "publishedAt": "2024-12-30T07:49:06Z",
-      "content": "For many, a cup of tea is the perfect way to start the day or unwind in the afternoon. Known for its health benefits, tea is daily a staple in several households. But, a recent study has revealed a s… [+2307 chars]"
     }
   ],
   "totalResults": 96
