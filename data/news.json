@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-01-03T06:29:53.114Z",
+  "lastUpdated": "2025-01-03T12:41:10.831Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "How many calories in salami?",
+      "description": "How Many Calories in Salami? Salami is a type of cured meat that has been a staple in many cuisines […]\nThe post How many calories in salami? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/how-many-calories-in-salami/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-02T12:15:37Z",
+      "content": "How Many Calories in Salami?\r\nSalami is a type of cured meat that has been a staple in many cuisines for centuries. It’s known for its rich, savory flavor and is often served as an appetizer or used … [+4679 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Aliss Higham",
+      "title": "Walmart Food Recalls Issued for 20 States: Full List of Stores Impacted",
+      "description": "Two products sold in Walmart stores were recalled by producers in December.",
+      "url": "https://www.newsweek.com/walmart-food-recalls-20-states-full-list-stores-impacted-2008455",
+      "urlToImage": "https://d.newsweek.com/en/full/2554705/walmart.jpg",
+      "publishedAt": "2025-01-02T11:57:32Z",
+      "content": "Two products sold in Walmart stores have been voluntarily recalled in recent weeks, with hundreds of locations carrying the items.\r\nNewsweek has contacted Walmart for comment via the contact form on … [+2960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Rob Thubron",
+      "title": "Industry push could see barcodes replaced by QR-style 2D codes within two years",
+      "description": "GS1, the global non-profit organization that develops and maintains standards for supply chain communication, including barcodes, aims for widespread adoption of QR-style codes by 2027 through its Sunrise 2027 initiative.Read Entire Article",
+      "url": "https://www.techspot.com/news/106167-industry-push-could-see-barcodes-replaced-qr-style.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2023/04/2023-04-18-image-4.jpg",
+      "publishedAt": "2025-01-02T11:54:00Z",
+      "content": "Forward-looking: For almost five decades, the humble barcode has been found on the packaging of almost every consumer item in the world. But there's a push to get rid of them within just two years, r… [+2436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Three Russian-German nationals charged with suspicion of secret service agent activity",
+      "description": "German authorities have charged three Russian-German nationals with suspicion of, among other things, secret service agent activity for the Russian government. German authorities have charged three Russian-German nationals on suspicion of activities including…",
+      "url": "https://securityaffairs.com/172559/intelligence/russian-german-nationals-charged-secret-service-agent-activity.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/06/Bundestag.jpg",
+      "publishedAt": "2025-01-02T10:32:58Z",
+      "content": "Three Russian-German nationals charged with suspicion of secret service agent activity\r\n | Lumen reports that it has locked out the Salt Typhoon group from its network\r\n | Proposed updates to HIPAA S… [+127757 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Christine Rousselle",
+      "title": "Is a cracked egg ever safe to eat? What you must know",
+      "description": "Are cracked eggs safe to eat — or should this food item be tossed? Fox News Digital spoke to an egg expert for thoughts and guidance for consumers on the issue.",
+      "url": "https://www.foxnews.com/food-drink/cracked-egg-safe-eat-must-know",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/gettyimages-1208210891.jpg",
+      "publishedAt": "2025-01-02T10:00:41Z",
+      "content": "With the high price of eggs right now, it can be disheartening to open the carton at home and see that one or two of the eggs have cracked either in transit on the way back from the grocery store, or… [+3049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bengreenfieldlife.com"
+      },
+      "author": "support@bengreenfieldfitness.com (Ben Greenfield)",
+      "title": "Are Seed Oils *Really* That Bad For You? Ben Asks Skeptical Questions (& Unveils DIRTY Secrets Of The Food Industry) With Dr. Anthony Gustin & Steven Rofrano",
+      "description": "Listen on: Reading time: 7 minutes What I Discuss with Dr. Anthony Gustin and Steven Rofrano: Fatty acid composition of\nThe post Are Seed Oils *Really* That Bad For You? Ben Asks Skeptical Questions (& Unveils DIRTY Secrets Of The Food Industry) With Dr. Anth…",
+      "url": "https://bengreenfieldlife.com/podcast/seed-oil-podcast/",
+      "urlToImage": "https://bengreenfieldlife.com/wp-content/uploads/2025/01/Anthony-and-Steven-WP.png",
+      "publishedAt": "2025-01-02T10:00:30Z",
+      "content": "Ben Greenfield [00:00:00]: My name is Ben Greenfield, and on this episode of the Boundless Life Podcast.\r\nSteven Rofrano [00:00:05]: Everyone knows what's your body temperature. 98.6 degrees. Right? … [+75535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Lumen reports that it has locked out the Salt Typhoon group from its network",
+      "description": "Lumen reports that the Salt Typhoon hacking group, which targeted at least nine U.S. telecom firms, was locked out of its network. This week, a White House official confirmed that China-linked APT group Salt Typhoon has breached a ninth U.S. telecoms company …",
+      "url": "https://securityaffairs.com/172544/apt/lumen-locked-out-salt-typhoon.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/12/ss7-surveillance.jpg",
+      "publishedAt": "2025-01-02T08:58:12Z",
+      "content": "Lumen reports that it has locked out the Salt Typhoon group from its network\r\n | Proposed updates to HIPAA Security Rule mandate to restore the loss of certain relevant electronic information systems… [+127666 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -271,7 +362,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-12-30T13:22:12Z",
+      "publishedAt": "2024-12-30T17:39:04Z",
       "content": "[Removed]"
     },
     {
@@ -1183,85 +1274,7 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012787.g005&size=inline",
       "publishedAt": "2024-12-30T14:00:00Z",
       "content": "Abstract\r\nThe olfactory response of insect vectors such as phlebotomine sand flies is a key facet for investigating their interactions with vertebrate hosts and associated vector-borne pathogens. Suc… [+35325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Beatriz Quiñones, Bertram G. Lee, Ashley Avilés Noriega, Lisa Gorski",
-      "title": "Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in California",
-      "description": "Non-typhoidal Salmonella enterica is a leading cause of gastrointestinal illnesses in the United States. Among the 2,600 different S. enterica serovars, Infantis has been significantly linked to human illnesses and is frequently recovered from broilers and ch…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316466",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316466.g003&size=inline",
-      "publishedAt": "2024-12-30T14:00:00Z",
-      "content": "Citation: Quiñones B, Lee BG, Avilés Noriega A, Gorski L (2024) Plasmidome of Salmonella enterica serovar Infantis recovered from surface waters in a major agricultural region for leafy greens in Cal… [+38867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Marie N. Sangha, Didier K. Barwani, Cheseto Xavier, Linah Muhonja, Kelvin Moseti, Paul N. Karanja, Peter Kiiru, Isaac M. Osuga, Chrysantus M. Tanga",
-      "title": "We are what we eat: Implications of host plant suitability on sustainable production of silkworm pupae as novel ingredient with dietary and health benefits",
-      "description": "Although, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. mori pupae. This study evaluated the effects of four mulberry cultivars…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316290",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316290.g001&size=inline",
-      "publishedAt": "2024-12-30T14:00:00Z",
-      "content": "Abstract\r\nAlthough, the impact of mulberry leaves on mortality of Bombyx mori [silkworm] and cocooning rates has been investigated, limited research has exploited the influence on the quality of B. m… [+44556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marlerblog.com"
-      },
-      "author": "Bill Marler",
-      "title": "FDA, FSIS and CDC investigate Listeria Outbreaks – not clear if they are the same",
-      "description": "According to the CDC, the annual incidence of laboratory-confirmed listeriosis in the United States is about 0.24 cases per 100,000 population, based on active surveillance in 10 FoodNet sites. The U.S. Healthy People 2020 target for listeriosis is 0.2 cases …",
-      "url": "https://www.marlerblog.com/case-news/fda-fsis-and-cdc-investigate-listeria-outbreaks-not-clear-if-they-are-the-same/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/076/929/815/Nxmo39RaVQ9Me2MpQAOe2Ewg5/f481671ca4e28d323d28610c9ed24ba12dc9fb46.png",
-      "publishedAt": "2024-12-30T12:59:52Z",
-      "content": "According to the CDC, the annual incidence of laboratory-confirmed listeriosis in the United States is about 0.24 cases per 100,000 population, based on active surveillance in 10 FoodNet sites. The U… [+1633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSLS 10"
-      },
-      "author": "Anne D'innocenzio And Dee-ann Durbin",
-      "title": "Value-seekers drove 2024's retail trends and dead ends",
-      "description": "Value-seekers drove 2024's retail trends and dead endswsls.com",
-      "url": "https://www.wsls.com/business/2024/12/30/value-seekers-drove-2024s-retail-trends-and-dead-ends/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/XTLVRJT5BZBVJL4WAFXYJJQX4U.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2024-12-30T12:37:32Z",
-      "content": "Value was in vogue in 2024.\r\nShoppers and restaurant patrons in the U.S. were choosy about where and how to spend their money as they wrestled with high housing and food prices.\r\nWell-heeled customer… [+6331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "seattlepi.com"
-      },
-      "author": "By ANNE D'INNOCENZIO and DEE-ANN DURBIN, AP Business Writers",
-      "title": "Value-seekers drove 2024's retail trends and dead ends",
-      "description": "Value was in vogue in 2024. Shoppers and restaurant patrons in the U.S. were choosy about where and how to spend their money as they wrestled with high housing and food prices. Well-heeled shoppers traded down to Walmart and Aldi. Diners opted for fast food o…",
-      "url": "https://www.seattlepi.com/living/article/value-seekers-drove-2024-s-retail-trends-and-dead-20006560.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/46/41/44/26876202/3/rawImage.jpg",
-      "publishedAt": "2024-12-30T11:50:19Z",
-      "content": "This combination image shows signage of Chipotle restaurant Feb. 8, 2016, Walmart store, in Walpole, Mass., Sept. 3, 2019, McDonald's restaurant on April 29, 2024, in Albany, Ore., a Target store sig… [+6494 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "The Associated Press",
-      "title": "Value-seekers drove 2024’s retail trends and dead ends",
-      "description": "Value was in vogue in 2024. Shoppers and restaurant patrons in the U.S. were choosy about where and how to spend their money as they wrestled with high housing and food prices. Well-heeled customers traded down to Walmart and Aldi. Diners opted for fast food …",
-      "url": "https://financialpost.com/pmn/value-seekers-drove-2024s-retail-trends-and-dead-ends",
-      "urlToImage": null,
-      "publishedAt": "2024-12-30T11:41:26Z",
-      "content": "Author of the article:\r\nArticle content\r\nValue was in vogue in 2024.\r\nShoppers and restaurant patrons in the U.S. were choosy about where and how to spend their money as they wrestled with high housi… [+8840 chars]"
     }
   ],
-  "totalResults": 97
+  "totalResults": 98
 }
