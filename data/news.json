@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-01-04T06:28:07.234Z",
+  "lastUpdated": "2025-01-04T12:39:17.260Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Aerosols - Global Market Share Analysis, Industry Trends & Statistics, and Growth Forecasts; 2024 to 2029",
+      "description": "Aerosols Revolutionize Personal Care with Hygienic and Sustainable Packaging Solutions. Electric Vehicles in China to Constitute 20% of New Vehicle Production in 2025, Boosting Aerosol Applications. Aerosols Revolutionize Personal Care with Hygienic and Susta…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/03/3003971/28124/en/Aerosols-Global-Market-Share-Analysis-Industry-Trends-Statistics-and-Growth-Forecasts-2024-to-2029.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-01-03T12:37:00Z",
+      "content": "Dublin, Jan. 03, 2025 (GLOBE NEWSWIRE) -- The \"Aerosols Market Share Analysis, Industry Trends &amp; Statistics, and Growth Forecasts; 2024 to 2029\" report has been added to ResearchAndMarkets.com's … [+11185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "From Chemicals To Rodent Excreta, Hyderabad Restaurant Inspections Find Safety Violations",
+      "description": "Multiple unsafe food items were seized during the recent dairy and restaurant inspections by the task force in the Rangareddy district and Kompally area, Hyderabad.",
+      "url": "https://food.ndtv.com/news/from-harmful-chemicals-to-rodent-excreta-hyderabad-restaurant-inspections-uncover-shocking-food-safety-violations-7392139",
+      "urlToImage": "https://c.ndtvimg.com/2025-01/7iob2sjo_tomato-restaurant-raid_625x300_03_January_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2025-01-03T12:30:26Z",
+      "content": "The food safety team in Telangana conducted inspections in the Rangareddy district and Kompally area on December 30, 2024, and uncovered multiple food safety violations. State-level task force team c… [+3478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "In These Times"
+      },
+      "author": "John McCracken and Mónica Cordero",
+      "title": "Meatpacking Plants Disproportionately Pollute Poor, Non-White Communities",
+      "description": "Postville, Iowa has long dealt with the fallout from Agri Star Meat and Poultry, the town’s largest employer—and the same is true in many towns near meatpacking plants.",
+      "url": "https://inthesetimes.com/article/meatpacking-plants-disporportionate-pollution-poor-immigrant-communities-environmental-justice",
+      "urlToImage": "https://s3.us-east-1.amazonaws.com/in-these-times/_1200x630_crop_center-center_82_none/IMG_1414.jpg?mtime=1735605862",
+      "publishedAt": "2025-01-03T12:30:00Z",
+      "content": "Editors Note: This article was originally published by Investigate Midwest.\r\nPOSTVILLE, IowaIn March, officials in Postville shut down its water treatment facility for two days as city employees work… [+19497 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Study finds DNA contamination in Pfizer Covid-19 vaccines",
+      "description": "A new study claims Pfizer Covid-19 vaccines contain DNA contamination levels exceeding regulatory safety limits by up to 470 times Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/610383-pfizer-covid-vaccine-contamination-dna/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2025.01/article/6777b77020302759685728e8.jpg",
+      "publishedAt": "2025-01-03T12:15:51Z",
+      "content": "Pfizer’s mRNA Covid-19 vaccines contain residual DNA levels exceeding regulatory safety limits, according to a peer-reviewed study published this week in the Journal of High School Science.\r\nThe rese… [+2394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Apple will pay $95 Million to settle lawsuit over Siri’s alleged eavesdropping",
+      "description": "Apple has agreed to a $95 million settlement over a Siri eavesdropping lawsuit, denying any abuses. The settlement awaits judicial approval. Apple will pay $95 million to settle claims that its virtual assistant Siri was used to eavesdrop on users, though the…",
+      "url": "https://securityaffairs.com/172632/security/apple-will-pay-95-million-to-settle-lawsuit-over-siris-alleged-eavesdropping.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
+      "publishedAt": "2025-01-03T11:57:43Z",
+      "content": "Apple will pay $95 Million to settle lawsuit over Siri's alleged eavesdropping\r\n | LDAPNightmare, a PoC exploit targets Windows LDAP flaw CVE-2024-49113\r\n | Around 3.3 million POP3 and IMAP mail serv… [+128184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "LDAPNightmare, a PoC exploit targets Windows LDAP flaw CVE-2024-49113",
+      "description": "Experts warn of a new PoC exploit, LDAPNightmare, that targets a Windows LDAP flaw (CVE-2024-49113), causing crashes & reboots. The vulnerability CVE-2024-49113 (CVSS score of 7.5), named LDAPNightmare, is a Windows Lightweight Directory Access Protocol (LDAP…",
+      "url": "https://securityaffairs.com/172618/security/ldapnightmare-exploit-cve-2024-49113.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-4.png",
+      "publishedAt": "2025-01-03T09:42:28Z",
+      "content": "LDAPNightmare, a PoC exploit targets Windows LDAP flaw CVE-2024-49113\r\n | Around 3.3 million POP3 and IMAP mail servers lack TLS encryption\r\n | A US soldier was arrested for leaking presidential call… [+128101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Around 3.3 million POP3 and IMAP mail servers lack TLS encryption",
+      "description": "Over 3 million POP3 and IMAP mail servers lack TLS encryption, exposing them to network sniffing attacks. ShadowServer researchers reported that around 3.3 million POP3 and IMAP mail servers lack TLS encryption, exposing them to network sniffing attacks. POP3…",
+      "url": "https://securityaffairs.com/172600/security/3m-pop3-imap-mail-servers-lack-tls-encryption.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-2.png",
+      "publishedAt": "2025-01-03T08:39:10Z",
+      "content": "Around 3.3 million POP3 and IMAP mail servers lack TLS encryption\r\n | A US soldier was arrested for leaking presidential call logs\r\n | DoubleClickjacking allows clickjacking on major websites\r\n | Rus… [+128027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "goodmorningamerica.com",
+      "title": "Broccoli sold at Walmart voluntarily recalled over listeria concerns",
+      "description": "Bags of ready-to-eat broccoli florets sold in 20 states have been recalled over concerns they may be contaminated with listeria.\nBraga Fresh Foods has voluntarily recalled one lot of its 12-ounce bags of Marketside Broccoli Florets, according to a recall noti…",
+      "url": "https://biztoc.com/x/f910defef0cd0f7f",
+      "urlToImage": "https://biztoc.com/cdn/f910defef0cd0f7f_s.webp",
+      "publishedAt": "2025-01-03T06:46:37Z",
+      "content": "Bags of ready-to-eat broccoli florets sold in 20 states have been recalled over concerns they may be contaminated with listeria.Braga Fresh Foods has voluntarily recalled one lot of its 12-ounce bags… [+160 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1072,19 +1176,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Mohsen Ranjbaran, Simerdeep Kaur, Jiangshan Wang, Bibek Raut, Mohit S. Verma",
-      "title": "A drop dispenser for simplifying on-farm detection of foodborne pathogens",
-      "description": "Nucleic-acid biosensors have emerged as useful tools for on-farm detection of foodborne pathogens on fresh produce. Such tools are specifically designed to be user-friendly so that a producer can operate them with minimal training and in a few simple steps. H…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315444",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315444.g005&size=inline",
-      "publishedAt": "2024-12-31T14:00:00Z",
-      "content": "Citation: Ranjbaran M, Kaur S, Wang J, Raut B, Verma MS (2024) A drop dispenser for simplifying on-farm detection of foodborne pathogens. PLoS ONE 19(12):\r\n e0315444.\r\nhttps://doi.org/10.1371/journal… [+38954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Yuxi Huang, Lifan Cao, Tanxing Chen, Xiaoqiang Chang, Yumei Fang, Liuliu Wu",
       "title": "Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium tolerance in Triticum aestivum",
       "description": "The ATP-dependent zinc metalloprotease (FtsH) protein gene family is essential for plant growth, development, and stress responses. Although FtsH genes have been identified in various plant species, the FtsH gene family in wheat (Triticum aestivum) remains un…",
@@ -1092,6 +1183,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316486.g011&size=inline",
       "publishedAt": "2024-12-31T14:00:00Z",
       "content": "Citation: Huang Y, Cao L, Chen T, Chang X, Fang Y, Wu L (2024) Genome-wide identification of the ATP-dependent zinc metalloprotease (FtsH) in Triticeae species reveals that TaFtsH-1 regulates cadmium… [+37550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Mohsen Ranjbaran, Simerdeep Kaur, Jiangshan Wang, Bibek Raut, Mohit S. Verma",
+      "title": "A drop dispenser for simplifying on-farm detection of foodborne pathogens",
+      "description": "Nucleic-acid biosensors have emerged as useful tools for on-farm detection of foodborne pathogens on fresh produce. Such tools are specifically designed to be user-friendly so that a producer can operate them with minimal training and in a few simple steps. H…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315444",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315444.g005&size=inline",
+      "publishedAt": "2024-12-31T14:00:00Z",
+      "content": "Citation: Ranjbaran M, Kaur S, Wang J, Raut B, Verma MS (2024) A drop dispenser for simplifying on-farm detection of foodborne pathogens. PLoS ONE 19(12):\r\n e0315444.\r\nhttps://doi.org/10.1371/journal… [+38954 chars]"
     },
     {
       "source": {
@@ -1157,110 +1261,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/94de5d3b-896b-42eb-ac3a-a9b044bfbf39",
       "publishedAt": "2024-12-31T12:20:00Z",
       "content": "United Kingdom, London, Dec. 31, 2024 (GLOBE NEWSWIRE) -- According to Introspective Market Research, the Polyethylene Low-Density (LDPE) Market is projected to grow from USD 44.4 billion in 2023 to … [+11646 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "STLtoday.com"
-      },
-      "author": "Jack Suntrup St. Louis Post-Dispatch",
-      "title": "Interest in raw milk grows in Missouri despite restrictions and health concerns",
-      "description": "Missouri lawmakers may try again to loosen restrictions on raw milk sales. \"They’re wanting the more natural-type food.\"",
-      "url": "https://www.stltoday.com/news/local/government-politics/interest-in-raw-milk-grows-in-missouri-despite-restrictions-and-health-concerns/article_143ef8ee-bbc3-11ef-a50f-b704cb1f9d40.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/43/143ef8ee-bbc3-11ef-a50f-b704cb1f9d40/6761d4a5df443.preview.jpg?crop=1776%2C932%2C0%2C116&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2024-12-31T12:00:00Z",
-      "content": "JEFFERSON CITY Missouri legislators may move to loosen state restrictions on raw milk sales in the new year as interest in the product grows despite longstanding health warnings.\r\nRaw, unpasteurized … [+5100 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Marni Rose McFall",
-      "title": "Onion Recall as FDA Issues Warning Over Vegetables",
-      "description": "Over 150 fruit and vegetable products have received a Class II risk classification from the FDA.",
-      "url": "https://www.newsweek.com/onion-fruit-vegetable-recall-fda-risk-classification-listeria-monocytogenes-2007823",
-      "urlToImage": "https://d.newsweek.com/en/full/2553687/fruit-veg.jpg",
-      "publishedAt": "2024-12-31T11:24:52Z",
-      "content": "A recall of products, including onions, from Gracie's Kitchen has been given a Class II risk classification from the FDA over fears of listeria monocytogenes contamination.\r\nThe recall impacts almost… [+3557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Richmond.com"
-      },
-      "author": "ANDREW CAIN Richmond Times-Dispatch",
-      "title": "Virginia in 2024: Electoral drama, campus clashes and a surprising exit",
-      "description": "The year featured startling national political twists, protests and crackdowns on Virginia's college campuses, revelations about Richmond's Office of Elections, and a star UVa coach's sudden departure.",
-      "url": "https://richmond.com/news/state-regional/trump-youngkin-balmer-bennett-scott/article_775e73fa-a9c7-11ee-998b-ef8cbd976f89.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/7/75/775e73fa-a9c7-11ee-998b-ef8cbd976f89/6773945f3ae6f.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2024-12-31T11:00:00Z",
-      "content": "It was a year of startling national political shifts, protests and crackdowns on Virginia's college campuses, and a steady drip of revelations about Richmond's Office of Elections.\r\nA month after a J… [+58004 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Hatty Willmoth",
-      "title": "Bird Flu Update As FDA Begins Cheese Screening",
-      "description": "The FDA has begun testing cheese for bird flu as human cases of the virus continue to rise in the United States.",
-      "url": "https://www.newsweek.com/bird-flu-update-fda-cheese-raw-milk-pasteurization-2007821",
-      "urlToImage": "https://d.newsweek.com/en/full/2553681/parmesan-bird-flu.png",
-      "publishedAt": "2024-12-31T10:48:27Z",
-      "content": "The Food and Drug Administration (FDA) has begun collecting and testing aged cheese made from raw cow's milk over concerns it might be contaminated with bird flu, it announced on Monday.\r\nThe testing… [+3828 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Francisco Velasquez",
-      "title": "The winners and losers of casual dining in 2024",
-      "description": "Casual dining in 2024 has been dramatically reshaped by inflation, shifting consumer priorities, and fierce competition among fast-food giants and grocery stores alike. Read more...",
-      "url": "https://qz.com/mcdonalds-chilis-taco-bell-winners-losers-casual-dining-1851728895",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/332dff5adf7d5e102c0a224184006bfe.jpg",
-      "publishedAt": "2024-12-31T10:00:00Z",
-      "content": "In This Story\r\nCasual dining in 2024 has been dramatically reshaped by inflation, shifting consumer priorities, and fierce competition among fast-food giants and grocery stores alike. \r\nWith dine-out… [+6275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Francisco Velasquez",
-      "title": "The winners and losers of casual dining in 2024",
-      "description": "Casual dining in 2024 has been dramatically reshaped by inflation, shifting consumer priorities, and fierce competition among fast-food giants and grocery...",
-      "url": "https://finance.yahoo.com/news/winners-losers-casual-dining-2024-100000487.html",
-      "urlToImage": "https://media.zenfs.com/en/quartz.com/7afd6e7f013ff2c6a06187b3e8023ecd",
-      "publishedAt": "2024-12-31T10:00:00Z",
-      "content": "A customer walks towards the entrance of a Chilis Grill &amp; Bar restaurant in San Antonio, Texas, U.S. - Image: Callaghan OHare (Getty Images)\r\nCasual dining in 2024 has been dramatically reshaped … [+6381 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Agency Report",
-      "title": "South Korea investigates barrier’s role in air crash",
-      "description": "South Korean authorities said, on Tuesday, they were investigating the role of a concrete barrier at the end of Muan airport’s runway in the country’s worst air disaster, which killed 179 people when a Jeju Air jet crashed while landing. US investigators, inc…",
-      "url": "https://punchng.com/south-korea-investigates-barriers-role-in-air-crash/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/12/31114013/nn.jpg",
-      "publishedAt": "2024-12-31T09:11:28Z",
-      "content": "South Korean authorities said, on Tuesday, they were investigating the role of a concrete barrier at the end of Muan airport’s runway in the country’s worst air disaster, which killed 179 people when… [+4561 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "AFP",
-      "title": "South Korea plane crash: Investigators examining whether concrete wall at airport met regulations",
-      "description": "The Jeju Air flight made a mayday call and belly-landed before crashing into the concrete barrier and bursting into flames, killing 179 people.",
-      "url": "https://www.thejournal.ie/south-korea-plane-crash-investigation-6583427-Dec2024/",
-      "urlToImage": "https://img2.thejournal.ie/article/6583427/river/?height=400&version=6583429",
-      "publishedAt": "2024-12-31T08:59:06Z",
-      "content": "SOUTH KOREAN AUTHORITIES are examining regulations around a concrete wall at Muan airport, after a Jeju Air flight crashed into the barrier and burst into flames, killing 179 people.\r\nWhen asked whet… [+4396 chars]"
     }
   ],
   "totalResults": 97
