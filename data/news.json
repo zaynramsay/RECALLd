@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-05T01:49:38.666Z",
+  "lastUpdated": "2025-01-05T06:28:30.153Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Cheese Recall Sparks Warning to Customers",
+      "description": "A cheese product sold in five states has been recalled over concerns of potential contamination with Listeria monocytogenes, a dangerous bacteria.\nWhy It Matters\nConsuming food contaminated with Listeria monocytogenes can cause the infection listeriosis, whic…",
+      "url": "https://biztoc.com/x/f5adedddc5e7834e",
+      "urlToImage": "https://biztoc.com/cdn/f5adedddc5e7834e_s.webp",
+      "publishedAt": "2025-01-04T03:57:36Z",
+      "content": "A cheese product sold in five states has been recalled over concerns of potential contamination with Listeria monocytogenes, a dangerous bacteria.Why It MattersConsuming food contaminated with Lister… [+139 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Aila Slisco",
+      "title": "Cheese Recall Sparks Warning to Customers",
+      "description": "The cheese may be contaminated with the dangerous Listeria monocytogenes bacteria.",
+      "url": "https://www.newsweek.com/cheese-recall-sparks-warning-customers-2009649",
+      "urlToImage": "https://d.newsweek.com/en/full/2556344/cheese-recall-listeria-contamination-abbey-foods.jpg",
+      "publishedAt": "2025-01-04T03:53:39Z",
+      "content": "A cheese product sold in five states has been recalled over concerns of potential contamination with Listeria monocytogenes, a dangerous bacteria.\r\nWhy It Matters\r\nConsuming food contaminated with Li… [+3703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Cheddar cheese recalled because of Listeria contamination",
+      "description": "Abbey Specialty Foods of Fairfield, NJ, is recalling Wicklow Gold Cheddar Nettle & Chive 5.2 oz product and Wicklow Gold Cheddar Tomato & Herb 5.2 oz product because they have the potential to be contaminated with Listeria monocytogenes. There is concern that…",
+      "url": "https://www.foodsafetynews.com/2025/01/cheddar-cheese-recalled-because-of-listeria-contamination/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/427/697/P0ev7XDZrzqyEvERzMjR9og8N/c441b6f5d07c0d4420855685c893597a8c84eb91.png",
+      "publishedAt": "2025-01-04T03:45:54Z",
+      "content": "Abbey Specialty Foods of Fairfield, NJ, is recalling Wicklow Gold Cheddar Nettle &amp; Chive 5.2 oz product and Wicklow Gold Cheddar Tomato &amp; Herb 5.2 oz product because they have the potential t… [+3043 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Salmonella outbreak detected among residents at emergency housing shelter",
+      "description": "Seattle & King County Public Health is investigating an outbreak of Salmonella illnesses among residents of Mary Pilgrim Inn, which is an emergency temporary housing shelter. As of Jan. 3, 14 people had tested positive for Salmonella infections. Five of the p…",
+      "url": "https://www.foodsafetynews.com/2025/01/salmonella-outbreak-detected-among-residents-at-emergency-housing-shelter/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/427/314/0eb715rd3zLZl2r8QBPpEmKay/92ee90fe36241c37f24fda28ce898e50ef6bef2c.png",
+      "publishedAt": "2025-01-04T03:26:14Z",
+      "content": "Seattle &amp; King County Public Health is investigating an outbreak of Salmonella illnesses among residents of Mary Pilgrim Inn, which is an emergency temporary housing shelter.\r\nAs of Jan. 3, 14 pe… [+1086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marlerblog.com"
+      },
+      "author": "Bill Marler",
+      "title": "Salmonella in Seattle – Salmonella Outbreak linked to Christmas Dinner",
+      "description": "Summary Public Health is investigating an outbreak of salmonellosis (caused by Salmonella bacteria) associated with Mary Pilgrim Inn, an emergency temporary housing shelter in Seattle. Many of the people became sick after eating food served at two Christmas d…",
+      "url": "https://www.marlerblog.com/case-news/salmonella-in-seattle-salmonella-outbreak-linked-to-christmas-dinner/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/426/676/jMDOvP3KezRryj0Mzlqoyk8AW/a26b869e750ee6ff843ad48266f1012cf09fe944.png",
+      "publishedAt": "2025-01-04T02:50:14Z",
+      "content": "Public Health is investigating an outbreak of salmonellosis (caused by Salmonella bacteria) associated with Mary Pilgrim Inn, an emergency temporary housing shelter in Seattle. Many of the people bec… [+847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "oregonlive.com",
+      "title": "FDA issues recall warning for some batches of broccoli, oysters, sold in Oregon",
+      "description": "The U.S. Food and Drug Administration has issued recall warnings for oysters and frozen broccoli distributed in Oregon due to contamination concerns.\nA batch of frozen broccoli from Braga Fresh — commonly sold under the name “Marketside Broccoli Florets” in W…",
+      "url": "https://biztoc.com/x/6a2a98355846e249",
+      "urlToImage": "https://biztoc.com/cdn/6a2a98355846e249_s.webp",
+      "publishedAt": "2025-01-04T01:56:15Z",
+      "content": "The U.S. Food and Drug Administration has issued recall warnings for oysters and frozen broccoli distributed in Oregon due to contamination concerns.A batch of frozen broccoli from Braga Fresh common… [+149 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -167,7 +245,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2025-01-01T11:00:19Z",
+      "publishedAt": "2025-01-02T22:08:26Z",
       "content": "[Removed]"
     },
     {
@@ -1183,72 +1261,7 @@
       "urlToImage": "https://www.westernjournal.com/wp-content/uploads/2025/01/walmart.jpg",
       "publishedAt": "2025-01-01T12:17:27Z",
       "content": "A company which sells vegetables in Walmart stores issued a voluntary recall of certain broccoli packages sold at the ubiquitous retail chain.\r\nThe recall issued by Braga Fresh on Friday and publishe… [+2671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Joshua Cox-Steib",
-      "title": "Sea Moss Gummies: Side Effects, Benefits and Who Should Try Them",
-      "description": "When it comes to the sea moss gummies trend, do the sea moss benefits outweigh the potential risks? It's also important to consider possible side effects.",
-      "url": "https://www.cnet.com/health/nutrition/sea-moss-gummies-side-effects-benefits-and-who-should-try-them/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/fed74a6b92641554f3d564fbb7b7227d3eee0f89/hub/2024/08/19/05929314-f44e-4647-b9f1-6eec16ea8912/gummy-bears.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-01-01T11:17:03Z",
-      "content": "If you're familiar with the latest wellness trends, and also enjoy taking your vitamins and minerals in gummy form, you've probably heard about the sea moss gummies trend. Even celebrities like Bella… [+9400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How long does oat milk last?",
-      "description": "How Long Does Oat Milk Last? Oat milk has gained popularity in recent years due to its eco-friendly and health-conscious […]\nThe post How long does oat milk last? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-long-does-oat-milk-last/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-01T11:12:19Z",
-      "content": "How Long Does Oat Milk Last?\r\nOat milk has gained popularity in recent years due to its eco-friendly and health-conscious nature. Made from oats and water, oat milk is a plant-based alternative to tr… [+4359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How long does mre food last?",
-      "description": "How Long Does MRE Food Last? Introduction MRE (Meals, Ready-to-Eat) food is a type of pre-cooked, pre-packaged meal that is […]\nThe post How long does mre food last? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-long-does-mre-food-last/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-01T11:11:31Z",
-      "content": "How Long Does MRE Food Last?\r\nIntroduction\r\nMRE (Meals, Ready-to-Eat) food is a type of pre-cooked, pre-packaged meal that is designed for military personnel and other individuals who require a quick… [+4080 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How long does coleslaw last?",
-      "description": "How Long Does Coleslaw Last? Coleslaw is a popular side dish that is often served at picnics, barbecues, and other […]\nThe post How long does coleslaw last? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-long-does-coleslaw-last/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-01T10:06:23Z",
-      "content": "How Long Does Coleslaw Last?\r\nColeslaw is a popular side dish that is often served at picnics, barbecues, and other outdoor gatherings. It’s a refreshing and tangy condiment made from shredded cabbag… [+4217 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How long does can tuna last?",
-      "description": "How Long Does Can Tuna Last? Understanding the Shelf Life of Canned Tuna Canned tuna is a staple in many […]\nThe post How long does can tuna last? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-long-does-can-tuna-last/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-01T09:57:33Z",
-      "content": "How Long Does Can Tuna Last?\r\nUnderstanding the Shelf Life of Canned Tuna\r\nCanned tuna is a staple in many households, providing a convenient and affordable source of protein. However, it’s essential… [+3831 chars]"
     }
   ],
-  "totalResults": 96
+  "totalResults": 97
 }
