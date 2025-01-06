@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-06T06:31:23.731Z",
+  "lastUpdated": "2025-01-06T12:43:17.619Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-02T22:08:26Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Colin Todhunter",
+      "title": "Power Play: The Future of Food",
+      "description": "It takes a book to break down the dynamics that are pushing agro-chemical agriculture to farmers and consumers around the world and to reveal the strength of the diverse organizations who stand in the way of these predatory forces.\nThe post Power Play: The Fu…",
+      "url": "https://www.globalresearch.ca/power-play-future-food/5872775",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/11/power-play-future-food-colin-todhunter.png",
+      "publishedAt": "2025-01-05T12:14:50Z",
+      "content": "Power Play\r\nThe Future of Food\r\nby\r\nColin Todhunter\r\nPower Play: The Future of Food © 2024 by Colin Todhunter is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internatio… [+210094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Daphne Ewing-Chow, Senior Contributor, \n Daphne Ewing-Chow, Senior Contributor\n https://www.forbes.com/sites/daphneewingchow/",
+      "title": "This Is The Human Face Of Acute Food Insecurity In Gaza",
+      "description": "A first person account of what it feels like to be a survivor of famine and ongoing acute food insecurity, by 20-year-old Islam Maher Abu Sakran, a resident of Gaza.",
+      "url": "https://www.forbes.com/sites/daphneewingchow/2025/01/05/this-is-the-human-face-of-acute-food-insecurity-in-gaza/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/677a4de967d4141019510697/0x0.jpg?format=jpg&crop=899,673,x0,y365,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-01-05T11:17:11Z",
+      "content": "Islam Maher Abu Sakran\r\nIslam Maher Abu Sakran\r\nI am writing this to you with tears in my eyes, says Islam Maher Abu Sakran, his WhatsApp message punctuated by two broken heart emojis.\r\nAnimals have … [+10624 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Hannah Holland",
+      "title": "The Make America Healthy Again movement is a threat to public health",
+      "description": "The Make America Healthy Again movement boomed during the Covid pandemic, especially among anti-vaxxers and Trump supporters.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/rfk-jr-make-america-healthy-again-indoctrination-vaccines-rcna186046",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241216-robert-f-kennedy-jr-rfk-jr-ac-515p-3111c0.jpg",
+      "publishedAt": "2025-01-05T11:00:00Z",
+      "content": "The Make America Healthy Again, or MAHA, movement is a potent and growing Trump-centric subculture. MAHA influencers, politicians and followers argue that Americans have been made sick by corporate g… [+5970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 27",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. 7-Zip Zero-Day Exploit Dropped: A New Playground for Infostealer & Supply Chain Attacks   Quasar RAT Disguised as an npm Pac…",
+      "url": "https://securityaffairs.com/172685/malware/security-affairs-malware-newsletter-round-27.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-01-05T10:36:18Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 27\r\n | Security Affairs newsletter Round 505 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Malicious npm packages target Ethereum developers\r\n | US Treasur… [+128618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 505 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Malicious npm …",
+      "url": "https://securityaffairs.com/172679/breaking-news/security-affairs-newsletter-round-505-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-01-05T10:18:33Z",
+      "content": "Security Affairs newsletter Round 505 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Malicious npm packages target Ethereum developers\r\n | US Treasury Department sanctioned Chinese cybersecurity fir… [+128569 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -156,19 +234,6 @@
       "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2025/01/20027772_web1_web_WolfgangPuckBarGrill-MGM.jpg",
       "publishedAt": "2025-01-04T22:01:24Z",
       "content": "Wolfgang Puck Bar &amp; Grill at the MGM Grand, the namesake restaurant from one of the world’s most celebrated chefs, was closed by the Southern Nevada Health District following an inspection Thursd… [+1564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-02T22:08:26Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -1170,85 +1235,7 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/910a638ce3193e4ebc84691db21ad2c702cae2b7/hub/2024/12/30/6e2ad328-fd01-45c5-9279-7b347b1224b7/gettyimages-1315120793.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-01-02T15:18:53Z",
       "content": "Microplastics are everywhere: in the air we breathe, the water we drink and the food we eat. They accumulate in clothes, cosmetics, fabric and dust. \r\nIt is nearly impossible to avoid microplastics i… [+7626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Introspective Market Research",
-      "title": "Feed Additives Market Projected to Reach USD 70.09 Billion by 2032, Growing at a 5.8% CAGR From 2024-2032 | Introspective Market Research.",
-      "description": "Cargill purchases two feed mills in the US, enhancing production and distribution abilities to expand alongside customers in 2024. Cargill purchases two feed mills in the US, enhancing production and distribution abilities to expand alongside customers in 202…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/02/3003589/0/en/Feed-Additives-Market-Projected-to-Reach-USD-70-09-Billion-by-2032-Growing-at-a-5-8-CAGR-From-2024-2032-Introspective-Market-Research.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/94de5d3b-896b-42eb-ac3a-a9b044bfbf39",
-      "publishedAt": "2025-01-02T14:54:00Z",
-      "content": "United States, Dallas, Jan. 02, 2025 (GLOBE NEWSWIRE) -- Introspective Market Research is excited to unveil its latest report, \"Feed Additives\" This in-depth analysis shows that the global Feed Addit… [+11548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kffhealthnews.org"
-      },
-      "author": null,
-      "title": "Thursday, January 2, 2025",
-      "description": null,
-      "url": "https://kffhealthnews.org/morning-briefing/thursday-january-2-2025/",
-      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
-      "publishedAt": "2025-01-02T14:39:45Z",
-      "content": "CDC Keeps Its Eyes Open For Signs Of Bird Flu Turning Into A Pandemic\r\nThe agency says it is looking for red flags, but the risk to the public still remains low. Meanwhile, samples collected from a L… [+6924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "fastcompany.com",
-      "title": "Broccoli listeria warning hits Walmart stores, says FDA recall website: Symptoms, list of states, what to know",
-      "description": "The U.S. Food and Drug Administration (FDA) is alerting the public via its recall website about a voluntary advisory issued by Braga Fresh for a batch of Marketside Broccoli Florets sold at Walmart stores across 20 states. \nThe “precautionary advisory” was is…",
-      "url": "https://biztoc.com/x/9cb92812ee8a0bcd",
-      "urlToImage": "https://biztoc.com/cdn/9cb92812ee8a0bcd_s.webp",
-      "publishedAt": "2025-01-02T14:00:42Z",
-      "content": "The U.S. Food and Drug Administration (FDA) is alerting the public via its recall website about a voluntary advisory issued by Braga Fresh for a batch of Marketside Broccoli Florets sold at Walmart s… [+139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Beminet Moges Gebremariam, Dejene Hailu, Barbara J. Stoecker, Afework Mulugeta",
-      "title": "Birth prevalence and determinants of neural tube defects among newborns in Ethiopia: A systematic review and meta-analysis",
-      "description": "Background Neural tube defects (NTDs) are complex multifactorial disorders in the neurulation of the brain and spinal cord that develop in humans between 21 and 28 days of conception. Neonates with NTDs may experience morbidity and mortality, with severe soci…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315122",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315122.g007&size=inline",
-      "publishedAt": "2025-01-02T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nNeural tube defects (NTDs) are complex multifactorial disorders in the neurulation of the brain and spinal cord that develop in humans between 21 and 28 days of conception. Neon… [+42788 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Russian media outlets Telegram channels blocked in European countries",
-      "description": "Telegram restricted access to Russian state-owned news channels in several European countries, including Poland, France, and Italy. Telegram blocked access to channels of multiple Russian state-owned news outlets across Europe, including Italy, Poland, Czechi…",
-      "url": "https://securityaffairs.com/172565/security/russian-media-outlets-telegram-channels-blocked-in-eu.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image.png",
-      "publishedAt": "2025-01-02T13:44:40Z",
-      "content": "Russian media outlets Telegram channels blocked in European countries\r\n | Three Russian-German nationals charged with suspicion of secret service agent activity\r\n | Lumen reports that it has locked o… [+127831 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Activistpost.com"
-      },
-      "author": "Editor",
-      "title": "Biden Administration and ‘Mr. Monsanto’ Continue to Bully Mexico into Accepting GMO Corn",
-      "description": "Derrick Broze The Biden administration and Tom “Mr. Monsanto” Vilsack have emerged victorious in their effort to use the U.S.-Mexico-Canada Agreement (USMCA) to force Mexico to accept U.S. grown genetically engineered corn. On Friday, an international trade p…",
-      "url": "https://www.activistpost.com/biden-administration-and-mr-monsanto-continue-to-bully-mexico-into-accepting-gmo-corn/",
-      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/01/GMO-Corn.jpg",
-      "publishedAt": "2025-01-02T13:08:23Z",
-      "content": "Derrick Broze\r\nThe Biden administration and Tom Mr. Monsanto Vilsack have emerged victorious in their effort to use the U.S.-Mexico-Canada Agreement (USMCA) to force Mexico to accept U.S. grown genet… [+12806 chars]"
     }
   ],
-  "totalResults": 96
+  "totalResults": 95
 }
