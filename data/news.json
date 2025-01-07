@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-01-07T06:30:55.215Z",
+  "lastUpdated": "2025-01-07T12:43:04.274Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-03T20:35:14Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "TomGreenhaw",
+      "title": "3D printed chip detects food borne bacteria",
+      "description": "Conventional detection methods used to identify pathogens in food, such as DNA sequencing and cell cultures, are effective, but contamination can happen. A 3D-printed microfluidic chip is poised to significantly improve detection accuracy and efficiency.It de…",
+      "url": "https://slashdot.org/submission/17331799/3d-printed-chip-detects-food-borne-bacteria",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T11:33:18Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jess Thomson",
+      "title": "Ground Beef Sparks Health Alert Over Metal and Plastic Fears",
+      "description": "The raw ground beef \"may be contaminated with foreign material, specifically hard plastic and metal,\" according to the USDA.",
+      "url": "https://www.newsweek.com/food-health-alert-usda-fsis-plastic-metal-ground-beef-2010161",
+      "urlToImage": "https://d.newsweek.com/en/full/2557129/ground-beef.jpg",
+      "publishedAt": "2025-01-06T11:25:20Z",
+      "content": "A public health alert has been issued for a frozen raw beef product over fears of potential contamination from plastic and metal material.\r\nThe product, which was produced by Stockyards Packing Compa… [+2844 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jesus Mesa",
+      "title": "Eating Healthier in 2025? How to Reduce Microplastic Consumption in Food",
+      "description": "While completely avoiding microplastics is unrealistic in modern society, experts shared with Newsweek practical steps you can take to minimize your exposure.",
+      "url": "https://www.newsweek.com/microplastics-how-avoid-food-water-2009319",
+      "urlToImage": "https://d.newsweek.com/en/full/2555918/microplastics.jpg",
+      "publishedAt": "2025-01-06T10:00:01Z",
+      "content": "Microplastics, tiny plastic fragments less than five millimeters in diameter, have infiltrated nearly every corner of modern life. From the air we breathe to the water we drink and the food we consum… [+6341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China-linked Salt Typhoon APT compromised more US telecoms than previously known",
+      "description": "China-linked Salt Typhoon group that breached multiple US telecoms compromised more firms than previously known, WSJ says. The China-linked cyberespionage group Salt Typhoon targeted more US telecoms than previously known, as The Wall Street Journal reported.…",
+      "url": "https://securityaffairs.com/172724/intelligence/china-linked-salt-typhoon-breached-multiple-us.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+      "publishedAt": "2025-01-06T09:32:01Z",
+      "content": "China-linked Salt Typhoon APT compromised more US telecoms than previously known\r\n | PLAYFULGHOST backdoor supports multiple information stealing features\r\n | Nuclei flaw allows signature bypass and … [+128836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "The Allergy Treatment Market is Set to Reach USD 42.7 Billion by 2034 with a 7.2% of CAGR, driven by Innovation and Increasing Demand for Advanced Therapeutic Solutions | Future Market Insights, Inc.",
+      "description": "An allergy is an immune system sensitivity that is increased. When an immune system is triggered by a foreign material that is normally harmless, allergy results. Animal dander, Dust mites, pollen, tree weed, cockroach, mold, and other aeroallergens are just …",
+      "url": "https://www.globenewswire.com/news-release/2025/01/06/3004376/0/en/The-Allergy-Treatment-Market-is-Set-to-Reach-USD-42-7-Billion-by-2034-with-a-7-2-of-CAGR-driven-by-Innovation-and-Increasing-Demand-for-Advanced-Therapeutic-Solutions-Future-Market.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-01-06T09:30:00Z",
+      "content": "NEWARK, Del, Jan. 06, 2025 (GLOBE NEWSWIRE) -- The Allergy Treatment Industry, currently valued at USD 22.8 billion in 2024, is poised to grow substantially over the next decade. With a compound annu… [+27262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "What is non porous surface?",
+      "description": "What is Non-Porous Surface? A non-porous surface is a type of material that does not allow liquids or gases to […]\nThe post What is non porous surface? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/what-is-non-porous-surface/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-06T09:21:00Z",
+      "content": "What is Non-Porous Surface?\r\nA non-porous surface is a type of material that does not allow liquids or gases to penetrate or pass through it. This property is often referred to as \"non-porous\" or \"no… [+6279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marlerblog.com"
+      },
+      "author": "Bill Marler",
+      "title": "FDA has traced back, inspected and is sampling product linked to Listeria Outbreak",
+      "description": "Perhaps, more information will be forthcoming this week. FDA Traceback Initiated: Used to identify the source and distribution of the implicated food and remove the contaminated product from the marketplace, to distinguish between two or more implicated food …",
+      "url": "https://www.marlerblog.com/case-news/fda-has-traced-back-inspected-and-is-sampling-product-linked-to-listeria-outbreak/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/531/306/kW7yv9eBdzpm1VVy6NLRwa5Px/791bd07f036be28278067c6415f391e6f9278fc6.png",
+      "publishedAt": "2025-01-06T07:23:36Z",
+      "content": "Perhaps, more information will be forthcoming this week.\r\nFDA Traceback Initiated: Used to identify the source and distribution of the implicated food and remove the contaminated product from the mar… [+1148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "myfox28columbus.com",
+      "title": "2 types of cheese recalled due to possible listeria contamination",
+      "description": "Two types of cheese sold in Ohio were recalled due to potential listeria contamination.\nThe U.S. Food and Drug Administration announced on Jan. 3 that two variants of cheddar from Wicklow Gold, distributed by Abbey Specialty Foods, were recalled due to possib…",
+      "url": "https://biztoc.com/x/df9885363c1ba6d3",
+      "urlToImage": "https://biztoc.com/cdn/df9885363c1ba6d3_s.webp",
+      "publishedAt": "2025-01-06T06:44:37Z",
+      "content": "Two types of cheese sold in Ohio were recalled due to potential listeria contamination.The U.S. Food and Drug Administration announced on Jan. 3 that two variants of cheddar from Wicklow Gold, distri… [+156 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,19 +169,6 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/523/884/5R7NlW8nEzjkA2gk6mvbxgLyP/fbd4a4678eb17cf12aaa94b45b4e7238b313d924.png",
       "publishedAt": "2025-01-06T05:01:00Z",
       "content": "From milk to meat to vegetables, food recalls surged in 2024.\r\nFood safety experts suggest consumer demand for convenience could be part of the problem. Convenience brings risk. The additional handli… [+7992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-03T04:45:52Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -181,7 +285,7 @@
       "url": "https://slate.com/advice/2025/01/delayed-ejaculation-orgasm-anorgasmia-men-ssri-testosterone-advice.html",
       "urlToImage": "https://compote.slate.com/images/fa0df078-0c4c-4bbf-b8a4-93adf7125911.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2025-01-05T17:00:00Z",
-      "content": "How to Do It is Slates sex advice column.��Have a question? Send it to Stoya and Rich here. Its anonymous!\r\nDear How to Do It,\r\nIm a 75-year-old male who married the love of my life four years ago. My… [+15448 chars]"
+      "content": "How to Do It is Slates sex advice column. Have a question? Send it to Stoya and Rich here. Its anonymous!\r\nDear How to Do It,\r\nIm a 75-year-old male who married the love of my life four years ago. My… [+15448 chars]"
     },
     {
       "source": {
@@ -1131,110 +1235,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/cmAvH69byUSqefFB4Uv7Cc-1200-80.jpg",
       "publishedAt": "2025-01-03T06:00:24Z",
       "content": "Dreame X40 Ultra: two-minute review\r\nDreame Technologies hasn’t been around long but, since its inception in 2017, the brand has made some excellent robot vacuums, including the Dreame L20 Ultra. The… [+30112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Coral Beach",
-      "title": "FDA investigating company linked to Listeria outbreak but is not releasing firm’s name",
-      "description": "The FDA has begun inspections of a company linked to a listeria outbreak, but has not released the name of the company. The Food and Drug Administration has also begun sample collection and testing and on-site inspection but the agency has not reported what f…",
-      "url": "https://www.foodsafetynews.com/2025/01/fda-investigating-company-linked-to-listeria-outbreak-but-is-not-releasing-firms-name/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/318/679/MRj52Zwoa6xmlOk5QxWkdO3eE/be487a30ca4562981187bdbeb20b4de6ddf6ef81.png",
-      "publishedAt": "2025-01-03T05:05:00Z",
-      "content": "The FDA has begun inspections of a company linked to a listeria outbreak, but has not released the name of the company.\r\nThe Food and Drug Administration has also begun sample collection and testing … [+2620 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Carl Custer",
-      "title": "Incentives to control Salmonella in poultry are a step in the right direction",
-      "description": "Kudos to FSIS and ARS for their work and proposing that poultry products “. . . contaminated with certain Salmonella levels and serotypes are adulterated. . . .” Implementing this rule should benefit public health. Producers and processors will likely protest…",
-      "url": "https://www.foodsafetynews.com/2025/01/incentives-to-control-salmonella-in-poultry-are-a-step-in-the-right-direction/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/318/608/5nDZ3xmVezbkemAG6y2qpdWj9/2b0e710c14d20e50854444dfac8994327eeb4b57.png",
-      "publishedAt": "2025-01-03T05:03:00Z",
-      "content": "Kudos to FSIS and ARS for their work and proposing that poultry products “. . . contaminated with certain Salmonella levels and serotypes are adulterated. . . .” Implementing this rule should benefit… [+5775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Scientists show how UK E. coli outbreak was traced to lettuce",
-      "description": "Scientists have detailed the process of linking a major E. coli outbreak in the United Kingdom to lettuce. In May 2024, public health agencies and laboratories identified an increase in stool specimens submissions and patients testing positive for Shiga toxin…",
-      "url": "https://www.foodsafetynews.com/2025/01/scientists-show-how-uk-e-coli-outbreak-was-traced-to-lettuce/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/318/575/g4ZpR2ONeYJZEwenYEqvo9WBA/bbf954dc5438215a3a49b1f442a0775a3937ec0c.png",
-      "publishedAt": "2025-01-03T05:02:00Z",
-      "content": "Scientists have detailed the process of linking a major E. coli outbreak in the United Kingdom to lettuce.\r\nIn May 2024, public health agencies and laboratories identified an increase in stool specim… [+2783 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Five emerging risks identified by EU scientists",
-      "description": "Five topics were considered to be emerging risks by European experts in 2023 while a wide range of other subjects were considered, according to a recently released report. The annual report on the European Food Safety Authority’s (EFSA) activities on emerging…",
-      "url": "https://www.foodsafetynews.com/2025/01/five-emerging-risks-identified-by-eu-scientists/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/318/565/nBjKDywPW6ZkN901Q4vgVoMrN/40ea20dd56538c96307becb2b0836ede5a3e89d2.png",
-      "publishedAt": "2025-01-03T05:01:00Z",
-      "content": "Five topics were considered to be emerging risks by European experts in 2023 while a wide range of other subjects were considered, according to a recently released report.\r\nThe annual report on the E… [+4522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marlerblog.com"
-      },
-      "author": "Bill Marler",
-      "title": "More Norovirus linked to Oysters",
-      "description": "Audience Product The implicated products include shellstock oysters harvested from 12/02/2024 to 12/17/2024 by Ruco’s Shellfish (WA-1995-SS) from a portion of Hammersley Inlet growing area in Washington State. The oysters were distributed in WA and OR and may…",
-      "url": "https://www.marlerblog.com/case-news/more-norovirus-linked-to-oysters/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/317/906/kW7yv9eBdzpmLKgy6NLRwa5Px/1ece71a8cf7cffd6bda466bc3e10b51af78c75c9.png",
-      "publishedAt": "2025-01-03T04:52:41Z",
-      "content": "Audience\r\n<ul><li>Restaurants and food retailers in Oregon (OR) and Washington (WA) that have recently purchased shellstock oysters harvested from 12/02/2024 to 12/17/2024 by Rucos Shellfish (WA-1995… [+6184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to build a food trailer?",
-      "description": "How to Build a Food Trailer: A Comprehensive Guide Building a food trailer can be a fun and rewarding project, […]\nThe post How to build a food trailer? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-build-a-food-trailer/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-03T01:16:47Z",
-      "content": "How to Build a Food Trailer: A Comprehensive Guide\r\nBuilding a food trailer can be a fun and rewarding project, allowing you to showcase your culinary skills and creativity while providing a unique d… [+6238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "Dr. Mercola",
-      "title": "What Urine Odor Says About Your Health",
-      "description": "Urine is the liquid byproduct of your kidneys after filtering extra water and waste from your blood. While it's normally 91% to 96% water, urine also contains minerals, vitamins and uric acid.1\n\nYour urine color is an important gauge of your hydration status.…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/01/03/what-urine-odor-says-about-your-health.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/what-urine-odor-says-about-your-health-fb.jpg",
-      "publishedAt": "2025-01-03T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "Dr. Mercola",
-      "title": "Glyphosate’s Hidden Threat to Your Brain Health",
-      "description": "Alzheimer’s disease is a progressive neurological disorder that deteriorates your memory, cognitive function and ability to perform everyday tasks. This debilitating condition affects millions of Americans, stripping individuals of their independence and prof…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/01/03/glyphosate-exposure-and-brain-health.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/glyphosate-exposure-and-brain-health-fb.jpg",
-      "publishedAt": "2025-01-03T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
   "totalResults": 95
