@@ -11,17 +11,37 @@ const CONFIG = {
     PAGE_SIZE: 100
 };
 
+// Content filtering
+const CONTENT_FILTER = {
+    excludedTerms: [
+        'sex',
+        'orgasm',
+        'pornographic',
+        'masturbate',
+        // Add other terms to exclude
+    ],
+    // Case-insensitive regex pattern for excluded terms
+    excludePattern: null
+};
+
+// Initialize the exclude pattern
+CONTENT_FILTER.excludePattern = new RegExp(
+    CONTENT_FILTER.excludedTerms.join('|'), 
+    'i'
+);
+
 // Search parameters
 const SEARCH_PARAMS = {
     queries: [
         // Combined optimal search query within API limits
         '("food recall" OR "FDA recall" OR "USDA recall" OR "FSIS recall") OR ' +
         '(food AND (listeria OR salmonella OR "E. coli" OR "foreign material")) OR ' +
-        '(food AND ("undeclared allergen" OR contamination OR mislabeling))'
+        '(food AND ("undeclared allergen" OR contamination OR mislabeling)) ' +
+        // Exclude adult content sites from results
+        'AND -site:adult* -site:nsfw* -site:xxx*'
     ],
     language: 'en',
     sortBy: 'publishedAt',
-    // Get articles from last 30 days
     from: new Date(Date.now() - 30 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]
 };
 
@@ -43,7 +63,6 @@ function validateApiKey() {
 
 /**
  * Ensures the output directory exists
- * @returns {void}
  */
 function ensureOutputDirectory() {
     const dataDir = path.dirname(CONFIG.OUTPUT_FILE);
@@ -54,11 +73,10 @@ function ensureOutputDirectory() {
 }
 
 /**
- * Constructs the API URL
+ * Constructs the API URL with content filtering
  * @returns {string} API URL
  */
 function buildApiUrl() {
-    // Use the single optimized query
     const combinedQuery = SEARCH_PARAMS.queries[0];
     
     const params = new URLSearchParams({
@@ -84,6 +102,24 @@ function getRequestOptions() {
             'X-Api-Key': CONFIG.API_KEY
         }
     };
+}
+
+/**
+ * Filters out articles containing excluded terms
+ * @param {Array} articles - Array of news articles
+ * @returns {Array} Filtered articles
+ */
+function filterArticles(articles) {
+    return articles.filter(article => {
+        // Check title, description, and content for excluded terms
+        const contentToCheck = [
+            article.title,
+            article.description,
+            article.content
+        ].filter(Boolean).join(' ').toLowerCase();
+        
+        return !CONTENT_FILTER.excludePattern.test(contentToCheck);
+    });
 }
 
 /**
@@ -119,24 +155,31 @@ function makeRequest(url, options) {
 }
 
 /**
- * Processes and saves the combined API responses
+ * Processes and saves the combined API responses with content filtering
  * @param {Array<Object>} newsResults - Array of API responses
  */
 function processAndSaveResponse(newsResults) {
     const allArticles = newsResults.flatMap(news => news.articles);
+    
+    // Apply content filtering
+    const filteredArticles = filterArticles(allArticles);
+    
+    // Remove duplicates
     const uniqueArticles = Array.from(new Map(
-        allArticles.map(article => [article.url, article])
+        filteredArticles.map(article => [article.url, article])
     ).values());
     
     const storage = {
         lastUpdated: new Date().toISOString(),
         articles: uniqueArticles,
         totalResults: uniqueArticles.length,
-        query: SEARCH_PARAMS.query
+        query: SEARCH_PARAMS.query,
+        filteredCount: allArticles.length - uniqueArticles.length
     };
     
     fs.writeFileSync(CONFIG.OUTPUT_FILE, JSON.stringify(storage, null, 2));
-    console.log(`News data updated successfully. Found ${uniqueArticles.length} unique articles.`);
+    console.log(`News data updated successfully. Found ${uniqueArticles.length} unique articles after filtering.`);
+    console.log(`Filtered out ${storage.filteredCount} articles containing excluded terms.`);
 }
 
 /**
@@ -149,7 +192,7 @@ async function fetchNewsData() {
     
     try {
         const result = await makeRequest(url, options);
-        processAndSaveResponse([result]); // Keep array format for compatibility
+        processAndSaveResponse([result]);
     } catch (error) {
         throw new Error(`Failed to fetch news: ${error.message}`);
     }
@@ -162,7 +205,7 @@ async function main() {
     try {
         validateApiKey();
         ensureOutputDirectory();
-        console.log('Starting news fetch...');
+        console.log('Starting news fetch with content filtering...');
         await fetchNewsData();
     } catch (error) {
         console.error(error.message);
