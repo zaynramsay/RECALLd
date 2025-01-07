@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-01-06T18:29:51.393Z",
+  "lastUpdated": "2025-01-07T01:44:04.288Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "PLAYFULGHOST backdoor supports multiple information stealing features",
+      "description": "PLAYFULGHOST is a new malware family with capabilities including keylogging, screen and audio capture, remote shell access, and file transfer/execution. Google researchers analyzed a new malware family called PLAYFULGHOST that supports multiple features, incl…",
+      "url": "https://securityaffairs.com/172707/malware/playfulghost-backdoor-capabilities.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-7.png",
+      "publishedAt": "2025-01-06T00:30:38Z",
+      "content": "PLAYFULGHOST backdoor supports multiple information stealing features\r\n | Nuclei flaw allows signature bypass and code execution\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 27\r\n | Security Affairs … [+128751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Staghorn Kidney Stones — What They Are and How to Avoid Them",
+      "description": "Kidney stones are solid mineral and salt deposits that form in the kidneys, causing intense pain and discomfort. Each year, over half a million people visit emergency rooms due to kidney stone issues. According to the National Kidney Foundation,1 1 in 10 peop…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/01/06/staghorn-kidney-stones.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/January/FB/staghorn-kidney-stones-fb.jpg",
+      "publishedAt": "2025-01-06T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Amy Furr, Amy Furr",
+      "title": "Costco Brand Cold and Flu Medicine Recalled Due to 'Potential Foreign Material Contamination'",
+      "description": "A medicine being pulled from shelves at Costco is the subject of a recall that was launched due to a potential foreign material contamination.\nThe post Costco Brand Cold and Flu Medicine Recalled Due to ‘Potential Foreign Material Contamination’ appeared firs…",
+      "url": "https://www.breitbart.com/health/2025/01/05/costco-brand-cold-and-flu-medicine-recalled-due-to-potential-foreign-material-contamination/",
+      "urlToImage": "https://media.breitbart.com/media/2025/01/GettyImages-1243455818-640x335.jpg",
+      "publishedAt": "2025-01-05T21:54:36Z",
+      "content": "A medicine being pulled from shelves at Costco is the subject of a recall that was launched due to a potential foreign material contamination.\r\nThe recall involves the medicine called Kirkland Signat… [+1955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox Business",
+      "title": "Costco cold remedy recalled due to possible ‘contamination’",
+      "description": "Costco over-the-counter cold and flu medicine impacted for second time in less than a month.",
+      "url": "https://nypost.com/2025/01/05/business/costco-cold-remedy-recalled-due-to-possible-contamination/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/96268057.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-01-05T21:38:03Z",
+      "content": "A Costco-brand cold and flu medicine has been pulled from shelves “due to potential foreign material contamination.”\r\nA notice shared on the retail giant’s website says the recall of Kirkland Signatu… [+1997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fsis.usda.gov",
+      "title": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contamination",
+      "description": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contamination\nFSIS Announcement\nWASHINGTON, Jan. 5, 2025 – The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) is issuing a public h…",
+      "url": "https://biztoc.com/x/f20edcb6cc7a96fd",
+      "urlToImage": "https://biztoc.com/cdn/808/og.png",
+      "publishedAt": "2025-01-05T21:31:36Z",
+      "content": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter ContaminationFSIS AnnouncementWASHINGTON, Jan. 5, 2025 The U.S. Department of Agricultures Food Saf… [+148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Usda.gov"
+      },
+      "author": null,
+      "title": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contamination",
+      "description": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contaminationusda.gov",
+      "url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-raw-ground-beef-products-due-possible-foreign",
+      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
+      "publishedAt": "2025-01-05T21:06:57Z",
+      "content": "WASHINGTON, Jan. 5, 2025 The U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns of frozen, raw ground beef products that may be… [+1941 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Shiv Sudhakar",
+      "title": "Ozempic ‘microdosing’ is the new weight-loss trend: Should you try it?",
+      "description": "A new trend gaining popularity among people trying to lose weight is microdosing the diabetes medication Ozempic. Experts weigh the pros and cons of the practice.",
+      "url": "https://www.foxnews.com/health/ozempic-microdosing-new-weight-loss-trend-should-you-try-it",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/ozempic-pen.jpg",
+      "publishedAt": "2025-01-05T19:27:06Z",
+      "content": "A new trend gaining popularity among people trying to lose weight is microdosing the diabetes medication Ozempic.\r\nWith approximately 70% of American adults meeting the criteria for being obese or ov… [+6527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Nuclei flaw allows signature bypass and code execution",
+      "description": "A vulnerability in Nuclei, an open-source vulnerability scanner, could allow attackers to bypass signature checks and execute malicious code. A high-severity security flaw, tracked as CVE-2024-43405 (CVSS score of 7.4), in the open-source vulnerability scanne…",
+      "url": "https://securityaffairs.com/172692/security/nuclei-flaw-execute-malicious-code.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-6.png",
+      "publishedAt": "2025-01-05T19:06:02Z",
+      "content": "Nuclei flaw allows signature bypass and code execution\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 27\r\n | Security Affairs newsletter Round 505 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Malic… [+128677 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -321,7 +425,7 @@
       "author": "Jordan Joseph",
       "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
       "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
+      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
@@ -334,7 +438,7 @@
       "author": "Jordan Joseph",
       "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
       "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
+      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
@@ -1131,110 +1235,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/vSrTTFbBUzXwtNCFQskG5X-1200-80.jpg",
       "publishedAt": "2025-01-02T22:48:00Z",
       "content": "Residents of Los Angeles county have been warned against feeding their cats Monarch Raw Pet Food after the company's products tested positive for bird flu.\r\nThe pet food brand is sold at several farm… [+3914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A US soldier was arrested for leaking presidential call logs",
-      "description": "US authorities have arrested soldier Cameron John Wagenius for his alleged involvement in leaking presidential phone records. US authorities arrested Cameron John Wagenius (20), a US Army soldier, suspected of involvement in leaking presidential call logs. Th…",
-      "url": "https://securityaffairs.com/172589/cyber-crime/us-soldier-arrested-for-leaking-presidential-call-logs.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/Donald-Trumps-campaign.jpg",
-      "publishedAt": "2025-01-02T22:02:49Z",
-      "content": "A US soldier was arrested for leaking presidential call logs\r\n | DoubleClickjacking allows clickjacking on major websites\r\n | Russian media outlets Telegram channels blocked in European countries\r\n |… [+127957 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ariel Zilber",
-      "title": "Walmart recalls broccoli sold in 20 states over life-threatening listeria concerns",
-      "description": "Braga Fresh has issued a voluntary recall of washed and ready-to-eat 12-ounce bags of Marketside Broccoli Florets, according to the FDA.",
-      "url": "https://nypost.com/2025/01/02/business/walmart-recalls-broccoli-over-listeria-concerns/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/96118058.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-01-02T21:10:53Z",
-      "content": "A brand of fresh broccoli sold at Walmart stores in 20 states is being recalled over listeria contamination, the Food and Drug Administration announced Thursday\r\nBraga Fresh, a California-based compa… [+2985 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Urgent recall for broccoli sold at Walmart in 20 states that contain deadly bacteria listeria - Daily Mail",
-      "description": "Urgent recall for broccoli sold at Walmart in 20 states that contain deadly bacteria listeriaDaily Mail Broccoli florets recall issued due to possible listeria contaminationWSAZ Broccoli sold by Walmart in 20 U.S. states recalled over listeria riskCBS News Wa…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175818835",
-      "urlToImage": null,
-      "publishedAt": "2025-01-02T20:52:43Z",
-      "content": "The rule on staying alive as a forecaster is to give 'em a number or\r\ngive 'em a date, but never give 'em both at once.\r\n-- Jane Bryant Quinn"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "aol.com",
-      "title": "Broccoli sold at Walmart recalled in 20 states due to possible listeria contamination",
-      "description": "Broccoli sold at Walmart in 20 states is being recalled due to a potential listeria contamination, federal officials announced this week.\nBraga Fresh, based in Soledad, California issued a product warning for Marketside Broccoli Florets, the U.S. Food and Dru…",
-      "url": "https://biztoc.com/x/96d89112f72191e3",
-      "urlToImage": "https://biztoc.com/cdn/96d89112f72191e3_s.webp",
-      "publishedAt": "2025-01-02T20:49:50Z",
-      "content": "Broccoli sold at Walmart in 20 states is being recalled due to a potential listeria contamination, federal officials announced this week.Braga Fresh, based in Soledad, California issued a product war… [+135 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Kate Gibson",
-      "title": "Broccoli sold by Walmart in 20 U.S. states recalled over listeria risk",
-      "description": "Broccoli florets from California grower and sold at more than 1,000 Walmart stores are recalled because they could contain listeria.",
-      "url": "https://www.cbsnews.com/news/walmart-broccoli-florets-recall-listeria-braga-fresh/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/06/16/15ad6797-5681-4550-99a9-7a50df21480c/thumbnail/1200x630/a67edadba54daf010a5735af6362c6db/GettyImages-1069982680.jpg?v=fa9977353833f46f40b07abcd9d5240b",
-      "publishedAt": "2025-01-02T20:26:05Z",
-      "content": "Foodborne illness concerns are up, a public health expert explains why \r\nFoodborne illness concerns are up, a public health expert explains why04:21\r\nBags of broccoli florets sold at Walmart stores i… [+2096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Merca20.com"
-      },
-      "author": "Bibiana Palacios",
-      "title": "Walmart broccoli florets recall: why were they removed from stores? This we know",
-      "description": "A potential risk of listeria contamination was detected, prompting a warning on bags of Marketside broccoli that were distributed at Walmart",
-      "url": "https://www.merca20.com/walmart-broccoli-florets-recall-why-were-they-removed-from-stores-this-we-know/",
-      "urlToImage": "https://files.merca20.com/uploads/2025/01/Walmart-broccoli-florets-recall-why-were-they-removed-from-stores-This-we-know-.jpg",
-      "publishedAt": "2025-01-02T20:19:12Z",
-      "content": "A recall of packaged and ready-to-eat broccoli has been initiated in several U.S. states. According to Braga Fresh, a potential listeria contamination risk was detected, prompting a warning about 12-… [+3758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Allrecipes.com"
-      },
-      "author": "Robin Shreeves",
-      "title": "FDA Announces Health Advisory on Walmart Broccoli Sold in 20 States Due To Possible Listeria",
-      "description": "According to the FDA, Braga Fresh issued a precautionary advisory for washed and ready-to-eat Marketside Broccoli Florets, sold at Walmart, over listeria concerns. Here's what you need to know.",
-      "url": "https://www.allrecipes.com/walmart-broccoli-recall-jan-2025-8768176",
-      "urlToImage": "https://www.allrecipes.com/thmb/jyFRyqvbQchtjEoPwX2ABC4Xs3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-broccoli-recall-adobe-ar-2x1-a621e744edf24cd09133ae41b7d8dc8a.jpg",
-      "publishedAt": "2025-01-02T19:28:09Z",
-      "content": "According to the U.S. Food and Drug Administration (FDA), Californias Braga Fresh has issued a voluntary health advisory regarding a single production lot of washed and ready-to-eat broccoli sold at … [+1430 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox News",
-      "title": "Is a cracked egg ever safe to eat? What to know before you toss them",
-      "description": "With the high price of eggs right now, it can be disheartening to open the carton at home and see that one or two of the eggs have cracked.",
-      "url": "https://nypost.com/2025/01/02/health/is-a-cracked-egg-ever-safe-to-eat-what-you-must-know/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/96114047.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-01-02T17:51:02Z",
-      "content": "With the high price of eggs right now, it can be disheartening to open the carton at home and see that one or two of the eggs have cracked either in transit on the way back from the grocery store or … [+2817 chars]"
     }
   ],
   "totalResults": 95
