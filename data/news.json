@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-01-07T18:29:45.805Z",
+  "lastUpdated": "2025-01-08T01:43:15.137Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Microplastics widespread in seafood people eat",
+      "description": "The tiny particles that shed from clothing, packaging and other plastic products are winding up in the fish that people eat, highlighting a need for technologies and strategies to reduce microfiber pollution entering the environment.",
+      "url": "https://www.sciencedaily.com/releases/2025/01/250106195804.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-01-07T00:58:04Z",
+      "content": "The tiny particles that shed from clothing, packaging and other plastic products are winding up in the fish that people eat, according to a new study from Portland State researchers, highlighting a n… [+5409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KESQ"
+      },
+      "author": "Cnn Newsource",
+      "title": "America’s first bird flu death reported in Louisiana",
+      "description": "By Brenda Goodman, CNN (CNN) — The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health. This is the first human death from bird flu in the US. The person, who was over 65 and repor…",
+      "url": "https://kesq.com/health/cnn-health/2025/01/06/americas-first-bird-flu-death-reported-in-louisiana/",
+      "urlToImage": "https://kesq.b-cdn.net/2024/12/MGN_1280x720_41009P00-WIAWD-1.jpg",
+      "publishedAt": "2025-01-06T22:05:25Z",
+      "content": "By Brenda Goodman, CNN\r\n(CNN) — The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health. This is the first human death f… [+4015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WTAE Pittsburgh"
+      },
+      "author": "Brenda Goodman",
+      "title": "First US H5N1 Bird Flu Death Confirmed",
+      "description": "The first human death from H5N1 bird flu in the U.S. has been reported in Louisiana.",
+      "url": "https://www.wtae.com/article/first-us-h5n1-bird-flu-death/63352598",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbtvsawo5ywywmdaxm2i2bxqxzg5kaziw-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntnwxpnwgxdzawy3cynm5xmw13nzj4bnk-jpg-677c4c134ef21.jpg?crop=1.00xw:0.846xh;0,0.101xh&resize=1200:*",
+      "publishedAt": "2025-01-06T21:53:26Z",
+      "content": "The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health. This is the first human death from bird flu in the U.S.\r\nThe pe… [+5280 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Natalie Venegas",
+      "title": "FDA Sets New Levels for Toxic Lead in Baby Food",
+      "description": "The FDA's new standards for toxic lead target processed baby foods such as jarred fruits, vegetables, yogurts and dry cereals.",
+      "url": "https://www.newsweek.com/fda-sets-new-levels-toxic-lead-baby-food-2010613",
+      "urlToImage": "https://d.newsweek.com/en/full/2557837/food-drug-administration.jpg",
+      "publishedAt": "2025-01-06T21:49:42Z",
+      "content": "The U.S. Food and Drug Administration (FDA) on Monday introduced new voluntary guidelines to reduce toxic lead levels in popular baby foods, aiming to address concerns over the long-term effects of l… [+4350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Bird Flu Patient in Louisiana Becomes First Human Death in Current H5N1 Outbreak",
+      "description": "The patient acquired bird flu from backyard chickens.",
+      "url": "https://gizmodo.com/bird-flu-patient-in-louisiana-becomes-first-human-death-in-current-h5n1-outbreak-2000546656",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/bird-flu-milk.jpg",
+      "publishedAt": "2025-01-06T21:18:23Z",
+      "content": "A patient with the first “severe case” of bird flu in the U.S. has died, according to a press release Monday from the Louisiana Department of Health. It’s the first human death from H5N1 in the count… [+3563 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brenda Goodman",
+      "title": "America's first bird flu death reported in Louisiana",
+      "description": "The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health.",
+      "url": "https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24361859677442.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-06T21:16:17Z",
+      "content": "The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health. This is the first human death from bird flu in the US.\r\nThe per… [+2346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "Ariel David",
+      "title": "Prehistoric carb cravings: Archaeologists find 780,000-year-old proof of plant processing",
+      "description": "Tools used by hominins in northern Israel show earliest known evidence of plant processing for consumption, chipping away at theory that our ancestors relied mainly on meat",
+      "url": "https://www.haaretz.com/archaeology/2025-01-06/ty-article/prehistoric-carb-cravings-archaeologists-find-780-000-year-old-proof-of-plant-processing/00000194-3b44-d96e-a1d6-3bec9de20000",
+      "urlToImage": "https://img.haarets.co.il/bs/00000194-3b44-d96e-a1d6-3bec9d300000/ec/29/848593a54f07820ae3e1bca15bf1/59966095.JPG?precrop=5568,3237,x0,y475&height=630&width=1200",
+      "publishedAt": "2025-01-06T21:15:49Z",
+      "content": "Microscopic starch granules embedded in prehistoric tools at least 780,000 years ago carry evidence of the earliest known processing of plants, showing that our hominin ancestors were not as meat-cen… [+7764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KATC Lafayette News"
+      },
+      "author": null,
+      "title": "State health officials report first avian flu death",
+      "description": "The person who died was older than 65 and contracted H5N1 after exposure to a combination of a non-commercial backyard flock and wild birds.",
+      "url": "https://www.katc.com/news/covering-louisiana/state-health-officials-report-first-avian-flu-death",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/9c11bb3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F96%2Fec%2Ffc7cf4fb452cbdc3f51cf4520072%2Fnew.jpg",
+      "publishedAt": "2025-01-06T20:32:54Z",
+      "content": "The Louisiana Department of Health reports the patient who had been hospitalized with the first human case of highly pathogenic avian influenza (HPAI), or H5N1, in Louisiana and the U.S. has died. \r\n… [+2627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Lauren Leffer",
+      "title": "Ancient lead pollution may have lowered IQs across the Roman Empire",
+      "description": "'To my knowledge, it’s the first large-scale pollution event from industrial activities.'\nThe post Ancient lead pollution may have lowered IQs across the Roman Empire appeared first on Popular Science.",
+      "url": "https://www.popsci.com/science/roman-empire-lead-pollution/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/01/rome.jpg?w=2000",
+      "publishedAt": "2025-01-06T20:10:36Z",
+      "content": "The Industrial Revolution was undeniably a major turning point in history. Beginning in the late 1700s, human environmental impacts reached previously impossible new heights. Yet pollution wasnt inve… [+8320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eater"
+      },
+      "author": "Janna Karel",
+      "title": "The Health Department Closes a Wolfgang Puck Restaurant at MGM Grand",
+      "description": "Plus, a candy store closes and a popular bakery debuts in the southwest",
+      "url": "https://vegas.eater.com/2025/1/6/24337492/wolfgang-puck-restaurant-closed-health-department-mgm-grand-las-vegas-strip",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Cpw3XCOpCQhnMT4fWXFr4dgEqiY=/0x40:2000x1087/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/4267143/Wolfgang_Puck_Bar___Grill_DTS_1.0.jpg",
+      "publishedAt": "2025-01-06T19:28:12Z",
+      "content": "Wolfgang Puck Bar & Grill. | Jenna Dosch\r\n\n \n\n Plus, a candy store closes and a popular bakery debuts in the southwest Chef Wolfgang Puck’s restaurant at the MGM Grand, Wolfgang Puck Bar & Grill, was… [+2486 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -258,7 +388,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2025-01-03T04:45:52Z",
+      "publishedAt": "2025-01-03T20:35:14Z",
       "content": "[Removed]"
     },
     {
@@ -969,6 +1099,19 @@
         "name": "FDA.gov"
       },
       "author": "FDA",
+      "title": "Dierbregs Markets Issues Allergy Alert on Undeclared Wheat in Product",
+      "description": "Dierbergs is recalling all 16oz Premium Home-Style Mashed Potatoes with a Sell By Date of January 09, 2025. The product carries an undeclared allergen of Wheat. The affected product is identifiable by a label ID number of 92 in the lower left-hand corner abov…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dierbregs-markets-issues-allergy-alert-undeclared-wheat-product",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-03T22:12:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 03, 2025\r\nFDA Publish Date:\r\nJanuary 07, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nCompa… [+1845 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
       "title": "Abbey Specialty Foods Recalls Wicklow Gold Cheddar Nettle & Chive 5.2 oz and Wicklow Gold Cheddar Tomato & Herb 5.2 oz Because of Possible Health Risk",
       "description": "Abbey Specialty Foods of Fairfield, NJ is recalling Wicklow Gold Cheddar Nettle & Chive 5.2 oz product and Wicklow Gold Cheddar Tomato & Herb 5.2 oz product because they have the potential to be contaminated with Listeria monocytogenes, an organism which can …",
       "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abbey-specialty-foods-recalls-wicklow-gold-cheddar-nettle-chive-52-oz-and-wicklow-gold-cheddar",
@@ -983,7 +1126,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Richmond University Medical Center data breach impacted 674,033 individuals",
-      "description": "Richmond University Medical Center has confirmed that a ransomware attack in May 2023 affected 670,000 individuals. New York’s Richmond University Medical Center confirmed a May 2023 ransomware attack impacted 674,033 individuals. Richmond University Medical …",
+      "description": "Richmond University Medical Center has confirmed that a ransomware attack in May 2023 affected 670,000 individuals. New York’s Richmond University Medical Center confirmed a May 2023 ransomware attack impacted 674,033 individuals. Richmond University Medical ���",
       "url": "https://securityaffairs.com/172641/data-breach/richmond-university-medical-center-data-breach.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
       "publishedAt": "2025-01-03T19:48:10Z",
@@ -1105,138 +1248,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-01-03T12:37:00Z",
       "content": "Dublin, Jan. 03, 2025 (GLOBE NEWSWIRE) -- The \"Aerosols Market Share Analysis, Industry Trends &amp; Statistics, and Growth Forecasts; 2024 to 2029\" report has been added to ResearchAndMarkets.com's … [+11185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "From Chemicals To Rodent Excreta, Hyderabad Restaurant Inspections Find Safety Violations",
-      "description": "Multiple unsafe food items were seized during the recent dairy and restaurant inspections by the task force in the Rangareddy district and Kompally area, Hyderabad.",
-      "url": "https://food.ndtv.com/news/from-harmful-chemicals-to-rodent-excreta-hyderabad-restaurant-inspections-uncover-shocking-food-safety-violations-7392139",
-      "urlToImage": "https://c.ndtvimg.com/2025-01/7iob2sjo_tomato-restaurant-raid_625x300_03_January_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
-      "publishedAt": "2025-01-03T12:30:26Z",
-      "content": "The food safety team in Telangana conducted inspections in the Rangareddy district and Kompally area on December 30, 2024, and uncovered multiple food safety violations. State-level task force team c… [+3478 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Study finds DNA contamination in Pfizer Covid-19 vaccines",
-      "description": "A new study claims Pfizer Covid-19 vaccines contain DNA contamination levels exceeding regulatory safety limits by up to 470 times Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/610383-pfizer-covid-vaccine-contamination-dna/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2025.01/article/6777b77020302759685728e8.jpg",
-      "publishedAt": "2025-01-03T12:15:51Z",
-      "content": "Pfizer’s mRNA Covid-19 vaccines contain residual DNA levels exceeding regulatory safety limits, according to a peer-reviewed study published this week in the Journal of High School Science.\r\nThe rese… [+2394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Apple will pay $95 Million to settle lawsuit over Siri’s alleged eavesdropping",
-      "description": "Apple has agreed to a $95 million settlement over a Siri eavesdropping lawsuit, denying any abuses. The settlement awaits judicial approval. Apple will pay $95 million to settle claims that its virtual assistant Siri was used to eavesdrop on users, though the…",
-      "url": "https://securityaffairs.com/172632/security/apple-will-pay-95-million-to-settle-lawsuit-over-siris-alleged-eavesdropping.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
-      "publishedAt": "2025-01-03T11:57:43Z",
-      "content": "Apple will pay $95 Million to settle lawsuit over Siri's alleged eavesdropping\r\n | LDAPNightmare, a PoC exploit targets Windows LDAP flaw CVE-2024-49113\r\n | Around 3.3 million POP3 and IMAP mail serv… [+128184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "LDAPNightmare, a PoC exploit targets Windows LDAP flaw CVE-2024-49113",
-      "description": "Experts warn of a new PoC exploit, LDAPNightmare, that targets a Windows LDAP flaw (CVE-2024-49113), causing crashes & reboots. The vulnerability CVE-2024-49113 (CVSS score of 7.5), named LDAPNightmare, is a Windows Lightweight Directory Access Protocol (LDAP…",
-      "url": "https://securityaffairs.com/172618/security/ldapnightmare-exploit-cve-2024-49113.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-4.png",
-      "publishedAt": "2025-01-03T09:42:28Z",
-      "content": "LDAPNightmare, a PoC exploit targets Windows LDAP flaw CVE-2024-49113\r\n | Around 3.3 million POP3 and IMAP mail servers lack TLS encryption\r\n | A US soldier was arrested for leaking presidential call… [+128101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Around 3.3 million POP3 and IMAP mail servers lack TLS encryption",
-      "description": "Over 3 million POP3 and IMAP mail servers lack TLS encryption, exposing them to network sniffing attacks. ShadowServer researchers reported that around 3.3 million POP3 and IMAP mail servers lack TLS encryption, exposing them to network sniffing attacks. POP3…",
-      "url": "https://securityaffairs.com/172600/security/3m-pop3-imap-mail-servers-lack-tls-encryption.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-2.png",
-      "publishedAt": "2025-01-03T08:39:10Z",
-      "content": "Around 3.3 million POP3 and IMAP mail servers lack TLS encryption\r\n | A US soldier was arrested for leaking presidential call logs\r\n | DoubleClickjacking allows clickjacking on major websites\r\n | Rus… [+128027 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "lindsay.handmer@futurenet.com (Lindsay Handmer)",
-      "title": "Dreame X40 Ultra review",
-      "description": "The Dreame X40 Ultra is very smart and more than capable of handling complex vacuum and mopping tasks, but is it worth the premium price?",
-      "url": "https://www.techradar.com/home/robot-vacuums/dreame-x40-ultra-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cmAvH69byUSqefFB4Uv7Cc-1200-80.jpg",
-      "publishedAt": "2025-01-03T06:00:24Z",
-      "content": "Dreame X40 Ultra: two-minute review\r\nDreame Technologies hasn’t been around long but, since its inception in 2017, the brand has made some excellent robot vacuums, including the Dreame L20 Ultra. The… [+30112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Carl Custer",
-      "title": "Incentives to control Salmonella in poultry are a step in the right direction",
-      "description": "Kudos to FSIS and ARS for their work and proposing that poultry products “. . . contaminated with certain Salmonella levels and serotypes are adulterated. . . .” Implementing this rule should benefit public health. Producers and processors will likely protest…",
-      "url": "https://www.foodsafetynews.com/2025/01/incentives-to-control-salmonella-in-poultry-are-a-step-in-the-right-direction/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/318/608/5nDZ3xmVezbkemAG6y2qpdWj9/2b0e710c14d20e50854444dfac8994327eeb4b57.png",
-      "publishedAt": "2025-01-03T05:03:00Z",
-      "content": "Kudos to FSIS and ARS for their work and proposing that poultry products “. . . contaminated with certain Salmonella levels and serotypes are adulterated. . . .” Implementing this rule should benefit… [+5775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Scientists show how UK E. coli outbreak was traced to lettuce",
-      "description": "Scientists have detailed the process of linking a major E. coli outbreak in the United Kingdom to lettuce. In May 2024, public health agencies and laboratories identified an increase in stool specimens submissions and patients testing positive for Shiga toxin…",
-      "url": "https://www.foodsafetynews.com/2025/01/scientists-show-how-uk-e-coli-outbreak-was-traced-to-lettuce/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/318/575/g4ZpR2ONeYJZEwenYEqvo9WBA/bbf954dc5438215a3a49b1f442a0775a3937ec0c.png",
-      "publishedAt": "2025-01-03T05:02:00Z",
-      "content": "Scientists have detailed the process of linking a major E. coli outbreak in the United Kingdom to lettuce.\r\nIn May 2024, public health agencies and laboratories identified an increase in stool specim… [+2783 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Five emerging risks identified by EU scientists",
-      "description": "Five topics were considered to be emerging risks by European experts in 2023 while a wide range of other subjects were considered, according to a recently released report. The annual report on the European Food Safety Authority’s (EFSA) activities on emerging…",
-      "url": "https://www.foodsafetynews.com/2025/01/five-emerging-risks-identified-by-eu-scientists/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/318/565/nBjKDywPW6ZkN901Q4vgVoMrN/40ea20dd56538c96307becb2b0836ede5a3e89d2.png",
-      "publishedAt": "2025-01-03T05:01:00Z",
-      "content": "Five topics were considered to be emerging risks by European experts in 2023 while a wide range of other subjects were considered, according to a recently released report.\r\nThe annual report on the E… [+4522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marlerblog.com"
-      },
-      "author": "Bill Marler",
-      "title": "More Norovirus linked to Oysters",
-      "description": "Audience Product The implicated products include shellstock oysters harvested from 12/02/2024 to 12/17/2024 by Ruco’s Shellfish (WA-1995-SS) from a portion of Hammersley Inlet growing area in Washington State. The oysters were distributed in WA and OR and may…",
-      "url": "https://www.marlerblog.com/case-news/more-norovirus-linked-to-oysters/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/317/906/kW7yv9eBdzpmLKgy6NLRwa5Px/1ece71a8cf7cffd6bda466bc3e10b51af78c75c9.png",
-      "publishedAt": "2025-01-03T04:52:41Z",
-      "content": "Audience\r\n<ul><li>Restaurants and food retailers in Oregon (OR) and Washington (WA) that have recently purchased shellstock oysters harvested from 12/02/2024 to 12/17/2024 by Rucos Shellfish (WA-1995… [+6184 chars]"
     }
   ],
-  "totalResults": 95,
-  "filteredCount": 5
+  "totalResults": 96,
+  "filteredCount": 4
 }
