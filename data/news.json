@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-08T01:43:15.137Z",
+  "lastUpdated": "2025-01-08T06:30:18.723Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Eagerbee backdoor targets govt entities and ISPs in the Middle East",
+      "description": "Experts spotted new variants of the Eagerbee backdoor being used in attacks on government organizations and ISPs in the Middle East. Kaspersky researchers reported that new variants of the Eagerbee backdoor being used in attacks against Internet Service Provi…",
+      "url": "https://securityaffairs.com/172748/malware/eagerbee-backdoor-targets-middle-east.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-9.png",
+      "publishedAt": "2025-01-07T06:23:00Z",
+      "content": "Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecoms than previously known\r\n | PLAYFULGHOST backdoor supports multiple infor… [+128905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Alarming DNA contamination in Pfizerâs mRNA vaccines: latest study reveals CANCER RISKS and regulatory failures",
+      "description": "Peer-reviewed research uncovers DNA contamination in Pfizer’s mRNA Covid-19 vaccines exceeding WHO safety limits by 6 to 470 times. Contaminated DNA fragments may integrate into human DNA, raising concerns about gene mutations and cancer. The study was conduc…",
+      "url": "https://www.naturalnews.com/2025-01-07-dna-contamination-pfizers-mrna-vaccines-reveals-cancer-risks.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Covid-19-Coronavirus-Pfizer-Vaccine-Vials.jpg",
+      "publishedAt": "2025-01-07T06:00:00Z",
+      "content": "<ul><li>Peer-reviewed research uncovers DNA contamination in Pfizers mRNA Covid-19 vaccines exceeding WHO safety limits by 6 to 470 times.</li><li>Contaminated DNA fragments may integrate into human … [+4473 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -292,6 +318,19 @@
         "id": null,
         "name": "Plos.org"
       },
+      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
+      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
+      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
+      "publishedAt": "2025-01-06T14:00:00Z",
+      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
       "author": "Hammed O. Mogaji, Francisca O. Olamiju, Fajana Oyinlola, Ijeoma Achu, Oladunni N. Adekunle, Lydia E. Udofia, Ekaette G. Edelduok, Clement A. Yaro, Olanike O. Oladipupo, Alice Y. Kehinde, Fatai Oyediran, Moses Aderogba, Louise K. Makau-Barasa, Uwem F. Ekpo",
       "title": "Prevalence, intensity and risk factors of soil-transmitted helminthiasis after five effective rounds of preventive chemotherapy across three implementation units in Ondo State, Nigeria",
       "description": "Author summary The World Health Organization (WHO) recommends reducing soil-transmitted helminthiasis (STH) prevalence to below 20% and moderate-to-heavy infections to less than 2% in treated areas to achieve elimination targets. Endemic countries, including …",
@@ -318,13 +357,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
-      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
-      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
+      "author": "Georg E. Matt, Lydia Greiner, Kristina Tran, Joseph Gibbons, Michael Vingiello, Paula Stigler Granados, Ronald Shadbegian, Thomas E. Novotny",
+      "title": "Estimating the accumulation and re-accumulation of commercial tobacco, electronic cigarette, and cannabis waste based on a stratified random sample of census blocks",
+      "description": "We investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environmental harm caused by these products. Using disproportionate stratified …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313241",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313241.g003&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
+      "content": "Abstract\r\nWe investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environme… [+63937 chars]"
     },
     {
       "source": {
@@ -338,19 +377,6 @@
       "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002967.g006&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
       "content": "Abstract\r\nThe peritrophic matrix (PM) acts as a physical barrier that influences the vector competence of mosquitoes. We have previously shown that gut microbiota promotes PM formation in Anopheles s… [+67870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Georg E. Matt, Lydia Greiner, Kristina Tran, Joseph Gibbons, Michael Vingiello, Paula Stigler Granados, Ronald Shadbegian, Thomas E. Novotny",
-      "title": "Estimating the accumulation and re-accumulation of commercial tobacco, electronic cigarette, and cannabis waste based on a stratified random sample of census blocks",
-      "description": "We investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environmental harm caused by these products. Using disproportionate stratified …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313241",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313241.g003&size=inline",
-      "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Abstract\r\nWe investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environme… [+63937 chars]"
     },
     {
       "source": {
@@ -906,7 +932,7 @@
       "author": "Jordan Joseph",
       "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
       "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
+      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
@@ -919,7 +945,7 @@
       "author": "Jordan Joseph",
       "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
       "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
+      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
@@ -1126,7 +1152,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Richmond University Medical Center data breach impacted 674,033 individuals",
-      "description": "Richmond University Medical Center has confirmed that a ransomware attack in May 2023 affected 670,000 individuals. New York’s Richmond University Medical Center confirmed a May 2023 ransomware attack impacted 674,033 individuals. Richmond University Medical ���",
+      "description": "Richmond University Medical Center has confirmed that a ransomware attack in May 2023 affected 670,000 individuals. New York’s Richmond University Medical Center confirmed a May 2023 ransomware attack impacted 674,033 individuals. Richmond University Medical …",
       "url": "https://securityaffairs.com/172641/data-breach/richmond-university-medical-center-data-breach.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
       "publishedAt": "2025-01-03T19:48:10Z",
@@ -1222,32 +1248,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316752.g006&size=inline",
       "publishedAt": "2025-01-03T14:00:00Z",
       "content": "Citation: Thiry V, Boom AF, Stark DJ, Hardy OJ, Beudels-Jamar RC, Vercauteren Drubbel R, et al. (2025) Using DNA metabarcoding and direct behavioural observations to identify the diet of proboscis mo… [+52317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "N2OFF Inc.",
-      "title": "N2OFF and Solterra Brand Services Italy executed a binding LOI to Develop Two 98MWp Battery Storage Projects in Sicily",
-      "description": "N2OFF will hold approximately 70% ownership in the projects, further enhancing its presence in the European energy storage market  Neve Yarak, Israel,...",
-      "url": "https://www.globenewswire.com/news-release/2025/01/03/3003978/0/en/N2OFF-and-Solterra-Brand-Services-Italy-executed-a-binding-LOI-to-Develop-Two-98MWp-Battery-Storage-Projects-in-Sicily.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4bf1fbe7-f5a9-42ab-93e1-6a92a90eb0b4",
-      "publishedAt": "2025-01-03T12:55:00Z",
-      "content": "N2OFF will hold approximately 70% ownership in the projects, further enhancing its presence in the European energy storage market\r\nNeve Yarak, Israel, Jan. 03, 2025 (GLOBE NEWSWIRE) -- N2OFF, Inc.\\ (… [+6175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Aerosols - Global Market Share Analysis, Industry Trends & Statistics, and Growth Forecasts; 2024 to 2029",
-      "description": "Aerosols Revolutionize Personal Care with Hygienic and Sustainable Packaging Solutions. Electric Vehicles in China to Constitute 20% of New Vehicle Production in 2025, Boosting Aerosol Applications. Aerosols Revolutionize Personal Care with Hygienic and Susta…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/03/3003971/28124/en/Aerosols-Global-Market-Share-Analysis-Industry-Trends-Statistics-and-Growth-Forecasts-2024-to-2029.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-03T12:37:00Z",
-      "content": "Dublin, Jan. 03, 2025 (GLOBE NEWSWIRE) -- The \"Aerosols Market Share Analysis, Industry Trends &amp; Statistics, and Growth Forecasts; 2024 to 2029\" report has been added to ResearchAndMarkets.com's … [+11185 chars]"
     }
   ],
   "totalResults": 96,
