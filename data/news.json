@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-08T06:30:18.723Z",
+  "lastUpdated": "2025-01-08T12:42:32.000Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Moxa router flaws pose serious risks to industrial environmets",
+      "description": "Moxa warns of two flaws in its routers and security appliances that enable privilege escalation and remote command execution. Moxa addressed privilege escalation and OS command injection vulnerabilities in cellular routers, secure routers, and network securit…",
+      "url": "https://securityaffairs.com/172770/ics-scada/moxa-router-flaws-risks-to-industrial-environmets.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-10.png",
+      "publishedAt": "2025-01-07T12:27:07Z",
+      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox News",
+      "title": "Ozempic ‘microdosing’ is gaining popularity — but is it effective?",
+      "description": "A new trend gaining popularity among people trying to lose weight is microdosing the diabetes medication Ozempic.",
+      "url": "https://nypost.com/2025/01/07/health/ozempic-microdosing-is-gaining-popularity-but-is-it-effective/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/woman-holds-pen-injection-diabetics-96348599.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-01-07T12:05:28Z",
+      "content": "A new trend gaining popularity among people trying to lose weight is microdosing the diabetes medication Ozempic.\r\nWith approximately 70% of American adults meeting the criteria for being obese or ov… [+5937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Roanoke Times"
+      },
+      "author": "LAURENCE HAMMACK The Roanoke Times",
+      "title": "Contractor resumes search for hazardous chemical tanks missing from Radford arsenal",
+      "description": "Tangent Outfitters of Pembroke recently recovered the 6th and 7th of 13 containers swept away by floodwaters.",
+      "url": "https://roanoke.com/news/local/contractor-resumes-search-for-hazardous-chemical-tanks-missing-from-radford-arsenal/article_d67b64b0-cc7b-11ef-b664-8babff12d5f4.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/a/ad/aad30d7c-cc80-11ef-bd35-afdbd2bc6c81/677c5ea1d5b9e.image.png?crop=463%2C463%2C29%2C0&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2025-01-07T10:00:00Z",
+      "content": "About half of the flood-swept containers of a hazardous chemical from a munitions plant have now been recovered from the New River, as a contractor hired by the U.S. Army continues its search.\r\nTange… [+5095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Aayushi Singh Chauhan",
+      "title": "Is Powdered Milk Safe And Healthy For Children?",
+      "description": "Health Benefits Of Powdered Milk For Children: Understanding its nutritional value, potential benefits, and drawbacks is essential for making informed choices.",
+      "url": "https://doctor.ndtv.com/children/are-there-any-health-benefits-of-powdered-milk-for-children-7418908",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/kme2u6go_breastmilk-vs-formula-milk_625x300_04_August_22.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+      "publishedAt": "2025-01-07T09:18:39Z",
+      "content": "Powdered milk, also known as dried milk, is a popular option for parents seeking convenient and long-lasting alternatives to fresh milk. Made by evaporating water from pasteurised milk, powdered milk… [+6047 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Maria Azzurra Volpe",
+      "title": "Golden Retriever's 'Pretend Smile' To Avoid Her Medication Delights Viewers",
+      "description": "\"The way she's refusing to swallow it,\" one delighted TikTok user said, while another added: \"Mm... so good.. can you turn around for a sec?\"",
+      "url": "https://www.newsweek.com/golden-retriever-pretend-smile-avoid-medication-delights-viewers-2010281",
+      "urlToImage": "https://d.newsweek.com/en/full/2558002/dog-smiling-looking-sideways.jpg",
+      "publishedAt": "2025-01-07T08:59:16Z",
+      "content": "A golden retriever named Nala was caught on camera trying to trick her owner into believing that she has willing taken her medicine, and internet users can't cope with it.\r\nIn a viral TikTok video sh… [+3145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "US adds Tencent to the list of companies supporting Chinese military",
+      "description": "US adds Chinese multinational technology and entertainment conglomerate Tencent to the list of companies supporting the Chinese military. The US Department of Defense has added Chinese multinational technology and entertainment conglomerate Tencent to its “Ch…",
+      "url": "https://securityaffairs.com/172765/security/us-adds-tencent-list-of-companies-supporting-chinese-military.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage-2.jpg",
+      "publishedAt": "2025-01-07T08:30:06Z",
+      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -489,7 +567,7 @@
       },
       "author": "Bill Marler",
       "title": "FDA has traced back, inspected and is sampling product linked to Listeria Outbreak",
-      "description": "Perhaps, more information will be forthcoming this week. FDA Traceback Initiated: Used to identify the source and distribution of the implicated food and remove the contaminated product from the marketplace, to distinguish between two or more implicated food …",
+      "description": "Perhaps, more information will be forthcoming this week. FDA Traceback Initiated: Used to identify the source and distribution of the implicated food and remove the contaminated product from the marketplace, to distinguish between two or more implicated food ��",
       "url": "https://www.marlerblog.com/case-news/fda-has-traced-back-inspected-and-is-sampling-product-linked-to-listeria-outbreak/",
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/531/306/kW7yv9eBdzpm1VVy6NLRwa5Px/791bd07f036be28278067c6415f391e6f9278fc6.png",
       "publishedAt": "2025-01-06T07:23:36Z",
@@ -1170,84 +1248,6 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-01-03T17:22:14Z",
       "content": "December 4, 2024\r\nNCTR Uncovers Drug Interaction with UGT Enzymes as an Indicator of Drug-Induced Liver Injury\r\nResearchers at FDAs National Center for Toxicological Research (NCTR), collaborating wi… [+22920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Ryan Erik King",
-      "title": "Cruise Ship Stomach Bug Illnesses Hit 12-Year High: CDC",
-      "description": "Cruises are gross. With so many people in a confined space, vacation-goers play a game of illness roulette anytime they step on a cruise ship. The Centers for Disease Control and Prevention recorded 16 gastrointestinal illness outbreaks aboard vessels in 2024…",
-      "url": "https://jalopnik.com/cruise-ship-stomach-bug-illnesses-hit-12-year-high-cdc-1851732102",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b84bfc2b5064d63574dddb3f8b57fa36.jpg",
-      "publishedAt": "2025-01-03T17:05:00Z",
-      "content": "Cruises are gross. With so many people in a confined space, vacation-goers play a game of illness roulette anytime they step on a cruise ship. The Centers for Disease Control and Prevention recorded … [+1757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Bruce Gil",
-      "title": "Broccoli sold in Walmarts across the U.S. is recalled over listeria concerns",
-      "description": "After a year packed with food recalls, 2025 is kicking off with yet another one — a broccoli recall over listeria concerns.Read more...",
-      "url": "https://qz.com/broccoli-recall-walmart-listeria-1851731944",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ee42e4d7ff10babe00203b89f2048935.jpg",
-      "publishedAt": "2025-01-03T15:50:00Z",
-      "content": "In This Story\r\nAfter a year packed with food recalls, 2025 is kicking off with yet another one a broccoli recall over listeria concerns.\r\nBraga Fresh, a California-based farm, recalled last week many… [+1958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Maryanne Demasi",
-      "title": "FDA Lab Uncovers Excess DNA Contamination in COVID-19 Vaccines",
-      "description": "An explosive new study conducted within the U.S. Food and Drug Administration’s (FDA) own laboratory has revealed excessively high levels of DNA contamination in Pfizer’s mRNA COVID-19 vaccine.\nTests conducted at the FDA’s White Oak Campus in Maryland found t…",
-      "url": "https://www.globalresearch.ca/exclusive-fda-lab-uncovers-excess-dna-contamination-covid-19-vaccines/5876340",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/01/fda-covid-vaccine-contamination.jpeg",
-      "publishedAt": "2025-01-03T15:32:03Z",
-      "content": "An explosive new study conducted within the U.S. Food and Drug Administrations (FDA) own laboratory has revealed excessively high levels of DNA contamination in Pfizers mRNA COVID-19 vaccine.\r\nTests … [+9260 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Aliss Higham",
-      "title": "Cucumber Recall Update As FDA Awards Highest Risk Level",
-      "description": "The impacted products have now been given a Class I risk classification by the U.S. Food and Drug Administration.",
-      "url": "https://www.newsweek.com/cucumber-recall-update-fda-awards-highest-risk-level-2009183",
-      "urlToImage": "https://d.newsweek.com/en/full/2555792/cucumber.jpg",
-      "publishedAt": "2025-01-03T14:41:01Z",
-      "content": "Recalled whole cucumbers produced by Delta Fresh of Arizona have been given a risk classification warning by the U.S. Food and Drug Administration (FDA).\r\nWhy It's Important\r\nWhile salmonella poisoni… [+2831 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Md. Shohel Khan, Shitangsu Kumar Paul",
-      "title": "Freshwater dependent livelihood assessment of coastal households in the southwest of Bangladesh",
-      "description": "A crisis in freshwater supplies is now one of the major problems threatening the livelihoods of people living in the coastal regions of Bangladesh. This scarcity of freshwater is inextricably linked to people’s occupations and various forms of capital. This p…",
-      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000174",
-      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000174.g001&size=inline",
-      "publishedAt": "2025-01-03T14:00:00Z",
-      "content": "Abstract\r\nA crisis in freshwater supplies is now one of the major problems threatening the livelihoods of people living in the coastal regions of Bangladesh. This scarcity of freshwater is inextricab… [+61770 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Valentine Thiry, Arthur F. Boom, Danica J. Stark, Olivier J. Hardy, Roseline C. Beudels-Jamar, Regine Vercauteren Drubbel, Sylvia Alsisto, Martine Vercauteren, Benoit Goossens",
-      "title": "Using DNA metabarcoding and direct behavioural observations to identify the diet of proboscis monkeys (Nasalis larvatus) in the Kinabatangan Floodplain, Sabah",
-      "description": "Characterizing the feeding ecology of threatened species is essential to establish appropriate conservation strategies. We focused our study on the proboscis monkey (Nasalis larvatus), an endangered primate species which is endemic to the island of Borneo. Ou…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316752",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316752.g006&size=inline",
-      "publishedAt": "2025-01-03T14:00:00Z",
-      "content": "Citation: Thiry V, Boom AF, Stark DJ, Hardy OJ, Beudels-Jamar RC, Vercauteren Drubbel R, et al. (2025) Using DNA metabarcoding and direct behavioural observations to identify the diet of proboscis mo… [+52317 chars]"
     }
   ],
   "totalResults": 96,
