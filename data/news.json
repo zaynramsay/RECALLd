@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-01-08T12:42:32.000Z",
+  "lastUpdated": "2025-01-08T18:29:56.476Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Tom Howarth",
+      "title": "Radioactive Mussels Pose Threat to Food Chain in Northwest",
+      "description": "Mussels contaminated with radium could be putting animals higher up the food chain at risk, experts say.",
+      "url": "https://www.newsweek.com/radioactive-mussels-food-chain-bioaccumulation-pennsylvania-2011149",
+      "urlToImage": "https://d.newsweek.com/en/full/2558628/eastern-elliptio.jpg",
+      "publishedAt": "2025-01-07T17:48:27Z",
+      "content": "Radioactive contamination in freshwater mussels is potentially affecting the food chain in Pennsylvania, including iconic animals such as bald eagles and possibly even humans.\r\nA study published last… [+4494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-04T19:49:38Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Threat actors breached the Argentina’s airport security police (PSA) payroll",
+      "description": "Threat actors breached Argentina’s airport security police (PSA) payroll, stealing data and deducting 2,000-5,000 pesos from salaries. Threat actors have breached Argentina’s airport security police (PSA) and compromised the personal and financial data of its…",
+      "url": "https://securityaffairs.com/172776/uncategorized/argentinas-airport-security-police-psa-payroll-hacked.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/04/APT6-hackers.jpg",
+      "publishedAt": "2025-01-07T15:49:00Z",
+      "content": "Threat actors breached the Argentinas airport security police (PSA) payroll\r\n | US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a fa… [+129058 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Indoco Remedies Limited - 691594 - 12/16/2024",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/indoco-remedies-limited-691594-12162024",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-07T14:20:10Z",
+      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-23\r\nProduct:\r\nDrugs \r\nRecipient:\r\nMs. Aditi Kare Panandikar\r\nIndoco Remedies Limited\r\nIndoco House, 166, C.S.T RoadKalina Santacruz (E)Mumbai400098In… [+18352 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "7 Places Microplastics Are Secretly Hiding in Your Kitchen and Easy Swaps",
+      "description": "Here are easy swaps to minimize microplastics in your kitchen.",
+      "url": "https://www.cnet.com/health/7-places-microplastics-are-secretly-hiding-in-your-kitchen-and-easy-swaps/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/910a638ce3193e4ebc84691db21ad2c702cae2b7/hub/2024/12/30/6e2ad328-fd01-45c5-9279-7b347b1224b7/gettyimages-1315120793.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-07T14:00:05Z",
+      "content": "It is nearly impossible to avoid microplastics in today's world. Microplastics are everywhere: in the air we breathe, the water we drink and the food we eat. They accumulate in clothes, cosmetics, fa… [+7626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wattsupwiththat.com"
+      },
+      "author": "Guest Blogger",
+      "title": "The BBC is Wrong, Individuals’ Sacrifices Will Not Save a Planet That Doesn’t Need Saving Anyway",
+      "description": "Looking at how many of the most prominent and elite climate scolds actually live their lives as opposed to what they preach for others, one suspects that they will keep eating their meat heavy four star meals, filling their room-sized walk-in closets with exp…",
+      "url": "https://wattsupwiththat.com/2025/01/07/the-bbc-is-wrong-individuals-sacrifices-will-not-save-a-planet-that-doesnt-need-saving-anyway/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/01/123144500_m.webp?fit=1024%2C512&ssl=1",
+      "publishedAt": "2025-01-07T14:00:00Z",
+      "content": "From ClimateREALISM\r\nBy Linnea Lueken\r\nA recent post at the BBC, titled Seven proven ways to help the planet in 2025, claims that the planet is threatened by global climate change due to human activi… [+8449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Metawee Thongdee, Somjit Chaiwattanarungruengpaisan, Natthaphat Ketchim, Nareerat Sangkachai, Nlin Arya, Wanna Sirimanapong, Witthawat Wiriyarat, Pilaipan Puthavathana, Weena Paungpin",
+      "title": "Evidence of avian and human influenza A virus infection in farmed Siamese crocodiles (Crocodylus siamensis) in Thailand",
+      "description": "Crocodilians are susceptible to a range of virus infection including influenza A virus (IAV). However, little is known about the ecology and epidemiology of IAV in crocodile species. This study aimed to investigate IAV infection in farmed Siamese crocodiles i…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317035",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317035.g003&size=inline",
+      "publishedAt": "2025-01-07T14:00:00Z",
+      "content": "Abstract\r\nCrocodilians are susceptible to a range of virus infection including influenza A virus (IAV). However, little is known about the ecology and epidemiology of IAV in crocodile species. This s… [+45941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Britt E. Hartenberger, James A. Davenport, Timothy Matney",
+      "title": "Tracing fineware production in the Neo-Assyrian empire: Neutron activation analysis of common and Palace Ware in the upper Tigris River Valley, Turkey",
+      "description": "In the Iron Age, the Neo-Assyrian empire (c. 900–600 BC) conquered territory across southwest Asia and established regional capitals along its borders to secure its gains. Governors at these centers oversaw resource extraction and craft production for shipmen…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315378",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315378.g008&size=inline",
+      "publishedAt": "2025-01-07T14:00:00Z",
+      "content": "Abstract\r\nIn the Iron Age, the Neo-Assyrian empire (c. 900600 BC) conquered territory across southwest Asia and established regional capitals along its borders to secure its gains. Governors at these… [+43205 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -396,19 +500,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
-      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
-      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
-      "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Hammed O. Mogaji, Francisca O. Olamiju, Fajana Oyinlola, Ijeoma Achu, Oladunni N. Adekunle, Lydia E. Udofia, Ekaette G. Edelduok, Clement A. Yaro, Olanike O. Oladipupo, Alice Y. Kehinde, Fatai Oyediran, Moses Aderogba, Louise K. Makau-Barasa, Uwem F. Ekpo",
       "title": "Prevalence, intensity and risk factors of soil-transmitted helminthiasis after five effective rounds of preventive chemotherapy across three implementation units in Ondo State, Nigeria",
       "description": "Author summary The World Health Organization (WHO) recommends reducing soil-transmitted helminthiasis (STH) prevalence to below 20% and moderate-to-heavy infections to less than 2% in treated areas to achieve elimination targets. Endemic countries, including …",
@@ -435,13 +526,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Georg E. Matt, Lydia Greiner, Kristina Tran, Joseph Gibbons, Michael Vingiello, Paula Stigler Granados, Ronald Shadbegian, Thomas E. Novotny",
-      "title": "Estimating the accumulation and re-accumulation of commercial tobacco, electronic cigarette, and cannabis waste based on a stratified random sample of census blocks",
-      "description": "We investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environmental harm caused by these products. Using disproportionate stratified …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313241",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313241.g003&size=inline",
+      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
+      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
+      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Abstract\r\nWe investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environme… [+63937 chars]"
+      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
     },
     {
       "source": {
@@ -455,6 +546,19 @@
       "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002967.g006&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
       "content": "Abstract\r\nThe peritrophic matrix (PM) acts as a physical barrier that influences the vector competence of mosquitoes. We have previously shown that gut microbiota promotes PM formation in Anopheles s… [+67870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Georg E. Matt, Lydia Greiner, Kristina Tran, Joseph Gibbons, Michael Vingiello, Paula Stigler Granados, Ronald Shadbegian, Thomas E. Novotny",
+      "title": "Estimating the accumulation and re-accumulation of commercial tobacco, electronic cigarette, and cannabis waste based on a stratified random sample of census blocks",
+      "description": "We investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environmental harm caused by these products. Using disproportionate stratified …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313241",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313241.g003&size=inline",
+      "publishedAt": "2025-01-06T14:00:00Z",
+      "content": "Abstract\r\nWe investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environme… [+63937 chars]"
     },
     {
       "source": {
@@ -481,19 +585,6 @@
       "urlToImage": "https://img.particlenews.com/img/id/2ZL5LQ_0xtw1Noo00",
       "publishedAt": "2025-01-06T12:55:32Z",
       "content": "NOROVIRUS can linger on your clothes for up to a month, an expert has warned. \r\n Other fabric-lined items like chairs, pillows, and curtains can also hold onto the norovirus bug. \r\nNorovirus can ling… [+5507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-03T20:35:14Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -567,7 +658,7 @@
       },
       "author": "Bill Marler",
       "title": "FDA has traced back, inspected and is sampling product linked to Listeria Outbreak",
-      "description": "Perhaps, more information will be forthcoming this week. FDA Traceback Initiated: Used to identify the source and distribution of the implicated food and remove the contaminated product from the marketplace, to distinguish between two or more implicated food ��",
+      "description": "Perhaps, more information will be forthcoming this week. FDA Traceback Initiated: Used to identify the source and distribution of the implicated food and remove the contaminated product from the marketplace, to distinguish between two or more implicated food …",
       "url": "https://www.marlerblog.com/case-news/fda-has-traced-back-inspected-and-is-sampling-product-linked-to-listeria-outbreak/",
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/531/306/kW7yv9eBdzpm1VVy6NLRwa5Px/791bd07f036be28278067c6415f391e6f9278fc6.png",
       "publishedAt": "2025-01-06T07:23:36Z",
@@ -1010,7 +1101,7 @@
       "author": "Jordan Joseph",
       "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
       "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
+      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
@@ -1023,7 +1114,7 @@
       "author": "Jordan Joseph",
       "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
       "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
+      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
@@ -1157,97 +1248,6 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-01-04T00:52:00Z",
       "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 03, 2025\r\nFDA Publish Date:\r\nJanuary 03, 2025\r\nProduct Type:\r\nAnimal &amp; Veterinary Pet Food\r\nReason for Announcement:\r\nRecall Reason Description\r\nPoten… [+2949 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Mike Snider, USA TODAY",
-      "title": "Costco egg recall: These eggs with a risk of salmonella could still be in your refrigerator",
-      "description": "Costco eggs recalled were given a recall of the highest level by the Food and Drug Administration for potential contamination with salmonella.",
-      "url": "https://www.usatoday.com/story/money/food/2025/01/03/costco-eggs-recalled-best-by-date/77441960007/",
-      "urlToImage": "https://media.zenfs.com/en/usa_today_money_325/a60cfdaa563255140f81fb55eb55d82a",
-      "publishedAt": "2025-01-04T00:15:17Z",
-      "content": "Make sure to check your refrigerator because some eggs recalled by Costco may still be chilling in there.\r\nThe Kirkland Signature Organic Pasture Raised eggs were recalled Nov. 27 by producer Handsom… [+4079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "FireScam Android info-stealing malware supports spyware capabilities",
-      "description": "FireScam malware steals credentials and financial data by monitoring Android app notifications and sending data to a Firebase database. Cybersecurity firm Cyfirma warns of the FireScam Android info-stealing malware that supports spyware capabilities. The mali…",
-      "url": "https://securityaffairs.com/172656/malware/firescam-android-malware.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-5.png",
-      "publishedAt": "2025-01-03T22:53:41Z",
-      "content": "FireScam Android info-stealing malware supports spyware capabilities\r\n | Richmond University Medical Center data breach impacted 674,033 individuals\r\n | Apple will pay $95 Million to settle lawsuit o… [+128337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Childrenshealthdefense.org"
-      },
-      "author": "Jennifer O'brien",
-      "title": "Heavy Metals Linked to Higher Risk of Childhood Obesity",
-      "description": "The interplay between heavy metals and metabolic processes complicates the childhood obesity landscape, suggesting that metal exposure significantly contributes to the risk of developing obesity.",
-      "url": "https://childrenshealthdefense.org/defender/heavy-metals-linked-to-higher-risk-of-childhood-obesity/",
-      "urlToImage": "https://childrenshealthdefense.org/wp-content/uploads/heavy-metals-childhood-obesity-feature.jpg",
-      "publishedAt": "2025-01-03T22:40:59Z",
-      "content": "Story at a glance:\r\n<ul><li>The role of environmental factors, including metal exposure, in the development of obesity is gaining attention, suggesting that addressing these factors is key in combati… [+15540 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Dierbregs Markets Issues Allergy Alert on Undeclared Wheat in Product",
-      "description": "Dierbergs is recalling all 16oz Premium Home-Style Mashed Potatoes with a Sell By Date of January 09, 2025. The product carries an undeclared allergen of Wheat. The affected product is identifiable by a label ID number of 92 in the lower left-hand corner abov…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dierbregs-markets-issues-allergy-alert-undeclared-wheat-product",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-03T22:12:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 03, 2025\r\nFDA Publish Date:\r\nJanuary 07, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nCompa… [+1845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Abbey Specialty Foods Recalls Wicklow Gold Cheddar Nettle & Chive 5.2 oz and Wicklow Gold Cheddar Tomato & Herb 5.2 oz Because of Possible Health Risk",
-      "description": "Abbey Specialty Foods of Fairfield, NJ is recalling Wicklow Gold Cheddar Nettle & Chive 5.2 oz product and Wicklow Gold Cheddar Tomato & Herb 5.2 oz product because they have the potential to be contaminated with Listeria monocytogenes, an organism which can …",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/abbey-specialty-foods-recalls-wicklow-gold-cheddar-nettle-chive-52-oz-and-wicklow-gold-cheddar",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-03T21:30:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 03, 2025\r\nFDA Publish Date:\r\nJanuary 03, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nCheese/Cheese Product\r\nFoodborne Illness\r\nReason for Announcement:\r\nR… [+2569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Richmond University Medical Center data breach impacted 674,033 individuals",
-      "description": "Richmond University Medical Center has confirmed that a ransomware attack in May 2023 affected 670,000 individuals. New York’s Richmond University Medical Center confirmed a May 2023 ransomware attack impacted 674,033 individuals. Richmond University Medical …",
-      "url": "https://securityaffairs.com/172641/data-breach/richmond-university-medical-center-data-breach.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
-      "publishedAt": "2025-01-03T19:48:10Z",
-      "content": "Richmond University Medical Center data breach impacted 674,033 individuals\r\n | Apple will pay $95 Million to settle lawsuit over Siri's alleged eavesdropping\r\n | LDAPNightmare, a PoC exploit targets… [+128264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "nctr",
-      "title": "2024 NCTR Research Highlights",
-      "description": "2024 NCTR Research Highlights and Accomplishments:",
-      "url": "https://www.fda.gov/about-fda/nctr-publications/2024-nctr-research-highlights",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-03T17:22:14Z",
-      "content": "December 4, 2024\r\nNCTR Uncovers Drug Interaction with UGT Enzymes as an Indicator of Drug-Induced Liver Injury\r\nResearchers at FDAs National Center for Toxicological Research (NCTR), collaborating wi… [+22920 chars]"
     }
   ],
   "totalResults": 96,
