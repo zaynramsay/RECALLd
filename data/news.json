@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-01-09T06:29:34.284Z",
+  "lastUpdated": "2025-01-09T12:42:43.729Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Plastic Drums Industry Set to Reach USD 6.6 Billion by 2035, Driven by Increased Demand in Chemicals, Waste Management, and Food-Safe Storage Solutions | Future Market Insights, Inc.",
+      "description": "Plastic drums, integral to the industry, are large containers fashioned from high-density polyethene (HDPE) or similar plastics. These versatile vessels, ranging from a few to several hundred gallons in capacity, serve as stalwarts for the storage and transpo…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/08/3005989/0/en/Plastic-Drums-Industry-Set-to-Reach-USD-6-6-Billion-by-2035-Driven-by-Increased-Demand-in-Chemicals-Waste-Management-and-Food-Safe-Storage-Solutions-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-01-08T08:35:00Z",
+      "content": "NEWARK, Del, Jan. 08, 2025 (GLOBE NEWSWIRE) -- The global plastic drums Industry is set for robust growth, with a projected value of USD 6.6 billion by 2035, expanding at a CAGR of 3.5% from 2025 to … [+24217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "National Institutes of Health"
+      },
+      "author": null,
+      "title": "Limited Competition: Advancing the Science of Complementary and Integrative Health Approaches to Improve Maternal Health Outcomes (R01 Clinical Trial Required)",
+      "description": "Funding Opportunity RFA-AT-25-002 from the NIH Guide for Grants and Contracts. This notice of funding opportunity (NOFO) invites investigators currently funded through the NIH Implementing a Maternal Health and Pregnancy Outcomes Vision for Everyone (IMPROVE)…",
+      "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-25-002.html",
+      "urlToImage": null,
+      "publishedAt": "2025-01-08T08:31:54Z",
+      "content": "Part 1. Overview Information\r\nParticipating Organization(s) \r\nNational Institutes of Health (NIH)\r\nComponents of Participating Organizations \r\nNational Center for Complementary and Integrative Health… [+103093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Meta replaces fact-checking with community notes post ‘Cultural Tipping Point’",
+      "description": "Meta is replacing its fact-checking program with a “community notes” system, citing a shift in moderation strategy after a “cultural tipping point.” Meta CEO Mark Zuckerberg announced that the fact-checking program should be ended and replaced with a communit…",
+      "url": "https://securityaffairs.com/172793/social-networks/meta-replaces-fact-checking.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/04/Meta-logo.png",
+      "publishedAt": "2025-01-08T08:03:13Z",
+      "content": "Meta replaces fact-checking with community notes post 'Cultural Tipping Point'\r\n | U.S. CISA adds Oracle WebLogic Server and Mitel MiCollab flaws to its Known Exploited Vulnerabilities catalog\r\n | Th… [+129255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Daily"
+      },
+      "author": "Suneeta Sunny",
+      "title": "Gastroenterologist's Fruit Washing Tip: One Simple Inexpensive Ingredient You Already Have In Your Kitchen",
+      "description": "For those seeking the right technique to wash fruits, you don't need expensive fruit-washing liquids. All you need is one simple, inexpensive ingredient already in your kitchen.",
+      "url": "https://www.medicaldaily.com/gastroenterologists-fruit-washing-tip-one-simple-inexpensive-ingredient-you-already-have-your-472940",
+      "urlToImage": "https://d.medicaldaily.com/en/full/479507/fruits.jpg",
+      "publishedAt": "2025-01-08T08:01:43Z",
+      "content": "Including fruits in your daily diet is great for digestion, immunity, and overall health. But what about the pesticides and chemicals sprayed on them? Eating unwashed fruits can do more harm than goo… [+2196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Oracle WebLogic Server and Mitel MiCollab flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Oracle WebLogic Server and Mitel MiCollab flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Oracle WebLogic Server …",
+      "url": "https://securityaffairs.com/172783/security/u-s-cisa-adds-oracle-weblogic-server-mitel-micollab-flaws-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-01-08T06:58:24Z",
+      "content": "U.S. CISA adds Oracle WebLogic Server and Mitel MiCollab flaws to its Known Exploited Vulnerabilities catalog\r\n | Threat actors breached the Argentinas airport security police (PSA) payroll\r\n | US ad… [+129172 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -168,7 +233,7 @@
       "url": "https://securityaffairs.com/172770/ics-scada/moxa-router-flaws-risks-to-industrial-environmets.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-10.png",
       "publishedAt": "2025-01-07T12:27:07Z",
-      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
+      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a faulty plugin update\r\n��| China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
     },
     {
       "source": {
@@ -552,6 +617,19 @@
         "id": null,
         "name": "Plos.org"
       },
+      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
+      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
+      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
+      "publishedAt": "2025-01-06T14:00:00Z",
+      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
       "author": "Hammed O. Mogaji, Francisca O. Olamiju, Fajana Oyinlola, Ijeoma Achu, Oladunni N. Adekunle, Lydia E. Udofia, Ekaette G. Edelduok, Clement A. Yaro, Olanike O. Oladipupo, Alice Y. Kehinde, Fatai Oyediran, Moses Aderogba, Louise K. Makau-Barasa, Uwem F. Ekpo",
       "title": "Prevalence, intensity and risk factors of soil-transmitted helminthiasis after five effective rounds of preventive chemotherapy across three implementation units in Ondo State, Nigeria",
       "description": "Author summary The World Health Organization (WHO) recommends reducing soil-transmitted helminthiasis (STH) prevalence to below 20% and moderate-to-heavy infections to less than 2% in treated areas to achieve elimination targets. Endemic countries, including …",
@@ -578,13 +656,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
-      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
-      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
+      "author": "Georg E. Matt, Lydia Greiner, Kristina Tran, Joseph Gibbons, Michael Vingiello, Paula Stigler Granados, Ronald Shadbegian, Thomas E. Novotny",
+      "title": "Estimating the accumulation and re-accumulation of commercial tobacco, electronic cigarette, and cannabis waste based on a stratified random sample of census blocks",
+      "description": "We investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environmental harm caused by these products. Using disproportionate stratified …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313241",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313241.g003&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
+      "content": "Abstract\r\nWe investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environme… [+63937 chars]"
     },
     {
       "source": {
@@ -598,19 +676,6 @@
       "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002967.g006&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
       "content": "Abstract\r\nThe peritrophic matrix (PM) acts as a physical barrier that influences the vector competence of mosquitoes. We have previously shown that gut microbiota promotes PM formation in Anopheles s… [+67870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Georg E. Matt, Lydia Greiner, Kristina Tran, Joseph Gibbons, Michael Vingiello, Paula Stigler Granados, Ronald Shadbegian, Thomas E. Novotny",
-      "title": "Estimating the accumulation and re-accumulation of commercial tobacco, electronic cigarette, and cannabis waste based on a stratified random sample of census blocks",
-      "description": "We investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environmental harm caused by these products. Using disproportionate stratified …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313241",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313241.g003&size=inline",
-      "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Abstract\r\nWe investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environme… [+63937 chars]"
     },
     {
       "source": {
@@ -723,7 +788,7 @@
       },
       "author": "myfox28columbus.com",
       "title": "2 types of cheese recalled due to possible listeria contamination",
-      "description": "Two types of cheese sold in Ohio were recalled due to potential listeria contamination.\nThe U.S. Food and Drug Administration announced on Jan. 3 that two variants of cheddar from Wicklow Gold, distributed by Abbey Specialty Foods, were recalled due to possib��",
+      "description": "Two types of cheese sold in Ohio were recalled due to potential listeria contamination.\nThe U.S. Food and Drug Administration announced on Jan. 3 that two variants of cheddar from Wicklow Gold, distributed by Abbey Specialty Foods, were recalled due to possib…",
       "url": "https://biztoc.com/x/df9885363c1ba6d3",
       "urlToImage": "https://biztoc.com/cdn/df9885363c1ba6d3_s.webp",
       "publishedAt": "2025-01-06T06:44:37Z",
@@ -1153,7 +1218,7 @@
       "author": "Jordan Joseph",
       "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
       "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
+      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
@@ -1166,7 +1231,7 @@
       "author": "Jordan Joseph",
       "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
       "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
+      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
@@ -1183,71 +1248,6 @@
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Pet Food Recall in 6 States As Warning Issued to Owners",
-      "description": "The federal Food and Drug Administration has announced Blue Ridge Beef is recalling 1,350 Ibs worth of its 1b log Kitten Mix in response to salmonella contamination.\nThe product was sold primarily in retail stores in the states of Virginia, Maryland, Pennsylv…",
-      "url": "https://biztoc.com/x/f73c1845a37603d3",
-      "urlToImage": "https://biztoc.com/cdn/f73c1845a37603d3_s.webp",
-      "publishedAt": "2025-01-04T17:11:43Z",
-      "content": "The federal Food and Drug Administration has announced Blue Ridge Beef is recalling 1,350 Ibs worth of its 1b log Kitten Mix in response to salmonella contamination.The product was sold primarily in … [+135 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "James Bickerton",
-      "title": "Pet Food Recall in 6 States As Warning Issued to Owners",
-      "description": "The FDA is urging anyone who has the cat food in question to return it to their place of purchase or destroy it.",
-      "url": "https://www.newsweek.com/pet-food-recall-6-states-warning-issued-owners-2009707",
-      "urlToImage": "https://d.newsweek.com/en/full/2556404/kittens.jpg",
-      "publishedAt": "2025-01-04T17:02:05Z",
-      "content": "The federal Food and Drug Administration has announced Blue Ridge Beef is recalling 1,350 Ibs worth of its 1b log Kitten Mix in response to salmonella contamination.\r\nThe product was sold primarily i… [+3103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Joyann Jeffrey",
-      "title": "Chick-fil-A made a 'slight' change to their waffle fry recipe — and fans are distraught",
-      "description": "Chick-fil-A fans are upset after the fast food chain made a \"slight adjustment\" to its popular waffle fry recipe that'll make the food stay crispier for longer.",
-      "url": "https://www.today.com/food/chick-fil-a-waffle-fries-recipe-change-rcna186230",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-01/tdy-chick-fil-a-ld-main-250104-8e4e97.jpg",
-      "publishedAt": "2025-01-04T17:00:04Z",
-      "content": "Chick-fil-A fans are upset after the fast food chain made a \"slight adjustment\" to its popular waffle potato fry recipe.\r\nOn the brand's website, the company announced that it will no longer be servi… [+2852 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Cheese Recall Sparks Warning to Customers",
-      "description": "A cheese product sold in five states has been recalled over concerns of potential contamination with Listeria monocytogenes, a dangerous bacteria.\nWhy It Matters\nConsuming food contaminated with Listeria monocytogenes can cause the infection listeriosis, whic…",
-      "url": "https://biztoc.com/x/f5adedddc5e7834e",
-      "urlToImage": "https://biztoc.com/cdn/f5adedddc5e7834e_s.webp",
-      "publishedAt": "2025-01-04T03:57:36Z",
-      "content": "A cheese product sold in five states has been recalled over concerns of potential contamination with Listeria monocytogenes, a dangerous bacteria.Why It MattersConsuming food contaminated with Lister… [+139 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Aila Slisco",
-      "title": "Cheese Recall Sparks Warning to Customers",
-      "description": "The cheese may be contaminated with the dangerous Listeria monocytogenes bacteria.",
-      "url": "https://www.newsweek.com/cheese-recall-sparks-warning-customers-2009649",
-      "urlToImage": "https://d.newsweek.com/en/full/2556344/cheese-recall-listeria-contamination-abbey-foods.jpg",
-      "publishedAt": "2025-01-04T03:53:39Z",
-      "content": "A cheese product sold in five states has been recalled over concerns of potential contamination with Listeria monocytogenes, a dangerous bacteria.\r\nWhy It Matters\r\nConsuming food contaminated with Li… [+3703 chars]"
     }
   ],
   "totalResults": 96,
