@@ -1,6 +1,175 @@
 {
-  "lastUpdated": "2025-01-09T12:42:43.729Z",
+  "lastUpdated": "2025-01-09T18:30:24.582Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Sophie Clark",
+      "title": "Target Food Recalls Issued For 50 States: Full List of Products Impacted",
+      "description": "Target has had five recent recalls of foods distributed across stores across the U.S.",
+      "url": "https://www.newsweek.com/target-recent-food-recalls-2011860",
+      "urlToImage": "https://d.newsweek.com/en/full/2559658/target-sign.jpg",
+      "publishedAt": "2025-01-08T18:03:13Z",
+      "content": "Target currently has recalls for five foods sold in states across the country based on FDA recalls of the same products.\r\nTarget has said: \"Our guests, your safety, is our highest priority. For this … [+5877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Chelsea Sherlock, Erik Markin",
+      "title": "Who owns that restaurant? The answer can affect food safety in unexpected ways, researchers find",
+      "description": "Imagine going on a road trip and passing several seemingly identical McDonald's restaurants. Despite their uniform appearance, their ownership may vary widely: One might be run by a family, another by an individual entrepreneur, and others owned directly by t…",
+      "url": "https://phys.org/news/2025-01-restaurant-affect-food-safety-unexpected.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/fastfood.jpg",
+      "publishedAt": "2025-01-08T17:34:03Z",
+      "content": "Imagine going on a road trip and passing several seemingly identical McDonald's restaurants. Despite their uniform appearance, their ownership may vary widely: One might be run by a family, another b… [+4569 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Biomedical Scientist Answers New Pseudoscience Questions",
+      "description": "Biomedical scientist Dr. Andrea Love returns to WIRED to answer a new slate of the internet's burning questions about pseudosciences, health fads, and false wellness claims. What common household chemicals are definitely worth avoiding? Is there really arseni…",
+      "url": "https://www.wired.com/video/watch/biomedical-scientist-answers-new-pseudoscience-questions/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1736348195/wired_biomedical-scientist-answers-new-pseudoscience-questions.jpg",
+      "publishedAt": "2025-01-08T17:00:00Z",
+      "content": "Hyperbaric oxygen, dietary supplements, urine therapy,\r\nozone therapy, metal chelation.\r\nNone of these have evidence to support their use\r\nfor any ailment.\r\nI'm Dr. Andrea Love biomedical scientist.\r… [+34470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-05T12:23:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "Office Of The Commissioner",
+      "title": "FDA sends warning to company for marketing dangerous unapproved stem cell products that put patients at risk and puts other stem cell firms, providers on notice",
+      "description": "FDA sends warning to company for marketing dangerous unapproved stem cell products that put patients at risk and puts other stem cell firms, providers on noticefda.gov",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-sends-warning-company-marketing-dangerous-unapproved-stem-cell-products-put-patients-risk-and",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-08T15:32:23Z",
+      "content": "For Immediate Release:\r\nDecember 20, 2018\r\nThe U.S. Food and Drug Administration has warned Genetech, Inc. of San Diego, California and its president, Edwin N. Pinos for marketing stem cell products … [+8509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "Aluminum Foil Market to Surpass Valuation of US$ 53.88 Billion By 2033 | Astute Analytica",
+      "description": "Aluminum foil demand soars as flexible packaging flourishes, automotive electrification accelerates, and antiviral coating innovations emerge. Global supply chains, however, grapple with raw material swings, leading to dynamic pricing models and more collabor…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/08/3006431/0/en/Aluminum-Foil-Market-to-Surpass-Valuation-of-US-53-88-Billion-By-2033-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2025-01-08T15:30:00Z",
+      "content": "New Delhi, Jan. 08, 2025 (GLOBE NEWSWIRE) -- The global aluminum foil market is projected to hit the market valuation of US$ 53.88 billion by 2033 from US$ 29.88 billion in 2024 at a CAGR of 6.77% du… [+13676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Cell Harvesting Systems Market to Cross Revenues of $26.6 Billion by 2034 - Evolving Healthcare Landscape Spurs Demand for Regenerative Medicine and Cell-Based Therapies",
+      "description": "Breakthrough Cell Harvesting Technologies Shorten Recovery Times for High-Quality Organoids Breakthrough Cell Harvesting Technologies Shorten Recovery Times for High-Quality Organoids",
+      "url": "https://www.globenewswire.com/news-release/2025/01/08/3006428/28124/en/Cell-Harvesting-Systems-Market-to-Cross-Revenues-of-26-6-Billion-by-2034-Evolving-Healthcare-Landscape-Spurs-Demand-for-Regenerative-Medicine-and-Cell-Based-Therapies.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-01-08T15:28:00Z",
+      "content": "Dublin, Jan. 08, 2025 (GLOBE NEWSWIRE) -- The \"Cell Harvesting System Market by Type, Application, End User and Region\" report has been added to ResearchAndMarkets.com's offering. This comprehensive … [+7999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yu-Xue Feng, Ming-Zhi Tan, Hui-Han Qiu, Jie-Rong Chen, Si-Zhe Wang, Ze-Min Huang, Xu-Guang Guo",
+      "title": "Association between heavy metal exposure and bacterial vaginosis: A cross-sectional study",
+      "description": "Bacterial vaginosis (BV) is a prevalent cause of vaginal symptoms in women of reproductive age. With the widespread of heavy metal pollutants and their harmful function on women’s immune and hormonal systems, it is necessary to explore the association between…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316927",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316927.g004&size=inline",
+      "publishedAt": "2025-01-08T14:00:00Z",
+      "content": "Abstract\r\nBacterial vaginosis (BV) is a prevalent cause of vaginal symptoms in women of reproductive age. With the widespread of heavy metal pollutants and their harmful function on womens immune and… [+45356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Juliette Waterman, Stuart Black, Naomi Sykes, Andrew C. Kitchener, William F. Mills, Mark D. E. Fellowes",
+      "title": "The return of raptors to Scotland’s skies: Investigating the diets of reintroduced red kites and white-tailed eagles using stable isotopes",
+      "description": "Species reintroductions are increasingly seen as important methods of biodiversity restoration. Reintroductions of red kites Milvus milvus and white-tailed eagles Halieaeetus albicilla to Britain, which were extirpated in the late 19th and early 20th centurie…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315945",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315945.g004&size=inline",
+      "publishedAt": "2025-01-08T14:00:00Z",
+      "content": "Abstract\r\nSpecies reintroductions are increasingly seen as important methods of biodiversity restoration. Reintroductions of red kites Milvus milvus and white-tailed eagles Halieaeetus albicilla to B… [+42820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Mariana Rossa, Emmanuel Serrano, João Carvalho, Néstor Fernández, Jorge R. López-Olvera, Mathieu Garel, João P. V. Santos, Maurizio Ramanzin, Pia Anderwald, Pierangelo Freschi, Jordi Bartolomé, Santiago Lavín, Elena Albanell",
+      "title": "Predicting fiber content in herbivore fecal samples using a multispecies NIRS model",
+      "description": "Fiber is essential for rumen health, microbial fermentation, and the energy supply of herbivores. Even though the study of fecal fiber contents (neutral detergent fiber NDF, acid detergent fiber ADF, and acid detergent lignin ADL) using near-infrared reflecta…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317145",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317145.g003&size=inline",
+      "publishedAt": "2025-01-08T14:00:00Z",
+      "content": "Abstract\r\nFiber is essential for rumen health, microbial fermentation, and the energy supply of herbivores. Even though the study of fecal fiber contents (neutral detergent fiber NDF, acid detergent … [+52362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Usda.gov"
+      },
+      "author": null,
+      "title": "FSIS Issues Public Health Alert For Chicken Empanada Products Due To Misbranding And Undeclared Allergen",
+      "description": "WASHINGTON, Jan. 8, 2025 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen product labeled as Chicken Curry Empanadas...",
+      "url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-empanada-products-due-misbranding-and",
+      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
+      "publishedAt": "2025-01-08T14:00:00Z",
+      "content": "WASHINGTON, Jan. 8, 2025 The U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen product labeled as Chicken Curry Empanadas due to mi… [+2263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Tianyang Jia, Jinglan He, Cunliang Miao, Yubin Long, Qi Dong, Jialiang Guo, Wei Chen, Zhiyong Hou",
+      "title": "Inadequate soft tissue coverage and bone loss/comminution are the typical risk factors of surgical site infection in open fractures of the hand: A nomogram prediction model",
+      "description": "Background Different from other parts of long bone fractures, surgical site infections (SSI) often occurs in open fractures of the hand (OFH) due to the anatomical characteristics and injury mechanisms. Our aim of the study is to investigate the particular ri…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313832",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313832.g005&size=inline",
+      "publishedAt": "2025-01-08T14:00:00Z",
+      "content": "Citation: Jia T, He J, Miao C, Long Y, Dong Q, Guo J, et al. (2025) Inadequate soft tissue coverage and bone loss/comminution are the typical risk factors of surgical site infection in open fractures… [+20471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Chelsea Sherlock, Assistant Professor of Management, Mississippi State University, Erik Markin, Assistant Professor of Management, Mississippi State University",
+      "title": "Who owns that restaurant? The answer can affect food safety in unexpected ways, researchers find",
+      "description": "Ownership structure matters.",
+      "url": "https://theconversation.com/who-owns-that-restaurant-the-answer-can-affect-food-safety-in-unexpected-ways-researchers-find-237200",
+      "urlToImage": "https://images.theconversation.com/files/632800/original/file-20241118-15-5tvpe5.jpg?ixlib=rb-4.1.0&rect=7%2C345%2C5187%2C2593&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-01-08T13:20:47Z",
+      "content": "Imagine going on a road trip and passing several seemingly identical McDonald’s restaurants. Despite their uniform appearance, their ownership may vary widely: One might be run by a family, another b… [+4266 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -134,19 +303,6 @@
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-04T19:49:38Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Securityaffairs.com"
       },
       "author": "Pierluigi Paganini",
@@ -233,7 +389,7 @@
       "url": "https://securityaffairs.com/172770/ics-scada/moxa-router-flaws-risks-to-industrial-environmets.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-10.png",
       "publishedAt": "2025-01-07T12:27:07Z",
-      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a faulty plugin update\r\n��| China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
+      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
     },
     {
       "source": {
@@ -415,7 +571,7 @@
       "url": "https://www.haaretz.com/archaeology/2025-01-06/ty-article/prehistoric-carb-cravings-archaeologists-find-780-000-year-old-proof-of-plant-processing/00000194-3b44-d96e-a1d6-3bec9de20000",
       "urlToImage": "https://img.haarets.co.il/bs/00000194-3b44-d96e-a1d6-3bec9d300000/ec/29/848593a54f07820ae3e1bca15bf1/59966095.JPG?precrop=5568,3237,x0,y475&height=630&width=1200",
       "publishedAt": "2025-01-06T21:15:49Z",
-      "content": "Microscopic starch granules embedded in prehistoric tools at least 780,000 years ago carry evidence of the earliest known processing of plants, showing that our hominin ancestors were not as meat-cen… [+7764 chars]"
+      "content": "Microscopic starch granules embedded in prehistoric tools at least 780,000 years ago carry evidence of the earliest known processing of plants, showing that our hominin ancestors were not as meat-cen��� [+7764 chars]"
     },
     {
       "source": {
@@ -617,19 +773,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
-      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
-      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
-      "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Hammed O. Mogaji, Francisca O. Olamiju, Fajana Oyinlola, Ijeoma Achu, Oladunni N. Adekunle, Lydia E. Udofia, Ekaette G. Edelduok, Clement A. Yaro, Olanike O. Oladipupo, Alice Y. Kehinde, Fatai Oyediran, Moses Aderogba, Louise K. Makau-Barasa, Uwem F. Ekpo",
       "title": "Prevalence, intensity and risk factors of soil-transmitted helminthiasis after five effective rounds of preventive chemotherapy across three implementation units in Ondo State, Nigeria",
       "description": "Author summary The World Health Organization (WHO) recommends reducing soil-transmitted helminthiasis (STH) prevalence to below 20% and moderate-to-heavy infections to less than 2% in treated areas to achieve elimination targets. Endemic countries, including …",
@@ -656,13 +799,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Georg E. Matt, Lydia Greiner, Kristina Tran, Joseph Gibbons, Michael Vingiello, Paula Stigler Granados, Ronald Shadbegian, Thomas E. Novotny",
-      "title": "Estimating the accumulation and re-accumulation of commercial tobacco, electronic cigarette, and cannabis waste based on a stratified random sample of census blocks",
-      "description": "We investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environmental harm caused by these products. Using disproportionate stratified …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313241",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313241.g003&size=inline",
+      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
+      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
+      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Abstract\r\nWe investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environme… [+63937 chars]"
+      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
     },
     {
       "source": {
@@ -676,6 +819,19 @@
       "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002967.g006&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
       "content": "Abstract\r\nThe peritrophic matrix (PM) acts as a physical barrier that influences the vector competence of mosquitoes. We have previously shown that gut microbiota promotes PM formation in Anopheles s… [+67870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Georg E. Matt, Lydia Greiner, Kristina Tran, Joseph Gibbons, Michael Vingiello, Paula Stigler Granados, Ronald Shadbegian, Thomas E. Novotny",
+      "title": "Estimating the accumulation and re-accumulation of commercial tobacco, electronic cigarette, and cannabis waste based on a stratified random sample of census blocks",
+      "description": "We investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environmental harm caused by these products. Using disproportionate stratified …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313241",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313241.g003&size=inline",
+      "publishedAt": "2025-01-06T14:00:00Z",
+      "content": "Abstract\r\nWe investigated the amount and distribution of waste generated by commercial tobacco, electronic cigarette, and cannabis (TEC) use to inform policy options aimed at mitigating the environme… [+63937 chars]"
     },
     {
       "source": {
@@ -1091,162 +1247,6 @@
       "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTU5MDg4NjAtMTczNjA0Njk2NzM3Nw%3D%3D&pd=014kcWrU&hl=en_US&send_time=1736046967&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v8%2Cns_foryou_rank_exp_25q1-v1%2Cns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3",
       "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
       "publishedAt": "2025-01-05T03:16:37Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?_f=app_share&pd=0HB2YXQr&lang=en_US&send_time=1736041078&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.52.0.21%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-control%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_rank_exp_25q1-v3%2Cns_foryou_recall_exp_25q1-v7%2Cns_foryou_model_exp_25q1-v4&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-05T01:38:26Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjIwNTA1NjY2LTE3MzYwMzk1MzQ4NTQ%3D&pd=0EvDb0Oz&hl=en_US&send_time=1736039534&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v1",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-05T01:12:44Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Malicious npm packages target Ethereum developers",
-      "description": "Malicious npm packages target Ethereum developers, impersonating Hardhat plugins to steal private keys and sensitive data. Hardhat, by the Nomic Foundation, is an essential Ethereum tool, enabling streamlined smart contract and dApp development with customiza…",
-      "url": "https://securityaffairs.com/172671/malware/malicious-npm-packages-target-ethereum-developers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/npm.png",
-      "publishedAt": "2025-01-04T23:51:30Z",
-      "content": "Malicious npm packages target Ethereum developers\r\n | US Treasury Department sanctioned Chinese cybersecurity firm linked to Flax Typhoon APT\r\n | FireScam Android info-stealing malware supports spywa… [+128483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTU0ODkyMjQxLTE3MzYwMzE2MDA0NDg%3D&pd=0ATuXxS2&hl=en_US&send_time=1736031600&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-control%2Cns_foryou_model_exp_25q1-control%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_blend_exp_25q1-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-04T23:00:34Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=NjM2OTMyNTgtMTczNjAyNzQ2MzY2Nw%3D%3D&pd=04JFWcnC&hl=en_US&send_time=1736027463&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v3%2Cns_push_exp_rt_bucketv12-v8%2Cns_foryou_model_exp_25q1-v4%2Cns_foryou_rank_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-04T22:48:20Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTQ4ODI5NTEyLTE3MzYwMzA3NTUwMTg%3D&pd=0A4TM0S4&hl=en_US&send_time=1736030755&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v3%2Cns_foryou_recall_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_blend_exp_25q1-v2%2Cns_foryou_model_exp_25q1-v9",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-04T22:47:35Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Las Vegas Review-Journal"
-      },
-      "author": "Johnathan L. Wright",
-      "title": "Wolfgang Puck Bar & Grill on the Las Vegas Strip closed by health department",
-      "description": "The inspection assigns more than 40 demerits across the restaurant and related service operations.",
-      "url": "https://www.reviewjournal.com/post/3259835",
-      "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2025/01/20027772_web1_web_WolfgangPuckBarGrill-MGM.jpg",
-      "publishedAt": "2025-01-04T22:01:24Z",
-      "content": "Wolfgang Puck Bar &amp; Grill at the MGM Grand, the namesake restaurant from one of the world’s most celebrated chefs, was closed by the Southern Nevada Health District following an inspection Thursd… [+1564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "US Treasury Department sanctioned Chinese cybersecurity firm linked to Flax Typhoon APT",
-      "description": "The U.S. Treasury Department sanctioned Chinese cybersecurity firm Integrity Tech for its involvement in attacks attributed to the Flax Typhoon group. The U.S. Treasury sanctioned a Chinese cybersecurity firm, Integrity Tech, for links to cyberattacks by Chin…",
-      "url": "https://securityaffairs.com/172665/intelligence/us-sanctioned-chinese-cybersecurity-firm-linked-flax-typhoon.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
-      "publishedAt": "2025-01-04T19:26:11Z",
-      "content": "US Treasury Department sanctioned Chinese cybersecurity firm linked to Flax Typhoon APT\r\n | FireScam Android info-stealing malware supports spyware capabilities\r\n | Richmond University Medical Center… [+128429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjU4MjY2ODUxLTE3MzYwNDczODMxMDM%3D&pd=0HTf0NVQ&hl=en_US&send_time=1736047383&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v9%2Cns_foryou_rank_exp_25q1-v7%2Cns_foryou_model_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v8%2Cns_push_exp_rt_bucketv12-v7",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-04T18:47:57Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTYwNjExMTAzLTE3MzYwMzM4OTM0ODI%3D&pd=0AruHfEQ&hl=en_US&send_time=1736033893&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.52.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-04T18:47:57Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MjQ1NDQxMjktMTczNjAzMjc3MDg1OQ%3D%3D&pd=01ez33j6&hl=en_US&send_time=1736032770&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v4",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-04T18:47:57Z",
-      "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Jordan Joseph",
-      "title": "Scientists report first case of rare parasite in pigs, posing human health risks",
-      "description": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. The finding has captured",
-      "url": "https://www.newsbreak.com/share/3741885052942-scientists-report-first-case-of-rare-parasite-in-pigs-posing-human-health-risks?s=a2&share_destination_id=MTM0MDE4Njk5LTE3MzYwNzI1MTg3NDM%3D&pd=094KNv3o&hl=en_US&send_time=1736072518&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_model_exp_25q1-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/2aFxYB_0xrPLr7M00",
-      "publishedAt": "2025-01-04T18:47:57Z",
       "content": "A recent study has revealed the presence of a rare parasite called Sarcocystis miescheriana in a domestic pig in central Poland. \r\n The finding has captured attention because it involved cysts large … [+4760 chars]"
     }
   ],
