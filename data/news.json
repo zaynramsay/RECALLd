@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-01-08T18:29:56.476Z",
+  "lastUpdated": "2025-01-09T02:10:14.798Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Alexandra Sharp",
+      "title": "Deadly 7.1 Magnitude Earthquake Rocks Tibet",
+      "description": "Freezing temperatures and an inaccessible landscape could make rescue efforts difficult.",
+      "url": "https://foreignpolicy.com/2025/01/07/tibet-earthquake-nepal-tingri-county-us-sudan-genocide-designation/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/01/TibetEarthquake-GettyImages-2192227016.jpg?w=1000",
+      "publishedAt": "2025-01-08T00:00:48Z",
+      "content": "Welcome back to World Brief, where were looking at search-and-rescue operations in Tibet, an extended arrest warrant for South Korean President Yoon Suk-yeol, and allegations of genocide during Sudan… [+7467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Royal Society of Chemistry"
+      },
+      "author": "Kaushik Adhikari, Karen Sanguinet, Carolyn Pearce, Markus Flury",
+      "title": "Uptake of Polystyrene Nanospheres by Wheat and Arabidopsis Roots in Agar, Hydroponics, and Soil",
+      "description": "Environ. Sci.: Nano, 2025, Accepted ManuscriptDOI: 10.1039/D4EN01182A, PaperKaushik Adhikari, Karen Sanguinet, Carolyn Pearce, Markus FluryPlant uptake of micro- and nanoplastics can lead to contamination of food with plastic particles and subsequent human co…",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/en/d4en01182a",
+      "urlToImage": null,
+      "publishedAt": "2025-01-08T00:00:00Z",
+      "content": "K. Adhikari, K. Sanguinet, C. Pearce and M. Flury,\r\n Environ. Sci.: Nano, 2025, Accepted Manuscript\r\n, DOI: 10.1039/D4EN01182A\r\nTo request permission to reproduce material from this article, please g… [+619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "New research reveals groundwater pathways across continent",
+      "description": "Researchers have created a simulation that maps underground water on a continental scale. The result of three years' work studying groundwater from coast to coast, the findings plot the unseen path that each raindrop or melted snowflake takes before reemergin…",
+      "url": "https://www.sciencedaily.com/releases/2025/01/250107161842.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-01-07T21:18:42Z",
+      "content": "Researchers from Princeton University and the University of Arizona have created a simulation that maps underground water on a continental scale. The result of three years' work studying groundwater … [+3310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Acm.org"
+      },
+      "author": "Jennifer A. Rode, Luis A. Castro, Varun Viswanath, Maria Concepcion Valdez Gastelum, Afra Mashhadi, Monica Tentori, Kristof Van Laerhoven, Nadir Weibel",
+      "title": "Justice, Equity, Diversity, and Inclusion at UbiComp/ISWC: Best Practices for Accessible and Equitable Computing Conferences",
+      "description": "Initiatives created for the 2023 UbiComp/ISWC conference illustrate what can and should be done to support the needs of a diverse, increasingly global computing community.",
+      "url": "http://cacm.acm.org/research/justice-equity-diversity-and-inclusion-at-ubicomp-iswc-best-practices-for-accessible-and-equitable-computing-conferences/",
+      "urlToImage": null,
+      "publishedAt": "2025-01-07T20:21:25Z",
+      "content": "ACM represents the global community of computing professionals, researchers, and educators. As such, the organization must be responsive to the needs of the field in an international context. Among A… [+45474 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -1196,58 +1248,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2556344/cheese-recall-listeria-contamination-abbey-foods.jpg",
       "publishedAt": "2025-01-04T03:53:39Z",
       "content": "A cheese product sold in five states has been recalled over concerns of potential contamination with Listeria monocytogenes, a dangerous bacteria.\r\nWhy It Matters\r\nConsuming food contaminated with Li… [+3703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Cheddar cheese recalled because of Listeria contamination",
-      "description": "Abbey Specialty Foods of Fairfield, NJ, is recalling Wicklow Gold Cheddar Nettle & Chive 5.2 oz product and Wicklow Gold Cheddar Tomato & Herb 5.2 oz product because they have the potential to be contaminated with Listeria monocytogenes. There is concern that…",
-      "url": "https://www.foodsafetynews.com/2025/01/cheddar-cheese-recalled-because-of-listeria-contamination/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/427/697/P0ev7XDZrzqyEvERzMjR9og8N/c441b6f5d07c0d4420855685c893597a8c84eb91.png",
-      "publishedAt": "2025-01-04T03:45:54Z",
-      "content": "Abbey Specialty Foods of Fairfield, NJ, is recalling Wicklow Gold Cheddar Nettle &amp; Chive 5.2 oz product and Wicklow Gold Cheddar Tomato &amp; Herb 5.2 oz product because they have the potential t… [+3043 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "oregonlive.com",
-      "title": "FDA issues recall warning for some batches of broccoli, oysters, sold in Oregon",
-      "description": "The U.S. Food and Drug Administration has issued recall warnings for oysters and frozen broccoli distributed in Oregon due to contamination concerns.\nA batch of frozen broccoli from Braga Fresh — commonly sold under the name “Marketside Broccoli Florets” in W…",
-      "url": "https://biztoc.com/x/6a2a98355846e249",
-      "urlToImage": "https://biztoc.com/cdn/6a2a98355846e249_s.webp",
-      "publishedAt": "2025-01-04T01:56:15Z",
-      "content": "The U.S. Food and Drug Administration has issued recall warnings for oysters and frozen broccoli distributed in Oregon due to contamination concerns.A batch of frozen broccoli from Braga Fresh common… [+149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "thestreet.com",
-      "title": "Walmart issues major recall in 20 states over concerning food contamination",
-      "description": "Various well-known restaurant chains and food brands have recently announced recalls of multiple food items, some of which are fan favorites. \nJust this past October, McDonald's announced a recall of its Quarter Pounder burgers due to concerns of an E. coli o…",
-      "url": "https://biztoc.com/x/554f9ea85ef3407e",
-      "urlToImage": "https://biztoc.com/cdn/554f9ea85ef3407e_s.webp",
-      "publishedAt": "2025-01-04T01:12:11Z",
-      "content": "Various well-known restaurant chains and food brands have recently announced recalls of multiple food items, some of which are fan favorites. Just this past October, McDonald's announced a recall of … [+139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Blue Ridge Beef Recalls Blue Ridge Beef Kitten Mix Due to Salmonella Contamination",
-      "description": "STATESVILLE, NC - January 3, 2025- Blue Ridge Beef is recalling 1,350 lbs. of their 2 1b log Kitten Mix Lot N25-0716 UPC 8542980013436 due to a contamination of Salmonella. (Lot numbers are stamped in the clips on the end of the chubs/bags).",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-recalls-blue-ridge-beef-kitten-mix-due-salmonella-contamination",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-04T00:52:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 03, 2025\r\nFDA Publish Date:\r\nJanuary 03, 2025\r\nProduct Type:\r\nAnimal &amp; Veterinary Pet Food\r\nReason for Announcement:\r\nRecall Reason Description\r\nPoten… [+2949 chars]"
     }
   ],
   "totalResults": 96,
