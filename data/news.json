@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-10T01:45:26.029Z",
+  "lastUpdated": "2025-01-10T06:30:44.663Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "BIG WIN for FOOD FREEDOM: Amish farmerâs raw milk case sparks national debate",
+      "description": "The Commonwealth Court of Pennsylvania ruled that Amish farmers Amos and Rebecca Miller can continue selling raw milk products out-of-state while their lawsuit proceeds, reigniting debates over food freedom, individual rights and government regulation. The Mi…",
+      "url": "https://www.naturalnews.com/2025-01-09-amish-farmer-raw-milk-case-sparks-debate.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Raw-Milk-Glass-Pitcher-Outside-Mountain.jpg",
+      "publishedAt": "2025-01-09T06:00:00Z",
+      "content": "<ul><li>The Commonwealth Court of Pennsylvania ruled that Amish farmers Amos and Rebecca Miller can continue selling raw milk products out-of-state while their lawsuit proceeds, reigniting debates ov… [+6967 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Aila Slisco",
+      "title": "Wegmans Sorbet Recall Over Undeclared Egg Allergen",
+      "description": "Eggs are considered one of the nine \"major food allergens\" by the U.S. Food and Drug Administration.",
+      "url": "https://www.newsweek.com/wegmans-sorbet-recall-over-undeclared-egg-allergen-2012104",
+      "urlToImage": "https://d.newsweek.com/en/full/2560153/mochi-sorbet-recall-wegmans-food-allergies.jpg",
+      "publishedAt": "2025-01-09T03:51:53Z",
+      "content": "Northeastern supermarket chain Wegmans is warning consumers with egg allergies against consuming a mochi-covered sorbet dessert that was recalled due to a mislabeling issue.\r\nWhy It Matters\r\nConsumin… [+3612 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -636,7 +662,7 @@
       "url": "https://www.haaretz.com/archaeology/2025-01-06/ty-article/prehistoric-carb-cravings-archaeologists-find-780-000-year-old-proof-of-plant-processing/00000194-3b44-d96e-a1d6-3bec9de20000",
       "urlToImage": "https://img.haarets.co.il/bs/00000194-3b44-d96e-a1d6-3bec9d300000/ec/29/848593a54f07820ae3e1bca15bf1/59966095.JPG?precrop=5568,3237,x0,y475&height=630&width=1200",
       "publishedAt": "2025-01-06T21:15:49Z",
-      "content": "Microscopic starch granules embedded in prehistoric tools at least 780,000 years ago carry evidence of the earliest known processing of plants, showing that our hominin ancestors were not as meat-cen… [+7764 chars]"
+      "content": "Microscopic starch granules embedded in prehistoric tools at least 780,000 years ago carry evidence of the earliest known processing of plants, showing that our hominin ancestors were not as meat-cen�� [+7764 chars]"
     },
     {
       "source": {
@@ -1222,32 +1248,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/677a4de967d4141019510697/0x0.jpg?format=jpg&crop=899,673,x0,y365,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-01-05T11:17:11Z",
       "content": "Islam Maher Abu Sakran\r\nIslam Maher Abu Sakran\r\nI am writing this to you with tears in my eyes, says Islam Maher Abu Sakran, his WhatsApp message punctuated by two broken heart emojis.\r\nAnimals have … [+10624 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 27",
-      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. 7-Zip Zero-Day Exploit Dropped: A New Playground for Infostealer & Supply Chain Attacks   Quasar RAT Disguised as an npm Pac…",
-      "url": "https://securityaffairs.com/172685/malware/security-affairs-malware-newsletter-round-27.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "publishedAt": "2025-01-05T10:36:18Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 27\r\n | Security Affairs newsletter Round 505 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Malicious npm packages target Ethereum developers\r\n | US Treasur… [+128618 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 505 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Malicious npm …",
-      "url": "https://securityaffairs.com/172679/breaking-news/security-affairs-newsletter-round-505-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-01-05T10:18:33Z",
-      "content": "Security Affairs newsletter Round 505 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Malicious npm packages target Ethereum developers\r\n | US Treasury Department sanctioned Chinese cybersecurity fir… [+128569 chars]"
     }
   ],
   "totalResults": 96,
