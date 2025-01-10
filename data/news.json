@@ -1,6 +1,201 @@
 {
-  "lastUpdated": "2025-01-10T12:42:32.772Z",
+  "lastUpdated": "2025-01-10T18:29:35.056Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Pizza Recall Update As FDA Sets Risk Level Over Plastic Contamination",
+      "description": "A frozen pizza product that was recalled across three states has been issued a \"Class II\" risk level by the U.S. Food and Drug Administration (FDA).\nThe \"Connie's Thin Crust Cheese Pizza\" product was voluntarily recalled on December 13 last year by the Wiscon…",
+      "url": "https://biztoc.com/x/3abe208b6e25dcf1",
+      "urlToImage": "https://biztoc.com/cdn/3abe208b6e25dcf1_s.webp",
+      "publishedAt": "2025-01-09T17:31:58Z",
+      "content": "A frozen pizza product that was recalled across three states has been issued a \"Class II\" risk level by the U.S. Food and Drug Administration (FDA).The \"Connie's Thin Crust Cheese Pizza\" product was … [+140 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jess Thomson",
+      "title": "Pizza Recall Update As FDA Sets Risk Level Over Plastic Contamination",
+      "description": "The recalled \"Connie's Thin Crust Cheese Pizza\" was issued a Class II risk level by the FDA, the second-most severe risk level.",
+      "url": "https://www.newsweek.com/fda-recall-pizza-plastic-contamination-class-ii-2012446",
+      "urlToImage": "https://d.newsweek.com/en/full/2560666/pizza-recall.jpg",
+      "publishedAt": "2025-01-09T17:22:44Z",
+      "content": "A frozen pizza product that was recalled across three states has been issued a \"Class II\" risk level by the U.S. Food and Drug Administration (FDA).\r\nThe \"Connie's Thin Crust Cheese Pizza\" product wa… [+2645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Cornbread Mix Recall As FDA Sets Highest Risk Warning",
+      "description": "Recalled bags of cornflour mix have been classified by the U.S. Food and Drug Administration (FDA) after they were found to contain an undeclared allergen.\nWhy It Matters\nUndeclared allergens in food items can cause serious and sometimes fatal allergic reacti…",
+      "url": "https://biztoc.com/x/4750f2353d18a37f",
+      "urlToImage": "https://biztoc.com/cdn/4750f2353d18a37f_s.webp",
+      "publishedAt": "2025-01-09T17:10:03Z",
+      "content": "Recalled bags of cornflour mix have been classified by the U.S. Food and Drug Administration (FDA) after they were found to contain an undeclared allergen.Why It MattersUndeclared allergens in food i… [+141 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Aliss Higham",
+      "title": "Cornbread Mix Recall As FDA Sets Highest Risk Warning",
+      "description": "The product, by Texas-based C.H. Guenther & Son, was found to contain undeclared egg, which is a major allergen.",
+      "url": "https://www.newsweek.com/cornbread-mix-recall-fda-sets-highest-risk-warning-2012386",
+      "urlToImage": "https://d.newsweek.com/en/full/2560692/cornbread.jpg",
+      "publishedAt": "2025-01-09T17:06:42Z",
+      "content": "Recalled bags of cornflour mix have been classified by the U.S. Food and Drug Administration (FDA) after they were found to contain an undeclared allergen.\r\nWhy It Matters\r\nUndeclared allergens in fo… [+3030 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "Are you consuming microplastics through fish or seafood? Here’s what we know",
+      "description": "New research reveals significant microplastic contamination in commonly consumed seafood, including finfish and crustaceans. Portland State University scientists discovered these particles in six species important to Oregon, stressing the need for strategies …",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/are-you-consuming-microplastics-through-fish-or-seafood-heres-what-we-know/articleshow/117092896.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117092903,width-1070,height-580,imgsize-31218,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-09T16:37:07Z",
+      "content": "Microplastics can enter the food chain when plastic objects degrade and break into smaller fragments. They can also contaminate the food chain indirectly when harmful chemicals leach from the fragmen… [+682 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T12:03:53Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Ukrainian Cyber Alliance destroyed the connectivity of Russian ISP Nodex",
+      "description": "A group of hacktivists, known as the Ukrainian Cyber Alliance, breached Russian ISP Nodex, stole sensitive documents, and wiped systems. Ukrainian Cyber Alliance hacked Russian ISP Nodex, stole sensitive data, and wiped systems, highlighting their cyberattack…",
+      "url": "https://securityaffairs.com/172864/hacktivism/ukrainian-cyber-alliance-destroyed-russian-isp-nodex.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-13.png",
+      "publishedAt": "2025-01-09T15:07:44Z",
+      "content": "U.S. CISA adds Ivanti Connect Secure, Policy Secure, and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog\r\n | SOC Scalability: How AI Supports Growth Without Overloading Analysts\r\n | … [+129575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Mark Moore",
+      "title": "Health Alert Issued Over Empanadas Sold At Walmart",
+      "description": "The product may contain Apple Cinnamon Empanadas that have milk, an allergen not declared on the label.",
+      "url": "https://www.ibtimes.com/walmart-chicken-empanadas-health-alert-3758490",
+      "urlToImage": "https://d.ibtimes.com/en/full/4574069/chicken-curry-empanads.png",
+      "publishedAt": "2025-01-09T15:06:02Z",
+      "content": "A public health alert has been issued over frozen empanadas sold at Walmart because they were misbranded and contained an \"undeclared allergen.\"\r\nU.S. Department of Agriculture's Food Safety and Insp… [+1197 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sandee Lamotte",
+      "title": "Lead and cadmium found in muscle-building protein powders, report says | CNN",
+      "description": "Protein powders may contain high levels of lead and cadmium, with chocolate-flavored and plant-based products testing at the highest levels, a new report said.",
+      "url": "https://www.cnn.com/2025/01/09/health/protein-powder-heavy-metals-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1474756989.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-09T14:19:18Z",
+      "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nOver-the-counter protein pow… [+5849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Erika Kroll, Carlos Bayon, Jason Rudd, Victoria J. Armer, Anjana Magaji-Umashankar, Ryan Ames, Martin Urban, Neil A. Brown, Kim Hammond-Kosack",
+      "title": "A conserved fungal Knr4/Smi1 protein is crucial for maintaining cell wall stress tolerance and host plant pathogenesis",
+      "description": "Author summary Filamentous fungi, including Fusarium graminearum and Zymoseptoria tritici, pose serious threats to global food security by causing devastating diseases in cereal crops, including wheat, a key staple food. With growing challenges in control due…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012769",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012769.g009&size=inline",
+      "publishedAt": "2025-01-09T14:00:00Z",
+      "content": "Abstract\r\nFilamentous plant pathogenic fungi pose significant threats to global food security, particularly through diseases like Fusarium Head Blight (FHB) and Septoria Tritici Blotch (STB) which af… [+109660 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sara Formichetti, Agnieszka Sadowska, Michela Ascolani, Julia Hansen, Kerstin Ganter, Christophe Lancrin, Neil Humphreys, Mathieu Boulard",
+      "title": "Genetic gradual reduction of OGT activity unveils the essential role of O-GlcNAc in the mouse embryo",
+      "description": "Author summary Posttranslational modifications of proteins enable cells to rapidly adapt to changes in their environment. Here, we investigated the role of the modification of intracellular proteins by a sugar molecule in the mouse embryo. The O-GlcNAc transf…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011507",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011507.g004&size=inline",
+      "publishedAt": "2025-01-09T14:00:00Z",
+      "content": "Introduction\r\nOver five thousand of nuclear and cytoplasmic proteins are reversibly modified at specific serine and threonine hydroxyls by the covalent linkage of the monosaccharide O-linked--N-acety… [+103560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Camilo C. Castro-Jiménez, Julio C. Saldarriaga-Molina, Edwin F. García, Ricardo A. Torres-Palma, Nancy Acelas",
+      "title": "Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and isotherms studies",
+      "description": "In this study, we utilized drinking water treatment sludge (WTS) to produce adsorbents through the drying and calcination process. These adsorbents were then evaluated for their ability to remove azithromycin (AZT) from aqueous solutions. The L-500 adsorbent,…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316487",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316487.g012&size=inline",
+      "publishedAt": "2025-01-09T14:00:00Z",
+      "content": "Citation: Castro-Jiménez CC, Saldarriaga-Molina JC, García EF, Torres-Palma RA, Acelas N (2025) Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and… [+35937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sunday Charles Adeyemo, Gbadebo Jimoh Oyedeji, James Atolagbe, Oladunni Opeyemi, Sunday Olanrewaju, Calistus Akinleye, Funso Olagunju, Eniola Dorcas Olabode, Abdulwaris Salisu Maleka",
+      "title": "Effect of health education in the control of schistosomiasis in Dass Emirate Council of Bauchi State, Nigeria: An intervention study",
+      "description": "Author summary Schistosomiasis is a major public health concern in many tropical and subtropical regions, affecting millions worldwide. When human come in contact with the larvae of the parasitic trematode called Schistosoma through contaminated fresh water, …",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012358",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012358.g003&size=inline",
+      "publishedAt": "2025-01-09T14:00:00Z",
+      "content": "Abstract\r\nObjective\r\nSchistosomiasis has been recognized by WHO as a major contributor to mortality and morbidity, particularly in Sub-Sahara Africa, where it is most prevalent. There is a lack of re… [+28896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Lori V. Coren, Matthew T. Trivett, Jorden L. Welker, James A. Thomas, Robert J. Gorelick, Emek Kose, Taina T. Immonen, Kelli Czarra, Christine M. Fennessey, Charles M. Trubey, Jeffrey D. Lifson, Adrienne E. Swanstrom",
+      "title": "Modifications to rhesus macaque TCR constant regions improve TCR cell surface expression",
+      "description": "T cell immunotherapy success is dependent on effective levels of antigen receptor expressed at the surface of engineered cells. Efforts to optimize surface expression in T cell receptor (TCR)-based therapeutic approaches include optimization of cellular engin…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314751",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0314751.g005&size=inline",
+      "publishedAt": "2025-01-09T14:00:00Z",
+      "content": "Citation: Coren LV, Trivett MT, Welker JL, Thomas JA, Gorelick RJ, Kose E, et al. (2025) Modifications to rhesus macaque TCR constant regions improve TCR cell surface expression. PLoS ONE 20(1):\r\n e0… [+48873 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Biosphere zaps germs with UV light to make biomanufacturing cheaper",
+      "description": "Using LEDs has the potential to bring down the cost of biomanufacturing, allowing such processes to make materials that previously would have been too expensive.",
+      "url": "https://techcrunch.com/2025/01/09/biosphere-zaps-germs-with-uv-light-to-make-biomanufacturing-cheaper/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/biosphere-bioreactors.jpg?resize=1200,720",
+      "publishedAt": "2025-01-09T13:02:24Z",
+      "content": "Ask any scientist that has worked with cell cultures in a lab: contamination is high on their list of fears. Even one stray bacterium or fungal spore can spoil an entire experiment.\r\nNow imagine scal… [+2963 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -82,23 +277,10 @@
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-06T04:55:49Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Naturalnews.com"
       },
       "author": "Willow Tohi",
-      "title": "BIG WIN for FOOD FREEDOM: Amish farmerâ��s raw milk case sparks national debate",
+      "title": "BIG WIN for FOOD FREEDOM: Amish farmerâs raw milk case sparks national debate",
       "description": "The Commonwealth Court of Pennsylvania ruled that Amish farmers Amos and Rebecca Miller can continue selling raw milk products out-of-state while their lawsuit proceeds, reigniting debates over food freedom, individual rights and government regulation. The Mi…",
       "url": "https://www.naturalnews.com/2025-01-09-amish-farmer-raw-milk-case-sparks-debate.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Raw-Milk-Glass-Pitcher-Outside-Mountain.jpg",
@@ -138,7 +320,7 @@
       },
       "author": "USDA Food Safety and Inspection Service",
       "title": "FSIS Public Health Alert 1-8-2025 Undeclared Allergen",
-      "description": "WASHINGTON D.C., Jan.  08, 2025  (GLOBE NEWSWIRE) --                                                                              Public Health Alert  ......",
+      "description": "WASHINGTON D.C., Jan.  08, 2025  (GLOBE NEWSWIRE) --                                                   ��                          Public Health Alert  ......",
       "url": "https://www.globenewswire.com/news-release/2025/01/09/3006766/21277/en/FSIS-Public-Health-Alert-1-8-2025-Undeclared-Allergen.html",
       "urlToImage": null,
       "publishedAt": "2025-01-09T01:12:00Z",
@@ -1066,188 +1248,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2555918/microplastics.jpg",
       "publishedAt": "2025-01-06T10:00:01Z",
       "content": "Microplastics, tiny plastic fragments less than five millimeters in diameter, have infiltrated nearly every corner of modern life. From the air we breathe to the water we drink and the food we consum… [+6341 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "China-linked Salt Typhoon APT compromised more US telecoms than previously known",
-      "description": "China-linked Salt Typhoon group that breached multiple US telecoms compromised more firms than previously known, WSJ says. The China-linked cyberespionage group Salt Typhoon targeted more US telecoms than previously known, as The Wall Street Journal reported.…",
-      "url": "https://securityaffairs.com/172724/intelligence/china-linked-salt-typhoon-breached-multiple-us.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
-      "publishedAt": "2025-01-06T09:32:01Z",
-      "content": "China-linked Salt Typhoon APT compromised more US telecoms than previously known\r\n | PLAYFULGHOST backdoor supports multiple information stealing features\r\n | Nuclei flaw allows signature bypass and … [+128836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "What is non porous surface?",
-      "description": "What is Non-Porous Surface? A non-porous surface is a type of material that does not allow liquids or gases to […]\nThe post What is non porous surface? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/what-is-non-porous-surface/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-06T09:21:00Z",
-      "content": "What is Non-Porous Surface?\r\nA non-porous surface is a type of material that does not allow liquids or gases to penetrate or pass through it. This property is often referred to as \"non-porous\" or \"no… [+6279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marlerblog.com"
-      },
-      "author": "Bill Marler",
-      "title": "FDA has traced back, inspected and is sampling product linked to Listeria Outbreak",
-      "description": "Perhaps, more information will be forthcoming this week. FDA Traceback Initiated: Used to identify the source and distribution of the implicated food and remove the contaminated product from the marketplace, to distinguish between two or more implicated food …",
-      "url": "https://www.marlerblog.com/case-news/fda-has-traced-back-inspected-and-is-sampling-product-linked-to-listeria-outbreak/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/531/306/kW7yv9eBdzpm1VVy6NLRwa5Px/791bd07f036be28278067c6415f391e6f9278fc6.png",
-      "publishedAt": "2025-01-06T07:23:36Z",
-      "content": "Perhaps, more information will be forthcoming this week.\r\nFDA Traceback Initiated: Used to identify the source and distribution of the implicated food and remove the contaminated product from the mar… [+1148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "myfox28columbus.com",
-      "title": "2 types of cheese recalled due to possible listeria contamination",
-      "description": "Two types of cheese sold in Ohio were recalled due to potential listeria contamination.\nThe U.S. Food and Drug Administration announced on Jan. 3 that two variants of cheddar from Wicklow Gold, distributed by Abbey Specialty Foods, were recalled due to possib…",
-      "url": "https://biztoc.com/x/df9885363c1ba6d3",
-      "urlToImage": "https://biztoc.com/cdn/df9885363c1ba6d3_s.webp",
-      "publishedAt": "2025-01-06T06:44:37Z",
-      "content": "Two types of cheese sold in Ohio were recalled due to potential listeria contamination.The U.S. Food and Drug Administration announced on Jan. 3 that two variants of cheddar from Wicklow Gold, distri… [+156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Coral Beach",
-      "title": "Foodborne illness outbreaks overlap from 2024 into 2025",
-      "description": "As 2025 begins, the Food and Drug Administration and Centers for Disease Control and Prevention continue to investigate outbreaks of foodborne illnesses that started in 2024. Overall, the Centers for Disease Control and Prevention posted information in 2024 o…",
-      "url": "https://www.foodsafetynews.com/2025/01/foodborne-illness-outbreaks-overlap-from-2024-into-2025/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/524/306/kW7yv9eBdzpm12ZJ6NLRwa5Px/5ee3673ca61ca33eb59f714c0ca367fc75048ae3.png",
-      "publishedAt": "2025-01-06T05:05:00Z",
-      "content": "As 2025 begins, the Food and Drug Administration and Centers for Disease Control and Prevention continue to investigate outbreaks of foodborne illnesses that started in 2024.\r\nOverall, the Centers fo… [+8218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Carrier in Belgian pork tapeworm case ate meat abroad",
-      "description": "A rare illness in Belgium that affected nine people was likely spread after the initial patient ate pork while abroad several years earlier. Human cysticercosis results from ingesting Taenia solium eggs shed by a tapeworm carrier, forming cystic larvae in tis…",
-      "url": "https://www.foodsafetynews.com/2025/01/carrier-in-belgian-pork-tapeworm-case-ate-meat-abroad/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/523/897/P0ev7XDZrzqyN5gdzMjR9og8N/11961499cdc563a0e7070bcfc06fb7ed547822b2.png",
-      "publishedAt": "2025-01-06T05:02:00Z",
-      "content": "A rare illness in Belgium that affected nine people was likely spread after the initial patient ate pork while abroad several years earlier.\r\nHuman cysticercosis results from ingesting Taenia solium … [+3913 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Chuck Jolley",
-      "title": "Were recalls really up in 2024?",
-      "description": "From milk to meat to vegetables, food recalls surged in 2024. Food safety experts suggest consumer demand for convenience could be part of the problem. Convenience brings risk. The additional handling steps required to bring those further prepared foods to th…",
-      "url": "https://www.foodsafetynews.com/?p=246123",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/523/884/5R7NlW8nEzjkA2gk6mvbxgLyP/fbd4a4678eb17cf12aaa94b45b4e7238b313d924.png",
-      "publishedAt": "2025-01-06T05:01:00Z",
-      "content": "From milk to meat to vegetables, food recalls surged in 2024.\r\nFood safety experts suggest consumer demand for convenience could be part of the problem. Convenience brings risk. The additional handli… [+7992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "PLAYFULGHOST backdoor supports multiple information stealing features",
-      "description": "PLAYFULGHOST is a new malware family with capabilities including keylogging, screen and audio capture, remote shell access, and file transfer/execution. Google researchers analyzed a new malware family called PLAYFULGHOST that supports multiple features, incl…",
-      "url": "https://securityaffairs.com/172707/malware/playfulghost-backdoor-capabilities.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-7.png",
-      "publishedAt": "2025-01-06T00:30:38Z",
-      "content": "PLAYFULGHOST backdoor supports multiple information stealing features\r\n | Nuclei flaw allows signature bypass and code execution\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 27\r\n | Security Affairs … [+128751 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Staghorn Kidney Stones — What They Are and How to Avoid Them",
-      "description": "Kidney stones are solid mineral and salt deposits that form in the kidneys, causing intense pain and discomfort. Each year, over half a million people visit emergency rooms due to kidney stone issues. According to the National Kidney Foundation,1 1 in 10 peop…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/01/06/staghorn-kidney-stones.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/January/FB/staghorn-kidney-stones-fb.jpg",
-      "publishedAt": "2025-01-06T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Amy Furr, Amy Furr",
-      "title": "Costco Brand Cold and Flu Medicine Recalled Due to 'Potential Foreign Material Contamination'",
-      "description": "A medicine being pulled from shelves at Costco is the subject of a recall that was launched due to a potential foreign material contamination.\nThe post Costco Brand Cold and Flu Medicine Recalled Due to ‘Potential Foreign Material Contamination’ appeared firs…",
-      "url": "https://www.breitbart.com/health/2025/01/05/costco-brand-cold-and-flu-medicine-recalled-due-to-potential-foreign-material-contamination/",
-      "urlToImage": "https://media.breitbart.com/media/2025/01/GettyImages-1243455818-640x335.jpg",
-      "publishedAt": "2025-01-05T21:54:36Z",
-      "content": "A medicine being pulled from shelves at Costco is the subject of a recall that was launched due to a potential foreign material contamination.\r\nThe recall involves the medicine called Kirkland Signat… [+1955 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox Business",
-      "title": "Costco cold remedy recalled due to possible ‘contamination’",
-      "description": "Costco over-the-counter cold and flu medicine impacted for second time in less than a month.",
-      "url": "https://nypost.com/2025/01/05/business/costco-cold-remedy-recalled-due-to-possible-contamination/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/96268057.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-01-05T21:38:03Z",
-      "content": "A Costco-brand cold and flu medicine has been pulled from shelves “due to potential foreign material contamination.”\r\nA notice shared on the retail giant’s website says the recall of Kirkland Signatu… [+1997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "fsis.usda.gov",
-      "title": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contamination",
-      "description": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contamination\nFSIS Announcement\nWASHINGTON, Jan. 5, 2025 – The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) is issuing a public h…",
-      "url": "https://biztoc.com/x/f20edcb6cc7a96fd",
-      "urlToImage": "https://biztoc.com/cdn/808/og.png",
-      "publishedAt": "2025-01-05T21:31:36Z",
-      "content": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter ContaminationFSIS AnnouncementWASHINGTON, Jan. 5, 2025 The U.S. Department of Agricultures Food Saf… [+148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Usda.gov"
-      },
-      "author": null,
-      "title": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contamination",
-      "description": "FSIS Issues Public Health Alert for Frozen, Raw Ground Beef Products Due to Possible Foreign Matter Contaminationusda.gov",
-      "url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-frozen-raw-ground-beef-products-due-possible-foreign",
-      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
-      "publishedAt": "2025-01-05T21:06:57Z",
-      "content": "WASHINGTON, Jan. 5, 2025 The U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) is issuing a public health alert due to concerns of frozen, raw ground beef products that may be… [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Shiv Sudhakar",
-      "title": "Ozempic ‘microdosing’ is the new weight-loss trend: Should you try it?",
-      "description": "A new trend gaining popularity among people trying to lose weight is microdosing the diabetes medication Ozempic. Experts weigh the pros and cons of the practice.",
-      "url": "https://www.foxnews.com/health/ozempic-microdosing-new-weight-loss-trend-should-you-try-it",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/ozempic-pen.jpg",
-      "publishedAt": "2025-01-05T19:27:06Z",
-      "content": "A new trend gaining popularity among people trying to lose weight is microdosing the diabetes medication Ozempic.\r\nWith approximately 70% of American adults meeting the criteria for being obese or ov… [+6527 chars]"
     }
   ],
   "totalResults": 96,
