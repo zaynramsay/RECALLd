@@ -1,13 +1,104 @@
 {
-  "lastUpdated": "2025-01-10T06:30:44.663Z",
+  "lastUpdated": "2025-01-10T12:42:32.772Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Themarthablog.com"
+      },
+      "author": "Martha Stewart",
+      "title": "A Medical Scare for One of the Friesians in My Stable",
+      "description": "If you've ever shared your home with an animal, large or small, you know just how vital it is to closely monitor their health and behavior. I currently have 10 equine residents in my stable - four Friesians, a Fell pony, and five donkeys. Last month, I got a …",
+      "url": "https://www.themarthablog.com/2025/01/a-medical-scare-for-one-of-the-friesians-in-my-stable.html",
+      "urlToImage": null,
+      "publishedAt": "2025-01-09T12:23:51Z",
+      "content": "If you've ever shared your home with an animal, large or small, you know just how vital it is to closely monitor their health and behavior.\r\nI currently have 10 equine residents in my stable - four F… [+5749 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Ivanti Connect Secure, Policy Secure, and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Connect Secure, Policy Secure, and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Ivanti Conn…",
+      "url": "https://securityaffairs.com/172857/hacking/u-s-cisa-adds-ivanti-connect-secure-policy-secure-and-zta-gateways-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-01-09T11:53:39Z",
+      "content": "U.S. CISA adds Ivanti Connect Secure, Policy Secure, and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog\r\n | SOC Scalability: How AI Supports Growth Without Overloading Analysts\r\n | … [+129575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fast Company"
+      },
+      "author": "The Conversation",
+      "title": "Research shows corporate-owned franchises outperform family-owned in food safety",
+      "description": "Imagine going on a road trip and passing several seemingly identical McDonald’s restaurants. Despite their uniform appearance, their ownership may vary widely: One might be run by a family, another by an individual entrepreneur, and others owned directly by t…",
+      "url": "https://www.fastcompany.com/91257029/franchises-corporate-family-owned-food-health-safety-research",
+      "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/01/p-1-91257029-who-owns-that-restaurant.jpg",
+      "publishedAt": "2025-01-09T10:30:00Z",
+      "content": "Imagine going on a road trip and passing several seemingly identical McDonalds restaurants. Despite their uniform appearance, their ownership may vary widely: One might be run by a family, another by… [+4270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SOC Scalability: How AI Supports Growth Without Overloading Analysts",
+      "description": "Scaling up a security operations center (SOC) is inevitable for many organizations. How AI supports growth without overloading analysts. Scaling up a security operations center (SOC) is inevitable for many organizations. Although it might sting, keeping pace …",
+      "url": "https://securityaffairs.com/172831/security/scaling-up-a-security-operations-center-soc.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/05/soc-Security-Operations-Center.png",
+      "publishedAt": "2025-01-09T10:11:41Z",
+      "content": "SOC Scalability: How AI Supports Growth Without Overloading Analysts\r\n | SonicWall warns of an exploitable SonicOS vulnerability\r\n | Gayfemboy Botnet targets Four-Faith router vulnerability\r\n | Meta … [+129449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Andrew Watman, Contributor, \n Andrew Watman, Contributor\n https://www.forbes.com/sites/andrewwatman/",
+      "title": "CES 2025: Best Of Agritech And AI In Sustainable Farming",
+      "description": "CES 2025 unveiled a slew of agritech innovations like AI and automation to sustainable farming",
+      "url": "https://www.forbes.com/sites/andrewwatman/2025/01/09/ces-2025-best-of-agritech-and-ai-in-sustainable-farming/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/677f8a9fd5ebd1874ac1eefa/0x0.jpg?format=jpg&crop=1353,762,x0,y114,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-01-09T08:39:02Z",
+      "content": "Rowain AI-integrated vertical farming ecosystem\r\nphoto by author\r\nTheres an emerging wave in the approach to farming all around the world, and its very evident at CES 2025. Several companies are repr… [+9238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "Global Poly (N-vinyl formamide) market to Worth Over US$ 633.85 Million By 2033 | Astute Analytica",
+      "description": "Global demand spikes for PVFA in advanced filtration and paper sectors, while portable fridges expand through multifunctional power sources. Heightened environmental focus, novel production lines, and consistent consumer engagement drive these segments into i…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/09/3006827/0/en/Global-Poly-N-vinyl-formamide-market-to-Worth-Over-US-633-85-Million-By-2033-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2025-01-09T08:30:00Z",
+      "content": "New Delhi, Jan. 09, 2025 (GLOBE NEWSWIRE) -- The global Poly (N-vinyl formamide) market is projected to hit the market valuation of US$ 633.85 million by 2033 from US$ 397.89 million in 2024 at a CAG… [+15350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06T04:55:49Z",
+      "content": "[Removed]"
+    },
     {
       "source": {
         "id": null,
         "name": "Naturalnews.com"
       },
       "author": "Willow Tohi",
-      "title": "BIG WIN for FOOD FREEDOM: Amish farmerâs raw milk case sparks national debate",
+      "title": "BIG WIN for FOOD FREEDOM: Amish farmerâ��s raw milk case sparks national debate",
       "description": "The Commonwealth Court of Pennsylvania ruled that Amish farmers Amos and Rebecca Miller can continue selling raw milk products out-of-state while their lawsuit proceeds, reigniting debates over food freedom, individual rights and government regulation. The Mi…",
       "url": "https://www.naturalnews.com/2025-01-09-amish-farmer-raw-milk-case-sparks-debate.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Raw-Milk-Glass-Pitcher-Outside-Mountain.jpg",
@@ -130,19 +221,6 @@
       "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1736348195/wired_biomedical-scientist-answers-new-pseudoscience-questions.jpg",
       "publishedAt": "2025-01-08T17:00:00Z",
       "content": "Hyperbaric oxygen, dietary supplements, urine therapy,\r\nozone therapy, metal chelation.\r\nNone of these have evidence to support their use\r\nfor any ailment.\r\nI'm Dr. Andrea Love biomedical scientist.\r… [+34470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-05T12:23:00Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -662,7 +740,7 @@
       "url": "https://www.haaretz.com/archaeology/2025-01-06/ty-article/prehistoric-carb-cravings-archaeologists-find-780-000-year-old-proof-of-plant-processing/00000194-3b44-d96e-a1d6-3bec9de20000",
       "urlToImage": "https://img.haarets.co.il/bs/00000194-3b44-d96e-a1d6-3bec9d300000/ec/29/848593a54f07820ae3e1bca15bf1/59966095.JPG?precrop=5568,3237,x0,y475&height=630&width=1200",
       "publishedAt": "2025-01-06T21:15:49Z",
-      "content": "Microscopic starch granules embedded in prehistoric tools at least 780,000 years ago carry evidence of the earliest known processing of plants, showing that our hominin ancestors were not as meat-cen�� [+7764 chars]"
+      "content": "Microscopic starch granules embedded in prehistoric tools at least 780,000 years ago carry evidence of the earliest known processing of plants, showing that our hominin ancestors were not as meat-cen… [+7764 chars]"
     },
     {
       "source": {
@@ -1170,84 +1248,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/ozempic-pen.jpg",
       "publishedAt": "2025-01-05T19:27:06Z",
       "content": "A new trend gaining popularity among people trying to lose weight is microdosing the diabetes medication Ozempic.\r\nWith approximately 70% of American adults meeting the criteria for being obese or ov… [+6527 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Nuclei flaw allows signature bypass and code execution",
-      "description": "A vulnerability in Nuclei, an open-source vulnerability scanner, could allow attackers to bypass signature checks and execute malicious code. A high-severity security flaw, tracked as CVE-2024-43405 (CVSS score of 7.4), in the open-source vulnerability scanne…",
-      "url": "https://securityaffairs.com/172692/security/nuclei-flaw-execute-malicious-code.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-6.png",
-      "publishedAt": "2025-01-05T19:06:02Z",
-      "content": "Nuclei flaw allows signature bypass and code execution\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 27\r\n | Security Affairs newsletter Round 505 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Malic… [+128677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Military.com"
-      },
-      "author": "Grace Da Rocha",
-      "title": "Air Force Veteran Tells the Story of Hidden Health Risks at Nevada Test Site",
-      "description": "Dave Crete claims that veterans that worked at the Nevada Test and Training Range can't even prove they were there due to their classified work, which leaves them unable to get any federal support.",
-      "url": "https://www.military.com/daily-news/2025/01/05/air-force-veteran-tells-story-of-hidden-health-risks-nevada-test-site.html",
-      "urlToImage": "https://images01.military.com/sites/default/files/styles/full/public/2025-01/mil%20bombs%20strike%20a%20target%20on%20the%20Nevada%20Test%20and%20Training%20Range%201800%20.jpg",
-      "publishedAt": "2025-01-05T15:49:05Z",
-      "content": "Dave Crete was sitting around with some fellow Air Force veterans he worked with almost three decades prior on the Nevada Test and Training Range when they broached the topic of tumors.\r\nIt was an un… [+10545 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "author": "Nirave Gondhia",
-      "title": "Behind the scenes of a Royal Caribbean cruise as captured by the iPhone 16 Pro",
-      "description": "What does it look like behind the scenes of one of the world's biggest cruise ships? I found out and captured it all on my iPhone 16 Pro.",
-      "url": "https://www.digitaltrends.com/mobile/behind-the-scenes-of-royal-caribbean-cruise-captured-by-iphone-16-pro/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/12/behind-the-scenes-on-a-cruise-bridge-captain-tobias.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2025-01-05T14:30:26Z",
-      "content": "Table of Contents\r\nTable of Contents\r\nFeeding the 5,000+ passengers\r\nThe infamous I-95 corridor\r\nInto the engine control room\r\nUp to the bridge\r\nBitten by the cruising bug\r\nHave you ever been on a cr… [+7543 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ETF Daily News"
-      },
-      "author": "MarketBeat News",
-      "title": "Passage Bio (NASDAQ:PASG) and Qiagen (NYSE:QGEN) Critical Survey",
-      "description": "Qiagen (NYSE:QGEN – Get Free Report) and Passage Bio (NASDAQ:PASG – Get Free Report) are both medical companies, but which is the better stock? We will contrast the two companies based on the strength of their institutional ownership, risk, valuation, profita…",
-      "url": "https://www.etfdailynews.com/2025/01/05/passage-bio-nasdaqpasg-and-qiagen-nyseqgen-critical-survey/",
-      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/passage-bio-inc-logo-1200x675.png?v=20240611082534&w=240&h=240&zc=2",
-      "publishedAt": "2025-01-05T13:30:45Z",
-      "content": "Qiagen (NYSE:QGEN – Get Free Report) and Passage Bio (NASDAQ:PASG – Get Free Report) are both medical companies, but which is the better stock? We will contrast the two companies based on the strengt… [+5969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Colin Todhunter",
-      "title": "Power Play: The Future of Food",
-      "description": "It takes a book to break down the dynamics that are pushing agro-chemical agriculture to farmers and consumers around the world and to reveal the strength of the diverse organizations who stand in the way of these predatory forces.\nThe post Power Play: The Fu…",
-      "url": "https://www.globalresearch.ca/power-play-future-food/5872775",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/11/power-play-future-food-colin-todhunter.png",
-      "publishedAt": "2025-01-05T12:14:50Z",
-      "content": "Power Play\r\nThe Future of Food\r\nby\r\nColin Todhunter\r\nPower Play: The Future of Food © 2024 by Colin Todhunter is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internatio… [+210094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Daphne Ewing-Chow, Senior Contributor, \n Daphne Ewing-Chow, Senior Contributor\n https://www.forbes.com/sites/daphneewingchow/",
-      "title": "This Is The Human Face Of Acute Food Insecurity In Gaza",
-      "description": "A first person account of what it feels like to be a survivor of famine and ongoing acute food insecurity, by 20-year-old Islam Maher Abu Sakran, a resident of Gaza.",
-      "url": "https://www.forbes.com/sites/daphneewingchow/2025/01/05/this-is-the-human-face-of-acute-food-insecurity-in-gaza/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/677a4de967d4141019510697/0x0.jpg?format=jpg&crop=899,673,x0,y365,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-05T11:17:11Z",
-      "content": "Islam Maher Abu Sakran\r\nIslam Maher Abu Sakran\r\nI am writing this to you with tears in my eyes, says Islam Maher Abu Sakran, his WhatsApp message punctuated by two broken heart emojis.\r\nAnimals have … [+10624 chars]"
     }
   ],
   "totalResults": 96,
