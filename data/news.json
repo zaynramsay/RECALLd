@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-01-11T12:39:13.140Z",
+  "lastUpdated": "2025-01-11T18:27:07.479Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Broccoli Recall Over Metal Contamination Fears",
+      "description": "A whole grain breaded broccoli nugget product has been recalled due to fears that it may contain metal.\nThe Food and Drug Administration (FDA) issued a voluntary recall of 168 cases of Chow Ciao Whole Grain Breaded Broccoli Nuggets on December 10, which was i…",
+      "url": "https://biztoc.com/x/d608d88b6c70e933",
+      "urlToImage": "https://biztoc.com/cdn/d608d88b6c70e933_s.webp",
+      "publishedAt": "2025-01-10T16:23:29Z",
+      "content": "A whole grain breaded broccoli nugget product has been recalled due to fears that it may contain metal.The Food and Drug Administration (FDA) issued a voluntary recall of 168 cases of Chow Ciao Whole… [+142 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "US refuses to pay fees to global anti-doping agency",
+      "description": "The US has withheld its $3.6 million payment to WADA, demanding “reforms” and more transparency in its anti-doping assessments Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/610701-us-refuse-pay-anti-doping/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2025.01/article/6781484f2030272622028f6e.jpg",
+      "publishedAt": "2025-01-10T16:21:57Z",
+      "content": "The US has withheld its $3.6 million annual contribution to the World Anti-Doping Agency (WADA), several news agencies reported this week, citing the White House. Washington has accused the global an… [+1843 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Sophie Clark",
+      "title": "Broccoli Recall Over Metal Contamination Fears",
+      "description": "A breaded broccoli nugget product has been recalled by the FDA due to concerns about metal contamination.",
+      "url": "https://www.newsweek.com/broccoli-recall-over-metal-contamination-fears-fda-2013118",
+      "urlToImage": "https://d.newsweek.com/en/full/2561879/fda-brocolli-recall.jpg",
+      "publishedAt": "2025-01-10T16:13:03Z",
+      "content": "A whole grain breaded broccoli nugget product has been recalled due to fears that it may contain metal.\r\nThe Food and Drug Administration (FDA) issued a voluntary recall of 168 cases of Chow Ciao Who… [+2775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "FAZLEENA AZIZ",
+      "title": "Antibiotic, painkiller traces found in drinking water, study shows",
+      "description": "PETALING JAYA: Irresponsibly discarded antibiotics, steroids, hormones and painkillers, as well as high blood pressure, asthma, antibacterial, anti-inflammation and infection medications are making waves in our drinking water sources. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/11/antibiotic-painkiller-traces-found-in-drinking-water-study-shows",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/11/3112213.jpg",
+      "publishedAt": "2025-01-10T16:00:00Z",
+      "content": "PETALING JAYA: Irresponsibly discarded antibiotics, steroids, hormones and painkillers, as well as high blood pressure, asthma, antibacterial, anti-inflammation and infection medications are making w… [+2788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "PFAS Filtration Market is Poised to Reach Valuation of US$ 3,855.56 Million by 2033 | Astute Analytica",
+      "description": "Mounting research on PFAS toxicology drives expanding filtration options worldwide. Ion exchange, carbon media, and membrane technologies receive heightened investment. Ongoing pilot projects, disposal challenges, and sustainability commitments converge to sh…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/10/3007787/0/en/PFAS-Filtration-Market-is-Poised-to-Reach-Valuation-of-US-3-855-56-Million-by-2033-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2025-01-10T15:00:00Z",
+      "content": "New Delhi, Jan. 10, 2025 (GLOBE NEWSWIRE) -- The global PFAS filtration market is projected to hit the market valuation of US$ 3,855.56 million by 2033 from US$ 2,089.50 million in 2024 at a CAGR of … [+15774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bellingcat.com"
+      },
+      "author": "Agnes Cameron",
+      "title": "Seeing More With Satellite Imagery Using Band Combinations, Ratios and Indices",
+      "description": "This article, published as part of the Bellingcat Technical Writing Fellowship, is adapted from a more technically-detailed guide on Agnes Cameron’s blog. Satellite imagery has been used extensively in open-source investigative research: from monitoring globa…",
+      "url": "https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/",
+      "urlToImage": "https://www.bellingcat.com/app/uploads/2025/01/tayan_new-1200x743.png",
+      "publishedAt": "2025-01-10T15:00:00Z",
+      "content": "This article, published as part of the Bellingcat Technical Writing Fellowship, is adapted from a more technically-detailed guide on Agnes Camerons blog.\r\nSatellite imagery has been used extensively … [+17658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Researchers disclosed details of a now-patched Samsung zero-click flaw",
+      "description": "Researchers at Google Project Zero disclosed a now-patched zero-click vulnerability that affects Samsung devices. Google Project Zero researchers disclosed details about a now-patched zero-click vulnerability, tracked as CVE-2024-49415 (CVSS score: 8.1), in S…",
+      "url": "https://securityaffairs.com/172909/hacking/samsung-zero-click-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/09/Samsung-logo.jpg",
+      "publishedAt": "2025-01-10T14:45:46Z",
+      "content": "Researchers disclosed details of a now-patched Samsung zero-click flaw\r\n | Phishers abuse CrowdStrike brand targeting job seekers with cryptominer\r\n | China-linked APT group MirrorFace targets Japan\r… [+129844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jae-Won Park, Kiyun Park, Ihn-Sil Kwak",
+      "title": "First report of a major management target species, chironomid Paratanytarsus grimmii (Diptera: Chironomidae) larvae, in drinking water treatment plants (DWTPs) in South Korea",
+      "description": "Ensuring the supply of safe and high-quality drinking water can be compromised by the presence of chironomid larvae in drinking water treatment plants (DWTPs), which may contaminate municipal water systems through freshwater resources. Chironomids are dominan…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315390",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315390.g006&size=inline",
+      "publishedAt": "2025-01-10T14:00:00Z",
+      "content": "Abstract\r\nEnsuring the supply of safe and high-quality drinking water can be compromised by the presence of chironomid larvae in drinking water treatment plants (DWTPs), which may contaminate municip… [+31627 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -331,6 +435,19 @@
         "id": null,
         "name": "Plos.org"
       },
+      "author": "Sara Formichetti, Agnieszka Sadowska, Michela Ascolani, Julia Hansen, Kerstin Ganter, Christophe Lancrin, Neil Humphreys, Mathieu Boulard",
+      "title": "Genetic gradual reduction of OGT activity unveils the essential role of O-GlcNAc in the mouse embryo",
+      "description": "Author summary Posttranslational modifications of proteins enable cells to rapidly adapt to changes in their environment. Here, we investigated the role of the modification of intracellular proteins by a sugar molecule in the mouse embryo. The O-GlcNAc transf…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011507",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011507.g004&size=inline",
+      "publishedAt": "2025-01-09T14:00:00Z",
+      "content": "Introduction\r\nOver five thousand of nuclear and cytoplasmic proteins are reversibly modified at specific serine and threonine hydroxyls by the covalent linkage of the monosaccharide O-linked--N-acety… [+103560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
       "author": "Camilo C. Castro-Jiménez, Julio C. Saldarriaga-Molina, Edwin F. García, Ricardo A. Torres-Palma, Nancy Acelas",
       "title": "Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and isotherms studies",
       "description": "In this study, we utilized drinking water treatment sludge (WTS) to produce adsorbents through the drying and calcination process. These adsorbents were then evaluated for their ability to remove azithromycin (AZT) from aqueous solutions. The L-500 adsorbent,…",
@@ -351,19 +468,6 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012358.g003&size=inline",
       "publishedAt": "2025-01-09T14:00:00Z",
       "content": "Abstract\r\nObjective\r\nSchistosomiasis has been recognized by WHO as a major contributor to mortality and morbidity, particularly in Sub-Sahara Africa, where it is most prevalent. There is a lack of re… [+28896 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Sara Formichetti, Agnieszka Sadowska, Michela Ascolani, Julia Hansen, Kerstin Ganter, Christophe Lancrin, Neil Humphreys, Mathieu Boulard",
-      "title": "Genetic gradual reduction of OGT activity unveils the essential role of O-GlcNAc in the mouse embryo",
-      "description": "Author summary Posttranslational modifications of proteins enable cells to rapidly adapt to changes in their environment. Here, we investigated the role of the modification of intracellular proteins by a sugar molecule in the mouse embryo. The O-GlcNAc transf…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011507",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011507.g004&size=inline",
-      "publishedAt": "2025-01-09T14:00:00Z",
-      "content": "Introduction\r\nOver five thousand of nuclear and cytoplasmic proteins are reversibly modified at specific serine and threonine hydroxyls by the covalent linkage of the monosaccharide O-linked--N-acety… [+103560 chars]"
     },
     {
       "source": {
@@ -1144,125 +1248,8 @@
       "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/01/rome.jpg?w=2000",
       "publishedAt": "2025-01-06T20:10:36Z",
       "content": "The Industrial Revolution was undeniably a major turning point in history. Beginning in the late 1700s, human environmental impacts reached previously impossible new heights. Yet pollution wasnt inve… [+8320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eater"
-      },
-      "author": "Janna Karel",
-      "title": "The Health Department Closes a Wolfgang Puck Restaurant at MGM Grand",
-      "description": "Plus, a candy store closes and a popular bakery debuts in the southwest",
-      "url": "https://vegas.eater.com/2025/1/6/24337492/wolfgang-puck-restaurant-closed-health-department-mgm-grand-las-vegas-strip",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Cpw3XCOpCQhnMT4fWXFr4dgEqiY=/0x40:2000x1087/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/4267143/Wolfgang_Puck_Bar___Grill_DTS_1.0.jpg",
-      "publishedAt": "2025-01-06T19:28:12Z",
-      "content": "Wolfgang Puck Bar & Grill. | Jenna Dosch\r\n\n \n\n Plus, a candy store closes and a popular bakery debuts in the southwest Chef Wolfgang Puck’s restaurant at the MGM Grand, Wolfgang Puck Bar & Grill, was… [+2486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Kim Gloves Co., Ltd.",
-      "title": "Kim Gloves Announces Updates in the Global Rubber Glove Industry",
-      "description": "Kim Gloves focuses on hygiene, safety, and sustainability, providing innovative and reliable solutions for diverse industries worldwide. Kim Gloves focuses on hygiene, safety, and sustainability, providing innovative and reliable solutions for diverse industr…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/06/3004899/0/en/Kim-Gloves-Announces-Updates-in-the-Global-Rubber-Glove-Industry.html",
-      "urlToImage": null,
-      "publishedAt": "2025-01-06T18:03:00Z",
-      "content": "Bangkok, Thailand, Jan. 06, 2025 (GLOBE NEWSWIRE) -- Kim Gloves Co., Ltd., a manufacturer of latex and nitrile gloves, has announced new advancements in its rubber glove offerings. The company provid… [+3593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-sun.com"
-      },
-      "author": "the us sun",
-      "title": "Norovirus can spread via CLOTHES, scientists warn...",
-      "description": "NOROVIRUS can linger on your clothes for up to a month, an expert has warned. Other fabric-lined items like chairs, pillows, and curtains can also hold onto the norovirus bug. Cases of the winter v…",
-      "url": "https://www.the-sun.com/health/13228691/norovirus-spreads-via-clothes-expert-warns/",
-      "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/01/NINTCHDBPICT000961937001.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-      "publishedAt": "2025-01-06T18:00:03Z",
-      "content": "NOROVIRUS can linger on your clothes for up to a month, an expert has warned.\r\nOther fabric-lined items like chairs, pillows, and curtains can also hold onto the norovirus bug.\r\nNorovirus can linger … [+5585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Cat food recalled after animal illness and testing finds Salmonella",
-      "description": "Blue Ridge Beef is recalling 1,350 pounds of Kitten Mix because of Salmonella contamination. Due to a customer complaint of animal illness, a sample of the product was collected on Dec. 12, 2024 by the Massachusetts Department of Agriculture Resources and tes…",
-      "url": "https://www.foodsafetynews.com/2025/01/cat-food-recalled-after-animal-illness-and-testing-finds-salmonella/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/077/597/112/BjdZ0l7VAYAojmdx63Kn1DLqe/33776645de9318d8728dd99aaa2c2df17042fff9.png",
-      "publishedAt": "2025-01-06T17:42:59Z",
-      "content": "Blue Ridge Beef is recalling 1,350 pounds of Kitten Mix because of Salmonella contamination.\r\nDue to a customer complaint of animal illness, a sample of the product was collected on Dec. 12, 2024 by … [+2360 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Lydia Patrick",
-      "title": "Two 'High-Risk' Foods Experts Agree We Should Avoid Eating",
-      "description": "\"I will occasionally eat them, but they are a very very very high-risk food,\" woman says in her viral video.",
-      "url": "https://www.newsweek.com/food-scientist-shares-high-risk-foods-she-will-not-eat-2010313",
-      "urlToImage": "https://d.newsweek.com/en/full/2557400/food-scientist-hyroxide.png",
-      "publishedAt": "2025-01-06T17:17:35Z",
-      "content": "A woman sharing the two common food items she avoids, warning viewers they \"will not like her advice,\" has gone viral, attracting 6.7 million views on TikTok\r\nThe woman, who uses the social media tag… [+4036 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Oklahoman.com"
-      },
-      "author": "Josh Kelly, The Oklahoman",
-      "title": "Broccoli, Chocolate bars, more: What's been recalled by the FDA in January 2025 so far",
-      "description": "The FDA receives reports from food companies almost daily regarding potential allergens or foodborne illnesses. Here's a look at January 2025 so far.",
-      "url": "https://www.oklahoman.com/story/lifestyle/food/2025/01/06/recent-food-recalls-heres-what-fda-has-recalled-in-january-so-far/77483771007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8bE58JNu6KZ1Ut4DfDL_ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNDUy/https://media.zenfs.com/en/the-oklahoman/0cde00f170b3f07fbebdb71ce727f95e",
-      "publishedAt": "2025-01-06T16:03:24Z",
-      "content": "So far, only a few items have been recalled by the Food and Drug Administration since the start of 2025, including one on cat food mix that is not linked to avian flu bacteria and another involving c… [+2730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Francisco Velasquez",
-      "title": "Chick-fil-A made a 'slight' change to its waffle fry recipe — and fans are furious",
-      "description": "Chick-fil-A recently made a subtle tweak to its beloved Waffle Potato Fries recipe, and the change has left some loyal customers frustrated. Read more...",
-      "url": "https://qz.com/chick-fil-a-waffle-fry-recipe-change-pea-starch-1851733030",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2159242d23be3d158027ea19055f798c.jpg",
-      "publishedAt": "2025-01-06T16:02:00Z",
-      "content": "In This Story\r\nChick-fil-A recently made a subtle tweak to its beloved Waffle Potato Fries recipe, and the change has left some loyal customers frustrated. \r\nThe company claims the modification enhan… [+2029 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Chloe Mayer",
-      "title": "Sandwich Recall Update as FDA Sets Highest Risk Warning",
-      "description": "Cucumbers potentially contaminated with salmonella could cause \"serious adverse health consequences or death,\" the FDA warned.",
-      "url": "https://www.newsweek.com/cucumber-recall-wrap-salad-salmonella-fda-2010331",
-      "urlToImage": "https://d.newsweek.com/en/full/2557397/cucumber-farmer.jpg",
-      "publishedAt": "2025-01-06T15:55:51Z",
-      "content": "Prepared lunches, including wraps and salads, have been yanked from the shelves amid fears they could be contaminated with potentially deadly salmonella bacteria.\r\nA recall of various products that m… [+3922 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Particle Counters Research Report 2024: Biofluorescent Particle Counting To Transform the $985+ Million Industry - Global Forecasts to 2029",
-      "description": "Key players for particle counters market are Spectris Plc (UK), Danaher Corporation (US), Rion Co., Ltd (Japan), TSI Inc (US), light House Worldwide Solutions (US), PAMAS Partikelmess (Germany), Met One Instruments, Inc (US), PCE Deutschland GmbH (Germany), V…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/06/3004764/28124/en/Particle-Counters-Research-Report-2024-Biofluorescent-Particle-Counting-To-Transform-the-985-Million-Industry-Global-Forecasts-to-2029.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-06T15:04:00Z",
-      "content": "Dublin, Jan. 06, 2025 (GLOBE NEWSWIRE) -- The \"Particle Counters Market by Type Application (Cleanroom Monitoring, Contamination, Aerosol, Indoor Air), End User - Global Forecast to 2029\" report has … [+6726 chars]"
     }
   ],
-  "totalResults": 97,
-  "filteredCount": 3
+  "totalResults": 96,
+  "filteredCount": 4
 }
