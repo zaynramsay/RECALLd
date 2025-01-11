@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-11T01:42:59.534Z",
+  "lastUpdated": "2025-01-11T06:27:56.863Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Finn Heartley",
+      "title": "California wildfires spark conspiracy theories: Were fires set to trigger economic and ecological collapse?",
+      "description": "California faces catastrophic wildfires, with $150 billion in damages, sparking conspiracy theories about deliberate sabotage to destabilize the economy, contaminate food supplies, and accelerate fiscal collapse. Major insurers like State Farm exited Californ…",
+      "url": "https://www.naturalnews.com/2025-01-10-california-wildfires-spark-conspiracy-theories.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/2025-01-10-BBN-DELIBERATE-DISASTERS.jpg",
+      "publishedAt": "2025-01-10T06:00:00Z",
+      "content": "<ul><li>California faces catastrophic wildfires, with $150 billion in damages, sparking conspiracy theories about deliberate sabotage to destabilize the economy, contaminate food supplies, and accele… [+6460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bangkok Post"
+      },
+      "author": "South China Morning Post",
+      "title": "Hong Kong's Cathay Pacific apologises after second suspected food poisoning",
+      "description": "<p>Hong Kong's flag carrier Cathay Pacific Airways has apologised to affected passengers on two flights from Nepal and pledged to assist health authorities' investigation after food poisoning struck travellers on two consecutive days.</p>",
+      "url": "https://www.bangkokpost.com/world/2936991/hong-kongs-cathay-pacific-apologises-after-second-suspected-food-poisoning",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20250110/c1_2936991_700.jpg",
+      "publishedAt": "2025-01-10T02:45:00Z",
+      "content": "Hong Kong's flag carrier Cathay Pacific Airways has apologised to affected passengers on two flights from Nepal and pledged to assist health authorities' investigation after food poisoning struck tra… [+1755 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -424,7 +450,7 @@
       },
       "author": "USDA Food Safety and Inspection Service",
       "title": "FSIS Public Health Alert 1-8-2025 Undeclared Allergen",
-      "description": "WASHINGTON D.C., Jan.  08, 2025  (GLOBE NEWSWIRE) --                                                                              Public Health Alert  ......",
+      "description": "WASHINGTON D.C., Jan.  08, 2025  (GLOBE NEWSWIRE) --                       ��                                                      Public Health Alert  ......",
       "url": "https://www.globenewswire.com/news-release/2025/01/09/3006766/21277/en/FSIS-Public-Health-Alert-1-8-2025-Undeclared-Allergen.html",
       "urlToImage": null,
       "publishedAt": "2025-01-09T01:12:00Z",
@@ -1235,32 +1261,6 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012533.g004&size=inline",
       "publishedAt": "2025-01-06T14:00:00Z",
       "content": "Abstract\r\nBackground\r\nRoutine epidemiological data are essential for monitoring the effectiveness of preventive chemotherapy (PC), optimizing resource allocation, and addressing the evolving needs in… [+49518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lokman Galal, Matthieu Fritz, Pierre Becquart, Karine Passebosc-Faure, Nicolas Plault, Larson Boundenga, Illich Manfred Mombo, Linda Bohou Kombila, Telstar Ndong Mebaley, Léadisaelle Hosanna Lenguiya, Barthélémy Ngoubangoye, Nadine N’Dilimabaka, Franck Prugnolle, Lionel Forestier, Endrias Zewdu Gebremedhin, Eric M. Leroy, Gael Darren Maganga, Aurélien Mercier",
-      "title": "Toxoplasma gondii from Gabonese forest, Central Africa: First report of an African wild strain",
-      "description": "Author summary The emergence of new pathogens from wildlife is today a well-recognized health threat. Studying these infectious agents has proven to be challenging due to the difficulty in accessing samples from wild animals. In the present study, we took adv…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012214",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012214.g004&size=inline",
-      "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Abstract\r\nThe protozoan Toxoplasma gondii is a ubiquitous and highly prevalent parasite that can theoretically infect all warm-blooded vertebrates. In humans, toxoplasmosis causes infections in both … [+44491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "G. Robert Aguilar, Berta Vidal, Hongzhu Ji, Joke Evenblij, Chien-Po Liao, Hongfei Ji, Giulio Valperga, Christopher Fang-Yen, Oliver Hobert",
-      "title": "Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron",
-      "description": "Members of the conserved bHLH gene family have diverse roles during the development of the nervous system, but how they specify neuronal terminal differentiation remains unclear. Here, the authors analyze the function of five C. elegans bHLH genes, showing th…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002979",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002979.g009&size=inline",
-      "publishedAt": "2025-01-06T14:00:00Z",
-      "content": "Citation: Aguilar GR, Vidal B, Ji H, Evenblij J, Liao C-P, Ji H, et al. (2025) Functional analysis of conserved C. elegans bHLH family members uncovers lifespan control by a peptidergic hub neuron. P… [+83033 chars]"
     }
   ],
   "totalResults": 97,
