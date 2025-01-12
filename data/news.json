@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-01-12T06:28:35.634Z",
+  "lastUpdated": "2025-01-12T12:38:53.659Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. cannabis dispensary STIIIZY disclosed a data breach",
+      "description": "US marijuana dispensary STIIIZY warns customers of leaked IDs and passports following a November data breach. US marijuana dispensary STIIIZY disclosed a data breach after a vendor’s point-of-sale system was compromised by cybercriminals. The security breach …",
+      "url": "https://securityaffairs.com/172950/data-breach/marijuana-dispensary-stiiizy-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-18.png",
+      "publishedAt": "2025-01-11T11:39:31Z",
+      "content": "U.S. cannabis dispensary STIIIZY disclosed a data breach\r\n | A novel PayPal phishing campaign hijacks accounts\r\n | Banshee macOS stealer supports new evasion mechanisms\r\n | Researchers disclosed deta… [+130017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Jules Bernstein",
+      "title": "Biofilm busters: Plant-derived molecule stops bacteria from forming protective biofilms on surfaces",
+      "description": "If your teeth have ever felt fuzzy after skipping a brushing, you've encountered biofilm—a slimy bacterial layer that clings to surfaces. In medical settings, biofilms make infections harder to treat when they form protective shields for bacteria on devices l…",
+      "url": "https://phys.org/news/2025-01-biofilm-busters-derived-molecule-bacteria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/dangerous-bacterial-bi.jpg",
+      "publishedAt": "2025-01-11T11:18:10Z",
+      "content": "If your teeth have ever felt fuzzy after skipping a brushing, you've encountered biofilma slimy bacterial layer that clings to surfaces. In medical settings, biofilms make infections harder to treat … [+4526 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Can balsamic vinegar expire?",
+      "description": "The Expire of Balsamic Vinegar: Understanding Its Shelf Life What is Balsamic Vinegar? Balsamic vinegar is a type of vinegar […]\nThe post Can balsamic vinegar expire? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/can-balsamic-vinegar-expire/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-11T10:53:22Z",
+      "content": "The Expire of Balsamic Vinegar: Understanding Its Shelf Life\r\nWhat is Balsamic Vinegar?\r\nBalsamic vinegar is a type of vinegar that originates from Italy, specifically from the region of Modena. It i… [+3621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A novel PayPal phishing campaign hijacks accounts",
+      "description": "Fortinet warns of a phishing campaign using legitimate links to hijack PayPal accounts, tricking users into granting unauthorized access. Fortinet uncovered a phishing campaign targeting PayPal users. The scheme employs legitimate links to deceive victims and…",
+      "url": "https://securityaffairs.com/172935/cyber-crime/paypal-phishing-campaign-hijacks-accounts.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-16.png",
+      "publishedAt": "2025-01-11T09:04:51Z",
+      "content": "A novel PayPal phishing campaign hijacks accounts\r\n | Banshee macOS stealer supports new evasion mechanisms\r\n | Researchers disclosed details of a now-patched Samsung zero-click flaw\r\n | Phishers abu… [+129956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frontiersin.org"
+      },
+      "author": "Denaturing Gradient",
+      "title": "Frontiers | Abundance and Diversity of Hydrogenotrophic Microorganisms in the Infant Gut before the Weaning Period Assessed by Denaturing Gradient Gel Electrophoresis and Quantitative PCR",
+      "description": "Frontiers | Abundance and Diversity of Hydrogenotrophic Microorganisms in the Infant Gut before the Weaning Period Assessed by Denaturing Gradient Gel Electrophoresis and Quantitative PCRfrontiersin.org",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2017.00029/full",
+      "urlToImage": "https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/248892/fnut-04-00029-HTML/image_m/fnut-04-00029-g001.jpg",
+      "publishedAt": "2025-01-11T08:09:30Z",
+      "content": "Introduction\r\nHydrogenotrophic microorganisms inhabiting the gut microbiota of humans and non-human animals are involved in a mutualistic relationship. Three major types of H2-consuming microorganism… [+37269 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -539,19 +604,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Sara Formichetti, Agnieszka Sadowska, Michela Ascolani, Julia Hansen, Kerstin Ganter, Christophe Lancrin, Neil Humphreys, Mathieu Boulard",
-      "title": "Genetic gradual reduction of OGT activity unveils the essential role of O-GlcNAc in the mouse embryo",
-      "description": "Author summary Posttranslational modifications of proteins enable cells to rapidly adapt to changes in their environment. Here, we investigated the role of the modification of intracellular proteins by a sugar molecule in the mouse embryo. The O-GlcNAc transf…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011507",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011507.g004&size=inline",
-      "publishedAt": "2025-01-09T14:00:00Z",
-      "content": "Introduction\r\nOver five thousand of nuclear and cytoplasmic proteins are reversibly modified at specific serine and threonine hydroxyls by the covalent linkage of the monosaccharide O-linked--N-acety… [+103560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Camilo C. Castro-Jiménez, Julio C. Saldarriaga-Molina, Edwin F. García, Ricardo A. Torres-Palma, Nancy Acelas",
       "title": "Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and isotherms studies",
       "description": "In this study, we utilized drinking water treatment sludge (WTS) to produce adsorbents through the drying and calcination process. These adsorbents were then evaluated for their ability to remove azithromycin (AZT) from aqueous solutions. The L-500 adsorbent,…",
@@ -559,6 +611,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316487.g012&size=inline",
       "publishedAt": "2025-01-09T14:00:00Z",
       "content": "Citation: Castro-Jiménez CC, Saldarriaga-Molina JC, García EF, Torres-Palma RA, Acelas N (2025) Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and… [+35937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sara Formichetti, Agnieszka Sadowska, Michela Ascolani, Julia Hansen, Kerstin Ganter, Christophe Lancrin, Neil Humphreys, Mathieu Boulard",
+      "title": "Genetic gradual reduction of OGT activity unveils the essential role of O-GlcNAc in the mouse embryo",
+      "description": "Author summary Posttranslational modifications of proteins enable cells to rapidly adapt to changes in their environment. Here, we investigated the role of the modification of intracellular proteins by a sugar molecule in the mouse embryo. The O-GlcNAc transf…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011507",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011507.g004&size=inline",
+      "publishedAt": "2025-01-09T14:00:00Z",
+      "content": "Introduction\r\nOver five thousand of nuclear and cytoplasmic proteins are reversibly modified at specific serine and threonine hydroxyls by the covalent linkage of the monosaccharide O-linked--N-acety… [+103560 chars]"
     },
     {
       "source": {
@@ -905,7 +970,7 @@
       },
       "author": "Tianyang Jia, Jinglan He, Cunliang Miao, Yubin Long, Qi Dong, Jialiang Guo, Wei Chen, Zhiyong Hou",
       "title": "Inadequate soft tissue coverage and bone loss/comminution are the typical risk factors of surgical site infection in open fractures of the hand: A nomogram prediction model",
-      "description": "Background Different from other parts of long bone fractures, surgical site infections (SSI) often occurs in open fractures of the hand (OFH) due to the anatomical characteristics and injury mechanisms. Our aim of the study is to investigate the particular ri��",
+      "description": "Background Different from other parts of long bone fractures, surgical site infections (SSI) often occurs in open fractures of the hand (OFH) due to the anatomical characteristics and injury mechanisms. Our aim of the study is to investigate the particular ri…",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313832",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313832.g005&size=inline",
       "publishedAt": "2025-01-08T14:00:00Z",
@@ -1143,7 +1208,7 @@
       "url": "https://securityaffairs.com/172770/ics-scada/moxa-router-flaws-risks-to-industrial-environmets.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-10.png",
       "publishedAt": "2025-01-07T12:27:07Z",
-      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n��| Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
+      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
     },
     {
       "source": {
@@ -1183,71 +1248,6 @@
       "urlToImage": "https://c.ndtvimg.com/2022-08/kme2u6go_breastmilk-vs-formula-milk_625x300_04_August_22.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
       "publishedAt": "2025-01-07T09:18:39Z",
       "content": "Powdered milk, also known as dried milk, is a popular option for parents seeking convenient and long-lasting alternatives to fresh milk. Made by evaporating water from pasteurised milk, powdered milk… [+6047 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Maria Azzurra Volpe",
-      "title": "Golden Retriever's 'Pretend Smile' To Avoid Her Medication Delights Viewers",
-      "description": "\"The way she's refusing to swallow it,\" one delighted TikTok user said, while another added: \"Mm... so good.. can you turn around for a sec?\"",
-      "url": "https://www.newsweek.com/golden-retriever-pretend-smile-avoid-medication-delights-viewers-2010281",
-      "urlToImage": "https://d.newsweek.com/en/full/2558002/dog-smiling-looking-sideways.jpg",
-      "publishedAt": "2025-01-07T08:59:16Z",
-      "content": "A golden retriever named Nala was caught on camera trying to trick her owner into believing that she has willing taken her medicine, and internet users can't cope with it.\r\nIn a viral TikTok video sh… [+3145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "US adds Tencent to the list of companies supporting Chinese military",
-      "description": "US adds Chinese multinational technology and entertainment conglomerate Tencent to the list of companies supporting the Chinese military. The US Department of Defense has added Chinese multinational technology and entertainment conglomerate Tencent to its “Ch…",
-      "url": "https://securityaffairs.com/172765/security/us-adds-tencent-list-of-companies-supporting-chinese-military.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage-2.jpg",
-      "publishedAt": "2025-01-07T08:30:06Z",
-      "content": "US adds Tencent to the list of companies supporting Chinese military\r\n | Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecom… [+128978 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Eagerbee backdoor targets govt entities and ISPs in the Middle East",
-      "description": "Experts spotted new variants of the Eagerbee backdoor being used in attacks on government organizations and ISPs in the Middle East. Kaspersky researchers reported that new variants of the Eagerbee backdoor being used in attacks against Internet Service Provi…",
-      "url": "https://securityaffairs.com/172748/malware/eagerbee-backdoor-targets-middle-east.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-9.png",
-      "publishedAt": "2025-01-07T06:23:00Z",
-      "content": "Nessus scanner agents went offline due to a faulty plugin update\r\n | China-linked Salt Typhoon APT compromised more US telecoms than previously known\r\n | PLAYFULGHOST backdoor supports multiple infor… [+128905 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Lance D Johnson",
-      "title": "Alarming DNA contamination in Pfizerâs mRNA vaccines: latest study reveals CANCER RISKS and regulatory failures",
-      "description": "Peer-reviewed research uncovers DNA contamination in Pfizer’s mRNA Covid-19 vaccines exceeding WHO safety limits by 6 to 470 times. Contaminated DNA fragments may integrate into human DNA, raising concerns about gene mutations and cancer. The study was conduc…",
-      "url": "https://www.naturalnews.com/2025-01-07-dna-contamination-pfizers-mrna-vaccines-reveals-cancer-risks.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Covid-19-Coronavirus-Pfizer-Vaccine-Vials.jpg",
-      "publishedAt": "2025-01-07T06:00:00Z",
-      "content": "<ul><li>Peer-reviewed research uncovers DNA contamination in Pfizers mRNA Covid-19 vaccines exceeding WHO safety limits by 6 to 470 times.</li><li>Contaminated DNA fragments may integrate into human … [+4473 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Microplastics widespread in seafood people eat",
-      "description": "The tiny particles that shed from clothing, packaging and other plastic products are winding up in the fish that people eat, highlighting a need for technologies and strategies to reduce microfiber pollution entering the environment.",
-      "url": "https://www.sciencedaily.com/releases/2025/01/250106195804.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-01-07T00:58:04Z",
-      "content": "The tiny particles that shed from clothing, packaging and other plastic products are winding up in the fish that people eat, according to a new study from Portland State researchers, highlighting a n… [+5409 chars]"
     }
   ],
   "totalResults": 96,
