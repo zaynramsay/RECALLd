@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-11T18:27:07.479Z",
+  "lastUpdated": "2025-01-12T01:51:31.856Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Marlerblog.com"
+      },
+      "author": "Bill Marler",
+      "title": "FDA finds Taylor Farms Colorado did not pass muster",
+      "description": "The slivered onions have been linked to an E. coli outbreak that sickened over 100, putting 1 man in an early grave. The FDA inspection report – redacted – makes an interesting read – full report below. OBSERVATION 1You did not implement your sanitation preve…",
+      "url": "https://www.marlerblog.com/case-news/fda-finds-taylor-farms-colorado-did-not-pass-muster/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/021/677/Lvpkalx2D6BnpXrM6WE7rB3Xq/e1241f7cc221a8429a44a60001c428be2d3fcca3.png",
+      "publishedAt": "2025-01-11T01:23:51Z",
+      "content": "The slivered onions have been linked to an E. coli outbreak that sickened over 100, putting 1 man in an early grave. The FDA inspection report – redacted – makes an interesting read – full report bel… [+447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Why is annatto bad for You?",
+      "description": "Why is Annatto Bad for You? Introduction Annatto, a natural food coloring derived from the seeds of the achiote tree […]\nThe post Why is annatto bad for You? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/why-is-annatto-bad-for-you/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-11T01:12:43Z",
+      "content": "Why is Annatto Bad for You?\r\nIntroduction\r\nAnnatto, a natural food coloring derived from the seeds of the achiote tree (Bixa orellana), has been used for centuries in various cultures to add color an… [+5220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Benzene in Pregnancy — A Hidden Threat to Children’s Health",
+      "description": "Benzene, a pervasive environmental toxin, is present in automobile exhaust, industrial emissions and even cigarette smoke, putting millions at risk of daily exposure. Alarmingly, increasing evidence indicates that benzene exposure during pregnancy disrupts th…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/01/11/benzene-pregnancy.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/January/FB/benzene-pregnancy-fb.jpg",
+      "publishedAt": "2025-01-11T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Alexander Tin",
+      "title": "FDA finds little handwashing, dirty equipment at McDonald's supplier linked to outbreak",
+      "description": "More than a hundred E. coli cases were linked to contaminated onions produced by Taylor Farms used in McDonald's burgers.",
+      "url": "https://www.cbsnews.com/news/fda-report-e-coli-outbreak-onions-taylor-farms/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/12/03/0439552c-7e75-4c09-b59d-46659f14aac3/thumbnail/1200x630/328f481144881376a6d0ff5e3c3f46f9/gettyimages-2180538566.jpg?v=c32e88638f4c371ec40100fff0bc2158",
+      "publishedAt": "2025-01-10T22:41:31Z",
+      "content": "Food and Drug Administration officials turned up dozens of violations at a McDonald's supplier linked to a deadly outbreak of E. coli that led to more than a hundred infections and a sweeping recall … [+4021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Banshee macOS stealer supports new evasion mechanisms",
+      "description": "Experts found a new version of the Banshee macOS information stealer which was enhanced with new evasion mechanisms. Check Point researchers discovered a new version of the Banshee macOS infostealer which is distributed through phishing websites and fake GitH…",
+      "url": "https://securityaffairs.com/172918/malware/new-version-of-the-banshee-macos-stealer.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-15.png",
+      "publishedAt": "2025-01-10T21:09:43Z",
+      "content": "Banshee macOS stealer supports new evasion mechanisms\r\n | Researchers disclosed details of a now-patched Samsung zero-click flaw\r\n | Phishers abuse CrowdStrike brand targeting job seekers with crypto… [+129902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WebMD"
+      },
+      "author": "Ralph Ellis",
+      "title": "Your Protein Powder May Contain Harmful Metals",
+      "description": "Over-the-counter protein powders have levels of lead and heavy metals like cadmium that exceed government food safety regulations, according to a report issued by the Clean Label Project, a consumer safety nonprofit.",
+      "url": "https://www.webmd.com/diet/news/20250110/protein-powder-harmful-metals",
+      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/whey_and_whey_isolate_ref_guide/1800x1200_getty_rf_whey_and_whey_isolate_ref_guide.jpg",
+      "publishedAt": "2025-01-10T20:30:29Z",
+      "content": "Jan. 10, 2025 -- Over-the-counter protein powders have levels of lead and heavy metals like cadmium that exceed government food safety regulations, according to a report issued by the Clean Label Pro… [+1673 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -766,7 +844,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315945",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315945.g004&size=inline",
       "publishedAt": "2025-01-08T14:00:00Z",
-      "content": "Abstract\r\nSpecies reintroductions are increasingly seen as important methods of biodiversity restoration. Reintroductions of red kites Milvus milvus and white-tailed eagles Halieaeetus albicilla to B… [+42820 chars]"
+      "content": "Abstract\r\nSpecies reintroductions are increasingly seen as important methods of biodiversity restoration. Reintroductions of red kites Milvus milvus and white-tailed eagles Halieaeetus albicilla to B�� [+42820 chars]"
     },
     {
       "source": {
@@ -1170,84 +1248,6 @@
       "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbtvsawo5ywywmdaxm2i2bxqxzg5kaziw-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntnwxpnwgxdzawy3cynm5xmw13nzj4bnk-jpg-677c4c134ef21.jpg?crop=1.00xw:0.846xh;0,0.101xh&resize=1200:*",
       "publishedAt": "2025-01-06T21:53:26Z",
       "content": "The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health. This is the first human death from bird flu in the U.S.\r\nThe pe… [+5280 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Natalie Venegas",
-      "title": "FDA Sets New Levels for Toxic Lead in Baby Food",
-      "description": "The FDA's new standards for toxic lead target processed baby foods such as jarred fruits, vegetables, yogurts and dry cereals.",
-      "url": "https://www.newsweek.com/fda-sets-new-levels-toxic-lead-baby-food-2010613",
-      "urlToImage": "https://d.newsweek.com/en/full/2557837/food-drug-administration.jpg",
-      "publishedAt": "2025-01-06T21:49:42Z",
-      "content": "The U.S. Food and Drug Administration (FDA) on Monday introduced new voluntary guidelines to reduce toxic lead levels in popular baby foods, aiming to address concerns over the long-term effects of l… [+4350 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Matt Novak",
-      "title": "Bird Flu Patient in Louisiana Becomes First Human Death in Current H5N1 Outbreak",
-      "description": "The patient acquired bird flu from backyard chickens.",
-      "url": "https://gizmodo.com/bird-flu-patient-in-louisiana-becomes-first-human-death-in-current-h5n1-outbreak-2000546656",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/bird-flu-milk.jpg",
-      "publishedAt": "2025-01-06T21:18:23Z",
-      "content": "A patient with the first “severe case” of bird flu in the U.S. has died, according to a press release Monday from the Louisiana Department of Health. It’s the first human death from H5N1 in the count… [+3563 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Brenda Goodman",
-      "title": "America's first bird flu death reported in Louisiana",
-      "description": "The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health.",
-      "url": "https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24361859677442.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-01-06T21:16:17Z",
-      "content": "The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health. This is the first human death from bird flu in the US.\r\nThe per… [+2346 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Haaretz"
-      },
-      "author": "Ariel David",
-      "title": "Prehistoric carb cravings: Archaeologists find 780,000-year-old proof of plant processing",
-      "description": "Tools used by hominins in northern Israel show earliest known evidence of plant processing for consumption, chipping away at theory that our ancestors relied mainly on meat",
-      "url": "https://www.haaretz.com/archaeology/2025-01-06/ty-article/prehistoric-carb-cravings-archaeologists-find-780-000-year-old-proof-of-plant-processing/00000194-3b44-d96e-a1d6-3bec9de20000",
-      "urlToImage": "https://img.haarets.co.il/bs/00000194-3b44-d96e-a1d6-3bec9d300000/ec/29/848593a54f07820ae3e1bca15bf1/59966095.JPG?precrop=5568,3237,x0,y475&height=630&width=1200",
-      "publishedAt": "2025-01-06T21:15:49Z",
-      "content": "Microscopic starch granules embedded in prehistoric tools at least 780,000 years ago carry evidence of the earliest known processing of plants, showing that our hominin ancestors were not as meat-cen… [+7764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KATC Lafayette News"
-      },
-      "author": null,
-      "title": "State health officials report first avian flu death",
-      "description": "The person who died was older than 65 and contracted H5N1 after exposure to a combination of a non-commercial backyard flock and wild birds.",
-      "url": "https://www.katc.com/news/covering-louisiana/state-health-officials-report-first-avian-flu-death",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/9c11bb3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F96%2Fec%2Ffc7cf4fb452cbdc3f51cf4520072%2Fnew.jpg",
-      "publishedAt": "2025-01-06T20:32:54Z",
-      "content": "The Louisiana Department of Health reports the patient who had been hospitalized with the first human case of highly pathogenic avian influenza (HPAI), or H5N1, in Louisiana and the U.S. has died. \r\n… [+2627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Lauren Leffer",
-      "title": "Ancient lead pollution may have lowered IQs across the Roman Empire",
-      "description": "'To my knowledge, it’s the first large-scale pollution event from industrial activities.'\nThe post Ancient lead pollution may have lowered IQs across the Roman Empire appeared first on Popular Science.",
-      "url": "https://www.popsci.com/science/roman-empire-lead-pollution/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/01/rome.jpg?w=2000",
-      "publishedAt": "2025-01-06T20:10:36Z",
-      "content": "The Industrial Revolution was undeniably a major turning point in history. Beginning in the late 1700s, human environmental impacts reached previously impossible new heights. Yet pollution wasnt inve… [+8320 chars]"
     }
   ],
   "totalResults": 96,
