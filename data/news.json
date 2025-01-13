@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-01-13T12:44:38.665Z",
+  "lastUpdated": "2025-01-13T18:31:02.044Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "WQOW TV News 18"
+      },
+      "author": "Sandee LaMotte, CNN",
+      "title": "Lead and cadmium found in muscle-building protein powders, report says",
+      "description": "(CNN) — Over-the-counter protein powders may contain disturbing levels of lead and cadmium, with the highest amounts found in plant-based, organic and chocolate-flavored products, according to a new investigation.",
+      "url": "https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wqow.com/content/tncms/assets/v3/editorial/e/02/e029babf-8862-5b93-83ed-3c818bd504bc/677fdc341d961.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-01-12T18:22:38Z",
+      "content": "(CNN) Over-the-counter protein powders may contain disturbing levels of lead and cadmium, with the highest amounts found in plant-based, organic and chocolate-flavored products, according to a new in… [+5836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 506 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. DoJ charged th…",
+      "url": "https://securityaffairs.com/172972/breaking-news/security-affairs-newsletter-round-506-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-01-12T18:02:51Z",
+      "content": "Security Affairs newsletter Round 506 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | How a researcher earned $100,000 hacking a Facebook server\r\n | DoJ charged three Russian citizens with operating … [+130243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Nationwide Mexican Food Recall Over Metal Contamination Fears",
+      "description": "Frozen chicken and cheese taquito products have been recalled by the manufacturer after a consumer found a piece of metal inside.",
+      "url": "https://biztoc.com/x/1b0641d2056f13ef",
+      "urlToImage": "https://biztoc.com/cdn/808/og.png",
+      "publishedAt": "2025-01-12T15:59:26Z",
+      "content": "Frozen chicken and cheese taquito products have been recalled by the manufacturer after a consumer found a piece of metal inside.\r\nThis story appeared on newsweek.com, 2025-01-12 15:50:06."
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Flynn Nicholls",
+      "title": "Nationwide Mexican Food Recall Over Metal Contamination Fears",
+      "description": "Frozen chicken and cheese taquito products have been recalled by the manufacturer after a consumer found a piece of metal inside.",
+      "url": "https://www.newsweek.com/nationwide-mexican-food-recall-metal-contamination-fears-2013648",
+      "urlToImage": "https://d.newsweek.com/en/full/2562686/chicken-taquitos.jpg",
+      "publishedAt": "2025-01-12T15:50:06Z",
+      "content": "A nationwide recall of Casa Mamita Chicken &amp; Cheese Taquitos has been announced by Department of Agriculture's Food Safety and Inspection Service (FSIS) after a consumer reported finding metal in… [+2970 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -921,7 +973,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2025-01-08T16:51:11Z",
+      "publishedAt": "2025-01-09T06:39:19Z",
       "content": "[Removed]"
     },
     {
@@ -1222,47 +1274,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2559658/target-sign.jpg",
       "publishedAt": "2025-01-08T18:03:13Z",
       "content": "Target currently has recalls for five foods sold in states across the country based on FDA recalls of the same products.\r\nTarget has said: \"Our guests, your safety, is our highest priority. For this … [+5877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Chelsea Sherlock, Erik Markin",
-      "title": "Who owns that restaurant? The answer can affect food safety in unexpected ways, researchers find",
-      "description": "Imagine going on a road trip and passing several seemingly identical McDonald's restaurants. Despite their uniform appearance, their ownership may vary widely: One might be run by a family, another by an individual entrepreneur, and others owned directly by t…",
-      "url": "https://phys.org/news/2025-01-restaurant-affect-food-safety-unexpected.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/fastfood.jpg",
-      "publishedAt": "2025-01-08T17:34:03Z",
-      "content": "Imagine going on a road trip and passing several seemingly identical McDonald's restaurants. Despite their uniform appearance, their ownership may vary widely: One might be run by a family, another b… [+4569 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Biomedical Scientist Answers New Pseudoscience Questions",
-      "description": "Biomedical scientist Dr. Andrea Love returns to WIRED to answer a new slate of the internet's burning questions about pseudosciences, health fads, and false wellness claims. What common household chemicals are definitely worth avoiding? Is there really arseni…",
-      "url": "https://www.wired.com/video/watch/biomedical-scientist-answers-new-pseudoscience-questions/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1736348195/wired_biomedical-scientist-answers-new-pseudoscience-questions.jpg",
-      "publishedAt": "2025-01-08T17:00:00Z",
-      "content": "Hyperbaric oxygen, dietary supplements, urine therapy,\r\nozone therapy, metal chelation.\r\nNone of these have evidence to support their use\r\nfor any ailment.\r\nI'm Dr. Andrea Love biomedical scientist.\r… [+34470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "Office Of The Commissioner",
-      "title": "FDA sends warning to company for marketing dangerous unapproved stem cell products that put patients at risk and puts other stem cell firms, providers on notice",
-      "description": "FDA sends warning to company for marketing dangerous unapproved stem cell products that put patients at risk and puts other stem cell firms, providers on noticefda.gov",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-sends-warning-company-marketing-dangerous-unapproved-stem-cell-products-put-patients-risk-and",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-08T15:32:23Z",
-      "content": "For Immediate Release:\r\nDecember 20, 2018\r\nThe U.S. Food and Drug Administration has warned Genetech, Inc. of San Diego, California and its president, Edwin N. Pinos for marketing stem cell products … [+8509 chars]"
     }
   ],
-  "totalResults": 97,
-  "filteredCount": 3
+  "totalResults": 98,
+  "filteredCount": 2
 }
