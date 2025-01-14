@@ -1,6 +1,188 @@
 {
-  "lastUpdated": "2025-01-14T12:40:35.952Z",
+  "lastUpdated": "2025-01-14T18:28:01.514Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Theo Burman",
+      "title": "Kroger Food Recalls Issued for 12 States: Full List of Products Impacted",
+      "description": "Food recalls have recently been issued for several products by Kroger, which supplies supermarkets across the U.S.",
+      "url": "https://www.newsweek.com/kroger-food-recalls-full-list-products-2013826",
+      "urlToImage": "https://d.newsweek.com/en/full/2562903/kroger-supermarket.jpg",
+      "publishedAt": "2025-01-13T17:41:48Z",
+      "content": "Retail grocer Kroger currently has several food recalls in place, affecting supermarkets in 12 states.\r\nNewsweek contacted Kroger for more information on the recall via email.\r\nWhy It Matters\r\nRecall… [+3861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Edward Randviir, Senior Lecturer in Green Chemistry, Manchester Metropolitan University",
+      "title": "Burning waste is a dirty way to generate power – but it’s the least bad alternative until we fix recycling",
+      "description": "England plans to nearly double its number of waste incinerators.",
+      "url": "https://theconversation.com/burning-waste-is-a-dirty-way-to-generate-power-but-its-the-least-bad-alternative-until-we-fix-recycling-244874",
+      "urlToImage": "https://images.theconversation.com/files/640419/original/file-20250102-19-uveaik.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5659%2C2825&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-01-13T17:18:35Z",
+      "content": "Burning waste to generate heat and electricity was deemed the UK’s “dirtiest form of power” in a BBC investigation in October 2024, after the country’s last coal plant closed the month before.\n\nThe e… [+6084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Edward Randviir, Senior Lecturer in Green Chemistry, Manchester Metropolitan University",
+      "title": "Burning waste is a dirty way to generate power – but it’s the least bad alternative to England’s broken recycling system",
+      "description": "England plans to nearly double its number of waste incinerators.",
+      "url": "https://theconversation.com/burning-waste-is-a-dirty-way-to-generate-power-but-its-the-least-bad-alternative-to-englands-broken-recycling-system-244874",
+      "urlToImage": "https://images.theconversation.com/files/640419/original/file-20250102-19-uveaik.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5659%2C2825&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-01-13T17:18:35Z",
+      "content": "Burning waste to generate heat and electricity was deemed the UK’s “dirtiest form of power” in a BBC investigation in October 2024, after the country’s last coal plant closed the month before.\n\nThe e… [+6084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "FDA Cites Dirty Equipment, Poor Sanitation at McDonald’s Onion Supplier After E. Coli Scare",
+      "description": "Federal inspectors uncovered numerous food safety issues at Taylor Farms' Colorado facility, including equipment found with \"large amounts of food debris.\"",
+      "url": "https://gizmodo.com/fda-cites-dirty-equipment-poor-sanitation-at-mcdonalds-onion-supplier-after-e-coli-scare-2000549290",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/McDonalds.jpg",
+      "publishedAt": "2025-01-13T17:15:39Z",
+      "content": "A new report from the Food and Drug Administration reveals dozens of food safety violations at the McDonald’s onion supplier linked to a nationwide outbreak of E. coli that sickened over a hundred pe… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": null,
+      "title": "Why Drinking Bottled Water Can Be Much Worse for You Than Tap, According to New Research - NewsBreak",
+      "description": "Why Drinking Bottled Water Can Be Much Worse for You Than Tap, According to New Research - NewsBreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/3757057488960-why-drinking-bottled-water-can-be-much-worse-for-you-than-tap-according-to-new-research?_f=app_share&amp;pd=01qwuVSO&amp;lang=en_US&amp;send_time=1736787416&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.2.0.28%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v4&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/0zUSFT_0y5hVBK600",
+      "publishedAt": "2025-01-13T16:58:13Z",
+      "content": "The FDA hardly has any regulations at all for bottled water. \r\n Food &amp; Wine / Getty Images \r\nThe health halo surrounding bottled water is starting to burst. \r\n Bottled water first became popular … [+5081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-13T15:31:35Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Britney Nguyen",
+      "title": "Walmart recalls thousands of cartons of chicken broth",
+      "description": "The FDA is recalling more than 2,000 cases of Great Value chicken broth over potential packaging issues that can lead to spoilage",
+      "url": "https://qz.com/walmart-food-recall-great-value-chicken-broth-bacteria-1851737984",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5753f234b1bf57fe08479b03202f6951.jpg",
+      "publishedAt": "2025-01-13T15:38:00Z",
+      "content": "In This Story\r\nA recall over Walmarts (WMT-1.30%\r\n) store-brand chicken broth could put a damper on soup season.\r\nThe U.S. Food and Drug Administration issued a recall in December for the retail gian… [+1939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "12,000 cartons of chicken broth sold at Walmart pulled from shelves in latest food recall - NewsBreak",
+      "description": "More than 2,000 cases of chicken broth sold at Walmart have been recalled due to potential packing issues. According to the U.S. Food and Drug Administrat",
+      "url": "https://www.newsbreak.com/share/3758434120470-12-000-cartons-of-chicken-broth-sold-at-walmart-pulled-from-shelves-in-latest-food-recall?s=a2&share_destination_id=MjAxMzI2MDQzLTE3MzY3ODk1MjMzNzc%3D&pd=0Dck6FDg&hl=en_US&send_time=1736789523&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v9%2Cns_foryou_blend_exp_25q1-v1%2Cns_foryou_recall_exp_25q1-control%2Cns_foryou_rank_exp_25q1-control%2Cns_foryou_model_exp_25q1-v9",
+      "urlToImage": "https://img.particlenews.com/img/id/4Kd9tp_0y74tgFv00",
+      "publishedAt": "2025-01-13T15:31:35Z",
+      "content": "More than 2,000 cases of chicken broth sold at Walmart have been recalled due to potential packing issues. \r\n According to the U.S. Food and Drug Administration ( FDA ), 2,023 cases of Great Value, C… [+2435 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "12,000 cartons of chicken broth sold at Walmart pulled from shelves in latest food recall - NewsBreak",
+      "description": "More than 2,000 cases of chicken broth sold at Walmart have been recalled due to potential packing issues. According to the U.S. Food and Drug Administrat",
+      "url": "https://www.newsbreak.com/share/3758434120470-12-000-cartons-of-chicken-broth-sold-at-walmart-pulled-from-shelves-in-latest-food-recall?s=a2&share_destination_id=NTU0ODQ2NS0xNzM2Nzg4OTM1ODIx&pd=00NHPNdg&hl=en_US&send_time=1736788935&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v7",
+      "urlToImage": "https://img.particlenews.com/img/id/4Kd9tp_0y74tgFv00",
+      "publishedAt": "2025-01-13T15:31:35Z",
+      "content": "More than 2,000 cases of chicken broth sold at Walmart have been recalled due to potential packing issues. \r\n According to the U.S. Food and Drug Administration ( FDA ), 2,023 cases of Great Value, C… [+2435 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Cling Film Market Poised for Remarkable Growth: Projected to Reach USD 1,921.9 Million by 2035 at a CAGR of 3.5% | Future Market Insights, Inc.",
+      "description": "The USA food industry is expected to grow at a 3.4% CAGR, driven by busy lifestyles and a preference for convenient, packaged, ready-to-eat foods. Innovations in cling films have improved food protection against contaminants and spoilage. The USA food industr…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/13/3008668/0/en/Cling-Film-Market-Poised-for-Remarkable-Growth-Projected-to-Reach-USD-1-921-9-Million-by-2035-at-a-CAGR-of-3-5-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-01-13T15:10:00Z",
+      "content": "NEWARK, Del, Jan. 13, 2025 (GLOBE NEWSWIRE) -- The global cling film market is on a steady growth trajectory, with its market size estimated to increase from USD 1,362.5 million in 2025 to an impress… [+23590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Giada Lavigna, Anna Grasso, Chiara Pasini, Valentina Grande, Laura Mignogna, Elena Restelli, Antonio Masone, Claudia Fracasso, Jacopo Lucchetti, Marco Gobbi, Roberto Chiesa",
+      "title": "Trazodone, dibenzoylmethane and tauroursodeoxycholic acid do not prevent motor dysfunction and neurodegeneration in Marinesco-Sjögren syndrome mice",
+      "description": "There is no cure for Marinesco-Sjögren syndrome (MSS), a genetic multisystem disease linked to loss-of-function mutations in the SIL1 gene, encoding a BiP co-chaperone. Previously, we showed that the PERK kinase inhibitor GSK2606414 delays cerebellar Purkinje…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317404",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317404.g010&size=inline",
+      "publishedAt": "2025-01-13T14:00:00Z",
+      "content": "Citation: Lavigna G, Grasso A, Pasini C, Grande V, Mignogna L, Restelli E, et al. (2025) Trazodone, dibenzoylmethane and tauroursodeoxycholic acid do not prevent motor dysfunction and neurodegenerati… [+42686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Parvaneh Mahmoudi, Ahmad Moieni, Mojtaba Khayam Nekouei, Mohsen Mardi, Ghasem Hosseini Salekdeh",
+      "title": "Induction of stigma-like structures in saffron (Crocus sativus L.): Exploring factors and metabolite analysis",
+      "description": "Saffron (Crocus sativus L.) has held significant cultural and medicinal value since the Greek-Minoan civilization. As a triploid spice with vegetative propagation from the Iridaceae family, the three-branch style of C. sativus flowers, known as saffron, const…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317186",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317186.g006&size=inline",
+      "publishedAt": "2025-01-13T14:00:00Z",
+      "content": "Abstract\r\nSaffron (Crocus sativus L.) has held significant cultural and medicinal value since the Greek-Minoan civilization. As a triploid spice with vegetative propagation from the Iridaceae family,… [+39239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Usda.gov"
+      },
+      "author": null,
+      "title": "UP Products, LLC, DBA Meyer Wholesale Recalls Ready-To-Eat and Raw Sausage Products Due to Misbranding and Undeclared Allergen",
+      "description": "WASHINGTON, Jan. 13, 2025 - UP Products, LLC, doing business as Meyer Wholesale, a Ewen, Mich. establishment, is recalling approximately 400 pounds of sausage products due to misbranding and an...",
+      "url": "http://www.fsis.usda.gov/recalls-alerts/products-llc-dba-meyer-wholesale-recalls-ready-eat-and-raw-sausage-products-due",
+      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
+      "publishedAt": "2025-01-13T14:00:00Z",
+      "content": "WASHINGTON, Jan. 13, 2025 UP Products, LLC, doing business as Meyer Wholesale, a Ewen, Mich. establishment, is recalling approximately 400 pounds of sausage products due to misbranding and an undecla… [+2490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theepochtimes.com"
+      },
+      "author": "Naveen Athrappully",
+      "title": "Nearly 25,000 Pounds of Frozen Taquitos Recalled Over Possible Metal Contamination",
+      "description": "Class 1 recalls are issued when there is a probability of serious health effects, including death, from consuming the food.",
+      "url": "https://www.theepochtimes.com/business/nearly-25000-pounds-of-frozen-taquitos-recalled-over-possible-metal-contamination-5790874",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2025/01/13/id5790875-chicken_bestway-1080x720.jpg",
+      "publishedAt": "2025-01-13T13:13:45Z",
+      "content": "California-based Bestway Sandwiches Inc. is recalling thousands of pounds of chicken products sold through ALDI grocery outlets in the United States due to concerns that the items could contain metal… [+3574 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1092,203 +1274,8 @@
       "urlToImage": "https://static.bangkokpost.com/media/content/20250110/c1_2936991_700.jpg",
       "publishedAt": "2025-01-10T02:45:00Z",
       "content": "Hong Kong's flag carrier Cathay Pacific Airways has apologised to affected passengers on two flights from Nepal and pledged to assist health authorities' investigation after food poisoning struck tra… [+1755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "What to do with raw salmon?",
-      "description": "What to Do with Raw Salmon? Raw salmon is a popular ingredient in many cuisines, particularly in Asian and Pacific […]\nThe post What to do with raw salmon? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/what-to-do-with-raw-salmon/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-10T00:37:48Z",
-      "content": "What to Do with Raw Salmon?\r\nRaw salmon is a popular ingredient in many cuisines, particularly in Asian and Pacific Island cultures. It’s a nutrient-rich food that offers numerous health benefits whe… [+5410 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "What to do with old fridge?",
-      "description": "What to Do with Old Fridge: A Comprehensive Guide Before You Start Before you begin the process of disposing of […]\nThe post What to do with old fridge? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/what-to-do-with-old-fridge/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-10T00:24:41Z",
-      "content": "What to Do with Old Fridge: A Comprehensive Guide\r\nBefore You Start\r\nBefore you begin the process of disposing of your old fridge, it’s essential to consider a few things. Do you have a suitable loca… [+4680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Food Recalls: List of Items Pulled for Plastic Contamination",
-      "description": "The United States Department of Agriculture has issued countless recalls regarding plastic contamination in the last several months, sparking concerns over what materials are hidden in food items.\nRecalls can be issued for a variety of reasons, from undeclare…",
-      "url": "https://biztoc.com/x/7cd512e3922bd3e2",
-      "urlToImage": "https://biztoc.com/cdn/7cd512e3922bd3e2_s.webp",
-      "publishedAt": "2025-01-09T23:36:16Z",
-      "content": "The United States Department of Agriculture has issued countless recalls regarding plastic contamination in the last several months, sparking concerns over what materials are hidden in food items.Rec… [+143 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Suzanne Blake",
-      "title": "Food Recalls: List of Items Pulled for Plastic Contamination",
-      "description": "Recalls can be issued for a variety of reasons, from undeclared allergens to plastic and bacterial contamination.",
-      "url": "https://www.newsweek.com/food-recalls-list-items-pulled-plastic-contamination-2012778",
-      "urlToImage": "https://d.newsweek.com/en/full/2561298/grocery-store.jpg",
-      "publishedAt": "2025-01-09T23:30:19Z",
-      "content": "The United States Department of Agriculture has issued countless recalls regarding plastic contamination in the last several months, sparking concerns over what materials are hidden in food items.\r\nR… [+4514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. Medical billing provider Medusind suffered a sata breach",
-      "description": "Medusind, a medical billing provider, disclosed a data breach that occurred in December 2023 and affected over 360,000 individuals. Medusind is a company that provides medical billing, coding, and revenue cycle management (RCM) services to healthcare organiza…",
-      "url": "https://securityaffairs.com/172870/data-breach/medusind-data-breach.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
-      "publishedAt": "2025-01-09T22:36:54Z",
-      "content": "U.S. Medical billing provider Medusind suffered a sata breach\r\n | U.S. CISA adds Ivanti Connect Secure, Policy Secure, and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog\r\n | SOC Sca… [+129641 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Allrecipes.com"
-      },
-      "author": "Robin Shreeves",
-      "title": "USDA Issues Health Alert for Frozen Chicken Products Sold at Walmart Stores Nationwide",
-      "description": "The USDA's FSIS has issued a public health alert for Bettergoods chicken empanadas due to misbranding and a resulting undeclared allergen. The empanadas, sold at Walmart, may actually contain an apple cinnamon filling.",
-      "url": "https://www.allrecipes.com/walmart-chicken-empanada-health-alert-jan-2025-8771975",
-      "urlToImage": "https://www.allrecipes.com/thmb/Ey5QAqFPQLtxCK7Z8Rf1bQvxuY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-walmart-recall-2x1-9a19d528249a48028be5039164b6ef81.jpg",
-      "publishedAt": "2025-01-09T21:59:08Z",
-      "content": "A public health alert has been issued by the USDAs Food Safety and Inspection Service (FSIS) for empanadas sold at Walmarts nationwide due to product mislabeling. The empanada packaging is labeled as… [+1333 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Pet dogs often overlooked as spreader of antimicrobial-resistant Salmonella",
-      "description": "Antibiotic-resistant Salmonella is a serious public health concern that has increased in recent years as the bacteria have developed ways to survive drugs. According to the U.S. Centers for Disease Control and Prevention, people can get Salmonella from eating…",
-      "url": "https://www.sciencedaily.com/releases/2025/01/250109163123.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-01-09T21:31:23Z",
-      "content": "Antibiotic-resistant Salmonella is a serious public health concern that has increased in recent years as the bacteria have developed ways to survive drugs. According to the U.S. Centers for Disease C… [+6498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Skift"
-      },
-      "author": "Andrea Doyle",
-      "title": "8 Ways to Protect Attendees From Norovirus This Winter",
-      "description": "As CES 2025 is underway in Las Vegas, some Chinese exhibitors encountered hurdles with U.S. visa denials, highlighting broader geopolitical tensions. -Andrea Doyle",
-      "url": "http://meetings.skift.com/2025/01/09/8-ways-to-protect-attendees-from-norovirus-this-winter/",
-      "urlToImage": "https://meetings.skift.com/wp-content/uploads/2025/01/final-image-3.jpg",
-      "publishedAt": "2025-01-09T18:52:40Z",
-      "content": "As the temperatures drop, peoples chances of illness increase and this season has been marked by the increasing threat of norovirus. \r\nNorovirus is a highly contagious stomach virus flu that is sprea… [+3211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Pizza Recall Update As FDA Sets Risk Level Over Plastic Contamination",
-      "description": "A frozen pizza product that was recalled across three states has been issued a \"Class II\" risk level by the U.S. Food and Drug Administration (FDA).\nThe \"Connie's Thin Crust Cheese Pizza\" product was voluntarily recalled on December 13 last year by the Wiscon…",
-      "url": "https://biztoc.com/x/3abe208b6e25dcf1",
-      "urlToImage": "https://biztoc.com/cdn/3abe208b6e25dcf1_s.webp",
-      "publishedAt": "2025-01-09T17:31:58Z",
-      "content": "A frozen pizza product that was recalled across three states has been issued a \"Class II\" risk level by the U.S. Food and Drug Administration (FDA).The \"Connie's Thin Crust Cheese Pizza\" product was … [+140 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jess Thomson",
-      "title": "Pizza Recall Update As FDA Sets Risk Level Over Plastic Contamination",
-      "description": "The recalled \"Connie's Thin Crust Cheese Pizza\" was issued a Class II risk level by the FDA, the second-most severe risk level.",
-      "url": "https://www.newsweek.com/fda-recall-pizza-plastic-contamination-class-ii-2012446",
-      "urlToImage": "https://d.newsweek.com/en/full/2560666/pizza-recall.jpg",
-      "publishedAt": "2025-01-09T17:22:44Z",
-      "content": "A frozen pizza product that was recalled across three states has been issued a \"Class II\" risk level by the U.S. Food and Drug Administration (FDA).\r\nThe \"Connie's Thin Crust Cheese Pizza\" product wa… [+2645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Cornbread Mix Recall As FDA Sets Highest Risk Warning",
-      "description": "Recalled bags of cornflour mix have been classified by the U.S. Food and Drug Administration (FDA) after they were found to contain an undeclared allergen.\nWhy It Matters\nUndeclared allergens in food items can cause serious and sometimes fatal allergic reacti…",
-      "url": "https://biztoc.com/x/4750f2353d18a37f",
-      "urlToImage": "https://biztoc.com/cdn/4750f2353d18a37f_s.webp",
-      "publishedAt": "2025-01-09T17:10:03Z",
-      "content": "Recalled bags of cornflour mix have been classified by the U.S. Food and Drug Administration (FDA) after they were found to contain an undeclared allergen.Why It MattersUndeclared allergens in food i… [+141 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Aliss Higham",
-      "title": "Cornbread Mix Recall As FDA Sets Highest Risk Warning",
-      "description": "The product, by Texas-based C.H. Guenther & Son, was found to contain undeclared egg, which is a major allergen.",
-      "url": "https://www.newsweek.com/cornbread-mix-recall-fda-sets-highest-risk-warning-2012386",
-      "urlToImage": "https://d.newsweek.com/en/full/2560692/cornbread.jpg",
-      "publishedAt": "2025-01-09T17:06:42Z",
-      "content": "Recalled bags of cornflour mix have been classified by the U.S. Food and Drug Administration (FDA) after they were found to contain an undeclared allergen.\r\nWhy It Matters\r\nUndeclared allergens in fo… [+3030 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "Are you consuming microplastics through fish or seafood? Here’s what we know",
-      "description": "New research reveals significant microplastic contamination in commonly consumed seafood, including finfish and crustaceans. Portland State University scientists discovered these particles in six species important to Oregon, stressing the need for strategies …",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/are-you-consuming-microplastics-through-fish-or-seafood-heres-what-we-know/articleshow/117092896.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-117092903,width-1070,height-580,imgsize-31218,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-01-09T16:37:07Z",
-      "content": "Microplastics can enter the food chain when plastic objects degrade and break into smaller fragments. They can also contaminate the food chain indirectly when harmful chemicals leach from the fragmen… [+682 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-09T16:30:05Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Ukrainian Cyber Alliance destroyed the connectivity of Russian ISP Nodex",
-      "description": "A group of hacktivists, known as the Ukrainian Cyber Alliance, breached Russian ISP Nodex, stole sensitive documents, and wiped systems. Ukrainian Cyber Alliance hacked Russian ISP Nodex, stole sensitive data, and wiped systems, highlighting their cyberattack…",
-      "url": "https://securityaffairs.com/172864/hacktivism/ukrainian-cyber-alliance-destroyed-russian-isp-nodex.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-13.png",
-      "publishedAt": "2025-01-09T15:07:44Z",
-      "content": "U.S. CISA adds Ivanti Connect Secure, Policy Secure, and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog\r\n | SOC Scalability: How AI Supports Growth Without Overloading Analysts\r\n | … [+129575 chars]"
     }
   ],
-  "totalResults": 99,
-  "filteredCount": 1
+  "totalResults": 98,
+  "filteredCount": 2
 }
