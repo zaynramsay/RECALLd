@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-01-13T18:31:02.044Z",
+  "lastUpdated": "2025-01-14T01:38:38.009Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Pro-Russia hackers NoName057 targets Italy again after Zelensky’s visit to the country",
+      "description": "Over the weekend, Italy faced new waves of DDoS attacks carried out by pro-Russia group NoName057(16). Pro-Russia hackers Noname057(16) targeted Italian ministries, institutions, critical infrastructure’s websites and private organizations over the weekend. T…",
+      "url": "https://securityaffairs.com/172982/hacktivism/noname057-targets-italy.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-17.png",
+      "publishedAt": "2025-01-12T20:39:21Z",
+      "content": "Pro-Russia hackers NoName057 targets Italy again after Zelensky's visit to the country\r\n | Security Affairs newsletter Round 506 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | How a researcher earne… [+130334 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Adeola Adeosun",
+      "title": "Cause of Deadly Boar's Head Listeria Outbreak Revealed",
+      "description": "Poor sanitation at Virginia Boar's Head plant caused a deadly listeria outbreak that killed 10 and sickened 61 last summer.",
+      "url": "https://www.newsweek.com/cause-boars-head-deadly-listeria-outbreak-revealed-2013697",
+      "urlToImage": "https://d.newsweek.com/en/full/2562761/boars-head.jpg",
+      "publishedAt": "2025-01-12T20:38:00Z",
+      "content": "The U.S. Department of Agriculture (USDA) has identified inadequate sanitation at a Boar's Head plant in Virginia as a major contributing factor in last summer's multistate listeria outbreak that res… [+3094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 28",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Finding Malware: Unveiling PLAYFULGHOST with Google Security Operations   Scam Sniffer 2024: Web3 Phishing Attacks – Wallet …",
+      "url": "https://securityaffairs.com/172978/malware/security-affairs-malware-newsletter-round-28.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-01-12T18:45:37Z",
+      "content": "Security Affairs newsletter Round 506 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | How a researcher earned $100,000 hacking a Facebook server\r\n | DoJ charged three Russian citizens with operating … [+130243 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -256,7 +295,7 @@
       "author": "Rachael Volpe",
       "title": "Health Hazard: FDA Warns of Lead Leaching into Your Food from Use of These Cookware Brands - NewsBreak",
       "description": "The U.S. Food and Drug Administration (FDA) has issued a letter to cookware retailers and distributors, warning them and consumers that certain imported co",
-      "url": "https://www.newsbreak.com/share/3756102551949-health-hazard-fda-warns-of-lead-leaching-into-your-food-from-use-of-these-cookware-brands?s=a2&amp;share_destination_id=MTU5NjE3NDAzLTE3MzY2NDA0NjIzNjI%3D&amp;pd=0AnjmFiw&amp;hl=en_US&amp;send_time=1736640462&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v5%2Cns_foryou_blend_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v8",
+      "url": "https://www.newsbreak.com/share/3756102551949-health-hazard-fda-warns-of-lead-leaching-into-your-food-from-use-of-these-cookware-brands?s=a2&amp;share_destination_id=MjUxNzE4NzUzLTE3MzY2MzI5MTcyNzk%3D&amp;pd=0H2BXtcW&amp;hl=en_US&amp;send_time=1736632917&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8",
       "urlToImage": "https://img.particlenews.com/img/id/0XBdXh_0y4jt9Qm00",
       "publishedAt": "2025-01-11T21:44:44Z",
       "content": "The U.S. Food and Drug Administration (FDA) has issued a letter to cookware retailers and distributors, warning them and consumers that certain imported cookware brands made from aluminum, brass, and… [+4914 chars]"
@@ -269,7 +308,7 @@
       "author": "Rachael Volpe",
       "title": "Health Hazard: FDA Warns of Lead Leaching into Your Food from Use of These Cookware Brands - NewsBreak",
       "description": "The U.S. Food and Drug Administration (FDA) has issued a letter to cookware retailers and distributors, warning them and consumers that certain imported co",
-      "url": "https://www.newsbreak.com/share/3756102551949-health-hazard-fda-warns-of-lead-leaching-into-your-food-from-use-of-these-cookware-brands?s=a2&amp;share_destination_id=MjUxNzE4NzUzLTE3MzY2MzI5MTcyNzk%3D&amp;pd=0H2BXtcW&amp;hl=en_US&amp;send_time=1736632917&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8",
+      "url": "https://www.newsbreak.com/share/3756102551949-health-hazard-fda-warns-of-lead-leaching-into-your-food-from-use-of-these-cookware-brands?s=a2&amp;share_destination_id=MTU5NjE3NDAzLTE3MzY2NDA0NjIzNjI%3D&amp;pd=0AnjmFiw&amp;hl=en_US&amp;send_time=1736640462&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v5%2Cns_foryou_blend_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v8",
       "urlToImage": "https://img.particlenews.com/img/id/0XBdXh_0y4jt9Qm00",
       "publishedAt": "2025-01-11T21:44:44Z",
       "content": "The U.S. Food and Drug Administration (FDA) has issued a letter to cookware retailers and distributors, warning them and consumers that certain imported cookware brands made from aluminum, brass, and… [+4914 chars]"
@@ -402,7 +441,7 @@
       "url": "https://lifesciencesworld.com/can-crows-eat-dried-lentils/",
       "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
       "publishedAt": "2025-01-11T14:17:50Z",
-      "content": "Can Crows Eat Dried Lentils?\r\nUnderstanding the Nutritional Value of Lentils\r\nLentils are a type of legume that is rich in nutrients, fiber, and protein. They are a staple food in many cultures aroun… [+4293 chars]"
+      "content": "Can Crows Eat Dried Lentils?\r\nUnderstanding the Nutritional Value of Lentils\r\nLentils are a type of legume that is rich in nutrients, fiber, and protein. They are a staple food in many cultures aroun��� [+4293 chars]"
     },
     {
       "source": {
@@ -623,7 +662,7 @@
       "url": "https://www.rt.com/news/610701-us-refuse-pay-anti-doping/",
       "urlToImage": "https://mf.b37mrtl.ru/files/2025.01/article/6781484f2030272622028f6e.jpg",
       "publishedAt": "2025-01-10T16:21:57Z",
-      "content": "The US has withheld its $3.6 million annual contribution to the World Anti-Doping Agency (WADA), several news agencies reported this week, citing the White House. Washington has accused the global an… [+1843 chars]"
+      "content": "The US has withheld its $3.6 million annual contribution to the World Anti-Doping Agency (WADA), several news agencies reported this week, citing the White House. Washington has accused the global an�� [+1843 chars]"
     },
     {
       "source": {
@@ -1033,19 +1072,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Camilo C. Castro-Jiménez, Julio C. Saldarriaga-Molina, Edwin F. García, Ricardo A. Torres-Palma, Nancy Acelas",
-      "title": "Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and isotherms studies",
-      "description": "In this study, we utilized drinking water treatment sludge (WTS) to produce adsorbents through the drying and calcination process. These adsorbents were then evaluated for their ability to remove azithromycin (AZT) from aqueous solutions. The L-500 adsorbent,…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316487",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316487.g012&size=inline",
-      "publishedAt": "2025-01-09T14:00:00Z",
-      "content": "Citation: Castro-Jiménez CC, Saldarriaga-Molina JC, García EF, Torres-Palma RA, Acelas N (2025) Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and… [+35937 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Sara Formichetti, Agnieszka Sadowska, Michela Ascolani, Julia Hansen, Kerstin Ganter, Christophe Lancrin, Neil Humphreys, Mathieu Boulard",
       "title": "Genetic gradual reduction of OGT activity unveils the essential role of O-GlcNAc in the mouse embryo",
       "description": "Author summary Posttranslational modifications of proteins enable cells to rapidly adapt to changes in their environment. Here, we investigated the role of the modification of intracellular proteins by a sugar molecule in the mouse embryo. The O-GlcNAc transf…",
@@ -1066,6 +1092,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012358.g003&size=inline",
       "publishedAt": "2025-01-09T14:00:00Z",
       "content": "Abstract\r\nObjective\r\nSchistosomiasis has been recognized by WHO as a major contributor to mortality and morbidity, particularly in Sub-Sahara Africa, where it is most prevalent. There is a lack of re… [+28896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Camilo C. Castro-Jiménez, Julio C. Saldarriaga-Molina, Edwin F. García, Ricardo A. Torres-Palma, Nancy Acelas",
+      "title": "Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and isotherms studies",
+      "description": "In this study, we utilized drinking water treatment sludge (WTS) to produce adsorbents through the drying and calcination process. These adsorbents were then evaluated for their ability to remove azithromycin (AZT) from aqueous solutions. The L-500 adsorbent,…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316487",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316487.g012&size=inline",
+      "publishedAt": "2025-01-09T14:00:00Z",
+      "content": "Citation: Castro-Jiménez CC, Saldarriaga-Molina JC, García EF, Torres-Palma RA, Acelas N (2025) Azithromycin removal from water via adsorption on drinking water sludge-derived materials: Kinetics and… [+35937 chars]"
     },
     {
       "source": {
@@ -1235,45 +1274,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
       "publishedAt": "2025-01-09T00:30:00Z",
       "content": "NEWARK, Del, Jan. 08, 2025 (GLOBE NEWSWIRE) -- The global tamper-evident packaging industry is set to expand significantly over the next decade, with its Industry size estimated to grow from USD 1,94… [+26042 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Gayfemboy Botnet targets Four-Faith router vulnerability",
-      "description": "Gayfemboy, a Mirai botnet variant, has been exploiting a flaw in Four-Faith industrial routers to launch DDoS attacks since November 2024. The Gayfemboy botnet was first identified in February 2024, it borrows the code from the basic Mirai variant and now int…",
-      "url": "https://securityaffairs.com/172805/malware/gayfemboy-mirai-botnet-four-faith-flaw.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-11.png",
-      "publishedAt": "2025-01-08T19:09:11Z",
-      "content": "Gayfemboy Botnet targets Four-Faith router vulnerability\r\n | Meta replaces fact-checking with community notes post 'Cultural Tipping Point'\r\n | U.S. CISA adds Oracle WebLogic Server and Mitel MiColla… [+129316 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Smithsonian.com"
-      },
-      "author": "Sarah Kuta",
-      "title": "Divers Recover Ancient Shipwreck That Sank 2,600 Years Ago Off the Coast of Spain",
-      "description": "Piece by piece, experts carefully transported the Phoenician vessel to dry land, where it will be studied and preserved",
-      "url": "https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/",
-      "urlToImage": "https://th-thumbnailer.cdn-si-edu.com/u6y8gkJtF-N6XD-bJP_Atv5MwRk=/fit-in/1200x0/filters:focal(400x301:401x302)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fcb%2Fac%2Fcbacbdbe-56dc-4a1a-8921-80151be9ef33%2F2.jpg",
-      "publishedAt": "2025-01-08T19:07:06Z",
-      "content": "For several months, archaeologists carried fragments of the shipwreck to the surface.\r\n Jose Antonio Moya\r\nArchaeologists have raised a 2,600-year-old shipwreck from the waters near southeastern Spai… [+3533 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Sophie Clark",
-      "title": "Target Food Recalls Issued For 50 States: Full List of Products Impacted",
-      "description": "Target has had five recent recalls of foods distributed across stores across the U.S.",
-      "url": "https://www.newsweek.com/target-recent-food-recalls-2011860",
-      "urlToImage": "https://d.newsweek.com/en/full/2559658/target-sign.jpg",
-      "publishedAt": "2025-01-08T18:03:13Z",
-      "content": "Target currently has recalls for five foods sold in states across the country based on FDA recalls of the same products.\r\nTarget has said: \"Our guests, your safety, is our highest priority. For this … [+5877 chars]"
     }
   ],
   "totalResults": 98,
