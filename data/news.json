@@ -1,6 +1,201 @@
 {
-  "lastUpdated": "2025-01-15T12:40:43.852Z",
+  "lastUpdated": "2025-01-15T18:27:40.676Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "seattlepi.com"
+      },
+      "author": "By JONEL ALECCIA, AP Health Writer",
+      "title": "USDA documented insects, slime and ‘general filth’ at Boar's Head plants, records show",
+      "description": "U.S. food inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just the Jarratt, Virginia, factory that was shut down last year. That's according to newly released federal documents in response to an Associated Press record…",
+      "url": "https://www.seattlepi.com/business/article/usda-documented-insects-slime-and-general-20033976.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/46/51/65/26910057/3/rawImage.jpg",
+      "publishedAt": "2025-01-14T18:27:03Z",
+      "content": "FILE - A Boar's Head logo is seen at a bodega in New York, Aug. 30, 2024.Stephanie Nano/AP\r\nGovernment inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just th… [+5240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "USDA documented insects, slime and ‘general filth’ at Boar’s Head plants, records show",
+      "description": "An outbreak of listeria food poisoning tied to a Boar's Head plant sickened more than 60 people and killed 10.",
+      "url": "https://www.bostonherald.com/2025/01/14/deli-meat-listeria-boars-head/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/01/US_Deli_Meat_Listeria_89145.jpg?w=1024&h=682",
+      "publishedAt": "2025-01-14T18:19:47Z",
+      "content": "By JONEL ALECCIA, AP Health Writer\r\nGovernment inspectors documented unsanitary conditions at several Boar’s Head deli meat plants, not just the factory that was shut down last year after a deadly ou… [+4996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-13T15:31:35Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "JONEL ALECCIA",
+      "title": "USDA documented insects, slime and ‘general filth’ at Boar's Head plants, records show",
+      "description": "Government inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just the factory that was shut down last year after a...",
+      "url": "https://www.yahoo.com/news/usda-documented-insects-slime-general-181421453.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7.GOuu_XzyeLz55OMpvsfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/761aa3b614b0dc6aa3ccf5db68a6b051",
+      "publishedAt": "2025-01-14T18:14:21Z",
+      "content": "Government inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just the factory that was shut down last year after a deadly outbreak of listeria poisoning, federa… [+4861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "Robotic Palletizer Market to Worth Over US$ 3,064.32 Million By 2033 | Astute Analytica",
+      "description": "Rising logistics complexity and mounting consumer expectations favor adaptive palletizing solutions. Integrations with warehouse software reduce downtime, AI-based tools enhance efficiency, and global robotics providers innovate relentlessly. Robotic palletiz…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/14/3009509/0/en/Robotic-Palletizer-Market-to-Worth-Over-US-3-064-32-Million-By-2033-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2025-01-14T16:30:00Z",
+      "content": "New Delhi, Jan. 14, 2025 (GLOBE NEWSWIRE) -- The global robotic palletizer market is projected to hit the valuation of US$ 3,064.32 million by 2033, up from US$ 1,695.33 million in 2024 at a CAGR of … [+14512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Russia-linked APT UAC-0063 target Kazakhstan in with HATVIBE malware",
+      "description": "Russia-linked threat actor UAC-0063 targets Kazakhstan to gather economic and political intelligence in Central Asia. Russia-linked threat actors UAC-0063 is targeting Kazakhstan as part of a cyber espionage campaign to gather economic and political intellige…",
+      "url": "https://securityaffairs.com/173064/apt/uac-0063-target-kazakhstan-hatvibe-malware.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-22.png",
+      "publishedAt": "2025-01-14T16:29:22Z",
+      "content": "Russia-linked APT UAC-0063 target Kazakhstan in with HATVIBE malware\r\n | A new campaign is likely targeting a zero-day in Fortinet FortiGate firewalls\r\n | Threat actors exploit Aviatrix Controller fl… [+130942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "United States Sterilization Services Market Forecast & Opportunities 2020-2030, Featuring Steris, Getinge, Advanced Sterilization Products, 3M, Belimed, Cantel Medical, Matachana, Sterigenics & TSO3",
+      "description": "Dublin, Jan. 14, 2025 (GLOBE NEWSWIRE) -- The \"United States Sterilization Services Market, By Region, Competition, Forecast & Opportunities, 2020-2030F\" report has been added to ResearchAndMarkets.com's offering.The United States Sterilization Services Marke…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/14/3009490/28124/en/United-States-Sterilization-Services-Market-Forecast-Opportunities-2020-2030-Featuring-Steris-Getinge-Advanced-Sterilization-Products-3M-Belimed-Cantel-Medical-Matachana-Sterigenic.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-01-14T16:05:00Z",
+      "content": "Dublin, Jan. 14, 2025 (GLOBE NEWSWIRE) -- The \"United States Sterilization Services Market, By Region, Competition, Forecast &amp; Opportunities, 2020-2030F\" report has been added to ResearchAndMarke… [+8546 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Chloe Mayer",
+      "title": "Aldi Food Recalls Issued for 34 States: Full List of Products Impacted",
+      "description": "Two of the recalls were initiated over fears the food could be contaminated with E. coli or listeria.",
+      "url": "https://www.newsweek.com/aldi-food-recalls-ecoli-listeria-2014647",
+      "urlToImage": "https://d.newsweek.com/en/full/2564105/aldi-food-recall-map.jpg",
+      "publishedAt": "2025-01-14T15:27:45Z",
+      "content": "Aldi has issued a series of food recalls across the United States over the past three months amid fears that some of the products could make customers sick with potentially deadly food poisoning bugs… [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "Raw Cat Food Linked to Bird Flu -- A Vet Shares How to Protect Your Pets From the Virus",
+      "description": "Both cats and dogs can contract the virus, but cats are at higher risk for severe illness. We asked an expert what you can do about it.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/raw-cat-food-linked-to-bird-flu-a-vet-shares-how-to-protect-your-pets-from-the-virus/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/fdd8ec5d38d9cc1c2462bfc3b0e5875bfa1ce564/hub/2025/01/13/f6c94631-cb7c-4032-9bce-a34dc10a8a3a/gettyimages-1687139789.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-14T15:00:04Z",
+      "content": "A raw cat food item from Northwest Naturals was recalled due to an avian influenza (bird flu or H5N1) contamination, and one cat has since died, causing pet owners to be on high alert regarding the v… [+4414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "GrrlScientist, Senior Contributor, \n GrrlScientist, Senior Contributor\n https://www.forbes.com/sites/grrlscientist/",
+      "title": "How To Disease-Proof Your Wild Bird Feeders",
+      "description": "Feeding wild birds is a popular hobby globally, but it presents invisible disease risks to the very birds that we are feeding — but there are ways to safeguard their health",
+      "url": "https://www.forbes.com/sites/grrlscientist/2025/01/14/how-to-disease-proof-your-wild-bird-feeders/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67851812394b45e246182064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-01-14T14:50:10Z",
+      "content": "Feeding wild birds is a popular hobby globally, but it presents invisible disease risks to the very birds that we are feeding but there are ways to safeguard their health\r\nAdult male European Greenfi… [+8977 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Curler Briane Harris not at fault for anti-doping rule violation, provisional ban lifted",
+      "description": "Canadian curler Briane Harris can return to the ice immediately. Nearly a year after testing positive for a banned substance which she said she was unknowingly exposed to through bodily contact, Harris has won her appeal case before the Court of Arbitration f…",
+      "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-briane-harris-doping-appeal-result-1.7430616",
+      "urlToImage": "https://i.cbc.ca/1.7140285.1710176309!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/sweden-curling-worlds.jpg?im=Resize%3D620",
+      "publishedAt": "2025-01-14T14:49:07Z",
+      "content": "Canadian curler Briane Harris can return to the ice immediately.\r\nNearly a year after testing positive for a banned substance which she said she was unknowingly exposed to through bodily contact, Har… [+1863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Ben Kesslen",
+      "title": "Recall issued for nearly 25,000 pounds of frozen Aldi taquitos",
+      "description": "One person sustained a dental injury from metal found in their frozen chicken and cheese taquito",
+      "url": "https://qz.com/recall-issued-for-25k-pounds-of-frozen-aldi-taquitos-1851738977",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0702bf4b5aeaa098ed4fc5bed15606cf.jpg",
+      "publishedAt": "2025-01-14T14:45:00Z",
+      "content": "In This Story\r\nAldi shoppers should check their freezers. The United States Department of Agriculture (USDA) announced a recall on Saturday for around 24,870 pounds of frozen chicken and cheese taqui… [+1117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kibruyesfa Bayou, Getachew Terefe, Bersissa Kumsa",
+      "title": "Epidemiology of gastrointestinal parasites of dogs in four districts of central Ethiopia: Prevalence and risk factors",
+      "description": "From February 2022 to April 2023, a cross-sectional study on dog gastrointestinal parasites was conducted in Bishoftu, Dukem, Addis Ababa, and Sheno, Central Ethiopia, with the aim of estimating the prevalence and evaluating risk factors. A total of 701 faeca…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316539",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316539.g001&size=inline",
+      "publishedAt": "2025-01-14T14:00:00Z",
+      "content": "Abstract\r\nFrom February 2022 to April 2023, a cross-sectional study on dog gastrointestinal parasites was conducted in Bishoftu, Dukem, Addis Ababa, and Sheno, Central Ethiopia, with the aim of estim… [+30579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Saba Mohamed-Bibi, Blanca Ribot-Serra, Cristina Vaqué-Crusellas",
+      "title": "Effect of the PakCat program on nutrition status, dietary pattern and nutrition knowledge and skills of Pakistani women living in Catalonia evaluated by a mixed-method randomized control trial (RCT)",
+      "description": "Background Pakistani women are among the most affected groups by obesity and heart failure in Catalonia. Due to cultural and linguistic barriers, their participation in standard health promotion programs is limited. To address this issue, we implemented a cul…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316803",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316803.g002&size=inline",
+      "publishedAt": "2025-01-14T14:00:00Z",
+      "content": "Citation: Mohamed-Bibi S, Ribot-Serra B, Vaqué-Crusellas C (2025) Effect of the PakCat program on nutrition status, dietary pattern and nutrition knowledge and skills of Pakistani women living in Cat… [+33102 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Chloe Mayer",
+      "title": "FDA Sets Highest Concern Level for 4 Products",
+      "description": "Packages of chopped cucumbers have been recalled with the FDA warning that eating them could \"cause serious adverse health consequences or death.\"",
+      "url": "https://www.newsweek.com/cucumber-recall-salmonella-risk-fda-2014563",
+      "urlToImage": "https://d.newsweek.com/en/full/2564060/cucumber.jpg",
+      "publishedAt": "2025-01-14T13:05:21Z",
+      "content": "A recall of prepared cucumbers over salmonella fears was classified as the highest possible potential health risk this week—after experts ruled that consuming the products could prove fatal.\r\nPackage… [+4597 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +260,6 @@
       "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2024/12/9780593804353.jpg",
       "publishedAt": "2025-01-14T09:55:16Z",
       "content": "On the twentieth of August, we the members of the Tatenokai brotherhood held a skirmish in the boiling lowlands of Mt Fuji to test the mettle of the new recruits. Between the marching and manoeuvres,… [+12836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-13T15:31:35Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -233,7 +415,7 @@
       "url": "https://theconversation.com/burning-waste-is-a-dirty-way-to-generate-power-but-its-the-least-bad-alternative-until-we-fix-recycling-244874",
       "urlToImage": "https://images.theconversation.com/files/640419/original/file-20250102-19-uveaik.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5659%2C2825&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-01-13T17:18:35Z",
-      "content": "Burning waste to generate heat and electricity was deemed the UK’s “dirtiest form of power�� in a BBC investigation in October 2024, after the country’s last coal plant closed the month before.\n\nThe e… [+6084 chars]"
+      "content": "Burning waste to generate heat and electricity was deemed the UK’s “dirtiest form of power” in a BBC investigation in October 2024, after the country’s last coal plant closed the month before.\n\nThe e… [+6084 chars]"
     },
     {
       "source": {
@@ -1066,216 +1248,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2562515/cucumber.jpg",
       "publishedAt": "2025-01-11T16:30:22Z",
       "content": "Vegetable platters have been recalled in seven states over fears of possible contamination with salmonella.\r\nWhy It Matters\r\nThe products have been given a Class I categorization by the Food and Drug… [+3717 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Can crows eat dried lentils?",
-      "description": "Can Crows Eat Dried Lentils? Understanding the Nutritional Value of Lentils Lentils are a type of legume that is rich […]\nThe post Can crows eat dried lentils? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/can-crows-eat-dried-lentils/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-11T14:17:50Z",
-      "content": "Can Crows Eat Dried Lentils?\r\nUnderstanding the Nutritional Value of Lentils\r\nLentils are a type of legume that is rich in nutrients, fiber, and protein. They are a staple food in many cultures aroun… [+4293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Snopes.com"
-      },
-      "author": "Madison Dapcevich",
-      "title": "Yes, Study Reportedly Found Human DNA in Hot Dogs — But There's More to the Story",
-      "description": "Conducted by a private genomics company, the analysis found 2% of tested hot dogs contained traces of human DNA.",
-      "url": "https://www.snopes.com//news/2025/01/11/research-dna-hot-dogs/",
-      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/01/hot_dogs_contain_human_dna.jpg",
-      "publishedAt": "2025-01-11T14:00:00Z",
-      "content": "<ul><li>A 2015 report published by a private genomics testing company found that 2% of 345 hot dogs tested contained traces of human DNA. </li><li>However, it was unclear whether that report was a pe… [+7002 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Usda.gov"
-      },
-      "author": null,
-      "title": "Bestway Sandwiches Inc. Recalls Frozen Chicken And Cheese Taquito Products Due To Possible Foreign Matter Contamination",
-      "description": "WASHINGTON, Jan. 11, 2025 - Bestway Sandwiches Inc., a Valencia, Calif. establishment, is recalling approximately 24,870 pounds of frozen chicken and cheese taquito products that may be contaminated with foreign...",
-      "url": "http://www.fsis.usda.gov/recalls-alerts/bestway-sandwiches-inc--recalls-frozen-chicken-and-cheese-taquito-products-due",
-      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
-      "publishedAt": "2025-01-11T14:00:00Z",
-      "content": "WASHINGTON, Jan. 11, 2025 Bestway Sandwiches Inc., a Valencia, Calif. establishment, is recalling approximately 24,870 pounds of frozen chicken and cheese taquito products that may be contaminated wi… [+2107 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. cannabis dispensary STIIIZY disclosed a data breach",
-      "description": "US marijuana dispensary STIIIZY warns customers of leaked IDs and passports following a November data breach. US marijuana dispensary STIIIZY disclosed a data breach after a vendor’s point-of-sale system was compromised by cybercriminals. The security breach …",
-      "url": "https://securityaffairs.com/172950/data-breach/marijuana-dispensary-stiiizy-data-breach.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-18.png",
-      "publishedAt": "2025-01-11T11:39:31Z",
-      "content": "U.S. cannabis dispensary STIIIZY disclosed a data breach\r\n | A novel PayPal phishing campaign hijacks accounts\r\n | Banshee macOS stealer supports new evasion mechanisms\r\n | Researchers disclosed deta… [+130017 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Jules Bernstein",
-      "title": "Biofilm busters: Plant-derived molecule stops bacteria from forming protective biofilms on surfaces",
-      "description": "If your teeth have ever felt fuzzy after skipping a brushing, you've encountered biofilm—a slimy bacterial layer that clings to surfaces. In medical settings, biofilms make infections harder to treat when they form protective shields for bacteria on devices l…",
-      "url": "https://phys.org/news/2025-01-biofilm-busters-derived-molecule-bacteria.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/dangerous-bacterial-bi.jpg",
-      "publishedAt": "2025-01-11T11:18:10Z",
-      "content": "If your teeth have ever felt fuzzy after skipping a brushing, you've encountered biofilma slimy bacterial layer that clings to surfaces. In medical settings, biofilms make infections harder to treat … [+4526 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Can balsamic vinegar expire?",
-      "description": "The Expire of Balsamic Vinegar: Understanding Its Shelf Life What is Balsamic Vinegar? Balsamic vinegar is a type of vinegar […]\nThe post Can balsamic vinegar expire? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/can-balsamic-vinegar-expire/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-11T10:53:22Z",
-      "content": "The Expire of Balsamic Vinegar: Understanding Its Shelf Life\r\nWhat is Balsamic Vinegar?\r\nBalsamic vinegar is a type of vinegar that originates from Italy, specifically from the region of Modena. It i… [+3621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A novel PayPal phishing campaign hijacks accounts",
-      "description": "Fortinet warns of a phishing campaign using legitimate links to hijack PayPal accounts, tricking users into granting unauthorized access. Fortinet uncovered a phishing campaign targeting PayPal users. The scheme employs legitimate links to deceive victims and…",
-      "url": "https://securityaffairs.com/172935/cyber-crime/paypal-phishing-campaign-hijacks-accounts.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-16.png",
-      "publishedAt": "2025-01-11T09:04:51Z",
-      "content": "A novel PayPal phishing campaign hijacks accounts\r\n | Banshee macOS stealer supports new evasion mechanisms\r\n | Researchers disclosed details of a now-patched Samsung zero-click flaw\r\n | Phishers abu… [+129956 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Frontiersin.org"
-      },
-      "author": "Denaturing Gradient",
-      "title": "Frontiers | Abundance and Diversity of Hydrogenotrophic Microorganisms in the Infant Gut before the Weaning Period Assessed by Denaturing Gradient Gel Electrophoresis and Quantitative PCR",
-      "description": "Frontiers | Abundance and Diversity of Hydrogenotrophic Microorganisms in the Infant Gut before the Weaning Period Assessed by Denaturing Gradient Gel Electrophoresis and Quantitative PCRfrontiersin.org",
-      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2017.00029/full",
-      "urlToImage": "https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/248892/fnut-04-00029-HTML/image_m/fnut-04-00029-g001.jpg",
-      "publishedAt": "2025-01-11T08:09:30Z",
-      "content": "Introduction\r\nHydrogenotrophic microorganisms inhabiting the gut microbiota of humans and non-human animals are involved in a mutualistic relationship. Three major types of H2-consuming microorganism… [+37269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Are white claws gluten free?",
-      "description": "Are White Claws Gluten-Free? Understanding the Ingredients White Claw is a popular hard seltzer brand that offers a variety of […]\nThe post Are white claws gluten free? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/are-white-claws-gluten-free/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-11T05:43:19Z",
-      "content": "Are White Claws Gluten-Free?\r\nUnderstanding the Ingredients\r\nWhite Claw is a popular hard seltzer brand that offers a variety of flavors. However, when it comes to gluten-free status, consumers often… [+3548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Are white perch good to eat?",
-      "description": "Are White Perch Good to Eat? Introduction White perch (Morone americana) is a popular game fish found in many freshwater […]\nThe post Are white perch good to eat? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/are-white-perch-good-to-eat/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-11T05:41:34Z",
-      "content": "Are White Perch Good to Eat?\r\nIntroduction\r\nWhite perch (Morone americana) is a popular game fish found in many freshwater lakes and rivers across North America. Its mild flavor and firm texture make… [+3985 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marlerblog.com"
-      },
-      "author": "Bill Marler",
-      "title": "FDA finds Taylor Farms Colorado did not pass muster",
-      "description": "The slivered onions have been linked to an E. coli outbreak that sickened over 100, putting 1 man in an early grave. The FDA inspection report – redacted – makes an interesting read – full report below. OBSERVATION 1You did not implement your sanitation preve…",
-      "url": "https://www.marlerblog.com/case-news/fda-finds-taylor-farms-colorado-did-not-pass-muster/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/021/677/Lvpkalx2D6BnpXrM6WE7rB3Xq/e1241f7cc221a8429a44a60001c428be2d3fcca3.png",
-      "publishedAt": "2025-01-11T01:23:51Z",
-      "content": "The slivered onions have been linked to an E. coli outbreak that sickened over 100, putting 1 man in an early grave. The FDA inspection report – redacted – makes an interesting read – full report bel… [+447 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Why is annatto bad for You?",
-      "description": "Why is Annatto Bad for You? Introduction Annatto, a natural food coloring derived from the seeds of the achiote tree […]\nThe post Why is annatto bad for You? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/why-is-annatto-bad-for-you/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-11T01:12:43Z",
-      "content": "Why is Annatto Bad for You?\r\nIntroduction\r\nAnnatto, a natural food coloring derived from the seeds of the achiote tree (Bixa orellana), has been used for centuries in various cultures to add color an… [+5220 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Benzene in Pregnancy — A Hidden Threat to Children’s Health",
-      "description": "Benzene, a pervasive environmental toxin, is present in automobile exhaust, industrial emissions and even cigarette smoke, putting millions at risk of daily exposure. Alarmingly, increasing evidence indicates that benzene exposure during pregnancy disrupts th…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/01/11/benzene-pregnancy.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/January/FB/benzene-pregnancy-fb.jpg",
-      "publishedAt": "2025-01-11T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Alexander Tin",
-      "title": "FDA finds little handwashing, dirty equipment at McDonald's supplier linked to outbreak",
-      "description": "More than a hundred E. coli cases were linked to contaminated onions produced by Taylor Farms used in McDonald's burgers.",
-      "url": "https://www.cbsnews.com/news/fda-report-e-coli-outbreak-onions-taylor-farms/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/12/03/0439552c-7e75-4c09-b59d-46659f14aac3/thumbnail/1200x630/328f481144881376a6d0ff5e3c3f46f9/gettyimages-2180538566.jpg?v=c32e88638f4c371ec40100fff0bc2158",
-      "publishedAt": "2025-01-10T22:41:31Z",
-      "content": "Food and Drug Administration officials turned up dozens of violations at a McDonald's supplier linked to a deadly outbreak of E. coli that led to more than a hundred infections and a sweeping recall … [+4021 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Banshee macOS stealer supports new evasion mechanisms",
-      "description": "Experts found a new version of the Banshee macOS information stealer which was enhanced with new evasion mechanisms. Check Point researchers discovered a new version of the Banshee macOS infostealer which is distributed through phishing websites and fake GitH…",
-      "url": "https://securityaffairs.com/172918/malware/new-version-of-the-banshee-macos-stealer.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-15.png",
-      "publishedAt": "2025-01-10T21:09:43Z",
-      "content": "Banshee macOS stealer supports new evasion mechanisms\r\n | Researchers disclosed details of a now-patched Samsung zero-click flaw\r\n | Phishers abuse CrowdStrike brand targeting job seekers with crypto… [+129902 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WebMD"
-      },
-      "author": "Ralph Ellis",
-      "title": "Your Protein Powder May Contain Harmful Metals",
-      "description": "Over-the-counter protein powders have levels of lead and heavy metals like cadmium that exceed government food safety regulations, according to a report issued by the Clean Label Project, a consumer safety nonprofit.",
-      "url": "https://www.webmd.com/diet/news/20250110/protein-powder-harmful-metals",
-      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/whey_and_whey_isolate_ref_guide/1800x1200_getty_rf_whey_and_whey_isolate_ref_guide.jpg",
-      "publishedAt": "2025-01-10T20:30:29Z",
-      "content": "Jan. 10, 2025 -- Over-the-counter protein powders have levels of lead and heavy metals like cadmium that exceed government food safety regulations, according to a report issued by the Clean Label Pro… [+1673 chars]"
     }
   ],
-  "totalResults": 98,
-  "filteredCount": 2
+  "totalResults": 96,
+  "filteredCount": 4
 }
