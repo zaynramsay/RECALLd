@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-15T06:28:52.717Z",
+  "lastUpdated": "2025-01-15T12:40:43.852Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A new campaign is likely targeting a zero-day in Fortinet FortiGate firewalls",
+      "description": "Experts warn of a new campaign targeting an alleged zero-day in Fortinet FortiGate firewalls with management interfaces exposed online. Arctic Wolf researchers observed a campaign targeting Fortinet FortiGate firewalls with exposed management interfaces, like…",
+      "url": "https://securityaffairs.com/173050/hacking/attackers-target-zero-day-in-fortinet-fortigate-firewalls.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg",
+      "publishedAt": "2025-01-14T12:20:30Z",
+      "content": "A new campaign is likely targeting a zero-day in Fortinet FortiGate firewalls\r\n | Threat actors exploit Aviatrix Controller flaw to deploy backdoors and cryptocurrency miners\r\n | U.S. CISA adds Beyon… [+130869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Investing.com",
+      "title": "Hormel Foods Chairman, President and CEO James P. Snee to Retire at End of Fiscal Year",
+      "description": "Hormel Foods Chairman, President and CEO James P. Snee to Retire at End of Fiscal Year",
+      "url": "https://www.investing.com/news/press-releases/hormel-foods-chairman-president-and-ceo-james-p-snee-to-retire-at-end-of-fiscal-year-93CH-3811298",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+      "publishedAt": "2025-01-14T11:32:07Z",
+      "content": "AUSTIN, Minn.\r\n, Jan. 14, 2025\r\n /PRNewswire/ -- Hormel Foods Corporation (NYSE: NYSE:HRL), a Fortune 500 global branded food company, today announced that James P. Snee\r\n, chairman of the board, pre… [+6984 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "Global Robotic Palletizer Market to Worth Over US$ 3064.32 Million By 2033 | Astute Analytica",
+      "description": "Rising logistics complexity and mounting consumer expectations favor adaptive palletizing solutions. Integrations with warehouse software reduce downtime, AI-based tools enhance efficiency, and global robotics providers innovate relentlessly. Robotic palletiz…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/14/3009131/0/en/Global-Robotic-Palletizer-Market-to-Worth-Over-US-3064-32-Million-By-2033-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2025-01-14T11:30:00Z",
+      "content": "New Delhi, Jan. 14, 2025 (GLOBE NEWSWIRE) -- The global robotic palletizer market is projected to hit the valuation of US$ 3,064.32 million by 2033 from US$ 1,695.33 million in 2024 at a CAGR of 7.68… [+14510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Threat actors exploit Aviatrix Controller flaw to deploy backdoors and cryptocurrency miners",
+      "description": "A critical vulnerability in Aviatrix Controller is actively exploited to deploy backdoors and cryptocurrency miners in the wild. A security researcher Jakub Korepta discovered a critical vulnerability, tracked as CVE-2024-50603 (CVSS score: 10.0), in the Avia…",
+      "url": "https://securityaffairs.com/173037/cyber-crime/aviatrix-controller-flaw-active-exploitation.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/Aviatrix-Controller.png",
+      "publishedAt": "2025-01-14T10:23:54Z",
+      "content": "Threat actors exploit Aviatrix Controller flaw to deploy backdoors and cryptocurrency miners\r\n | U.S. CISA adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities cata… [+130787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lithub.com"
+      },
+      "author": "Lit Hub Excerpts",
+      "title": "“The Dragon Flute”",
+      "description": "On the twentieth of August, we the members of the Tatenokai brotherhood held a skirmish in the boiling lowlands of Mt Fuji to test the mettle of the new recruits. Between the marching and manoeuvres, the triple rounds of crawling out and sprinting back, some …",
+      "url": "https://lithub.com/the-dragon-flute/",
+      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2024/12/9780593804353.jpg",
+      "publishedAt": "2025-01-14T09:55:16Z",
+      "content": "On the twentieth of August, we the members of the Tatenokai brotherhood held a skirmish in the boiling lowlands of Mt Fuji to test the mettle of the new recruits. Between the marching and manoeuvres,… [+12836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-13T15:31:35Z",
+      "content": "[Removed]"
+    },
     {
       "source": {
         "id": null,
@@ -155,7 +233,7 @@
       "url": "https://theconversation.com/burning-waste-is-a-dirty-way-to-generate-power-but-its-the-least-bad-alternative-until-we-fix-recycling-244874",
       "urlToImage": "https://images.theconversation.com/files/640419/original/file-20250102-19-uveaik.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5659%2C2825&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-01-13T17:18:35Z",
-      "content": "Burning waste to generate heat and electricity was deemed the UK’s “dirtiest form of power” in a BBC investigation in October 2024, after the country’s last coal plant closed the month before.\n\nThe e… [+6084 chars]"
+      "content": "Burning waste to generate heat and electricity was deemed the UK’s “dirtiest form of power�� in a BBC investigation in October 2024, after the country’s last coal plant closed the month before.\n\nThe e… [+6084 chars]"
     },
     {
       "source": {
@@ -195,19 +273,6 @@
       "urlToImage": "https://img.particlenews.com/img/id/0zUSFT_0y5hVBK600",
       "publishedAt": "2025-01-13T16:58:13Z",
       "content": "The FDA hardly has any regulations at all for bottled water. \r\n Food &amp; Wine / Getty Images \r\nThe health halo surrounding bottled water is starting to burst. \r\n Bottled water first became popular … [+5081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-13T15:31:35Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -867,7 +932,7 @@
       "author": "Rachael Volpe",
       "title": "Health Hazard: FDA Warns of Lead Leaching into Your Food from Use of These Cookware Brands - NewsBreak",
       "description": "The U.S. Food and Drug Administration (FDA) has issued a letter to cookware retailers and distributors, warning them and consumers that certain imported co",
-      "url": "https://www.newsbreak.com/share/3756102551949-health-hazard-fda-warns-of-lead-leaching-into-your-food-from-use-of-these-cookware-brands?s=a2&amp;share_destination_id=MjUxNzE4NzUzLTE3MzY2MzI5MTcyNzk%3D&amp;pd=0H2BXtcW&amp;hl=en_US&amp;send_time=1736632917&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8",
+      "url": "https://www.newsbreak.com/share/3756102551949-health-hazard-fda-warns-of-lead-leaching-into-your-food-from-use-of-these-cookware-brands?s=a2&amp;share_destination_id=MTU5NjE3NDAzLTE3MzY2NDA0NjIzNjI%3D&amp;pd=0AnjmFiw&amp;hl=en_US&amp;send_time=1736640462&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v5%2Cns_foryou_blend_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v8",
       "urlToImage": "https://img.particlenews.com/img/id/0XBdXh_0y4jt9Qm00",
       "publishedAt": "2025-01-11T21:44:44Z",
       "content": "The U.S. Food and Drug Administration (FDA) has issued a letter to cookware retailers and distributors, warning them and consumers that certain imported cookware brands made from aluminum, brass, and… [+4914 chars]"
@@ -880,7 +945,7 @@
       "author": "Rachael Volpe",
       "title": "Health Hazard: FDA Warns of Lead Leaching into Your Food from Use of These Cookware Brands - NewsBreak",
       "description": "The U.S. Food and Drug Administration (FDA) has issued a letter to cookware retailers and distributors, warning them and consumers that certain imported co",
-      "url": "https://www.newsbreak.com/share/3756102551949-health-hazard-fda-warns-of-lead-leaching-into-your-food-from-use-of-these-cookware-brands?s=a2&amp;share_destination_id=MTU5NjE3NDAzLTE3MzY2NDA0NjIzNjI%3D&amp;pd=0AnjmFiw&amp;hl=en_US&amp;send_time=1736640462&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v6%2Cns_foryou_model_exp_25q1-v5%2Cns_foryou_blend_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v8",
+      "url": "https://www.newsbreak.com/share/3756102551949-health-hazard-fda-warns-of-lead-leaching-into-your-food-from-use-of-these-cookware-brands?s=a2&amp;share_destination_id=MjUxNzE4NzUzLTE3MzY2MzI5MTcyNzk%3D&amp;pd=0H2BXtcW&amp;hl=en_US&amp;send_time=1736632917&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8",
       "urlToImage": "https://img.particlenews.com/img/id/0XBdXh_0y4jt9Qm00",
       "publishedAt": "2025-01-11T21:44:44Z",
       "content": "The U.S. Food and Drug Administration (FDA) has issued a letter to cookware retailers and distributors, warning them and consumers that certain imported cookware brands made from aluminum, brass, and… [+4914 chars]"
@@ -1209,71 +1274,6 @@
       "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/whey_and_whey_isolate_ref_guide/1800x1200_getty_rf_whey_and_whey_isolate_ref_guide.jpg",
       "publishedAt": "2025-01-10T20:30:29Z",
       "content": "Jan. 10, 2025 -- Over-the-counter protein powders have levels of lead and heavy metals like cadmium that exceed government food safety regulations, according to a report issued by the Clean Label Pro… [+1673 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Broccoli Recall Over Metal Contamination Fears",
-      "description": "A whole grain breaded broccoli nugget product has been recalled due to fears that it may contain metal.\nThe Food and Drug Administration (FDA) issued a voluntary recall of 168 cases of Chow Ciao Whole Grain Breaded Broccoli Nuggets on December 10, which was i…",
-      "url": "https://biztoc.com/x/d608d88b6c70e933",
-      "urlToImage": "https://biztoc.com/cdn/d608d88b6c70e933_s.webp",
-      "publishedAt": "2025-01-10T16:23:29Z",
-      "content": "A whole grain breaded broccoli nugget product has been recalled due to fears that it may contain metal.The Food and Drug Administration (FDA) issued a voluntary recall of 168 cases of Chow Ciao Whole… [+142 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "US refuses to pay fees to global anti-doping agency",
-      "description": "The US has withheld its $3.6 million payment to WADA, demanding “reforms” and more transparency in its anti-doping assessments Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/610701-us-refuse-pay-anti-doping/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2025.01/article/6781484f2030272622028f6e.jpg",
-      "publishedAt": "2025-01-10T16:21:57Z",
-      "content": "The US has withheld its $3.6 million annual contribution to the World Anti-Doping Agency (WADA), several news agencies reported this week, citing the White House. Washington has accused the global an… [+1843 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Sophie Clark",
-      "title": "Broccoli Recall Over Metal Contamination Fears",
-      "description": "A breaded broccoli nugget product has been recalled by the FDA due to concerns about metal contamination.",
-      "url": "https://www.newsweek.com/broccoli-recall-over-metal-contamination-fears-fda-2013118",
-      "urlToImage": "https://d.newsweek.com/en/full/2561879/fda-brocolli-recall.jpg",
-      "publishedAt": "2025-01-10T16:13:03Z",
-      "content": "A whole grain breaded broccoli nugget product has been recalled due to fears that it may contain metal.\r\nThe Food and Drug Administration (FDA) issued a voluntary recall of 168 cases of Chow Ciao Who… [+2775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "FAZLEENA AZIZ",
-      "title": "Antibiotic, painkiller traces found in drinking water, study shows",
-      "description": "PETALING JAYA: Irresponsibly discarded antibiotics, steroids, hormones and painkillers, as well as high blood pressure, asthma, antibacterial, anti-inflammation and infection medications are making waves in our drinking water sources. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/01/11/antibiotic-painkiller-traces-found-in-drinking-water-study-shows",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/11/3112213.jpg",
-      "publishedAt": "2025-01-10T16:00:00Z",
-      "content": "PETALING JAYA: Irresponsibly discarded antibiotics, steroids, hormones and painkillers, as well as high blood pressure, asthma, antibacterial, anti-inflammation and infection medications are making w… [+2788 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "PFAS Filtration Market is Poised to Reach Valuation of US$ 3,855.56 Million by 2033 | Astute Analytica",
-      "description": "Mounting research on PFAS toxicology drives expanding filtration options worldwide. Ion exchange, carbon media, and membrane technologies receive heightened investment. Ongoing pilot projects, disposal challenges, and sustainability commitments converge to sh…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/10/3007787/0/en/PFAS-Filtration-Market-is-Poised-to-Reach-Valuation-of-US-3-855-56-Million-by-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-01-10T15:00:00Z",
-      "content": "New Delhi, Jan. 10, 2025 (GLOBE NEWSWIRE) -- The global PFAS filtration market is projected to hit the market valuation of US$ 3,855.56 million by 2033 from US$ 2,089.50 million in 2024 at a CAGR of … [+15774 chars]"
     }
   ],
   "totalResults": 98,
