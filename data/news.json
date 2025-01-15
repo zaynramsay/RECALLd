@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-01-14T18:28:01.514Z",
+  "lastUpdated": "2025-01-15T01:40:33.475Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities …",
+      "url": "https://securityaffairs.com/173031/security/u-s-cisa-adds-beyondtrust-pra-and-rs-and-qlik-sense-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-01-13T22:10:23Z",
+      "content": "U.S. CISA adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities catalog\r\n | Inexperienced actors developed the FunkSec ransomware using AI tools\r\n | Credit Card Skim… [+130690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Karolane Bourdon, Doctorante en sols et environnement, Département des sols et de génie agroalimentaire, Université Laval, Jacynthe Dessureault-Rompré, Professeure, Faculté des sciences de l'agriculture et l'alimentation, Département des sols et de génie agroalimentaire, Université Laval, Jean Caron, Professeur titulaire en physique des sols agricoles, Université Laval, Josée Fortin, Professeur en chimie des sols, Département des sols et de génie agroalimentaire, Université Laval",
+      "title": "Fertile land for growing vegetables is at risk — but a scientific discovery could turn the tide",
+      "description": "Organic soils, one of the pillars of Québec’s food self-sufficiency, could disappear within 50 years. Fortunately, the application of straw or wood chips could regenerate these soils.",
+      "url": "https://theconversation.com/fertile-land-for-growing-vegetables-is-at-risk-but-a-scientific-discovery-could-turn-the-tide-243414",
+      "urlToImage": "https://images.theconversation.com/files/631218/original/file-20240423-18-pzhvhv.png?ixlib=rb-4.1.0&rect=2%2C73%2C953%2C476&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-01-13T22:07:42Z",
+      "content": "A large proportion of the vegetables consumed in Québec are grown in the Montérégie region in what are known as organic soils. Highly fertile and rich in organic matter, these soils are particularly … [+6582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Your Protein Shake May Be Laced With Lead, Report Finds",
+      "description": "Nearly half of tested products contained potentially unsafe levels of lead, cadmium, and other toxic metals, according to a new report from the Clean Labels Project.",
+      "url": "https://gizmodo.com/your-protein-shake-may-be-laced-with-lead-report-finds-2000549496",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/protein-powder.jpg",
+      "publishedAt": "2025-01-13T20:55:41Z",
+      "content": "Your post-workout protein shake may come with some hidden dangerous ingredients. A new report finds that a substantial proportion of over-the-counter protein powders contain potentially unsafe levels… [+3228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Inexperienced actors developed the FunkSec ransomware using AI tools",
+      "description": "FunkSec, a new ransomware group that attacked more than 80 victims in December 2024, was developed using AI tools. The FunkSec ransomware-as-a-service (RaaS) group has been active since late 2024, the gang published over 85 victims in December 2024. The group…",
+      "url": "https://securityaffairs.com/173018/cyber-crime/funksec-ransomware-was-developed-using-ai-tools.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-20.png",
+      "publishedAt": "2025-01-13T20:54:22Z",
+      "content": "Inexperienced actors developed the FunkSec ransomware using AI tools\r\n | Credit Card Skimmer campaign targets WordPress via database injection\r\n | Microsoft took legal action against crooks who devel… [+130580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "menshealth.com"
+      },
+      "author": "Garrett Munce",
+      "title": "Braun All-In-One Series 7 Review: A Head-to-Toe Grooming Solution",
+      "description": "The Braun All-in-One Series 7 is designed to be used on every part of the body. Our grooming editor tested and reviews this multifunctional trimmer.",
+      "url": "https://www.menshealth.com/grooming/a63395158/braun-series-7-all-in-one-review/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/braun-all-in-one-7-review-678546c1c2aa8.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+      "publishedAt": "2025-01-13T20:47:00Z",
+      "content": "THE POINT OF a grooming tool is to make your routine easier. Thats why we're always excited about multi-functional gadgets that not only simplify your grooming, but also tackle more than one job so y… [+9671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "cleveland.com",
+      "title": "Frozen chicken and cheese products recalled; metal contamination suspected",
+      "description": "CLEVELAND, Ohio – Frozen chicken and cheese taquito products have been recalled after being suspected of metal contamination, the U.S. Department of Agriculture’s Food Safety and Inspection Service announced.\nBestway Sandwiches Inc. of Valencia, California, i…",
+      "url": "https://biztoc.com/x/870c9af96ddd637a",
+      "urlToImage": "https://biztoc.com/cdn/870c9af96ddd637a_s.webp",
+      "publishedAt": "2025-01-13T20:35:58Z",
+      "content": "CLEVELAND, Ohio Frozen chicken and cheese taquito products have been recalled after being suspected of metal contamination, the U.S. Department of Agricultures Food Safety and Inspection Service anno… [+147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Marianne Krasny, Contributor, \n Marianne Krasny, Contributor\n https://www.forbes.com/sites/mariannekrasny/",
+      "title": "Can Scientists Create Cows That Burp Less Methane?",
+      "description": "Food scientists, geneticists, microbiologists, and animal scientists are teaming up to answer this question.",
+      "url": "https://www.forbes.com/sites/mariannekrasny/2025/01/13/can-scientists-create-cows-that-burp-less-methane/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67855ddb7fd59797e9c35042/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-01-13T19:35:53Z",
+      "content": "UNITED KINGDOM - 2017/06/30: Cows grazing in a pasture along the coast near Bushmills and Portrush ... [+] on North Antrim Coast, County Antrim, Northern Ireland. (Photo by Wolfgang Kaehler/LightRock… [+11457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "12,000 cartons of chicken broth sold at Walmart pulled from shelves in latest food recall - NewsBreak",
+      "description": "More than 2,000 cases of chicken broth sold at Walmart have been recalled due to potential packing issues. According to the U.S. Food and Drug Administrat",
+      "url": "https://www.newsbreak.com/share/3758434120470-12-000-cartons-of-chicken-broth-sold-at-walmart-pulled-from-shelves-in-latest-food-recall?s=a2&share_destination_id=MjMyMjEyMTgxLTE3MzY3OTExMjA4NjU%3D&pd=0FiKzlLu&hl=en_US&send_time=1736791120&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_rank_exp_25q1-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/4Kd9tp_0y74tgFv00",
+      "publishedAt": "2025-01-13T19:26:00Z",
+      "content": "More than 2,000 cases of chicken broth sold at Walmart have been recalled due to potential packing issues. \r\n According to the U.S. Food and Drug Administration ( FDA ), 2,023 cases of Great Value, C… [+2435 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -324,7 +428,7 @@
       "url": "https://www.globalsecurity.org/military/library/news/2025/01/mil-250112-rfa01.htm",
       "urlToImage": null,
       "publishedAt": "2025-01-13T06:10:42Z",
-      "content": "UXOs contaminate the Pacific but there's little clean-up funding despite hundreds of millions of dollars being spent on new defense infrastructure.\r\nBy Harry Pearl for BenarNews2025.01.12\r\nPELELIU, P… [+8270 chars]"
+      "content": "UXOs contaminate the Pacific but there's little clean-up funding despite hundreds of millions of dollars being spent on new defense infrastructure.\r\nBy Harry Pearl for BenarNews2025.01.12\r\nPELELIU, P�� [+8270 chars]"
     },
     {
       "source": {
@@ -1170,110 +1274,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/09/Samsung-logo.jpg",
       "publishedAt": "2025-01-10T14:45:46Z",
       "content": "Researchers disclosed details of a now-patched Samsung zero-click flaw\r\n | Phishers abuse CrowdStrike brand targeting job seekers with cryptominer\r\n | China-linked APT group MirrorFace targets Japan\r… [+129844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Jae-Won Park, Kiyun Park, Ihn-Sil Kwak",
-      "title": "First report of a major management target species, chironomid Paratanytarsus grimmii (Diptera: Chironomidae) larvae, in drinking water treatment plants (DWTPs) in South Korea",
-      "description": "Ensuring the supply of safe and high-quality drinking water can be compromised by the presence of chironomid larvae in drinking water treatment plants (DWTPs), which may contaminate municipal water systems through freshwater resources. Chironomids are dominan…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315390",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315390.g006&size=inline",
-      "publishedAt": "2025-01-10T14:00:00Z",
-      "content": "Abstract\r\nEnsuring the supply of safe and high-quality drinking water can be compromised by the presence of chironomid larvae in drinking water treatment plants (DWTPs), which may contaminate municip… [+31627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Phishers abuse CrowdStrike brand targeting job seekers with cryptominer",
-      "description": "CrowdStrike warns of a phishing campaign that uses its recruitment branding to trick recipients into downloading a fake application, which finally installs the XMRig cryptominer. CrowdStrike discovered a phishing campaign using its recruitment branding to tri…",
-      "url": "https://securityaffairs.com/172900/cyber-crime/crowdstrike-phishing-campaign-recruitment-branding.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-14.png",
-      "publishedAt": "2025-01-10T11:29:13Z",
-      "content": "Phishers abuse CrowdStrike brand targeting job seekers with cryptominer\r\n | China-linked APT group MirrorFace targets Japan\r\n | U.S. Medical billing provider Medusind suffered a sata breach\r\n | U.S. … [+129769 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Norovirus cases are on the rise. Here's what you need to know about this nasty bug",
-      "description": "A stomach illness outbreak at the University of Guelph is part of a trend that has experts noticing a rise in stomach bugs causing vomiting and diarrhea.",
-      "url": "https://www.cbc.ca/radio/whitecoat/norovirus-cases-are-on-the-rise-here-s-what-you-need-to-know-about-this-nasty-bug-1.7427355",
-      "urlToImage": "https://i.cbc.ca/1.6748379.1676410716!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/norovirus.jpg?im=Resize%3D620",
-      "publishedAt": "2025-01-10T09:00:00Z",
-      "content": "For Edward Chou, a first-year biochemistry student at the University of Guelph, the symptoms began shortly after lunch on Monday. \r\n\"I just felt something in my stomach and I just started throwing up… [+7489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Inhaled Nitric Oxide Market to Surpass Valuation of US$ 474.72 Million By 2033 | Astute Analytica",
-      "description": "Inhaled nitric oxide market thrives on neonatal expansions, portable system breakthroughs, and precise dosing innovations. Evolving collaborations across continents advance fresh applications for Inhaled Nitric Oxide, driving safer, more versatile respiratory…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/10/3007433/0/en/Inhaled-Nitric-Oxide-Market-to-Surpass-Valuation-of-US-474-72-Million-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-01-10T08:30:00Z",
-      "content": "New Delhi, Jan. 10, 2025 (GLOBE NEWSWIRE) -- The global inhaled nitric oxide market was valued at US$ 266.17 million in 2024 and is projected to reach US$ 474.72 million by 2033 at a CAGR of 6.64% du… [+16615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "China-linked APT group MirrorFace targets Japan",
-      "description": "Japanese authorities attributed a cyber-espionage campaign targeting the country to the China-linked APT group MirrorFace. The National Police Agency (NPA) and the Cabinet Cyber Security Center in Japan have linked a long-running cyber-espionage campaign targ…",
-      "url": "https://securityaffairs.com/172890/apt/china-linked-apt-mirrorface-targets-japan.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
-      "publishedAt": "2025-01-10T08:22:10Z",
-      "content": "China-linked APT group MirrorFace targets Japan\r\n | U.S. Medical billing provider Medusind suffered a sata breach\r\n | U.S. CISA adds Ivanti Connect Secure, Policy Secure, and ZTA Gateways flaw to its… [+129693 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CounterPunch"
-      },
-      "author": "Stephen F. Eisenman",
-      "title": "Kvetching, the Highest Stage of Capitalism",
-      "description": "Gwen avocado (attribution), photographer unknown, n.d. “Is this truth I’m delivering up, or is it just plain kvetching? Or is kvetching for people like me a form of truth?” – Philip Roth, Portnoy’s Complaint,1969 Form and content of the expat’s kvetch Harriet…",
-      "url": "https://www.counterpunch.org/2025/01/10/kvetching-the-highest-stage-of-capitalism/",
-      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/01/a-close-up-of-a-green-avocado-description-automat.png",
-      "publishedAt": "2025-01-10T06:55:47Z",
-      "content": "Gwen avocado (attribution), photographer unknown, n.d.\r\nIs this truth I’m delivering up, or is it just plain kvetching? Or is kvetching for people like me a form of truth?\r\n Philip Roth, Portnoys Com… [+10234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Finn Heartley",
-      "title": "California wildfires spark conspiracy theories: Were fires set to trigger economic and ecological collapse?",
-      "description": "California faces catastrophic wildfires, with $150 billion in damages, sparking conspiracy theories about deliberate sabotage to destabilize the economy, contaminate food supplies, and accelerate fiscal collapse. Major insurers like State Farm exited Californ…",
-      "url": "https://www.naturalnews.com/2025-01-10-california-wildfires-spark-conspiracy-theories.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/2025-01-10-BBN-DELIBERATE-DISASTERS.jpg",
-      "publishedAt": "2025-01-10T06:00:00Z",
-      "content": "<ul><li>California faces catastrophic wildfires, with $150 billion in damages, sparking conspiracy theories about deliberate sabotage to destabilize the economy, contaminate food supplies, and accele… [+6460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bangkok Post"
-      },
-      "author": "South China Morning Post",
-      "title": "Hong Kong's Cathay Pacific apologises after second suspected food poisoning",
-      "description": "<p>Hong Kong's flag carrier Cathay Pacific Airways has apologised to affected passengers on two flights from Nepal and pledged to assist health authorities' investigation after food poisoning struck travellers on two consecutive days.</p>",
-      "url": "https://www.bangkokpost.com/world/2936991/hong-kongs-cathay-pacific-apologises-after-second-suspected-food-poisoning",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20250110/c1_2936991_700.jpg",
-      "publishedAt": "2025-01-10T02:45:00Z",
-      "content": "Hong Kong's flag carrier Cathay Pacific Airways has apologised to affected passengers on two flights from Nepal and pledged to assist health authorities' investigation after food poisoning struck tra… [+1755 chars]"
     }
   ],
   "totalResults": 98,
