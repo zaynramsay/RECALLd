@@ -1,18 +1,96 @@
 {
-  "lastUpdated": "2025-01-16T06:28:50.652Z",
+  "lastUpdated": "2025-01-16T12:40:35.868Z",
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Naturalnews.com"
+        "name": "Lifesciencesworld.com"
       },
-      "author": "Kevin Hughes",
-      "title": "Steve Quayle and Mike Adams: “Operation Meltdown” in California could be a prelude to a communist revolution",
-      "description": "Mike Adams and Steve Quayle argue that California’s wildfires are not natural disasters but part of a deliberate assault on American infrastructure, food supplies and public health, with the release of toxic dioxins contaminating crops and water sources. They…",
-      "url": "https://www.naturalnews.com/2025-01-15-operation-meltdown-in-california-prelude-communist-revolution.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/California-Wildfires-2025-Firefighters-Hill.jpg",
-      "publishedAt": "2025-01-15T06:00:00Z",
-      "content": "<ul><li>Mike Adams and Steve Quayle argue that California's wildfires are not natural disasters but part of a deliberate assault on American infrastructure, food supplies and public health, with the … [+6054 chars]"
+      "author": "LSW Team",
+      "title": "Why is toilet water yellow?",
+      "description": "Why is Toilet Water Yellow? Understanding the Cause of Yellow Toilet Water Toilet water can appear yellow due to various […]\nThe post Why is toilet water yellow? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/why-is-toilet-water-yellow/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-15T12:00:23Z",
+      "content": "Why is Toilet Water Yellow?\r\nUnderstanding the Cause of Yellow Toilet Water\r\nToilet water can appear yellow due to various reasons. In this article, we will explore the possible causes of yellow toil… [+4054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Codefinger ransomware gang uses compromised AWS keys to encrypt S3 bucket",
+      "description": "The ransomware group Codefinger is using compromised AWS keys to encrypt S3 bucket data using SSE-C, Halcyon researchers warn. The ransomware group Codefinger has been spotted using compromised AWS keys to encrypt data in S3 buckets. The threat actor used AWS…",
+      "url": "https://securityaffairs.com/173089/cyber-crime/codefinger-ransomware-gang-encrypts-s3-bucket.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
+      "publishedAt": "2025-01-15T11:53:40Z",
+      "content": "Codefinger ransomware gang uses compromised AWS keys to encrypt S3 bucket\r\n | CVE-2024-44243 macOS flaw allows persistent malware installation\r\n | FBI deleted China-linked PlugX malware from over 4,2… [+131161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "CVE-2024-44243 macOS flaw allows persistent malware installation",
+      "description": "Microsoft disclosed details of a vulnerability in Apple macOS that could have allowed an attacker to bypass the OS’s System Integrity Protection (SIP). Microsoft disclosed details of a now-patched macOS flaw, tracked as CVE-2024-44243 (CVSS score: 5.5), that …",
+      "url": "https://securityaffairs.com/173082/hacking/apple-macos-system-integrity-protection-sip-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
+      "publishedAt": "2025-01-15T10:34:33Z",
+      "content": "CVE-2024-44243 macOS flaw allows persistent malware installation\r\n | FBI deleted China-linked PlugX malware from over 4,200 US computers\r\n | Russia-linked APT UAC-0063 target Kazakhstan in with HATVI… [+131083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "Global Bioethanol Yeast Market Set to Reach Valuation of US$ 56.50 Billion By 2033 | Astute Analytica",
+      "description": "High-yield bioethanol yeast finds unprecedented traction, capitalizing on biomass conversion upgrades and resilient strain breakthroughs. Nurtured by strong R&D pipelines, the market sees surging demand across continents. Strategic synergy among research cons…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/15/3009815/0/en/Global-Bioethanol-Yeast-Market-Set-to-Reach-Valuation-of-US-56-50-Billion-By-2033-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2025-01-15T10:30:00Z",
+      "content": "New Delhi, Jan. 15, 2025 (GLOBE NEWSWIRE) -- The global Bioethanol yeast market is projected to hit the market valuation of US$ 56.50 billion by 2033 from US$ 20.85 billion at a CAGR of 13.27% during… [+14974 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Geoffrey York",
+      "title": "In Namibia, a Canadian copper company leaves a legacy of toxic waste",
+      "description": "Sickness has been common for years in Tsumeb, where Dundee Precious Metals was the biggest employer for more than a decade. Tests have now found the soil is contaminated with arsenic and other heavy metals",
+      "url": "https://www.theglobeandmail.com/business/article-dundee-copper-mine-namibia-arsenic-toxic-waste/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/D477JDJEQ5DKZI2JGKM6FK3OYQ.JPG?auth=bef33a1c590e76eeb4a57a67f7e7b71791f5f0ef4bd19fcdb39781df0c975003&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-01-15T10:25:42Z",
+      "content": "Open this photo in gallery:This copper smelter in Tsumeb, Namibia, was built in the 1960s and run by Dundee Precious Metals Inc., a Canadian company, from 2010 until last summer. DPM and the new owne… [+25960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inside Higher Ed"
+      },
+      "author": "Liam Knox",
+      "title": "How Did Enrollment Researchers Get It So Wrong?",
+      "description": "How Did Enrollment Researchers Get It So Wrong?\n\n \n\n\n \nLiam Knox\n\nWed, 01/15/2025 - 03:00 AM\n\nIn October, the National Student Clearinghouse reported that first-year enrollment fell by 5 percent. Now, citing a research error, they say it actually increased.\n …",
+      "url": "https://www.insidehighered.com/news/admissions/traditional-age/2025/01/15/erroneous-data-showed-first-year-decline-it-actually",
+      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-01/Enrollment_adjustment.jpg?itok=4h_vO7S5",
+      "publishedAt": "2025-01-15T08:00:00Z",
+      "content": "In October, the National Student Clearinghouse Research Center released its annual preliminary Stay Informed enrollment report, which proclaimed that first-year college enrollments had fallen by 5 pe… [+9266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "BioLargo (NASDAQ:BLGO) & Ashland (NYSE:ASH) Head-To-Head Survey",
+      "description": "BioLargo (NASDAQ:BLGO – Get Free Report) and Ashland (NYSE:ASH – Get Free Report) are both construction companies, but which is the superior investment? We will compare the two companies based on the strength of their analyst recommendations, earnings, instit…",
+      "url": "https://www.etfdailynews.com/2025/01/15/biolargo-nasdaqblgo-ashland-nyseash-head-to-head-survey/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ashland-inc-logo-1200x675.png?v=20221114202517&w=240&h=240&zc=2",
+      "publishedAt": "2025-01-15T06:40:52Z",
+      "content": "BioLargo (NASDAQ:BLGO – Get Free Report) and Ashland (NYSE:ASH – Get Free Report) are both construction companies, but which is the superior investment? We will compare the two companies based on the… [+5463 chars]"
     },
     {
       "source": {
@@ -26,6 +104,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/California-Los-Angeles-Hills-Smoke.jpg",
       "publishedAt": "2025-01-15T06:00:00Z",
       "content": "<ul><li>Californias wildfires are not only destroying homes and landscapes but also posing a severe risk to the nation's food supply. Toxic smoke containing dioxinshighly carcinogenic chemicals relea… [+6139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Kevin Hughes",
+      "title": "Steve Quayle and Mike Adams: “Operation Meltdown” in California could be a prelude to a communist revolution",
+      "description": "Mike Adams and Steve Quayle argue that California’s wildfires are not natural disasters but part of a deliberate assault on American infrastructure, food supplies and public health, with the release of toxic dioxins contaminating crops and water sources. They…",
+      "url": "https://www.naturalnews.com/2025-01-15-operation-meltdown-in-california-prelude-communist-revolution.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/California-Wildfires-2025-Firefighters-Hill.jpg",
+      "publishedAt": "2025-01-15T06:00:00Z",
+      "content": "<ul><li>Mike Adams and Steve Quayle argue that California's wildfires are not natural disasters but part of a deliberate assault on American infrastructure, food supplies and public health, with the … [+6054 chars]"
     },
     {
       "source": {
@@ -1144,97 +1235,6 @@
       "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wqow.com/content/tncms/assets/v3/editorial/e/02/e029babf-8862-5b93-83ed-3c818bd504bc/677fdc341d961.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-01-12T18:22:38Z",
       "content": "(CNN) Over-the-counter protein powders may contain disturbing levels of lead and cadmium, with the highest amounts found in plant-based, organic and chocolate-flavored products, according to a new in… [+5836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 506 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. DoJ charged th…",
-      "url": "https://securityaffairs.com/172972/breaking-news/security-affairs-newsletter-round-506-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-01-12T18:02:51Z",
-      "content": "Security Affairs newsletter Round 506 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | How a researcher earned $100,000 hacking a Facebook server\r\n | DoJ charged three Russian citizens with operating … [+130243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Nationwide Mexican Food Recall Over Metal Contamination Fears",
-      "description": "Frozen chicken and cheese taquito products have been recalled by the manufacturer after a consumer found a piece of metal inside.",
-      "url": "https://biztoc.com/x/1b0641d2056f13ef",
-      "urlToImage": "https://biztoc.com/cdn/808/og.png",
-      "publishedAt": "2025-01-12T15:59:26Z",
-      "content": "Frozen chicken and cheese taquito products have been recalled by the manufacturer after a consumer found a piece of metal inside.\r\nThis story appeared on newsweek.com, 2025-01-12 15:50:06."
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Flynn Nicholls",
-      "title": "Nationwide Mexican Food Recall Over Metal Contamination Fears",
-      "description": "Frozen chicken and cheese taquito products have been recalled by the manufacturer after a consumer found a piece of metal inside.",
-      "url": "https://www.newsweek.com/nationwide-mexican-food-recall-metal-contamination-fears-2013648",
-      "urlToImage": "https://d.newsweek.com/en/full/2562686/chicken-taquitos.jpg",
-      "publishedAt": "2025-01-12T15:50:06Z",
-      "content": "A nationwide recall of Casa Mamita Chicken &amp; Cheese Taquitos has been announced by Department of Agriculture's Food Safety and Inspection Service (FSIS) after a consumer reported finding metal in… [+2970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Madison Dapcevich",
-      "title": "Fact Check: Yes, Study Reportedly Found Human DNA in Hot Dogs — But There's More to the Story - NewsBreak",
-      "description": "Fact Check: Yes, Study Reportedly Found Human DNA in Hot Dogs — But There's More to the Story - NewsBreaknewsbreak.com",
-      "url": "https://www.newsbreak.com/share/3755870862172-fact-check-yes-study-reportedly-found-human-dna-in-hot-dogs-but-there-s-more-to-the-story?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzY2ODQ4OTc1Nzg%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1736684897&amp;actBtn=topBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q1-v5%2Cns_foryou_rank_exp_25q1-v6%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v2",
-      "urlToImage": "https://img.particlenews.com/img/id/0YpBlL_0y4VAZaG00",
-      "publishedAt": "2025-01-12T12:29:03Z",
-      "content": "<ul><li> A 2015 report published by a private genomics testing company found that 2% of 345 hot dogs tested contained traces of human DNA. </li><li> However, it was unclear whether that report was a … [+7078 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Why is meat glue dangerous?",
-      "description": "Why is Meat Glue Dangerous? Meat glue, also known as meat adhesive or meat paste, is a type of adhesive […]\nThe post Why is meat glue dangerous? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/why-is-meat-glue-dangerous/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-12T11:19:30Z",
-      "content": "Why is Meat Glue Dangerous?\r\nMeat glue, also known as meat adhesive or meat paste, is a type of adhesive used in various industries, including food, construction, and manufacturing. While it may seem… [+5852 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Can rabbits eat carrot tops?",
-      "description": "Can Rabbits Eat Carrot Tops? Understanding the Risks and Benefits Rabbits are herbivores, and their diet consists mainly of plant-based […]\nThe post Can rabbits eat carrot tops? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/can-rabbits-eat-carrot-tops/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-12T11:17:02Z",
-      "content": "Can Rabbits Eat Carrot Tops?\r\nUnderstanding the Risks and Benefits\r\nRabbits are herbivores, and their diet consists mainly of plant-based foods. Carrot tops, being a part of the carrot plant, can be … [+3509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "How a researcher earned $100,000 hacking a Facebook server",
-      "description": "Facebook paid $100,000 to a researcher for discovering a bug that granted him command access to an internal server in October 2024. TechCrunch first reported that Facebook awarded security researcher Ben Sadeghipour (@NahamSec) $100,000 for reporting a vulner…",
-      "url": "https://securityaffairs.com/172964/hacking/researcher-earned-100000-hacking-facebook-server.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2018/04/Facebook-Cambridge-Analytica.jpg",
-      "publishedAt": "2025-01-12T10:12:51Z",
-      "content": "How a researcher earned $100,000 hacking a Facebook server\r\n | DoJ charged three Russian citizens with operating crypto-mixing services\r\n | U.S. cannabis dispensary STIIIZY disclosed a data breach\r\n … [+130157 chars]"
     }
   ],
   "totalResults": 95,
