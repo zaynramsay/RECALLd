@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-01-16T18:28:00.499Z",
+  "lastUpdated": "2025-01-17T01:39:15.020Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Threat actor leaked config files and VPN passwords for over Fortinet Fortigate devices",
+      "description": "A previously unknown threat actor released config files and VPN passwords for Fortinet FortiGate devices on a popular cybercrime forum. A previously unknown threat actor named Belsen Group published configuration files and VPN passwords for over 15,000 Fortin…",
+      "url": "https://securityaffairs.com/173111/cyber-crime/fortinet-fortigate-devices-data-leak.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-23.png",
+      "publishedAt": "2025-01-16T00:03:41Z",
+      "content": "Threat actor leaked config files and VPN passwords for over Fortinet Fortigate devices\r\n | Microsoft Patch Tuesday updates for January 2025 fixed three actively exploited flaws\r\n | U.S. CISA adds For… [+131425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Microsoft Patch Tuesday updates for January 2025 fixed three actively exploited flaws",
+      "description": "Microsoft Patch Tuesday security updates for January 2025 addressed 161 vulnerabilities, including three actively exploited issues. Microsoft Patch Tuesday security updates for January 2025 addressed 161 vulnerabilities in Windows and Windows Components, Offi…",
+      "url": "https://securityaffairs.com/173102/security/microsoft-patch-tuesday-updates-for-january-2025.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/12/Microsoft-Patch-Tuesday-Exchange-server.png",
+      "publishedAt": "2025-01-15T21:42:15Z",
+      "content": "Microsoft Patch Tuesday updates for January 2025 fixed three actively exploited flaws\r\n | U.S. CISA adds Fortinet FortiOS to its Known Exploited Vulnerabilities catalog\r\n | Codefinger ransomware gang… [+131334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Jacob Stokes",
+      "title": "China Is Just Fine With North Korean Troops in Ukraine",
+      "description": "Beijing is happy with anything that helps Russia win and costs it nothing.",
+      "url": "https://foreignpolicy.com/2025/01/15/china-russia-ukraine-northkorea-soldiers/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/01/NORTHKOREA-SOLDIERS-CHINA-GettyImages-1189641602.png?w=1000",
+      "publishedAt": "2025-01-15T20:34:35Z",
+      "content": "More than 11,000 troops from North Korea, with possibly many more to come, are fighting in Russias war against Ukraine. Many commentators speculate that the situation worries China, North Koreas nomi… [+8174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "expose-news.com",
+      "title": "Mega thread of evidence showing covid “vaccines” cause turbo cancers",
+      "description": "Article Excerpt Below:Multiple doctors and scientists, including Dr. David Rasnick, Dr. Ryan Cole, Dr. Roger Hodkinson, and Scientist Kevin McKernan, say that covid injections cause “turbo cancers” due to immune system suppression.The injections contain DNA p…",
+      "url": "https://freerepublic.com/focus/f-chat/4290326/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-01-15T19:57:00Z",
+      "content": "Multiple doctors and scientists, including Dr. David Rasnick, Dr. Ryan Cole, Dr. Roger Hodkinson, and Scientist Kevin McKernan, say that covid injections cause turbo cancers due to immune system supp… [+6617 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -423,7 +475,7 @@
         "name": "CNN"
       },
       "author": "Jen Christensen",
-      "title": "‘Forever chemicals��� in sludge used to fertilize farms can pose a health risk to people, EPA says | CNN",
+      "title": "‘Forever chemicals’ in sludge used to fertilize farms can pose a health risk to people, EPA says | CNN",
       "description": "Chemicals found in sewage sludge that some farmers use to fertilize fields and pastures can pose a threat to human and animal health, the US Environmental Protection Agency said Tuesday.",
       "url": "https://www.cnn.com/2025/01/14/health/pfas-health-risk-farm-sludge/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20592627-384187-638-still.jpg?c=16x9&q=w_800,c_fill",
@@ -1170,58 +1222,6 @@
       "urlToImage": "https://assets.inman.com/wp-content/uploads/2025/01/CME-1860x1046-2025-01-10T124717.404-1024x576.jpg",
       "publishedAt": "2025-01-13T09:00:25Z",
       "content": "Whether its refining your business model, mastering new technologies, or discovering strategies to capitalize on the next market surge, Inman Connect New York will prepare you to take bold steps forw… [+7863 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Alexandra Emanuelli",
-      "title": "The Internet is Divided: Is It Safe to Cook With Wooden Spoons?",
-      "description": "Do your wooden spoons need a little TLC or to be thrown in the trash?",
-      "url": "https://www.huffpost.com/entry/are-wooden-spoons-safe_l_676ab3bce4b077ae3eb56dab",
-      "urlToImage": "https://img.huffingtonpost.com/asset/677815b318000026005fab02.jpeg?cache=t0moOTeQ1b&ops=1200_630",
-      "publishedAt": "2025-01-13T08:00:24Z",
-      "content": "When it comes to cooking, Im less Nara Smith who somehow makes cooking look like a soft-focus fairytale and more Gordon Ramsay in a mad rush. So if a cooking utensil cant survive a round in the dishw… [+6169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Microsoft took legal action against crooks who developed a tool to abuse its AI-based services",
-      "description": "In December, Microsoft sued a group for creating tools to bypass safety measures in its cloud AI products. Microsoft filed a complaint with the Eastern District Court of Virginia against ten individuals for using stolen credentials and custom software to brea…",
-      "url": "https://securityaffairs.com/173000/cyber-crime/microsoft-took-legal-action-against-crooks-developed-a-tool-to-abuse-its-ai.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/01/microsoft.png",
-      "publishedAt": "2025-01-13T07:40:28Z",
-      "content": "Microsoft took legal action against crooks who developed a tool to abuse its AI-based services\r\n | Pro-Russia hackers NoName057 targets Italy again after Zelensky's visit to the country\r\n | Security … [+130433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theecologist.org"
-      },
-      "author": "brendan",
-      "title": "Remembering Andrew Lees",
-      "description": "Remembering Andrew Lees\n\n \n Channel\r\n\n Comment\r\n\n \nbrendan\n13th January 2025\n\n\n \n Teaser Media",
-      "url": "https://theecologist.org/2025/jan/13/remembering-andrew-lees",
-      "urlToImage": "https://theecologist.org/sites/default/files/styles/facebook/public/2025-01/unknown.jpeg?h=d8aadb7a&itok=AG3wXsAp",
-      "publishedAt": "2025-01-13T07:00:00Z",
-      "content": "A decade later, in an inversion of sustainable development imperatives, local communities have reported even greater losses in livelihoods and income from the impacts of the large scale mine - as muc… [+5629 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Unexploded WWII bombs plague Palau amid US military build-up",
-      "description": "Palauan Sharla Paules surveys the contaminated ground of her lush tropical home island of Peleliu, still littered with WWII munitions 80 years after its liberation from the Japanese.",
-      "url": "https://www.globalsecurity.org/military/library/news/2025/01/mil-250112-rfa01.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-01-13T06:10:42Z",
-      "content": "UXOs contaminate the Pacific but there's little clean-up funding despite hundreds of millions of dollars being spent on new defense infrastructure.\r\nBy Harry Pearl for BenarNews2025.01.12\r\nPELELIU, P… [+8270 chars]"
     }
   ],
   "totalResults": 94,
