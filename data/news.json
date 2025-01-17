@@ -1,6 +1,175 @@
 {
-  "lastUpdated": "2025-01-17T12:40:04.664Z",
+  "lastUpdated": "2025-01-17T18:28:04.988Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Mushroom Recall Update As FDA Sets Highest Risk Warning",
+      "description": "The U.S. Food Food and Drug Administration has issued a Class I recall classification after a listeria contamination was detected in an enoki mushrooms product.",
+      "url": "https://biztoc.com/x/638e06015ac20fab",
+      "urlToImage": "https://biztoc.com/cdn/808/og.png",
+      "publishedAt": "2025-01-16T17:36:43Z",
+      "content": "The U.S. Food Food and Drug Administration has issued a Class I recall classification after a listeria contamination was detected in an enoki mushrooms product.\r\nThis story appeared on newsweek.com, … [+19 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Joe Edwards",
+      "title": "Mushroom Recall Update As FDA Sets Highest Risk Warning",
+      "description": "The U.S. Food Food and Drug Administration has issued a Class I recall classification after a listeria contamination was detected in an enoki mushrooms product.",
+      "url": "https://www.newsweek.com/food-recall-mushroom-fda-highest-risk-warning-2016051",
+      "urlToImage": "https://d.newsweek.com/en/full/2566400/enoki-mushroom-recall.jpg",
+      "publishedAt": "2025-01-16T17:30:31Z",
+      "content": "The U.S. Food and Drug Administration (FDA) has issued an update on a nationwide mushroom recall, announcing a Class I classification—the body's highest risk warning—on January 14.\r\nA recall was prev… [+2697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marlerblog.com"
+      },
+      "author": "Bill Marler",
+      "title": "Another Listeria Outbreak brewing on top of another one – what you need to know",
+      "description": "A new Listeria monocytogenes outbreak from an unknown source has been detected by the Food and Drug Administration. At least 34 patients are confirmed in the outbreak, which was first posted by the FDA on Jan. 15. The agency has begun traceback but has not re…",
+      "url": "https://www.marlerblog.com/case-news/another-listeria-outbreak-brewing-on-top-of-another-one-what-you-need-to-know/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/517/713/0Mn5r3E1XY0MpjKkzWPoD9kg7/601696175ffe744df2e74a73cf6394eda49de64d.png",
+      "publishedAt": "2025-01-16T17:25:15Z",
+      "content": "A new Listeria monocytogenes outbreak from an unknown source has been detected by the Food and Drug Administration.\r\nAt least 34 patients are confirmed in the outbreak, which was first posted by the … [+15552 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "India Fertilizer Market Analysis, Volume Forecasts, and Company Analysis Report 2025-2033",
+      "description": "Dublin, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The \"India Fertilizer Market and Volume Forecast Report by Fertilizers, Sector, States, Company Analysis 2025-2033\" report has been added to ResearchAndMarkets.com's offering.The fertilizer market in India is expected…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/16/3010961/28124/en/India-Fertilizer-Market-Analysis-Volume-Forecasts-and-Company-Analysis-Report-2025-2033.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-01-16T16:01:00Z",
+      "content": "Dublin, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The \"India Fertilizer Market and Volume Forecast Report by Fertilizers, Sector, States, Company Analysis 2025-2033\" report has been added to ResearchAndMarke… [+10678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Global Nisin Market to Reach USD 937.5 Million by 2035, Driven by Rising Adoption in Beverage Preservation | Future Market Insights Inc.",
+      "description": "The global nisin market size was estimated at USD 463.4 million in 2025 3 and is projected to grow at a CAGR of 7.3% from 2025 to 2035. This growth is due to the increasing number of health-conscious consumers, who have become more aware of the importance of …",
+      "url": "https://www.globenewswire.com/news-release/2025/01/16/3010955/0/en/Global-Nisin-Market-to-Reach-USD-937-5-Million-by-2035-Driven-by-Rising-Adoption-in-Beverage-Preservation-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-01-16T16:00:00Z",
+      "content": "NEWARK, Del, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The global nisin market is projected to be valued at USD 463.4 million in 2025 and is anticipated to reach USD 937.5 million by 2035, exhibiting a CAGR … [+22960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Clop Ransomware exploits Cleo File Transfer flaw: dozens of claims, disputed breaches",
+      "description": "The Clop ransomware gang claims dozens of victims from a Cleo file transfer vulnerability, though several companies dispute the breaches. The Clop ransomware group added 59 new companies to its leak site, the gain claims to have breached them by exploiting a …",
+      "url": "https://securityaffairs.com/173135/cyber-crime/clop-ransomware-gang-claims-hack-of-cleo-file-transfer-customers.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-25.png",
+      "publishedAt": "2025-01-16T15:36:43Z",
+      "content": "Clop Ransomware exploits Cleo File Transfer flaw: dozens of claims, disputed breaches\r\n | MikroTik botnet relies on DNS misconfiguration to spread malware\r\n | Threat actor leaked config files and VPN… [+131584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Does ground cinnamon expire?",
+      "description": "Does Ground Cinnamon Expire? Understanding the Shelf Life of Ground Cinnamon Ground cinnamon is a staple spice used in various […]\nThe post Does ground cinnamon expire? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/does-ground-cinnamon-expire/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-16T14:26:37Z",
+      "content": "Does Ground Cinnamon Expire?\r\nUnderstanding the Shelf Life of Ground Cinnamon\r\nGround cinnamon is a staple spice used in various cuisines worldwide. It’s a popular ingredient in baked goods, desserts… [+4732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Does grenadine syrup go bad?",
+      "description": "Does Grenadine Syrup Go Bad? Grenadine syrup, a sweet and tart flavoring made from pomegranate juice, has been a staple […]\nThe post Does grenadine syrup go bad? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/does-grenadine-syrup-go-bad/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-16T14:24:46Z",
+      "content": "Does Grenadine Syrup Go Bad?\r\nGrenadine syrup, a sweet and tart flavoring made from pomegranate juice, has been a staple in many cocktails and desserts for decades. Its unique taste and versatility h… [+4447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Chapman University",
+      "title": "Study finds relatively low rates of substitution for America's favorite types of seafood",
+      "description": "The seafood industry is known for its complex global supply chains and diverse market offerings, which can make accurate labeling a challenging task. Now, a study from Schmid College of Science and Technology at Chapman University and Oregon State University …",
+      "url": "https://phys.org/news/2025-01-substitution-america-favorite-seafood.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/chef-1.jpg",
+      "publishedAt": "2025-01-16T14:19:09Z",
+      "content": "The seafood industry is known for its complex global supply chains and diverse market offerings, which can make accurate labeling a challenging task. Now, a study from Schmid College of Science and T… [+4235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Does gelatin contain gluten?",
+      "description": "Does Gelatin Contain Gluten? Understanding Gelatin and Gluten Gelatin is a protein derived from animal products, primarily from bones, skin, […]\nThe post Does gelatin contain gluten? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/does-gelatin-contain-gluten/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-16T13:25:05Z",
+      "content": "Does Gelatin Contain Gluten?\r\nUnderstanding Gelatin and Gluten\r\nGelatin is a protein derived from animal products, primarily from bones, skin, and connective tissue. It has been used for centuries in… [+4394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Does gatorade powder go bad?",
+      "description": "Does Gatorade Powder Go Bad? Understanding the Shelf Life of Gatorade Powder Gatorade powder is a popular sports drink that […]\nThe post Does gatorade powder go bad? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/does-gatorade-powder-go-bad/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-16T13:21:28Z",
+      "content": "Does Gatorade Powder Go Bad?\r\nUnderstanding the Shelf Life of Gatorade Powder\r\nGatorade powder is a popular sports drink that has been a staple in many athletes’ and fitness enthusiasts’ diets for de… [+3735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Can Seamers Market Analysis Report 2024-2029: Shift Toward Sustainable Metal Packaging, and Rising Demand for Packaged Foods, Beverages, and Pharmaceuticals",
+      "description": "E-commerce growth, Internet of Things (IoT) integration, modular and compact designs, high-speed and multi-lane seamers, automation and smart seamers, rising demand for metal cans, sustainability-focused developments, collaborative robots (Cobots) etc. are pr…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/16/3010726/28124/en/Can-Seamers-Market-Analysis-Report-2024-2029-Shift-Toward-Sustainable-Metal-Packaging-and-Rising-Demand-for-Packaged-Foods-Beverages-and-Pharmaceuticals.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-01-16T12:50:00Z",
+      "content": "Dublin, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The \"Can Seamers Market: Analysis By Product Type, By Application, By Region Size and Trends\" report has been added to ResearchAndMarkets.com's offering.\r\nTh… [+7162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Asia-Pacific Cell and Gene Therapy Manufacturing QC Market Research 2024-2033: Robust Growth Fueled by Disease Prevalence and Therapy Approvals, AI and Real-time Testing Trends Set to Shape Future",
+      "description": "Dublin, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The \"Asia-Pacific Cell and Gene Therapy Manufacturing QC Market: Analysis and Forecast, 2024-2033\" report has been added to ResearchAndMarkets.com's offering.The Asia-Pacific cell and gene therapy manufacturing QC mar…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/16/3010719/28124/en/Asia-Pacific-Cell-and-Gene-Therapy-Manufacturing-QC-Market-Research-2024-2033-Robust-Growth-Fueled-by-Disease-Prevalence-and-Therapy-Approvals-AI-and-Real-time-Testing-Trends-Set-t.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-01-16T12:41:00Z",
+      "content": "Dublin, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The \"Asia-Pacific Cell and Gene Therapy Manufacturing QC Market: Analysis and Forecast, 2024-2033\" report has been added to ResearchAndMarkets.com's offering… [+10240 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -297,7 +466,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2025-01-13T16:20:15Z",
+      "publishedAt": "2025-01-14T06:31:44Z",
       "content": "[Removed]"
     },
     {
@@ -1079,164 +1248,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-13T22:10:23Z",
       "content": "U.S. CISA adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities catalog\r\n | Inexperienced actors developed the FunkSec ransomware using AI tools\r\n | Credit Card Skim… [+130690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Karolane Bourdon, Doctorante en sols et environnement, Département des sols et de génie agroalimentaire, Université Laval, Jacynthe Dessureault-Rompré, Professeure, Faculté des sciences de l'agriculture et l'alimentation, Département des sols et de génie agroalimentaire, Université Laval, Jean Caron, Professeur titulaire en physique des sols agricoles, Université Laval, Josée Fortin, Professeur en chimie des sols, Département des sols et de génie agroalimentaire, Université Laval",
-      "title": "Fertile land for growing vegetables is at risk — but a scientific discovery could turn the tide",
-      "description": "Organic soils, one of the pillars of Québec’s food self-sufficiency, could disappear within 50 years. Fortunately, the application of straw or wood chips could regenerate these soils.",
-      "url": "https://theconversation.com/fertile-land-for-growing-vegetables-is-at-risk-but-a-scientific-discovery-could-turn-the-tide-243414",
-      "urlToImage": "https://images.theconversation.com/files/631218/original/file-20240423-18-pzhvhv.png?ixlib=rb-4.1.0&rect=2%2C73%2C953%2C476&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-01-13T22:07:42Z",
-      "content": "A large proportion of the vegetables consumed in Québec are grown in the Montérégie region in what are known as organic soils. Highly fertile and rich in organic matter, these soils are particularly … [+6582 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Your Protein Shake May Be Laced With Lead, Report Finds",
-      "description": "Nearly half of tested products contained potentially unsafe levels of lead, cadmium, and other toxic metals, according to a new report from the Clean Labels Project.",
-      "url": "https://gizmodo.com/your-protein-shake-may-be-laced-with-lead-report-finds-2000549496",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/protein-powder.jpg",
-      "publishedAt": "2025-01-13T20:55:41Z",
-      "content": "Your post-workout protein shake may come with some hidden dangerous ingredients. A new report finds that a substantial proportion of over-the-counter protein powders contain potentially unsafe levels… [+3228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Inexperienced actors developed the FunkSec ransomware using AI tools",
-      "description": "FunkSec, a new ransomware group that attacked more than 80 victims in December 2024, was developed using AI tools. The FunkSec ransomware-as-a-service (RaaS) group has been active since late 2024, the gang published over 85 victims in December 2024. The group…",
-      "url": "https://securityaffairs.com/173018/cyber-crime/funksec-ransomware-was-developed-using-ai-tools.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-20.png",
-      "publishedAt": "2025-01-13T20:54:22Z",
-      "content": "Inexperienced actors developed the FunkSec ransomware using AI tools\r\n | Credit Card Skimmer campaign targets WordPress via database injection\r\n | Microsoft took legal action against crooks who devel… [+130580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "menshealth.com"
-      },
-      "author": "Garrett Munce",
-      "title": "Braun All-In-One Series 7 Review: A Head-to-Toe Grooming Solution",
-      "description": "The Braun All-in-One Series 7 is designed to be used on every part of the body. Our grooming editor tested and reviews this multifunctional trimmer.",
-      "url": "https://www.menshealth.com/grooming/a63395158/braun-series-7-all-in-one-review/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/braun-all-in-one-7-review-678546c1c2aa8.jpg?crop=1xw:1xh;center,top&resize=1200:*",
-      "publishedAt": "2025-01-13T20:47:00Z",
-      "content": "THE POINT OF a grooming tool is to make your routine easier. Thats why we're always excited about multi-functional gadgets that not only simplify your grooming, but also tackle more than one job so y… [+9671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "cleveland.com",
-      "title": "Frozen chicken and cheese products recalled; metal contamination suspected",
-      "description": "CLEVELAND, Ohio – Frozen chicken and cheese taquito products have been recalled after being suspected of metal contamination, the U.S. Department of Agriculture’s Food Safety and Inspection Service announced.\nBestway Sandwiches Inc. of Valencia, California, i…",
-      "url": "https://biztoc.com/x/870c9af96ddd637a",
-      "urlToImage": "https://biztoc.com/cdn/870c9af96ddd637a_s.webp",
-      "publishedAt": "2025-01-13T20:35:58Z",
-      "content": "CLEVELAND, Ohio Frozen chicken and cheese taquito products have been recalled after being suspected of metal contamination, the U.S. Department of Agricultures Food Safety and Inspection Service anno… [+147 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Marianne Krasny, Contributor, \n Marianne Krasny, Contributor\n https://www.forbes.com/sites/mariannekrasny/",
-      "title": "Can Scientists Create Cows That Burp Less Methane?",
-      "description": "Food scientists, geneticists, microbiologists, and animal scientists are teaming up to answer this question.",
-      "url": "https://www.forbes.com/sites/mariannekrasny/2025/01/13/can-scientists-create-cows-that-burp-less-methane/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67855ddb7fd59797e9c35042/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-13T19:35:53Z",
-      "content": "UNITED KINGDOM - 2017/06/30: Cows grazing in a pasture along the coast near Bushmills and Portrush ... [+] on North Antrim Coast, County Antrim, Northern Ireland. (Photo by Wolfgang Kaehler/LightRock… [+11457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Amber Raiken",
-      "title": "12,000 cartons of chicken broth sold at Walmart pulled from shelves in latest food recall - NewsBreak",
-      "description": "More than 2,000 cases of chicken broth sold at Walmart have been recalled due to potential packing issues. According to the U.S. Food and Drug Administrat",
-      "url": "https://www.newsbreak.com/share/3758434120470-12-000-cartons-of-chicken-broth-sold-at-walmart-pulled-from-shelves-in-latest-food-recall?s=a2&share_destination_id=MjMyMjEyMTgxLTE3MzY3OTExMjA4NjU%3D&pd=0FiKzlLu&hl=en_US&send_time=1736791120&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_rank_exp_25q1-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/4Kd9tp_0y74tgFv00",
-      "publishedAt": "2025-01-13T19:26:00Z",
-      "content": "More than 2,000 cases of chicken broth sold at Walmart have been recalled due to potential packing issues. \r\n According to the U.S. Food and Drug Administration ( FDA ), 2,023 cases of Great Value, C… [+2435 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Theo Burman",
-      "title": "Kroger Food Recalls Issued for 12 States: Full List of Products Impacted",
-      "description": "Food recalls have recently been issued for several products by Kroger, which supplies supermarkets across the U.S.",
-      "url": "https://www.newsweek.com/kroger-food-recalls-full-list-products-2013826",
-      "urlToImage": "https://d.newsweek.com/en/full/2562903/kroger-supermarket.jpg",
-      "publishedAt": "2025-01-13T17:41:48Z",
-      "content": "Retail grocer Kroger currently has several food recalls in place, affecting supermarkets in 12 states.\r\nNewsweek contacted Kroger for more information on the recall via email.\r\nWhy It Matters\r\nRecall… [+3861 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Edward Randviir, Senior Lecturer in Green Chemistry, Manchester Metropolitan University",
-      "title": "Burning waste is a dirty way to generate power – but it’s the least bad alternative until we fix recycling",
-      "description": "England plans to nearly double its number of waste incinerators.",
-      "url": "https://theconversation.com/burning-waste-is-a-dirty-way-to-generate-power-but-its-the-least-bad-alternative-until-we-fix-recycling-244874",
-      "urlToImage": "https://images.theconversation.com/files/640419/original/file-20250102-19-uveaik.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5659%2C2825&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-01-13T17:18:35Z",
-      "content": "Burning waste to generate heat and electricity was deemed the UK’s “dirtiest form of power” in a BBC investigation in October 2024, after the country’s last coal plant closed the month before.\n\nThe e… [+6084 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Edward Randviir, Senior Lecturer in Green Chemistry, Manchester Metropolitan University",
-      "title": "Burning waste is a dirty way to generate power – but it’s the least bad alternative to England’s broken recycling system",
-      "description": "England plans to nearly double its number of waste incinerators.",
-      "url": "https://theconversation.com/burning-waste-is-a-dirty-way-to-generate-power-but-its-the-least-bad-alternative-to-englands-broken-recycling-system-244874",
-      "urlToImage": "https://images.theconversation.com/files/640419/original/file-20250102-19-uveaik.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5659%2C2825&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-01-13T17:18:35Z",
-      "content": "Burning waste to generate heat and electricity was deemed the UK’s “dirtiest form of power” in a BBC investigation in October 2024, after the country’s last coal plant closed the month before.\n\nThe e… [+6084 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "FDA Cites Dirty Equipment, Poor Sanitation at McDonald’s Onion Supplier After E. Coli Scare",
-      "description": "Federal inspectors uncovered numerous food safety issues at Taylor Farms' Colorado facility, including equipment found with \"large amounts of food debris.\"",
-      "url": "https://gizmodo.com/fda-cites-dirty-equipment-poor-sanitation-at-mcdonalds-onion-supplier-after-e-coli-scare-2000549290",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/McDonalds.jpg",
-      "publishedAt": "2025-01-13T17:15:39Z",
-      "content": "A new report from the Food and Drug Administration reveals dozens of food safety violations at the McDonald’s onion supplier linked to a nationwide outbreak of E. coli that sickened over a hundred pe… [+3579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": null,
-      "title": "Why Drinking Bottled Water Can Be Much Worse for You Than Tap, According to New Research - NewsBreak",
-      "description": "Why Drinking Bottled Water Can Be Much Worse for You Than Tap, According to New Research - NewsBreaknewsbreak.com",
-      "url": "https://www.newsbreak.com/share/3757057488960-why-drinking-bottled-water-can-be-much-worse-for-you-than-tap-according-to-new-research?_f=app_share&amp;pd=01qwuVSO&amp;lang=en_US&amp;send_time=1736787416&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.2.0.28%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v4&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/0zUSFT_0y5hVBK600",
-      "publishedAt": "2025-01-13T16:58:13Z",
-      "content": "The FDA hardly has any regulations at all for bottled water. \r\n Food &amp; Wine / Getty Images \r\nThe health halo surrounding bottled water is starting to burst. \r\n Bottled water first became popular … [+5081 chars]"
     }
   ],
-  "totalResults": 95,
-  "filteredCount": 5
+  "totalResults": 96,
+  "filteredCount": 4
 }
