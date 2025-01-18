@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-01-17T18:28:04.988Z",
+  "lastUpdated": "2025-01-18T01:37:01.832Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Prominent US law firm Wolf Haldenstein disclosed a data breach",
+      "description": "The law firm Wolf Haldenstein disclosed a data breach that exposed the personal information of nearly 3.5 million individuals. The law firm Wolf Haldenstein disclosed a 2023 data breach that exposed the personal information of nearly 3.5 million individuals. …",
+      "url": "https://securityaffairs.com/173150/data-breach/us-law-firm-wolf-haldenstein-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
+      "publishedAt": "2025-01-16T20:46:57Z",
+      "content": "Prominent US law firm Wolf Haldenstein disclosed a data breach\r\n | Clop Ransomware exploits Cleo File Transfer flaw: dozens of claims, disputed breaches\r\n | MikroTik botnet relies on DNS misconfigura… [+131651 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "esquire.com"
+      },
+      "author": null,
+      "title": "The Most Common Eyelid Disease You’ve Never Heard of Is Caused by Tiny Mites",
+      "description": "Dealing with red, itchy eyelids? The culprit could be a common mite.",
+      "url": "https://www.esquire.com/lifestyle/health/a62828104/the-most-common-eyelid-disease-youve-never-heard-of-is-caused-by-tiny-mites/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/sleep-deprived-man-looking-at-himself-in-mirror-royalty-free-image-1736971919.pjpeg?crop=1xw:0.74965xh;center,top&resize=1200:*",
+      "publishedAt": "2025-01-16T20:00:00Z",
+      "content": "This article is sponsored by XDEMVY. Dr. Watson is a paid consultant for Tarsus Pharmaceuticals.\r\nWaking up with red, itchy, inflamed eyelids and not sure what the culprit is? Maybe you stare at a co… [+5327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Tracy Swartz",
+      "title": "Smartwatch and fitness tracker bands have ‘very high concentrations’ of this harmful chemical",
+      "description": "In a 2019 survey, 21% of American adults reported wearing a fitness tracker or smartwatch often.",
+      "url": "https://nypost.com/2025/01/16/health/smartwatch-and-fitness-tracker-bands-have-very-high-concentrations-of-harmful-chemical/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/96801667.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-01-16T19:23:58Z",
+      "content": "Alarming news: A new study finds that several brands of fitness tracker and smartwatch bands contain “very high concentrations” of a man-made chemical that can harm our health.\r\nUniversity of Notre D… [+3843 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,45 +1248,6 @@
       "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2024/12/9780593804353.jpg",
       "publishedAt": "2025-01-14T09:55:16Z",
       "content": "On the twentieth of August, we the members of the Tatenokai brotherhood held a skirmish in the boiling lowlands of Mt Fuji to test the mettle of the new recruits. Between the marching and manoeuvres,… [+12836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Two infected with Listeria from Austrian cheese",
-      "description": "Health officials have issued a warning after two people fell sick with Listeriosis following consumption of soft cheese from Austria. The Austrian Agency for Health and Food Safety (AGES) said no confirmed cases have yet been reported in Austria. One person i…",
-      "url": "https://www.foodsafetynews.com/?p=246281",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/251/646/APW1bDp49YKwWaPoYjmVoORax/b0c58b9afbfcf3235ff9f8b07929d0265550fdff.png",
-      "publishedAt": "2025-01-14T05:03:00Z",
-      "content": "Health officials have issued a warning after two people fell sick with Listeriosis following consumption of soft cheese from Austria.\r\nThe Austrian Agency for Health and Food Safety (AGES) said no co… [+3452 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Sausage Recall Sparks Warning to Customers",
-      "description": "UP Products is recalling approximately 400 pounds of sausage due to an undeclared allergen on Monday.",
-      "url": "https://www.newsweek.com/sausage-recall-sparks-warning-customers-2014406",
-      "urlToImage": "https://d.newsweek.com/en/full/2563790/sausages.jpg",
-      "publishedAt": "2025-01-14T03:43:46Z",
-      "content": "Around 400 pounds of sausage products are being recalled on Monday due to an undeclared allergen not being listed on the packaging, according to the U.S. Department of Agriculture's Food Safety Inspe… [+3146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities …",
-      "url": "https://securityaffairs.com/173031/security/u-s-cisa-adds-beyondtrust-pra-and-rs-and-qlik-sense-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-01-13T22:10:23Z",
-      "content": "U.S. CISA adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities catalog\r\n | Inexperienced actors developed the FunkSec ransomware using AI tools\r\n | Credit Card Skim… [+130690 chars]"
     }
   ],
   "totalResults": 96,
