@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-01-18T12:36:56.953Z",
+  "lastUpdated": "2025-01-18T18:25:50.304Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-14T18:14:22Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jess Thomson",
+      "title": "Spice Recall in 15 States Over Lead Contamination Fears",
+      "description": "The five spice powder had been distributed across AK, CT, FL, GA, IA, MA, MD, MN, MO, NJ, NY, OH, PA, SC, VA and the Bahamas.",
+      "url": "https://www.newsweek.com/five-spice-powder-recall-fda-lead-contamination-2016681",
+      "urlToImage": "https://d.newsweek.com/en/full/2567102/five-spice-powder-lead-contamination.jpg",
+      "publishedAt": "2025-01-17T14:56:39Z",
+      "content": "A brand of five spice powder has been recalled due to potential contamination with a dangerous heavy metal: lead.\r\nThe \"Yu Yee, Five Spice Powder\" was voluntarily recalled by the firm Summit Import C… [+3172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Aviatrix Controllers vulnerability to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Aviatrix Controllers vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a critical Aviatrix Controllers OS Comm…",
+      "url": "https://securityaffairs.com/173189/hacking/u-s-cisa-aviatrix-controllers-vulnerability-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-01-17T14:38:18Z",
+      "content": "ESET detailed a flaw that could allow a bypass of the Secure Boot in UEFI systems\r\n | Russia-linked APT Star Blizzard targets WhatsApp accounts\r\n | Prominent US law firm Wolf Haldenstein disclosed a … [+131804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Vanessa Forte, Luisa Sartori, Antonino Visalli, Mustafa Yildirim, Gaspare Galati, Massimo Vidale, Emanuela Faresin, Antonino Vallesi",
+      "title": "Neural plasticity in early potters: Shape analysis and TMS-EEG co-registration trace the rise of a new motor skill",
+      "description": "In this study, we explored the biocultural mechanisms underlying ancient craft behaviours. Archaeological methods were integrated with neuroscience techniques to explore the impact on neuroplasticity resulting from the introduction of early pottery techniques…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316545",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316545.g007&size=inline",
+      "publishedAt": "2025-01-17T14:00:00Z",
+      "content": "Abstract\r\nIn this study, we explored the biocultural mechanisms underlying ancient craft behaviours. Archaeological methods were integrated with neuroscience techniques to explore the impact on neuro… [+83956 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -641,19 +693,6 @@
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-14T18:14:22Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Research and Markets",
@@ -878,12 +917,12 @@
         "name": "Naturalnews.com"
       },
       "author": "Kevin Hughes",
-      "title": "Steve Quayle and Mike Adams: California’s food supply is being POISONED by dioxins",
-      "description": "California’s wildfires are not only destroying homes and landscapes but also posing a severe risk to the nation’s food supply. Toxic smoke containing dioxins—highly carcinogenic chemicals released from burning PVC materials—is contaminating the Central Valley…",
-      "url": "https://www.naturalnews.com/2025-01-15-quayle-adams-california-food-supply-poisoned-dioxins.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/California-Los-Angeles-Hills-Smoke.jpg",
+      "title": "Steve Quayle and Mike Adams: “Operation Meltdown” in California could be a prelude to a communist revolution",
+      "description": "Mike Adams and Steve Quayle argue that California’s wildfires are not natural disasters but part of a deliberate assault on American infrastructure, food supplies and public health, with the release of toxic dioxins contaminating crops and water sources. They…",
+      "url": "https://www.naturalnews.com/2025-01-15-operation-meltdown-in-california-prelude-communist-revolution.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/California-Wildfires-2025-Firefighters-Hill.jpg",
       "publishedAt": "2025-01-15T06:00:00Z",
-      "content": "<ul><li>Californias wildfires are not only destroying homes and landscapes but also posing a severe risk to the nation's food supply. Toxic smoke containing dioxinshighly carcinogenic chemicals relea… [+6139 chars]"
+      "content": "<ul><li>Mike Adams and Steve Quayle argue that California's wildfires are not natural disasters but part of a deliberate assault on American infrastructure, food supplies and public health, with the … [+6054 chars]"
     },
     {
       "source": {
@@ -891,12 +930,12 @@
         "name": "Naturalnews.com"
       },
       "author": "Kevin Hughes",
-      "title": "Steve Quayle and Mike Adams: “Operation Meltdown” in California could be a prelude to a communist revolution",
-      "description": "Mike Adams and Steve Quayle argue that California’s wildfires are not natural disasters but part of a deliberate assault on American infrastructure, food supplies and public health, with the release of toxic dioxins contaminating crops and water sources. They…",
-      "url": "https://www.naturalnews.com/2025-01-15-operation-meltdown-in-california-prelude-communist-revolution.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/California-Wildfires-2025-Firefighters-Hill.jpg",
+      "title": "Steve Quayle and Mike Adams: California’s food supply is being POISONED by dioxins",
+      "description": "California’s wildfires are not only destroying homes and landscapes but also posing a severe risk to the nation’s food supply. Toxic smoke containing dioxins—highly carcinogenic chemicals released from burning PVC materials—is contaminating the Central Valley…",
+      "url": "https://www.naturalnews.com/2025-01-15-quayle-adams-california-food-supply-poisoned-dioxins.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/California-Los-Angeles-Hills-Smoke.jpg",
       "publishedAt": "2025-01-15T06:00:00Z",
-      "content": "<ul><li>Mike Adams and Steve Quayle argue that California's wildfires are not natural disasters but part of a deliberate assault on American infrastructure, food supplies and public health, with the … [+6054 chars]"
+      "content": "<ul><li>Californias wildfires are not only destroying homes and landscapes but also posing a severe risk to the nation's food supply. Toxic smoke containing dioxinshighly carcinogenic chemicals relea… [+6139 chars]"
     },
     {
       "source": {
@@ -1209,60 +1248,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-22.png",
       "publishedAt": "2025-01-14T16:29:22Z",
       "content": "Russia-linked APT UAC-0063 target Kazakhstan in with HATVIBE malware\r\n | A new campaign is likely targeting a zero-day in Fortinet FortiGate firewalls\r\n | Threat actors exploit Aviatrix Controller fl… [+130942 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "United States Sterilization Services Market Forecast & Opportunities 2020-2030, Featuring Steris, Getinge, Advanced Sterilization Products, 3M, Belimed, Cantel Medical, Matachana, Sterigenics & TSO3",
-      "description": "Dublin, Jan. 14, 2025 (GLOBE NEWSWIRE) -- The \"United States Sterilization Services Market, By Region, Competition, Forecast & Opportunities, 2020-2030F\" report has been added to ResearchAndMarkets.com's offering.The United States Sterilization Services Marke…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/14/3009490/28124/en/United-States-Sterilization-Services-Market-Forecast-Opportunities-2020-2030-Featuring-Steris-Getinge-Advanced-Sterilization-Products-3M-Belimed-Cantel-Medical-Matachana-Sterigenic.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-14T16:05:00Z",
-      "content": "Dublin, Jan. 14, 2025 (GLOBE NEWSWIRE) -- The \"United States Sterilization Services Market, By Region, Competition, Forecast &amp; Opportunities, 2020-2030F\" report has been added to ResearchAndMarke… [+8546 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Chloe Mayer",
-      "title": "Aldi Food Recalls Issued for 34 States: Full List of Products Impacted",
-      "description": "Two of the recalls were initiated over fears the food could be contaminated with E. coli or listeria.",
-      "url": "https://www.newsweek.com/aldi-food-recalls-ecoli-listeria-2014647",
-      "urlToImage": "https://d.newsweek.com/en/full/2564105/aldi-food-recall-map.jpg",
-      "publishedAt": "2025-01-14T15:27:45Z",
-      "content": "Aldi has issued a series of food recalls across the United States over the past three months amid fears that some of the products could make customers sick with potentially deadly food poisoning bugs… [+4443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Corin Cesaric",
-      "title": "Raw Cat Food Linked to Bird Flu -- A Vet Shares How to Protect Your Pets From the Virus",
-      "description": "Both cats and dogs can contract the virus, but cats are at higher risk for severe illness. We asked an expert what you can do about it.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/raw-cat-food-linked-to-bird-flu-a-vet-shares-how-to-protect-your-pets-from-the-virus/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/fdd8ec5d38d9cc1c2462bfc3b0e5875bfa1ce564/hub/2025/01/13/f6c94631-cb7c-4032-9bce-a34dc10a8a3a/gettyimages-1687139789.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-01-14T15:00:04Z",
-      "content": "A raw cat food item from Northwest Naturals was recalled due to an avian influenza (bird flu or H5N1) contamination, and one cat has since died, causing pet owners to be on high alert regarding the v… [+4414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "GrrlScientist, Senior Contributor, \n GrrlScientist, Senior Contributor\n https://www.forbes.com/sites/grrlscientist/",
-      "title": "How To Disease-Proof Your Wild Bird Feeders",
-      "description": "Feeding wild birds is a popular hobby globally, but it presents invisible disease risks to the very birds that we are feeding — but there are ways to safeguard their health",
-      "url": "https://www.forbes.com/sites/grrlscientist/2025/01/14/how-to-disease-proof-your-wild-bird-feeders/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67851812394b45e246182064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-14T14:50:10Z",
-      "content": "Feeding wild birds is a popular hobby globally, but it presents invisible disease risks to the very birds that we are feeding but there are ways to safeguard their health\r\nAdult male European Greenfi… [+8977 chars]"
     }
   ],
-  "totalResults": 97,
-  "filteredCount": 3
+  "totalResults": 96,
+  "filteredCount": 4
 }
