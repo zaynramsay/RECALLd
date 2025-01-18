@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-18T01:37:01.832Z",
+  "lastUpdated": "2025-01-18T06:26:39.670Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Russia-linked APT Star Blizzard targets WhatsApp accounts",
+      "description": "The Russian group Star Blizzard targets WhatsApp accounts in a new spear-phishing campaign, shifting tactics to avoid detection. In November 2024, Microsoft researchers observed the Russia-linked APT group Star Blizzard targeting WhatsApp accounts via spear-p…",
+      "url": "https://securityaffairs.com/173165/apt/russia-star-blizzard-targets-whatsapp-accounts.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-26.png",
+      "publishedAt": "2025-01-17T06:22:23Z",
+      "content": "Russia-linked APT Star Blizzard targets WhatsApp accounts\r\n | Prominent US law firm Wolf Haldenstein disclosed a data breach\r\n | Clop Ransomware exploits Cleo File Transfer flaw: dozens of claims, di… [+131713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Kevin Hughes",
+      "title": "DIOXIN APOCALYPSE: Are the California fires unleashing a silent CANCER epidemic?",
+      "description": "California’s wildfires are incinerating structures containing PVC materials, releasing highly toxic dioxins into the air. These “forever chemicals” are carcinogenic and pose severe health risks, including cancer, reproductive issues and immune system damage, …",
+      "url": "https://www.naturalnews.com/2025-01-17-dioxin-apocalypse-california-fires-unleashing-cancer-epidemic.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/California-Wildfires-2025-Buring-Building-Firetruck-Firefighters.jpg",
+      "publishedAt": "2025-01-17T06:00:00Z",
+      "content": "<ul><li>California's wildfires are incinerating structures containing PVC materials, releasing highly toxic dioxins into the air. These \"forever chemicals\" are carcinogenic and pose severe health ris… [+7449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Cassie B.",
+      "title": "Toxic âforever chemicalsâ in farm sludge pose health threats, EPA report finds",
+      "description": "The EPA warns that sewage sludge used as fertilizer may expose humans to toxic PFAS chemicals, posing serious health risks. PFAS in sludge can contaminate crops, livestock and drinking water, and persist in the environment for decades. Exposure to PFAS chemic…",
+      "url": "https://www.naturalnews.com/2025-01-17-toxic-forever-chemicals-farm-sludge-threats.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Pollution-Water-Toxic-Waste-Sludge-Lake-River.jpg",
+      "publishedAt": "2025-01-17T06:00:00Z",
+      "content": "<ul><li>The EPA warns that sewage sludge used as fertilizer may expose humans to toxic PFAS chemicals, posing serious health risks.</li><li>PFAS in sludge can contaminate crops, livestock and drinkin… [+4520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "FDA seeking comments on high-protein yogurt and poppy seeds",
+      "description": "The U.S. Food and Drug Administration is seeking public and industry comments on poppy seeds and high-protein yogurt. Poppy seedsThe RFI for poppy seeds seeks to provide the FDA with a better understanding of whether certain practices increase or reduce the p…",
+      "url": "https://www.foodsafetynews.com/2025/01/fda-seeking-comments-on-high-protein-yogurt-and-poppy-seeds/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/552/621/nBjKDywPW6ZkEd8XQ4vgVoMrN/a04f3f3f30061543c5f2f7f4ef8ae35d9452ee89.png",
+      "publishedAt": "2025-01-17T05:05:00Z",
+      "content": "The U.S. Food and Drug Administration is seeking public and industry comments on poppy seeds and high-protein yogurt.\r\nPoppy seedsThe RFI for poppy seeds seeks to provide the FDA with a better unders… [+4323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Joe Whitworth",
+      "title": "FSA probes why Campylobacter action hasn’t decreased cases",
+      "description": "Experts have suggested reasons why a reduction of Campylobacter in chicken meat has not led to a decrease in infections in the United Kingdom. Ideas include the selected meat contamination target being the wrong one to focus on as well as the role of other so…",
+      "url": "https://www.foodsafetynews.com/2025/01/fsa-probes-why-campylobacter-action-hasnt-decreased-cases/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/552/579/MRj52Zwoa6xmByOvQxWkdO3eE/78f0fddd7cd870eefbaa44319883200c94bc9cc6.png",
+      "publishedAt": "2025-01-17T05:03:00Z",
+      "content": "Experts have suggested reasons why a reduction of Campylobacter in chicken meat has not led to a decrease in infections in the United Kingdom.\r\nIdeas include the selected meat contamination target be… [+2773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "Bird Flu Confirmed in Cat Deaths Linked to Raw Pet Food, Milk",
+      "description": "At least six pet cats in Los Angeles County have died from bird flu, and more are sick with the virus, after consuming either raw pet food or raw milk containing infective particles of the H5N1 virus.",
+      "url": "https://www.sciencealert.com/bird-flu-confirmed-in-cat-deaths-linked-to-raw-pet-food-milk",
+      "urlToImage": "https://www.sciencealert.com/images/2025/01/GettyImages-1639523046.jpg",
+      "publishedAt": "2025-01-17T04:57:52Z",
+      "content": "At least six pet cats in Los Angeles County have died from bird flu, and more are sick with the virus, after consuming either raw pet food or raw milk containing infective particles of the H5N1 virus… [+3561 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -505,7 +583,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2025-01-14T06:31:44Z",
+      "publishedAt": "2025-01-14T18:14:22Z",
       "content": "[Removed]"
     },
     {
@@ -1091,7 +1169,7 @@
       "url": "https://www.newsweek.com/aldi-food-recalls-ecoli-listeria-2014647",
       "urlToImage": "https://d.newsweek.com/en/full/2564105/aldi-food-recall-map.jpg",
       "publishedAt": "2025-01-14T15:27:45Z",
-      "content": "Aldi has issued a series of food recalls across the United States over the past three months amid fears that some of the products could make customers sick with potentially deadly food poisoning bugs… [+4443 chars]"
+      "content": "Aldi has issued a series of food recalls across the United States over the past three months amid fears that some of the products could make customers sick with potentially deadly food poisoning bugs��� [+4443 chars]"
     },
     {
       "source": {
@@ -1183,73 +1261,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2564060/cucumber.jpg",
       "publishedAt": "2025-01-14T13:05:21Z",
       "content": "A recall of prepared cucumbers over salmonella fears was classified as the highest possible potential health risk this week—after experts ruled that consuming the products could prove fatal.\r\nPackage… [+4597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A new campaign is likely targeting a zero-day in Fortinet FortiGate firewalls",
-      "description": "Experts warn of a new campaign targeting an alleged zero-day in Fortinet FortiGate firewalls with management interfaces exposed online. Arctic Wolf researchers observed a campaign targeting Fortinet FortiGate firewalls with exposed management interfaces, like…",
-      "url": "https://securityaffairs.com/173050/hacking/attackers-target-zero-day-in-fortinet-fortigate-firewalls.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg",
-      "publishedAt": "2025-01-14T12:20:30Z",
-      "content": "A new campaign is likely targeting a zero-day in Fortinet FortiGate firewalls\r\n | Threat actors exploit Aviatrix Controller flaw to deploy backdoors and cryptocurrency miners\r\n | U.S. CISA adds Beyon… [+130869 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
-      },
-      "author": "Investing.com",
-      "title": "Hormel Foods Chairman, President and CEO James P. Snee to Retire at End of Fiscal Year",
-      "description": "Hormel Foods Chairman, President and CEO James P. Snee to Retire at End of Fiscal Year",
-      "url": "https://www.investing.com/news/press-releases/hormel-foods-chairman-president-and-ceo-james-p-snee-to-retire-at-end-of-fiscal-year-93CH-3811298",
-      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
-      "publishedAt": "2025-01-14T11:32:07Z",
-      "content": "AUSTIN, Minn.\r\n, Jan. 14, 2025\r\n /PRNewswire/ -- Hormel Foods Corporation (NYSE: NYSE:HRL), a Fortune 500 global branded food company, today announced that James P. Snee\r\n, chairman of the board, pre… [+6984 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Global Robotic Palletizer Market to Worth Over US$ 3064.32 Million By 2033 | Astute Analytica",
-      "description": "Rising logistics complexity and mounting consumer expectations favor adaptive palletizing solutions. Integrations with warehouse software reduce downtime, AI-based tools enhance efficiency, and global robotics providers innovate relentlessly. Robotic palletiz…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/14/3009131/0/en/Global-Robotic-Palletizer-Market-to-Worth-Over-US-3064-32-Million-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-01-14T11:30:00Z",
-      "content": "New Delhi, Jan. 14, 2025 (GLOBE NEWSWIRE) -- The global robotic palletizer market is projected to hit the valuation of US$ 3,064.32 million by 2033 from US$ 1,695.33 million in 2024 at a CAGR of 7.68… [+14510 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Threat actors exploit Aviatrix Controller flaw to deploy backdoors and cryptocurrency miners",
-      "description": "A critical vulnerability in Aviatrix Controller is actively exploited to deploy backdoors and cryptocurrency miners in the wild. A security researcher Jakub Korepta discovered a critical vulnerability, tracked as CVE-2024-50603 (CVSS score: 10.0), in the Avia…",
-      "url": "https://securityaffairs.com/173037/cyber-crime/aviatrix-controller-flaw-active-exploitation.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/Aviatrix-Controller.png",
-      "publishedAt": "2025-01-14T10:23:54Z",
-      "content": "Threat actors exploit Aviatrix Controller flaw to deploy backdoors and cryptocurrency miners\r\n | U.S. CISA adds BeyondTrust PRA and RS and Qlik Sense flaws to its Known Exploited Vulnerabilities cata… [+130787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lithub.com"
-      },
-      "author": "Lit Hub Excerpts",
-      "title": "“The Dragon Flute”",
-      "description": "On the twentieth of August, we the members of the Tatenokai brotherhood held a skirmish in the boiling lowlands of Mt Fuji to test the mettle of the new recruits. Between the marching and manoeuvres, the triple rounds of crawling out and sprinting back, some …",
-      "url": "https://lithub.com/the-dragon-flute/",
-      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2024/12/9780593804353.jpg",
-      "publishedAt": "2025-01-14T09:55:16Z",
-      "content": "On the twentieth of August, we the members of the Tatenokai brotherhood held a skirmish in the boiling lowlands of Mt Fuji to test the mettle of the new recruits. Between the marching and manoeuvres,… [+12836 chars]"
     }
   ],
-  "totalResults": 96,
-  "filteredCount": 4
+  "totalResults": 97,
+  "filteredCount": 3
 }
