@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-01-19T06:27:05.087Z",
+  "lastUpdated": "2025-01-19T12:36:48.460Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Marlerblog.com"
+      },
+      "author": "Bill Marler",
+      "title": "Boar’s Head Listeria Outbreak Revisited",
+      "description": "On July 12, 2024, the U.S. Department of Agriculture’s (USDA) Food Safety and Inspection Service (FSIS) launched an investigation into a multistate outbreak of listeriosis linked to retail-sliced deli meats. The investigation was triggered when the Maryland D…",
+      "url": "https://www.marlerblog.com/case-news/boars-head-listeria-outbreak-revisited/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/650/442/nE38ekNX9QnrPMkyQMamprWxZ/59011aaa6e62c6b3ba5a6204f20daadc9e09d2fa.png",
+      "publishedAt": "2025-01-18T11:37:09Z",
+      "content": "On July 12, 2024, the U.S. Department of Agricultures (USDA) Food Safety and Inspection Service (FSIS) launched an investigation into a multistate outbreak of listeriosis linked to retail-sliced deli… [+27728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "How to get black pearls ark?",
+      "description": "How to Get Black Pearls Ark: A Comprehensive Guide Introduction Black pearls are one of the rarest and most valuable […]\nThe post How to get black pearls ark? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/how-to-get-black-pearls-ark/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-18T09:27:28Z",
+      "content": "How to Get Black Pearls Ark: A Comprehensive Guide\r\nIntroduction\r\nBlack pearls are one of the rarest and most valuable types of pearls in the world. They are highly prized for their unique color and … [+5387 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Sophie Clark",
+      "title": "H-E-B Food Recalls: Full List of Products Impacted",
+      "description": "The Texan grocer has recalled three food products sold in its stores over the past three months due to FDA and FSIS nation-wide recalls.",
+      "url": "https://www.newsweek.com/heb-food-recalls-full-list-fsa-fsis-products-affected-2016535",
+      "urlToImage": "https://d.newsweek.com/en/full/2566878/heb-cucumber-recall.png",
+      "publishedAt": "2025-01-18T09:00:02Z",
+      "content": "In the past three months three food products have been recalled by Texan grocery store H-E-B.\r\nWhole Fresh American Cucumbers\r\nH-E-B recalled Sunfed Produce Cucumbers on December 1, 2024, because the… [+3696 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -63,7 +102,7 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2025-01-14T18:18:22Z",
+      "publishedAt": "2025-01-14T19:35:02Z",
       "content": "[Removed]"
     },
     {
@@ -1235,34 +1274,8 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250114-boars-head-vl-145p-5d0cc8.jpg",
       "publishedAt": "2025-01-14T18:48:55Z",
       "content": "Government inspectors documented unsanitary conditions at several Boars Head deli meat plants, not just the factory that was shut down last year after a deadly outbreak of listeria poisoning, federal… [+4693 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "seattlepi.com"
-      },
-      "author": "By JONEL ALECCIA, AP Health Writer",
-      "title": "USDA documented insects, slime and ‘general filth’ at Boar's Head plants, records show",
-      "description": "U.S. food inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just the Jarratt, Virginia, factory that was shut down last year. That's according to newly released federal documents in response to an Associated Press record…",
-      "url": "https://www.seattlepi.com/business/article/usda-documented-insects-slime-and-general-20033976.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/46/51/65/26910057/3/rawImage.jpg",
-      "publishedAt": "2025-01-14T18:27:03Z",
-      "content": "FILE - A Boar's Head logo is seen at a bodega in New York, Aug. 30, 2024.Stephanie Nano/AP\r\nGovernment inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just th… [+5240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Associated Press",
-      "title": "USDA documented insects, slime and ‘general filth’ at Boar’s Head plants, records show",
-      "description": "An outbreak of listeria food poisoning tied to a Boar's Head plant sickened more than 60 people and killed 10.",
-      "url": "https://www.bostonherald.com/2025/01/14/deli-meat-listeria-boars-head/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/01/US_Deli_Meat_Listeria_89145.jpg?w=1024&h=682",
-      "publishedAt": "2025-01-14T18:19:47Z",
-      "content": "By JONEL ALECCIA, AP Health Writer\r\nGovernment inspectors documented unsanitary conditions at several Boar’s Head deli meat plants, not just the factory that was shut down last year after a deadly ou… [+4996 chars]"
     }
   ],
-  "totalResults": 97,
-  "filteredCount": 3
+  "totalResults": 98,
+  "filteredCount": 2
 }
