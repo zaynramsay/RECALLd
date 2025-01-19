@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-01-19T12:36:48.460Z",
+  "lastUpdated": "2025-01-19T18:25:48.590Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joey Skladany",
+      "title": "How to Tell if Wine Is Corked and What to Do When It Is",
+      "description": "Keeping your nose on alert for corked wine will help you avoid drinking a bad bottle.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/how-to-tell-if-a-wine-is-corked-and-what-to-do-about-it/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/6b3dfa21682f22c82b2876d5e0d91da2a759aa44/hub/2025/01/16/bfa4aa6b-d898-47ce-b3d8-09b80bf3f438/gettyimages-834599854.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-18T16:00:03Z",
+      "content": "Aside from spotting hair in food, there is, perhaps, no greater disappointment in a fine dining experience than ordering an expensive bottle of wine, only to find that it tastes funny. \r\nBut don't be… [+4450 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brenda Goodman",
+      "title": "With bird flu cases rising, certain kinds of pet food may be risky for animals",
+      "description": "The US Food and Drug Administration said it is tracking multiple cases of H5N1 bird flu in domestic and wild cats, including cases linked to contaminated pet food.",
+      "url": "https://www.cnn.com/2025/01/18/health/bird-flu-pet-food-cat-deaths/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/img-1398.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-18T14:12:48Z",
+      "content": "When Jamila Acfalle decided to get her first cat, she had one requirement: It had to be brave.\r\nAcfalle is a dog trainer in a suburb of Portland, Oregon. She works with dogs that have behavior proble… [+19444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Snopes.com"
+      },
+      "author": "Madison Dapcevich",
+      "title": "What We Know About Study That Once Reportedly Found Human DNA in Hot Dogs",
+      "description": "While multiple news outlets covered the 2015 study, it's unclear whether the report was peer-reviewed or published in a reputable journal.",
+      "url": "https://www.snopes.com//news/2025/01/16/human-dna-study-hot-dogs/",
+      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/01/hot_dog_repackage_resized.png",
+      "publishedAt": "2025-01-18T14:00:00Z",
+      "content": "<ul><li>A 2015 report published by a private genomics testing company found that 2% of 345 hot dogs tested contained traces of human DNA. </li><li>However, it was unclear whether that report was a pe… [+7432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "How to store cinnamon rolls?",
+      "description": "How to Store Cinnamon Rolls: Tips and Tricks Cinnamon rolls are a delicious and popular breakfast or snack item that […]\nThe post How to store cinnamon rolls? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/how-to-store-cinnamon-rolls/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-18T13:09:24Z",
+      "content": "How to Store Cinnamon Rolls: Tips and Tricks\r\nCinnamon rolls are a delicious and popular breakfast or snack item that can be enjoyed at any time of the year. However, storing them properly is crucial… [+5718 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -255,7 +307,7 @@
       },
       "author": "News Desk",
       "title": "FDA seeking comments on high-protein yogurt and poppy seeds",
-      "description": "The U.S. Food and Drug Administration is seeking public and industry comments on poppy seeds and high-protein yogurt. Poppy seedsThe RFI for poppy seeds seeks to provide the FDA with a better understanding of whether certain practices increase or reduce the p…",
+      "description": "The U.S. Food and Drug Administration is seeking public and industry comments on poppy seeds and high-protein yogurt. Poppy seedsThe RFI for poppy seeds seeks to provide the FDA with a better understanding of whether certain practices increase or reduce the p���",
       "url": "https://www.foodsafetynews.com/2025/01/fda-seeking-comments-on-high-protein-yogurt-and-poppy-seeds/",
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/552/621/nBjKDywPW6ZkEd8XQ4vgVoMrN/a04f3f3f30061543c5f2f7f4ef8ae35d9452ee89.png",
       "publishedAt": "2025-01-17T05:05:00Z",
@@ -1222,58 +1274,6 @@
       "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FP2CTOFGEU77HWOINBYFTHPDPRA.jpg?auth=90f7fc7d72a19c4e7bf66455ac8227ccf7d7902eb29a351dff60f1785f2f65b8&width=1200&height=630&smart=true",
       "publishedAt": "2025-01-14T20:23:08Z",
       "content": "Government inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just the factory that was shut down last year after a deadly outbreak of listeria poisoning, federa… [+5033 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "JONEL ALECCIA AP health writer",
-      "title": "USDA documented insects and slime at Boar's Head plants, records show",
-      "description": "U.S. food inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just the Jarratt, Virginia, factory that was shut down last year",
-      "url": "https://abcnews.go.com/Business/wireStory/usda-documented-insects-slime-boars-head-plants-records-117669178",
-      "urlToImage": "https://i.abcnewsfe.com/a/c6a34868-324d-47ec-9f36-fc0025578663/wirestory_65c4016aea0fc9e8505350ebc7b41e39_16x9.jpg?w=1600",
-      "publishedAt": "2025-01-14T19:33:33Z",
-      "content": "Government inspectors documented unsanitary conditions at several Boar's Head deli meat plants, not just the factory that was shut down last year after a deadly outbreak of listeria poisoning, federa… [+4890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Associated Press",
-      "title": "USDA documented insects and slime at Boar’s Head plants, bombshell records show",
-      "description": "Government inspectors documented unsanitary conditions at several Boar’s Head deli meat plants, not just the factory that was shut down last year after a listeria outbreak, federal records show.…",
-      "url": "https://nypost.com/2025/01/14/business/usda-documented-insects-and-slime-at-boars-head-plants-records-show/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/general-view-boars-head-product-90492162.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-01-14T19:21:28Z",
-      "content": "Government inspectors documented unsanitary conditions at several Boars Head deli meat plants, not just the factory that was shut down last year after a deadly outbreak of listeria poisoning, federal… [+4865 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Fleur Connick",
-      "title": "When drinking water is contaminated with PFAS, how do treatment plants make it safe?",
-      "description": "\"Forever chemicals\" were recently found above levels currently considered safe in a handful of NSW drinking water sources. This is how PFAS-contaminated water is cleaned up before it reaches your kitchen tap.",
-      "url": "https://www.abc.net.au/news/science/2025-01-15/removing-pfas-forever-chemicals-drinking-water-sources-treatment/104721522",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5373ec56ef566889f0754a558c6ea7b1?impolicy=wcms_watermark_news&cropH=1528&cropW=2717&xPos=0&yPos=142&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-01-14T19:00:00Z",
-      "content": "\"Forever chemicals\" are almost impossible to avoid. They can be found in clothes, cosmetics, furnishings, non-stick cookware, food packaging and, in rare occasions, end up in water from the kitchen t… [+6829 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "The Associated Press",
-      "title": "USDA documented insects and slime at Boar’s Head plants, records show",
-      "description": "Government inspectors documented unsanitary conditions at several Boar’s Head deli meat plants, not just the factory that was shut down last year after a deadly outbreak of listeria poisoning, federal records show.",
-      "url": "https://www.nbcnews.com/business/business-news/usda-documented-insects-slime-boars-head-plants-records-show-rcna187652",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250114-boars-head-vl-145p-5d0cc8.jpg",
-      "publishedAt": "2025-01-14T18:48:55Z",
-      "content": "Government inspectors documented unsanitary conditions at several Boars Head deli meat plants, not just the factory that was shut down last year after a deadly outbreak of listeria poisoning, federal… [+4693 chars]"
     }
   ],
   "totalResults": 98,
