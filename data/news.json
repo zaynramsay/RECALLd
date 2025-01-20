@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-20T12:41:29.282Z",
+  "lastUpdated": "2025-01-20T18:27:36.336Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "City Journal",
+      "title": "Will the Left Disrupt the Inauguration? A network of progressive groups and militants is preparing for battle.",
+      "description": "Left-wing radicals have been mobilizing near the nation’s capital ahead of the January 20 inauguration, which has been moved indoors. Since summer, we have tracked D.C.’s radical networks—their movements, methods, and potential for violence. After George Floy…",
+      "url": "https://freerepublic.com/focus/f-chat/4291095/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-01-19T16:17:01Z",
+      "content": "Skip to comments.\r\nWill the Left Disrupt the Inauguration? A network of progressive groups and militants is preparing for battle.City Journal ^\r\n | 17 Jan, 2025\r\n | Christopher F. Rufo, Hannah Grossm… [+25256 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Eoin Burke-Kennedy",
+      "title": "Davos has a Marie Antoinette problem",
+      "description": "Annual World Economic Forum professes to aim to ‘improve state of the world’ but is seen as schmoozefest for establishment elites",
+      "url": "https://www.irishtimes.com/business/economy/2025/01/19/davos-has-a-marie-antoinette-problem/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/EOJ4TOSLSOBOGESHAJ5AUFT7NA.jpg?smart=true&auth=93321849566f5dec9e4f9c2fbc994ba7b43ccce396ef569b3d4829bddcad3013&width=1200&height=630",
+      "publishedAt": "2025-01-19T13:58:27Z",
+      "content": "Theres no proof that Marie Antoinette ever said let them eat cake. But, according to historians, it was the sort of thing she might have said. Hence, it rang true or at least chimed with the anti-roy… [+4754 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,32 +1261,6 @@
       "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
       "publishedAt": "2025-01-15T12:00:23Z",
       "content": "Why is Toilet Water Yellow?\r\nUnderstanding the Cause of Yellow Toilet Water\r\nToilet water can appear yellow due to various reasons. In this article, we will explore the possible causes of yellow toil… [+4054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Codefinger ransomware gang uses compromised AWS keys to encrypt S3 bucket",
-      "description": "The ransomware group Codefinger is using compromised AWS keys to encrypt S3 bucket data using SSE-C, Halcyon researchers warn. The ransomware group Codefinger has been spotted using compromised AWS keys to encrypt data in S3 buckets. The threat actor used AWS…",
-      "url": "https://securityaffairs.com/173089/cyber-crime/codefinger-ransomware-gang-encrypts-s3-bucket.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
-      "publishedAt": "2025-01-15T11:53:40Z",
-      "content": "Codefinger ransomware gang uses compromised AWS keys to encrypt S3 bucket\r\n | CVE-2024-44243 macOS flaw allows persistent malware installation\r\n | FBI deleted China-linked PlugX malware from over 4,2… [+131161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "CVE-2024-44243 macOS flaw allows persistent malware installation",
-      "description": "Microsoft disclosed details of a vulnerability in Apple macOS that could have allowed an attacker to bypass the OS’s System Integrity Protection (SIP). Microsoft disclosed details of a now-patched macOS flaw, tracked as CVE-2024-44243 (CVSS score: 5.5), that …",
-      "url": "https://securityaffairs.com/173082/hacking/apple-macos-system-integrity-protection-sip-flaw.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
-      "publishedAt": "2025-01-15T10:34:33Z",
-      "content": "CVE-2024-44243 macOS flaw allows persistent malware installation\r\n | FBI deleted China-linked PlugX malware from over 4,200 US computers\r\n | Russia-linked APT UAC-0063 target Kazakhstan in with HATVI… [+131083 chars]"
     }
   ],
   "totalResults": 97,
