@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-20T06:29:57.158Z",
+  "lastUpdated": "2025-01-20T12:41:29.282Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-15T16:03:34Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "The Star Online",
+      "title": "High levels of bacteria detected in cockles washed up on Dungun beach",
+      "description": "KUALA TERENGGANU: An analysis of the cockles that were washed ashore at Pantai Sura in Dungun has shown that the levels of Faecal Coliform bacteria and Escherichia coli (E. coli) exceed set standards. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/19/high-levels-of-bacteria-detected-in-cockles-washed-up-on-dungun-beach",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/19/3125728.jpg",
+      "publishedAt": "2025-01-19T10:45:00Z",
+      "content": "KUALA TERENGGANU: An analysis of the cockles that were washed ashore at Pantai Sura in Dungun has shown that the levels of Faecal Coliform bacteria and Escherichia coli (E. coli) exceed set standards… [+1469 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -39,19 +65,6 @@
       "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/01/18222833/MICROWAVING.jpg",
       "publishedAt": "2025-01-19T00:38:08Z",
       "content": "Citing the potential leaching of harmful chemicals from plastic into food, nutrition experts have kicked against microwaving food in plastic containers, warning that it could expose consumers to many… [+5355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-15T16:03:34Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -1248,34 +1261,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
       "publishedAt": "2025-01-15T10:34:33Z",
       "content": "CVE-2024-44243 macOS flaw allows persistent malware installation\r\n | FBI deleted China-linked PlugX malware from over 4,200 US computers\r\n | Russia-linked APT UAC-0063 target Kazakhstan in with HATVI… [+131083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Global Bioethanol Yeast Market Set to Reach Valuation of US$ 56.50 Billion By 2033 | Astute Analytica",
-      "description": "High-yield bioethanol yeast finds unprecedented traction, capitalizing on biomass conversion upgrades and resilient strain breakthroughs. Nurtured by strong R&D pipelines, the market sees surging demand across continents. Strategic synergy among research cons…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/15/3009815/0/en/Global-Bioethanol-Yeast-Market-Set-to-Reach-Valuation-of-US-56-50-Billion-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-01-15T10:30:00Z",
-      "content": "New Delhi, Jan. 15, 2025 (GLOBE NEWSWIRE) -- The global Bioethanol yeast market is projected to hit the market valuation of US$ 56.50 billion by 2033 from US$ 20.85 billion at a CAGR of 13.27% during… [+14974 chars]"
-    },
-    {
-      "source": {
-        "id": "the-globe-and-mail",
-        "name": "The Globe And Mail"
-      },
-      "author": "Geoffrey York",
-      "title": "In Namibia, a Canadian copper company leaves a legacy of toxic waste",
-      "description": "Sickness has been common for years in Tsumeb, where Dundee Precious Metals was the biggest employer for more than a decade. Tests have now found the soil is contaminated with arsenic and other heavy metals",
-      "url": "https://www.theglobeandmail.com/business/article-dundee-copper-mine-namibia-arsenic-toxic-waste/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/D477JDJEQ5DKZI2JGKM6FK3OYQ.JPG?auth=bef33a1c590e76eeb4a57a67f7e7b71791f5f0ef4bd19fcdb39781df0c975003&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2025-01-15T10:25:42Z",
-      "content": "Open this photo in gallery:This copper smelter in Tsumeb, Namibia, was built in the 1960s and run by Dundee Precious Metals Inc., a Canadian company, from 2010 until last summer. DPM and the new owne… [+25960 chars]"
     }
   ],
-  "totalResults": 98,
-  "filteredCount": 2
+  "totalResults": 97,
+  "filteredCount": 3
 }
