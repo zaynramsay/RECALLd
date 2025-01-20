@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-20T01:41:57.255Z",
+  "lastUpdated": "2025-01-20T06:29:57.158Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "The Canadian Press",
+      "title": "Eggs in B.C., Ont., Man., recalled over salmonella concerns",
+      "description": "The Canadian Food Inspection Agency has issued a recall due to a possible salmonella contamination of certain brands of eggs in British Columbia, Manitoba, Ontario and other possible provinces and territories.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1d64074-df1e-4773-8671-64844a8968e7",
+      "urlToImage": null,
+      "publishedAt": "2025-01-19T02:22:21Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,19 +1274,6 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/D477JDJEQ5DKZI2JGKM6FK3OYQ.JPG?auth=bef33a1c590e76eeb4a57a67f7e7b71791f5f0ef4bd19fcdb39781df0c975003&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-01-15T10:25:42Z",
       "content": "Open this photo in gallery:This copper smelter in Tsumeb, Namibia, was built in the 1960s and run by Dundee Precious Metals Inc., a Canadian company, from 2010 until last summer. DPM and the new owne… [+25960 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inside Higher Ed"
-      },
-      "author": "Liam Knox",
-      "title": "How Did Enrollment Researchers Get It So Wrong?",
-      "description": "How Did Enrollment Researchers Get It So Wrong?\n\n \n\n\n \nLiam Knox\n\nWed, 01/15/2025 - 03:00 AM\n\nIn October, the National Student Clearinghouse reported that first-year enrollment fell by 5 percent. Now, citing a research error, they say it actually increased.\n …",
-      "url": "https://www.insidehighered.com/news/admissions/traditional-age/2025/01/15/erroneous-data-showed-first-year-decline-it-actually",
-      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-01/Enrollment_adjustment.jpg?itok=4h_vO7S5",
-      "publishedAt": "2025-01-15T08:00:00Z",
-      "content": "In October, the National Student Clearinghouse Research Center released its annual preliminary Stay Informed enrollment report, which proclaimed that first-year college enrollments had fallen by 5 pe… [+9266 chars]"
     }
   ],
   "totalResults": 98,
