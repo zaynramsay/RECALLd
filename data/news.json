@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-21T06:29:21.408Z",
+  "lastUpdated": "2025-01-21T12:41:22.134Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Malicious npm and PyPI target Solana Private keys to steal funds from victims’ wallets",
+      "description": "Researchers found malicious npm and PyPI packages capable of stealing and deleting sensitive data from infected systems. Socket researchers have identified multiple packages in the npm and Python Package Index (PyPI) repository designed to target Solana priva…",
+      "url": "https://securityaffairs.com/173249/cyber-crime/malicious-npm-and-pypi-target-solana-private-keys.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-30.png",
+      "publishedAt": "2025-01-20T12:32:48Z",
+      "content": "Malicious npm and PyPI target Solana Private keys to steal funds from victims' wallets\r\n | Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution\r\n | SECURITY AFF… [+132451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": null,
+      "urlToImage": null,
+      "publishedAt": "2025-01-17T18:23:04Z",
+      "content": "[Removed]"
+    },
     {
       "source": {
         "id": null,
@@ -182,19 +208,6 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/EOJ4TOSLSOBOGESHAJ5AUFT7NA.jpg?smart=true&auth=93321849566f5dec9e4f9c2fbc994ba7b43ccce396ef569b3d4829bddcad3013&width=1200&height=630",
       "publishedAt": "2025-01-19T13:58:27Z",
       "content": "Theres no proof that Marie Antoinette ever said let them eat cake. But, according to historians, it was the sort of thing she might have said. Hence, it rang true or at least chimed with the anti-roy… [+4754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-17T18:23:04Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -865,7 +878,7 @@
         "name": "Marlerblog.com"
       },
       "author": "Bill Marler",
-      "title": "Another Listeria Outbreak brewing on top of another one – what you need to know",
+      "title": "Another Listeria Outbreak brewing on top of another one ��� what you need to know",
       "description": "A new Listeria monocytogenes outbreak from an unknown source has been detected by the Food and Drug Administration. At least 34 patients are confirmed in the outbreak, which was first posted by the FDA on Jan. 15. The agency has begun traceback but has not re…",
       "url": "https://www.marlerblog.com/case-news/another-listeria-outbreak-brewing-on-top-of-another-one-what-you-need-to-know/",
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/517/713/0Mn5r3E1XY0MpjKkzWPoD9kg7/601696175ffe744df2e74a73cf6394eda49de64d.png",
@@ -1248,34 +1261,8 @@
       "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/01/NORTHKOREA-SOLDIERS-CHINA-GettyImages-1189641602.png?w=1000",
       "publishedAt": "2025-01-15T20:34:35Z",
       "content": "More than 11,000 troops from North Korea, with possibly many more to come, are fighting in Russias war against Ukraine. Many commentators speculate that the situation worries China, North Koreas nomi… [+8174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "expose-news.com",
-      "title": "Mega thread of evidence showing covid “vaccines” cause turbo cancers",
-      "description": "Article Excerpt Below:Multiple doctors and scientists, including Dr. David Rasnick, Dr. Ryan Cole, Dr. Roger Hodkinson, and Scientist Kevin McKernan, say that covid injections cause “turbo cancers” due to immune system suppression.The injections contain DNA p…",
-      "url": "https://freerepublic.com/focus/f-chat/4290326/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-01-15T19:57:00Z",
-      "content": "Multiple doctors and scientists, including Dr. David Rasnick, Dr. Ryan Cole, Dr. Roger Hodkinson, and Scientist Kevin McKernan, say that covid injections cause turbo cancers due to immune system supp… [+6617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Superpunch.net"
-      },
-      "author": "noreply@blogger.com (John)",
-      "title": "Today's news and jokes",
-      "description": "my 4 yr old nephew has a bunch of food allergies, so my brother made him a birthday cake out of watermelon. 10/10. pic.twitter.com/r77iFS187W\r\n— nordacious (@nordacious) September 19, 2024 \n\n\n\n\n\n\n\n\n\n\nAs the LAFD faced extraordinary warnings of life-threatenin…",
-      "url": "https://www.superpunch.net/2025/01/todays-news-and-jokes_01463490124.html",
-      "urlToImage": null,
-      "publishedAt": "2025-01-15T17:00:00Z",
-      "content": "my 4 yr old nephew has a bunch of food allergies, so my brother made him a birthday cake out of watermelon. 10/10. pic.twitter.com/r77iFS187W\r\n— nordacious (@nordacious) September 19, 2024\r\nAs the LA… [+5564 chars]"
     }
   ],
-  "totalResults": 98,
-  "filteredCount": 2
+  "totalResults": 97,
+  "filteredCount": 3
 }
