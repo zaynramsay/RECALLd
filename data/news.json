@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-01-20T18:27:36.336Z",
+  "lastUpdated": "2025-01-21T01:39:51.099Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution",
+      "description": "Critical flaws in WGS-804HPT switches could be chained to gain remote code execution on Planet Technology’s industrial devices. The Planet WGS-804HPT industrial switch is used in building and home automation networks to provide connectivity of Internet of thi…",
+      "url": "https://securityaffairs.com/173237/security/wgs-804hpt-flaws.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-29.png",
+      "publishedAt": "2025-01-20T00:27:43Z",
+      "content": "Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 29\r\n | Security Affairs newsletter Round 507 by Pierluigi Pag… [+132360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Winnipeg Sun"
+      },
+      "author": "Winnipeg Sun",
+      "title": "6 Canadian egg brands being recalled due to potential salmonella contamination",
+      "description": "The Canadian Food Inspection Agency (CFIA) issued a food recall for several brands of eggs due to a potential salmonella contamination.",
+      "url": "https://winnipegsun.com/news/national/6-canadian-egg-brands-being-recalled-due-to-potential-salmonella-contamination",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/winnipegsun/wp-content/uploads/2024/05/GettyImages-1599935345.jpg",
+      "publishedAt": "2025-01-19T21:34:53Z",
+      "content": "Saturday, Jan. 18, the Canadian Food Inspection Agency (CFIA) issued a food recall warningfor several brands of shell eggs sold to Manitobans and neighbouring provinces due to a potential salmonella … [+1488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 29",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Stealthy Credit Card Skimmer Targets WordPress Checkout Pages via Database Injection Ransomware on ESXi: The mechanization o…",
+      "url": "https://securityaffairs.com/173232/malware/security-affairs-malware-newsletter-round-29.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-01-19T21:29:38Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 29\r\n | Security Affairs newsletter Round 507 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | A flaw in the W3 Total Cache plugin exposes hundreds of thousand… [+132264 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 507 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. Treasury …",
+      "url": "https://securityaffairs.com/173227/uncategorized/security-affairs-newsletter-round-507-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-01-19T20:45:49Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 29\r\n | Security Affairs newsletter Round 507 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | A flaw in the W3 Total Cache plugin exposes hundreds of thousand… [+132264 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A flaw in the W3 Total Cache plugin exposes hundreds of thousands of WordPress sites to attacks",
+      "description": "A WordPress W3 Total Cache plugin vulnerability could allow attackers to access information from internal services, including metadata on cloud-based apps. A severe vulnerability, tracked as CVE-2024-12365 (CVSS score of 8.5) in the WordPress W3 Total Cache p…",
+      "url": "https://securityaffairs.com/173219/security/w3-total-cache-wordpress-plugin-cve-2024-12365.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/05/DOM-based-XSS-wordpress-2.jpg",
+      "publishedAt": "2025-01-19T19:20:19Z",
+      "content": "A flaw in the W3 Total Cache plugin exposes hundreds of thousands of WordPress sites to attacks\r\n | U.S. Treasury Sanctions Chinese cybersecurity firm and actor over federal agency breach tied to Sal… [+132129 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -403,6 +468,19 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/632/167/7gAk4KJj8QmmEAxoQvwqxrD20/6007b0b77f12b85fbd3c6d88a71cd6740e626f28.png",
       "publishedAt": "2025-01-18T01:28:30Z",
       "content": "In a comment letter filed with the USDA today, Consumer Reports called on the agency to strengthen its proposed regulatory framework that would keep poultry contaminated with Salmonella above a certa… [+3122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Wismettac Asian Foods Issues Allergy Alert on Undeclared Milk in Curvee Puffs Corn Puff Snack Curry Flavor",
+      "description": "Wismettac Asian Foods, Inc., Santa Fe Springs, CA is recalling 2.46 oz packages of Shirakiku brand Curvee Puffs Corn Puff Snack Curry Flavor. The product contains the undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of se…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack-curry-flavor",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-17T22:43:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 17, 2025\r\nFDA Publish Date:\r\nJanuary 20, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nCompa… [+1357 chars]"
     },
     {
       "source": {
@@ -1183,84 +1261,6 @@
       "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011532.g007&size=inline",
       "publishedAt": "2025-01-15T14:00:00Z",
       "content": "Citation: Ahn J, Hwang I-S, Park M-R, Rosa-Velazquez M, Cho I-C, Relling AE, et al. (2025) Evolutionary lineage-specific genomic imprinting at the ZNF791 locus. PLoS Genet 21(1):\r\n e1011532.\r\nhttps:/… [+61889 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Maryam Banar, Haniyeh Kamyab, Narges Torkashvand, Taghi Zahraei Salehi, Zargham Sepehrizadeh, Ahmad Reza Shahverdi, Mohammad Reza Pourmand, Mohammad Hossein Yazdi",
-      "title": "A novel broad-spectrum bacteriophage cocktail against methicillin-resistant Staphylococcus aureus: Isolation, characterization, and therapeutic potential in a mastitis mouse model",
-      "description": "Bovine mastitis is a considerable challenge within the dairy industry, causing significant financial losses and threatening public health. The increased occurrence of methicillin-resistant Staphylococcus aureus (MRSA) has provoked difficulties in managing bov…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316157",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316157.g010&size=inline",
-      "publishedAt": "2025-01-15T14:00:00Z",
-      "content": "Introduction\r\nMethicillin-resistant Staphylococcus aureus (MRSA) is a principal pathogen in veterinary settings and public health [1]. It is the primary reason for healthcare-associated (HA-MRSA) and… [+67326 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Oskar Hagelskjær, Frederik Hagelskjær, Henar Margenat, Nadiia Yakovenko, Jereon E. Sonke, Gaël Le Roux",
-      "title": "Majority of potable water microplastics are smaller than the 20 μm EU methodology limit for consumable water quality",
-      "description": "Microplastic (MP) content in nutrition including potable water is unregulated, although MP concentrations in individual brands of bottled water diverge by several orders of magnitude. The EU Directive 2020/2184 on consumable water quality recently proposed me…",
-      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000250",
-      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000250.g004&size=inline",
-      "publishedAt": "2025-01-15T14:00:00Z",
-      "content": "Abstract\r\nMicroplastic (MP) content in nutrition including potable water is unregulated, although MP concentrations in individual brands of bottled water diverge by several orders of magnitude. The E… [+42249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Worldsensorium.com"
-      },
-      "author": null,
-      "title": "Maintaining and sustaining soil health",
-      "description": "Photo by StockSnap, pixabay.com Talk Dirty to Me By Lewis Ziska Sign up for our monthly newsletter! “OK. There are more living organisms in one tablespoon of soil than there are people living on the earth.” S oil.  An immense, churning cauldron of living thin…",
-      "url": "https://worldsensorium.com/talk-dirty-to-me-summary/",
-      "urlToImage": "https://worldsensorium.com/wp-content/uploads/2024/12/IsaacLarsen.jpg",
-      "publishedAt": "2025-01-15T13:42:45Z",
-      "content": "OK. There are more living organisms in one tablespoon of soil than there are people living on the earth.\r\nS oil.  An immense, churning cauldron of living things: earthworms, all kinds of small arachn… [+14013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
-      },
-      "author": "Investing.com",
-      "title": "N2OFF subsidiary wins key European patent dispute",
-      "description": "N2OFF subsidiary wins key European patent dispute",
-      "url": "https://www.investing.com/news/company-news/n2off-subsidiary-wins-key-european-patent-dispute-93CH-3814206",
-      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
-      "publishedAt": "2025-01-15T13:28:51Z",
-      "content": "NEVE YARAK, Israel - N2OFF, Inc. (NASDAQ: NITO) (FSE:80W), a clean tech company focusing on energy and agri-tech solutions with a market capitalization of $13.7 million, announced today that its subs… [+3885 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "N2OFF Inc.",
-      "title": "N2OFF: Save Foods Ltd. (100%) Wins Patent Opposition Filed by ECOLAB in Europe",
-      "description": "Neve Yarak, Israel, Jan. 15, 2025 (GLOBE NEWSWIRE) -- N2OFF, Inc.\\ (NASDAQ: NITO) (FSE:80W) (“N2OFF” and the “Company”), a clean tech company engaged in sustainable solutions for energy and agri-tech innovation, announced that its subsidiary Save Foods Ltd. (…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/15/3010027/0/en/N2OFF-Save-Foods-Ltd-100-Wins-Patent-Opposition-Filed-by-ECOLAB-in-Europe.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4bf1fbe7-f5a9-42ab-93e1-6a92a90eb0b4",
-      "publishedAt": "2025-01-15T13:25:00Z",
-      "content": "Neve Yarak, Israel, Jan. 15, 2025 (GLOBE NEWSWIRE) -- N2OFF, Inc.\\ (NASDAQ: NITO) (FSE:80W) (N2OFF and the Company), a clean tech company engaged in sustainable solutions for energy and agri-tech inn… [+5758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Why is toilet water yellow?",
-      "description": "Why is Toilet Water Yellow? Understanding the Cause of Yellow Toilet Water Toilet water can appear yellow due to various […]\nThe post Why is toilet water yellow? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/why-is-toilet-water-yellow/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-15T12:00:23Z",
-      "content": "Why is Toilet Water Yellow?\r\nUnderstanding the Cause of Yellow Toilet Water\r\nToilet water can appear yellow due to various reasons. In this article, we will explore the possible causes of yellow toil… [+4054 chars]"
     }
   ],
   "totalResults": 97,
