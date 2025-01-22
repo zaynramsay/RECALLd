@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-01-22T06:29:58.648Z",
+  "lastUpdated": "2025-01-22T12:41:23.421Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests",
+      "description": "CERT-UA warned of scammers impersonating the agency, using fake AnyDesk requests to conduct fraudulent security audits. The Computer Emergency Response Team of Ukraine (CERT-UA) warned of cyber scams involving threat actors impersonating the agency by sending…",
+      "url": "https://securityaffairs.com/173285/hacking/cert-ua-warned-of-scammers-impersonating-the-agency-using-fake-anydesk.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-32.png",
+      "publishedAt": "2025-01-21T12:34:59Z",
+      "content": "CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests\r\n | Experts found multiple flaws in Mercedes-Benz infotainment system\r\n | HPE is investigating IntelBroker's claims of … [+132732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Susan Elizabeth Turek",
+      "title": "Scientists make concerning discovery after studying tea bags — here's what you need to know",
+      "description": "Your afternoon cup of tea may come with an unhealthy helping.",
+      "url": "https://www.yahoo.com/news/scientists-concerning-discovery-studying-tea-110028818.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ms7SnW1XDRhEQfmer6.znA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/3dc6c490d20d8cbd7c02c73eb9579e33",
+      "publishedAt": "2025-01-21T11:00:28Z",
+      "content": "A new study warns that your afternoon cup of tea may come with an unhealthy helping of microplastics and nanoplastics.\r\nWhat's happening?\r\nResearchers from the Universitat Autònoma de Barcelona issue… [+2695 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Hatty Willmoth",
+      "title": "Nationwide Snack Recall Over Allergen Risk: 'Life-Threatening'",
+      "description": "Corn snacks are being recalled after it was discovered they contained undeclared milk, putting individuals with allergies at risk.",
+      "url": "https://www.newsweek.com/snack-recall-milk-allergy-wismettac-shirakiku-corn-puffs-2018116",
+      "urlToImage": "https://d.newsweek.com/en/full/2569368/corn-snacks.png",
+      "publishedAt": "2025-01-21T09:54:14Z",
+      "content": "Corn puff snacks are being recalled because they contain milk that is not declared as an allergen on the packaging.\r\nSold under the Shirakiku brand, the recalled snacks were made by Wismettac Asian F… [+3064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Experts found multiple flaws in Mercedes-Benz infotainment system",
+      "description": "Kaspersky researchers shared details about multiple vulnerabilities impacting the Mercedes-Benz MBUX infotainment system. Kaspersky published research findings on the first-generation Mercedes-Benz User Experience (MBUX) infotainment system, specifically focu…",
+      "url": "https://securityaffairs.com/173275/hacking/mercedes-benz-infotainment-system-flaws.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/05/Mercedes.jpg",
+      "publishedAt": "2025-01-21T08:57:58Z",
+      "content": "Experts found multiple flaws in Mercedes-Benz infotainment system\r\n | HPE is investigating IntelBroker's claims of the company hack\r\n | Esperts found new DoNot Team APT group's Android malware\r\n | Ma… [+132648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Is daveʼs bread gluten free?",
+      "description": "Is Dave’s Bread Gluten-Free? Understanding the Question Dave’s Bread is a popular American bakery chain known for its wide variety […]\nThe post Is daveʼs bread gluten free? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/is-daveʼs-bread-gluten-free/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-21T06:37:37Z",
+      "content": "Is Dave’s Bread Gluten-Free?\r\nUnderstanding the Question\r\nDave’s Bread is a popular American bakery chain known for its wide variety of bread products. However, when it comes to gluten-free options, … [+3819 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,71 +1222,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-01-16T16:01:00Z",
       "content": "Dublin, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The \"India Fertilizer Market and Volume Forecast Report by Fertilizers, Sector, States, Company Analysis 2025-2033\" report has been added to ResearchAndMarke… [+10678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Global Nisin Market to Reach USD 937.5 Million by 2035, Driven by Rising Adoption in Beverage Preservation | Future Market Insights Inc.",
-      "description": "The global nisin market size was estimated at USD 463.4 million in 2025 3 and is projected to grow at a CAGR of 7.3% from 2025 to 2035. This growth is due to the increasing number of health-conscious consumers, who have become more aware of the importance of …",
-      "url": "https://www.globenewswire.com/news-release/2025/01/16/3010955/0/en/Global-Nisin-Market-to-Reach-USD-937-5-Million-by-2035-Driven-by-Rising-Adoption-in-Beverage-Preservation-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-01-16T16:00:00Z",
-      "content": "NEWARK, Del, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The global nisin market is projected to be valued at USD 463.4 million in 2025 and is anticipated to reach USD 937.5 million by 2035, exhibiting a CAGR … [+22960 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Clop Ransomware exploits Cleo File Transfer flaw: dozens of claims, disputed breaches",
-      "description": "The Clop ransomware gang claims dozens of victims from a Cleo file transfer vulnerability, though several companies dispute the breaches. The Clop ransomware group added 59 new companies to its leak site, the gain claims to have breached them by exploiting a …",
-      "url": "https://securityaffairs.com/173135/cyber-crime/clop-ransomware-gang-claims-hack-of-cleo-file-transfer-customers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-25.png",
-      "publishedAt": "2025-01-16T15:36:43Z",
-      "content": "Clop Ransomware exploits Cleo File Transfer flaw: dozens of claims, disputed breaches\r\n | MikroTik botnet relies on DNS misconfiguration to spread malware\r\n | Threat actor leaked config files and VPN… [+131584 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Does ground cinnamon expire?",
-      "description": "Does Ground Cinnamon Expire? Understanding the Shelf Life of Ground Cinnamon Ground cinnamon is a staple spice used in various […]\nThe post Does ground cinnamon expire? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/does-ground-cinnamon-expire/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-16T14:26:37Z",
-      "content": "Does Ground Cinnamon Expire?\r\nUnderstanding the Shelf Life of Ground Cinnamon\r\nGround cinnamon is a staple spice used in various cuisines worldwide. It’s a popular ingredient in baked goods, desserts… [+4732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Does grenadine syrup go bad?",
-      "description": "Does Grenadine Syrup Go Bad? Grenadine syrup, a sweet and tart flavoring made from pomegranate juice, has been a staple […]\nThe post Does grenadine syrup go bad? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/does-grenadine-syrup-go-bad/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-16T14:24:46Z",
-      "content": "Does Grenadine Syrup Go Bad?\r\nGrenadine syrup, a sweet and tart flavoring made from pomegranate juice, has been a staple in many cocktails and desserts for decades. Its unique taste and versatility h… [+4447 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Chapman University",
-      "title": "Study finds relatively low rates of substitution for America's favorite types of seafood",
-      "description": "The seafood industry is known for its complex global supply chains and diverse market offerings, which can make accurate labeling a challenging task. Now, a study from Schmid College of Science and Technology at Chapman University and Oregon State University …",
-      "url": "https://phys.org/news/2025-01-substitution-america-favorite-seafood.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/chef-1.jpg",
-      "publishedAt": "2025-01-16T14:19:09Z",
-      "content": "The seafood industry is known for its complex global supply chains and diverse market offerings, which can make accurate labeling a challenging task. Now, a study from Schmid College of Science and T… [+4235 chars]"
     }
   ],
   "totalResults": 94,
