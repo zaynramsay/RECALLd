@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-01-21T18:29:33.485Z",
+  "lastUpdated": "2025-01-22T01:42:12.422Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Marni Rose McFall",
+      "title": "Meijer Food Recalls: Full List of Products Impacted",
+      "description": "There are ten products which have been recalled, for a variety of reasons.",
+      "url": "https://www.newsweek.com/meijer-food-recall-full-list-2016894",
+      "urlToImage": "https://d.newsweek.com/en/full/2567439/meijer-store.jpg",
+      "publishedAt": "2025-01-20T22:50:10Z",
+      "content": "There are currently 10 major recalls of products that are sold in the retail store Meijer, according to their website.\r\nMeijer operates over 500 superstores across six Midwestern states: Michigan, Oh… [+8524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "HPE is investigating IntelBroker’s claims of the company hack",
+      "description": "HPE is probing claims by the threat actor IntelBroker who is offering to sell alleged stolen source code and data from the company. Last week, the notorious threat actor IntelBroker announced on a popular cybercrime forum the sale of data allegedly stolen fro…",
+      "url": "https://securityaffairs.com/173265/data-breach/hpe-is-investigating-intelbrokers-claims-of-hack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/HPE-logo.png",
+      "publishedAt": "2025-01-20T22:46:25Z",
+      "content": "HPE is investigating IntelBroker's claims of the company hack\r\n | Esperts found new DoNot Team APT group's Android malware\r\n | Malicious npm and PyPI target Solana Private keys to steal funds from vi… [+132578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cookingclassy.com"
+      },
+      "author": "Jaclyn",
+      "title": "Healthy Oat Crepes",
+      "description": "Healthy Oat Crepes – a nutritious crepe made from oat flour, low fat milk, eggs, and a few other staple ingredients. They come together quickly and are a great way to start the day! Looking for more ways to use oat flour? Also try my ever so delicious Oat Flo…",
+      "url": "https://www.cookingclassy.com/healthy-oat-crepes/",
+      "urlToImage": "https://www.cookingclassy.com/wp-content/uploads/2025/01/oat-crepes-3.jpg",
+      "publishedAt": "2025-01-20T22:12:51Z",
+      "content": "Healthy Oat Crepes – a nutritious crepe made from oat flour, low fat milk, eggs, and a few other staple ingredients. They come together quickly and are a great way to start the day!\r\nLooking for more… [+6397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Food Recalls This Week: List of Most Dangerous Warnings Issued",
+      "description": "Products were recalled because of concerns over salmonella and listeria contamination and undeclared allergens.",
+      "url": "https://biztoc.com/x/1b7058f096acec20",
+      "urlToImage": "https://biztoc.com/cdn/808/og.png",
+      "publishedAt": "2025-01-20T21:54:52Z",
+      "content": "Products were recalled because of concerns over salmonella and listeria contamination and undeclared allergens.\r\nThis story appeared on newsweek.com, 2025-01-20 21:47:09."
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Skinner",
+      "title": "Food Recalls This Week: List of Most Dangerous Warnings Issued",
+      "description": "Products were recalled because of concerns over salmonella and listeria contamination and undeclared allergens.",
+      "url": "https://www.newsweek.com/food-recalls-this-week-list-most-dangerous-warnings-issued-2017957",
+      "urlToImage": "https://d.newsweek.com/en/full/2569129/food-recall-this-week-list-most-dangerous.jpg",
+      "publishedAt": "2025-01-20T21:47:09Z",
+      "content": "The U.S. Food and Drug Administration (FDA) has issued a slew of food-related recalls over the past week, and several of the items were given a Class I designation, meaning consuming them could have … [+3709 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Esperts found new DoNot Team APT group’s Android malware",
+      "description": "Researchers linked the threat actor DoNot Team to a new Android malware that was employed in highly targeted cyber attacks. CYFIRMA researchers linked a recently discovered Android malware to the Indian APT group known as DoNot Team. The Donot Team (aka APT-C…",
+      "url": "https://securityaffairs.com/173257/apt/donot-team-android-malware.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-31.png",
+      "publishedAt": "2025-01-20T20:35:17Z",
+      "content": "Esperts found new DoNot Team APT group's Android malware\r\n | Malicious npm and PyPI target Solana Private keys to steal funds from victims' wallets\r\n | Planet WGS-804HPT Industrial Switch flaws could… [+132512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Brittany Miller",
+      "title": "Six egg brands recalled over salmonella contamination - NewsBreak",
+      "description": "Six different brands of eggs have been recalled in Canada due to the possibility of salmonella contamination. The Canadian Food Inspection Agency (CFIA) r",
+      "url": "https://www.newsbreak.com/share/3769203784351-six-egg-brands-recalled-over-salmonella-contamination?s=a2&share_destination_id=MjEzNDYwMjc3LTE3Mzc0MDI3ODYzMjQ%3D&pd=0ERelh9M&hl=en_US&send_time=1737402786&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v1%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v1%2Cns_push_exp_rt_bucketv12-v8%2Cns_foryou_recall_exp_25q1-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/179cPO_0yHwYEQe00",
+      "publishedAt": "2025-01-20T19:54:04Z",
+      "content": "Six different brands of eggs have been recalled in Canada due to the possibility of salmonella contamination. \r\n The Canadian Food Inspection Agency (CFIA) recalled Golden Valley, Compliments, Foremo… [+3028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Subpixel.space"
+      },
+      "author": "Toby Shorin",
+      "title": "After Authenticity",
+      "description": "Under authenticity, the value of a thing decreases as more and more people like it. This is clearly no longer the case.",
+      "url": "https://subpixel.space/entries/after-authenticity/",
+      "urlToImage": "https://subpixel.space/uploads/after-auth-preview-64bd7b.jpg",
+      "publishedAt": "2025-01-20T19:45:35Z",
+      "content": "Has it occurred to you that nobody talks about sellouts anymore?\r\nRecently on my commute I passed someone wearing an Obey shirt. I was reminded of friends and internet commenters on forums I once fre… [+29978 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1131,110 +1235,6 @@
       "urlToImage": "https://c.ndtvimg.com/2025-01/g5jg4788_protein-powder_625x300_16_January_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
       "publishedAt": "2025-01-16T12:03:08Z",
       "content": "Aiming to increase consumer awareness, a recent report has brought to light several potential contaminants in many over-the-counter protein powders sold in the USA. The report was helmed by Clean Lab… [+2225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Does doritos contain gluten?",
-      "description": "Does Doritos Contain Gluten? Understanding the Question Gluten is a type of protein found in certain grains, such as wheat, […]\nThe post Does doritos contain gluten? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/does-doritos-contain-gluten/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-16T11:14:47Z",
-      "content": "Does Doritos Contain Gluten?\r\nUnderstanding the Question\r\nGluten is a type of protein found in certain grains, such as wheat, barley, and rye. It’s a common allergen that can cause problems for peopl… [+4276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "MikroTik botnet relies on DNS misconfiguration to spread malware",
-      "description": "Researchers discovered a 13,000-device MikroTik botnet exploiting DNS flaws to spoof 20,000 domains and deliver malware. Infoblox researchers discovered a botnet of 13,000 MikroTik devices that exploits DNS misconfigurations to bypass email protections, spoof…",
-      "url": "https://securityaffairs.com/173126/hacking/13000-device-mikrotik-botnet-exploiting-dns-flaws.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-24.png",
-      "publishedAt": "2025-01-16T10:59:37Z",
-      "content": "MikroTik botnet relies on DNS misconfiguration to spread malware\r\n | Threat actor leaked config files and VPN passwords for over Fortinet Fortigate devices\r\n | Microsoft Patch Tuesday updates for Jan… [+131494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inter Press Service"
-      },
-      "author": "Stan Gottfredson",
-      "title": "Farmer’s Bill: A Reprieve for U.S. Farmers Affected By PFAS",
-      "description": "The use of fertilizers has been introduced in society to enrich soil and supply high-grade harvests for centuries. As time went on, humans have managed to develop new ways to reform this operation, and as such, have formed a lessened health risk fertilizer ca…",
-      "url": "https://www.ipsnews.net/2025/01/farmers-bill-reprieve-farmers-affected-pfas/",
-      "urlToImage": "https://www.ipsnews.net/Library/2025/01/farmerspfas.jpg",
-      "publishedAt": "2025-01-16T10:19:35Z",
-      "content": "Environment, Food and Agriculture, Headlines, North AmericaOpinion\r\nPFAS substances are man-made chemicals that contain carcinogens which affect humans through inhalation and exposure. Credit: Shutte… [+4057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Lylla Younes",
-      "title": "Lead in the water and chloroprene in the air: Who does the EPA protect?",
-      "description": "The Biden administration promised change for overpolluted communities in the South. Four years later, they're still waiting.",
-      "url": "http://grist.org/project/article/biden-environmental-justice-epa-tour-pollution-revisited-cancer-alley-houston-jackson/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2025/01/JourneytoJusticeThumb-2.jpg?quality=75&strip=all",
-      "publishedAt": "2025-01-16T09:45:00Z",
-      "content": "When President Joe Biden announced his Justice40 Initiative, a week after he took office in January 2021, it had been almost 30 years since a U.S. president had signed an executive order related to e… [+35080 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Lylla Younes",
-      "title": "Lead in the water and chloroprene in the air: Who does the EPA protect?",
-      "description": "The Biden administration promised change for overpolluted communities in the South. Four years later, they're still waiting.",
-      "url": "http://grist.org/project/accountability/biden-environmental-justice-epa-tour-pollution-revisited-cancer-alley-houston-jackson/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2025/01/JourneytoJusticeThumb-2.jpg?quality=75&strip=all",
-      "publishedAt": "2025-01-16T09:45:00Z",
-      "content": "When President Joe Biden announced his Justice40 Initiative, a week after he took office in January 2021, it had been almost 30 years since a U.S. president had signed an executive order related to e… [+35080 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Pump and Dispenser Market to Reach USD 14.8 Billion by 2035 with a 4.3% CAGR: Driven by Innovation and Demand for Hygiene Solutions | Future Market Insights, Inc.",
-      "description": "The UK's pump and dispenser market is projected to grow at a 4.0% CAGR. Read What Makes Pumps and Dispensers Ideal Dispensing Solutions in Cosmetics and Personal Care, Home Care, and Other Industries Globally The UK's pump and dispenser market is projected to…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/16/3010574/0/en/Pump-and-Dispenser-Market-to-Reach-USD-14-8-Billion-by-2035-with-a-4-3-CAGR-Driven-by-Innovation-and-Demand-for-Hygiene-Solutions-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-01-16T09:30:00Z",
-      "content": "NEWARK, Del, Jan. 16, 2025 (GLOBE NEWSWIRE) -- The global pump and dispenser market is poised for significant growth, with its market size projected to increase from USD 9.7 billion in 2025 to an imp… [+23982 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Does corn syrup have gluten?",
-      "description": "Does Corn Syrup Have Gluten? Understanding Gluten and Corn Syrup Gluten is a type of protein found in certain grains, […]\nThe post Does corn syrup have gluten? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/does-corn-syrup-have-gluten/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-16T09:03:48Z",
-      "content": "Does Corn Syrup Have Gluten?\r\nUnderstanding Gluten and Corn Syrup\r\nGluten is a type of protein found in certain grains, such as wheat, barley, and rye. It’s a complex mixture of proteins that gives d… [+4654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutritionfacts.org"
-      },
-      "author": "Michael Greger M.D. FACLM",
-      "title": "The Best Dietary Detox",
-      "description": "Avoiding the toxins found in food",
-      "url": "https://nutritionfacts.org/audio/the-best-dietary-detox/",
-      "urlToImage": "https://nutritionfacts.org/app/uploads/2024/11/batch-41-podcast-podcast-423.png",
-      "publishedAt": "2025-01-16T08:00:20Z",
-      "content": "Today, we discover how eating a plant-based diet offers less exposure to the industrial pollutants that bioaccumulate up the food chain.\r\nWe lack robust safety data on most of the estimated 30,000 ch… [+12404 chars]"
     }
   ],
   "totalResults": 95,
