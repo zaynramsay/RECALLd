@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-01-23T01:40:33.989Z",
+  "lastUpdated": "2025-01-23T06:29:07.556Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "FDA recalls popular Chinese spice in 15 states due to LEAD CONTAMINATION",
+      "description": "The FDA has recalled Yu Yee Five Spice Powder in 15 states due to lead contamination, affecting 62 cases sold primarily in the Northeast, Midwest and the South. Lead is a potent neurotoxin with no safe exposure level, posing severe risks to vital organs and c…",
+      "url": "https://www.naturalnews.com/2025-01-22-fda-recalls-popular-chinese-spice-lead-contamination.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/fda.png",
+      "publishedAt": "2025-01-22T06:00:00Z",
+      "content": "<ul><li>The FDA has recalled Yu Yee Five Spice Powder in 15 states due to lead contamination, affecting 62 cases sold primarily in the Northeast, Midwest and the South.</li><li>Lead is a potent neuro… [+4436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Juancole.com"
+      },
+      "author": "Middle East Monitor",
+      "title": "The long-term Impact of Israel’s Gaza Genocide will only become Clear as the Toxic Dust Settles",
+      "description": "by Dr Emma Keelan   by Dr Brendan Ciarán Browne ( Middle East Monitor ) - As the toxic dust begins to settle, it is hard to even fathom the complex feelings of our Palestinian friends and colleagues, many of whom have families in Gaza who are beginning the ar…",
+      "url": "https://www.juancole.com/2025/01/israels-genocide-settles.html",
+      "urlToImage": "https://media.juancole.com/images/2025/01/IMG_4932.jpg",
+      "publishedAt": "2025-01-22T05:06:26Z",
+      "content": "( Middle East Monitor ) – As the toxic dust begins to settle, it is hard to even fathom the complex feelings of our Palestinian friends and colleagues, many of whom have families in Gaza who are begi… [+8049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cdc.gov"
+      },
+      "author": null,
+      "title": "Cyclospora Genotypic Variations and Associated Epidemiologic Characteristics, United States, 2018–2021",
+      "description": "<em>Cyclospora</em> Genotypic Variations, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/2/24-0399_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-01-22T05:00:00Z",
+      "content": "Cyclospora spp. are foodborne parasites that cause seasonal outbreaks of cyclosporiasis in the United States (1). Cases of this diarrheal disease are often sporadic and geographically dispersed; thos… [+24404 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -389,7 +428,7 @@
       "url": "https://securityaffairs.com/173265/data-breach/hpe-is-investigating-intelbrokers-claims-of-hack.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/HPE-logo.png",
       "publishedAt": "2025-01-20T22:46:25Z",
-      "content": "HPE is investigating IntelBroker's claims of the company hack\r\n | Esperts found new DoNot Team APT group's Android malware\r\n | Malicious npm and PyPI target Solana Private keys to steal funds from vi�� [+132578 chars]"
+      "content": "HPE is investigating IntelBroker's claims of the company hack\r\n | Esperts found new DoNot Team APT group's Android malware\r\n | Malicious npm and PyPI target Solana Private keys to steal funds from vi… [+132578 chars]"
     },
     {
       "source": {
@@ -1170,47 +1209,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2017/05/GDPR.jpg",
       "publishedAt": "2025-01-17T22:24:17Z",
       "content": "EU privacy non-profit group filed complaints against TikTok, SHEIN, AliExpress, and other Chinese companies\r\n | ESET detailed a flaw that could allow a bypass of the Secure Boot in UEFI systems\r\n | R… [+131916 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "FDA Roundup: January 17, 2025",
-      "description": "The U.S. Food and Drug Administration is providing an at-a-glance summary of news from around the agency.",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-roundup-january-17-2025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-17T21:03:10Z",
-      "content": "Today, the U.S. Food and Drug Administration is providing an at-a-glance summary of news from around the agency:<li>Today, the FDA announced the release of a new prevention strategy aimed at combatin… [+11694 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Zoe Malin",
-      "title": "Does your cat need to eat wet food? Vets explain",
-      "description": "Wet cat food from Purina, Hill's Science Diet, Royal Canin, Iams and more help keep cats hydrated, vets say.",
-      "url": "https://www.nbcnews.com/select/shopping/best-wet-cat-food-rcna188194",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250117-wet-cat-food-oo-social-e9b8b2.jpg",
-      "publishedAt": "2025-01-17T20:30:46Z",
-      "content": "Do you really need to feed your cat wet food? Its a question many pet owners ask themselves, especially since the cans and packets tend to be pricier than a bag of dry kibble. But all the vets I spok… [+18465 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jess Thomson",
-      "title": "Spice Recall in 15 States Over Lead Contamination Fears",
-      "description": "The five spice powder had been distributed across AK, CT, FL, GA, IA, MA, MD, MN, MO, NJ, NY, OH, PA, SC, VA and the Bahamas.",
-      "url": "https://www.newsweek.com/five-spice-powder-recall-fda-lead-contamination-2016681",
-      "urlToImage": "https://d.newsweek.com/en/full/2567102/five-spice-powder-lead-contamination.jpg",
-      "publishedAt": "2025-01-17T14:56:39Z",
-      "content": "A brand of five spice powder has been recalled due to potential contamination with a dangerous heavy metal: lead.\r\nThe \"Yu Yee, Five Spice Powder\" was voluntarily recalled by the firm Summit Import C… [+3172 chars]"
     }
   ],
   "totalResults": 93,
-  "filteredCount": 0
+  "filteredCount": 1
 }
