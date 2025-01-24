@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-24T06:29:12.120Z",
+  "lastUpdated": "2025-01-24T12:40:24.713Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Blister Packaging Machinery Consumption Market Report 2025-2029 & 2034: Set to Grow at 9.4% CAGR, Driven by the Rise in Contract Manufacturing & Packaging Services and Market Expansion in Emerging Economies",
+      "description": "Dublin, Jan. 23, 2025 (GLOBE NEWSWIRE) -- The \"Blister Packaging Machinery Consumption Market Report 2025\" has been added to ResearchAndMarkets.com's offering.This Blister Packaging Machinery Consumption market report covers market characteristics, size & gro…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/23/3014040/28124/en/Blister-Packaging-Machinery-Consumption-Market-Report-2025-2029-2034-Set-to-Grow-at-9-4-CAGR-Driven-by-the-Rise-in-Contract-Manufacturing-Packaging-Services-and-Market-Expansion-in.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-01-23T09:26:00Z",
+      "content": "Dublin, Jan. 23, 2025 (GLOBE NEWSWIRE) -- The \"Blister Packaging Machinery Consumption Market Report 2025\" has been added to ResearchAndMarkets.com's offering.\r\nThis Blister Packaging Machinery Consu… [+5804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cisco addresses a critical privilege escalation bug in Meeting Management",
+      "description": "Cisco addressed a critical flaw in its Meeting Management that could allow it to gain administrator privileges on vulnerable instances. Cisco released security updates to fix a critical flaw, tracked as CVE-2025-20156 (CVSS score of 9.9) affecting its Meeting…",
+      "url": "https://securityaffairs.com/173361/security/cisco-meeting-management-critical-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
+      "publishedAt": "2025-01-23T08:17:44Z",
+      "content": "Cisco addresses a critical privilege escalation bug in Meeting Management\r\n | U.S. President Donald Trump granted a \"full and unconditional pardon\" to Ross Ulbricht, Silk Road creator\r\n | Pwn2Own Aut… [+133334 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1144,32 +1170,6 @@
       "urlToImage": "https://i.cbc.ca/1.6459549.1687466190!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/oilsands-emissions.jpg?im=Resize%3D620",
       "publishedAt": "2025-01-20T01:49:33Z",
       "content": "New research has found that a complex form of air pollution from Alberta's oilsands has gone largely unreported and the impacts to downwind habitats are \"entirely unknown.\"\r\nThe peer-reviewed study, … [+8677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution",
-      "description": "Critical flaws in WGS-804HPT switches could be chained to gain remote code execution on Planet Technology’s industrial devices. The Planet WGS-804HPT industrial switch is used in building and home automation networks to provide connectivity of Internet of thi…",
-      "url": "https://securityaffairs.com/173237/security/wgs-804hpt-flaws.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-29.png",
-      "publishedAt": "2025-01-20T00:27:43Z",
-      "content": "Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 29\r\n | Security Affairs newsletter Round 507 by Pierluigi Pag… [+132360 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Winnipeg Sun"
-      },
-      "author": "Winnipeg Sun",
-      "title": "6 Canadian egg brands being recalled due to potential salmonella contamination",
-      "description": "The Canadian Food Inspection Agency (CFIA) issued a food recall for several brands of eggs due to a potential salmonella contamination.",
-      "url": "https://winnipegsun.com/news/national/6-canadian-egg-brands-being-recalled-due-to-potential-salmonella-contamination",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/winnipegsun/wp-content/uploads/2024/05/GettyImages-1599935345.jpg",
-      "publishedAt": "2025-01-19T21:34:53Z",
-      "content": "Saturday, Jan. 18, the Canadian Food Inspection Agency (CFIA) issued a food recall warningfor several brands of shell eggs sold to Manitobans and neighbouring provinces due to a potential salmonella … [+1488 chars]"
     }
   ],
   "totalResults": 90,
