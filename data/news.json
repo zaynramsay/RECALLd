@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-01-23T18:28:48.350Z",
+  "lastUpdated": "2025-01-24T01:40:35.612Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "How to make wine from pears?",
+      "description": "Making Wine from Pears: A Step-by-Step Guide Wine production is a complex process that requires careful planning, attention to detail, […]\nThe post How to make wine from pears? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/how-to-make-wine-from-pears/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-23T01:10:32Z",
+      "content": "Making Wine from Pears: A Step-by-Step Guide\r\nWine production is a complex process that requires careful planning, attention to detail, and a bit of patience. However, making wine from pears can be a… [+5039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Pwn2Own Automotive 2025 Day 1: organizers awarded $382,750 for 16 zero-days",
+      "description": "Trend Micro’s Zero Day Initiative (ZDI) announced that $380K was awarded on Day 1 of Pwn2Own Automotive 2025. Trend Micro’s Zero Day Initiative (ZDI) announced that over $380,000 was awarded on Day 1 of Pwn2Own Automotive 2025, a hacking contest that was held…",
+      "url": "https://securityaffairs.com/173344/hacking/pwn2own-automotive-2025-day-1.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-36-768x1024.png",
+      "publishedAt": "2025-01-22T22:01:27Z",
+      "content": "Pwn2Own Automotive 2025 Day 1: organizers awarded $382,750 for 16 zero-days\r\n | Two ransomware groups abuse Microsofts Office 365 platform to gain access to target organizations\r\n | A 7-Zip bug allow… [+133146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theepochtimes.com"
+      },
+      "author": "George Citroner",
+      "title": "‘Forever Chemicals’ in Drinking Water Linked to Rising Cancer Rates: Study",
+      "description": "PFAS in drinking water were found to contribute to cancer patterns across different organ systems.",
+      "url": "https://www.theepochtimes.com/health/forever-chemicals-in-drinking-water-linked-to-rising-cancer-rates-study-5792817",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2025/01/22/id5797233-shutterstock_2504460459_pfas_water_drinking_water-1080x720.jpg",
+      "publishedAt": "2025-01-22T21:56:36Z",
+      "content": "Widespread forever chemicals in drinking water may be linked to increased cancer rates, according to new research analyzing nationwide data on cancer incidence and water contamination.\r\nScientists at… [+3935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Two ransomware groups abuse Microsoft’s Office 365 platform to gain access to target organizations",
+      "description": "Two ransomware groups exploiting Microsoft 365 services and default settings to target internal enterprise users. Sophos researchers started investigating two distinct clusters of activity, tracked as STAC5143 and STAC5777, in response to customer ransomware …",
+      "url": "https://securityaffairs.com/173328/cyber-crime/ransomware-groups-abuse-microsofts-office-365-platform.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-35-1024x890.png",
+      "publishedAt": "2025-01-22T20:48:33Z",
+      "content": "Two ransomware groups abuse Microsofts Office 365 platform to gain access to target organizations\r\n | A 7-Zip bug allows to bypass the Mark of the Web (MotW) feature\r\n | Former CIA analyst pleaded gu… [+133066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ProPublica"
+      },
+      "author": "by Sharon Lerner",
+      "title": "Donald Trump’s No. 2 Pick for the EPA Represented Companies Accused of Pollution Harm",
+      "description": "by Sharon Lerner \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nThe man tapped by President Donald Trump to be second-in-command of the federa…",
+      "url": "https://www.propublica.org/article/david-fotouhi-donald-trump-epa-pollution",
+      "urlToImage": "https://img.assets-d.propublica.org/v5/images/trump-climate-epa-fotouhi-FINAL_maxWidth_3000_maxHeight_3000_ppi_72_quality_95_embedColorProfile_true.jpg?crop=focalpoint&fit=crop&fp-x=0.5018&fp-y=0.5642&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=09239a4f434ab8f692757d5c41eefc61",
+      "publishedAt": "2025-01-22T20:10:00Z",
+      "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nThe man tapped by President Donald Trump to be second-in-com… [+8792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joshua Cox-Steib",
+      "title": "Do Sleep Supplements Actually Work? Here's What Experts Have to Say",
+      "description": "Getting a good night's sleep can be a game-changer, but it isn't always easy. Learn how sleep supplements may help you tonight.",
+      "url": "https://www.cnet.com/health/sleep/do-sleep-supplements-actually-work-heres-what-experts-have-to-say/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3ae22b4cb09e36ee9c215f90bad3cc02d1d22855/hub/2025/01/18/80bb5c47-fc76-47d5-a6e0-ecae5cf87efe/gettyimages-1077629772.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-22T20:00:02Z",
+      "content": "Getting good sleep can make or break your next day, but it's nearly impossible to guarantee. Most of us have heard of different strategies to help with sleep, including trying sleep supplements like … [+6739 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Jacinta Bowler",
+      "title": "How much of your soft drink can has been recycled? Here are the numbers",
+      "description": "The grocery aisle is a dizzying array of colourful packaging, but most of it is made of virgin materials. So what happens to the carefully collected packaging after it's put in the recycling?",
+      "url": "https://www.abc.net.au/news/science/2025-01-23/recycling-aluminium-can-glass-jar-plastic-bottle/104676526",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b6a5e1f33155d76d79dfc25764225d4f?impolicy=wcms_watermark_news&cropH=1294&cropW=2300&xPos=8&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-01-22T19:30:00Z",
+      "content": "The grocery aisle is a dizzying array of products wrapped in colourful packaging specifically designed to catch your eye and convince you to buy them.\r\nBut that packaging's story doesn't end once it'… [+10451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Gary Fooks",
+      "title": "Lobbying in 'forever chemicals' industry is rife across Europe—the inside story of our investigation",
+      "description": "A team of academic researchers, lawyers and journalists from 16 European countries has exposed a huge lobbying campaign aimed at gutting a proposed EU-wide restriction on the use of \"forever chemicals.\" This campaign saw significant increases in the lobbying …",
+      "url": "https://phys.org/news/2025-01-lobbying-chemicals-industry-rife-europe.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/handshake.jpg",
+      "publishedAt": "2025-01-22T18:30:04Z",
+      "content": "A team of academic researchers, lawyers and journalists from 16 European countries has exposed a huge lobbying campaign aimed at gutting a proposed EU-wide restriction on the use of \"forever chemical… [+8330 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1079,86 +1183,8 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/EOJ4TOSLSOBOGESHAJ5AUFT7NA.jpg?smart=true&auth=93321849566f5dec9e4f9c2fbc994ba7b43ccce396ef569b3d4829bddcad3013&width=1200&height=630",
       "publishedAt": "2025-01-19T13:58:27Z",
       "content": "Theres no proof that Marie Antoinette ever said let them eat cake. But, according to historians, it was the sort of thing she might have said. Hence, it rang true or at least chimed with the anti-roy… [+4754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "The Star Online",
-      "title": "High levels of bacteria detected in cockles washed up on Dungun beach",
-      "description": "KUALA TERENGGANU: An analysis of the cockles that were washed ashore at Pantai Sura in Dungun has shown that the levels of Faecal Coliform bacteria and Escherichia coli (E. coli) exceed set standards. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/01/19/high-levels-of-bacteria-detected-in-cockles-washed-up-on-dungun-beach",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/19/3125728.jpg",
-      "publishedAt": "2025-01-19T10:45:00Z",
-      "content": "KUALA TERENGGANU: An analysis of the cockles that were washed ashore at Pantai Sura in Dungun has shown that the levels of Faecal Coliform bacteria and Escherichia coli (E. coli) exceed set standards… [+1469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "The Canadian Press",
-      "title": "Eggs in B.C., Ont., Man., recalled over salmonella concerns",
-      "description": "The Canadian Food Inspection Agency has issued a recall due to a possible salmonella contamination of certain brands of eggs in British Columbia, Manitoba, Ontario and other possible provinces and territories.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1d64074-df1e-4773-8671-64844a8968e7",
-      "urlToImage": null,
-      "publishedAt": "2025-01-19T02:22:21Z",
-      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thecanadianpressnews.ca"
-      },
-      "author": "",
-      "title": "Eggs in Alberta, B.C., Ont., Man., Sask., recalled over salmonella concerns",
-      "description": "The Canadian Food Inspection Agency has issued a recall due to a possible salmonella contamination of certain brands of eggs in British Columbia, Manitoba, Ontario and other possible provinces and",
-      "url": "https://www.thecanadianpressnews.ca/health/eggs-in-b-c-ont-man-recalled-over-salmonella-concerns/article_0d79d474-f9f1-5c80-9515-5d52ff7ac14b.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thecanadianpressnews.ca/content/tncms/assets/v3/editorial/d/b8/db888fcf-75b7-5acc-ab60-b15e09072b76/678c408e7f605.image.jpg?crop=1349%2C708%2C25%2C0&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-01-19T01:24:44Z",
-      "content": "The Canadian Food Inspection Agency has issued a recall due to a possible salmonella contamination of certain brands of eggs in British Columbia, Manitoba, Ontario and other possible provinces and te… [+1031 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Idowu Abdullahi",
-      "title": "Microwaving food in plastic containers likely invitation to cancer – Experts",
-      "description": "Citing the potential leaching of harmful chemicals from plastic into food, nutrition experts have kicked against microwaving food in plastic containers, warning that it could expose consumers to many health risks including certain types of cancers. Other heal…",
-      "url": "https://punchng.com/microwaving-food-in-plastic-containers-likely-invitation-to-cancer-experts/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/01/18222833/MICROWAVING.jpg",
-      "publishedAt": "2025-01-19T00:38:08Z",
-      "content": "Citing the potential leaching of harmful chemicals from plastic into food, nutrition experts have kicked against microwaving food in plastic containers, warning that it could expose consumers to many… [+5355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "theglobeandmail.com",
-      "title": "Eggs in five provinces recalled over salmonella concerns",
-      "description": "The Canadian Food Inspection Agency has issued a recall due to a possible salmonella contamination of certain brands of eggs in Alberta, British Columbia, Manitoba, Ontario, Saskatchewan and other possible provinces.\nThe agency says the recall covers Complime…",
-      "url": "https://biztoc.com/x/9fa294841dd998b7",
-      "urlToImage": "https://biztoc.com/cdn/9fa294841dd998b7_s.webp",
-      "publishedAt": "2025-01-18T23:15:18Z",
-      "content": "The Canadian Food Inspection Agency has issued a recall due to a possible salmonella contamination of certain brands of eggs in Alberta, British Columbia, Manitoba, Ontario, Saskatchewan and other po… [+152 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Eggs recalled in B.C., multiple other provinces over salmonella concerns",
-      "description": "The Canadian Food Inspection Agency says the recall covers Compliments, Foremost, Golden Valley Eggs, IGA, no name and Western Family eggs.",
-      "url": "https://www.cbc.ca/news/health/eggs-recall-salmonella-1.7435418",
-      "urlToImage": "https://i.cbc.ca/1.7006989.1698189050!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/case-to-cage-hens-20160309.jpg?im=Resize%3D620",
-      "publishedAt": "2025-01-18T23:01:20Z",
-      "content": "The Canadian Food Inspection Agency has issued a recall due to a possible salmonella contamination of certain brands of eggs in Alberta, British Columbia, Manitoba, Ontario, Saskatchewan and other po… [+759 chars]"
     }
   ],
-  "totalResults": 89,
+  "totalResults": 91,
   "filteredCount": 2
 }
