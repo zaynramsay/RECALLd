@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-01-24T01:40:35.612Z",
+  "lastUpdated": "2025-01-24T06:29:12.120Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. President Donald Trump granted a “full and unconditional pardon” to Ross Ulbricht, Silk Road creator",
+      "description": "Donald Trump pardoned Ross Ulbricht, creator of the notorious dark web, drug marketplace Silk Road , after 11 years in prison. Donald Trump pardoned Ross Ulbricht, creator of Silk Road, who was convicted in 2015 for narcotics and money-laundering conspiracy a…",
+      "url": "https://securityaffairs.com/173350/cyber-crime/trump-granted-pardon-to-ross-ulbricht.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-37.png",
+      "publishedAt": "2025-01-23T06:17:43Z",
+      "content": "U.S. President Donald Trump granted a \"full and unconditional pardon\" to Ross Ulbricht, Silk Road creator\r\n | Pwn2Own Automotive 2025 Day 1: organizers awarded $382,750 for 16 zero-days\r\n | Two ranso… [+133256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Five charged after deadly Bongkrekic acid outbreak",
+      "description": "Five people have been charged in relation to a fatal food poisoning outbreak that occurred last year in Taiwan. The Taipei District Prosecutors Office announced the charges after investigating the incident at the Polam Kopitiam restaurant. The outbreak led to…",
+      "url": "https://www.foodsafetynews.com/2025/01/five-charged-after-deadly-bongkrekic-acid-outbreak/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/038/749/aMBJ5DWdLYPBbk476XRNjrp4Z/230121ee3fe799fe2a0fe21910191414172f91f2.png",
+      "publishedAt": "2025-01-23T05:03:00Z",
+      "content": "Five people have been charged in relation to a fatal food poisoning outbreak that occurred last year in Taiwan.\r\nThe Taipei District Prosecutors Office announced the charges after investigating the i… [+2142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Researchers work to develop faster, more accurate virus detection for produce",
+      "description": "Researchers in Spain are working to develop faster, more accurate methods for detecting viruses like human norovirus and hepatitis A in fresh produce. The project, led by Dr. Susana Guix from the University of Barcelona, aims to improve food safety and reduce…",
+      "url": "https://www.foodsafetynews.com/2025/01/researchers-work-to-develop-faster-more-accurate-virus-detection-for-produce/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/038/719/DdWb1LGkNYNnDXdZY70OKvRAP/b02a3f0106dc1a81ad76158f812fcd5051af44d9.png",
+      "publishedAt": "2025-01-23T05:01:00Z",
+      "content": "Researchers in Spain are working to develop faster, more accurate methods for detecting viruses like human norovirus and hepatitis A in fresh produce. \r\nThe project, led by Dr. Susana Guix from the U… [+3150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Ilana Korchia",
+      "title": "The Litigated Dish: GAO Urges USDA to Strengthen Meat and Poultry Oversight",
+      "description": "Today, the U.S. Government Accountability Office (GAO) once again highlighted what food safety advocates, public health organizations, and industry experts have known for years: the U.S. Department of Agriculture (USDA) must take immediate, “additional action…",
+      "url": "https://www.foodsafetynews.com/2025/01/the-litigated-dish-gao-urges-usda-to-strengthen-meat-and-poultry-oversight/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/036/576/jMDOvP3KezRBAk5kzlqoyk8AW/674cd1f2f10d20eb4904a5615d636209dada2e70.png",
+      "publishedAt": "2025-01-23T04:21:34Z",
+      "content": "Today, the U.S. Government Accountability Office (GAO) once again highlighted what food safety advocates, public health organizations, and industry experts have known for years: the U.S. Department o… [+4632 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1118,73 +1170,8 @@
       "urlToImage": "https://smartcdn.gprod.postmedia.digital/winnipegsun/wp-content/uploads/2024/05/GettyImages-1599935345.jpg",
       "publishedAt": "2025-01-19T21:34:53Z",
       "content": "Saturday, Jan. 18, the Canadian Food Inspection Agency (CFIA) issued a food recall warningfor several brands of shell eggs sold to Manitobans and neighbouring provinces due to a potential salmonella … [+1488 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 29",
-      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Stealthy Credit Card Skimmer Targets WordPress Checkout Pages via Database Injection Ransomware on ESXi: The mechanization o…",
-      "url": "https://securityaffairs.com/173232/malware/security-affairs-malware-newsletter-round-29.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "publishedAt": "2025-01-19T21:29:38Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 29\r\n | Security Affairs newsletter Round 507 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | A flaw in the W3 Total Cache plugin exposes hundreds of thousand… [+132264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 507 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. Treasury …",
-      "url": "https://securityaffairs.com/173227/uncategorized/security-affairs-newsletter-round-507-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-01-19T20:45:49Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 29\r\n | Security Affairs newsletter Round 507 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | A flaw in the W3 Total Cache plugin exposes hundreds of thousand… [+132264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A flaw in the W3 Total Cache plugin exposes hundreds of thousands of WordPress sites to attacks",
-      "description": "A WordPress W3 Total Cache plugin vulnerability could allow attackers to access information from internal services, including metadata on cloud-based apps. A severe vulnerability, tracked as CVE-2024-12365 (CVSS score of 8.5) in the WordPress W3 Total Cache p…",
-      "url": "https://securityaffairs.com/173219/security/w3-total-cache-wordpress-plugin-cve-2024-12365.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/05/DOM-based-XSS-wordpress-2.jpg",
-      "publishedAt": "2025-01-19T19:20:19Z",
-      "content": "A flaw in the W3 Total Cache plugin exposes hundreds of thousands of WordPress sites to attacks\r\n | U.S. Treasury Sanctions Chinese cybersecurity firm and actor over federal agency breach tied to Sal… [+132129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "City Journal",
-      "title": "Will the Left Disrupt the Inauguration? A network of progressive groups and militants is preparing for battle.",
-      "description": "Left-wing radicals have been mobilizing near the nation’s capital ahead of the January 20 inauguration, which has been moved indoors. Since summer, we have tracked D.C.’s radical networks—their movements, methods, and potential for violence. After George Floy…",
-      "url": "https://freerepublic.com/focus/f-chat/4291095/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-01-19T16:17:01Z",
-      "content": "Skip to comments.\r\nWill the Left Disrupt the Inauguration? A network of progressive groups and militants is preparing for battle.City Journal ^\r\n | 17 Jan, 2025\r\n | Christopher F. Rufo, Hannah Grossm… [+25256 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Eoin Burke-Kennedy",
-      "title": "Davos has a Marie Antoinette problem",
-      "description": "Annual World Economic Forum professes to aim to ‘improve state of the world’ but is seen as schmoozefest for establishment elites",
-      "url": "https://www.irishtimes.com/business/economy/2025/01/19/davos-has-a-marie-antoinette-problem/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/EOJ4TOSLSOBOGESHAJ5AUFT7NA.jpg?smart=true&auth=93321849566f5dec9e4f9c2fbc994ba7b43ccce396ef569b3d4829bddcad3013&width=1200&height=630",
-      "publishedAt": "2025-01-19T13:58:27Z",
-      "content": "Theres no proof that Marie Antoinette ever said let them eat cake. But, according to historians, it was the sort of thing she might have said. Hence, it rang true or at least chimed with the anti-roy… [+4754 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 90,
   "filteredCount": 2
 }
