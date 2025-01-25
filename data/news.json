@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-24T18:28:36.441Z",
+  "lastUpdated": "2025-01-25T01:36:09.032Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Isra'a Emhail",
+      "title": "Is the five-second rule real? Here’s what the experts say",
+      "description": "Dropped your food? Eating it within a few seconds might cost you health-wise.",
+      "url": "https://www.nzherald.co.nz/lifestyle/is-the-five-second-rule-real-heres-what-the-experts-say/W4UOW63DFRFR5GMGM27Q3DDKSY/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/MQ57WHBFOBD3TFXW3654IBBBGM.jpg?auth=01608f0cd73581c83e370924cfea5d66245b060ccb24d5543c38bc09b87a52d9&width=1200&height=675&quality=70&focal=1479%2C814&smart=false",
+      "publishedAt": "2025-01-24T01:07:40Z",
+      "content": "Theres no easy answer, Dawson told RNZs Afternoons. There are some differences due to the surface, due to the food, time does make a difference in number [of bacteria], but from a practical standpoin… [+3934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
+      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-01-23T23:06:29Z",
+      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
+      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-01-23T23:06:29Z",
+      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500",
+      "description": "Bug hunters earned $129,000 for Tesla charger exploits and over $700,000 total in two days at Pwn2Own Automotive 2025. During Day 2 of Pwn2Own Automotive 2025 organizers awarded $335,500, which brings the event total to $718,250. So far, the researchers have …",
+      "url": "https://securityaffairs.com/173376/hacking/pwn2own-automotive-2025-day-2.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-38-768x1024.png",
+      "publishedAt": "2025-01-23T20:48:17Z",
+      "content": "Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to hack Ivanti CSA\r\n | Cisco addresses a critical privilege escalation bug in Mee… [+133475 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Angelica Stabile",
+      "title": "Bird flu proves fatal to cats: Here's how to protect your pets",
+      "description": "As dozens of cats have contracted the bird flu virus through infected poultry and cattle, veterinarians weigh in on the safety risks of raw cat and dog food.",
+      "url": "https://www.foxnews.com/health/bird-flu-proves-fatal-cats-heres-how-protect-pets",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/gettyimages-1253685765.jpg",
+      "publishedAt": "2025-01-23T20:48:09Z",
+      "content": "Several human cases of avian flu (H5N1) have been reported around the U.S., and the virus has also proven to be fatal to felines.\r\nDozens of cats have reportedly contracted the virus since the start … [+3824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Apartment Therapy"
+      },
+      "author": "Shifrah Combiths",
+      "title": "I Added This “Magical” $9 Feature to My Kitchen, and It’s Made Cooking and Cleaning So Much Easier",
+      "description": "I can do everything totally hands-free!\nREAD MORE...",
+      "url": "https://www.apartmenttherapy.com/kitchen-toe-pull-37452500",
+      "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fhouse%20tours%2F2023-House-Tours%2F2023-August%2Fananya-c%2Ftours-london-ananya-c-18",
+      "publishedAt": "2025-01-23T20:30:00Z",
+      "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nWhen we recently renovated our kitchen, I put a… [+2300 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1105,60 +1183,8 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/768/120/3Be2PXkVAQ4k0G026m78j1oNa/912327864a62eb102371782bc997dc1a69b074b6.png",
       "publishedAt": "2025-01-20T14:24:06Z",
       "content": "Burnbrae Farms is recalling various brands of eggs from the marketplace because of possible Salmonella contamination.\r\nAccording to the Canadian Food Inspection Agency (CFIA), this recall was trigger… [+5008 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jess Thomson",
-      "title": "Milk Recall Update As FDA Sets Risk Class Over Spoilage Fears",
-      "description": "19,688 cases of the milk were recalled across Arizona, California and Nevada due to \"potential for premature product spoilage during shelf life.\"",
-      "url": "https://www.newsweek.com/milk-product-recall-fda-spoiling-early-california-arizona-nevada-food-2017649",
-      "urlToImage": "https://d.newsweek.com/en/full/2568494/milk-recall.jpg",
-      "publishedAt": "2025-01-20T13:38:20Z",
-      "content": "A brand of milk has been recalled due to concerns that it may go off earlier than anticipated.\r\nThe \"Horizon Organic Aseptic Plain Whole Milk\" product, distributed by Colorado-based Horizon Organic D… [+3574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Is 3 musketeers gluten free?",
-      "description": "Is 3 Musketeers Gluten-Free? Understanding the Question When it comes to gluten-free products, many people are unsure about which ones […]\nThe post Is 3 musketeers gluten free? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/is-3-musketeers-gluten-free/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-20T13:33:03Z",
-      "content": "Is 3 Musketeers Gluten-Free?\r\nUnderstanding the Question\r\nWhen it comes to gluten-free products, many people are unsure about which ones to choose. In this article, we will delve into the world of 3 … [+3899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Global Vitamin B3 Market to Hit Valuation of US$ 521.26 Million By 2033 | Astute Analytica",
-      "description": "Vitamin B3 demand expands due to advanced extraction techniques, rising health-conscious consumers, and robust research-driven applications in pharmaceuticals, supplements, and feed, shaping a dynamic market outlook for diverse global stakeholders. Vitamin B3…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/20/3012076/0/en/Global-Vitamin-B3-Market-to-Hit-Valuation-of-US-521-26-Million-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-01-20T13:30:00Z",
-      "content": "New Delhi, Jan. 20, 2025 (GLOBE NEWSWIRE) -- The global vitamin B3 market was valued at US$ 390.88 million in 2024 and is projected to reach US$ 521.26 million by 2033, growing at a CAGR of 3.25% dur… [+15011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Malicious npm and PyPI target Solana Private keys to steal funds from victims’ wallets",
-      "description": "Researchers found malicious npm and PyPI packages capable of stealing and deleting sensitive data from infected systems. Socket researchers have identified multiple packages in the npm and Python Package Index (PyPI) repository designed to target Solana priva…",
-      "url": "https://securityaffairs.com/173249/cyber-crime/malicious-npm-and-pypi-target-solana-private-keys.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-30.png",
-      "publishedAt": "2025-01-20T12:32:48Z",
-      "content": "Malicious npm and PyPI target Solana Private keys to steal funds from victims' wallets\r\n | Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution\r\n | SECURITY AFF… [+132451 chars]"
     }
   ],
-  "totalResults": 89,
+  "totalResults": 91,
   "filteredCount": 2
 }
