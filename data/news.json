@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-01-25T12:36:46.899Z",
+  "lastUpdated": "2025-01-25T18:25:51.254Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Boris Kachka",
+      "title": "What to Read in the Face of Disaster",
+      "description": "Can any writer offer useful wisdom when ash rains over a metropolis?",
+      "url": "https://www.theatlantic.com/newsletters/archive/2025/01/books-briefing-reading-disaster-davis-lynch-van-der-lugt/681454/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/ErLHeDGFVzobs_vuKSU4U-0DMP4=/0x42:2000x1084/1200x625/media/newsletters/2025/01/25_1_24_Kachka_BB_hopeful_pessimism_final/original.jpg",
+      "publishedAt": "2025-01-24T18:15:00Z",
+      "content": "This is an edition of the Books Briefing, our editors’ weekly guide to the best in books. Sign up for it here.Violence and strife feel unavoidable these days. When we’re not encountering them persona… [+7297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Lindsay Lowe, Emilie Ikeda",
+      "title": "Why egg prices are so high — and will likely get higher",
+      "description": "Egg prices have been soaring recently because of a nationwide outbreak of avian influenza, also known as bird flu.",
+      "url": "https://www.today.com/food/news/why-are-eggs-so-expensive-2025-rcna189109",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-01/egg-shortage-mc-250124-1d3bed.jpg",
+      "publishedAt": "2025-01-24T17:06:22Z",
+      "content": "Empty shelves and higher prices thats what many shoppers are finding when they head to the grocery store to buy eggs.\r\nEgg prices have been soaring recently. The average price for a dozen Grade A egg… [+3496 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "FDA pauses updates on food-borne outbreak probes",
+      "description": "The Trump administration's \"short pause\" on communications, expected to end on Feb. 1, has affected FDA updates on food contamination investigations.",
+      "url": "https://www.cbsnews.com/news/fda-pause-foodborne-outbreak-probes-updates-communications/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/06/e095d337-841e-4ac7-8dff-84d8c0504dea/thumbnail/1200x630g9/b421489eeda1725edf0546b7debc636b/gettyimages-1227710472.jpg?v=e306e7b9fefc168c00baa623d76d1eaf",
+      "publishedAt": "2025-01-24T16:07:20Z",
+      "content": "Multiple federal health agencies have stopped releasing some key health information — including updates on some outbreak investigations — amid a department-wide communications \"pause\" ordered by the … [+5053 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wellnessmama.com"
+      },
+      "author": "Katie Wells",
+      "title": "Microplastics In Salt and How to Avoid Them",
+      "description": "I often discuss how salt is essential for health, from supporting electrolyte balance to regulating blood pressure. Dialing in my salt consumption has also been a game changer for my sleep and energy. Many salts are hiding a dirty secret though: microplastic …",
+      "url": "https://wellnessmama.com/health/microplastics-salt/",
+      "urlToImage": "https://wellnessmama.com/wp-content/uploads/microplastics-salt.png",
+      "publishedAt": "2025-01-24T14:00:00Z",
+      "content": "I often discuss how salt is essential for health, from supporting electrolyte balance to regulating blood pressure. Dialing in my salt consumption has also been a game changer for my sleep and energy… [+8995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ning Zhang, Yuanqi Chen, Enxu Zhang, Ziyang Liu, Jie Yue",
+      "title": "Maize quality detection based on MConv-SwinT high-precision model",
+      "description": "The traditional method of corn quality detection relies heavily on the subjective judgment of inspectors and suffers from a high error rate. To address these issues, this study employs the Swin Transformer as an enhanced base model, integrating machine vision…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312363",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0312363.g012&size=inline",
+      "publishedAt": "2025-01-24T14:00:00Z",
+      "content": "Abstract\r\nThe traditional method of corn quality detection relies heavily on the subjective judgment of inspectors and suffers from a high error rate. To address these issues, this study employs the … [+44802 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -259,7 +324,7 @@
       "url": "https://securityaffairs.com/173361/security/cisco-meeting-management-critical-flaw.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
       "publishedAt": "2025-01-23T08:17:44Z",
-      "content": "Cisco addresses a critical privilege escalation bug in Meeting Management\r\n | U.S. President Donald Trump granted a \"full and unconditional pardon\" to Ross Ulbricht, Silk Road creator\r\n | Pwn2Own Aut… [+133334 chars]"
+      "content": "Cisco addresses a critical privilege escalation bug in Meeting Management\r\n |��U.S. President Donald Trump granted a \"full and unconditional pardon\" to Ross Ulbricht, Silk Road creator\r\n | Pwn2Own Aut… [+133334 chars]"
     },
     {
       "source": {
@@ -1079,86 +1144,8 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-117413544,width-1200,height-630,imgsize-1262531,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-01-21T03:58:44Z",
       "content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Marni Rose McFall",
-      "title": "Meijer Food Recalls: Full List of Products Impacted",
-      "description": "There are ten products which have been recalled, for a variety of reasons.",
-      "url": "https://www.newsweek.com/meijer-food-recall-full-list-2016894",
-      "urlToImage": "https://d.newsweek.com/en/full/2567439/meijer-store.jpg",
-      "publishedAt": "2025-01-20T22:50:10Z",
-      "content": "There are currently 10 major recalls of products that are sold in the retail store Meijer, according to their website.\r\nMeijer operates over 500 superstores across six Midwestern states: Michigan, Oh… [+8524 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "HPE is investigating IntelBroker’s claims of the company hack",
-      "description": "HPE is probing claims by the threat actor IntelBroker who is offering to sell alleged stolen source code and data from the company. Last week, the notorious threat actor IntelBroker announced on a popular cybercrime forum the sale of data allegedly stolen fro…",
-      "url": "https://securityaffairs.com/173265/data-breach/hpe-is-investigating-intelbrokers-claims-of-hack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/HPE-logo.png",
-      "publishedAt": "2025-01-20T22:46:25Z",
-      "content": "HPE is investigating IntelBroker's claims of the company hack\r\n | Esperts found new DoNot Team APT group's Android malware\r\n | Malicious npm and PyPI target Solana Private keys to steal funds from vi… [+132578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cookingclassy.com"
-      },
-      "author": "Jaclyn",
-      "title": "Healthy Oat Crepes",
-      "description": "Healthy Oat Crepes – a nutritious crepe made from oat flour, low fat milk, eggs, and a few other staple ingredients. They come together quickly and are a great way to start the day! Looking for more ways to use oat flour? Also try my ever so delicious Oat Flo…",
-      "url": "https://www.cookingclassy.com/healthy-oat-crepes/",
-      "urlToImage": "https://www.cookingclassy.com/wp-content/uploads/2025/01/oat-crepes-3.jpg",
-      "publishedAt": "2025-01-20T22:12:51Z",
-      "content": "Healthy Oat Crepes – a nutritious crepe made from oat flour, low fat milk, eggs, and a few other staple ingredients. They come together quickly and are a great way to start the day!\r\nLooking for more… [+6397 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Food Recalls This Week: List of Most Dangerous Warnings Issued",
-      "description": "Products were recalled because of concerns over salmonella and listeria contamination and undeclared allergens.",
-      "url": "https://biztoc.com/x/1b7058f096acec20",
-      "urlToImage": "https://biztoc.com/cdn/808/og.png",
-      "publishedAt": "2025-01-20T21:54:52Z",
-      "content": "Products were recalled because of concerns over salmonella and listeria contamination and undeclared allergens.\r\nThis story appeared on newsweek.com, 2025-01-20 21:47:09."
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Skinner",
-      "title": "Food Recalls This Week: List of Most Dangerous Warnings Issued",
-      "description": "Products were recalled because of concerns over salmonella and listeria contamination and undeclared allergens.",
-      "url": "https://www.newsweek.com/food-recalls-this-week-list-most-dangerous-warnings-issued-2017957",
-      "urlToImage": "https://d.newsweek.com/en/full/2569129/food-recall-this-week-list-most-dangerous.jpg",
-      "publishedAt": "2025-01-20T21:47:09Z",
-      "content": "The U.S. Food and Drug Administration (FDA) has issued a slew of food-related recalls over the past week, and several of the items were given a Class I designation, meaning consuming them could have … [+3709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Esperts found new DoNot Team APT group’s Android malware",
-      "description": "Researchers linked the threat actor DoNot Team to a new Android malware that was employed in highly targeted cyber attacks. CYFIRMA researchers linked a recently discovered Android malware to the Indian APT group known as DoNot Team. The Donot Team (aka APT-C…",
-      "url": "https://securityaffairs.com/173257/apt/donot-team-android-malware.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-31.png",
-      "publishedAt": "2025-01-20T20:35:17Z",
-      "content": "Esperts found new DoNot Team APT group's Android malware\r\n | Malicious npm and PyPI target Solana Private keys to steal funds from victims' wallets\r\n | Planet WGS-804HPT Industrial Switch flaws could… [+132512 chars]"
     }
   ],
-  "totalResults": 89,
+  "totalResults": 88,
   "filteredCount": 2
 }
