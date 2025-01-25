@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-01-25T06:26:40.727Z",
+  "lastUpdated": "2025-01-25T12:36:46.899Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jess Thomson",
+      "title": "Dip Recall Update as FDA Sets Risk Class",
+      "description": "The spinach artichoke dip mix was recalled due to it having been underprocessed, the Food and Drug Administration said.",
+      "url": "https://www.newsweek.com/spinach-artichoke-dip-recall-fda-underprocessing-class-iii-2020164",
+      "urlToImage": "https://d.newsweek.com/en/full/2572461/spinach-artichoke-dip.jpg",
+      "publishedAt": "2025-01-24T11:02:34Z",
+      "content": "A veggie dip product has been recalled across Wisconsin due to \"underprocessing\".\r\nThe \"River Valley Ranch &amp; Kitchens Spinach Artichoke Dip Mix,\" produced by Wisconsin-based company River Valley … [+2618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mindbodygreen.com"
+      },
+      "author": "https://www.mindbodygreen.com/wc/ava-durgin-writer",
+      "title": "Time To Rethink That Black Spatula: The Health Risks Of Plastic Exposure",
+      "description": "And the alarming levels of microplastics in everyday foods",
+      "url": "https://www.mindbodygreen.com/articles/microplastics-are-major-health-concern-and-its-time-to-throw-out-your-black-spatula",
+      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/m5iv1vjrwm6a0bzfu.jpeg",
+      "publishedAt": "2025-01-24T10:49:00Z",
+      "content": "Plastic has become so ingrained in our daily lives that its easy to forget its everywherefrom the packaging on our food to the utensils we use in the kitchen. Yet beneath this convenience lies a grow… [+5500 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SonicWall warns of a critical CVE-2025-23006 zero-day likely exploited in the wild",
+      "description": "SonicWall warns customers of a critical zero-day vulnerability in SMA 1000 Series appliances, likely exploited in the wild. SonicWall is waring customers of a critical security vulnerability, tracked as CVE-2025-23006 (CVSS score of 9,8) impacting its Secure …",
+      "url": "https://securityaffairs.com/173387/security/sonicwall-warns-zero-day-sma-1000-series.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
+      "publishedAt": "2025-01-24T09:36:35Z",
+      "content": "SonicWall warns of a critical CVE-2025-23006 zero-day likely exploited in the wild\r\n | U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: org… [+133640 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1118,45 +1157,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-31.png",
       "publishedAt": "2025-01-20T20:35:17Z",
       "content": "Esperts found new DoNot Team APT group's Android malware\r\n | Malicious npm and PyPI target Solana Private keys to steal funds from victims' wallets\r\n | Planet WGS-804HPT Industrial Switch flaws could… [+132512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Brittany Miller",
-      "title": "Six egg brands recalled over salmonella contamination - NewsBreak",
-      "description": "Six different brands of eggs have been recalled in Canada due to the possibility of salmonella contamination. The Canadian Food Inspection Agency (CFIA) r",
-      "url": "https://www.newsbreak.com/share/3769203784351-six-egg-brands-recalled-over-salmonella-contamination?s=a2&share_destination_id=MjEzNDYwMjc3LTE3Mzc0MDI3ODYzMjQ%3D&pd=0ERelh9M&hl=en_US&send_time=1737402786&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.2.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v1%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v1%2Cns_push_exp_rt_bucketv12-v8%2Cns_foryou_recall_exp_25q1-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/179cPO_0yHwYEQe00",
-      "publishedAt": "2025-01-20T19:54:04Z",
-      "content": "Six different brands of eggs have been recalled in Canada due to the possibility of salmonella contamination. \r\n The Canadian Food Inspection Agency (CFIA) recalled Golden Valley, Compliments, Foremo… [+3028 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Subpixel.space"
-      },
-      "author": "Toby Shorin",
-      "title": "After Authenticity",
-      "description": "Under authenticity, the value of a thing decreases as more and more people like it. This is clearly no longer the case.",
-      "url": "https://subpixel.space/entries/after-authenticity/",
-      "urlToImage": "https://subpixel.space/uploads/after-auth-preview-64bd7b.jpg",
-      "publishedAt": "2025-01-20T19:45:35Z",
-      "content": "Has it occurred to you that nobody talks about sellouts anymore?\r\nRecently on my commute I passed someone wearing an Obey shirt. I was reminded of friends and internet commenters on forums I once fre… [+29978 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "blogTO"
-      },
-      "author": "Isabelle Docto",
-      "title": "How to avoid Salmonella amid major egg recall in Canada",
-      "description": "With a major egg recall in multiple provinces, Canadians might be wary about what they cook for breakfast.\r\nOn Saturday, the Canadian Food Inspection Agency (CFIA) issued a recall notice for certain egg brands due to possible Salmonella contamination.\r\nBrands…",
-      "url": "https://www.blogto.com/eat_drink/2025/01/how-avoid-salmonella-amid-major-egg-recall-canada/",
-      "urlToImage": "https://display.blogto.com/articles/20250120-canada-egg-recall.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70",
-      "publishedAt": "2025-01-20T17:22:45Z",
-      "content": "With a major egg recall in multiple provinces, Canadians might be wary about what they cook for breakfast.\r\nOn Saturday, the Canadian Food Inspection Agency (CFIA) issued a recall notice for certain … [+3651 chars]"
     }
   ],
   "totalResults": 89,
