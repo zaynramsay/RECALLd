@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-26T06:26:55.169Z",
+  "lastUpdated": "2025-01-26T12:36:44.725Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "MUGUNTAN VANAR",
+      "title": "Sabah Health Department reports five cases of puffer fish toxin poisoning",
+      "description": "KOTA KINABALU: Five cases of puffer fish toxin poisoning have been detected in Sabah over the past two weeks, says the Sabah Health Department director, Dr Maria Suleiman. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/25/sabah-health-department-reports-five-cases-of-puffer-fish-toxin-poisoning",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/25/3137026.jpg",
+      "publishedAt": "2025-01-25T10:39:00Z",
+      "content": "KOTA KINABALU: Five cases of puffer fish toxin poisoning have been detected in Sabah over the past two weeks, says the Sabah Health Department director, Dr Maria Suleiman.\r\nShe stated that five cases… [+2030 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -1143,20 +1156,7 @@
       "url": "https://securityaffairs.com/173285/hacking/cert-ua-warned-of-scammers-impersonating-the-agency-using-fake-anydesk.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-32.png",
       "publishedAt": "2025-01-21T12:34:59Z",
-      "content": "CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests\r\n |��Experts found multiple flaws in Mercedes-Benz infotainment system\r\n | HPE is investigating IntelBroker's claims of … [+132732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Susan Elizabeth Turek",
-      "title": "Scientists make concerning discovery after studying tea bags — here's what you need to know",
-      "description": "Your afternoon cup of tea may come with an unhealthy helping.",
-      "url": "https://www.yahoo.com/news/scientists-concerning-discovery-studying-tea-110028818.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ms7SnW1XDRhEQfmer6.znA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/3dc6c490d20d8cbd7c02c73eb9579e33",
-      "publishedAt": "2025-01-21T11:00:28Z",
-      "content": "A new study warns that your afternoon cup of tea may come with an unhealthy helping of microplastics and nanoplastics.\r\nWhat's happening?\r\nResearchers from the Universitat Autònoma de Barcelona issue… [+2695 chars]"
+      "content": "CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests\r\n | Experts found multiple flaws in Mercedes-Benz infotainment system\r\n | HPE is investigating IntelBroker's claims of … [+132732 chars]"
     }
   ],
   "totalResults": 89,
