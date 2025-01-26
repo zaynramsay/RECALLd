@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-26T01:42:53.455Z",
+  "lastUpdated": "2025-01-26T06:26:55.169Z",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Hanna Ziady, CNN",
+      "title": "‘Our innocent kids are struggling.’ Victims of massive listeriosis outbreak say those responsible must ‘do the right thing’",
+      "description": "Almost seven years since health officials tied the world’s largest listeriosis outbreak to products made by South Africa’s Tiger Brands, victims are still...",
+      "url": "https://www.cnn.com/2025/01/25/world/listeriosis-outbreak-south-africa-tiger-brands-intl/index.html",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/41404158f40d5fb2a1b27916c8fcb0d7",
+      "publishedAt": "2025-01-25T05:01:57Z",
+      "content": "Theto Ngobeni was just 18 days old when doctors first inserted a shunt into the back of her head to drain excess fluid accumulating in her brain.\r\nShe was born with a condition known as hydrocephalus… [+8934 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -256,10 +269,10 @@
       "author": "Pierluigi Paganini",
       "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
+      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
     },
     {
       "source": {
@@ -269,10 +282,10 @@
       "author": "Pierluigi Paganini",
       "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
+      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
     },
     {
       "source": {
@@ -1130,7 +1143,7 @@
       "url": "https://securityaffairs.com/173285/hacking/cert-ua-warned-of-scammers-impersonating-the-agency-using-fake-anydesk.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-32.png",
       "publishedAt": "2025-01-21T12:34:59Z",
-      "content": "CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests\r\n | Experts found multiple flaws in Mercedes-Benz infotainment system\r\n | HPE is investigating IntelBroker's claims of … [+132732 chars]"
+      "content": "CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests\r\n |��Experts found multiple flaws in Mercedes-Benz infotainment system\r\n | HPE is investigating IntelBroker's claims of … [+132732 chars]"
     },
     {
       "source": {
@@ -1144,19 +1157,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ms7SnW1XDRhEQfmer6.znA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/3dc6c490d20d8cbd7c02c73eb9579e33",
       "publishedAt": "2025-01-21T11:00:28Z",
       "content": "A new study warns that your afternoon cup of tea may come with an unhealthy helping of microplastics and nanoplastics.\r\nWhat's happening?\r\nResearchers from the Universitat Autònoma de Barcelona issue… [+2695 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Hatty Willmoth",
-      "title": "Nationwide Snack Recall Over Allergen Risk: 'Life-Threatening'",
-      "description": "Corn snacks are being recalled after it was discovered they contained undeclared milk, putting individuals with allergies at risk.",
-      "url": "https://www.newsweek.com/snack-recall-milk-allergy-wismettac-shirakiku-corn-puffs-2018116",
-      "urlToImage": "https://d.newsweek.com/en/full/2569368/corn-snacks.png",
-      "publishedAt": "2025-01-21T09:54:14Z",
-      "content": "Corn puff snacks are being recalled because they contain milk that is not declared as an allergen on the packaging.\r\nSold under the Shirakiku brand, the recalled snacks were made by Wismettac Asian F… [+3064 chars]"
     }
   ],
   "totalResults": 89,
