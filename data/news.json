@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-01-26T12:36:44.725Z",
+  "lastUpdated": "2025-01-26T18:26:33.446Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "FAZLEENA AZIZ",
+      "title": "Water is a security matter",
+      "description": "PETALING JAYA: The country’s raw water sources cannot be taken for granted as they are facing many threats, especially pollution. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/26/water-is-a-security-matter",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/26/3137308.jpg",
+      "publishedAt": "2025-01-25T16:00:00Z",
+      "content": "PETALING JAYA: The countrys raw water sources cannot be taken for granted as they are facing many threats, especially pollution.\r\nInstead, river and water management must be considered as a national … [+3162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Participants in the Pwn2Own Automotive 2025 earned $886,250",
+      "description": "The Pwn2Own Automotive 2025 hacking contest has ended, and participants earned $886,250 after demonstrating 49 zero-day flaws. The Pwn2Own Automotive 2025 hacking contest has ended, and participants earned $886,250 after demonstrating 49 zero-day flaws. Sina …",
+      "url": "https://securityaffairs.com/173426/breaking-news/pwn2own-automotive-2025-final-results.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-39-768x1024.png",
+      "publishedAt": "2025-01-25T15:58:59Z",
+      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Medical Xpress / HealthDay /",
+      "title": "Is your protein powder safe? Report reveals high heavy metal levels (Plant protein)",
+      "description": "It turns out, your protein powder might not be as healthy as you think. A new report from the Clean Label Project reveals that popular protein powders—especially plant-based, organic and chocolate-flavored varieties—may contain high levels of lead and cadmium…",
+      "url": "https://freerepublic.com/focus/f-chat/4292585/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-01-25T15:46:31Z",
+      "content": "Skip to comments.\r\nIs your protein powder safe? Report reveals high heavy metal levels (Plant protein)Medical Xpress / HealthDay / ^\r\n | Jan. 20, 2025\r\n | India Edwards / \r\nPosted on 01/25/2025 7:46:… [+5647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Why are people getting sick?",
+      "description": "Why Are People Getting Sick? Understanding the Causes of Illness People getting sick is a common phenomenon that affects millions […]\nThe post Why are people getting sick? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/why-are-people-getting-sick/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-25T13:27:26Z",
+      "content": "Why Are People Getting Sick?\r\nUnderstanding the Causes of Illness\r\nPeople getting sick is a common phenomenon that affects millions of individuals worldwide. The exact reasons behind this phenomenon … [+6141 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -282,10 +334,10 @@
       "author": "Pierluigi Paganini",
       "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
+      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
     },
     {
       "source": {
@@ -295,10 +347,10 @@
       "author": "Pierluigi Paganini",
       "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
+      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
     },
     {
       "source": {
@@ -1079,86 +1131,8 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-01-21T14:20:08Z",
       "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-29\r\nProduct:\r\nDrugs \r\nRecipient:\r\nAtlanta Supersource, Inc.\r\n3655 Kennesaw 75 Parkway NW, Suite 100Kennesaw, GA30144-6502United States\r\nIss… [+11803 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Sanofi - 690604 - 01/15/2025",
-      "description": "CGMP/Active Pharmaceutical Ingredient (API)/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/sanofi-690604-01152025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-21T14:20:07Z",
-      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-22\r\nProduct:\r\nDrugs \r\nRecipient:\r\nSanofi\r\n54, Rue La Boétie75008ParisFrance\r\nIssuing Office:\r\nCenter for Drug Evaluation and Research (CDER)\r\nUnited … [+20517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "INCELL Corporation LLC - 679023 - 12/12/2024",
-      "description": "CGMP/Finished Pharmaceuticals/Unapproved New Drug/Misbranded/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/incell-corporation-llc-679023-12122024",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-21T14:20:05Z",
-      "content": "Delivery Method:\r\nVIA UPS and Electronic Mail\r\nReference #:\r\nCBER 25-679023\r\nProduct:\r\nDrugs \r\nRecipient:\r\nChief Executive Officer and Chief Science Officer\r\nINCELL Corporation LLC\r\n12734 Cimarron Pa… [+12556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Scientific American"
-      },
-      "author": "Simon Makin",
-      "title": "‘Electronic Tongue’ Could Taste Your Drinks for You",
-      "description": "An AI analysis and a chemical sensor determine drinks’ dilution, freshness and type",
-      "url": "https://www.scientificamerican.com/article/electronic-tongue-could-taste-your-drinks-for-you/",
-      "urlToImage": "https://static.scientificamerican.com/dam/m/750c7d27db196c0d/original/sa0225Adva02.jpg?m=1735850487.505&w=1200",
-      "publishedAt": "2025-01-21T14:00:00Z",
-      "content": "The search for an automated way to “taste-test” products at mass-­production speed and scale has stumped the food and beverage industry for decades. But in a new study, researchers used machine learn… [+3073 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kate Summer, Qi Guo, Lei Liu, Bronwyn Barkla, Sarah Giles, Kirsten Benkendorff",
-      "title": "Antimicrobial proteins from oyster hemolymph improve the efficacy of conventional antibiotics",
-      "description": "Discovering new antibiotics and increasing the efficacy of existing antibiotics are priorities to address antimicrobial resistance. Antimicrobial proteins and peptides (AMPPs) are considered among the most promising antibiotic alternatives and complementary t…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312305",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0312305.g010&size=inline",
-      "publishedAt": "2025-01-21T14:00:00Z",
-      "content": "1. Introduction\r\nThe discovery and development of new antibiotics is a global public health priority. Bacterial infections are a leading cause of disease and treatment is reliant on antibiotics [1]. … [+49763 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Is jagermeister gluten free?",
-      "description": "Is Jägermeister Gluten-Free? Understanding the Ingredients Jägermeister is a popular German liqueur that has been a staple in many bars […]\nThe post Is jagermeister gluten free? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/is-jagermeister-gluten-free/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-21T13:19:58Z",
-      "content": "Is Jägermeister Gluten-Free?\r\nUnderstanding the Ingredients\r\nJägermeister is a popular German liqueur that has been a staple in many bars and homes for decades. However, with the increasing awareness… [+4191 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests",
-      "description": "CERT-UA warned of scammers impersonating the agency, using fake AnyDesk requests to conduct fraudulent security audits. The Computer Emergency Response Team of Ukraine (CERT-UA) warned of cyber scams involving threat actors impersonating the agency by sending…",
-      "url": "https://securityaffairs.com/173285/hacking/cert-ua-warned-of-scammers-impersonating-the-agency-using-fake-anydesk.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-32.png",
-      "publishedAt": "2025-01-21T12:34:59Z",
-      "content": "CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests\r\n | Experts found multiple flaws in Mercedes-Benz infotainment system\r\n | HPE is investigating IntelBroker's claims of … [+132732 chars]"
     }
   ],
-  "totalResults": 89,
+  "totalResults": 87,
   "filteredCount": 2
 }
