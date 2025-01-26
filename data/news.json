@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-01-25T18:25:51.254Z",
+  "lastUpdated": "2025-01-26T01:42:53.455Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "TS Food Packaging is Recalling its “Rural King” and “Wabash Valley Farms” Bacon Seasoning Due to the Presence of an Undeclared Soy Ingredient",
+      "description": "TS Food Packaging is recalling its “Rural King” and “Wabash Valley Farms” Bacon Seasoning due to the presence of an undeclared soy ingredient. People who have allergies to products containing soy run the risk of serious or life-threatening allergic reactions …",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ts-food-packaging-recalling-its-rural-king-and-wabash-valley-farms-bacon-seasoning-due-presence",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-24T23:03:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 24, 2025\r\nFDA Publish Date:\r\nJanuary 24, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nPoten… [+1579 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Amy Furr",
+      "title": "Costco Salmon Recall Upgraded to Highest Level Due to Listeria Concerns",
+      "description": "A recall of salmon packages sold at Costco has been upgraded amid fears of possible listeria contamination.",
+      "url": "https://www.breitbart.com/health/2025/01/24/fda-upgrades-costco-salmon-recall-to-highest-risk-level-due-to-listeria-concerns/",
+      "urlToImage": "https://media.breitbart.com/media/2025/01/salmon-steaks-grocery-getty-640x335.jpg",
+      "publishedAt": "2025-01-24T22:43:28Z",
+      "content": "A recall of salmon sold at Costco has been upgraded amid fears of possible listeria contamination.\r\nOfficials with the U.S. Food and Drug Administration (FDA) have classified the recall of Kirkland S… [+1245 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Ashley Parks",
+      "title": "Chicken Nugget Recall After Bones Found in Food",
+      "description": "Wegmans, a popular grocery retailer based on the East Coast, has issued a recall for its store-brand chicken nuggets.",
+      "url": "https://www.newsweek.com/chicken-nugget-recall-after-bones-found-2020684",
+      "urlToImage": "https://d.newsweek.com/en/full/2573332/photo-illustration-chicken-nuggets.jpg",
+      "publishedAt": "2025-01-24T22:39:26Z",
+      "content": "Wegmans has issued a voluntary recall for its FYFGA Chicken Breast Nuggets over concerns they may contain bone fragments. The Rochester, New York, retailer announced the recall on Friday and advised … [+3037 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Amanda Knox",
+      "title": "My Last Trial",
+      "description": "I’ve been fighting this charge for half my life.",
+      "url": "https://www.theatlantic.com/ideas/archive/2025/01/amanda-knox-murder-slander-trial/681457/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/p9G9nWTdByuN9EhAxxXdjO1WdRw=/0x50:2876x1548/1200x625/media/img/mt/2025/01/20250123_amanda_knox/original.jpg",
+      "publishedAt": "2025-01-24T20:33:00Z",
+      "content": "This article was featured in the One Story to Read Today newsletter. Sign up for it here.I’ve been on trial half my life. Yesterday, my 18-year legal drama finally came to an end when the Court of Ca… [+23138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SonicWall SMA1000 vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a SonicWall SMA1000 Appliance Management C…",
+      "url": "https://securityaffairs.com/173417/security/u-s-cisa-adds-sonicwall-sma1000-flaw-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-01-24T20:01:38Z",
+      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "J-magic malware campaign targets Juniper routers",
+      "description": "Threat actors are targeting Juniper routers with a custom backdoor in a campaign called code-named “J-magic,” attackers are exploiting a Magic Packet flaw. Lumen Technologies researchers reported that the J-magic campaign targets Juniper routers with a custom…",
+      "url": "https://securityaffairs.com/173408/security/j-magic-malware-campaign-targets-juniper-routers.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/J-magic-malware-campaign-targets-Juniper-routers.jpg",
+      "publishedAt": "2025-01-24T19:35:51Z",
+      "content": "J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day likely exploited in the wild\r\n | U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabi… [+133693 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "60% of trash collected curbside in Fredericton isn't actually trash, audit suggests",
+      "description": "An audit in Fredericton suggests more than 60 per cent of the material being put in garbage bags for curbside collection could be diverted from the landfill through things like recycling, donating or composting",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/fredericton-waste-audit-curbside-collection-diverted-landfill-1.7440829",
+      "urlToImage": "https://i.cbc.ca/1.7440873.1737744270!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/fredericton-waste.jpg?im=Resize%3D620",
+      "publishedAt": "2025-01-24T19:27:59Z",
+      "content": "An audit in Fredericton suggests more than 60 per cent of the material being put in garbage bags for curbside collection could be diverted from the landfill through things like recycling, donating or… [+3656 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -165,10 +256,10 @@
       "author": "Pierluigi Paganini",
       "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
+      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
     },
     {
       "source": {
@@ -178,10 +269,10 @@
       "author": "Pierluigi Paganini",
       "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
+      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
     },
     {
       "source": {
@@ -324,7 +415,7 @@
       "url": "https://securityaffairs.com/173361/security/cisco-meeting-management-critical-flaw.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
       "publishedAt": "2025-01-23T08:17:44Z",
-      "content": "Cisco addresses a critical privilege escalation bug in Meeting Management\r\n |��U.S. President Donald Trump granted a \"full and unconditional pardon\" to Ross Ulbricht, Silk Road creator\r\n | Pwn2Own Aut… [+133334 chars]"
+      "content": "Cisco addresses a critical privilege escalation bug in Meeting Management\r\n | U.S. President Donald Trump granted a \"full and unconditional pardon\" to Ross Ulbricht, Silk Road creator\r\n | Pwn2Own Aut… [+133334 chars]"
     },
     {
       "source": {
@@ -1066,86 +1157,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2569368/corn-snacks.png",
       "publishedAt": "2025-01-21T09:54:14Z",
       "content": "Corn puff snacks are being recalled because they contain milk that is not declared as an allergen on the packaging.\r\nSold under the Shirakiku brand, the recalled snacks were made by Wismettac Asian F… [+3064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Experts found multiple flaws in Mercedes-Benz infotainment system",
-      "description": "Kaspersky researchers shared details about multiple vulnerabilities impacting the Mercedes-Benz MBUX infotainment system. Kaspersky published research findings on the first-generation Mercedes-Benz User Experience (MBUX) infotainment system, specifically focu…",
-      "url": "https://securityaffairs.com/173275/hacking/mercedes-benz-infotainment-system-flaws.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/05/Mercedes.jpg",
-      "publishedAt": "2025-01-21T08:57:58Z",
-      "content": "Experts found multiple flaws in Mercedes-Benz infotainment system\r\n | HPE is investigating IntelBroker's claims of the company hack\r\n | Esperts found new DoNot Team APT group's Android malware\r\n | Ma… [+132648 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Is daveʼs bread gluten free?",
-      "description": "Is Dave’s Bread Gluten-Free? Understanding the Question Dave’s Bread is a popular American bakery chain known for its wide variety […]\nThe post Is daveʼs bread gluten free? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/is-daveʼs-bread-gluten-free/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-21T06:37:37Z",
-      "content": "Is Dave’s Bread Gluten-Free?\r\nUnderstanding the Question\r\nDave’s Bread is a popular American bakery chain known for its wide variety of bread products. However, when it comes to gluten-free options, … [+3819 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "HRS Editors",
-      "title": "Strategies to combat oxidative stress from fires and pollution",
-      "description": "Oxidative stress occurs when free radicals overwhelm the body’s natural antioxidant defenses. Chronic oxidative stress, exacerbated by environmental factors like pollution and radiation, can lead to inflammation, accelerated aging and diseases. Astaxanthin, c…",
-      "url": "https://www.naturalnews.com/2025-01-21-strategies-combat-oxidative-stress-from-fires-pollution.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Composition-with-bowl-of-turmeric-powder-1.jpeg",
-      "publishedAt": "2025-01-21T06:00:00Z",
-      "content": "<ul><li>Oxidative stress occurs when free radicals overwhelm the body's natural antioxidant defenses.</li><li>Chronic oxidative stress, exacerbated by environmental factors like pollution and radiati… [+8660 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "USDA program invests millions in food safety research and workforce training",
-      "description": "The USDA’s National Institute of Food and Agriculture (NIFA) is investing $14 million to support food safety research, outreach and workforce training. The investment will fund research and efforts to strengthen the safety of our nation’s food supply.   “Ensu…",
-      "url": "https://www.foodsafetynews.com/2025/01/usda-program-invests-millions-in-food-safety-research-and-workforce-training/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/829/957/0Mn5r3E1XY0kqWppQWPoD9kg7/f4e5783f0a4bb78743024c014173b98bb349c66e.png",
-      "publishedAt": "2025-01-21T05:05:00Z",
-      "content": "The USDA’s National Institute of Food and Agriculture (NIFA) is investing $14 million to support food safety research, outreach and workforce training. The investment will fund research and efforts t… [+2433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Full report on Listeria models work published",
-      "description": "More details have been shared about the process of developing models to improve knowledge about the risks associated with Listeria monocytogenes. The Food and Agriculture Organization of the United Nations (FAO) and the World Health Organization (WHO) revised…",
-      "url": "https://www.foodsafetynews.com/2025/01/full-report-on-listeria-models-work-published/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/078/829/766/KZA1qL8r0zlEyw5n6epakDXbM/7e95726bc2c9afdbe6d6d26dac96ac8333b077bd.png",
-      "publishedAt": "2025-01-21T05:03:00Z",
-      "content": "More details have been shared about the process of developing models to improve knowledge about the risks associated with Listeria monocytogenes.\r\nThe Food and Agriculture Organization of the United … [+4172 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Eggs recalled due to Salmonella contamination: Check affected brands, full product list, and dangers of the bacteria",
-      "description": "The Canadian Food Inspection Agency has recalled six egg brands due to potential salmonella contamination. Consumers should discard or return the eggs to the point of purchase. The affected brands include Golden Valley, Compliments, Foremost, IGA, No Name, an…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/eggs-recalled-due-to-salmonella-contamination-check-affected-brands-full-product-list-and-dangers-of-the-bacteria/articleshow/117412724.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-117413544,width-1200,height-630,imgsize-1262531,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-01-21T03:58:44Z",
-      "content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
     }
   ],
-  "totalResults": 88,
+  "totalResults": 89,
   "filteredCount": 2
 }
