@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-27T06:30:05.478Z",
+  "lastUpdated": "2025-01-27T12:41:23.577Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Westernjournal.com"
+      },
+      "author": "Ben Zeisloft",
+      "title": "Horrifying Discovery Shows Disease Creating 'Zombie Deer' May Be Close to Jumping Species",
+      "description": "There is a risk of chronic wasting disease jumping from deer to other species, presenting risks to the food supply and global economy.",
+      "url": "https://www.westernjournal.com/horrifying-discovery-shows-disease-creating-zombie-deer-may-close-jumping-species/",
+      "urlToImage": "https://www.westernjournal.com/wp-content/uploads/2025/01/deer.jpg",
+      "publishedAt": "2025-01-26T12:37:44Z",
+      "content": "There is a risk of chronic wasting disease, also known as CWD, jumping from animals like deer over to humans, according to a new report from researchers at the University of Minnesota.\r\nThe report, p… [+2526 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cisco warns of a ClamAV bug with PoC exploit",
+      "description": "Cisco addressed a ClamAV denial-of-service (DoS) vulnerability, and experts warn of the availability of a proof-of-concept (PoC) exploit code. Cisco has released security updates to address a ClamAV denial-of-service (DoS) vulnerability tracked as CVE-2025-20…",
+      "url": "https://securityaffairs.com/173446/uncategorized/cisco-fixed-clamav-dos-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/02/Cisco-clamav-logo.png",
+      "publishedAt": "2025-01-26T06:58:23Z",
+      "content": "Cisco warns of a ClamAV bug with PoC exploit\r\n | Subaru Starlink flaw allowed experts to remotely hack cars\r\n | U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n … [+133894 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1105,32 +1131,6 @@
       "urlToImage": "https://focus.independent.ie/thumbor/6au9887srtY1OxX3wXypIrto7sA=/629x460/smart/prod-mh-ireland/677c9790-1d9d-4dba-a16a-9f366d5180e0/0df3ed5b-b54c-4872-a272-1992e481dd8b/677c9790-1d9d-4dba-a16a-9f366d5180e0.jpg",
       "publishedAt": "2025-01-21T17:48:26Z",
       "content": "Farmed salmon that escaped from a cage in Mayo last year are feared to be breeding with their wild cousins and could weaken the species chances of survival.An investigation into the break-out last Au… [+2290 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Publix Food Recalls: Full List of Products Impacted in Eight States",
-      "description": "There are eight states in the U.S. with Publix stores, meaning that the chain's recalls affect millions of Americans.",
-      "url": "https://www.newsweek.com/publix-food-recalls-full-list-products-2018251",
-      "urlToImage": "https://d.newsweek.com/en/full/2569724/publix.jpg",
-      "publishedAt": "2025-01-21T17:27:34Z",
-      "content": "There have been three food recalls affecting Publix Super Markets' stores and products in the past three months, according to information on their website and the U.S. Food &amp; Drug Association (FD… [+4367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New Mirai botnet variant Murdoc Botnet targets AVTECH IP cameras and Huawei HG532 routers",
-      "description": "Researchers warn of a campaign exploiting AVTECH IP cameras and Huawei HG532 routers to create a Mirai botnet variant called Murdoc Botnet. Murdoc Botnet is a new Mirai botnet variant that targets vulnerabilities in AVTECH IP cameras and Huawei HG532 routers,…",
-      "url": "https://securityaffairs.com/173294/cyber-crime/new-mirai-botnet-variant-murdoc-botnet-targets-avtech-ip-cameras-and-huawei-hg532-routers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-33.png",
-      "publishedAt": "2025-01-21T16:41:05Z",
-      "content": "New Mirai botnet variant Murdoc Botnet targets AVTECH IP cameras and Huawei HG532 routers\r\n | CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests\r\n | Experts found multipl… [+132826 chars]"
     }
   ],
   "totalResults": 87,
