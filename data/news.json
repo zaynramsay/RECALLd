@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-27T01:42:14.883Z",
+  "lastUpdated": "2025-01-27T06:30:05.478Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Cassie B.",
+      "title": "Forever chemicals in farmland sludge threaten health, EPA admits",
+      "description": "The EPA warns that sewage sludge used as farmland fertilizer contains dangerous “forever chemicals” (PFAS), posing cancer and health risks. PFAS in sludge exceed safety thresholds, contaminating soil, water, and food like milk, beef, and eggs. Over 2 million …",
+      "url": "https://www.naturalnews.com/2025-01-26-forever-chemicals-farmland-sludge-threaten-health-epa.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Sludge.jpg",
+      "publishedAt": "2025-01-26T06:00:00Z",
+      "content": "<ul><li>The EPA warns that sewage sludge used as farmland fertilizer contains dangerous \"forever chemicals\" (PFAS), posing cancer and health risks.</li><li>PFAS in sludge exceed safety thresholds, co… [+4393 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -259,7 +272,7 @@
       "url": "https://www.cbsnews.com/news/fda-pause-foodborne-outbreak-probes-updates-communications/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/06/e095d337-841e-4ac7-8dff-84d8c0504dea/thumbnail/1200x630g9/b421489eeda1725edf0546b7debc636b/gettyimages-1227710472.jpg?v=e306e7b9fefc168c00baa623d76d1eaf",
       "publishedAt": "2025-01-24T16:07:20Z",
-      "content": "Multiple federal health agencies have stopped releasing some key health information — including updates on some outbreak investigations — amid a department-wide communications \"pause\" ordered by the �� [+5053 chars]"
+      "content": "Multiple federal health agencies have stopped releasing some key health information — including updates on some outbreak investigations — amid a department-wide communications \"pause\" ordered by the … [+5053 chars]"
     },
     {
       "source": {
@@ -1118,19 +1131,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-33.png",
       "publishedAt": "2025-01-21T16:41:05Z",
       "content": "New Mirai botnet variant Murdoc Botnet targets AVTECH IP cameras and Huawei HG532 routers\r\n | CERT-UA warned of scammers impersonating the agency using fake AnyDesk requests\r\n | Experts found multipl… [+132826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chris Stoodley",
-      "title": "17 hospitalized due to salmonella outbreak linked to mini pastries: Here's what to know",
-      "description": "The Public Health Agency of Canada estimates nearly 1,600 people may have been infected with salmonella in connection with mini pastries recall.",
-      "url": "https://ca.style.yahoo.com/17-hospitalized-due-to-salmonella-outbreak-linked-to-mini-pastries-heres-what-to-know-153309086.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vl44BSoLcuGJtOieDCQlYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/e27674e0-3e04-11ef-b7dd-6b9590fad2aa",
-      "publishedAt": "2025-01-21T15:33:09Z",
-      "content": "This article is for informational purposes only and is not a substitute for professional medical advice, diagnosis or treatment. Contact a qualified medical professional before engaging in any physic… [+6722 chars]"
     }
   ],
   "totalResults": 87,
