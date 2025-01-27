@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-01-26T18:26:33.446Z",
+  "lastUpdated": "2025-01-27T01:42:14.883Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Unraveling the Mysteries of Thyroid Health",
+      "description": "Dr. Alan Christianson is a leading expert in the field of thyroid disorders, and his insights on this topic are invaluable. In fact, his expertise is so insightful that I’ve invited him to be the lead consultant for our upcoming health coaching program. This …",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/01/26/unraveling-mysteries-thyroid-health.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/January/FB/unraveling-mysteries-thyroid-health-fb.jpg",
+      "publishedAt": "2025-01-26T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Sodiq Ojuroungbe",
+      "title": "Inside Lagos motor parks where refuse competes with commuters",
+      "description": "Despite massive advocacy campaigns by the Lagos State Waste Management Authority to sensitise residents on the tenets of effective waste management and proper waste disposal, to achieve a cleaner and healthier environment, motor parks operate without waste co…",
+      "url": "https://punchng.com/inside-lagos-motor-parks-where-refuse-competes-with-commuters/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/01/25201852/MOTOR-PARK.jpg",
+      "publishedAt": "2025-01-25T23:35:45Z",
+      "content": "Despite massive advocacy campaigns by the Lagos State Waste Management Authority to sensitise residents on the tenets of effective waste management and proper waste disposal, to achieve a cleaner and… [+20076 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Baz Ruddick",
+      "title": "Great Barrier Reef at risk of contamination by potentially toxic soil",
+      "description": "A hole in a soil pond wall in north Queensland has allowed potentially toxic material to seep through to two world heritage areas.",
+      "url": "https://www.abc.net.au/news/2025-01-26/qld-government-urged-to-fix-great-barrier-reef-wall-hole/104836792",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/11ccdfe3ee282ff17f0c20100766ec63?impolicy=wcms_watermark_news&cropH=1512&cropW=2688&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-01-25T22:12:21Z",
+      "content": "On the doorstep of Hinchinbrook Island, on the boundary of the Great Barrier Reef Marine Park, is a 53-hectare site used in the nineties and early 2000s to dump potentially toxic dredge spoil. \r\nAll … [+8685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Subaru Starlink flaw allowed experts to remotely hack cars",
+      "description": "Subaru Starlink flaw exposed vehicles and customer accounts in the US, Canada, and Japan to remote attacks. Popular security researcher Sam Curry and he colleague Shubham Shah discovered a vulnerability in Subaru’s Starlink connected vehicle service that expo…",
+      "url": "https://securityaffairs.com/173434/security/subaru-starlink-vulnerability-remote-attacks.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-40.png",
+      "publishedAt": "2025-01-25T19:26:30Z",
+      "content": "Subaru Starlink flaw allowed experts to remotely hack cars\r\n | U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper router… [+133845 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -207,7 +259,7 @@
       "url": "https://www.cbsnews.com/news/fda-pause-foodborne-outbreak-probes-updates-communications/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/06/e095d337-841e-4ac7-8dff-84d8c0504dea/thumbnail/1200x630g9/b421489eeda1725edf0546b7debc636b/gettyimages-1227710472.jpg?v=e306e7b9fefc168c00baa623d76d1eaf",
       "publishedAt": "2025-01-24T16:07:20Z",
-      "content": "Multiple federal health agencies have stopped releasing some key health information — including updates on some outbreak investigations — amid a department-wide communications \"pause\" ordered by the … [+5053 chars]"
+      "content": "Multiple federal health agencies have stopped releasing some key health information — including updates on some outbreak investigations — amid a department-wide communications \"pause\" ordered by the �� [+5053 chars]"
     },
     {
       "source": {
@@ -334,10 +386,10 @@
       "author": "Pierluigi Paganini",
       "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
+      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
     },
     {
       "source": {
@@ -347,10 +399,10 @@
       "author": "Pierluigi Paganini",
       "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
+      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
+      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
     },
     {
       "source": {
@@ -1079,58 +1131,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vl44BSoLcuGJtOieDCQlYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/e27674e0-3e04-11ef-b7dd-6b9590fad2aa",
       "publishedAt": "2025-01-21T15:33:09Z",
       "content": "This article is for informational purposes only and is not a substitute for professional medical advice, diagnosis or treatment. Contact a qualified medical professional before engaging in any physic… [+6722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Spain Water Purifier Market Forecast Report by Technology, Distribution Channel, End User, City and Company Analysis 2025-2033",
-      "description": "Dublin, Jan. 21, 2025 (GLOBE NEWSWIRE) -- The \"Spain Water Purifier Market Forecast Report by Technology, Distribution Channel, End User, City and Company Analysis 2025-2033\" report has been added to ResearchAndMarkets.com's offering.The Spanish water Purifie…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/21/3012877/28124/en/Spain-Water-Purifier-Market-Forecast-Report-by-Technology-Distribution-Channel-End-User-City-and-Company-Analysis-2025-2033.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-21T15:31:00Z",
-      "content": "Dublin, Jan. 21, 2025 (GLOBE NEWSWIRE) -- The \"Spain Water Purifier Market Forecast Report by Technology, Distribution Channel, End User, City and Company Analysis 2025-2033\" report has been added to… [+9130 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Atlas Obscura"
-      },
-      "author": "Atlas Obscura",
-      "title": "How Will California’s Wildfires Affect Wildlife?",
-      "description": "From fleeing mountain lions to scorched soil, the aftermath of intense fires shows an ecosystem transformed. \nThis piece was originally published in The Guardian and appears here as part of our Climate Desk collaboration.\r\n\n\nBeth Pratt has spent her career pr…",
-      "url": "https://www.atlasobscura.com/articles/wild-animals-california-wildfires",
-      "urlToImage": "https://img.atlasobscura.com/uHGNKjwHCALp4IgG35--ORbiWXY_D-Y6k5CmjiKZWAE/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9hMTFmYzkzNS04/MmExLTQxMzMtYTA1/OC04YmQwNGVhODZl/MjczMDUyOWYwYzQ5/NmMzMGE5NDRfMjk5/OTE5MDMzNTNfZTIx/ZDdmZDBhOF81ay5q/cGc.jpg",
-      "publishedAt": "2025-01-21T15:05:00Z",
-      "content": "This piece was originally published in The Guardian and appears here as part of our Climate Desk collaboration.\r\nBeth Pratt has spent her career protecting Los Angeles’s mountain lions, which roam an… [+6690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make cbd gummy candy?",
-      "description": "How to Make CBD Gummy Candy: A Step-by-Step Guide Introduction CBD gummy candy is a popular and versatile treat that […]\nThe post How to make cbd gummy candy? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-cbd-gummy-candy/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-21T14:24:15Z",
-      "content": "How to Make CBD Gummy Candy: A Step-by-Step Guide\r\nIntroduction\r\nCBD gummy candy is a popular and versatile treat that combines the benefits of CBD oil with the fun and familiar taste of gummies. In … [+4139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Atlanta Supersource, Inc. - 693399 - 01/08/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/atlanta-supersource-inc-693399-01082025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-21T14:20:08Z",
-      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-29\r\nProduct:\r\nDrugs \r\nRecipient:\r\nAtlanta Supersource, Inc.\r\n3655 Kennesaw 75 Parkway NW, Suite 100Kennesaw, GA30144-6502United States\r\nIss… [+11803 chars]"
     }
   ],
   "totalResults": 87,
