@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-01-27T12:41:23.577Z",
+  "lastUpdated": "2025-01-27T18:28:46.593Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Natalie B. Compton",
+      "title": "Tulum used to be for backpackers. Now it’s ‘boho-chic’",
+      "description": "The rise of Instagram and Airbnb has influenced Tulum’s rapid transformation.",
+      "url": "https://www.washingtonpost.com/travel/2025/01/09/tulum-mexico-tourism-airport-train/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/RZLOWYS7OJFINO2FRYY7INNEI4.JPG?auth=d539a57c34ca00bd8c14066b1805df4c218e8e1a0274fba1e391be1389538f75&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-01-26T18:00:00Z",
+      "content": "Walk in either direction and youll find a steady stream of beach clubs and hotels ranging from thatched-roof cabanas to all-inclusive chains. There are tourists in thong bikinis and families enjoying… [+11452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IPWatchdog.com"
+      },
+      "author": "Steve Brachmann",
+      "title": "CAFC Declines to Declare RDOE Subsumed by 1952 Patent Act Despite ‘Compelling’ Arguments",
+      "description": "On January 25, the U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision in Steuben Foods, Inc. v. Shibuya Hoppman Corp., reversing-in-part the District of Delaware's post-trial rulings of  judgment as a matter of law (JMOL) of n…",
+      "url": "https://ipwatchdog.com/2025/01/26/cafc-declines-declare-rdoe-subsumed-1952-patent-act-compelling-argument/id=185369/",
+      "urlToImage": "https://ipwatchdog.com/wp-content/uploads/2023/08/Depositphotos_421287828_XL.jpg",
+      "publishedAt": "2025-01-26T17:15:29Z",
+      "content": "“[T]he CAFC found no reason to affirm a noninfringement ruling under the reverse doctrine of equivalents (RDOE) for the first time ever, since it was improper for the district court to grant JMOL in … [+6139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Change Healthcare data breach exposed the private data of over half the U.S.",
+      "description": "The Change Healthcare data breach is worse than initially estimated: approximately 190 million people have been affected. The Change Healthcare data breach is worse than initially estimated, the incident has impacted 190 million people. In October 2024, Unite…",
+      "url": "https://securityaffairs.com/173467/data-breach/change-healthcare-data-breach-190m-people.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/10/image-27.png",
+      "publishedAt": "2025-01-26T16:09:46Z",
+      "content": "Change Healthcare data breach exposed the private data of over half the U.S.\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 30\r\n | Security Affairs newsletter Round 508 by Pierluigi Paganini INTERNATI… [+134110 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Truthout"
+      },
+      "author": "Mike Ludwig",
+      "title": "Trump Withdraws Proposed PFAS Limitations, Giving “Green Light” to Polluters",
+      "description": "The withdrawn proposal would limit the amount of PFAS chemical plants can dump into the water supply.",
+      "url": "https://truthout.org/articles/trump-withdraws-proposed-pfas-limitations-giving-green-light-to-polluters/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/01/GettyImages-2193705561-scaled.jpg",
+      "publishedAt": "2025-01-26T15:33:00Z",
+      "content": "Faced with a silent but widespread threat to public health, environmental groups applauded the Biden administration for taking major steps to regulate and remove toxic PFAS forever chemicals from dri… [+8667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 30",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Gmail For Exfiltration: Malicious npm Packages Target Solana Private Keys and Drain Victims’ Wallets       Threat Bulletin: …",
+      "url": "https://securityaffairs.com/173461/malware/security-affairs-malware-newsletter-round-30.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-01-26T14:43:24Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 30\r\n | Security Affairs newsletter Round 508 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Cisco warns of a ClamAV bug with PoC exploit\r\n | Subaru Starlink… [+134029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 508 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Subaru Starlin…",
+      "url": "https://securityaffairs.com/173454/breaking-news/security-affairs-newsletter-round-508-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-01-26T14:30:13Z",
+      "content": "Security Affairs newsletter Round 508 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Cisco warns of a ClamAV bug with PoC exploit\r\n | Subaru Starlink flaw allowed experts to remotely hack cars\r\n | U… [+133980 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "What is a sqf certification?",
+      "description": "What is a SQF Certification? Introduction The SQF (Safe Quality Food) certification is a globally recognized standard for food safety […]\nThe post What is a sqf certification? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/what-is-a-sqf-certification/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-26T14:23:48Z",
+      "content": "What is a SQF Certification?\r\nIntroduction\r\nThe SQF (Safe Quality Food) certification is a globally recognized standard for food safety management systems. It is a voluntary certification program tha… [+5909 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Alice Gibbs",
+      "title": "Woman Leaves Chicken Breast Out To Defrost, Cat Seizes His Opportunity",
+      "description": "Spicy the cat didn't seem too concerned when his crime was discovered.",
+      "url": "https://www.newsweek.com/woman-leaves-chicken-breast-defrost-cat-seizes-opportunity-2020166",
+      "urlToImage": "https://d.newsweek.com/en/full/2572539/chicken-spicy.png",
+      "publishedAt": "2025-01-26T14:00:01Z",
+      "content": "A mischievous one-year-old cat living in New York City has gained viral attention after pulling off a bold heist: snatching an entire raw chicken breast from the kitchen counter and devouring it.\r\nSp… [+2405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "Yes, Food Recalls Rose in 2024. Here's What Comes Next",
+      "description": "Deli meat, carrots and onions were just a few food products affected by recalls in 2024.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/yes-food-recalls-rose-in-2024-heres-what-comes-next/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/fb4536ab9f954e99f982ac33961d154f3cd0957a/hub/2024/10/14/6b8bba8a-c069-46b7-ba7b-accf4049b1f8/meat-recall-00000.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-26T14:00:00Z",
+      "content": "In 2024, food recalls in the US seemed to soar. Between headline-making outbreaks of listeria and E. coli and problems with undeclared allergens and other possible contaminants, there were 1,908 food… [+7152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Véronique Plouffe, PhD candidate in Feminist and Gender Studies, L’Université d’Ottawa/University of Ottawa",
+      "title": "Canada’s claim that it champions human rights is at odds with its mining practices",
+      "description": "Despite its feminist ambitions, taking a closer look at Canada’s role in countries where it has significant mining interests reveals a more complex and nuanced image of Canada in the world.",
+      "url": "https://theconversation.com/canadas-claim-that-it-champions-human-rights-is-at-odds-with-its-mining-practices-246757",
+      "urlToImage": "https://images.theconversation.com/files/643366/original/file-20250119-16-vjzkot.JPG?ixlib=rb-4.1.0&rect=0%2C185%2C6722%2C3361&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-01-26T13:16:51Z",
+      "content": "Canada presents itself as a gender equality and human rights champion both at home and abroad. But its also a global leader in mining, an industry with an abysmal human rights record. \r\nUnder the pre… [+5710 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1014,125 +1144,8 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/fda.png",
       "publishedAt": "2025-01-22T06:00:00Z",
       "content": "<ul><li>The FDA has recalled Yu Yee Five Spice Powder in 15 states due to lead contamination, affecting 62 cases sold primarily in the Northeast, Midwest and the South.</li><li>Lead is a potent neuro… [+4436 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Juancole.com"
-      },
-      "author": "Middle East Monitor",
-      "title": "The long-term Impact of Israel’s Gaza Genocide will only become Clear as the Toxic Dust Settles",
-      "description": "by Dr Emma Keelan   by Dr Brendan Ciarán Browne ( Middle East Monitor ) - As the toxic dust begins to settle, it is hard to even fathom the complex feelings of our Palestinian friends and colleagues, many of whom have families in Gaza who are beginning the ar…",
-      "url": "https://www.juancole.com/2025/01/israels-genocide-settles.html",
-      "urlToImage": "https://media.juancole.com/images/2025/01/IMG_4932.jpg",
-      "publishedAt": "2025-01-22T05:06:26Z",
-      "content": "( Middle East Monitor ) – As the toxic dust begins to settle, it is hard to even fathom the complex feelings of our Palestinian friends and colleagues, many of whom have families in Gaza who are begi… [+8049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cdc.gov"
-      },
-      "author": null,
-      "title": "Cyclospora Genotypic Variations and Associated Epidemiologic Characteristics, United States, 2018–2021",
-      "description": "<em>Cyclospora</em> Genotypic Variations, United States",
-      "url": "https://wwwnc.cdc.gov/eid/article/31/2/24-0399_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2025-01-22T05:00:00Z",
-      "content": "Cyclospora spp. are foodborne parasites that cause seasonal outbreaks of cyclosporiasis in the United States (1). Cases of this diarrheal disease are often sporadic and geographically dispersed; thos… [+24404 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make chinese sausage?",
-      "description": "How to Make Chinese Sausage: A Step-by-Step Guide Chinese sausage, also known as Chinese hot sausage or Chinese chow mein […]\nThe post How to make chinese sausage? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-chinese-sausage/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-22T00:27:50Z",
-      "content": "How to Make Chinese Sausage: A Step-by-Step Guide\r\nChinese sausage, also known as Chinese hot sausage or Chinese chow mein sausage, is a type of sausage that originated in China and has been populari… [+5449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Euronews",
-      "title": "After years of concerns raised by scientists, EU has banned Bisphenol A from contact with food",
-      "description": "After years of concerns raised by scientists, EU has banned Bisphenol A from contact with foodThe European Union regulation banning the use of bisphenol A in materials that come into contact with food officially took effect on 20 January, in an attempt to min…",
-      "url": "https://freerepublic.com/focus/f-news/4291700/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-01-21T23:18:26Z",
-      "content": "Skip to comments.\r\nAfter years of concerns raised by scientists, EU has banned Bisphenol A from contact with foodEuronews ^\r\n | 20/01/2025\r\n | Gregoire Lory\r\nPosted on 01/21/2025 3:18:26 PM PST by ni… [+3253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Former CIA analyst pleaded guilty to leaking top-secret documents",
-      "description": "A former CIA analyst, Asif William Rahman, pleaded guilty to leaking top-secret National Defense Information on social media in 2024. Asif William Rahman, a former CIA analyst with Top-Secret clearance since 2016, pleaded guilty to leaking classified informat…",
-      "url": "https://securityaffairs.com/173302/intelligence/former-cia-analyst-pleaded-guilty-to-leaking-top-secret-docs.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2017/03/CIA-Wikileaks-Vault7.jpg",
-      "publishedAt": "2025-01-21T22:25:25Z",
-      "content": "Former CIA analyst pleaded guilty to leaking top-secret documents\r\n | New Mirai botnet variant Murdoc Botnet targets AVTECH IP cameras and Huawei HG532 routers\r\n | CERT-UA warned of scammers imperson… [+132896 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UN News"
-      },
-      "author": "United Nations",
-      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-      "description": "In Mali, the UN and its partners, together with the country’s transitional authorities, today launched a $770 million Humanitarian Needs and Response Plan to support millions across Mali. The Plan aims to address the needs of 4.7 million people affected by co…",
-      "url": "https://press.un.org/en/2025/db250121.doc.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-01-21T20:22:51Z",
-      "content": "The following is a near-verbatim transcript of todays briefing by Farhan Haq, Deputy Spokesman for the Secretary-General.\r\n**Briefing today\r\nGood afternoon, everyone,\r\nToday, my guest will be Muhanna… [+30276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thekitchn.com"
-      },
-      "author": "Patty Catalano",
-      "title": "I Never Bag Groceries When Shopping at Aldi — I Always Do This Instead (Saves So Much Time!)",
-      "description": "I wish I tried it sooner, TBH.\nREAD MORE...",
-      "url": "https://www.thekitchn.com/aldi-cooler-grocery-shopping-tip-23705993",
-      "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/stock%2Fshutterstock_2498854023-tk-crop",
-      "publishedAt": "2025-01-21T19:30:00Z",
-      "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nEvery grocery store has its own perks and quirk… [+2109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Gary Fooks, Professor in Criminology, University of Bristol",
-      "title": "Lobbying in ‘forever chemicals’ industry is rife across Europe – the inside story of our investigation",
-      "description": "The scale of the chemical industry’s lobbying campaign and clean-up costs for PFAS have been revealed by a new collaboration of scientists and journalists.",
-      "url": "https://theconversation.com/lobbying-in-forever-chemicals-industry-is-rife-across-europe-the-inside-story-of-our-investigation-247436",
-      "urlToImage": "https://images.theconversation.com/files/643575/original/file-20250120-15-c8dmcs.jpg?ixlib=rb-4.1.0&rect=454%2C351%2C5257%2C2624&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-01-21T18:23:22Z",
-      "content": "Forever chemical or PFAS contamination is widespread, but so too are lobbying efforts. Melnikov Dmitriy/Shutterstock\r\nA team of academic researchers, lawyers and journalists from 16 European countrie… [+8466 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "author": "Caroline O'Doherty",
-      "title": "Escaped fish farm salmon feared to be breeding weakness into wild cousins",
-      "description": "Farmed salmon that escaped from a cage in Mayo last year are feared to be breeding with their wild cousins and could weaken the species’ chances of survival.",
-      "url": "https://www.independent.ie/irish-news/escaped-fish-farm-salmon-feared-to-be-breeding-weakness-into-wild-cousins/a43302807.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/6au9887srtY1OxX3wXypIrto7sA=/629x460/smart/prod-mh-ireland/677c9790-1d9d-4dba-a16a-9f366d5180e0/0df3ed5b-b54c-4872-a272-1992e481dd8b/677c9790-1d9d-4dba-a16a-9f366d5180e0.jpg",
-      "publishedAt": "2025-01-21T17:48:26Z",
-      "content": "Farmed salmon that escaped from a cage in Mayo last year are feared to be breeding with their wild cousins and could weaken the species chances of survival.An investigation into the break-out last Au… [+2290 chars]"
     }
   ],
-  "totalResults": 87,
-  "filteredCount": 2
+  "totalResults": 88,
+  "filteredCount": 1
 }
