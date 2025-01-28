@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-01-28T01:39:58.173Z",
+  "lastUpdated": "2025-01-28T06:29:07.846Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Jonan Pilet",
+      "title": "FDA warns bakery for food safety violations, including sanitation and allergen control failures",
+      "description": "As part of its enforcement activities, the Food and Drug Administration (FDA) sends warning letters to entities under its jurisdiction. Some letters are not posted for public view until weeks or months after they are sent. Business owners have 15 days to resp…",
+      "url": "https://www.foodsafetynews.com/2025/01/fda-warns-bakery-for-food-safety-violations-including-sanitation-and-allergen-control-failures/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/270/418/P523LdrvK61kbpxKY7nypx4jW/9ac98936189abf070e27e847e372bcad1acbb550.png",
+      "publishedAt": "2025-01-27T05:04:00Z",
+      "content": "As part of its enforcement activities, the Food and Drug Administration (FDA) sends warning letters to entities under its jurisdiction. Some letters are not posted for public view until weeks or mont… [+3791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Why canʼt You eat raw flour?",
+      "description": "Why Can’t You Eat Raw Flour? Raw flour, a staple ingredient in many baked goods, can be a health hazard […]\nThe post Why canʼt You eat raw flour? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/why-canʼt-you-eat-raw-flour/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-01-27T02:43:02Z",
+      "content": "Why Can’t You Eat Raw Flour?\r\nRaw flour, a staple ingredient in many baked goods, can be a health hazard if not handled and consumed properly. The main reason for this is the presence of E. coli, a t… [+5302 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -467,7 +493,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312363",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0312363.g012&size=inline",
       "publishedAt": "2025-01-24T14:00:00Z",
-      "content": "Abstract\r\nThe traditional method of corn quality detection relies heavily on the subjective judgment of inspectors and suffers from a high error rate. To address these issues, this study employs the … [+44802 chars]"
+      "content": "Abstract\r\nThe traditional method of corn quality detection relies heavily on the subjective judgment of inspectors and suffers from a high error rate. To address these issues, this study employs the ��� [+44802 chars]"
     },
     {
       "source": {
@@ -669,19 +695,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Meimei Xu, Shan Yuan, Xing Luo, Mengsi Xu, Guangze Hu, Zhe He, Xinyuan Yang, Rui Gao",
-      "title": "Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke",
-      "description": "Long non-coding RNAs (lncRNAs) are among the most abundant types of non-coding RNAs in the genome and exhibit particularly high expression levels in the brain, where they play crucial roles in various neurophysiological and neuropathological processes. Althou…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317710",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317710.g013&size=inline",
-      "publishedAt": "2025-01-23T14:00:00Z",
-      "content": "Citation: Xu M, Yuan S, Luo X, Xu M, Hu G, He Z, et al. (2025) Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke. PLoS ONE 20(1… [+57283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Joël Edoux Eric Siko, Kendra Joy Dahmer, Zayina Zondervenni Manoharan, Ajithkumar Muthukumar, Heather K. Amato, Christopher LeBoa, Michael Harris, Venkateshprabhu Janagaraj, Malathi Manuel, Tintu Varghese, Parfait Houngbegnon, Nils Pilotte, Bernadin Bouko, Souad Saïdou, Adrian J. F. Luty, Rohan Michael Ramesh, Moudachirou Ibikounlé, Sitara S. R. Ajjampur, Amy J. Pickering",
       "title": "Environmental surveillance of soil-transmitted helminths and other enteric pathogens in settings without networked wastewater infrastructure",
       "description": "Soil-transmitted helminths (STH) are one of the most prevalent enteric infections world-wide. To control STH-related morbidity, the World Health Organization recommends targeted deworming and improvements in water, sanitation and hygiene. Current surveillance…",
@@ -689,6 +702,19 @@
       "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000337.g003&size=inline",
       "publishedAt": "2025-01-23T14:00:00Z",
       "content": "Abstract\r\nSoil-transmitted helminths (STH) are one of the most prevalent enteric infections world-wide. To control STH-related morbidity, the World Health Organization recommends targeted deworming a… [+53253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Meimei Xu, Shan Yuan, Xing Luo, Mengsi Xu, Guangze Hu, Zhe He, Xinyuan Yang, Rui Gao",
+      "title": "Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke",
+      "description": "Long non-coding RNAs (lncRNAs) are among the most abundant types of non-coding RNAs in the genome and exhibit particularly high expression levels in the brain, where they play crucial roles in various neurophysiological and neuropathological processes. Althou…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317710",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317710.g013&size=inline",
+      "publishedAt": "2025-01-23T14:00:00Z",
+      "content": "Citation: Xu M, Yuan S, Luo X, Xu M, Hu G, He Z, et al. (2025) Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke. PLoS ONE 20(1… [+57283 chars]"
     },
     {
       "source": {
@@ -1131,21 +1157,8 @@
       "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
       "publishedAt": "2025-01-22T07:40:33Z",
       "content": "Is Soy Lecithin Gluten-Free?\r\nUnderstanding Soy Lecithin\r\nSoy lecithin is a natural emulsifier derived from soybeans. It is commonly used in food products, pharmaceuticals, and cosmetics due to its a… [+4650 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "World News in Brief: Hostilities in northeast Syria, response plan in Mali, Uyghur deportations in Thailand",
-      "description": "The UN Office for the Coordination of Humanitarian Affairs (OCHA) issued an alert on Tuesday over intensifying hostilities in the northeast in recent days.",
-      "url": "https://www.globalsecurity.org/military/library/news/2025/01/mil-250121-unnews03.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-01-22T07:27:40Z",
-      "content": "21 January 2025 - The UN Office for the Coordination of Humanitarian Affairs (OCHA) issued an alert on Tuesday over intensifying hostilities in the northeast in recent days. \r\nBetween 16 and 18 Janua… [+4737 chars]"
     }
   ],
-  "totalResults": 88,
+  "totalResults": 89,
   "filteredCount": 1
 }
