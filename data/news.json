@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-01-27T18:28:46.593Z",
+  "lastUpdated": "2025-01-28T01:39:58.173Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Hawaii News Now"
+      },
+      "author": "Hnn Staff",
+      "title": "Schatz introduces resolution amid Trump’s freeze on critical public health alerts",
+      "description": "Sen. Brian Schatz is one of 10 U.S. senators calling for uninterrupted health warning services for the American people.",
+      "url": "https://www.hawaiinewsnow.com/2025/01/26/schatz-introduces-resolution-amid-trumps-freeze-critical-public-health-alerts/",
+      "urlToImage": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/ELZCISK2YZB27G3PQZBFTLPBXA.png?auth=187d81808edc8ce28ca8621a46a3d41171e95d4a79f22d4c7c3d31cfe2af0992&width=1200&height=600&smart=true",
+      "publishedAt": "2025-01-26T22:31:46Z",
+      "content": "HONOLULU (HawaiiNewsNow) - Sen. Brian Schatz is one of 10 U.S. senators calling for uninterrupted health warning services for the American people. \r\nThis comes following reports that the Trump Admini… [+414 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
@@ -656,19 +669,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Joël Edoux Eric Siko, Kendra Joy Dahmer, Zayina Zondervenni Manoharan, Ajithkumar Muthukumar, Heather K. Amato, Christopher LeBoa, Michael Harris, Venkateshprabhu Janagaraj, Malathi Manuel, Tintu Varghese, Parfait Houngbegnon, Nils Pilotte, Bernadin Bouko, Souad Saïdou, Adrian J. F. Luty, Rohan Michael Ramesh, Moudachirou Ibikounlé, Sitara S. R. Ajjampur, Amy J. Pickering",
-      "title": "Environmental surveillance of soil-transmitted helminths and other enteric pathogens in settings without networked wastewater infrastructure",
-      "description": "Soil-transmitted helminths (STH) are one of the most prevalent enteric infections world-wide. To control STH-related morbidity, the World Health Organization recommends targeted deworming and improvements in water, sanitation and hygiene. Current surveillance…",
-      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000337",
-      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000337.g003&size=inline",
-      "publishedAt": "2025-01-23T14:00:00Z",
-      "content": "Abstract\r\nSoil-transmitted helminths (STH) are one of the most prevalent enteric infections world-wide. To control STH-related morbidity, the World Health Organization recommends targeted deworming a… [+53253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Meimei Xu, Shan Yuan, Xing Luo, Mengsi Xu, Guangze Hu, Zhe He, Xinyuan Yang, Rui Gao",
       "title": "Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke",
       "description": "Long non-coding RNAs (lncRNAs) are among the most abundant types of non-coding RNAs in the genome and exhibit particularly high expression levels in the brain, where they play crucial roles in various neurophysiological and neuropathological processes. Althou…",
@@ -676,6 +676,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317710.g013&size=inline",
       "publishedAt": "2025-01-23T14:00:00Z",
       "content": "Citation: Xu M, Yuan S, Luo X, Xu M, Hu G, He Z, et al. (2025) Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke. PLoS ONE 20(1… [+57283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Joël Edoux Eric Siko, Kendra Joy Dahmer, Zayina Zondervenni Manoharan, Ajithkumar Muthukumar, Heather K. Amato, Christopher LeBoa, Michael Harris, Venkateshprabhu Janagaraj, Malathi Manuel, Tintu Varghese, Parfait Houngbegnon, Nils Pilotte, Bernadin Bouko, Souad Saïdou, Adrian J. F. Luty, Rohan Michael Ramesh, Moudachirou Ibikounlé, Sitara S. R. Ajjampur, Amy J. Pickering",
+      "title": "Environmental surveillance of soil-transmitted helminths and other enteric pathogens in settings without networked wastewater infrastructure",
+      "description": "Soil-transmitted helminths (STH) are one of the most prevalent enteric infections world-wide. To control STH-related morbidity, the World Health Organization recommends targeted deworming and improvements in water, sanitation and hygiene. Current surveillance…",
+      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000337",
+      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000337.g003&size=inline",
+      "publishedAt": "2025-01-23T14:00:00Z",
+      "content": "Abstract\r\nSoil-transmitted helminths (STH) are one of the most prevalent enteric infections world-wide. To control STH-related morbidity, the World Health Organization recommends targeted deworming a… [+53253 chars]"
     },
     {
       "source": {
@@ -1131,19 +1144,6 @@
       "urlToImage": null,
       "publishedAt": "2025-01-22T07:27:40Z",
       "content": "21 January 2025 - The UN Office for the Coordination of Humanitarian Affairs (OCHA) issued an alert on Tuesday over intensifying hostilities in the northeast in recent days. \r\nBetween 16 and 18 Janua… [+4737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ava Grace",
-      "title": "FDA recalls popular Chinese spice in 15 states due to LEAD CONTAMINATION",
-      "description": "The FDA has recalled Yu Yee Five Spice Powder in 15 states due to lead contamination, affecting 62 cases sold primarily in the Northeast, Midwest and the South. Lead is a potent neurotoxin with no safe exposure level, posing severe risks to vital organs and c…",
-      "url": "https://www.naturalnews.com/2025-01-22-fda-recalls-popular-chinese-spice-lead-contamination.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/fda.png",
-      "publishedAt": "2025-01-22T06:00:00Z",
-      "content": "<ul><li>The FDA has recalled Yu Yee Five Spice Powder in 15 states due to lead contamination, affecting 62 cases sold primarily in the Northeast, Midwest and the South.</li><li>Lead is a potent neuro… [+4436 chars]"
     }
   ],
   "totalResults": 88,
