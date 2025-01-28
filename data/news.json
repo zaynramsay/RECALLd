@@ -1,6 +1,149 @@
 {
-  "lastUpdated": "2025-01-28T12:40:32.552Z",
+  "lastUpdated": "2025-01-28T18:28:34.073Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Daily"
+      },
+      "author": null,
+      "title": "Curex Is Making Food Allergy Care Easier Than Ever, Backed by Science",
+      "description": "Fewer severe reactions and the ability to enjoy meals without fear are two key benefits of using SLIT drops for food allergies.",
+      "url": "https://www.medicaldaily.com/curex-making-food-allergy-care-easier-ever-backed-science-473043",
+      "urlToImage": "https://d.medicaldaily.com/en/full/479640/curex.jpg",
+      "publishedAt": "2025-01-27T17:29:11Z",
+      "content": "For many people, food allergies are a year-round problem. The fear of accidentally exposing themselves to foods they are allergic to, stomach pains, and even more severe reactions can make every meal… [+4971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Francisco Velasquez",
+      "title": "Costco is making a big food court change",
+      "description": "Costco (COST) is making a big change to its soda offerings.Read more...",
+      "url": "https://qz.com/costco-pepsi-coca-cola-change-retail-consumers-1851726372",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b7e3acf685c72f1b6a4a531369785a12.jpg",
+      "publishedAt": "2025-01-27T17:22:00Z",
+      "content": "In This Story\r\nCostco (COST+0.74%\r\n) is making a big change to its soda offerings.\r\nAfter years of serving Pepsi (PEP+2.99%\r\n), the wholesale giant will switch to Coca-Cola (KO+2.39%\r\n) beverages lat… [+2110 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Global Meat Packaging Market Set to Reach USD 12.4 Billion by 2035, Driven by Growing Demand and E-commerce Expansion | Future Market Insights, Inc.",
+      "description": "The USA is witnessing surging demand for ready-to-eat meat products like pre-cooked chicken, deli meats, and frozen meals, driven by busy lifestyles. Popular among single-person households, working professionals, and busy families, these convenient meal solut…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/27/3015759/0/en/Global-Meat-Packaging-Market-Set-to-Reach-USD-12-4-Billion-by-2035-Driven-by-Growing-Demand-and-E-commerce-Expansion-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-01-27T15:30:00Z",
+      "content": "NEWARK, Del, Jan. 27, 2025 (GLOBE NEWSWIRE) -- The global meat packaging market is poised for substantial growth, with its market size projected to increase from USD 8.3 billion in 2025 to an impress… [+20245 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Multiple Git flaws led to credentials compromise",
+      "description": "Vulnerabilities in the Git credential retrieval protocol could have allowed threat actors to access user credentials. Security researcher RyotaK from GMO Flatt Security Inc discovered multiple vulnerabilities in the Git credential retrieval protocol that coul…",
+      "url": "https://securityaffairs.com/173520/security/multiple-git-flaws-led-to-credentials-compromise.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/01/git-logo.png",
+      "publishedAt": "2025-01-27T14:35:57Z",
+      "content": "Multiple Git flaws led to credentials compromise\r\n | GamaCopy targets Russia mimicking Russia-linked Gamaredon APT\r\n | ESXi ransomware attacks use SSH tunnels to avoid detection\r\n | Attackers alleged… [+134370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Lindsay Salem-Bango, Jennifer OKeeffe, Michael R. Desjardins, Daniele Lantagne, Chiara Altare, Gurpreet Kaur, Kanaganathan Rangaiya, Patricia Oke-Oghene Obroh, Ahmadu Audu, Chimda Emmanuel Solomon, Thomas Heath, Emmanuel Emeka Ihemezue, Solomon Aye, Baptiste Lecuyot, Mustafa Sikder, Shannon Doocy, Melody Xiao, Paul B. Spiegel",
+      "title": "Case-area targeted interventions and free chlorine residual in household drinking water: An observational cohort study during a cholera outbreak in Northeast Nigeria",
+      "description": "Author summary Cholera, a bacterial disease impacting millions of people each year, is resurging worldwide. Case-area targeted interventions (CATIs) are an increasingly common cholera outbreak response strategy where teams deliver a mixture of health and wate…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012731",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012731.g002&size=inline",
+      "publishedAt": "2025-01-27T14:00:00Z",
+      "content": "Citation: Salem-Bango L, OKeeffe J, Desjardins MR, Lantagne D, Altare C, Kaur G, et al. (2025) Case-area targeted interventions and free chlorine residual in household drinking water: An observationa… [+35513 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yasoda Kumari, Nayana Gunathilaka, Deepika Amarasinghe",
+      "title": "A comprehensive review of biological and genetic control approaches for leishmaniasis vector sand flies; emphasis towards promoting tools for integrated vector management",
+      "description": "Author summary This review explores new ways to control sand fly populations responsible for spreading leishmaniasis, a disease affecting millions worldwide. Traditional methods, such as insecticides, are not always effective and can harm the environment. We …",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012795",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012795.g002&size=inline",
+      "publishedAt": "2025-01-27T14:00:00Z",
+      "content": "Introduction\r\nLeishmaniasis is a health issue in many regions with poor health and life resources. According to the WHO, an estimated 700,0001 million new cases arise annually [1]. The disease leishm… [+50202 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Diponkar Kundu, Nasir Uddin Badhon, A. H. M. Iftekharul Ferdous, Md. Safiul Islam, Md. Galib Hasan, Khalid Sifulla Noor, Most. Momtahina Bani",
+      "title": "Optimized PCF architectures for THz detection of aquatic pathogens: Enhancing water quality monitoring",
+      "description": "Waterborne bacteria pose a serious hazard to human health, hence a precise detection method is required to identify them. A photonic crystal fiber sensor that takes into account the dangers of aquatic bacteria has been suggested, and its optical characteristi…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317533",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317533.g009&size=inline",
+      "publishedAt": "2025-01-27T14:00:00Z",
+      "content": "Abstract\r\nWaterborne bacteria pose a serious hazard to human health, hence a precise detection method is required to identify them. A photonic crystal fiber sensor that takes into account the dangers… [+58253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Usda.gov"
+      },
+      "author": null,
+      "title": "FSIS Issues Public Health Alert for Wegmans Frozen Fully Cooked Chicken Nuggets Due to Possible Extraneous Material Contamination",
+      "description": "WASHINGTON, Jan. 27, 2025 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen, fully cooked Wegmans breaded chicken breast...",
+      "url": "http://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-wegmans-frozen-fully-cooked-chicken-nuggets-due",
+      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
+      "publishedAt": "2025-01-27T14:00:00Z",
+      "content": "WASHINGTON, Jan. 27, 2025 The U.S. Department of Agricultures Food Safety and Inspection Service (FSIS) is issuing a public health alert for frozen, fully cooked Wegmans breaded chicken breast nugget… [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Emily A. Fitzmeyer, Taru S. Dutt, Silvain Pinaud, Barb Graham, Emily N. Gallichotte, Jessica L. Hill, Corey L. Campbell, Hunter Ogg, Virginia Howick, Mara K. N. Lawniczak, Erin Osborne Nishimura, Sarah Hélène Merkling, Marcela Henao-Tamayo, Gregory D. Ebel",
+      "title": "A single-cell atlas of the Culex tarsalis midgut during West Nile virus infection",
+      "description": "Author summary West Nile virus is the leading cause of mosquito-borne disease in N. America. Cx. tarsalis is a highly competent vector of WNV that plays a central role in the transmission and maintenance of WNV in nature. It is hypothesized that the permissib…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012855",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012855.g006&size=inline",
+      "publishedAt": "2025-01-27T14:00:00Z",
+      "content": "Citation: Fitzmeyer EA, Dutt TS, Pinaud S, Graham B, Gallichotte EN, Hill JL, et al. (2025) A single-cell atlas of the Culex tarsalis midgut during West Nile virus infection. PLoS Pathog 21(1):\r\n e10… [+68340 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "Cleanroom Technologies Market to Reach USD 14.6 Billion by 2032, Growing at a CAGR of 6.8% - SNS Insider",
+      "description": "Cleanroom Technologies Market Growth is driven by regulatory demands and innovations across pharmaceuticals, electronics, and biopharma industries Cleanroom Technologies Market Growth is driven by regulatory demands and innovations across pharmaceuticals, ele…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/27/3015572/0/en/Cleanroom-Technologies-Market-to-Reach-USD-14-6-Billion-by-2032-Growing-at-a-CAGR-of-6-8-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-01-27T13:05:00Z",
+      "content": "Pune, Jan. 27, 2025 (GLOBE NEWSWIRE) -- Cleanroom Technologies Market Size &amp; Growth Analysis:\r\nAccording to SNS Insider, The Cleanroom Technologies Market size was valued at USD 8.1 billion in 20… [+10004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whyevolutionistrue.com"
+      },
+      "author": "whyevolutionistrue",
+      "title": "Monday: Hili dialogue",
+      "description": "Welcome to Monday, January 27, 2025, and National Chocolate Cake Day. Once again I present you with one form in which it’s served in Chicago, as lumps in milkshakes from Portillo’s. I really need to try one of these (see it made at 4:15 in the video below, bu…",
+      "url": "https://whyevolutionistrue.com/2025/01/27/monday-hili-dialogue-502/",
+      "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2025/01/thumbnail_473813904_980407273977572_7257818524206036968_n.jpg",
+      "publishedAt": "2025-01-27T12:45:56Z",
+      "content": "Welcome to Monday, January 27, 2025, and National Chocolate Cake Day. Once again I present you with one form in which it’s served in Chicago, as lumps in milkshakes from Portillo’s. I really need to … [+18541 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -25,7 +168,7 @@
       "url": "https://www.globenewswire.com/news-release/2025/01/27/3015439/0/en/Infant-Food-Market-to-Hit-Valuation-of-US-126-40-Billion-By-2033-Astute-Analytica.html",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
       "publishedAt": "2025-01-27T11:30:00Z",
-      "content": "New Delhi, Jan. 27, 2025 (GLOBE NEWSWIRE) -- The global Infant food market was valued at US$ 76.10 billion in 2024 and is projected to reach US$ 126.40 billion 2033, growing at a CAGR of 5.8% during �� [+16897 chars]"
+      "content": "New Delhi, Jan. 27, 2025 (GLOBE NEWSWIRE) -- The global Infant food market was valued at US$ 76.10 billion in 2024 and is projected to reach US$ 126.40 billion 2033, growing at a CAGR of 5.8% during … [+16897 chars]"
     },
     {
       "source": {
@@ -64,7 +207,7 @@
       "url": "http://twistedsifter.com/2025/01/manager-says-no-to-girl-scout-cookies-so-coworker-starts-office-gossip-and-passive-aggressive-cookie-war/",
       "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/01/refusing-to-buy-girl-scout-cookies-AITA.jpeg",
       "publishedAt": "2025-01-27T09:21:44Z",
-      "content": "When a new manager declined to buy Girl Scout cookies from a team member, citing celiac disease, she thought it was a reasonable boundary.\r\nInstead, it sparked a passive-aggressive cookie controversy�� [+2611 chars]"
+      "content": "When a new manager declined to buy Girl Scout cookies from a team member, citing celiac disease, she thought it was a reasonable boundary.\r\nInstead, it sparked a passive-aggressive cookie controversy… [+2611 chars]"
     },
     {
       "source": {
@@ -402,7 +545,7 @@
       "url": "https://securityaffairs.com/173426/breaking-news/pwn2own-automotive-2025-final-results.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-39-768x1024.png",
       "publishedAt": "2025-01-25T15:58:59Z",
-      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
+      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik��� [+133782 chars]"
     },
     {
       "source": {
@@ -812,19 +955,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Meimei Xu, Shan Yuan, Xing Luo, Mengsi Xu, Guangze Hu, Zhe He, Xinyuan Yang, Rui Gao",
-      "title": "Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke",
-      "description": "Long non-coding RNAs (lncRNAs) are among the most abundant types of non-coding RNAs in the genome and exhibit particularly high expression levels in the brain, where they play crucial roles in various neurophysiological and neuropathological processes. Althou…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317710",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317710.g013&size=inline",
-      "publishedAt": "2025-01-23T14:00:00Z",
-      "content": "Citation: Xu M, Yuan S, Luo X, Xu M, Hu G, He Z, et al. (2025) Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke. PLoS ONE 20(1… [+57283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Joël Edoux Eric Siko, Kendra Joy Dahmer, Zayina Zondervenni Manoharan, Ajithkumar Muthukumar, Heather K. Amato, Christopher LeBoa, Michael Harris, Venkateshprabhu Janagaraj, Malathi Manuel, Tintu Varghese, Parfait Houngbegnon, Nils Pilotte, Bernadin Bouko, Souad Saïdou, Adrian J. F. Luty, Rohan Michael Ramesh, Moudachirou Ibikounlé, Sitara S. R. Ajjampur, Amy J. Pickering",
       "title": "Environmental surveillance of soil-transmitted helminths and other enteric pathogens in settings without networked wastewater infrastructure",
       "description": "Soil-transmitted helminths (STH) are one of the most prevalent enteric infections world-wide. To control STH-related morbidity, the World Health Organization recommends targeted deworming and improvements in water, sanitation and hygiene. Current surveillance…",
@@ -832,6 +962,19 @@
       "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000337.g003&size=inline",
       "publishedAt": "2025-01-23T14:00:00Z",
       "content": "Abstract\r\nSoil-transmitted helminths (STH) are one of the most prevalent enteric infections world-wide. To control STH-related morbidity, the World Health Organization recommends targeted deworming a… [+53253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Meimei Xu, Shan Yuan, Xing Luo, Mengsi Xu, Guangze Hu, Zhe He, Xinyuan Yang, Rui Gao",
+      "title": "Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke",
+      "description": "Long non-coding RNAs (lncRNAs) are among the most abundant types of non-coding RNAs in the genome and exhibit particularly high expression levels in the brain, where they play crucial roles in various neurophysiological and neuropathological processes. Althou…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317710",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317710.g013&size=inline",
+      "publishedAt": "2025-01-23T14:00:00Z",
+      "content": "Citation: Xu M, Yuan S, Luo X, Xu M, Hu G, He Z, et al. (2025) Construction of an lncRNA-mediated ceRNA network to investigate the inflammatory regulatory mechanisms of ischemic stroke. PLoS ONE 20(1… [+57283 chars]"
     },
     {
       "source": {
@@ -1035,143 +1178,13 @@
       },
       "author": "ET Online",
       "title": "Mysterious illness claims 17 lives in Jammu & Kashmir’s Badhal village: Authorities investigate",
-      "description": "A mysterious illness in Badhal village, Rajouri district of Jammu & Kashmir, has led to 17 deaths since December. Authorities have yet to determine the cause, though neurotoxins have been detected in victims. A special investigation team and an inter-minister��",
+      "description": "A mysterious illness in Badhal village, Rajouri district of Jammu & Kashmir, has led to 17 deaths since December. Authorities have yet to determine the cause, though neurotoxins have been detected in victims. A special investigation team and an inter-minister…",
       "url": "https://economictimes.indiatimes.com/news/india/mysterious-illness-claims-17-lives-in-jammu-kashmirs-badhal-village-authorities-investigate/articleshow/117465095.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-117465232,width-1200,height-630,imgsize-17926,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-01-22T18:01:24Z",
       "content": "Badhal village in the Rajouri district of Jammu &amp; Kashmir is grappling with a mysterious illness that has claimed the lives of 17 people since December 7. The illness first came to light when fiv… [+4994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Aseptic Filling Machines Market Industry Trends and Opportunities to 2030: Key Player Profiles for Alfa Laval, Groninger, Syntegon Technology, GEA, Bausch+Strobel, SAINI Industries, Krones and More",
-      "description": "Dublin, Jan. 22, 2025 (GLOBE NEWSWIRE) -- The \"Aseptic Filling Machines Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F\" report has been added to ResearchAndMarkets.com's offering.The Aseptic Filling Machines Market was val…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/22/3013695/28124/en/Aseptic-Filling-Machines-Market-Industry-Trends-and-Opportunities-to-2030-Key-Player-Profiles-for-Alfa-Laval-Groninger-Syntegon-Technology-GEA-Bausch-Strobel-SAINI-Industries-Krone.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-22T16:09:00Z",
-      "content": "Dublin, Jan. 22, 2025 (GLOBE NEWSWIRE) -- The \"Aseptic Filling Machines Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F\" report has been added to ResearchAndMarket… [+10560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "The Star Online",
-      "title": "Five charged over deaths of six diners in Taiwan",
-      "description": "FIVE people working at a Malaysian restaurant in Taiwan have been charged in court after six diners died of food poisoning last year, Sin Chew Daily reported. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/01/23/five-charged-over-deaths-of-six-diners-in-taiwan",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/23/3132100.jpg",
-      "publishedAt": "2025-01-22T16:00:00Z",
-      "content": "Compiled by C. ARUNO, LEONG SHU YIN and R. ARAVINTHAN\r\nFIVE people working at a Malaysian restaurant in Taiwan have been charged in court after six diners died of food poisoning last year, Sin Chew D… [+1824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Institutes of Health"
-      },
-      "author": null,
-      "title": "Intervention Research to Improve Native American Health (R34 Clinical Trial Optional)",
-      "description": "Funding Opportunity PAR-25-378 from the NIH Guide for Grants and Contracts. The purpose of this notice of funding opportunity (NOFO) is to support research on interventions to improve health in Native American (NA) populations. This includes 1) etiologic rese…",
-      "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-378.html",
-      "urlToImage": null,
-      "publishedAt": "2025-01-22T15:54:37Z",
-      "content": "Part 1. Overview Information\r\nParticipating Organization(s) \r\nNational Institutes of Health (NIH)\r\nComponents of Participating Organizations \r\nNational Institute on Drug Abuse (NIDA)\r\nNational Instit… [+90771 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "North America Plastic Caps and Closures Market Analysis, Industry Trends & Growth Forecasts: Production Volume Set to Grow to 459.31 Billion Units by 2029, at a CAGR of 3.63% During 2024-2029",
-      "description": "Dublin, Jan. 22, 2025 (GLOBE NEWSWIRE) -- The \"North America Plastic Caps And Closures - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts 2024-2029\" report has been added to ResearchAndMarkets.com's offering.The North American Plastic Cap…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/22/3013628/28124/en/North-America-Plastic-Caps-and-Closures-Market-Analysis-Industry-Trends-Growth-Forecasts-Production-Volume-Set-to-Grow-to-459-31-Billion-Units-by-2029-at-a-CAGR-of-3-63-During-2024.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-22T15:03:00Z",
-      "content": "Dublin, Jan. 22, 2025 (GLOBE NEWSWIRE) -- The \"North America Plastic Caps And Closures - Market Share Analysis, Industry Trends &amp; Statistics, Growth Forecasts 2024-2029\" report has been added to … [+10567 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Blister Packaging Equipment Industry Report 2024-2030: Global Market to Reach $4.1 Billion, Driven by Increasing Demand for Unit-Dose Packaging, OTC Medication, Utilization in Emerging Markets",
-      "description": "Understand the significant growth trajectory of the Solid Packaging segment, which is expected to reach US$3.5 Billion by 2030 with a CAGR of a 5.9%. The Semi-Solid Packaging segment is also set to grow at 5.0% CAGR over the analysis period. Gain insights int…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/22/3013588/28124/en/Blister-Packaging-Equipment-Industry-Report-2024-2030-Global-Market-to-Reach-4-1-Billion-Driven-by-Increasing-Demand-for-Unit-Dose-Packaging-OTC-Medication-Utilization-in-Emerging-.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-22T14:30:00Z",
-      "content": "Dublin, Jan. 22, 2025 (GLOBE NEWSWIRE) -- The \"Blister Packaging Equipment - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Blist… [+7512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "author": "Foreign, Commonwealth & Development Office",
-      "title": "Press release: UK government boosts support for Scottish de-mining charity’s work in Ukraine and Afghanistan",
-      "description": "International Development Minister visits the HALO Trust, with the UK government extending its funding to continue removing mines in Ukraine and Afghanistan.",
-      "url": "https://www.gov.uk/government/news/uk-government-boosts-support-for-scottish-de-mining-charitys-work-in-ukraine-and-afghanistan",
-      "urlToImage": "https://assets.publishing.service.gov.uk/media/6790f85db1e4f5cbd3a34dd7/s960_International_Development_Minister_Anneliese_Dodds_visits_HALO_Trust_HQ_2.jpg",
-      "publishedAt": "2025-01-22T14:18:23Z",
-      "content": "<ul><li>UK government to extend contracts for the HALO Trust to continue work ridding Ukraine and Afghanistan of deadly explosives</li><li>comes as International Development Minister Anneliese Dodds … [+5019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Jacob I. Griffith, Hannah F. James, Javier Ordoño, Teresa Fernández-Crespo, Carina T. Gerritzen, Christina Cheung, Rachèl Spros, Philippe Claeys, Steven Goderis, Barbara Veselka, Christophe Snoeck",
-      "title": "Reconstructing prehistoric lifeways using multi-Isotope analyses of human enamel, dentine, and bone from Legaire Sur, Spain",
-      "description": "Megalithism has been repetitively tied to specialised herding economies in Iberia, particularly in the mountainous areas of the Basque Country. Legaire Sur, in the uplands of Álava region, is a recently excavated passage tomb (megalithic monument) that held a…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316387",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316387.g008&size=inline",
-      "publishedAt": "2025-01-22T14:00:00Z",
-      "content": "Citation: Griffith JI, James HF, Ordoño J, Fernández-Crespo T, Gerritzen CT, Cheung C, et al. (2025) Reconstructing prehistoric lifeways using multi-Isotope analyses of human enamel, dentine, and bon… [+60912 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Miguel A. Pérez-Castro, Hasier Eraña, Enric Vidal, Jorge M. Charco, Nuria L. Lorenzo, Nuno Gonçalves-Anjo, Josu Galarza-Ahumada, Carlos M. Díaz-Domínguez, Patricia Piñeiro, Ezequiel González-Miranda, Samanta Giler, Glenn Telling, Manuel A. Sánchez-Martín, Joseba Garrido, Mariví Geijo, Jesús R. Requena, Joaquín Castilla",
-      "title": "Cofactors facilitate bona fide prion misfolding in vitro but are not necessary for the infectivity of recombinant murine prions",
-      "description": "Author summary Prion diseases are rare and complex neurodegenerative disorders that can occur spontaneously, through a poorly understood conformational or structural change of normal, physiological prion protein. This abnormally structured form, known as prio…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012890",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012890.g008&size=inline",
-      "publishedAt": "2025-01-22T14:00:00Z",
-      "content": "Citation: Pérez-Castro MA, Eraña H, Vidal E, Charco JM, Lorenzo NL, Gonçalves-Anjo N, et al. (2025) Cofactors facilitate bona fide prion misfolding in vitro but are not necessary for the infectivity … [+153031 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Nouman Butt, Muhammad Munwar Iqbal, Shabana Ramzan, Ali Raza, Laith Abualigah, Norma Latif Fitriyani, Yeonghyeon Gu, Muhammad Syafrudin",
-      "title": "Citrus diseases detection using innovative deep learning approach and Hybrid Meta-Heuristic",
-      "description": "Citrus farming is one of the major agricultural sectors of Pakistan and currently represents almost 30% of total fruit production, with its highest concentration in Punjab. Although economically important, citrus crops like sweet orange, grapefruit, lemon, an…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316081",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316081.g012&size=inline",
-      "publishedAt": "2025-01-22T14:00:00Z",
-      "content": "Citation: Butt N, Iqbal MM, Ramzan S, Raza A, Abualigah L, Fitriyani NL, et al. (2025) Citrus diseases detection using innovative deep learning approach and Hybrid Meta-Heuristic. PLoS ONE 20(1):\r\n e… [+33038 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "MeiraGTx",
-      "title": "MeiraGTx Receives Rare Pediatric Disease Designation from FDA for AAV8-RK-RetGC for the Treatment of Patients with Leber Congenital Amaurosis due to GUCY2D Mutations",
-      "description": "MeiraGTx has recently received Rare Pediatric Disease Designation (RPDD) for four inherited retinal diseases (IRDs) reflecting the transformative therapeutic potential of the Company’s proprietary technology platforms MeiraGTx has recently received Rare Pedia…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/22/3013474/0/en/MeiraGTx-Receives-Rare-Pediatric-Disease-Designation-from-FDA-for-AAV8-RK-RetGC-for-the-Treatment-of-Patients-with-Leber-Congenital-Amaurosis-due-to-GUCY2D-Mutations.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6b45b8d0-975e-494b-8a46-b88360aa1791",
-      "publishedAt": "2025-01-22T13:30:00Z",
-      "content": "LONDON and NEW YORK, Jan. 22, 2025 (GLOBE NEWSWIRE) -- MeiraGTx Holdings Plc (Nasdaq: MGTX), a vertically integrated, clinical-stage genetic medicines company, today announced the U.S. Food and Drug … [+9338 chars]"
     }
   ],
-  "totalResults": 90,
-  "filteredCount": 1
+  "totalResults": 91,
+  "filteredCount": 0
 }
