@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-01-29T01:40:03.098Z",
+  "lastUpdated": "2025-01-29T06:29:01.716Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Joe Whitworth",
+      "title": "Beetroot salad suspected in flight-related outbreaks; 43 passengers sickened",
+      "description": "Beetroot salad contaminated with Staphylococcus aureus was the likely source of illness onboard two flights from Nepal. The Centre for Health Protection (CHP) of the Department of Health in Hong Kong said 43 passengers, 22 men and 21 women, on two flights fro…",
+      "url": "https://www.foodsafetynews.com/?p=246575",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/403/306/kW7yv9eBdzp5XyEn6NLRwa5Px/eeeeea9089d541190a115014c9fab0ce566314a8.png",
+      "publishedAt": "2025-01-28T05:03:00Z",
+      "content": "Beetroot salad contaminated with Staphylococcus aureus was the likely source of illness onboard two flights from Nepal.\r\nThe Centre for Health Protection (CHP) of the Department of Health in Hong Kon… [+4138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thefreedictionary.com"
+      },
+      "author": null,
+      "title": "Guerrilla Gardening",
+      "description": "Guerrilla gardening is a form of activism in which groups take over abandoned plots of land that they do not own in order to grow crops or plants. The earliest recorded use of the term was in 1973, when the Green Guerilla group transformed a derelict private …",
+      "url": "https://encyclopedia.thefreedictionary.com/Guerrilla+gardening",
+      "urlToImage": "http://img.tfd.com/TFDlogo1200x1200.png",
+      "publishedAt": "2025-01-28T05:00:00Z",
+      "content": "Guerrilla gardening is gardening on land that the gardeners do not have legal right to use, often an abandoned site or area not cared for by anyone. It encompasses a very diverse range of people and … [+11800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PT Jyothi Datta",
+      "title": "Guillain Barre’ Syndrome: not an unknown condition, says expert",
+      "description": "High-level team sent to Pune to manage Guillain Barre’ Syndrome outbreak; state health authorities investigating source of infection.",
+      "url": "https://www.thehindubusinessline.com/news/national/guillain-barre-syndrome-not-an-unknown-condition-says-expert/article69147902.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/yelgus/article69059301.ece/alternates/LANDSCAPE_1200/Wockhardt%E2%80%99s-novG3EDQ6JPJ.7.jpg.jpg",
+      "publishedAt": "2025-01-28T01:53:15Z",
+      "content": "The Centre has sent a high-level multi-disciplinary team to Pune to support State health authorities in public health interventions and management of cases of Guillain Barre Syndrome (GBS) in Maharas… [+2173 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1144,45 +1183,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/211137ea-4ab6-4ea6-8d46-f5eae42f8659",
       "publishedAt": "2025-01-23T13:30:00Z",
       "content": "Wilmington, Delaware, Transparency Market Research Inc. , Jan. 23, 2025 (GLOBE NEWSWIRE) -- The global cleanroom consumables market (Levothyroxin-Markt) is poised for significant growth. Valued at US… [+8998 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Blister Packaging Machinery Consumption Market Report 2025-2029 & 2034: Set to Grow at 9.4% CAGR, Driven by the Rise in Contract Manufacturing & Packaging Services and Market Expansion in Emerging Economies",
-      "description": "Dublin, Jan. 23, 2025 (GLOBE NEWSWIRE) -- The \"Blister Packaging Machinery Consumption Market Report 2025\" has been added to ResearchAndMarkets.com's offering.This Blister Packaging Machinery Consumption market report covers market characteristics, size & gro…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/23/3014040/28124/en/Blister-Packaging-Machinery-Consumption-Market-Report-2025-2029-2034-Set-to-Grow-at-9-4-CAGR-Driven-by-the-Rise-in-Contract-Manufacturing-Packaging-Services-and-Market-Expansion-in.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-23T09:26:00Z",
-      "content": "Dublin, Jan. 23, 2025 (GLOBE NEWSWIRE) -- The \"Blister Packaging Machinery Consumption Market Report 2025\" has been added to ResearchAndMarkets.com's offering.\r\nThis Blister Packaging Machinery Consu… [+5804 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Cisco addresses a critical privilege escalation bug in Meeting Management",
-      "description": "Cisco addressed a critical flaw in its Meeting Management that could allow it to gain administrator privileges on vulnerable instances. Cisco released security updates to fix a critical flaw, tracked as CVE-2025-20156 (CVSS score of 9.9) affecting its Meeting…",
-      "url": "https://securityaffairs.com/173361/security/cisco-meeting-management-critical-flaw.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
-      "publishedAt": "2025-01-23T08:17:44Z",
-      "content": "Cisco addresses a critical privilege escalation bug in Meeting Management\r\n | U.S. President Donald Trump granted a \"full and unconditional pardon\" to Ross Ulbricht, Silk Road creator\r\n | Pwn2Own Aut… [+133334 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. President Donald Trump granted a “full and unconditional pardon” to Ross Ulbricht, Silk Road creator",
-      "description": "Donald Trump pardoned Ross Ulbricht, creator of the notorious dark web, drug marketplace Silk Road , after 11 years in prison. Donald Trump pardoned Ross Ulbricht, creator of Silk Road, who was convicted in 2015 for narcotics and money-laundering conspiracy a…",
-      "url": "https://securityaffairs.com/173350/cyber-crime/trump-granted-pardon-to-ross-ulbricht.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-37.png",
-      "publishedAt": "2025-01-23T06:17:43Z",
-      "content": "U.S. President Donald Trump granted a \"full and unconditional pardon\" to Ross Ulbricht, Silk Road creator\r\n | Pwn2Own Automotive 2025 Day 1: organizers awarded $382,750 for 16 zero-days\r\n | Two ranso… [+133256 chars]"
     }
   ],
   "totalResults": 91,
