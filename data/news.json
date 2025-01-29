@@ -1,6 +1,162 @@
 {
-  "lastUpdated": "2025-01-29T12:39:40.241Z",
+  "lastUpdated": "2025-01-29T18:28:57.823Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "WPXI Pittsburgh"
+      },
+      "author": "Natalie Dreier",
+      "title": "Recall alert: Salmon sold at Costco upgraded to Class I recall",
+      "description": "Salmon that was sold at Costco and recalled in October is now under a Class I recall.",
+      "url": "https://www.wpxi.com/news/trending/recall-alert-salmon-sold-costco-upgraded-class-i-recall/QXB4BEGVONDWLLMVXWQJZELNYA/",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKXGCXH7PM5DP7JDELNUDZ66Z64.jpg?auth=c7b3f2ce23fff5feeaba66f5f4ca2e705653f24daabef00dfb82e81502a70a0d&width=1200&height=630&smart=true",
+      "publishedAt": "2025-01-28T16:51:16Z",
+      "content": "Salmon that was sold at Costco and recalled in October is now under a Class I recall. \r\nAcme Smoked Fish Corporation recalled 111 cases of Kirkland Signature Smoked Salmon when a lab found it had bee… [+1230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Ransomware attack on ENGlobal compromised personal information",
+      "description": "ENGlobal reported to the SEC that personal information was compromised in a ransomware attack that took place in November 2024. ENGlobal disclosed a ransomware attack that occurred in November, in a SEC filing the company confirmed that threat actors gained a…",
+      "url": "https://securityaffairs.com/173566/cyber-crime/englobal-disclosed-a-ransomware-attack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg",
+      "publishedAt": "2025-01-28T16:41:37Z",
+      "content": "EU announced sanctions on three members of Russia's GRU Unit 29155\r\n | Chinese AI platform DeepSeek faced a \"large-scale\" cyberattack\r\n | Apple fixed the first actively exploited zero-day of 2025\r\n |… [+134637 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Shamim Chowdhury",
+      "title": "Coca-Cola Recalls Drinks Over Chlorate Contamination Fears",
+      "description": "Coca-Cola has started a recall of several soft drink products in Europe after higher-than-normal levels of chlorate were detected.",
+      "url": "https://www.newsweek.com/cocacola-recalls-drinks-over-chlorate-contamination-fears-2022059",
+      "urlToImage": "https://d.newsweek.com/en/full/2575048/coca-cola-belgium.jpg",
+      "publishedAt": "2025-01-28T16:36:49Z",
+      "content": "Coca-Cola has initiated a recall of several soft drink products in Europe after higher-than-normal levels of chlorate were detected during routine checks at a production plant in Belgium.\r\nWhy It Mat… [+2891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ariel Zilber",
+      "title": "FDA raises alert on listeria-tainted broccoli sold at Walmart over risk of ‘death’",
+      "description": "The recall affects 12-ounce bags of the product, which were sold in 20 states and pose serious health risks if consumed.",
+      "url": "https://nypost.com/2025/01/28/business/fda-raises-alert-on-listeria-tainted-broccoli-sold-at-walmart-over-risk-of-death/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/fda-raises-alert-level-recalled-97492719.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-01-28T16:34:44Z",
+      "content": "The Food and Drug Administration escalated a recall of Marketside Broccoli Florets sold at Walmart to the highest level after it was found to be contaminated with listeria.\r\nThe “Class I” recall mean… [+3081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Quartz Intelligence Newsroom",
+      "title": "Costco's salmon recall is now in the FDA's highest-risk category",
+      "description": "This story incorporates reporting fromConsumerAffairs, AOL, BlackDoctor, Eat This%2c Not That! and KHQ.The Food and Drug Administration (FDA) has elevated the recall status of Kirkland Signature Smoked Salmon products sold at Costco to a Class I, the agency’s…",
+      "url": "https://qz.com/costco-salmon-recall-fda-listeria-1851749154",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9bf93b7f27303bf589a84684b4513c84.jpg",
+      "publishedAt": "2025-01-28T15:57:00Z",
+      "content": "This story incorporates reporting from ConsumerAffairs, AOL, BlackDoctor, Eat This%2c Not That! and KHQ.\r\nThe Food and Drug Administration (FDA) has elevated the recall status of Kirkland Signature S… [+2934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Dimension Market Research",
+      "title": "Global Zebrafish for Research Market is expected to reach revenue of USD 412.8 Mn by 2033, at 14.8% CAGR: Dimension Market Research.",
+      "description": "Advancements and Projections in the Global Zebrafish for Research Market: Insights, Trends, Opportunities, and Recent Developments Advancements and Projections in the Global Zebrafish for Research Market: Insights, Trends, Opportunities, and Recent Developmen…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/28/3016559/0/en/Global-Zebrafish-for-Research-Market-is-expected-to-reach-revenue-of-USD-412-8-Mn-by-2033-at-14-8-CAGR-Dimension-Market-Research.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/a4df4c2d-98b9-4595-8455-3d6a9ff15a71",
+      "publishedAt": "2025-01-28T15:20:00Z",
+      "content": "New York, Jan. 28, 2025 (GLOBE NEWSWIRE) -- Overview\r\nThe Global Zebrafish for Research Market is projected to reach USD 118.8 million in 2024 which is further anticipated to reach USD 412.8 million … [+14869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Zulfikar Abbany",
+      "title": "Coca-Cola recall due to 'excessively high chlorate content'",
+      "description": "The recall affects cans and glass bottles in the Benelux, Britain, Germany, France. How chlorate occurs in food and drinks, and its health risks, explained. What you need to know\n\n\nCoca-Cola recalls drinks due to chlorate contamination\nChlorate occurs in food…",
+      "url": "https://www.dw.com/en/coca-cola-recall-due-to-excessively-high-chlorate-content/a-71437149",
+      "urlToImage": "https://static.dw.com/image/60105922_6.jpg",
+      "publishedAt": "2025-01-28T14:57:00Z",
+      "content": "What you need to know\r\n<ul><li>Coca-Cola recalls drinks due to chlorate contamination</li><li>Chlorate occurs in food and drinks as a byproduct of chlorine disinfectant</li><li>Consumption poses a lo… [+4215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "ProRx, LLC - 696742 - 12/20/2024",
+      "description": "Compounding Pharmacy/Adulterated Drug Products",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/prorx-llc-696742-12202024",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-28T14:20:06Z",
+      "content": "Delivery Method:\r\nVia Electronic Mail - Delivery and Read Receipt Requested\r\nProduct:\r\nDrugs \r\nRecipient:\r\nProRx, LLC\r\n619 Jeffers CircleExton, PA19341-2540United States\r\nIssuing Office:\r\nCenter for … [+29817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Kardesler Ucan Yaglar Sanayi Anonim Sirketi - 695413 - 01/21/2025",
+      "description": "CGMP/Finished Pharmaceutical/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/kardesler-ucan-yaglar-sanayi-anonim-sirketi-695413-01212025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-28T14:20:06Z",
+      "content": "Delivery Method:\r\nVia Electronic Mail - Delivery and Read Receipt Requested\r\nReference #:\r\n320-25-31\r\nProduct:\r\nDrugs \r\nRecipient:\r\nKardesler Ucan Yaglar Sanayi Anonim Sirketi\r\nInonu Mah Gebze Plasti… [+8831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Judy Malas, Sarah C. Khoury, Michael Tanzillo, Gracie A. Fischer, Jean E. Bogner, D’Arcy R. Meyer-Dombard",
+      "title": "Impact of antibiotics, iron oxide, and sodium sulfate on microbial community composition in laboratory-built municipal solid waste microcosms",
+      "description": "Municipal solid waste (MSW) landfills represent underexplored microbial ecosystems. Landfills contain variable amounts of antibiotic and construction and demolition (C&D) wastes, which have the potential to alter microbial metabolism due to biocidal or redox …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318351",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318351.g005&size=inline",
+      "publishedAt": "2025-01-28T14:00:00Z",
+      "content": "Citation: Malas J, Khoury SC, Tanzillo M, Fischer GA, Bogner JE, Meyer-Dombard DR (2025) Impact of antibiotics, iron oxide, and sodium sulfate on microbial community composition in laboratory-built m… [+41806 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Molly S. Costanza-Robinson, Baker J. Angstman, Qiting Cai, Charles Forbes, Julia S. Keon, Shuyi Lin, Emma D. Neill, Elizabeth G. Peebles, Ella Roelofs, Eric K. Moody",
+      "title": "Comparison of inductively coupled plasma mass spectrometry and molybdenum blue colorimetry for total phosphorus determination in freshwater invertebrates",
+      "description": "Molybdenum blue colorimetry (MBC) is the dominant, well-established method used for determining total P in environmental media, including in organismal tissues. However, other elemental methods for P determination are available, including inductively coupled …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317871",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317871.g005&size=inline",
+      "publishedAt": "2025-01-28T14:00:00Z",
+      "content": "Abstract\r\nMolybdenum blue colorimetry (MBC) is the dominant, well-established method used for determining total P in environmental media, including in organismal tissues. However, other elemental met… [+54092 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Sophie Clark",
+      "title": "Cheese Recall Update: FDA Sets Most Severe Risk Level",
+      "description": "A cheese has been recalled across three states and given the highest recall classification by the FDA due to Listeria risk.",
+      "url": "https://www.newsweek.com/cheese-recall-update-fda-sets-highest-risk-level-2021944",
+      "urlToImage": "https://d.newsweek.com/en/full/2574893/fda-cheese-recall.png",
+      "publishedAt": "2025-01-28T13:08:23Z",
+      "content": "A cheese was recalled across three states due to concerns that it contains Listeria Monocytogenes and it has now been given the highest risk classification level for a recall.\r\nThe cheese, 133 cases … [+2506 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -259,7 +415,7 @@
       "url": "https://www.theblaze.com/shows/glenn-beck-podcast/vaccines",
       "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=56002705&width=1200&height=600&coordinates=0%2C0%2C0%2C120",
       "publishedAt": "2025-01-27T21:00:00Z",
-      "content": "Donald Trump is once again the president of the United States of America, and its thanks in no small part to the growing coalition of those who want to Make America Healthy Again like RFK Jr.s former… [+2426 chars]"
+      "content": "Donald Trump is once again the president of the United States of America, and its thanks in no small part to the growing coalition of those who want to Make America Healthy Again like RFK Jr.s former�� [+2426 chars]"
     },
     {
       "source": {
@@ -370,6 +526,19 @@
         "id": null,
         "name": "Plos.org"
       },
+      "author": "Diponkar Kundu, Nasir Uddin Badhon, A. H. M. Iftekharul Ferdous, Md. Safiul Islam, Md. Galib Hasan, Khalid Sifulla Noor, Most. Momtahina Bani",
+      "title": "Optimized PCF architectures for THz detection of aquatic pathogens: Enhancing water quality monitoring",
+      "description": "Waterborne bacteria pose a serious hazard to human health, hence a precise detection method is required to identify them. A photonic crystal fiber sensor that takes into account the dangers of aquatic bacteria has been suggested, and its optical characteristi…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317533",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317533.g009&size=inline",
+      "publishedAt": "2025-01-27T14:00:00Z",
+      "content": "Abstract\r\nWaterborne bacteria pose a serious hazard to human health, hence a precise detection method is required to identify them. A photonic crystal fiber sensor that takes into account the dangers… [+58253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
       "author": "Lindsay Salem-Bango, Jennifer OKeeffe, Michael R. Desjardins, Daniele Lantagne, Chiara Altare, Gurpreet Kaur, Kanaganathan Rangaiya, Patricia Oke-Oghene Obroh, Ahmadu Audu, Chimda Emmanuel Solomon, Thomas Heath, Emmanuel Emeka Ihemezue, Solomon Aye, Baptiste Lecuyot, Mustafa Sikder, Shannon Doocy, Melody Xiao, Paul B. Spiegel",
       "title": "Case-area targeted interventions and free chlorine residual in household drinking water: An observational cohort study during a cholera outbreak in Northeast Nigeria",
       "description": "Author summary Cholera, a bacterial disease impacting millions of people each year, is resurging worldwide. Case-area targeted interventions (CATIs) are an increasingly common cholera outbreak response strategy where teams deliver a mixture of health and wate…",
@@ -390,19 +559,6 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012795.g002&size=inline",
       "publishedAt": "2025-01-27T14:00:00Z",
       "content": "Introduction\r\nLeishmaniasis is a health issue in many regions with poor health and life resources. According to the WHO, an estimated 700,0001 million new cases arise annually [1]. The disease leishm… [+50202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Diponkar Kundu, Nasir Uddin Badhon, A. H. M. Iftekharul Ferdous, Md. Safiul Islam, Md. Galib Hasan, Khalid Sifulla Noor, Most. Momtahina Bani",
-      "title": "Optimized PCF architectures for THz detection of aquatic pathogens: Enhancing water quality monitoring",
-      "description": "Waterborne bacteria pose a serious hazard to human health, hence a precise detection method is required to identify them. A photonic crystal fiber sensor that takes into account the dangers of aquatic bacteria has been suggested, and its optical characteristi…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317533",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317533.g009&size=inline",
-      "publishedAt": "2025-01-27T14:00:00Z",
-      "content": "Abstract\r\nWaterborne bacteria pose a serious hazard to human health, hence a precise detection method is required to identify them. A photonic crystal fiber sensor that takes into account the dangers… [+58253 chars]"
     },
     {
       "source": {
@@ -1053,151 +1209,8 @@
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/06/e095d337-841e-4ac7-8dff-84d8c0504dea/thumbnail/1200x630g9/b421489eeda1725edf0546b7debc636b/gettyimages-1227710472.jpg?v=e306e7b9fefc168c00baa623d76d1eaf",
       "publishedAt": "2025-01-24T16:07:20Z",
       "content": "Multiple federal health agencies have stopped releasing some key health information — including updates on some outbreak investigations — amid a department-wide communications \"pause\" ordered by the … [+5053 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wellnessmama.com"
-      },
-      "author": "Katie Wells",
-      "title": "Microplastics In Salt and How to Avoid Them",
-      "description": "I often discuss how salt is essential for health, from supporting electrolyte balance to regulating blood pressure. Dialing in my salt consumption has also been a game changer for my sleep and energy. Many salts are hiding a dirty secret though: microplastic …",
-      "url": "https://wellnessmama.com/health/microplastics-salt/",
-      "urlToImage": "https://wellnessmama.com/wp-content/uploads/microplastics-salt.png",
-      "publishedAt": "2025-01-24T14:00:00Z",
-      "content": "I often discuss how salt is essential for health, from supporting electrolyte balance to regulating blood pressure. Dialing in my salt consumption has also been a game changer for my sleep and energy… [+8995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Ning Zhang, Yuanqi Chen, Enxu Zhang, Ziyang Liu, Jie Yue",
-      "title": "Maize quality detection based on MConv-SwinT high-precision model",
-      "description": "The traditional method of corn quality detection relies heavily on the subjective judgment of inspectors and suffers from a high error rate. To address these issues, this study employs the Swin Transformer as an enhanced base model, integrating machine vision…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312363",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0312363.g012&size=inline",
-      "publishedAt": "2025-01-24T14:00:00Z",
-      "content": "Abstract\r\nThe traditional method of corn quality detection relies heavily on the subjective judgment of inspectors and suffers from a high error rate. To address these issues, this study employs the … [+44802 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jess Thomson",
-      "title": "Dip Recall Update as FDA Sets Risk Class",
-      "description": "The spinach artichoke dip mix was recalled due to it having been underprocessed, the Food and Drug Administration said.",
-      "url": "https://www.newsweek.com/spinach-artichoke-dip-recall-fda-underprocessing-class-iii-2020164",
-      "urlToImage": "https://d.newsweek.com/en/full/2572461/spinach-artichoke-dip.jpg",
-      "publishedAt": "2025-01-24T11:02:34Z",
-      "content": "A veggie dip product has been recalled across Wisconsin due to \"underprocessing\".\r\nThe \"River Valley Ranch &amp; Kitchens Spinach Artichoke Dip Mix,\" produced by Wisconsin-based company River Valley … [+2618 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mindbodygreen.com"
-      },
-      "author": "https://www.mindbodygreen.com/wc/ava-durgin-writer",
-      "title": "Time To Rethink That Black Spatula: The Health Risks Of Plastic Exposure",
-      "description": "And the alarming levels of microplastics in everyday foods",
-      "url": "https://www.mindbodygreen.com/articles/microplastics-are-major-health-concern-and-its-time-to-throw-out-your-black-spatula",
-      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/m5iv1vjrwm6a0bzfu.jpeg",
-      "publishedAt": "2025-01-24T10:49:00Z",
-      "content": "Plastic has become so ingrained in our daily lives that its easy to forget its everywherefrom the packaging on our food to the utensils we use in the kitchen. Yet beneath this convenience lies a grow… [+5500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SonicWall warns of a critical CVE-2025-23006 zero-day likely exploited in the wild",
-      "description": "SonicWall warns customers of a critical zero-day vulnerability in SMA 1000 Series appliances, likely exploited in the wild. SonicWall is waring customers of a critical security vulnerability, tracked as CVE-2025-23006 (CVSS score of 9,8) impacting its Secure …",
-      "url": "https://securityaffairs.com/173387/security/sonicwall-warns-zero-day-sma-1000-series.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
-      "publishedAt": "2025-01-24T09:36:35Z",
-      "content": "SonicWall warns of a critical CVE-2025-23006 zero-day likely exploited in the wild\r\n | U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: org… [+133640 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Norway reports largest outbreak in decades with 230 sick; sprouts blamed",
-      "description": "Norway has reported its largest foodborne outbreak in almost 50 years with 230 people sick. The Norwegian Institute of Public Health (FHI) said 105 people are infected with Salmonella Newport and 120 with Salmonella Typhimurium. The remaining five are infecte…",
-      "url": "https://www.foodsafetynews.com/2025/01/norway-reports-largest-outbreak-in-decades-with-230-sick-sprouts-blamed/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/117/632/jMDOvP3KezRBVZ9Pzlqoyk8AW/249a66dea9fa76f77425775622df766aea975017.png",
-      "publishedAt": "2025-01-24T05:05:00Z",
-      "content": "Norway has reported its largest foodborne outbreak in almost 50 years with 230 people sick.\r\nThe Norwegian Institute of Public Health (FHI) said 105 people are infected with Salmonella Newport and 12… [+3160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Researcher gets $150,000 grant to use AI for Salmonella detection in onions",
-      "description": "A researcher at Southern Illinois University-Carbondale is working on using artificial intelligence (AI) to detect the deadly pathogen Salmonella before it ever enters the food supply. Anas Alsobeh, assistant professor of information technology, recently rece…",
-      "url": "https://www.foodsafetynews.com/2025/01/siu-researcher-gets-150000-grant-to-use-ai-for-salmonella-detection-in-onions/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/117/584/5R7NlW8nEzjV1xDXzmvbxgLyP/4a2e9bb0a9188c851a79f9fd28a0e076472822d6.png",
-      "publishedAt": "2025-01-24T05:02:00Z",
-      "content": "A researcher at Southern Illinois University-Carbondale is working on using artificial intelligence (AI) to detect the deadly pathogen Salmonella before it ever enters the food supply.\r\nAnas Alsobeh,… [+3050 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Dot"
-      },
-      "author": "Jack Alban",
-      "title": "‘I just don’t even drink water when I go to restaurants’: Server warns against drinking directly from cups at restaurants",
-      "description": "A former server issued a PSA on restaurant cutlery after stating she always drinks with a straw. Others online agreed with her assessment.\n\n\nNaya (@nayabelle) posted her thoughts in a viral TikTok that's accrued over 6.2 million views. It also sparked a large…",
-      "url": "https://www.dailydot.com/news/server-always-drinks-with-straw-at-restaurants/",
-      "urlToImage": "https://uploads.dailydot.com/2025/01/Plastic_Straws_Former_Server.jpg?auto=compress&fm=pjpg",
-      "publishedAt": "2025-01-24T03:00:00Z",
-      "content": "A former server issued a PSA on restaurant cutlery after stating she always drinks with a straw. Others online agreed with her assessment.\r\nNaya (@nayabelle) posted her thoughts in a viral TikTok tha… [+5995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Isra'a Emhail",
-      "title": "Is the five-second rule real? Here’s what the experts say",
-      "description": "Dropped your food? Eating it within a few seconds might cost you health-wise.",
-      "url": "https://www.nzherald.co.nz/lifestyle/is-the-five-second-rule-real-heres-what-the-experts-say/W4UOW63DFRFR5GMGM27Q3DDKSY/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/MQ57WHBFOBD3TFXW3654IBBBGM.jpg?auth=01608f0cd73581c83e370924cfea5d66245b060ccb24d5543c38bc09b87a52d9&width=1200&height=675&quality=70&focal=1479%2C814&smart=false",
-      "publishedAt": "2025-01-24T01:07:40Z",
-      "content": "Theres no easy answer, Dawson told RNZs Afternoons. There are some differences due to the surface, due to the food, time does make a difference in number [of bacteria], but from a practical standpoin… [+3934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/uncategorized/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog\r\n | Pwn2Own Automotive 2025 Day 2: organizers awarded $335,500\r\n | Chinese threat actors used two advanced exploit chains to … [+133553 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds JQuery flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds JQuery vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a JQuery persistent cross-site scripting (XSS) vulner…",
-      "url": "https://securityaffairs.com/173388/breaking-news/u-s-cisa-adds-jquery-flaw-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-01-23T23:06:29Z",
-      "content": "U.S. CISA adds SonicWall SMA1000 flaw to its Known Exploited Vulnerabilities catalog\r\n | J-magic malware campaign targets Juniper routers\r\n | SonicWall warns of a critical CVE-2025-23006 zero-day lik… [+133782 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
