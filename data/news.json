@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-01-30T01:38:48.605Z",
+  "lastUpdated": "2025-01-30T06:28:50.783Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Attackers exploit SimpleHelp RMM Software flaws for initial access",
+      "description": "Threat actors exploit recently fixed SimpleHelp RMM software vulnerabilities to breach targeted networks, experts warn. Horizon3 researchers discovered three vulnerabilities, tracked as CVE-2024-57726, CVE-2024-57727, and CVE-2024-57728, that could be used to…",
+      "url": "https://securityaffairs.com/173578/security/attackers-exploit-simplehelp-rmm-software-flaws.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg",
+      "publishedAt": "2025-01-29T06:17:58Z",
+      "content": "Attackers exploit SimpleHelp RMM Software flaws for initial access\r\n | VMware fixed a flaw in Avi Load Balancer\r\n | EU announced sanctions on three members of Russia's GRU Unit 29155\r\n | Chinese AI p… [+134753 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Joe Whitworth",
+      "title": "Germany highlights importance of kitchen hygiene",
+      "description": "People often underestimate the importance of kitchen hygiene in preventing foodborne illness, according to a German agency. Every year, more than 100,000 illnesses are reported in Germany that may have been caused by bacteria, viruses, or parasites in food. I…",
+      "url": "https://www.foodsafetynews.com/2025/01/germany-highlights-importance-of-kitchen-hygiene/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/555/940/5R7NlW8nEzjVvXm9zmvbxgLyP/047fca3efa31fd24a015b9f19ae7e8b388ddb7d1.png",
+      "publishedAt": "2025-01-29T05:05:00Z",
+      "content": "People often underestimate the importance of kitchen hygiene in preventing foodborne illness, according to a German agency.\r\nEvery year, more than 100,000 illnesses are reported in Germany that may h… [+3186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Monique Steele",
+      "title": "Kiwifruit growers welcome $24.1m payout to Zespri for mice infestation",
+      "description": "Zespri CEO Jason Te Brake said the settlement was a positive outcome for the industry.",
+      "url": "https://www.nzherald.co.nz/the-country/news/kiwifruit-growers-welcome-241m-payout-to-zespri-for-mice-infestation/EJDKKOIUBBDWREQ3JKLDIH3I3A/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/V7CX2N7R35GPJAGQU5MLQZ6B6E.JPG?auth=d41070fcb21575bf50b41d4330946aafba9ad526a53de51c0d37cc9b40c530dc&width=1200&height=675&quality=70&focal=977%2C492&smart=false",
+      "publishedAt": "2025-01-29T03:00:00Z",
+      "content": "We take fruit quality incredibly seriously and our decision to dispose of the fruit from the impacted vessel reflects our ongoing commitment to food safety and protecting our brand.\r\nKiwifruit Grower… [+1463 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,45 +1196,6 @@
       "urlToImage": null,
       "publishedAt": "2025-01-25T15:46:31Z",
       "content": "Skip to comments.\r\nIs your protein powder safe? Report reveals high heavy metal levels (Plant protein)Medical Xpress / HealthDay / ^\r\n | Jan. 20, 2025\r\n | India Edwards / \r\nPosted on 01/25/2025 7:46:… [+5647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Why are people getting sick?",
-      "description": "Why Are People Getting Sick? Understanding the Causes of Illness People getting sick is a common phenomenon that affects millions […]\nThe post Why are people getting sick? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/why-are-people-getting-sick/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-01-25T13:27:26Z",
-      "content": "Why Are People Getting Sick?\r\nUnderstanding the Causes of Illness\r\nPeople getting sick is a common phenomenon that affects millions of individuals worldwide. The exact reasons behind this phenomenon … [+6141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "MUGUNTAN VANAR",
-      "title": "Sabah Health Department reports five cases of puffer fish toxin poisoning",
-      "description": "KOTA KINABALU: Five cases of puffer fish toxin poisoning have been detected in Sabah over the past two weeks, says the Sabah Health Department director, Dr Maria Suleiman. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/01/25/sabah-health-department-reports-five-cases-of-puffer-fish-toxin-poisoning",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/25/3137026.jpg",
-      "publishedAt": "2025-01-25T10:39:00Z",
-      "content": "KOTA KINABALU: Five cases of puffer fish toxin poisoning have been detected in Sabah over the past two weeks, says the Sabah Health Department director, Dr Maria Suleiman.\r\nShe stated that five cases… [+2030 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Hanna Ziady, CNN",
-      "title": "‘Our innocent kids are struggling.’ Victims of massive listeriosis outbreak say those responsible must ‘do the right thing’",
-      "description": "Almost seven years since health officials tied the world’s largest listeriosis outbreak to products made by South Africa’s Tiger Brands, victims are still...",
-      "url": "https://www.cnn.com/2025/01/25/world/listeriosis-outbreak-south-africa-tiger-brands-intl/index.html",
-      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/41404158f40d5fb2a1b27916c8fcb0d7",
-      "publishedAt": "2025-01-25T05:01:57Z",
-      "content": "Theto Ngobeni was just 18 days old when doctors first inserted a shunt into the back of her head to drain excess fluid accumulating in her brain.\r\nShe was born with a condition known as hydrocephalus… [+8934 chars]"
     }
   ],
   "totalResults": 92,
