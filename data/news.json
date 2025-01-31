@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-31T06:29:59.298Z",
+  "lastUpdated": "2025-01-31T12:40:18.913Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Global Glass Container Market Set to Reach USD 91.1 Billion by 2035, Driven by Consumer Demand and Sustainability Trends | Future Market Insights, Inc.",
+      "description": "End-use industries, including pharmaceuticals and beverages, prefer using glass bottles for packaging. High demand for eco-friendly and cost-effective packaging solutions is also estimated to fuel growth. Germany is projected to showcase a CAGR of 2% in the f…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/30/3017932/0/en/Global-Glass-Container-Market-Set-to-Reach-USD-91-1-Billion-by-2035-Driven-by-Consumer-Demand-and-Sustainability-Trends-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-01-30T12:30:00Z",
+      "content": "NEWARK, Del, Jan. 30, 2025 (GLOBE NEWSWIRE) -- The global glass container market is poised for significant growth in the coming decade, with projections indicating a market value of approximately USD… [+24366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Global Market Insights Inc.",
+      "title": "Packaging Testing Market to surpass USD 41.5 Billion by 2032, Says Global Market Insights inc.",
+      "description": "Packaging Testing Industry size is expected to register 11.4% CAGR between 2024 and 2032 propelled by stricter regulations and standards for packaging materials. Packaging Testing Industry size is expected to register 11.4% CAGR between 2024 and 2032 propelle…",
+      "url": "https://www.globenewswire.com/news-release/2025/01/30/3017929/0/en/Packaging-Testing-Market-to-surpass-USD-41-5-Billion-by-2032-Says-Global-Market-Insights-inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6a29379b-a16f-4ee6-9798-26bdadb816f3",
+      "publishedAt": "2025-01-30T12:30:00Z",
+      "content": "Selbyville, Delaware , Jan. 30, 2025 (GLOBE NEWSWIRE) -- Packaging Testing Market was valued at USD 15.7 billion in 2023 and is projected to be worth USD 41.5 billion by the end of 2032, as per a rec… [+4385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "PHP package Voyager flaws expose to one-click RCE exploits",
+      "description": "The open-source PHP package Voyager is affected by three vulnerabilities that could be exploited to achieve one-click remote code execution on affected instances. Voyager is a popular open-source PHP package for managing Laravel applications, offering an admi…",
+      "url": "https://securityaffairs.com/173646/hacking/php-package-voyager-flaws.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/PHP-package-Voyager.png",
+      "publishedAt": "2025-01-30T12:21:17Z",
+      "content": "PHP package Voyager flaws expose to one-click RCE exploits\r\n | Italys Data Protection Authority Garante requested information from Deepseek\r\n | U.S. CISA adds Apple products' flaw to its Known Exploi… [+135175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Tosin Oyediran",
+      "title": "Chemical contamination prompts Coca-Cola recall in Europe, UK",
+      "description": "Coca-Cola Europacific Partners Belux has launched a major recall of multiple products across Belgium, Luxembourg, the Netherlands, and the UK due to the detection of elevated levels of chlorate. The recall, conducted in consultation with food safety authoriti…",
+      "url": "https://punchng.com/chemical-contamination-prompts-coca-cola-recall-in-europe-uk/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/05/25231630/Coca-Cola.jpg",
+      "publishedAt": "2025-01-30T09:25:05Z",
+      "content": "Coca-Cola Europacific Partners Belux has launched a major recall of multiple products across Belgium, Luxembourg, the Netherlands, and the UK due to the detection of elevated levels of chlorate.\r\nThe… [+3740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Italy’s Data Protection Authority Garante requested information from Deepseek",
+      "description": "Italy’s data privacy regulator Garante has requested information from Chinese AI company DeepSeek regarding its data practices. Italy’s Data Protection Authority Garante has asked the AI firm DeepSeek to clarify its data collection, sources, purposes, legal b…",
+      "url": "https://securityaffairs.com/173637/digital-id/italys-garante-requested-information-from-deepseek.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-44.png",
+      "publishedAt": "2025-01-30T09:04:37Z",
+      "content": "Italys Data Protection Authority Garante requested information from Deepseek\r\n | U.S. CISA adds Apple products' flaw to its Known Exploited Vulnerabilities catalog\r\n | Aquabot variant v3 targets Mite… [+135112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Aid efforts in Gaza escalate, as risk from deadly unexploded ordnance grows",
+      "description": "As more than 423,000 displaced Palestinians return to their homes in northern Gaza following the opening of key roads, UN agencies are scaling up humanitarian aid and addressing the growing risks posed by unexploded ordnance such as landmines (UXO).",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/01/mil-250129-unnews02.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-01-30T07:36:28Z",
+      "content": "29 January 2025 - As more than 423,000 displaced Palestinians return to their homes in northern Gaza following the opening of key roads, UN agencies are scaling up humanitarian aid and addressing the… [+4298 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -571,7 +649,7 @@
       "url": "https://securityaffairs.com/173578/security/attackers-exploit-simplehelp-rmm-software-flaws.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg",
       "publishedAt": "2025-01-29T06:17:58Z",
-      "content": "Attackers exploit SimpleHelp RMM Software flaws for initial access\r\n |��VMware fixed a flaw in Avi Load Balancer\r\n | EU announced sanctions on three members of Russia's GRU Unit 29155\r\n | Chinese AI p… [+134753 chars]"
+      "content": "Attackers exploit SimpleHelp RMM Software flaws for initial access\r\n | VMware fixed a flaw in Avi Load Balancer\r\n | EU announced sanctions on three members of Russia's GRU Unit 29155\r\n | Chinese AI p… [+134753 chars]"
     },
     {
       "source": {
@@ -1079,86 +1157,8 @@
       "urlToImage": "https://singularityhub.com/uploads/2025/01/brain-and-plastic-1.jpeg?auto=webp",
       "publishedAt": "2025-01-27T23:50:14Z",
       "content": "Were not Barbie girls, but we live in a plastic world.\r\nMicroplastics, tiny specks of broken-down plastic, are all around us. They hover in the air, float in our water, and are sprinkled in the food … [+7527 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Lindsay Lowe, Alex Portée",
-      "title": "Costco salmon recalled for listeria risk elevated to highest risk level, FDA says",
-      "description": "Kirkland Signature Smoked Salmon products  recalled in October 2024 are now considered to be a Class 1 recall, the FDA’s most serious warning.",
-      "url": "https://www.today.com/health/recall/costco-salmon-fda-recall-rcna189499",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-10/smoked-salmon-costco-mc-241025-b7900a.jpg",
-      "publishedAt": "2025-01-27T22:44:39Z",
-      "content": "Kirkland Signature Smoked Salmon products that were recalled in October 2024 have officially been re-classified by the U.S. Food and Drug Administration (FDA) as a Class I recall. \r\nThe updated class… [+2898 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Lena Borrelli",
-      "title": "7 Places Microplastics Are Hiding in Your Kitchen and Easy Swaps to Get Them Out",
-      "description": "There are probably microplastics in your kitchen. These are the swaps to make to protect your health.",
-      "url": "https://www.cnet.com/health/7-places-microplastics-are-hiding-in-your-kitchen-and-easy-swaps-to-make/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/910a638ce3193e4ebc84691db21ad2c702cae2b7/hub/2024/12/30/6e2ad328-fd01-45c5-9279-7b347b1224b7/gettyimages-1315120793.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-01-27T22:00:06Z",
-      "content": "Though microplastics and nanoplastics are small (less than 5 millimeters and 1 micrometer, respectively), they significantly affect our world today. They're in our air, water and food, and you can ev… [+7538 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Apple fixed the first actively exploited zero-day of 2025",
-      "description": "Apple addressed the first zero-day vulnerability of 2025, which is actively exploited in attacks in the wild aimed at iPhone users. Apple released security updates to address 2025’s first zero-day vulnerability, tracked as CVE-2025-24085, actively exploited i…",
-      "url": "https://securityaffairs.com/173536/hacking/apple-fixed-the-first-zero-day-vulnerability-of-2025.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
-      "publishedAt": "2025-01-27T21:58:05Z",
-      "content": "Apple fixed the first actively exploited zero-day of 2025\r\n | TalkTalk confirms data breach involving a third-party platform\r\n | Multiple Git flaws led to credentials compromise\r\n | GamaCopy targets … [+134499 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheBlaze"
-      },
-      "author": "BlazeTV Staff",
-      "title": "Small doses add up: How Big Food and Big Pharma are poisoning YOU",
-      "description": "Donald Trump is once again the president of the United States of America, and it’s thanks in no small part to the growing coalition of those who want to Make America Healthy Again — like RFK Jr.’s former running mate, Nicole Shanahan.\n\n“It’s weird how you’ve …",
-      "url": "https://www.theblaze.com/shows/glenn-beck-podcast/vaccines",
-      "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=56002705&width=1200&height=600&coordinates=0%2C0%2C0%2C120",
-      "publishedAt": "2025-01-27T21:00:00Z",
-      "content": "Donald Trump is once again the president of the United States of America, and its thanks in no small part to the growing coalition of those who want to Make America Healthy Again like RFK Jr.s former… [+2426 chars]"
-    },
-    {
-      "source": {
-        "id": "time",
-        "name": "Time"
-      },
-      "author": "Jeffrey Kluger",
-      "title": "What to Know About the CIA’s Conclusion that COVID-19 Came From a Lab",
-      "description": "Despite \"low confidence\" in its own conclusion, the intelligence community weighs in.",
-      "url": "https://time.com/7210348/covid-19-cia-lab-leak-conclusion/",
-      "urlToImage": "https://api.time.com/wp-content/uploads/2025/01/GettyImages-1230938483.jpg?quality=85&w=1200&h=628&crop=1",
-      "publishedAt": "2025-01-27T20:53:57Z",
-      "content": "Since COVID-19 first took off, political leaders, infectious disease specialists, and the lay public have debated its origins. Eventually, two hypotheses emerged: Either the virus crossed over from a… [+6014 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "TalkTalk confirms data breach involving a third-party platform",
-      "description": "UK telecommunications firm TalkTalk disclosed a data breach after a threat actor announced the hack on a cybercrime forum. UK telecommunications company TalkTalk confirmed a data breach after a threat actor claimed responsibility for the cyber attack on a cyb…",
-      "url": "https://securityaffairs.com/173526/cyber-crime/talktalk-confirms-data-breach.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/10/TalkTalk-3.jpg",
-      "publishedAt": "2025-01-27T20:00:54Z",
-      "content": "TalkTalk confirms data breach involving a third-party platform\r\n | Multiple Git flaws led to credentials compromise\r\n | GamaCopy targets Russia mimicking Russia-linked Gamaredon APT\r\n | ESXi ransomwa… [+134437 chars]"
     }
   ],
   "totalResults": 89,
-  "filteredCount": 0
+  "filteredCount": 1
 }
