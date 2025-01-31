@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-01-31T12:40:18.913Z",
+  "lastUpdated": "2025-01-31T18:27:56.110Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Liz O'Connell",
+      "title": "Internet Can't Cope With What Shop Gives Dog After It Ran Out of Pup Cups",
+      "description": "The dog looked at the unexpected treat with eyes of confusion and excitement.",
+      "url": "https://www.newsweek.com/internet-cannot-cope-what-coffee-shop-gives-dog-2023569",
+      "urlToImage": "https://d.newsweek.com/en/full/2577330/dog-waiting-pup-cup.jpg",
+      "publishedAt": "2025-01-30T17:44:03Z",
+      "content": "A coffee shop's solution after it ran out of whipped cream for pup cups has left social media users in stitches.\r\nAn owner, posting under the handle @realemilyattack on X, formerly Twitter, wanted to… [+2491 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "TeamViewer fixed a vulnerability in Windows client and host applications",
+      "description": "TeamViewer has patched a high-severity privilege escalation vulnerability affecting its Windows client and host applications. TeamViewer released security patches for a high-severity elevation of privilege vulnerability, tracked as CVE-2025-0065 (CVSS score o…",
+      "url": "https://securityaffairs.com/173658/security/teamviewer-windows-client-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/06/teamviewer.png",
+      "publishedAt": "2025-01-30T15:29:47Z",
+      "content": "TeamViewer fixed a vulnerability in Windows client and host applications\r\n | Operation Talent: An international law enforcement operation seized Cracked, Nulled and other cybercrime websites\r\n | PHP … [+135370 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Joe Edwards",
+      "title": "Salad Recall Update as FDA Sets Highest Risk Level",
+      "description": "A Class I recall classification was given following a potential salmonella contamination.",
+      "url": "https://www.newsweek.com/salad-recall-update-fda-highest-risk-level-salmonella-2023477",
+      "urlToImage": "https://d.newsweek.com/en/full/2577252/salad.jpg",
+      "publishedAt": "2025-01-30T15:20:26Z",
+      "content": "The U.S. Food and Drug Administration (FDA) has set its highest risk level—a Class I recall—over potential salmonella contamination in salad products.\r\nWhy It Matters\r\nAccording to the FDA, a Class I… [+3499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Operation Talent: An international law enforcement operation seized Cracked, Nulled and other cybercrime websites",
+      "description": "An international law enforcement operation targeted several major cybercrime websites, including Cracked, Nulled, Sellix, and StarkRDP.  An international law enforcement operation led by Europol, code-named Operation Talent, dismantled several major cybercrim…",
+      "url": "https://securityaffairs.com/173651/cyber-crime/operation-talent-seized-cracked-nulled-cybercrime-websites.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/Operation-Talent.png",
+      "publishedAt": "2025-01-30T14:50:03Z",
+      "content": "TeamViewer fixed a vulnerability in Windows client and host applications\r\n | Operation Talent: An international law enforcement operation seized Cracked, Nulled and other cybercrime websites\r\n | PHP … [+135370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sandra Ama Kaburi, Rita Elsie Sanful, Lariba Cecilia Azumah, Francis Padi Lamptey, Gifty Serwaa Otoo, Bertina Nyame, Patrick Kumah, Francis Appiah",
+      "title": "Interactive effect of biological control (Aflasafe GH02) and different packaging types on aflatoxin levels in maize grain in two ecological zones",
+      "description": "Author summary Aflatoxins, toxic compounds produced by Aspergillus species, pose a major threat to food security and public health, particularly in regions reliant on maize as a dietary staple. This study examines the effectiveness of Aflasafe GH02, a biologi…",
+      "url": "https://journals.plos.org/sustainabilitytransformation/article?id=10.1371/journal.pstr.0000160",
+      "urlToImage": "https://journals.plos.org/sustainabilitytransformation/article/figure/image?id=10.1371/journal.pstr.0000160.g002&size=inline",
+      "publishedAt": "2025-01-30T14:00:00Z",
+      "content": "Abstract\r\nAflatoxins are found in maize, groundnuts, and tree nuts. Most Ghanaians consume maize; therefore, aflatoxin exposure threatens their food security. Aflasafe GH02, a biological control agen… [+30530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Pius Okello, Olivia Graaf Bjöersdorff, Ingrid Hansson, Sofia Boqvist, Joseph Erume",
+      "title": "Prevalence and antimicrobial resistant Campylobacter spp. in broiler chicken carcasses and hygiene practises in informal urban markets in a low-income setting",
+      "description": "Campylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology of Campylobacter spp. in food sold at informal markets, where most pe…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318516",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318516.t005&size=inline",
+      "publishedAt": "2025-01-30T14:00:00Z",
+      "content": "Abstract\r\nCampylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology… [+41915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Katharina Salomea Hemmler, Bouraima Camara, Andreas Buerkert",
+      "title": "Social ecology of artisanal sand mining in the Niger River around Bamako, Mali",
+      "description": "Sand, shaping both natural waterways and urban infrastructure, has recently seen a major surge in extraction, particularly in rapidly urbanizing regions like West Africa. To assess the organization, quantification, and socio-ecological implications of sand mi…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318029",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318029.g005&size=inline",
+      "publishedAt": "2025-01-30T14:00:00Z",
+      "content": "1 Introduction\r\nSand not only forms the basis of natural landscapes, shaping the intricate network of rivers and coastlines around the world, but also serves as the fundamental component of the built… [+60649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Maryann S. Watson, Jon Dickson, Oscar Franken, Laura L. Govers, Tjisse van der Heide, Sterre Witte, Britas Klemens Eriksson",
+      "title": "Introduced substrates trigger colonization by reef-associated fish in a degraded coastal system",
+      "description": "Coastal reefs benefit the survival and growth of mobile organisms by providing shelter and increased food availability. Under increasing pressure from human activities, the coverage of subtidal reefs has decreased along the world’s coasts. This decline is mot…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317431",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317431.g006&size=inline",
+      "publishedAt": "2025-01-30T14:00:00Z",
+      "content": "Abstract\r\nCoastal reefs benefit the survival and growth of mobile organisms by providing shelter and increased food availability. Under increasing pressure from human activities, the coverage of subt… [+46495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Quartz Intelligence Newsroom",
+      "title": "Wegmans recalls chicken nuggets due to bone fragment concerns",
+      "description": "This story incorporates reporting from USA Today, Forbes, Fox Business, syracuse.com, YAHOO!News and The Independent.Wegmans Food Markets has initiated a recall of its store-brand frozen chicken nuggets over concerns that they may be contaminated with bone fr…",
+      "url": "https://qz.com/wegmans-chicken-nuggets-fda-recall-1851751395",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_200,q_80,w_200/4716932d29f4ef6064940c18eaab1f3d.png",
+      "publishedAt": "2025-01-30T13:55:50Z",
+      "content": "This story incorporates reporting from  USA Today, Forbes, Fox Business, syracuse.com, YAHOO!News and The Independent.\r\nWegmans Food Markets has initiated a recall of its store-brand frozen chicken n… [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thekitchn.com"
+      },
+      "author": "Christin Perry",
+      "title": "This Is the Easiest (and Best!) Way to Clean Your Air Fryer, According to Experts",
+      "description": "Everything you need is in your pantry.",
+      "url": "https://www.thekitchn.com/how-to-clean-air-fryer-23707494",
+      "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FEdit%2F2022-07-Cleaning-Air-Fryer-Dishwasher-Tablet%2Fair-fryer-diptych-2025",
+      "publishedAt": "2025-01-30T13:45:00Z",
+      "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nYou cant beat the convenience of an air fryer, … [+6299 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1040,125 +1170,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2574768/lays-recalled-fda.png",
       "publishedAt": "2025-01-28T10:20:12Z",
       "content": "Lay's potato chips have been recalled across two states, and the FDA has set its highest risk level for the recalled chips.\r\nThe Food and Drug Administration (FDA) recalled 6,344 bags of Lay's Classi… [+3164 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarasota Herald-Tribune"
-      },
-      "author": "Wade Tatangelo, USA TODAY NETWORK - Florida",
-      "title": "96% of seafood restaurants in these Florida cities falsely labeled shrimp, report finds",
-      "description": "\"Shrimp consumers are being misled on a massive scale\" in a major Florida metro area, according to a new report on seafood mislabeling.",
-      "url": "https://www.heraldtribune.com/story/entertainment/dining/2025/01/28/seafood-restaurants-in-this-florida-city-falsely-labeled-shrimp/77971085007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Mvhedn23QJJ0KwgUPskorg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05NTY-/https://media.zenfs.com/en/palm_beach_post_natl_articles_437/ef443d6eb499eaa2fe28c1023f5502f0",
-      "publishedAt": "2025-01-28T10:16:48Z",
-      "content": "Following our stories about the state's best new restaurants and a local island named among the world's top travel destinations, the USA TODAY NETWORK-Florida Dining and Entertainment Team now turns … [+6557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Chinese AI platform DeepSeek faced a “large-scale” cyberattack",
-      "description": "Chinese AI company DeepSeek has disabled registrations for its DeepSeek-V3 chat platform following a “large-scale” cyberattack. DeepSeek has designed a new AI platform that quickly gained attention over the past week primarily due to its significant advanceme…",
-      "url": "https://securityaffairs.com/173546/security/chinese-ai-platform-deepseek-faced-a-large-scale-cyberattack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-44.png",
-      "publishedAt": "2025-01-28T08:36:15Z",
-      "content": "Chinese AI platform DeepSeek faced a \"large-scale\" cyberattack\r\n | Apple fixed the first actively exploited zero-day of 2025\r\n | TalkTalk confirms data breach involving a third-party platform\r\n | Mul… [+134566 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Garin Pirnia",
-      "title": "There's An Egg Shortage — Here's How Long You Can Safely Eat The Ones You Have",
-      "description": "And how far can you push it? Here's what to do in the midst of the current egg shortage.",
-      "url": "https://www.huffpost.com/entry/how-long-can-you-eat-eggs_l_67882e8be4b0583ca53b6ab4",
-      "urlToImage": "https://img.huffingtonpost.com/asset/678ab3ed1500002300a20154.jpeg?ops=1200_630",
-      "publishedAt": "2025-01-28T08:00:12Z",
-      "content": "One of the top food stories over the past few years has been the notorious rising cost of eggs (the current national average is $4.62) due to supply chain issues. And in late January, things have got… [+7591 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Beetroot salad suspected in flight-related outbreaks; 43 passengers sickened",
-      "description": "Beetroot salad contaminated with Staphylococcus aureus was the likely source of illness onboard two flights from Nepal. The Centre for Health Protection (CHP) of the Department of Health in Hong Kong said 43 passengers, 22 men and 21 women, on two flights fro…",
-      "url": "https://www.foodsafetynews.com/?p=246575",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/403/306/kW7yv9eBdzp5XyEn6NLRwa5Px/eeeeea9089d541190a115014c9fab0ce566314a8.png",
-      "publishedAt": "2025-01-28T05:03:00Z",
-      "content": "Beetroot salad contaminated with Staphylococcus aureus was the likely source of illness onboard two flights from Nepal.\r\nThe Centre for Health Protection (CHP) of the Department of Health in Hong Kon… [+4138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thefreedictionary.com"
-      },
-      "author": null,
-      "title": "Guerrilla Gardening",
-      "description": "Guerrilla gardening is a form of activism in which groups take over abandoned plots of land that they do not own in order to grow crops or plants. The earliest recorded use of the term was in 1973, when the Green Guerilla group transformed a derelict private …",
-      "url": "https://encyclopedia.thefreedictionary.com/Guerrilla+gardening",
-      "urlToImage": "http://img.tfd.com/TFDlogo1200x1200.png",
-      "publishedAt": "2025-01-28T05:00:00Z",
-      "content": "Guerrilla gardening is gardening on land that the gardeners do not have legal right to use, often an abandoned site or area not cared for by anyone. It encompasses a very diverse range of people and … [+11800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "PT Jyothi Datta",
-      "title": "Guillain Barre’ Syndrome: not an unknown condition, says expert",
-      "description": "High-level team sent to Pune to manage Guillain Barre’ Syndrome outbreak; state health authorities investigating source of infection.",
-      "url": "https://www.thehindubusinessline.com/news/national/guillain-barre-syndrome-not-an-unknown-condition-says-expert/article69147902.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/yelgus/article69059301.ece/alternates/LANDSCAPE_1200/Wockhardt%E2%80%99s-novG3EDQ6JPJ.7.jpg.jpg",
-      "publishedAt": "2025-01-28T01:53:15Z",
-      "content": "The Centre has sent a high-level multi-disciplinary team to Pune to support State health authorities in public health interventions and management of cases of Guillain Barre Syndrome (GBS) in Maharas… [+2173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Tahini recalled because of Salmonella",
-      "description": "Al-Watan brand tahini us being recalled in Canada because of Salmonella contamination. The implicated tahini was distributed in Ontario, according to the Canadian Food Inspection Agency. The recall was triggered by the company. As of the posting of the notice…",
-      "url": "https://www.foodsafetynews.com/2025/01/tahini-recalled-because-of-salmonella-2/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/389/736/PwAV5rMNq6OBRgK4zkBm274Op/2f44641265b3bd071f58c1c5132c60a4049ac094.png",
-      "publishedAt": "2025-01-28T00:11:43Z",
-      "content": "Al-Watan brand tahini us being recalled in Canada because of Salmonella contamination.\r\nThe implicated tahini was distributed in Ontario, according to the Canadian Food Inspection Agency.\r\nThe recall… [+1746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Understanding Glyphosate's Growing Presence in Agriculture and Its Effects on Human Health",
-      "description": "A pesticide is any substance or mixture of substances designed to kill, repel, or control pests. Let’s break it down into the two components: The term \"pest\" refers to any organism (insects, weeds, rodents, fungi, bacteria, etc.) that is considered harmful or…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/01/28/glyphosate-agriculture-human-health.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/January/FB/glyphosate-agriculture-human-health-fb.jpg",
-      "publishedAt": "2025-01-28T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Singularity Hub"
-      },
-      "author": "Shelly Fan",
-      "title": "The Brain on Microplastics: A Study in Mice Finds the Brain’s Immune Cells Gorging on Bits of Plastic",
-      "description": "The study sheds light on one way these pesky particles may be detrimental to brain health.\nThe post The Brain on Microplastics: A Study in Mice Finds the Brain’s Immune Cells Gorging on Bits of Plastic appeared first on SingularityHub.",
-      "url": "https://singularityhub.com/2025/01/27/the-brain-on-microplastics-a-study-in-mice-finds-the-brains-immune-cells-gorging-on-tiny-bits-of-plastic/",
-      "urlToImage": "https://singularityhub.com/uploads/2025/01/brain-and-plastic-1.jpeg?auto=webp",
-      "publishedAt": "2025-01-27T23:50:14Z",
-      "content": "Were not Barbie girls, but we live in a plastic world.\r\nMicroplastics, tiny specks of broken-down plastic, are all around us. They hover in the air, float in our water, and are sprinkled in the food … [+7527 chars]"
     }
   ],
-  "totalResults": 89,
+  "totalResults": 90,
   "filteredCount": 1
 }
