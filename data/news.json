@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-01T06:27:50.405Z",
+  "lastUpdated": "2025-02-01T12:36:57.092Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Italy’s data protection authority Garante blocked the DeepSeek AI platform",
+      "description": "Italy’s data protection authority Garante blocked the DeepSeek AI service due to insufficient transparency regarding user data process. Italy’s data protection watchdog has blocked Chinese artificial intelligence (AI) firm DeepSeek ‘s chatbot service within t…",
+      "url": "https://securityaffairs.com/173680/security/italys-data-protection-authority-garante-blocked-deepseek.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-44.png",
+      "publishedAt": "2025-01-31T11:51:19Z",
+      "content": "Italy's data protection authority Garante blocked the DeepSeek AI platform\r\n | Broadcom fixed information disclosure flaws in VMware Aria Operations\r\n | DeepSeek database exposed highly sensitive inf… [+135582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Broadcom fixed information disclosure flaws in VMware Aria Operations",
+      "description": "Broadcom patched five flaws in VMware Aria Operations and Aria Operations for Logs that could lead to privilege escalation and credential theft. Broadcom addressed the following vulnerabilities in VMware Aria Operations and Aria Operations for Logs: The above…",
+      "url": "https://securityaffairs.com/173677/security/vmware-aria-operations-flaws.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/04/vmware-logo.png",
+      "publishedAt": "2025-01-31T09:36:01Z",
+      "content": "Broadcom fixed information disclosure flaws in VMware Aria Operations\r\n | DeepSeek database exposed highly sensitive information\r\n | TeamViewer fixed a vulnerability in Windows client and host applic… [+135503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thechronicle.com.gh"
+      },
+      "author": "admin",
+      "title": "Cholera claims 43 lives, 480 infections recorded",
+      "description": "Ghana’s cholera outbreak has so far claimed the lives of 43 persons and a total of 480 infections, the Ghana Health Service (GHS) has said. The cholera outbreak, which hit the country in October 2024, has spread to five regions, including Greater Accra, Centr…",
+      "url": "https://thechronicle.com.gh/cholera-claims-43-lives-480-infections-recorded/",
+      "urlToImage": "https://bunny-wp-pullzone-vufvp0bs6b.b-cdn.net/wp-content/uploads/2023/10/Health.jpg",
+      "publishedAt": "2025-01-31T08:35:33Z",
+      "content": "Ghana’s cholera outbreak has so far claimed the lives of 43 persons and a total of 480 infections, the Ghana Health Service (GHS) has said.\r\nThe cholera outbreak, which hit the country in October 202… [+3765 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1144,45 +1183,6 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-01-28T14:20:06Z",
       "content": "Delivery Method:\r\nVia Electronic Mail - Delivery and Read Receipt Requested\r\nProduct:\r\nDrugs \r\nRecipient:\r\nProRx, LLC\r\n619 Jeffers CircleExton, PA19341-2540United States\r\nIssuing Office:\r\nCenter for … [+29817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Kardesler Ucan Yaglar Sanayi Anonim Sirketi - 695413 - 01/21/2025",
-      "description": "CGMP/Finished Pharmaceutical/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/kardesler-ucan-yaglar-sanayi-anonim-sirketi-695413-01212025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-28T14:20:06Z",
-      "content": "Delivery Method:\r\nVia Electronic Mail - Delivery and Read Receipt Requested\r\nReference #:\r\n320-25-31\r\nProduct:\r\nDrugs \r\nRecipient:\r\nKardesler Ucan Yaglar Sanayi Anonim Sirketi\r\nInonu Mah Gebze Plasti… [+8831 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Judy Malas, Sarah C. Khoury, Michael Tanzillo, Gracie A. Fischer, Jean E. Bogner, D’Arcy R. Meyer-Dombard",
-      "title": "Impact of antibiotics, iron oxide, and sodium sulfate on microbial community composition in laboratory-built municipal solid waste microcosms",
-      "description": "Municipal solid waste (MSW) landfills represent underexplored microbial ecosystems. Landfills contain variable amounts of antibiotic and construction and demolition (C&D) wastes, which have the potential to alter microbial metabolism due to biocidal or redox …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318351",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318351.g005&size=inline",
-      "publishedAt": "2025-01-28T14:00:00Z",
-      "content": "Citation: Malas J, Khoury SC, Tanzillo M, Fischer GA, Bogner JE, Meyer-Dombard DR (2025) Impact of antibiotics, iron oxide, and sodium sulfate on microbial community composition in laboratory-built m… [+41806 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Molly S. Costanza-Robinson, Baker J. Angstman, Qiting Cai, Charles Forbes, Julia S. Keon, Shuyi Lin, Emma D. Neill, Elizabeth G. Peebles, Ella Roelofs, Eric K. Moody",
-      "title": "Comparison of inductively coupled plasma mass spectrometry and molybdenum blue colorimetry for total phosphorus determination in freshwater invertebrates",
-      "description": "Molybdenum blue colorimetry (MBC) is the dominant, well-established method used for determining total P in environmental media, including in organismal tissues. However, other elemental methods for P determination are available, including inductively coupled …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317871",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317871.g005&size=inline",
-      "publishedAt": "2025-01-28T14:00:00Z",
-      "content": "Abstract\r\nMolybdenum blue colorimetry (MBC) is the dominant, well-established method used for determining total P in environmental media, including in organismal tissues. However, other elemental met… [+54092 chars]"
     }
   ],
   "totalResults": 91,
