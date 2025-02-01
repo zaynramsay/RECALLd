@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-01-31T18:27:56.110Z",
+  "lastUpdated": "2025-02-01T01:45:15.235Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "Eoghan Dalton",
+      "title": "'Open carcass dump' found at large pig farm in the Midlands",
+      "description": "The pig farm says that it is now removing animal carcasses for incineration on a weekly basis.",
+      "url": "https://www.thejournal.ie/pig-farm-inspection-6596227-Jan2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6596227/river/?height=400&version=6596279",
+      "publishedAt": "2025-01-31T00:05:19Z",
+      "content": "A PIG FARM was found to have more than 20 dead animals piled into an open skip during an inspection by the environmental regulator, which described the discovery as an open carcass dump.\r\nThe inspect… [+6470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "DeepSeek database exposed highly sensitive information",
+      "description": "Chinese AI platform DeepSeek has publicly exposed two databases containing highly sensitive user and backend details. Wiz Research discovered a publicly accessible ClickHouse database belonging to DeepSeek, exposing chat history, secret keys, and backend deta…",
+      "url": "https://securityaffairs.com/173666/data-breach/deepseek-db-exposed-highly-sensitive-information.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/deepseek-AI.png",
+      "publishedAt": "2025-01-30T23:00:43Z",
+      "content": "DeepSeek database exposed highly sensitive information\r\n | TeamViewer fixed a vulnerability in Windows client and host applications\r\n | Operation Talent: An international law enforcement operation se… [+135429 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lesswrong.com"
+      },
+      "author": "sarahconstantin",
+      "title": "What's Behind the SynBio Bust?",
+      "description": "Published on January 30, 2025 10:30 PM GMT\r\nMidjourney, “synthetic biology, biomanufacturing, bioengineered microbes”\r\nNot too long ago, synthetic biology was fashionable.Then, in quick succession, we saw massive stock price collapses of three unicorn synbio …",
+      "url": "https://www.lesswrong.com/posts/YextGGfwqKSmNanFh/what-s-behind-the-synbio-bust",
+      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/YextGGfwqKSmNanFh/ei5xbggjfgqht40719at",
+      "publishedAt": "2025-01-30T22:30:07Z",
+      "content": "Not too long ago, synthetic biology was fashionable.\r\nThen, in quick succession, we saw massive stock price collapses of three unicorn synbio startups in 2021-2023: Gingko Bioworks, Zymergen, and Amy… [+11959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Ariana Bindman",
+      "title": "Scientists race to restore Calif.'s largest — and contaminated — freshwater lake",
+      "description": "Scientists are racing to restore Clear Lake, California's largest freshwater lake, which has been struggling with algal blooms and mercury contamination.",
+      "url": "https://www.sfgate.com/bayarea/article/scientists-restore-clear-lake-california-20066383.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/37/66/66/25128373/3/rawImage.jpg",
+      "publishedAt": "2025-01-30T20:57:00Z",
+      "content": "The number of harmful blooms in Clear lake, around 100 miles north of San Francisco, in Lake County, has increased in recent years.\r\nNASA Earth Observatory/Wanmei Liang\r\nIn May 2024, Clear Lake, Cali… [+3728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Michael Dorgan",
+      "title": "Migrant TDA gang member breaks officer’s arm as 10 indicted in massive guns, drug running operation: police - NewsBreak",
+      "description": "Ten alleged members and associates of Tren de Aragua (TdA) gang have been indicted in a massive arms and drugs running operation spanning at least six stat",
+      "url": "https://www.newsbreak.com/share/3783092975948-migrant-tda-gang-member-breaks-officer-s-arm-as-10-indicted-in-massive-guns-drug-running-operation-police?s=a2&amp;share_destination_id=MjQ4NTM3MzQ2LTE3MzgyNjM4NDY2ODA%3D&amp;pd=0Gopusvc&amp;hl=en_US&amp;send_time=1738263846&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q1-v6%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_recall_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v4%2Cns_foryou_model_exp_25q1-v8",
+      "urlToImage": "https://img.particlenews.com/img/id/3rquf3_0yVwEYpK00",
+      "publishedAt": "2025-01-30T19:04:41Z",
+      "content": "12-Year-Old Girl Dies After Drinking Contaminated Milkshake Made in Unwashed Blender at Cafe\r\n A 12-year-old girl died suddenly after she was allegedly exposed to a deadly food allergy at a cafe, acc… [+478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Tribune News Service",
+      "title": "Led by RFK Jr., conservatives embrace raw milk. Regulators say it’s dangerous",
+      "description": "Samples of raw milk can contain bird flu virus and other pathogens linked to kidney disease, miscarriages, and death.",
+      "url": "https://www.bostonherald.com/2025/01/30/led-by-rfk-jr-conservatives-embrace-raw-milk-regulators-say-its-dangerous/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/01/202501291500MCT_____PHOTO____US-NEWS-HEALTH-RAW-MILK-FR.jpg?w=1024&h=883",
+      "publishedAt": "2025-01-30T18:30:00Z",
+      "content": "By Stephanie Armour, KFF Health News\r\nIn summertime, cows wait under a canopy to be milked at Mark McAfee’s farm in Fresno, California. From his Cessna 210 Centurion propeller plane, the 63-year-old … [+8876 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -71,19 +149,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Pius Okello, Olivia Graaf Bjöersdorff, Ingrid Hansson, Sofia Boqvist, Joseph Erume",
-      "title": "Prevalence and antimicrobial resistant Campylobacter spp. in broiler chicken carcasses and hygiene practises in informal urban markets in a low-income setting",
-      "description": "Campylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology of Campylobacter spp. in food sold at informal markets, where most pe…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318516",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318516.t005&size=inline",
-      "publishedAt": "2025-01-30T14:00:00Z",
-      "content": "Abstract\r\nCampylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology… [+41915 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Katharina Salomea Hemmler, Bouraima Camara, Andreas Buerkert",
       "title": "Social ecology of artisanal sand mining in the Niger River around Bamako, Mali",
       "description": "Sand, shaping both natural waterways and urban infrastructure, has recently seen a major surge in extraction, particularly in rapidly urbanizing regions like West Africa. To assess the organization, quantification, and socio-ecological implications of sand mi…",
@@ -104,6 +169,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317431.g006&size=inline",
       "publishedAt": "2025-01-30T14:00:00Z",
       "content": "Abstract\r\nCoastal reefs benefit the survival and growth of mobile organisms by providing shelter and increased food availability. Under increasing pressure from human activities, the coverage of subt… [+46495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Pius Okello, Olivia Graaf Bjöersdorff, Ingrid Hansson, Sofia Boqvist, Joseph Erume",
+      "title": "Prevalence and antimicrobial resistant Campylobacter spp. in broiler chicken carcasses and hygiene practises in informal urban markets in a low-income setting",
+      "description": "Campylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology of Campylobacter spp. in food sold at informal markets, where most pe…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318516",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318516.t005&size=inline",
+      "publishedAt": "2025-01-30T14:00:00Z",
+      "content": "Abstract\r\nCampylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology… [+41915 chars]"
     },
     {
       "source": {
@@ -363,7 +441,7 @@
       "url": "https://www.wftv.com/news/trending/recall-alert-lays-potato-chip-recall-upgraded-class-i/BOL6PMV2VFH5POLKITS3KUASAM/",
       "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2GTX23F4GBF5LN64WZAF2Q6HUY.jpg?auth=4c45751d1477418db5ad1787c5c9049e8072592676c1e95affe1b8108ca19974&width=1200&height=630&smart=true",
       "publishedAt": "2025-01-29T21:31:48Z",
-      "content": "The Lays Classic Potato Chip recall has been upgraded to Class I.\r\nFrito Lay issued the recall in December after it was found that there was a potential or undeclared allergen, specifically milk, in … [+888 chars]"
+      "content": "The Lays Classic Potato Chip recall has been upgraded to Class I.\r\nFrito Lay issued the recall in December after it was found that there was a potential or undeclared allergen, specifically milk, in ��� [+888 chars]"
     },
     {
       "source": {
@@ -1092,84 +1170,6 @@
       "urlToImage": "https://biztoc.com/cdn/2fedf11b19d4d8dc_s.webp",
       "publishedAt": "2025-01-28T12:38:03Z",
       "content": "Broccoli florets sold in Walmart stores across 20 states that were recalled over bacterial contamination fears have been given the U.S. Food and Drug Administration (FDA)'s highest risk level.A singl… [+142 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Ian Randall",
-      "title": "Broccoli Recall Update as FDA Sets Highest Risk Level Over Bacteria Fears",
-      "description": "Consumers are warned to check their freezers for the product sold in Walmart stores across 20 states.",
-      "url": "https://www.newsweek.com/recall-broccoli-florets-walmart-listeria-fda-risk-class-2021910",
-      "urlToImage": "https://d.newsweek.com/en/full/2574856/broccoli-florets-chopping-board.jpg",
-      "publishedAt": "2025-01-28T12:35:10Z",
-      "content": "Broccoli florets sold in Walmart stores across 20 states that were recalled over bacterial contamination fears have been given the U.S. Food and Drug Administration (FDA)'s highest risk level.\r\nA sin… [+2764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Introspective Market Research",
-      "title": "Gluten Free Oats Market: Projected To Reach USD 466.35 Million by 2032 | Glutenfreeda Foods, General Mills, Freedom Foods Group",
-      "description": "Uncontaminated oats are gluten-free. Per FDA rules, gluten-free products with oats necessity have less than 20 ppm of gluten to encounter labeling standards. Uncontaminated oats are gluten-free. Per FDA rules, gluten-free products with oats necessity have les…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/28/3016286/0/en/Gluten-Free-Oats-Market-Projected-To-Reach-USD-466-35-Million-by-2032-Glutenfreeda-Foods-General-Mills-Freedom-Foods-Group.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/94de5d3b-896b-42eb-ac3a-a9b044bfbf39",
-      "publishedAt": "2025-01-28T12:30:00Z",
-      "content": "Wilminton, Delaware,, Jan. 28, 2025 (GLOBE NEWSWIRE) -- Introspective Market Research is thrilled to announce the statement of its newest report, \"Gluten Free Oats Market.\" This inclusive analysis di… [+12499 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Seafood Industry Projections: 3.1% CAGR Expected to Propel Market to USD 1,49,594.6 Million by 2034 | Future Market Insights, Inc.",
-      "description": "The seafood sector is frequently characterized by fragmentation, with several small- to medium-sized players competing in different market segments. This comprises aquaculture producers, processors, merchants, and distributors. This fragmentation is a result …",
-      "url": "https://www.globenewswire.com/news-release/2025/01/28/3016216/0/en/Seafood-Industry-Projections-3-1-CAGR-Expected-to-Propel-Market-to-USD-1-49-594-6-Million-by-2034-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-01-28T11:30:00Z",
-      "content": "NEWARK, Del, Jan. 28, 2025 (GLOBE NEWSWIRE) -- The global seafood business has a very good and strong growth pattern over the years. Seafood sales were approximately USD 110,200 million in 2022. Over… [+21313 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Europe Fertilizer Market Forecast and Company Analysis Report 2025-2033 Featuring Yara Int'l, K+S, CF Industries, GrupaAzoty, ICL Group, OCI, Sociedad Quimica y Minera de Chile, and BASF",
-      "description": "Dublin, Jan. 28, 2025 (GLOBE NEWSWIRE) -- The \"Europe Fertilizer Market by Types, Form, Application, Regions and Company Analysis 2025-2033\" report has been added to ResearchAndMarkets.com's offering.The fertilizer market in Europe is expected to rise from US…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/28/3016202/28124/en/Europe-Fertilizer-Market-Forecast-and-Company-Analysis-Report-2025-2033-Featuring-Yara-Int-l-K-S-CF-Industries-GrupaAzoty-ICL-Group-OCI-Sociedad-Quimica-y-Minera-de-Chile-and-BASF.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-01-28T11:09:00Z",
-      "content": "Dublin, Jan. 28, 2025 (GLOBE NEWSWIRE) -- The \"Europe Fertilizer Market by Types, Form, Application, Regions and Company Analysis 2025-2033\" report has been added to ResearchAndMarkets.com's offering… [+10676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "North America Roll Cover Market to Worth Over US$ 275.81 Million By 2033 | Astute Analytica",
-      "description": "Chemical-resistant roll covers dominate North American procurement, preventing corrosive damage and preserving machinery life in sectors like ink production, petrochemicals, and coatings, where specialized elastomers and fluoropolymers excel under conditions.…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/28/3016197/0/en/North-America-Roll-Cover-Market-to-Worth-Over-US-275-81-Million-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-01-28T11:00:00Z",
-      "content": "New Delhi, Jan. 28, 2025 (GLOBE NEWSWIRE) -- The North America roll cover market was valued at US$ 189.64 million in 2024 and is expected to reach US$ 275.81 million by 2033, at a CAGR of 4.39% durin… [+14869 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Sophie Clark",
-      "title": "Lay's Potato Chips Recall as FDA Sets Highest Risk Level",
-      "description": "A party bag of potato chips from Lay's was recalled in December, and has just been given the highest recall classification from the FDA.",
-      "url": "https://www.newsweek.com/lays-potato-chips-recall-fda-sets-highest-risk-level-2021864",
-      "urlToImage": "https://d.newsweek.com/en/full/2574768/lays-recalled-fda.png",
-      "publishedAt": "2025-01-28T10:20:12Z",
-      "content": "Lay's potato chips have been recalled across two states, and the FDA has set its highest risk level for the recalled chips.\r\nThe Food and Drug Administration (FDA) recalled 6,344 bags of Lay's Classi… [+3164 chars]"
     }
   ],
   "totalResults": 90,
