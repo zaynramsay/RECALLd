@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-02-02T01:44:23.042Z",
+  "lastUpdated": "2025-02-02T06:26:38.722Z",
   "articles": [
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ALBA ALEMÁN Associated Press, FÉLIX MÁRQUEZ Associated Press",
+      "title": "Mexican startup tackles plastic waste by converting it to fuel",
+      "description": "A startup in Mexico is trying to help get a handle on one Gulf coast city’s plastic waste problem by converting it into gasoline, diesel and other fuels",
+      "url": "https://abcnews.go.com/International/wireStory/mexican-startup-tackles-plastic-waste-converting-fuel-118337063",
+      "urlToImage": "https://i.abcnewsfe.com/a/817cfbcd-98d3-4205-af37-3694b4407083/wirestory_eafe7b665638df5c361064e2c5a58f0d_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-01T05:34:20Z",
+      "content": "BOCA DEL RIO, Mexico -- A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% of… [+3058 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "The Associated Press",
+      "title": "Mexican startup tackles plastic waste by converting it to fuel",
+      "description": "BOCA DEL RIO, Mexico (AP) — A startup in Mexico is trying to help get a handle on one Gulf coast city’s plastic waste problem by converting it into gasoline, diesel and other fuels. With less than 10% of the world’s plastics being recycled, Petgas’ idea is th…",
+      "url": "https://financialpost.com/pmn/mexican-startup-tackles-plastic-waste-by-converting-it-to-fuel",
+      "urlToImage": null,
+      "publishedAt": "2025-02-01T05:07:25Z",
+      "content": "BOCA DEL RIO, Mexico (AP) A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% … [+3058 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ALBA ALEMÁN and FÉLIX MÁRQUEZ",
+      "title": "Mexican startup tackles plastic waste by converting it to fuel",
+      "description": "A startup in Mexico is trying to help get a handle on one Gulf coast city’s plastic waste problem by converting it into gasoline, diesel and other fuels...",
+      "url": "https://www.yahoo.com/news/mexican-startup-tackles-plastic-waste-050329687.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PsfY8U9LXaBZNuUvTOgPew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/8dc1f0d480fd1e2d3ebb6a99b78fc57b",
+      "publishedAt": "2025-02-01T05:03:29Z",
+      "content": "BOCA DEL RIO, Mexico (AP) A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% … [+3215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ALBA ALEMÁN and FÉLIX MÁRQUEZ",
+      "title": "Mexican startup tackles plastic waste by converting it to fuel",
+      "description": "A startup in Mexico is trying to help get a handle on one Gulf coast city’s plastic waste problem by converting it into gasoline, diesel and other fuels...",
+      "url": "https://www.yahoo.com/news/mexican-startup-tackles-plastic-waste-050329392.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4O3NRsQNeBD9xxmo_7uwqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/7295ae9c84ec47bc384c6b875e7be52b",
+      "publishedAt": "2025-02-01T05:03:29Z",
+      "content": "BOCA DEL RIO, Mexico (AP) A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% … [+3060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foodpoisonjournal.com"
+      },
+      "author": "Bill Marler",
+      "title": "Dog Food recalled over Salmonella",
+      "description": "Blue Ridge Beef is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination of Salmonella. Lot # N25/12/31 (Lot numbers are stamped in the clips on the end of the chubs/bags) UPC# 854298001054. Salmonella can affect animals eating the product…",
+      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/dog-food-recalled-over-salmonella/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/858/267/7gAk4KJj8QmayaeWQvwqxrD20/ac0de91294f9b41145693d7635005ab8bafc34ac.png",
+      "publishedAt": "2025-02-01T04:35:39Z",
+      "content": "Blue Ridge Beef is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination of Salmonella. Lot # N25/12/31 (Lot numbers are stamped in the clips on the end of the chubs/bags) UPC# 85… [+1960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Ashley Dimella",
+      "title": "Woman with cancer reveals the diet that she says saved her life - NewsBreak",
+      "description": "Author and wellness advocate Liana Werner-Gray talked about her life-threatening cancer diagnosis and the unconventional treatment path that inspired her t",
+      "url": "https://www.newsbreak.com/share/3785133294921-woman-with-cancer-reveals-the-diet-that-she-says-saved-her-life?_f=app_share&amp;pd=0GOkyYtn&amp;lang=en_US&amp;send_time=1738378185&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.4.0.27%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_push_exp_rt_bucketv12-v1%2Cns_foryou_model_exp_25q1-v2%2Cns_foryou_recall_exp_25q1-v5%2Cns_foryou_blend_exp_25q1-v2%2Cns_foryou_rank_exp_25q1-v3&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1s4o4l_0yXzlIYm00",
+      "publishedAt": "2025-02-01T02:50:19Z",
+      "content": "12-Year-Old Girl Dies After Drinking Contaminated Milkshake Made in Unwashed Blender at Cafe\r\n A 12-year-old girl died suddenly after she was allegedly exposed to a deadly food allergy at a cafe, acc… [+478 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -701,7 +779,7 @@
       "url": "https://securityaffairs.com/173622/hacking/us-cisa-adds-apple-products-flaw-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-01-29T20:39:47Z",
-      "content": "U.S. CISA adds Apple products' flaw to its Known Exploited Vulnerabilities catalog\r\n | Aquabot variant v3 targets Mitel SIP phones\r\n | Critical remote code execution bug found in Cacti framework\r\n | … [+135031 chars]"
+      "content": "U.S. CISA adds Apple products' flaw to its Known Exploited Vulnerabilities catalog\r\n��| Aquabot variant v3 targets Mitel SIP phones\r\n | Critical remote code execution bug found in Cacti framework\r\n | … [+135031 chars]"
     },
     {
       "source": {
@@ -1105,99 +1183,8 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/555/940/5R7NlW8nEzjVvXm9zmvbxgLyP/047fca3efa31fd24a015b9f19ae7e8b388ddb7d1.png",
       "publishedAt": "2025-01-29T05:05:00Z",
       "content": "People often underestimate the importance of kitchen hygiene in preventing foodborne illness, according to a German agency.\r\nEvery year, more than 100,000 illnesses are reported in Germany that may h… [+3186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Monique Steele",
-      "title": "Kiwifruit growers welcome $24.1m payout to Zespri for mice infestation",
-      "description": "Zespri CEO Jason Te Brake said the settlement was a positive outcome for the industry.",
-      "url": "https://www.nzherald.co.nz/the-country/news/kiwifruit-growers-welcome-241m-payout-to-zespri-for-mice-infestation/EJDKKOIUBBDWREQ3JKLDIH3I3A/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/V7CX2N7R35GPJAGQU5MLQZ6B6E.JPG?auth=d41070fcb21575bf50b41d4330946aafba9ad526a53de51c0d37cc9b40c530dc&width=1200&height=675&quality=70&focal=977%2C492&smart=false",
-      "publishedAt": "2025-01-29T03:00:00Z",
-      "content": "We take fruit quality incredibly seriously and our decision to dispose of the fruit from the impacted vessel reflects our ongoing commitment to food safety and protecting our brand.\r\nKiwifruit Grower… [+1463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Wismettac Asian Foods Issues Allergy Alert on Undeclared Milk in Curvee Puffs Corn Puff Snack",
-      "description": "Wismettac Asian Foods, Inc., Santa Fe Springs, CA is expanding its January 17, 2025 recall of 2.46 oz packages of Shirakiku brand Curvee Puffs Corn Puff Snack Curry Flavor. The expansion now includes two additional flavors; Sea Salt & Umami Flavor and Corn Po…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wismettac-asian-foods-issues-allergy-alert-undeclared-milk-curvee-puffs-corn-puff-snack",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-01-29T01:08:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 28, 2025\r\nFDA Publish Date:\r\nJanuary 28, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nSnack Food Item\r\nAllergens\r\nReason for Announcement:\r\nRecall Reason D… [+2799 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "Why Lay’s Potato Chip Recall Was Elevated To FDA’s Deadliest Category",
-      "description": "The Lay’s potato chips recall for undeclared milk was upgraded to the FDA’s highest risk level. Find out what this means for consumers and food safety in 2025.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/01/28/why-lays-potato-chip-recall-was-elevated-to-fdas-deadliest-category/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67996f8f8aabf928a38e37c6/0x0.jpg?format=jpg&crop=5000,2810,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-29T00:07:52Z",
-      "content": "Find out why the Lays potato chips recall for undeclared milk became a Class I warning and what ... [+] this means for consumers with allergies in the U.S.\r\nSOPA Images/LightRocket via Getty Images\r\n… [+5140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "FOX 61",
-      "title": "Tong (CT AG) says federal spending freeze 'a full assault on Connecticut families'",
-      "description": "Connecticut's Attorney General claimed Tuesday that the Trump administration's actions to freeze Federal spending were an \"unprecedented and blatantly lawless and unconstitutional attack.\" Other Democrats also blasted other orders from the president. William …",
-      "url": "https://freerepublic.com/focus/f-news/4293363/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-01-28T23:37:27Z",
-      "content": "Skip to comments.\r\nTong (CT AG) says federal spending freeze 'a full assault on Connecticut families'FOX 61 ^Posted on 01/28/2025 3:37:27 PM PST by matt04\r\nConnecticut's Attorney General claimed Tues… [+5971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "VMware fixed a flaw in Avi Load Balancer",
-      "description": "VMware fixed a high-risk blind SQL injection vulnerability in Avi Load Balancer, allowing attackers to exploit databases via crafted queries. VMware warns of a high-risk blind SQL injection vulnerability, tracked as CVE-2025-22217 (CVSS score of 8.6), in Avi …",
-      "url": "https://securityaffairs.com/173569/security/vmware-fixed-avi-load-balancer-flaw.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/04/vmware-logo.png",
-      "publishedAt": "2025-01-28T23:04:25Z",
-      "content": "VMware fixed a flaw in Avi Load Balancer\r\n | EU announced sanctions on three members of Russia's GRU Unit 29155\r\n | Chinese AI platform DeepSeek faced a \"large-scale\" cyberattack\r\n | Apple fixed the … [+134682 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Bread Crumb Recall Sparks Nationwide Warning",
-      "description": "La Fiesta Food Products is recalling eight ounce packages of its La Fiesta brand Unseasoned Bread Crumbs (Pan Rayado) and Seasoned Bread Crumbs (Pan Rayado Sazonado) due to the products containing sesame as an undeclared allergen, the U.S. Food and Drug Admin…",
-      "url": "https://biztoc.com/x/f453ca6b00285075",
-      "urlToImage": "https://biztoc.com/cdn/f453ca6b00285075_s.webp",
-      "publishedAt": "2025-01-28T21:31:58Z",
-      "content": "La Fiesta Food Products is recalling eight ounce packages of its La Fiesta brand Unseasoned Bread Crumbs (Pan Rayado) and Seasoned Bread Crumbs (Pan Rayado Sazonado) due to the products containing se… [+146 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jon Jackson",
-      "title": "Bread Crumb Recall Sparks Nationwide Warning",
-      "description": "La Fiesta Food Products is recalling bread crumbs due to an undeclared allergen.",
-      "url": "https://www.newsweek.com/bread-crumb-recall-sparks-nationwide-warning-2022470",
-      "urlToImage": "https://d.newsweek.com/en/full/2575696/meat-coated-bread-crumbs.jpg",
-      "publishedAt": "2025-01-28T21:26:09Z",
-      "content": "La Fiesta Food Products is recalling eight ounce packages of its La Fiesta brand Unseasoned Bread Crumbs (Pan Rayado) and Seasoned Bread Crumbs (Pan Rayado Sazonado) due to the products containing se… [+3094 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 91,
   "filteredCount": 1
 }
