@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-01T18:25:32.913Z",
+  "lastUpdated": "2025-02-02T01:44:23.042Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Major Dog Food Recall Issued Due to Salmonella Contamination",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_26500e81-bbe2-462e-a123-98bb029c1737",
+      "urlToImage": null,
+      "publishedAt": "2025-02-01T01:40:22Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Contec CMS8000 patient monitors contain a hidden backdoor",
+      "description": "The U.S. CISA and the FDA warned of a hidden backdoor in Contec CMS8000 and Epsimed MN-120 patient monitors. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Food and Drug Administration (FDA) warned that three flaws in Contec CMS8000 …",
+      "url": "https://securityaffairs.com/173694/security/cisa-fda-warned-hidden-backdoor-in-contec-cms8000.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-01T00:23:46Z",
+      "content": "Contec CMS8000 patient monitors contain a hidden backdoor\r\n | Community Health Center data breach impacted over 1 million patients\r\n | Italy's data protection authority Garante blocked the DeepSeek A… [+135717 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Full List of Food Recalls in January as Warnings Issued Nationwide",
+      "description": "Numerous food recalls were initiated nationwide this month due to undeclared allergens, potential Salmonella and Listeria contamination concerns, possible foreign matter contaminations among other reasons.\nNewsweek reached out to the U.S. Food Safey and Inspe…",
+      "url": "https://biztoc.com/x/df1ddf14521037bb",
+      "urlToImage": "https://biztoc.com/cdn/df1ddf14521037bb_s.webp",
+      "publishedAt": "2025-01-31T21:16:49Z",
+      "content": "Numerous food recalls were initiated nationwide this month due to undeclared allergens, potential Salmonella and Listeria contamination concerns, possible foreign matter contaminations among other re… [+145 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Joe Edwards",
+      "title": "Full List of Food Recalls in January as Warnings Issued Nationwide",
+      "description": "The FDA and FSIS both update their websites with information of new food related recalls as they happen.",
+      "url": "https://www.newsweek.com/full-list-food-recalls-january-warnings-issued-nationwide-2019383",
+      "urlToImage": "https://d.newsweek.com/en/full/2578678/food-recalls.jpg",
+      "publishedAt": "2025-01-31T21:11:58Z",
+      "content": "Numerous food recalls were initiated nationwide this month due to undeclared allergens, potential Salmonella and Listeria contamination concerns, possible foreign matter contaminations among other re… [+6914 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Community Health Center data breach impacted over 1 million patients",
+      "description": "Community Health Center (CHC) data breach impacted over 1 million patients in Connecticut, the healthcare provider started notifying them. Community Health Center (CHC) is a leading healthcare provider based in Connecticut, offering primary care, dental, beha…",
+      "url": "https://securityaffairs.com/173687/data-breach/community-health-center-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2013/04/DataBreach.jpg",
+      "publishedAt": "2025-01-31T21:08:29Z",
+      "content": "Community Health Center data breach impacted over 1 million patients\r\n | Italy's data protection authority Garante blocked the DeepSeek AI platform\r\n | Broadcom fixed information disclosure flaws in … [+135655 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Blue Ridge Beef Issues a Recall of Blue Ridge Beef Natural Mix Due to Salmonella Contamination",
+      "description": "January 31, 2025– Blue Ridge Beef is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination of Salmonella. Lot # N25/12/31 (Lot numbers are stamped in the clips on the end of the chubs/bags) UPC# 854298001054.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-issues-recall-blue-ridge-beef-natural-mix-due-salmonella-contamination",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-31T19:38:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 31, 2025\r\nFDA Publish Date:\r\nJanuary 31, 2025\r\nProduct Type:\r\nAnimal &amp; VeterinaryFood &amp; Beverages Pet Food\r\nFoodborne Illness\r\nReason for Announce… [+2952 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Kate Nalepinski",
+      "title": "Mustard Recall Update for 4 States As FDA Issues Alert Level",
+      "description": "The FDA has issued a classification for an existing mustard recall for Keith Valley and Red Boy Mustard after the products tested positive for salmonella.",
+      "url": "https://www.newsweek.com/product-recall-salmonella-mustard-fda-update-alert-warning-2024391",
+      "urlToImage": "https://d.newsweek.com/en/full/2578590/certain-brands-mustard-recalled.jpg",
+      "publishedAt": "2025-01-31T18:56:44Z",
+      "content": "Federal regulators have updated the classification for an existing recall of two mustard brands after a key ingredient tested positive for salmonella.\r\nThe recall, first issued December 17, 2024, aff… [+3044 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -292,6 +383,19 @@
         "id": null,
         "name": "Plos.org"
       },
+      "author": "Pius Okello, Olivia Graaf Bjöersdorff, Ingrid Hansson, Sofia Boqvist, Joseph Erume",
+      "title": "Prevalence and antimicrobial resistant Campylobacter spp. in broiler chicken carcasses and hygiene practises in informal urban markets in a low-income setting",
+      "description": "Campylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology of Campylobacter spp. in food sold at informal markets, where most pe…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318516",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318516.t005&size=inline",
+      "publishedAt": "2025-01-30T14:00:00Z",
+      "content": "Abstract\r\nCampylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology… [+41915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
       "author": "Katharina Salomea Hemmler, Bouraima Camara, Andreas Buerkert",
       "title": "Social ecology of artisanal sand mining in the Niger River around Bamako, Mali",
       "description": "Sand, shaping both natural waterways and urban infrastructure, has recently seen a major surge in extraction, particularly in rapidly urbanizing regions like West Africa. To assess the organization, quantification, and socio-ecological implications of sand mi…",
@@ -312,19 +416,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317431.g006&size=inline",
       "publishedAt": "2025-01-30T14:00:00Z",
       "content": "Abstract\r\nCoastal reefs benefit the survival and growth of mobile organisms by providing shelter and increased food availability. Under increasing pressure from human activities, the coverage of subt… [+46495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Pius Okello, Olivia Graaf Bjöersdorff, Ingrid Hansson, Sofia Boqvist, Joseph Erume",
-      "title": "Prevalence and antimicrobial resistant Campylobacter spp. in broiler chicken carcasses and hygiene practises in informal urban markets in a low-income setting",
-      "description": "Campylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology of Campylobacter spp. in food sold at informal markets, where most pe…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318516",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318516.t005&size=inline",
-      "publishedAt": "2025-01-30T14:00:00Z",
-      "content": "Abstract\r\nCampylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology… [+41915 chars]"
     },
     {
       "source": {
@@ -1105,86 +1196,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2575696/meat-coated-bread-crumbs.jpg",
       "publishedAt": "2025-01-28T21:26:09Z",
       "content": "La Fiesta Food Products is recalling eight ounce packages of its La Fiesta brand Unseasoned Bread Crumbs (Pan Rayado) and Seasoned Bread Crumbs (Pan Rayado Sazonado) due to the products containing se… [+3094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thekitchn.com"
-      },
-      "author": "Rebecca Jones",
-      "title": "This Is How Often You Should Ditch Your Kitchen Sponge, According to Microbiologists",
-      "description": "It might not be as often as you think.\nREAD MORE...",
-      "url": "https://www.thekitchn.com/when-to-change-kitchen-sponge-23707189",
-      "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/stock%2Fcustom%20stock%2Fat-cleaning-stock-bathroom-tile-sponge",
-      "publishedAt": "2025-01-28T20:45:00Z",
-      "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nIn most homes, a sponge is the primary vehicle … [+4032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "blogTO"
-      },
-      "author": "Irish Mae Silvestre",
-      "title": "Lawsuit filed after deaths of Toronto mother and son on trip to Dominican Republic",
-      "description": "What should have been a memorable family vacation in the Dominican Republic turned into a tragedy that left a Toronto mom and her son dead.\r\nA year after the deaths of April Gougeon, 41, and her son, Oliver, 8, a civil lawsuit filed by their family alleges th…",
-      "url": "https://www.blogto.com/city/2025/01/lawsuit-filed-deaths-mother-son-toronto-dominican-republic/",
-      "urlToImage": "https://display.blogto.com/articles/20250128-canadian-family-lawsuit.jpeg?w=1200&cmd=resize_then_crop&height=630&quality=70",
-      "publishedAt": "2025-01-28T18:44:43Z",
-      "content": "What should have been a memorable family vacation in the Dominican Republic turned into a tragedy that left a Toronto mom and her son dead.\r\nA year after the deaths of April Gougeon, 41, and her son,… [+5299 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Natalie Dreier",
-      "title": "Recall alert: Salmon sold at Costco upgraded to Class I recall",
-      "description": "Salmon that was sold at Costco and recalled in October is now under a Class I recall.",
-      "url": "https://www.wsbtv.com/news/trending/recall-alert-salmon-sold-costco-upgraded-class-i-recall/QXB4BEGVONDWLLMVXWQJZELNYA/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKXGCXH7PM5DP7JDELNUDZ66Z64.jpg?auth=c7b3f2ce23fff5feeaba66f5f4ca2e705653f24daabef00dfb82e81502a70a0d&width=1200&height=630&smart=true",
-      "publishedAt": "2025-01-28T18:40:01Z",
-      "content": "Salmon that was sold at Costco and recalled in October is now under a Class I recall. \r\nAcme Smoked Fish Corporation recalled 111 cases of Kirkland Signature Smoked Salmon when a lab found it had bee… [+1230 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "author": "Natalie Dreier",
-      "title": "Recall alert: Salmon sold at Costco upgraded to Class I recall",
-      "description": "Salmon that was sold at Costco and recalled in October is now under a Class I recall.",
-      "url": "https://www.wpxi.com/news/trending/recall-alert-salmon-sold-costco-upgraded-class-i-recall/QXB4BEGVONDWLLMVXWQJZELNYA/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKXGCXH7PM5DP7JDELNUDZ66Z64.jpg?auth=c7b3f2ce23fff5feeaba66f5f4ca2e705653f24daabef00dfb82e81502a70a0d&width=1200&height=630&smart=true",
-      "publishedAt": "2025-01-28T16:51:16Z",
-      "content": "Salmon that was sold at Costco and recalled in October is now under a Class I recall. \r\nAcme Smoked Fish Corporation recalled 111 cases of Kirkland Signature Smoked Salmon when a lab found it had bee… [+1230 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Ransomware attack on ENGlobal compromised personal information",
-      "description": "ENGlobal reported to the SEC that personal information was compromised in a ransomware attack that took place in November 2024. ENGlobal disclosed a ransomware attack that occurred in November, in a SEC filing the company confirmed that threat actors gained a…",
-      "url": "https://securityaffairs.com/173566/cyber-crime/englobal-disclosed-a-ransomware-attack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg",
-      "publishedAt": "2025-01-28T16:41:37Z",
-      "content": "EU announced sanctions on three members of Russia's GRU Unit 29155\r\n | Chinese AI platform DeepSeek faced a \"large-scale\" cyberattack\r\n | Apple fixed the first actively exploited zero-day of 2025\r\n |… [+134637 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Shamim Chowdhury",
-      "title": "Coca-Cola Recalls Drinks Over Chlorate Contamination Fears",
-      "description": "Coca-Cola has started a recall of several soft drink products in Europe after higher-than-normal levels of chlorate were detected.",
-      "url": "https://www.newsweek.com/cocacola-recalls-drinks-over-chlorate-contamination-fears-2022059",
-      "urlToImage": "https://d.newsweek.com/en/full/2575048/coca-cola-belgium.jpg",
-      "publishedAt": "2025-01-28T16:36:49Z",
-      "content": "Coca-Cola has initiated a recall of several soft drink products in Europe after higher-than-normal levels of chlorate were detected during routine checks at a production plant in Belgium.\r\nWhy It Mat… [+2891 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 92,
   "filteredCount": 1
 }
