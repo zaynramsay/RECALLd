@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-02-02T18:27:15.717Z",
+  "lastUpdated": "2025-02-03T01:42:03.591Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox News",
+      "title": "FDA recalls breadcrumbs sold nationwide over undeclared allergen",
+      "description": "Breadcrumbs sold for months throughout the United States contain an undeclared allergen and are being recalled for safety reasons, the Food and Drug Administration announced on its website on Jan. 28.",
+      "url": "https://nypost.com/2025/02/01/lifestyle/fda-recalls-la-fiesta-breadcrumbs-sold-nationwide/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/97737890.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-02-02T01:09:03Z",
+      "content": "Breadcrumbs sold for months throughout the United States contain an undeclared allergen and are being recalled for safety reasons, the Food and Drug Administration announced on its website on Jan. 28… [+2311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Ransomware attack hit Indian multinational Tata Technologies",
+      "description": "Indian multinational technology company Tata Technologies suspended some IT services following a ransomware attack. Indian multinational Tata Technologies, a Tata Motors subsidiary, suspended some IT services following a ransomware attack. The company, which …",
+      "url": "https://securityaffairs.com/173712/cyber-crime/tata-technologies-ransomware-attack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
+      "publishedAt": "2025-02-02T00:48:39Z",
+      "content": "Ransomware attack hit Indian multinational Tata Technologies\r\n | A ransomware attack forced New York Blood Center to reschedule appointments\r\n | Contec CMS8000 patient monitors contain a hidden backd… [+135862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Jean Perrin Morbier cheese recalled in Canada because of E. coli contamination",
+      "description": "The Canadian Food Inspection Agency has recalled certain products of morbier cheese in British Columbia because of pathogenic E. colicontamination.  Morbier, a semi-soft cows’ milk cheese, has been recalled by the CFIA for E. Coli found in some Jean Perrin-br…",
+      "url": "https://www.foodsafetynews.com/2025/02/jean-perrin-morbier-cheese-recalled-in-canada-because-of-e-coli-contamination/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/910/075/g4ZpR2ONeYJBAK7KYEqvo9WBA/de7768f576975809ba60b2a7f0b4b200d301db64.png",
+      "publishedAt": "2025-02-02T00:33:31Z",
+      "content": "The Canadian Food Inspection Agency has recalled certain products of morbier cheese in British Columbia because of pathogenic E. colicontamination. \r\nMorbier, a semi-soft cows’ milk cheese, has been … [+2190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Almost 3 tons of pet food recalled after state test shows Salmonella contamination",
+      "description": "Blue Ridge Beef is recalling 5,700 pounds of their 2-pound log Natural Mix because of contamination with Salmonella.  Lot number N25/12/31 is stamped in the clips on the end of the chubs/bags. The recalled food is marked with UPC 854298001054. Salmonella can …",
+      "url": "https://www.foodsafetynews.com/2025/02/almost-3-tons-of-pet-food-recalled-after-state-test-shows-salmonella-contamination/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/909/303/NWlVkgmbMQEB5dZAYZyAqEwDo/fdf403ffcc9714da7047f2adf07ebcac46a5f697.png",
+      "publishedAt": "2025-02-02T00:05:07Z",
+      "content": "Blue Ridge Beef is recalling 5,700 pounds of their 2-pound log Natural Mix because of contamination with Salmonella. \r\nLot number N25/12/31 is stamped in the clips on the end of the chubs/bags. The r… [+3230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "local12.com",
+      "title": "More than 5,000 lbs of pet food recalled due to Salmonella risk",
+      "description": "A pet food manufacturer has issued a recall due to Salmonella contamination.\nBlue Ridge Beef recalled 5,700 pounds of its 2-pound log Natural Mix pet food. The affected lot number is N25/12/31, and the UPC is 854298001054. The recall is being conducted with t…",
+      "url": "https://biztoc.com/x/14381244f830ae26",
+      "urlToImage": "https://biztoc.com/cdn/14381244f830ae26_s.webp",
+      "publishedAt": "2025-02-02T00:01:55Z",
+      "content": "A pet food manufacturer has issued a recall due to Salmonella contamination.Blue Ridge Beef recalled 5,700 pounds of its 2-pound log Natural Mix pet food. The affected lot number is N25/12/31, and th… [+151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "Dr. Mercola",
+      "title": "Cellular Health Revolution — Unveiling Hidden Threats and Empowering Solutions",
+      "description": "In my appearance on The Jimmy Dore Show, we explored a vital yet often overlooked aspect of human well-being — cellular health and the myriad of silent toxins eroding it. I shared insights from my latest book, \"Your Guide to Cellular Health: Unlocking the Sci…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/02/cellular-health-revolution.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/October/FB/cellular-health-revolution-fb.jpg",
+      "publishedAt": "2025-02-02T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A ransomware attack forced New York Blood Center to reschedule appointments",
+      "description": "The New York Blood Center faced a ransomware attack on Sunday, forcing the healthcare organization to reschedule appointments. The New York Blood Center suffered a ransomware attack on Sunday, causing appointment rescheduling. The New York Blood Center (NYBC)…",
+      "url": "https://securityaffairs.com/173702/cyber-crime/new-york-blood-center-faced-ransomware-attack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
+      "publishedAt": "2025-02-01T21:24:49Z",
+      "content": "A ransomware attack forced New York Blood Center to reschedule appointments\r\n | Contec CMS8000 patient monitors contain a hidden backdoor\r\n | Community Health Center data breach impacted over 1 milli… [+135797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "cbsnews.com",
+      "title": "Blue Ridge Beef recalls natural dog food across 8 states over salmonella risk",
+      "description": "Blue Ridge Beef recalled their natural mix for dog food across eight states, the FDA said Friday in an alert. The company is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination of salmonella.\nIn December, Blue Ridge Beef\n9,600 pounds of …",
+      "url": "https://biztoc.com/x/bcbfc6dae9a46028",
+      "urlToImage": "https://biztoc.com/cdn/bcbfc6dae9a46028_s.webp",
+      "publishedAt": "2025-02-01T20:20:47Z",
+      "content": "Blue Ridge Beef recalled their natural mix for dog food across eight states, the FDA said Friday in an alert. The company is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination … [+143 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Cara Tabachnick",
+      "title": "Blue Ridge Beef recalls natural dog food across 8 states over salmonella risk",
+      "description": "Blue Ridge Beef recalled dog food due to a contamination of salmonella, the FDA said.",
+      "url": "https://www.cbsnews.com/news/blue-ridge-beef-natural-dog-food-recalled-across-8-states-salmonella/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/01/52791d19-7fca-4e3a-aa7e-c21b453d1f4a/thumbnail/1200x630/8d86b7573a876da824b82ad3f2373f0d/screenshot-2025-02-01-at-3-02-51-pm.png?v=a599723035d2f104d7a2d01edbe96ef8",
+      "publishedAt": "2025-02-01T20:12:15Z",
+      "content": "Blue Ridge Beef recalled their natural mix for dog food across eight states, the FDA said Friday in an alert. The company is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination … [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Christine Rousselle",
+      "title": "FDA recalls breadcrumbs sold nationwide",
+      "description": "The FDA announced that breadcrumbs sold nationwide for several months neglected to note that they contained sesame ingredients, and are now being recalled.",
+      "url": "https://www.foxnews.com/food-drink/fda-recalls-breadcrumbs-sold-nationwide",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/gettyimages-463060803.jpg",
+      "publishedAt": "2025-02-01T18:55:54Z",
+      "content": "Breadcrumbs sold for months throughout the United States contain an undeclared allergen and are being recalled for safety reasons, the Food and Drug Administration announced on its website on Jan. 28… [+2233 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -385,7 +515,7 @@
       },
       "author": "admin",
       "title": "Cholera claims 43 lives, 480 infections recorded",
-      "description": "Ghana’s cholera outbreak has so far claimed the lives of 43 persons and a total of 480 infections, the Ghana Health Service (GHS) has said. The cholera outbreak, which hit the country in October 2024, has spread to five regions, including Greater Accra, Centr���",
+      "description": "Ghana’s cholera outbreak has so far claimed the lives of 43 persons and a total of 480 infections, the Ghana Health Service (GHS) has said. The cholera outbreak, which hit the country in October 2024, has spread to five regions, including Greater Accra, Centr…",
       "url": "https://thechronicle.com.gh/cholera-claims-43-lives-480-infections-recorded/",
       "urlToImage": "https://bunny-wp-pullzone-vufvp0bs6b.b-cdn.net/wp-content/uploads/2023/10/Health.jpg",
       "publishedAt": "2025-01-31T08:35:33Z",
@@ -1079,136 +1209,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-117692795,width-1200,height-630,imgsize-186822,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-01-29T14:10:49Z",
       "content": "Robert F. Kennedy Jr.'s anti-vaccine advocacy is outside the mainstream. His previous statements on abortion could alienate Republicans. But a new poll finds that not all of his controversial health … [+6827 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Émile Sylvestre, William J. Rhoads, Timothy R. Julian, Frederik Hammes",
-      "title": "Quantification of Legionella pneumophila in building potable water systems: A meta-analysis comparing qPCR and culture-based detection methods",
-      "description": "Quantitative polymerase chain reaction (qPCR) offers a rapid, automated, and potentially on-site method for quantifying L. pneumophila in building potable water systems, complementing and potentially replacing traditional culture-based techniques. However, it…",
-      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000291",
-      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000291.g006&size=inline",
-      "publishedAt": "2025-01-29T14:00:00Z",
-      "content": "Abstract\r\nQuantitative polymerase chain reaction (qPCR) offers a rapid, automated, and potentially on-site method for quantifying L. pneumophila in building potable water systems, complementing and p… [+46824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Shuai Huang, Minghui Xing, Haifeng Wang",
-      "title": "Comparative analysis of antibiotic resistance genes between fresh pig manure and composted pig manure in winter, China",
-      "description": "Antibiotic resistance is a critical global public health issue. The gut microbiome acts as a reservoir for numerous antibiotic resistance genes (ARGs), which influence both existing and future microbial populations within a community or ecosystem. However, th…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317827",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317827.g007&size=inline",
-      "publishedAt": "2025-01-29T14:00:00Z",
-      "content": "Abstract\r\nAntibiotic resistance is a critical global public health issue. The gut microbiome acts as a reservoir for numerous antibiotic resistance genes (ARGs), which influence both existing and fut… [+44889 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Fill-Finish Manufacturing Market Size to Hit USD 33.5 Billion by 2032, Growing at a CAGR of 9.1% - SNS Insider",
-      "description": "Fill-Finish Manufacturing Market growth is driven by the increasing demand for biologics, vaccines, and injectable pharmaceuticals, alongside advancements in automation and robotics. Fill-Finish Manufacturing Market growth is driven by the increasing demand f…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/29/3017150/0/en/Fill-Finish-Manufacturing-Market-Size-to-Hit-USD-33-5-Billion-by-2032-Growing-at-a-CAGR-of-9-1-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-01-29T13:05:00Z",
-      "content": "Pune, Jan. 29, 2025 (GLOBE NEWSWIRE) -- Fill-Finish Manufacturing Market Size &amp; Growth Analysis:\r\nAccording to SNS Insider, the global Fill-Finish Manufacturing Market size was valued at USD 15.4… [+11060 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WJXT News4JAX"
-      },
-      "author": "Linley Sanders",
-      "title": "From anti-vaccine advocacy to raw milk, many of RFK Jr.'s views fall outside the mainstream",
-      "description": "From anti-vaccine advocacy to raw milk, many of RFK Jr.'s views fall outside the mainstreamnews4jax.com",
-      "url": "https://www.news4jax.com/news/politics/2025/01/29/from-anti-vaccine-advocacy-to-raw-milk-many-of-rfk-jrs-views-fall-outside-the-mainstream/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C5HJU2P2ZFA43NI62AWKKVYYWQ.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2025-01-29T13:00:32Z",
-      "content": "WASHINGTON Robert F. Kennedy Jr.'s anti-vaccine advocacy is outside the mainstream. His previous statements on abortion could alienate Republicans. But a new poll finds that not all of his controvers… [+7141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Discover Magazine"
-      },
-      "author": "Pamela Weintraub",
-      "title": "The Doctor Who Drank Infectious Broth and Solved a Medical Mystery (2010)",
-      "description": "The medical elite thought they knew what caused ulcers and stomach cancer. But they were wrong — and didn't want to hear otherwise.",
-      "url": "https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery",
-      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/01LEOITa82iL4fZ5Bb982u/f294311f8d9f33c8a1a12e2689b06f02/medicalmystery.jpg",
-      "publishedAt": "2025-01-29T12:42:25Z",
-      "content": "For years an obscure doctor hailing from Australias hardscrabble west coast watched in horror as ulcer patients fell so ill that many had their stomach removed or bled until they died. That physician… [+21742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Straits Research Private Limited - Garner Insights",
-      "title": "Glass Packaging Market Size is Projected to Reach USD 105.25 Billion by 2033, Growing at a CAGR of 4.39% | Straits Research",
-      "description": "The global glass packaging market size was valued at USD 71.50 billion in 2024 and is projected to reach from USD 74.64 billion in 2025 to USD 105.25 billion by 2033, growing at a CAGR of 4.39% during the forecast period (2025-2033). The global glass packagin…",
-      "url": "https://www.globenewswire.com/news-release/2025/01/29/3017076/0/en/Glass-Packaging-Market-Size-is-Projected-to-Reach-USD-105-25-Billion-by-2033-Growing-at-a-CAGR-of-4-39-Straits-Research.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0772b43c-9649-415d-a2b8-bd58fd4badd8",
-      "publishedAt": "2025-01-29T12:30:00Z",
-      "content": "New York, United States, Jan. 29, 2025 (GLOBE NEWSWIRE) -- Glass packaging refers to using glass containers or bottles to store and protect products, such as food, beverages, cosmetics, and pharmaceu… [+7956 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Chocolate Recall Update As FDA Sets Highest Risk Level for 9 States",
-      "description": "Three chocolates made by the same manufacturer have been given the highest recall classification due to an undeclared allergen.\nDark Chocolate Almonds, Dark Chocolate Apricots, and Dark Chocolate Walnuts from Cal Yee Farm have been given a Class 1 recall clas…",
-      "url": "https://biztoc.com/x/1dbadc1f9cca09b6",
-      "urlToImage": "https://biztoc.com/cdn/1dbadc1f9cca09b6_s.webp",
-      "publishedAt": "2025-01-29T12:29:57Z",
-      "content": "Three chocolates made by the same manufacturer have been given the highest recall classification due to an undeclared allergen.Dark Chocolate Almonds, Dark Chocolate Apricots, and Dark Chocolate Waln… [+143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WDIV ClickOnDetroit"
-      },
-      "author": "Linley Sanders",
-      "title": "From anti-vaccine advocacy to raw milk, many of RFK Jr.'s views fall outside the mainstream",
-      "description": "From anti-vaccine advocacy to raw milk, many of RFK Jr.'s views fall outside the mainstreamclickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/politics/2025/01/29/from-anti-vaccine-advocacy-to-raw-milk-many-of-rfk-jrs-views-fall-outside-the-mainstream/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GRGUVLRUGZAVRPS34CBV7QAZBQ.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2025-01-29T12:27:10Z",
-      "content": "WASHINGTON Robert F. Kennedy Jr.'s anti-vaccine advocacy is outside the mainstream. His previous statements on abortion could alienate Republicans. But a new poll finds that not all of his controvers… [+7141 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Sophie Clark",
-      "title": "Chocolate Recall Update As FDA Sets Highest Risk Level for 9 States",
-      "description": "A recall which was issued across nine states has now been given the highest risk classification by the federal agency.",
-      "url": "https://www.newsweek.com/chocolate-recall-update-fda-sets-highest-risk-level-nine-states-2022690",
-      "urlToImage": "https://d.newsweek.com/en/full/2576004/fda-building-md.jpg",
-      "publishedAt": "2025-01-29T12:26:52Z",
-      "content": "Three chocolates made by the same manufacturer have been given the highest recall classification due to an undeclared allergen.\r\nDark Chocolate Almonds, Dark Chocolate Apricots, and Dark Chocolate Wa… [+2968 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Sorbet Recall Update As FDA Sets Highest Risk Level",
-      "description": "A sorbet-filled mochi recalled due to an undeclared allergen has been given the U.S. Food and Drug Administration (FDA)'s highest risk level.\nThe My Mochi Ice Cream Company of Vernon, California, recalled 1,350 cases of the peach mango–flavored dessert after …",
-      "url": "https://biztoc.com/x/43b157df3d0e71ff",
-      "urlToImage": "https://biztoc.com/cdn/43b157df3d0e71ff_s.webp",
-      "publishedAt": "2025-01-29T12:18:51Z",
-      "content": "A sorbet-filled mochi recalled due to an undeclared allergen has been given the U.S. Food and Drug Administration (FDA)'s highest risk level.The My Mochi Ice Cream Company of Vernon, California, reca… [+137 chars]"
     }
   ],
   "totalResults": 93,
