@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-02-03T18:28:53.485Z",
+  "lastUpdated": "2025-02-04T01:40:46.474Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "foodsafetynews.com",
+      "title": "Almost 3 tons of pet food recalled after state test shows Salmonella contamination",
+      "description": "Blue Ridge Beef is recalling 5,700 pounds of their 2-pound log Natural Mix because of contamination with Salmonella.\nLot number N25/12/31 is stamped in the clips on the end of the chubs/bags. The recalled food is marked with UPC 854298001054.\nSalmonella can a…",
+      "url": "https://biztoc.com/x/573de75b3c8beb11",
+      "urlToImage": "https://biztoc.com/cdn/573de75b3c8beb11_s.webp",
+      "publishedAt": "2025-02-02T20:40:42Z",
+      "content": "Blue Ridge Beef is recalling 5,700 pounds of their 2-pound log Natural Mix because of contamination with Salmonella.Lot number N25/12/31 is stamped in the clips on the end of the chubs/bags. The reca… [+153 chars]"
+    },
     {
       "source": {
         "id": "usa-today",
@@ -890,6 +903,19 @@
         "id": null,
         "name": "Plos.org"
       },
+      "author": "Pius Okello, Olivia Graaf Bjöersdorff, Ingrid Hansson, Sofia Boqvist, Joseph Erume",
+      "title": "Prevalence and antimicrobial resistant Campylobacter spp. in broiler chicken carcasses and hygiene practises in informal urban markets in a low-income setting",
+      "description": "Campylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology of Campylobacter spp. in food sold at informal markets, where most pe…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318516",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318516.t005&size=inline",
+      "publishedAt": "2025-01-30T14:00:00Z",
+      "content": "Abstract\r\nCampylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology… [+41915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
       "author": "Katharina Salomea Hemmler, Bouraima Camara, Andreas Buerkert",
       "title": "Social ecology of artisanal sand mining in the Niger River around Bamako, Mali",
       "description": "Sand, shaping both natural waterways and urban infrastructure, has recently seen a major surge in extraction, particularly in rapidly urbanizing regions like West Africa. To assess the organization, quantification, and socio-ecological implications of sand mi…",
@@ -910,19 +936,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317431.g006&size=inline",
       "publishedAt": "2025-01-30T14:00:00Z",
       "content": "Abstract\r\nCoastal reefs benefit the survival and growth of mobile organisms by providing shelter and increased food availability. Under increasing pressure from human activities, the coverage of subt… [+46495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Pius Okello, Olivia Graaf Bjöersdorff, Ingrid Hansson, Sofia Boqvist, Joseph Erume",
-      "title": "Prevalence and antimicrobial resistant Campylobacter spp. in broiler chicken carcasses and hygiene practises in informal urban markets in a low-income setting",
-      "description": "Campylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology of Campylobacter spp. in food sold at informal markets, where most pe…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318516",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318516.t005&size=inline",
-      "publishedAt": "2025-01-30T14:00:00Z",
-      "content": "Abstract\r\nCampylobacteriosis is one of the most commonly reported foodborne diseases and is of particular importance in low-income countries. More data is needed to better understand the epidemiology… [+41915 chars]"
     },
     {
       "source": {
@@ -1222,19 +1235,6 @@
       "urlToImage": null,
       "publishedAt": "2025-01-29T20:01:47Z",
       "content": "Skip to comments.\r\nNATIONAL CORN CHIP DAY - January 29\r\nNational Day Calendar ^\r\n | January 29, 2025\r\n | Staff\r\nPosted on 01/29/2025 12:01:47 PM PST by Red Badger\r\nNATIONAL CORN CHIP DAY \r\nOn January… [+9211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Aquabot variant v3 targets Mitel SIP phones",
-      "description": "A new variant of the Mirai-based botnet Aquabot targets vulnerable Mitel SIP phones to recruit them into a DDoS botnet. Akamai researchers spotted a new variant of the Mirai-based botnet Aquabot that is targeting vulnerable Mitel SIP phones. Aquabot is a Mira…",
-      "url": "https://securityaffairs.com/173607/breaking-news/aquabot-variant-v3-targets-mitel-sip-phones.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/aquabot.png",
-      "publishedAt": "2025-01-29T19:59:24Z",
-      "content": "Aquabot variant v3 targets Mitel SIP phones\r\n | Critical remote code execution bug found in Cacti framework\r\n | Attackers actively exploit a critical zero-day in Zyxel CPE Series devices\r\n | Attacker… [+134944 chars]"
     }
   ],
   "totalResults": 95,
