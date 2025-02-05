@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-02-05T01:41:50.681Z",
+  "lastUpdated": "2025-02-05T06:29:28.637Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Coral Beach",
+      "title": "Legislators want the FDA to be able to test samples from feed lots during outbreaks",
+      "description": "Two U.S. legislators have introduced a bill that would give the FDA the ability to collect microbial samples at feed lots during foodborne illness outbreaks. Representative Rosa DeLauro, D-CT, and Sen. Cory Booker, D-NJ, want the Food and Drug Administration …",
+      "url": "https://www.foodsafetynews.com/2025/02/legislators-want-the-fda-to-be-able-to-test-samples-from-feed-lots-during-outbreaks/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/107/109/P0ev7XDZrzqbVREB6MjR9og8N/c71947228de33141541a7991a7c3413122e1a4e9.png",
+      "publishedAt": "2025-02-04T05:07:00Z",
+      "content": "Two U.S. legislators have introduced a bill that would give the FDA the ability to collect microbial samples at feed lots during foodborne illness outbreaks.\r\nRepresentative Rosa DeLauro, D-CT, and S… [+3779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "goodmorningamerica.com",
+      "title": "Chocolate products recalled due to undeclared allergen, more FDA info",
+      "description": "A recall of chocolate-covered products has been elevated to the highest risk level by the U.S. Food and Drug Administration due to multiple undeclared allergens.\nThe FDA issued this update on Jan. 22.\nCal Yee Farm LLC first recalled an array of chocolate and …",
+      "url": "https://biztoc.com/x/c5a674473036dddf",
+      "urlToImage": "https://biztoc.com/cdn/c5a674473036dddf_s.webp",
+      "publishedAt": "2025-02-04T03:17:04Z",
+      "content": "A recall of chocolate-covered products has been elevated to the highest risk level by the U.S. Food and Drug Administration due to multiple undeclared allergens.The FDA issued this update on Jan. 22.… [+159 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Are rice krispies vegetarian?",
+      "description": "Are Rice Krispies Vegetarian? Understanding the Ingredients Rice Krispies is a popular breakfast cereal made from corn flakes, but what […]\nThe post Are rice krispies vegetarian? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/are-rice-krispies-vegetarian/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-02-04T02:57:04Z",
+      "content": "Are Rice Krispies Vegetarian?\r\nUnderstanding the Ingredients\r\nRice Krispies is a popular breakfast cereal made from corn flakes, but what makes it vegetarian? To determine if Rice Krispies is vegetar… [+3985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Are reeses puffs gluten free?",
+      "description": "Are Reese’s Puffs Gluten-Free? Understanding the Question Reese’s Puffs are a popular American snack food made by Hershey’s. They are […]\nThe post Are reeses puffs gluten free? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/are-reeses-puffs-gluten-free/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-02-04T02:42:33Z",
+      "content": "Are Reese’s Puffs Gluten-Free?\r\nUnderstanding the Question\r\nReese’s Puffs are a popular American snack food made by Hershey’s. They are known for their crunchy texture and chocolatey flavor. However,… [+4397 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -307,7 +359,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Elon Musk ’s DOGE team granted ‘full access’ to sensitive Treasury systems. What are the risks?",
-      "description": "US Sen. Ron Wyden warns of national security risks after Elon Musk ’s DOGE was given full access to sensitive Treasury systems. Sen. Ron Wyden warned of national security risks after Elon Musk ’s team, Department of Government Efficiency (DOGE), was granted f…",
+      "description": "US Sen. Ron Wyden warns of national security risks after Elon Musk ’s DOGE was given full access to sensitive Treasury systems. Sen. Ron Wyden warned of national security risks after Elon Musk ���s team, Department of Government Efficiency (DOGE), was granted f…",
       "url": "https://securityaffairs.com/173776/security/elon-musk-s-doge-granted-full-access-to-sensitive-treasury-systems.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/Elon-Musk.jpeg",
       "publishedAt": "2025-02-03T11:06:55Z",
@@ -1222,73 +1274,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/deepseek-AI.png",
       "publishedAt": "2025-01-30T23:00:43Z",
       "content": "DeepSeek database exposed highly sensitive information\r\n | TeamViewer fixed a vulnerability in Windows client and host applications\r\n | Operation Talent: An international law enforcement operation se… [+135429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lesswrong.com"
-      },
-      "author": "sarahconstantin",
-      "title": "What's Behind the SynBio Bust?",
-      "description": "Published on January 30, 2025 10:30 PM GMT\r\nMidjourney, “synthetic biology, biomanufacturing, bioengineered microbes”\r\nNot too long ago, synthetic biology was fashionable.Then, in quick succession, we saw massive stock price collapses of three unicorn synbio …",
-      "url": "https://www.lesswrong.com/posts/YextGGfwqKSmNanFh/what-s-behind-the-synbio-bust",
-      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/YextGGfwqKSmNanFh/ei5xbggjfgqht40719at",
-      "publishedAt": "2025-01-30T22:30:07Z",
-      "content": "Not too long ago, synthetic biology was fashionable.\r\nThen, in quick succession, we saw massive stock price collapses of three unicorn synbio startups in 2021-2023: Gingko Bioworks, Zymergen, and Amy… [+11959 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SFGate"
-      },
-      "author": "Ariana Bindman",
-      "title": "Scientists race to restore Calif.'s largest — and contaminated — freshwater lake",
-      "description": "Scientists are racing to restore Clear Lake, California's largest freshwater lake, which has been struggling with algal blooms and mercury contamination.",
-      "url": "https://www.sfgate.com/bayarea/article/scientists-restore-clear-lake-california-20066383.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/37/66/66/25128373/3/rawImage.jpg",
-      "publishedAt": "2025-01-30T20:57:00Z",
-      "content": "The number of harmful blooms in Clear lake, around 100 miles north of San Francisco, in Lake County, has increased in recent years.\r\nNASA Earth Observatory/Wanmei Liang\r\nIn May 2024, Clear Lake, Cali… [+3728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Dorgan",
-      "title": "Migrant TDA gang member breaks officer’s arm as 10 indicted in massive guns, drug running operation: police - NewsBreak",
-      "description": "Ten alleged members and associates of Tren de Aragua (TdA) gang have been indicted in a massive arms and drugs running operation spanning at least six stat",
-      "url": "https://www.newsbreak.com/share/3783092975948-migrant-tda-gang-member-breaks-officer-s-arm-as-10-indicted-in-massive-guns-drug-running-operation-police?s=a2&amp;share_destination_id=MjQ4NTM3MzQ2LTE3MzgyNjM4NDY2ODA%3D&amp;pd=0Gopusvc&amp;hl=en_US&amp;send_time=1738263846&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q1-v6%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_recall_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v4%2Cns_foryou_model_exp_25q1-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/3rquf3_0yVwEYpK00",
-      "publishedAt": "2025-01-30T19:04:41Z",
-      "content": "12-Year-Old Girl Dies After Drinking Contaminated Milkshake Made in Unwashed Blender at Cafe\r\n A 12-year-old girl died suddenly after she was allegedly exposed to a deadly food allergy at a cafe, acc… [+478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Tribune News Service",
-      "title": "Led by RFK Jr., conservatives embrace raw milk. Regulators say it’s dangerous",
-      "description": "Samples of raw milk can contain bird flu virus and other pathogens linked to kidney disease, miscarriages, and death.",
-      "url": "https://www.bostonherald.com/2025/01/30/led-by-rfk-jr-conservatives-embrace-raw-milk-regulators-say-its-dangerous/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/01/202501291500MCT_____PHOTO____US-NEWS-HEALTH-RAW-MILK-FR.jpg?w=1024&h=883",
-      "publishedAt": "2025-01-30T18:30:00Z",
-      "content": "By Stephanie Armour, KFF Health News\r\nIn summertime, cows wait under a canopy to be milked at Mark McAfee’s farm in Fresno, California. From his Cessna 210 Centurion propeller plane, the 63-year-old … [+8876 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Liz O'Connell",
-      "title": "Internet Can't Cope With What Shop Gives Dog After It Ran Out of Pup Cups",
-      "description": "The dog looked at the unexpected treat with eyes of confusion and excitement.",
-      "url": "https://www.newsweek.com/internet-cannot-cope-what-coffee-shop-gives-dog-2023569",
-      "urlToImage": "https://d.newsweek.com/en/full/2577330/dog-waiting-pup-cup.jpg",
-      "publishedAt": "2025-01-30T17:44:03Z",
-      "content": "A coffee shop's solution after it ran out of whipped cream for pup cups has left social media users in stitches.\r\nAn owner, posting under the handle @realemilyattack on X, formerly Twitter, wanted to… [+2491 chars]"
     }
   ],
-  "totalResults": 99,
+  "totalResults": 98,
   "filteredCount": 0
 }
