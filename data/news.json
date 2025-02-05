@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-05T06:29:28.637Z",
+  "lastUpdated": "2025-02-05T12:41:39.432Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Anna Gragert",
+      "title": "Literally Everything You Need to Know About Fluoride in Our Drinking Water",
+      "description": "Water fluoridation is still up for debate in the US. According to experts, here are the facts.",
+      "url": "https://www.cnet.com/health/medical/literally-everything-need-know-about-fluoride-in-drinking-water/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/8610d88c29b90c793a3fd2538cdf062d2c185d3a/hub/2025/01/31/b152e9e5-2bd3-4654-ab48-29465dd29cf7/person-pouring-water-glass.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-04T12:28:04Z",
+      "content": "In November 2024, President Donald Trump nominated Robert F. Kennedy Jr. to lead the US Department of Health and Human Services. He just had his confirmation hearing. Known for his anti-vaccine and a… [+30656 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Coyote Banking Trojan targets Brazilian users, stealing data from 70+ financial apps and websites",
+      "description": "Coyote Banking Trojan targets Brazilian users, stealing data from over 70 financial applications and websites. FortiGuard Labs researchers detected a campaign using LNK files executing PowerShell commands to deploy the Coyote Banking Trojan. Threat actors tar…",
+      "url": "https://securityaffairs.com/173818/malware/coyote-banking-trojan-targets-brazilian-users.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-6.png",
+      "publishedAt": "2025-02-04T12:20:50Z",
+      "content": "Coyote Banking Trojan targets Brazilian users, stealing data from 70+ financial apps and websites\r\n | Google fixed actively exploited kernel zero-day flaw\r\n | Web Skimmer found on at least 17 website… [+136571 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mindbodygreen.com"
+      },
+      "author": "https://www.mindbodygreen.com/wc/abby-moore",
+      "title": "You're Probably Cleaning Your Mushrooms All Wrong—Here's How To Do It",
+      "description": "Ensure food safety and optimal taste.",
+      "url": "https://www.mindbodygreen.com/articles/how-to-clean-mushrooms-best-way-according-to-chef",
+      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/bg8yt79smjvgzknuv.jpg",
+      "publishedAt": "2025-02-04T11:19:00Z",
+      "content": "It's rare to open up a package of mushrooms and find them completely clean. More often than not, the meaty vegetables are covered with clumps of dirt. While it may be tempting to douse them in heavy … [+2950 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -359,7 +398,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Elon Musk ’s DOGE team granted ‘full access’ to sensitive Treasury systems. What are the risks?",
-      "description": "US Sen. Ron Wyden warns of national security risks after Elon Musk ’s DOGE was given full access to sensitive Treasury systems. Sen. Ron Wyden warned of national security risks after Elon Musk ���s team, Department of Government Efficiency (DOGE), was granted f…",
+      "description": "US Sen. Ron Wyden warns of national security risks after Elon Musk ’s DOGE was given full access to sensitive Treasury systems. Sen. Ron Wyden warned of national security risks after Elon Musk ’s team, Department of Government Efficiency (DOGE), was granted f…",
       "url": "https://securityaffairs.com/173776/security/elon-musk-s-doge-granted-full-access-to-sensitive-treasury-systems.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/Elon-Musk.jpeg",
       "publishedAt": "2025-02-03T11:06:55Z",
@@ -1235,45 +1274,6 @@
       "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
       "publishedAt": "2025-01-31T03:08:53Z",
       "content": "Why Do Egg Yolks Turn Green?\r\nEgg yolks are a crucial component of many recipes, from omelets to baked goods. However, one of the most common issues people face when cooking with egg yolks is the gre… [+5291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Activistpost.com"
-      },
-      "author": "Editor",
-      "title": "Understanding Glyphosate’s Growing Presence in Agriculture and Its Effects on Human Health",
-      "description": "Story at-a-glance A pesticide is any substance or mixture of substances designed to kill, repel, or control pests. Let’s break it down into the two components: The term “pest” refers to any organism (insects, weeds, rodents, fungi, bacteria, etc.) that is con…",
-      "url": "https://www.activistpost.com/understanding-glyphosates-growing-presence-in-agriculture-and-its-effects-on-human-health/",
-      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/01/glyphosate-agriculture-human-health-1.jpg",
-      "publishedAt": "2025-01-31T03:00:00Z",
-      "content": "<ul><li>Glyphosate has become the most widely used herbicide in history, with usage increasing 100 to 300-fold since the late 1970s, resulting in its presence in 60% to 80% of the general population … [+26404 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "Eoghan Dalton",
-      "title": "'Open carcass dump' found at large pig farm in the Midlands",
-      "description": "The pig farm says that it is now removing animal carcasses for incineration on a weekly basis.",
-      "url": "https://www.thejournal.ie/pig-farm-inspection-6596227-Jan2025/",
-      "urlToImage": "https://img2.thejournal.ie/article/6596227/river/?height=400&version=6596279",
-      "publishedAt": "2025-01-31T00:05:19Z",
-      "content": "A PIG FARM was found to have more than 20 dead animals piled into an open skip during an inspection by the environmental regulator, which described the discovery as an open carcass dump.\r\nThe inspect… [+6470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "DeepSeek database exposed highly sensitive information",
-      "description": "Chinese AI platform DeepSeek has publicly exposed two databases containing highly sensitive user and backend details. Wiz Research discovered a publicly accessible ClickHouse database belonging to DeepSeek, exposing chat history, secret keys, and backend deta…",
-      "url": "https://securityaffairs.com/173666/data-breach/deepseek-db-exposed-highly-sensitive-information.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/deepseek-AI.png",
-      "publishedAt": "2025-01-30T23:00:43Z",
-      "content": "DeepSeek database exposed highly sensitive information\r\n | TeamViewer fixed a vulnerability in Windows client and host applications\r\n | Operation Talent: An international law enforcement operation se… [+135429 chars]"
     }
   ],
   "totalResults": 98,
