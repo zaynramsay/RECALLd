@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-05T18:29:06.404Z",
+  "lastUpdated": "2025-02-06T01:42:11.994Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Listeria contamination found in raw milk in New York; dairy closed by state",
+      "description": "Unpasteurized, raw milk from Willow Marsh Farm in New York has been found to be contaminated with Listeria monocytogenes. The producer is now prohibited from selling raw milk until subsequent sampling indicates that the product is free of harmful bacteria. Ne…",
+      "url": "https://www.foodsafetynews.com/2025/02/listeria-contamination-found-in-raw-milk-in-new-york-dairy-closed-by-state/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/189/397/P0ev7XDZrzqbRV036MjR9og8N/f4bb51cafab19d43b18025ba18a1fd98edfcd1bf.png",
+      "publishedAt": "2025-02-05T01:01:56Z",
+      "content": "Unpasteurized, raw milk from Willow Marsh Farm in New York has been found to be contaminated with Listeria monocytogenes.\r\nThe producer is now prohibited from selling raw milk until subsequent sampli… [+2740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
+      "title": "Class 1 Recalls & Food Safety—Why They’re More Common Than You Think",
+      "description": "Class 1 recalls pose serious health risks, from undeclared allergens to bacterial contamination. Here’s how Class 1 recalls work, plus major FDA food recalls in 2025.",
+      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/04/class-1-recalls--food-safety-why-theyre-more-common-than-you-think/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a254390a6f9b2c32abbbf1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-05T00:31:44Z",
+      "content": "Hand with magnifying glass looking at broccoli Recall label\r\ngetty\r\nFood recalls often start as minor advisoriesbut some become public health emergencies overnight.\r\nThats exactly what happened with … [+7935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Online food ordering and delivery platform GrubHub discloses a data breach",
+      "description": "Online food ordering and delivery platform GrubHub suffered a data breach that exposed the personal information of drivers and customers. This week the online food ordering and delivery firm GrubHub disclosed a data breach that exposed customer and driver inf…",
+      "url": "https://securityaffairs.com/173848/data-breach/grubhub-suffered-a-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
+      "publishedAt": "2025-02-05T00:14:02Z",
+      "content": "Online food ordering and delivery platform GrubHub discloses a data breach\r\n | Netgear urges users to upgrade two flaws impacting WiFi router models\r\n | AMD fixed a flaw that allowed to load maliciou… [+136786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "author": "Lalit Bansal",
+      "title": "Blockchain in Supply Chain: Enhancing Transparency and Efficiency Across Industries",
+      "description": "Blockchain in supply chains enhances transparency, reduces fraud, and optimizes operations. It enables real-time tracking, secure data sharing, and automation, benefiting industries like retail, healthcare, and logistics for improved efficiency and sustainabi…",
+      "url": "https://www.c-sharpcorner.com/article/blockchain-in-supply-chain-enhancing-transparency-and-efficiency-across-industr/",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner.png",
+      "publishedAt": "2025-02-05T00:00:00Z",
+      "content": "Blockchain in the supply chain is revolutionizing how industries manage and optimize operations. The technology's decentralized nature allows businesses to ensure greater transparency in the supply c… [+11982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Netgear urges users to upgrade two flaws impacting WiFi router models",
+      "description": "Netgear disclosed two critical flaws impacting multiple WiFi router models and urges customers to address them. Netgear addressed two critical vulnerabilities, internally tracked as PSV-2023-0039 and PSV-2021-0117, impacting multiple WiFi router models and ur…",
+      "url": "https://securityaffairs.com/173839/security/netgear-wifi-routers-flaws.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/netgear-logo.jpg",
+      "publishedAt": "2025-02-04T22:24:08Z",
+      "content": "Netgear urges users to upgrade two flaws impacting WiFi router models\r\n | AMD fixed a flaw that allowed to load malicious microcode\r\n | Coyote Banking Trojan targets Brazilian users, stealing data fr… [+136707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Newswire Editor",
+      "title": "As Netanyahu Visits U.S., Palestinian Americans Call on DOJ to Enforce ICC Arrest Warrant for Crimes in Gaza",
+      "description": "Today, as Israeli Prime Minister Benjamin Netanyahu meets with President Trump in Washington, Palestinian Americans are calling on the Department of Justice to investigate Netanyahu for genocide, torture, and war crimes, and to enforce the International Crimi…",
+      "url": "https://www.commondreams.org/newswire/as-netanyahu-visits-u-s-palestinian-americans-call-on-doj-to-enforce-icc-arrest-warrant-for-crimes-in-gaza",
+      "urlToImage": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjEwMDM4OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0OTE0ODI1N30.nWE-dO3LpGCfrP6HKKrgMGYA-9xT8aazabGiQTfcsrM/image.png?width=210",
+      "publishedAt": "2025-02-04T20:48:05Z",
+      "content": "Trump has called for the prison to be expanded to hold 30,000 people. \r\nThe flights announced Tuesday are the latest step in Trump's militarized anti-immigration operations, with 1,500 soldiers and M… [+4496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Parade"
+      },
+      "author": "Nathan Hutsenpiller",
+      "title": "More Than 17,000 Pounds of Sausage Have Been Recalled��Here's What to Know",
+      "description": "The product in question was distributed to multiple states.",
+      "url": "https://parade.com/food/djs-boudain-sausage-link-recall-february-2025",
+      "urlToImage": "https://media.zenfs.com/en/parade_250/808cd63dc680fdb131325a8eb78869bc",
+      "publishedAt": "2025-02-04T18:30:00Z",
+      "content": "The U.S. Department of Agriculture Food Safety and Inspection Service (FSIS) has announced that 17,720 pounds of DJs Boudain sausage link products are being recalled due to the possible contamination… [+2477 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,86 +1287,8 @@
       "urlToImage": null,
       "publishedAt": "2025-02-01T05:07:25Z",
       "content": "BOCA DEL RIO, Mexico (AP) A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% … [+3058 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "ALBA ALEMÁN and FÉLIX MÁRQUEZ",
-      "title": "Mexican startup tackles plastic waste by converting it to fuel",
-      "description": "A startup in Mexico is trying to help get a handle on one Gulf coast city’s plastic waste problem by converting it into gasoline, diesel and other fuels...",
-      "url": "https://www.yahoo.com/news/mexican-startup-tackles-plastic-waste-050329687.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PsfY8U9LXaBZNuUvTOgPew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/8dc1f0d480fd1e2d3ebb6a99b78fc57b",
-      "publishedAt": "2025-02-01T05:03:29Z",
-      "content": "BOCA DEL RIO, Mexico (AP) A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% … [+3215 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "ALBA ALEMÁN and FÉLIX MÁRQUEZ",
-      "title": "Mexican startup tackles plastic waste by converting it to fuel",
-      "description": "A startup in Mexico is trying to help get a handle on one Gulf coast city’s plastic waste problem by converting it into gasoline, diesel and other fuels...",
-      "url": "https://www.yahoo.com/news/mexican-startup-tackles-plastic-waste-050329392.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4O3NRsQNeBD9xxmo_7uwqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/7295ae9c84ec47bc384c6b875e7be52b",
-      "publishedAt": "2025-02-01T05:03:29Z",
-      "content": "BOCA DEL RIO, Mexico (AP) A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% … [+3060 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foodpoisonjournal.com"
-      },
-      "author": "Bill Marler",
-      "title": "Dog Food recalled over Salmonella",
-      "description": "Blue Ridge Beef is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination of Salmonella. Lot # N25/12/31 (Lot numbers are stamped in the clips on the end of the chubs/bags) UPC# 854298001054. Salmonella can affect animals eating the product…",
-      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/dog-food-recalled-over-salmonella/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/858/267/7gAk4KJj8QmayaeWQvwqxrD20/ac0de91294f9b41145693d7635005ab8bafc34ac.png",
-      "publishedAt": "2025-02-01T04:35:39Z",
-      "content": "Blue Ridge Beef is recalling 5,700 lbs. of their 2 lb log Natural Mix due to a contamination of Salmonella. Lot # N25/12/31 (Lot numbers are stamped in the clips on the end of the chubs/bags) UPC# 85… [+1960 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Ashley Dimella",
-      "title": "Woman with cancer reveals the diet that she says saved her life - NewsBreak",
-      "description": "Author and wellness advocate Liana Werner-Gray talked about her life-threatening cancer diagnosis and the unconventional treatment path that inspired her t",
-      "url": "https://www.newsbreak.com/share/3785133294921-woman-with-cancer-reveals-the-diet-that-she-says-saved-her-life?_f=app_share&amp;pd=0GOkyYtn&amp;lang=en_US&amp;send_time=1738378185&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.4.0.27%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_push_exp_rt_bucketv12-v1%2Cns_foryou_model_exp_25q1-v2%2Cns_foryou_recall_exp_25q1-v5%2Cns_foryou_blend_exp_25q1-v2%2Cns_foryou_rank_exp_25q1-v3&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1s4o4l_0yXzlIYm00",
-      "publishedAt": "2025-02-01T02:50:19Z",
-      "content": "12-Year-Old Girl Dies After Drinking Contaminated Milkshake Made in Unwashed Blender at Cafe\r\n A 12-year-old girl died suddenly after she was allegedly exposed to a deadly food allergy at a cafe, acc… [+478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Major Dog Food Recall Issued Due to Salmonella Contamination",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_26500e81-bbe2-462e-a123-98bb029c1737",
-      "urlToImage": null,
-      "publishedAt": "2025-02-01T01:40:22Z",
-      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Contec CMS8000 patient monitors contain a hidden backdoor",
-      "description": "The U.S. CISA and the FDA warned of a hidden backdoor in Contec CMS8000 and Epsimed MN-120 patient monitors. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Food and Drug Administration (FDA) warned that three flaws in Contec CMS8000 …",
-      "url": "https://securityaffairs.com/173694/security/cisa-fda-warned-hidden-backdoor-in-contec-cms8000.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-01T00:23:46Z",
-      "content": "Contec CMS8000 patient monitors contain a hidden backdoor\r\n | Community Health Center data breach impacted over 1 million patients\r\n | Italy's data protection authority Garante blocked the DeepSeek A… [+135717 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 99,
   "filteredCount": 0
 }
