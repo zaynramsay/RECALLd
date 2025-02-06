@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-06T01:42:11.994Z",
+  "lastUpdated": "2025-02-06T06:30:49.932Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Can cats eat raw ground beef?",
+      "description": "Can Cats Eat Raw Ground Beef? Understanding the Risks and Benefits When it comes to feeding your cat, it’s essential […]\nThe post Can cats eat raw ground beef? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/can-cats-eat-raw-ground-beef/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-02-05T06:21:43Z",
+      "content": "Can Cats Eat Raw Ground Beef?\r\nUnderstanding the Risks and Benefits\r\nWhen it comes to feeding your cat, it’s essential to consider their nutritional needs and potential risks associated with certain … [+3933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Can cats share a litter tray?",
+      "description": "Can Cats Share a Litter Tray? Understanding Litter Trays and Cat Behavior Litter trays are an essential part of a […]\nThe post Can cats share a litter tray? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/can-cats-share-a-litter-tray/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-02-05T06:12:09Z",
+      "content": "Can Cats Share a Litter Tray?\r\nUnderstanding Litter Trays and Cat Behavior\r\nLitter trays are an essential part of a cat’s daily routine, providing a safe and hygienic space for them to eliminate wast… [+5421 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Sarah Forster and Caroline Perryman",
+      "title": "Boil water alert issued for nine NSW suburbs after E.coli detection",
+      "description": "Up to 40,000 people are affected by the contamination and supermarkets are quickly selling out of bottled water.",
+      "url": "https://www.abc.net.au/news/2025-02-05/boil-water-alert-nsw-central-coast-ecoli-found-in-water/104898280",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/89ab559356f3b4dbc7a6c2ca5372a2eb?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-02-05T02:28:57Z",
+      "content": "Up to 40,000 New South Wales Central Coast residents have been warned to boil their tap water after the discovery of harmful E. coli in the area's water supply.\r\nThe bacteria was found during routine… [+3023 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -85,7 +124,7 @@
         "name": "Parade"
       },
       "author": "Nathan Hutsenpiller",
-      "title": "More Than 17,000 Pounds of Sausage Have Been Recalled��Here's What to Know",
+      "title": "More Than 17,000 Pounds of Sausage Have Been Recalled—Here's What to Know",
       "description": "The product in question was distributed to multiple states.",
       "url": "https://parade.com/food/djs-boudain-sausage-link-recall-february-2025",
       "urlToImage": "https://media.zenfs.com/en/parade_250/808cd63dc680fdb131325a8eb78869bc",
@@ -485,19 +524,6 @@
     {
       "source": {
         "id": null,
-        "name": "Richmond.com"
-      },
-      "author": "HAYA PANJWANI Associated Press",
-      "title": "Black History Month explained: Its origins, celebrations and myths",
-      "description": "Schools, museums and communities across the nation are marking Black History Month — a celebration of Black history, culture and education.",
-      "url": "https://richmond.com/news/nation-world/black-history-month-origins-celebrations-carter-g-woodson/article_1d60ddca-c476-5e89-a80c-c85c49e5f785.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/d6/1d60ddca-c476-5e89-a80c-c85c49e5f785/67a1108cbf316.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-02-03T20:30:00Z",
-      "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Roanoke Times"
       },
       "author": "HAYA PANJWANI Associated Press",
@@ -507,6 +533,19 @@
       "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/a4/ca4a2d6c-c4a8-560e-96c7-0803524e02f8/67a1108cc7ee7.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-02-03T20:30:00Z",
       "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Richmond.com"
+      },
+      "author": "HAYA PANJWANI Associated Press",
+      "title": "Black History Month explained: Its origins, celebrations and myths",
+      "description": "Schools, museums and communities across the nation are marking Black History Month — a celebration of Black history, culture and education.",
+      "url": "https://richmond.com/news/nation-world/black-history-month-origins-celebrations-carter-g-woodson/article_1d60ddca-c476-5e89-a80c-c85c49e5f785.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/d6/1d60ddca-c476-5e89-a80c-c85c49e5f785/67a1108cbf316.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-03T20:30:00Z",
+      "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23426 chars]"
     },
     {
       "source": {
@@ -617,19 +656,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Michel Dione, Guy Ilboudo, Abdoul Aziz Ouedraogo, Sidonie Aristide Ima, Brice Ouedraogo, Theodore Knight-Jones, Assèta Kagambèga, Robyn Alders",
-      "title": "Characteristics of chicken production systems in rural Burkina Faso: A focus on One Health related practices and food security",
-      "description": "In addition to having cultural importance, village chicken production remains an important source of cash income for most rural households in Burkina Faso. However, strict biosecurity and good management of chicken flocks are required to reduce the risk of ex…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317898",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317898.g012&size=inline",
-      "publishedAt": "2025-02-03T14:00:00Z",
-      "content": "Citation: Dione M, Ilboudo G, Ouedraogo AA, Ima SA, Ouedraogo B, Knight-Jones T, et al. (2025) Characteristics of chicken production systems in rural Burkina Faso: A focus on One Health related pract… [+42425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Marco A. Coelho, Márcia David-Palma, Janneke Aylward, Nam Q. Pham, Cobus M. Visagie, Taygen Fuchs, Neriman Yilmaz, Francois Roets, Sheng Sun, John W. Taylor, Brenda D. Wingfield, Matthew C. Fisher, Michael J. Wingfield, Joseph Heitman",
       "title": "Decoding Cryptococcus: From African biodiversity to worldwide prevalence",
       "description": null,
@@ -637,6 +663,19 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012876.g001&size=inline",
       "publishedAt": "2025-02-03T14:00:00Z",
       "content": "Citation: Coelho MA, David-Palma M, Aylward J, Pham NQ, Visagie CM, Fuchs T, et al. (2025) Decoding Cryptococcus: From African biodiversity to worldwide prevalence. PLoS Pathog 21(2):\r\n e1012876.\r\nht… [+36619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Michel Dione, Guy Ilboudo, Abdoul Aziz Ouedraogo, Sidonie Aristide Ima, Brice Ouedraogo, Theodore Knight-Jones, Assèta Kagambèga, Robyn Alders",
+      "title": "Characteristics of chicken production systems in rural Burkina Faso: A focus on One Health related practices and food security",
+      "description": "In addition to having cultural importance, village chicken production remains an important source of cash income for most rural households in Burkina Faso. However, strict biosecurity and good management of chicken flocks are required to reduce the risk of ex…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317898",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317898.g012&size=inline",
+      "publishedAt": "2025-02-03T14:00:00Z",
+      "content": "Citation: Dione M, Ilboudo G, Ouedraogo AA, Ima SA, Ouedraogo B, Knight-Jones T, et al. (2025) Characteristics of chicken production systems in rural Burkina Faso: A focus on One Health related pract… [+42425 chars]"
     },
     {
       "source": {
@@ -1248,45 +1287,6 @@
       "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/01/getty-images-tciS-mNfBPA-unsplash-1024x683-1024x585-1.jpg",
       "publishedAt": "2025-02-01T11:01:00Z",
       "content": "Amid a flurry of actions curtailing Bidens environmental policies, the administration of newly inaugurated President Donald Trump this week withdrew a plan to set limits on toxic PFAS chemicals in in… [+5569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Why does mould grow on food?",
-      "description": "Why Does Mould Grow on Food? Mould is a type of fungus that can grow on a wide variety of […]\nThe post Why does mould grow on food? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/why-does-mould-grow-on-food/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-01T07:58:45Z",
-      "content": "Why Does Mould Grow on Food?\r\nMould is a type of fungus that can grow on a wide variety of food items, from fruits and vegetables to meats and dairy products. While it may seem like a nuisance, mould… [+5153 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ALBA ALEMÁN Associated Press, FÉLIX MÁRQUEZ Associated Press",
-      "title": "Mexican startup tackles plastic waste by converting it to fuel",
-      "description": "A startup in Mexico is trying to help get a handle on one Gulf coast city’s plastic waste problem by converting it into gasoline, diesel and other fuels",
-      "url": "https://abcnews.go.com/International/wireStory/mexican-startup-tackles-plastic-waste-converting-fuel-118337063",
-      "urlToImage": "https://i.abcnewsfe.com/a/817cfbcd-98d3-4205-af37-3694b4407083/wirestory_eafe7b665638df5c361064e2c5a58f0d_16x9.jpg?w=1600",
-      "publishedAt": "2025-02-01T05:34:20Z",
-      "content": "BOCA DEL RIO, Mexico -- A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% of… [+3058 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "The Associated Press",
-      "title": "Mexican startup tackles plastic waste by converting it to fuel",
-      "description": "BOCA DEL RIO, Mexico (AP) — A startup in Mexico is trying to help get a handle on one Gulf coast city’s plastic waste problem by converting it into gasoline, diesel and other fuels. With less than 10% of the world’s plastics being recycled, Petgas’ idea is th…",
-      "url": "https://financialpost.com/pmn/mexican-startup-tackles-plastic-waste-by-converting-it-to-fuel",
-      "urlToImage": null,
-      "publishedAt": "2025-02-01T05:07:25Z",
-      "content": "BOCA DEL RIO, Mexico (AP) A startup in Mexico is trying to help get a handle on one Gulf coast citys plastic waste problem by converting it into gasoline, diesel and other fuels.\r\nWith less than 10% … [+3058 chars]"
     }
   ],
   "totalResults": 99,
