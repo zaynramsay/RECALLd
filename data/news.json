@@ -1,6 +1,175 @@
 {
-  "lastUpdated": "2025-02-06T12:41:53.760Z",
+  "lastUpdated": "2025-02-06T18:29:13.960Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Mac & Cheese Recall Update As Concern Level Issued",
+      "description": "The U.S. Food and Drug Administration has given its second most serious risk level, Class II, to a product from Dierbergs which is advertised as being mashed potatoes but is actually Mac & Cheese, meaning the product carries an undeclared allergen of wheat.\nW…",
+      "url": "https://biztoc.com/x/36c18297442bd6b7",
+      "urlToImage": "https://biztoc.com/cdn/36c18297442bd6b7_s.webp",
+      "publishedAt": "2025-02-05T17:01:56Z",
+      "content": "The U.S. Food and Drug Administration has given its second most serious risk level, Class II, to a product from Dierbergs which is advertised as being mashed potatoes but is actually Mac &amp; Cheese… [+141 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Marni Rose McFall",
+      "title": "Mac & Cheese Recall Update As Concern Level Issued",
+      "description": "Mac & Cheese was packaged and advertised as Mashed Potatoes and did not have the correct allergy information.",
+      "url": "https://www.newsweek.com/mac-cheese-recall-mash-potatoes-class-2-fda-2026692",
+      "urlToImage": "https://d.newsweek.com/en/full/2581997/recall.png",
+      "publishedAt": "2025-02-05T16:52:16Z",
+      "content": "The U.S. Food and Drug Administration has given its second most serious risk level, Class II, to a product from Dierbergs which is advertised as being mashed potatoes but is actually Mac &amp; Cheese… [+3397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WBNG-TV"
+      },
+      "author": "Sydney Lee",
+      "title": "Buffet Star temporarily closes, receives two critical health violations",
+      "description": "According to NYS Health Data, Buffet Star received two critical health inspection violations and ten noncritical health inspection violations from Jan. 3.",
+      "url": "https://www.wbng.com/2025/02/05/buffet-star-temporarily-closes-receives-two-critical-health-violations/",
+      "urlToImage": "https://gray-wbng-prod.gtv-cdn.com/resizer/v2/ETHI3TURGBEBJANRMKXKNR4SWM.png?auth=7ec51660d03ae5f9b8eb49fed7abee89c986b668b55dca5e25d85a932f9efa94&width=1200&height=600&smart=true",
+      "publishedAt": "2025-02-05T16:35:31Z",
+      "content": "VESTAL, N.Y. (WBNG) -- Buffet Star posted a Facebook statement explaining its temporary closure effective Feb. 3.\r\nThe Buffet Star Facebook page stated that they are closing their doors to make upgra… [+1972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Claire Poole, Contributor, \n Claire Poole, Contributor\n https://www.forbes.com/sites/clairepoolesp/",
+      "title": "Five Ways Super Bowl LIX Is Tackling Sustainability",
+      "description": "NFL is implementing a range of initiatives to reduce the environmental footprint of Super Bowl, from recycling, food recovery and community engagement and legacy.",
+      "url": "https://www.forbes.com/sites/clairepoolesp/2025/02/05/five-ways-super-bowl-lix-is-tackling-sustainability/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6798de4b14e4b3392c774adf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-05T15:56:02Z",
+      "content": "NEW ORLEANS, LOUISIANA - OCTOBER 15: Super Bowl LIX merchandise seen at Mardi Gras World on October ... [+] 15, 2024 in New Orleans, Louisiana. (Photo by Jonathan Bachman/Getty Images for Raising Can… [+7863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Khalil Best",
+      "title": "FDA warns of deadly risk in Walmart frozen broccoli",
+      "description": "A significant public health alert has emerged as Walmart faces a critical recall involving thousands of bags of broccoli, with the Food and Drug Administration warning of potentially lethal consequences. The situation began unfolding when random testing in Te…",
+      "url": "https://rollingout.com/2025/02/05/fda-walmart-broccoli-listeria-warning/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/11/shutterstock_2493885411.jpg",
+      "publishedAt": "2025-02-05T15:36:52Z",
+      "content": "A significant public health alert has emerged as Walmart faces a critical recall involving thousands of bags of broccoli, with the Food and Drug Administration warning of potentially lethal consequen… [+4940 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Microsoft .NET Framework, Apache OFBiz, and Paessler PRTG Network Monitor flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft .NET Framework, Apache OFBiz, and Paessler PRTG Network Monitor flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) …",
+      "url": "https://securityaffairs.com/173889/security/u-s-cisa-adds-microsoft-net-framework-apache-ofbiz-paessler-prtg-network-monitor-flaws-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-05T15:02:59Z",
+      "content": "U.S. CISA adds Microsoft .NET Framework, Apache OFBiz, and Paessler PRTG Network Monitor flaws to its Known Exploited Vulnerabilities catalog\r\n | SparkCat campaign target crypto wallets using OCR to … [+137144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "The Sneaky Microplastics in Your Kitchen Could Impact Your Brain Health",
+      "description": "A recent study found the brain has significantly higher levels of microplastics than other organs. Here is what you should know.",
+      "url": "https://www.cnet.com/health/the-sneaky-microplastics-in-your-kitchen-could-impact-your-brain-health/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/910a638ce3193e4ebc84691db21ad2c702cae2b7/hub/2024/12/30/6e2ad328-fd01-45c5-9279-7b347b1224b7/gettyimages-1315120793.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-05T14:00:05Z",
+      "content": "Microplastics are in our air, water and food. It's not surprising that they have been found in human blood, saliva, liver, kidneys and placenta. Now we know they're in the brain, too. A recent study … [+7331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yanghang Chen, Wing-Wai Wan, Kai-Hui Cui, Bonnie Pui-Ying Lau, Fred Wang-Fat Lee, Steven Jing-Liang Xu",
+      "title": "Feasibility and efficiency of microalgae cultivation for nutrient recycling and energy recovery from food waste filtrate",
+      "description": "With the continuous growth of economic and population, the generation of food waste has significantly increased in recent years. The disposition of food waste, typically through incineration or landfill, can lead to severe health and environmental problems, a…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315801",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315801.g012&size=inline",
+      "publishedAt": "2025-02-05T14:00:00Z",
+      "content": "Citation: Chen Y, Wan W-W, Cui K-H, Lau BP-Y, Lee FW-F, Xu SJ-L (2025) Feasibility and efficiency of microalgae cultivation for nutrient recycling and energy recovery from food waste filtrate. PLoS O… [+32422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Stuart Johnson, Andrew M. Skinner, Calob Lostutter, Trevor Duke, Horst Posthaus",
+      "title": "Enteritis necroticans and Clostridium perfringens type C; Epidemiological and pathological findings over the past 20 years",
+      "description": "Enteritis necroticans (EN) in humans caused by infection with Clostridium perfringens type C, once thought limited to the highlands of Papua New Guinea has been identified sporadically worldwide. Outbreaks still occur among children in low-income countries an…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012836",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012836.g003&size=inline",
+      "publishedAt": "2025-02-05T14:00:00Z",
+      "content": "Introduction\r\nEnteritis necroticans (EN) was once endemic in the Highlands of Papua New Guinea (PNG), where it was called pigbel because of the typical abdominal presentation of the disease and its a… [+33658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "Wondering How Long Eggs Really Last in the Fridge? Here’s What You Need to Know",
+      "description": "Eggs can stay fresh longer than you may think. Make sure you aren’t tossing yours too early.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/wondering-how-long-eggs-really-last-in-the-fridge-heres-what-you-need-to-know/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/0d056aa80a1c774b5b4902fa928d1737c41cd2f0/hub/2023/01/17/07e6ec54-fa9a-47d7-8b43-281b592862b2/gettyimages-99277066.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-05T14:00:00Z",
+      "content": "Eggs are easy to prepare, healthy to eat and serve as a great source of protein. If you regularly stock up on eggs, you want to make sure that you’re storing them properly to ensure freshness. With t… [+4947 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Can I freeze velveeta cheese?",
+      "description": "Can I Freeze Velveeta Cheese? Velveeta cheese is a popular processed cheese product that has been a staple in many […]\nThe post Can I freeze velveeta cheese? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/can-i-freeze-velveeta-cheese/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-02-05T13:37:35Z",
+      "content": "Can I Freeze Velveeta Cheese?\r\nVelveeta cheese is a popular processed cheese product that has been a staple in many American households for decades. Its creamy texture and mild flavor make it a versa… [+4028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Justonecookbook.com"
+      },
+      "author": "Namiko Hirasawa Chen",
+      "title": "Does Miso Go Bad?",
+      "description": "You may wonder \"does miso go bad?\" Learn how to handle and store Japanese fermented soybean paste and tell when it's time for a fresh batch.\nREAD: Does Miso Go Bad?",
+      "url": "https://www.justonecookbook.com/does-miso-go-bad/",
+      "urlToImage": "https://www.justonecookbook.com/wp-content/uploads/2020/09/How-to-Make-Miso-7724-I.jpg",
+      "publishedAt": "2025-02-05T13:00:00Z",
+      "content": "Miso has a long shelf life, but it can spoil sooner if not handled and stored properly. In this post, I’ll teach you my best storage tips for this Japanese fermented soybean paste and how to tell whe… [+5882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SparkCat campaign target crypto wallets using OCR to steal recovery phrases",
+      "description": "In late 2024, Kaspersky experts discovered a malicious campaign, called SparkCat, spreading malware to target crypto wallets. In March 2023, ESET found malware in modified versions of messengers using OCR to scan the victim’s gallery for images with recovery …",
+      "url": "https://securityaffairs.com/173873/malware/sparkcat-campaign-target-crypto-wallets.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-7.png",
+      "publishedAt": "2025-02-05T12:53:43Z",
+      "content": "SparkCat campaign target crypto wallets using OCR to steal recovery phrases\r\n | International Civil Aviation Organization (ICAO) and ACAO Breached: Cyberespionage Groups Targeting Aviation Safety Spe… [+136998 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -567,7 +736,7 @@
       },
       "author": "katu.com",
       "title": "Broccoli sold at Walmart in OR, WA, and other states recalled over Listeria concerns",
-      "description": "Braga Fresh has voluntarily recalled certain 12-ounce bags of Marketside Broccoli Florets sold at Walmart locations across 20 states due to potential Listeria monocytogenes contamination, according to the U.S. Food and Drug Administration (FDA).\nThe FDA warne…",
+      "description": "Braga Fresh has voluntarily recalled certain 12-ounce bags of Marketside Broccoli Florets sold at Walmart locations across 20 states due to potential Listeria monocytogenes contamination, according to the U.S. Food and Drug Administration (FDA).\nThe FDA warne��",
       "url": "https://biztoc.com/x/2f97e83fe82d4e73",
       "urlToImage": "https://biztoc.com/cdn/2f97e83fe82d4e73_s.webp",
       "publishedAt": "2025-02-03T23:55:27Z",
@@ -628,19 +797,6 @@
     {
       "source": {
         "id": null,
-        "name": "Roanoke Times"
-      },
-      "author": "HAYA PANJWANI Associated Press",
-      "title": "Black History Month explained: Its origins, celebrations and myths",
-      "description": "Schools, museums and communities across the nation are marking Black History Month — a celebration of Black history, culture and education.",
-      "url": "https://roanoke.com/news/nation-world/black-history-month-origins-celebrations-carter-g-woodson/article_ca4a2d6c-c4a8-560e-96c7-0803524e02f8.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/a4/ca4a2d6c-c4a8-560e-96c7-0803524e02f8/67a1108cc7ee7.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-02-03T20:30:00Z",
-      "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Richmond.com"
       },
       "author": "HAYA PANJWANI Associated Press",
@@ -650,6 +806,19 @@
       "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/d6/1d60ddca-c476-5e89-a80c-c85c49e5f785/67a1108cbf316.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-02-03T20:30:00Z",
       "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Roanoke Times"
+      },
+      "author": "HAYA PANJWANI Associated Press",
+      "title": "Black History Month explained: Its origins, celebrations and myths",
+      "description": "Schools, museums and communities across the nation are marking Black History Month — a celebration of Black history, culture and education.",
+      "url": "https://roanoke.com/news/nation-world/black-history-month-origins-celebrations-carter-g-woodson/article_ca4a2d6c-c4a8-560e-96c7-0803524e02f8.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/a4/ca4a2d6c-c4a8-560e-96c7-0803524e02f8/67a1108cc7ee7.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-03T20:30:00Z",
+      "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23489 chars]"
     },
     {
       "source": {
@@ -760,19 +929,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Marco A. Coelho, Márcia David-Palma, Janneke Aylward, Nam Q. Pham, Cobus M. Visagie, Taygen Fuchs, Neriman Yilmaz, Francois Roets, Sheng Sun, John W. Taylor, Brenda D. Wingfield, Matthew C. Fisher, Michael J. Wingfield, Joseph Heitman",
-      "title": "Decoding Cryptococcus: From African biodiversity to worldwide prevalence",
-      "description": null,
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012876",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012876.g001&size=inline",
-      "publishedAt": "2025-02-03T14:00:00Z",
-      "content": "Citation: Coelho MA, David-Palma M, Aylward J, Pham NQ, Visagie CM, Fuchs T, et al. (2025) Decoding Cryptococcus: From African biodiversity to worldwide prevalence. PLoS Pathog 21(2):\r\n e1012876.\r\nht… [+36619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Michel Dione, Guy Ilboudo, Abdoul Aziz Ouedraogo, Sidonie Aristide Ima, Brice Ouedraogo, Theodore Knight-Jones, Assèta Kagambèga, Robyn Alders",
       "title": "Characteristics of chicken production systems in rural Burkina Faso: A focus on One Health related practices and food security",
       "description": "In addition to having cultural importance, village chicken production remains an important source of cash income for most rural households in Burkina Faso. However, strict biosecurity and good management of chicken flocks are required to reduce the risk of ex…",
@@ -780,6 +936,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317898.g012&size=inline",
       "publishedAt": "2025-02-03T14:00:00Z",
       "content": "Citation: Dione M, Ilboudo G, Ouedraogo AA, Ima SA, Ouedraogo B, Knight-Jones T, et al. (2025) Characteristics of chicken production systems in rural Burkina Faso: A focus on One Health related pract… [+42425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Marco A. Coelho, Márcia David-Palma, Janneke Aylward, Nam Q. Pham, Cobus M. Visagie, Taygen Fuchs, Neriman Yilmaz, Francois Roets, Sheng Sun, John W. Taylor, Brenda D. Wingfield, Matthew C. Fisher, Michael J. Wingfield, Joseph Heitman",
+      "title": "Decoding Cryptococcus: From African biodiversity to worldwide prevalence",
+      "description": null,
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012876",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012876.g001&size=inline",
+      "publishedAt": "2025-02-03T14:00:00Z",
+      "content": "Citation: Coelho MA, David-Palma M, Aylward J, Pham NQ, Visagie CM, Fuchs T, et al. (2025) Decoding Cryptococcus: From African biodiversity to worldwide prevalence. PLoS Pathog 21(2):\r\n e1012876.\r\nht… [+36619 chars]"
     },
     {
       "source": {
@@ -1092,175 +1261,6 @@
       "urlToImage": "https://img.particlenews.com/img/id/47UMYO_0yaa5Eyr00",
       "publishedAt": "2025-02-02T13:45:41Z",
       "content": "12-Year-Old Girl Dies After Drinking Contaminated Milkshake Made in Unwashed Blender at Cafe\r\n A 12-year-old girl died suddenly after she was allegedly exposed to a deadly food allergy at a cafe, acc… [+478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Nikita Nikhil",
-      "title": "Houseflies In Ghee And More Food Violations Found At Dairy In Hyderabad",
-      "description": "The Telangana Food Safety Department found several violations, including unsanitary food processing, dead lizards, and rusted equipment. Read on to know more.",
-      "url": "https://www.ndtv.com/food/contaminated-curd-houseflies-in-ghee-and-more-food-safety-violations-found-at-dairy-unit-in-hyderabad-7616283",
-      "urlToImage": "https://c.ndtvimg.com/2025-02/nvin0vc_violations_625x300_02_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2025-02-02T09:15:18Z",
-      "content": "A task force representing the Telangana Food Safety Department conducted inspections at Shakti Milk And Milk Products, Raghunathpally (M) in Telangana's Jangaon district. They visited the facility on… [+1983 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Arlene Blum, Contributor, \n Arlene Blum, Contributor\n https://www.forbes.com/sites/arleneblum/",
-      "title": "Why Are Toxic Flame Retardants In Your Earbuds?",
-      "description": "Manufacturers are adding harmful flame retardants to plastic cases surrounding the lithium-ion batteries in earbuds, e-bikes, and more. They may not work.",
-      "url": "https://www.forbes.com/sites/arleneblum/2025/02/02/why-are-toxic-flame-retardants-in-your-earbuds/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679f083b4cefee65b03356b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-02T09:00:00Z",
-      "content": "Lithium-ion batteries used in portable electronics like earbuds come with fire risks. Adding flame ... [+] retardants to their plastic battery enclosures may not be help. It can also lead to health h… [+4259 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Bill Marler",
-      "title": "Publisher’s Platform: Tackling Listeria – A Shared Responsibility in Safeguarding Our Food Supply",
-      "description": "Listeria monocytogenes, a potent and pathogenic bacterium, poses a persistent threat to our food supply and public health. Unlike many other foodborne pathogens, Listeria can thrive at refrigeration temperatures, making it particularly challenging to control.…",
-      "url": "https://www.foodsafetynews.com/2025/02/publishers-platform-tackling-listeria-a-shared-responsibility-in-safeguarding-our-food-supply/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/924/344/NgL30amMOYedyaVOQprJxBoye/18ea4bcedc650760de5f15f63156c84c4845e03a.png",
-      "publishedAt": "2025-02-02T08:01:41Z",
-      "content": "Listeria monocytogenes, a potent and pathogenic bacterium, poses a persistent threat to our food supply and public health. Unlike many other foodborne pathogens, Listeria can thrive at refrigeration … [+2402 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "FOX News",
-      "title": "FDA recalls breadcrumbs sold nationwide",
-      "description": "Breadcrumbs sold for months throughout the United States contain an undeclared allergen and are being recalled for safety reasons, the Food and Drug Administration announced on its website on Jan. 28. La Fiesta Food Products, LLC, which is based in La Miranda…",
-      "url": "https://freerepublic.com/focus/f-chat/4294277/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-02-02T07:16:28Z",
-      "content": "Skip to comments.\r\nFDA recalls breadcrumbs sold nationwide\r\nFOX News ^\r\n | February 01,2025\r\n | Christine Rousselle \r\nPosted on 02/01/2025 11:16:28 PM PST by Red Badger\r\nBreadcrumbs sold for months t… [+1599 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ETF Daily News"
-      },
-      "author": "MarketBeat News",
-      "title": "Balchem (NASDAQ:BCPC) & General Enterprise Ventures (OTCMKTS:GEVI) Critical Analysis",
-      "description": "Balchem (NASDAQ:BCPC – Get Free Report) and General Enterprise Ventures (OTCMKTS:GEVI – Get Free Report) are both basic materials companies, but which is the superior stock? We will compare the two businesses based on the strength of their risk, dividends, in…",
-      "url": "https://www.etfdailynews.com/2025/02/02/balchem-nasdaqbcpc-general-enterprise-ventures-otcmktsgevi-critical-analysis/",
-      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/general-enterprise-ventures-inc-logo-1200x675.png?v=20220628092608&w=240&h=240&zc=2",
-      "publishedAt": "2025-02-02T07:13:05Z",
-      "content": "Balchem (NASDAQ:BCPC – Get Free Report) and General Enterprise Ventures (OTCMKTS:GEVI – Get Free Report) are both basic materials companies, but which is the superior stock? We will compare the two b… [+5559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Are 5 guys fries gluten free?",
-      "description": "Are 5 Guys Fries Gluten-Free? Understanding the Question When it comes to food, people often ask about the gluten-free status […]\nThe post Are 5 guys fries gluten free? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/are-5-guys-fries-gluten-free/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-02T06:41:51Z",
-      "content": "Are 5 Guys Fries Gluten-Free?\r\nUnderstanding the Question\r\nWhen it comes to food, people often ask about the gluten-free status of various products. In this article, we will delve into the world of 5… [+3311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox News",
-      "title": "FDA recalls breadcrumbs sold nationwide over undeclared allergen",
-      "description": "Breadcrumbs sold for months throughout the United States contain an undeclared allergen and are being recalled for safety reasons, the Food and Drug Administration announced on its website on Jan. 28.",
-      "url": "https://nypost.com/2025/02/01/lifestyle/fda-recalls-la-fiesta-breadcrumbs-sold-nationwide/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/97737890.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-02-02T01:09:03Z",
-      "content": "Breadcrumbs sold for months throughout the United States contain an undeclared allergen and are being recalled for safety reasons, the Food and Drug Administration announced on its website on Jan. 28… [+2311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Ransomware attack hit Indian multinational Tata Technologies",
-      "description": "Indian multinational technology company Tata Technologies suspended some IT services following a ransomware attack. Indian multinational Tata Technologies, a Tata Motors subsidiary, suspended some IT services following a ransomware attack. The company, which …",
-      "url": "https://securityaffairs.com/173712/cyber-crime/tata-technologies-ransomware-attack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
-      "publishedAt": "2025-02-02T00:48:39Z",
-      "content": "Ransomware attack hit Indian multinational Tata Technologies\r\n | A ransomware attack forced New York Blood Center to reschedule appointments\r\n | Contec CMS8000 patient monitors contain a hidden backd… [+135862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Jean Perrin Morbier cheese recalled in Canada because of E. coli contamination",
-      "description": "The Canadian Food Inspection Agency has recalled certain products of morbier cheese in British Columbia because of pathogenic E. colicontamination.  Morbier, a semi-soft cows’ milk cheese, has been recalled by the CFIA for E. Coli found in some Jean Perrin-br…",
-      "url": "https://www.foodsafetynews.com/2025/02/jean-perrin-morbier-cheese-recalled-in-canada-because-of-e-coli-contamination/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/910/075/g4ZpR2ONeYJBAK7KYEqvo9WBA/de7768f576975809ba60b2a7f0b4b200d301db64.png",
-      "publishedAt": "2025-02-02T00:33:31Z",
-      "content": "The Canadian Food Inspection Agency has recalled certain products of morbier cheese in British Columbia because of pathogenic E. colicontamination. \r\nMorbier, a semi-soft cows’ milk cheese, has been … [+2190 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Almost 3 tons of pet food recalled after state test shows Salmonella contamination",
-      "description": "Blue Ridge Beef is recalling 5,700 pounds of their 2-pound log Natural Mix because of contamination with Salmonella.  Lot number N25/12/31 is stamped in the clips on the end of the chubs/bags. The recalled food is marked with UPC 854298001054. Salmonella can …",
-      "url": "https://www.foodsafetynews.com/2025/02/almost-3-tons-of-pet-food-recalled-after-state-test-shows-salmonella-contamination/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/079/909/303/NWlVkgmbMQEB5dZAYZyAqEwDo/fdf403ffcc9714da7047f2adf07ebcac46a5f697.png",
-      "publishedAt": "2025-02-02T00:05:07Z",
-      "content": "Blue Ridge Beef is recalling 5,700 pounds of their 2-pound log Natural Mix because of contamination with Salmonella. \r\nLot number N25/12/31 is stamped in the clips on the end of the chubs/bags. The r… [+3230 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "local12.com",
-      "title": "More than 5,000 lbs of pet food recalled due to Salmonella risk",
-      "description": "A pet food manufacturer has issued a recall due to Salmonella contamination.\nBlue Ridge Beef recalled 5,700 pounds of its 2-pound log Natural Mix pet food. The affected lot number is N25/12/31, and the UPC is 854298001054. The recall is being conducted with t…",
-      "url": "https://biztoc.com/x/14381244f830ae26",
-      "urlToImage": "https://biztoc.com/cdn/14381244f830ae26_s.webp",
-      "publishedAt": "2025-02-02T00:01:55Z",
-      "content": "A pet food manufacturer has issued a recall due to Salmonella contamination.Blue Ridge Beef recalled 5,700 pounds of its 2-pound log Natural Mix pet food. The affected lot number is N25/12/31, and th… [+151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "Dr. Mercola",
-      "title": "Cellular Health Revolution — Unveiling Hidden Threats and Empowering Solutions",
-      "description": "In my appearance on The Jimmy Dore Show, we explored a vital yet often overlooked aspect of human well-being — cellular health and the myriad of silent toxins eroding it. I shared insights from my latest book, \"Your Guide to Cellular Health: Unlocking the Sci…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/02/cellular-health-revolution.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/October/FB/cellular-health-revolution-fb.jpg",
-      "publishedAt": "2025-02-02T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A ransomware attack forced New York Blood Center to reschedule appointments",
-      "description": "The New York Blood Center faced a ransomware attack on Sunday, forcing the healthcare organization to reschedule appointments. The New York Blood Center suffered a ransomware attack on Sunday, causing appointment rescheduling. The New York Blood Center (NYBC)…",
-      "url": "https://securityaffairs.com/173702/cyber-crime/new-york-blood-center-faced-ransomware-attack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
-      "publishedAt": "2025-02-01T21:24:49Z",
-      "content": "A ransomware attack forced New York Blood Center to reschedule appointments\r\n | Contec CMS8000 patient monitors contain a hidden backdoor\r\n | Community Health Center data breach impacted over 1 milli… [+135797 chars]"
     }
   ],
   "totalResults": 97,
