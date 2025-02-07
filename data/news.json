@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-02-07T12:40:43.627Z",
+  "lastUpdated": "2025-02-07T18:28:55.280Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Lina Eklund, Associate Senior Lecturer, Lund University, He Yin, Assistant Professor of Geography, Kent State University , Jamon Van Den Hoek, Associate Professor of Geography, Oregon State University",
+      "title": "Gaza: we analysed a year of satellite images to map the scale of agricultural destruction",
+      "description": "Most of Gaza’s olive trees, citrus trees and greenhouses have been destroyed.",
+      "url": "https://theconversation.com/gaza-we-analysed-a-year-of-satellite-images-to-map-the-scale-of-agricultural-destruction-248796",
+      "urlToImage": "https://images.theconversation.com/files/647252/original/file-20250205-15-jnzbjx.png?ixlib=rb-4.1.0&rect=11%2C0%2C2445%2C1222&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-06T18:10:54Z",
+      "content": "Part of North Gaza in November 2023, and again in July 2024. \n\n SkySat imagery © 2025/Planet Labs PBC\r\nThe ceasefire agreed between Israel and Hamas makes provisions for the passage of food and human… [+6057 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Sophie Clark",
+      "title": "Kroger Food Recalls Issued for Over 15 States: List of Products Impacted",
+      "description": "Kroger has issued recalls for several food products across at least 15 states since the start of February.",
+      "url": "https://www.newsweek.com/kroger-food-recalls-issued-15-states-full-list-products-impacted-2027160",
+      "urlToImage": "https://d.newsweek.com/en/full/2582660/kroger-logo.jpg",
+      "publishedAt": "2025-02-06T18:00:54Z",
+      "content": "Kroger has recalled several food products from its stores across at least 15 states, and has also recalled products from several Kroger subsidiary stores across the country since the start of Februar… [+3310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Mercury content in tuna can be reduced with new packaging solution",
+      "description": "Fish is a high-quality source of protein, containing omega-3 fatty acids and many other beneficial nutrients. However, the accumulation of toxic mercury also makes fish consumption a concern, of which tuna is particularly susceptible. Researchers have now com…",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250206113325.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-06T16:33:25Z",
+      "content": "Fish is a high-quality source of protein, containing omega-3 fatty acids and many other beneficial nutrients. However, the accumulation of toxic mercury also makes fish consumption a concern, of whic… [+4136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cisco addressed two critical flaws in its Identity Services Engine (ISE)",
+      "description": "Cisco addressed critical flaws in Identity Services Engine, preventing privilege escalation and system configuration changes. Cisco addressed multiple vulnerabilities, including two critical remote code execution flaws, tracked as CVE-2025-20124 (CVSS score o…",
+      "url": "https://securityaffairs.com/173946/security/cisco-addressed-critical-flaws-in-identity-services-engine.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
+      "publishedAt": "2025-02-06T15:42:28Z",
+      "content": "Notorious hacker behind 40+ cyberattacks on strategic organizations arrested\r\n | Lazarus APT targets crypto wallets using cross-platform JavaScript stealer\r\n | U.S. CISA adds Linux kernel flaw to its… [+137388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Aluminum Foil Packaging Market to Reach USD 47.0 Billion by 2035, Driven by Growing Demand Across Industries | Future Market Insights, Inc.",
+      "description": "The demand for aluminum foil packaging in the USA is driven by the need for convenience in ready-to-eat and on-the-go foods. Its excellent barrier properties help maintain freshness, prevent contamination, and extend shelf life, making it a preferred choice f…",
+      "url": "https://www.globenewswire.com/news-release/2025/02/06/3022128/0/en/Aluminum-Foil-Packaging-Market-to-Reach-USD-47-0-Billion-by-2035-Driven-by-Growing-Demand-Across-Industries-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-02-06T14:30:00Z",
+      "content": "NEWARK, Del, Feb. 06, 2025 (GLOBE NEWSWIRE) -- The global aluminum foil packaging market is poised for substantial growth, with market size projected to reach USD 28.8 billion in 2025 and expand to U… [+10262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Keren Davidov, Sheli Itzahri, Liat Anabel Sinberger, Matan Oren",
+      "title": "Unveiling microbial succession dynamics on different plastic surfaces using WGCNA",
+      "description": "Over recent decades, marine microorganisms have increasingly adapted to plastic debris, forming distinct plastic-attached microbial communities. Despite this, the colonization and succession processes on plastic surfaces in marine environments remain poorly u…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318843",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318843.g007&size=inline",
+      "publishedAt": "2025-02-06T14:00:00Z",
+      "content": "Abstract\r\nOver recent decades, marine microorganisms have increasingly adapted to plastic debris, forming distinct plastic-attached microbial communities. Despite this, the colonization and successio… [+49227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Longjun Pu, Jing Wang, Lars Nilsson, Lina Zhao, Chloe Williams, Guanqiao Chi, Jonathan D Gilthorpe, Simon Tuck, Johan Henriksson, Yi-Quan Tang, Sun Nyunt Wai, Changchun Chen",
+      "title": "Shaker/Kv1 potassium channel SHK-1 protects against pathogen infection and oxidative stress in C. elegans",
+      "description": "Author summary Exposure to environmental stimuli, such as bacterial pathogens, increases the production of reactive oxygen species (ROS), leading to oxidative stress and widespread cellular damage. Cells employ various defense mechanisms to counteract ROS-ind…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011554",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011554.g006&size=inline",
+      "publishedAt": "2025-02-06T14:00:00Z",
+      "content": "Abstract\r\nThe Shaker/Kv1 subfamily of voltage-gated potassium (K+) channels is essential for modulating membrane excitability. Their loss results in prolonged depolarization and excessive calcium inf… [+75598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Veridiana Lenartovicz Boeira, Renata Coltro Bezagio, Marina Silva de Carvalho, Rinaldo Ferreira Gandra, Ana Paula de Abreu, Cristiano Lara Massara, Cristiane Maria Colli, Max Jean de Ornelas Toledo",
+      "title": "Hybrid and/or mixed infection by pig and human Ascaris in a Guarani indigenous village in southern Brazil",
+      "description": "Author summary Despite the control measures implemented in Brazilian Indigenous Lands, the prevalence of intestinal parasites continues to vary from moderate (> 20% and < 50%) to high (≥ 50%) in its inhabitants. The number of indigenous people residing in Bra…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012271",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012271.g005&size=inline",
+      "publishedAt": "2025-02-06T14:00:00Z",
+      "content": "Abstract\r\nBackground\r\nAscaris lumbricoides and Ascaris suum are nematode parasites that infect millions of people and pigs worldwide, respectively. Reports of cross-infection and hybridization betwee… [+50515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Nicolas Hulscher",
+      "title": "Irrefutable Evidence Supporting Immediate Market Withdrawal of COVID-19 “Vaccines”: Peer-Reviewed Study",
+      "description": "Over 81,000 physicians, scientists, and concerned citizens, 240 elected officials, 17 professional organizations, excess mortality, negative efficacy, and DNA contamination call for urgent action.\n*\nThe McCullough Foundation study, authored by epidemiologist …",
+      "url": "https://www.globalresearch.ca/irrefutable-evidence-supporting-immediate-market-withdrawal-covid-19-vaccines/5879232",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2022/10/Vaccine-Vial-Bottles-Covid-19.jpg",
+      "publishedAt": "2025-02-06T13:38:13Z",
+      "content": "Over 81,000 physicians, scientists, and concerned citizens, 240 elected officials, 17 professional organizations, excess mortality, negative efficacy, and DNA contamination call for urgent action.\r\n*… [+10123 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -992,19 +1109,6 @@
     {
       "source": {
         "id": null,
-        "name": "Richmond.com"
-      },
-      "author": "HAYA PANJWANI Associated Press",
-      "title": "Black History Month explained: Its origins, celebrations and myths",
-      "description": "Schools, museums and communities across the nation are marking Black History Month — a celebration of Black history, culture and education.",
-      "url": "https://richmond.com/news/nation-world/black-history-month-origins-celebrations-carter-g-woodson/article_1d60ddca-c476-5e89-a80c-c85c49e5f785.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/d6/1d60ddca-c476-5e89-a80c-c85c49e5f785/67a1108cbf316.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-02-03T20:30:00Z",
-      "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Roanoke Times"
       },
       "author": "HAYA PANJWANI Associated Press",
@@ -1014,6 +1118,19 @@
       "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/a4/ca4a2d6c-c4a8-560e-96c7-0803524e02f8/67a1108cc7ee7.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-02-03T20:30:00Z",
       "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Richmond.com"
+      },
+      "author": "HAYA PANJWANI Associated Press",
+      "title": "Black History Month explained: Its origins, celebrations and myths",
+      "description": "Schools, museums and communities across the nation are marking Black History Month — a celebration of Black history, culture and education.",
+      "url": "https://richmond.com/news/nation-world/black-history-month-origins-celebrations-carter-g-woodson/article_1d60ddca-c476-5e89-a80c-c85c49e5f785.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/d6/1d60ddca-c476-5e89-a80c-c85c49e5f785/67a1108cbf316.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-03T20:30:00Z",
+      "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23426 chars]"
     },
     {
       "source": {
@@ -1124,19 +1241,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Michel Dione, Guy Ilboudo, Abdoul Aziz Ouedraogo, Sidonie Aristide Ima, Brice Ouedraogo, Theodore Knight-Jones, Assèta Kagambèga, Robyn Alders",
-      "title": "Characteristics of chicken production systems in rural Burkina Faso: A focus on One Health related practices and food security",
-      "description": "In addition to having cultural importance, village chicken production remains an important source of cash income for most rural households in Burkina Faso. However, strict biosecurity and good management of chicken flocks are required to reduce the risk of ex…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317898",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317898.g012&size=inline",
-      "publishedAt": "2025-02-03T14:00:00Z",
-      "content": "Citation: Dione M, Ilboudo G, Ouedraogo AA, Ima SA, Ouedraogo B, Knight-Jones T, et al. (2025) Characteristics of chicken production systems in rural Burkina Faso: A focus on One Health related pract… [+42425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Marco A. Coelho, Márcia David-Palma, Janneke Aylward, Nam Q. Pham, Cobus M. Visagie, Taygen Fuchs, Neriman Yilmaz, Francois Roets, Sheng Sun, John W. Taylor, Brenda D. Wingfield, Matthew C. Fisher, Michael J. Wingfield, Joseph Heitman",
       "title": "Decoding Cryptococcus: From African biodiversity to worldwide prevalence",
       "description": null,
@@ -1144,110 +1248,6 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012876.g001&size=inline",
       "publishedAt": "2025-02-03T14:00:00Z",
       "content": "Citation: Coelho MA, David-Palma M, Aylward J, Pham NQ, Visagie CM, Fuchs T, et al. (2025) Decoding Cryptococcus: From African biodiversity to worldwide prevalence. PLoS Pathog 21(2):\r\n e1012876.\r\nht… [+36619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Irene Ojeda-Naharros, Tirthasree Das, Ralph A. Castro, J. Fernando Bazan, Christian Vaisse, Maxence V. Nachury",
-      "title": "Tonic ubiquitination of the central body weight regulator melanocortin receptor 4 (MC4R) promotes its constitutive exit from cilia",
-      "description": "The melanocortin receptor 4 (MC4R) regulates body weight homeostasis at the cilium of hypothalamic neurons, but its levels are very low under unrestricted feeding conditions. Here, the authors find that MC4R accumulation is prevented through continuous ubiqui…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003025",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003025.g009&size=inline",
-      "publishedAt": "2025-02-03T14:00:00Z",
-      "content": "Citation: Ojeda-Naharros I, Das T, Castro RA, Bazan JF, Vaisse C, Nachury MV (2025) Tonic ubiquitination of the central body weight regulator melanocortin receptor 4 (MC4R) promotes its constitutive … [+75320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Are parasol mushrooms edible?",
-      "description": "Are Parasol Mushrooms Edible? Introduction Parasol mushrooms, also known as Parasol Cap, are a type of edible mushroom that belongs […]\nThe post Are parasol mushrooms edible? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/are-parasol-mushrooms-edible/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-03T13:53:48Z",
-      "content": "Are Parasol Mushrooms Edible?\r\nIntroduction\r\nParasol mushrooms, also known as Parasol Cap, are a type of edible mushroom that belongs to the genus Parasolia. These mushrooms are native to North Ameri… [+4330 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Straits Research Private Limited - Garner Insights",
-      "title": "Cancer Diagnostics Market Size is Expected to Reach USD 178.26 Billion by 2033, Growing at a CAGR of 5.91%: Straits Research",
-      "description": "The global cancer diagnostics market size was valued at USD 106.32 billion in 2024 and is projected to reach from USD 112.60 billion in 2025 to USD 178.26 billion by 2033, growing at a CAGR of 5.91% during the forecast period (2025-2033). The global cancer di…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/03/3019504/0/en/Cancer-Diagnostics-Market-Size-is-Expected-to-Reach-USD-178-26-Billion-by-2033-Growing-at-a-CAGR-of-5-91-Straits-Research.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0772b43c-9649-415d-a2b8-bd58fd4badd8",
-      "publishedAt": "2025-02-03T13:25:00Z",
-      "content": "New York, United States, Feb. 03, 2025 (GLOBE NEWSWIRE) -- Cancer diagnostics is the process of identifying biomarkers, proteins, and other indicators that assist in identifying a cancerous tumor. Pl… [+8720 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "FACT.MR",
-      "title": "Containment Tanks Market is Projected to Grow at 4.7% CAGR to Reach US$ 9.6 Billion by 2034 | Fact.MR Report",
-      "description": "Growing infrastructure projects and strict environmental regulations boost containment tank demand in North America and Europe Growing infrastructure projects and strict environmental regulations boost containment tank demand in North America and Europe",
-      "url": "https://www.globenewswire.com/news-release/2025/02/03/3019352/0/en/Containment-Tanks-Market-is-Projected-to-Grow-at-4-7-CAGR-to-Reach-US-9-6-Billion-by-2034-Fact-MR-Report.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f482b854-04d1-4f4e-9237-f7c7c6823e10",
-      "publishedAt": "2025-02-03T12:00:00Z",
-      "content": "Rockville, MD, Feb. 03, 2025 (GLOBE NEWSWIRE) -- The global containment tanks market was valued at US$ 6.1 billion in 2024 and will expand at a noteworthy CAGR of 4.7% to end up at US$ 9.6 billion by… [+7242 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Elon Musk ’s DOGE team granted ‘full access’ to sensitive Treasury systems. What are the risks?",
-      "description": "US Sen. Ron Wyden warns of national security risks after Elon Musk ’s DOGE was given full access to sensitive Treasury systems. Sen. Ron Wyden warned of national security risks after Elon Musk ’s team, Department of Government Efficiency (DOGE), was granted f…",
-      "url": "https://securityaffairs.com/173776/security/elon-musk-s-doge-granted-full-access-to-sensitive-treasury-systems.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/Elon-Musk.jpeg",
-      "publishedAt": "2025-02-03T11:06:55Z",
-      "content": "Elon Musk s DOGE team granted full access to sensitive Treasury systems. What are the risks?\r\n | Texas is the first state to ban DeepSeek on government devices\r\n | Law enforcement seized the domains … [+136275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Keith Cooper",
-      "title": "Trump wants the US to land astronauts on Mars soon. Could it happen by 2029?",
-      "description": "There are many obstacles to overcome before humans can set foot on Mars, including problems surrounding launch mass and closed-loop systems and the hazards of space radiation.",
-      "url": "https://www.space.com/the-universe/mars/trump-wants-the-us-to-land-astronauts-on-mars-soon-could-it-happen-by-2029",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HPBMsab2ZsB4npXn9PhRpG-1200-80.jpg",
-      "publishedAt": "2025-02-03T11:00:00Z",
-      "content": "President Donald Trump recently announced that the United States would work to land astronauts on Mars, preferably within the next four years — the extent of his presidential term.\r\nThat goal\r\n has r… [+12461 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "X-Ray Detectors Market Set to Reach Valuation of US$ 6.43 Billion By 2033 | Astute Analytica",
-      "description": "Advancements in detector design, combined with heightened diagnostic needs, drive brisk market expansion. Medical facilities refine workflows, industrial sites ensure safety, and leading companies shine through innovative materials and smart connectivity. Adv…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/03/3019254/0/en/X-Ray-Detectors-Market-Set-to-Reach-Valuation-of-US-6-43-Billion-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-02-03T09:30:00Z",
-      "content": "New Delhi, Feb. 03, 2025 (GLOBE NEWSWIRE) -- The global X-ray detectors market was valued at US$ 3.82 in 2024 and is anticipated to reach US$ 6.43 billion by 2033, at a CAGR of 5.95% during the forec… [+14696 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Are ice breakers gluten free?",
-      "description": "Are Ice Breakers Gluten-Free? Ice Breakers is a popular brand of ice cream that has been a staple in many […]\nThe post Are ice breakers gluten free? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/are-ice-breakers-gluten-free/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-03T07:32:09Z",
-      "content": "Are Ice Breakers Gluten-Free?\r\nIce Breakers is a popular brand of ice cream that has been a staple in many households for decades. However, with the increasing awareness of gluten-free diets and the … [+4985 chars]"
     }
   ],
   "totalResults": 96,
