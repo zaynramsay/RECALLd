@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-06T18:29:13.960Z",
+  "lastUpdated": "2025-02-07T01:42:23.477Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Lifesciencesworld.com"
+      },
+      "author": "LSW Team",
+      "title": "Can I take fruit on airplane?",
+      "description": "Can I Take Fruit on Airplane? Understanding Airline Policies Before we dive into the answer, it’s essential to understand the […]\nThe post Can I take fruit on airplane? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/can-i-take-fruit-on-airplane/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-02-06T00:36:34Z",
+      "content": "Can I Take Fruit on Airplane?\r\nUnderstanding Airline Policies\r\nBefore we dive into the answer, it’s essential to understand the airline policies regarding fruit on board. Airline policies can vary gr… [+3588 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Lazarus APT targets crypto wallets using cross-platform JavaScript stealer",
+      "description": "The North Korea-linked APT group Lazarus uses a cross-platform JavaScript stealer to target crypto wallets in a new hacking campaign. Bitdefender researchers reported that the North Korea-linked Lazarus group uses fake LinkedIn job offers in the cryptocurrenc…",
+      "url": "https://securityaffairs.com/173902/apt/lazarus-cross-platform-javascript-stealer-crypto-wallets.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-10.png",
+      "publishedAt": "2025-02-06T00:08:02Z",
+      "content": "Lazarus APT targets crypto wallets using cross-platform JavaScript stealer\r\n | U.S. CISA adds Linux kernel flaw to its Known Exploited Vulnerabilities catalog\r\n | U.S. CISA adds Microsoft .NET Framew… [+137307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Snopes.com"
+      },
+      "author": "Jack Izzo",
+      "title": "Look out for this message about fictional recall on chicken, eggs",
+      "description": "People are warning each other about an alleged recall on chicken and Eggland's Best eggs that's not based in reality.",
+      "url": "https://www.snopes.com//fact-check/chicken-eggs-recall/",
+      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/02/egglands_best_eggs_in_a_carton.jpg",
+      "publishedAt": "2025-02-05T23:20:00Z",
+      "content": "Claim:\r\nIn February 2025, the U.S. was experiencing a recall on chicken and Eggland's Best eggs.\r\nIn early February 2025, people were sharing a \r\nmessage\r\n (archived) with an alleged warning against … [+10414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Linux kernel flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux kernel vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Linux kernel vulnerability, tracked as CVE-20…",
+      "url": "https://securityaffairs.com/173897/hacking/u-s-cisa-adds-linux-kernel-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-05T21:00:42Z",
+      "content": "U.S. CISA adds Linux kernel flaw to its Known Exploited Vulnerabilities catalog\r\n | U.S. CISA adds Microsoft .NET Framework, Apache OFBiz, and Paessler PRTG Network Monitor flaws to its Known Exploit… [+137228 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Skinner",
+      "title": "California County Sues Companies Over PFAS in Firefighting Foams, More",
+      "description": "A lawsuit filed by Santa Clara County alleges that manufacturers covered up the toxic effects of the substances.",
+      "url": "https://www.newsweek.com/firefighting-foam-california-health-crisis-lawsuit-pfas-contaminate-drinking-water-2026727",
+      "urlToImage": "https://d.newsweek.com/en/full/2582090/pfas-health-crisis-california.jpg",
+      "publishedAt": "2025-02-05T20:04:48Z",
+      "content": "Products containing PFAS—including firefighting foams—manufactured by 3M, DuPont and several other manufacturers have contributed to California's \"health crisis,\" a county alleges in a lawsuit recent… [+4200 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -736,7 +801,7 @@
       },
       "author": "katu.com",
       "title": "Broccoli sold at Walmart in OR, WA, and other states recalled over Listeria concerns",
-      "description": "Braga Fresh has voluntarily recalled certain 12-ounce bags of Marketside Broccoli Florets sold at Walmart locations across 20 states due to potential Listeria monocytogenes contamination, according to the U.S. Food and Drug Administration (FDA).\nThe FDA warne��",
+      "description": "Braga Fresh has voluntarily recalled certain 12-ounce bags of Marketside Broccoli Florets sold at Walmart locations across 20 states due to potential Listeria monocytogenes contamination, according to the U.S. Food and Drug Administration (FDA).\nThe FDA warne…",
       "url": "https://biztoc.com/x/2f97e83fe82d4e73",
       "urlToImage": "https://biztoc.com/cdn/2f97e83fe82d4e73_s.webp",
       "publishedAt": "2025-02-03T23:55:27Z",
@@ -1196,71 +1261,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
       "publishedAt": "2025-02-02T14:55:08Z",
       "content": "Security Affairs newsletter Round 509 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | WhatsApp disrupted a hacking campaign targeting journalists with Paragon spyware\r\n | Ransomware attack hit Indian… [+136033 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 509 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. A ransomware a…",
-      "url": "https://securityaffairs.com/173741/breaking-news/security-affairs-newsletter-round-509-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-02-02T14:46:31Z",
-      "content": "Security Affairs newsletter Round 509 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | WhatsApp disrupted a hacking campaign targeting journalists with Paragon spyware\r\n | Ransomware attack hit Indian… [+136033 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "WhatsApp disrupted a hacking campaign targeting journalists with Paragon spyware",
-      "description": "Meta announced the disruption of a malware campaign via WhatsApp that targeted journalists with the Paragon spyware. Meta announced that discovered and dismantled a malware campaign via WhatsApp that targeted journalists and civil society members with the Par…",
-      "url": "https://securityaffairs.com/173721/security/whatsapp-disrupted-paragon-spyware-campaign.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/whatsapp.jpg",
-      "publishedAt": "2025-02-02T14:04:42Z",
-      "content": "WhatsApp disrupted a hacking campaign targeting journalists with Paragon spyware\r\n | Ransomware attack hit Indian multinational Tata Technologies\r\n | A ransomware attack forced New York Blood Center … [+135947 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "mlive.com",
-      "title": "Popular pet food brand recalling nearly 6,000 pounds because of Salmonella contamination",
-      "description": "Pet food brand Blue Ridge Beef announced on Jan. 31 that it’s recalling 5,700 pounds of bagged pet food because of salmonella contamination that can make the product dangerous to pets as well as people who come into contact with it.\nThe specific pet food bein…",
-      "url": "https://biztoc.com/x/9b490adf5983a75f",
-      "urlToImage": "https://biztoc.com/cdn/9b490adf5983a75f_s.webp",
-      "publishedAt": "2025-02-02T14:02:15Z",
-      "content": "Pet food brand Blue Ridge Beef announced on Jan. 31 that its recalling 5,700 pounds of bagged pet food because of salmonella contamination that can make the product dangerous to pets as well as peopl… [+144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Are cool ranch doritos halal?",
-      "description": "Are Cool Ranch Doritos Halal? Understanding the Halal Certification For those unfamiliar with the term \"halal,\" it refers to a […]\nThe post Are cool ranch doritos halal? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/are-cool-ranch-doritos-halal/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-02T13:59:31Z",
-      "content": "Are Cool Ranch Doritos Halal?\r\nUnderstanding the Halal Certification\r\nFor those unfamiliar with the term \"halal,\" it refers to a set of dietary guidelines that are permissible for Muslims to follow. … [+3052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": null,
-      "title": "Canada imposes 25% tariffs in trade war with US - NewsBreak",
-      "description": "Canada has announced retaliatory tariffs against the US, in a move that marks the beginning of a trade war between the neighbouring countries. Prime Minist",
-      "url": "https://www.newsbreak.com/share/3787706264318-canada-imposes-25-tariffs-in-trade-war-with-us?_f=app_share&amp;pd=0Ga78NlT&amp;lang=en_US&amp;send_time=1738503906&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.4.0.27%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q1-v2%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v9&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/47UMYO_0yaa5Eyr00",
-      "publishedAt": "2025-02-02T13:45:41Z",
-      "content": "12-Year-Old Girl Dies After Drinking Contaminated Milkshake Made in Unwashed Blender at Cafe\r\n A 12-year-old girl died suddenly after she was allegedly exposed to a deadly food allergy at a cafe, acc… [+478 chars]"
     }
   ],
   "totalResults": 97,
