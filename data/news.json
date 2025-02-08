@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-02-08T12:37:36.277Z",
+  "lastUpdated": "2025-02-08T18:26:03.232Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Marcin Nowicki, Marzena Nowakowska, Katarzyna Nowak, Wojciech Szczechura, Piotr Kaminski",
+      "title": "Seed priming and abiotic stress tolerance in carrot: Unraveling the mechanisms of improved germination",
+      "description": "Climate change necessitates the development of improved crops capable of withstanding future weather patterns. Carrots (Daucus carota L.), a crucial vegetable crop of global importance, face unique challenges in seed germination and seedling development due t…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318753",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318753.g009&size=inline",
+      "publishedAt": "2025-02-07T14:00:00Z",
+      "content": "Abstract\r\nClimate change necessitates the development of improved crops capable of withstanding future weather patterns. Carrots (Daucus carota L.), a crucial vegetable crop of global importance, fac… [+60086 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,34 +1222,8 @@
       "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
       "publishedAt": "2025-02-04T02:42:33Z",
       "content": "Are Reese’s Puffs Gluten-Free?\r\nUnderstanding the Question\r\nReese’s Puffs are a popular American snack food made by Hershey’s. They are known for their crunchy texture and chocolatey flavor. However,… [+4397 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Google fixed actively exploited kernel zero-day flaw",
-      "description": "The February 2025 Android security updates addressed 48 vulnerabilities, including a kernel zero-day flaw exploited in the wild. The February 2025 Android security updates addressed 48 vulnerabilities, including a zero-day flaw, tracked as CVE-2024-53104, whi…",
-      "url": "https://securityaffairs.com/173812/hacking/google-android-kernel-zero-day-flaw.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/02/Android-security.png",
-      "publishedAt": "2025-02-04T00:26:45Z",
-      "content": "Google fixed actively exploited kernel zero-day flaw\r\n | Web Skimmer found on at least 17 websites, including Casio UK\r\n | Crazy Evil gang runs over 10 highly specialized social media scams\r\n | Elon … [+136469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Stephen Sorace",
-      "title": "Preliminary DC plane crash flight data shows conflicting altitude readings: investigators - NewsBreak",
-      "description": "Preliminary flight data from the deadly plane crash near Reagan National Airport in Washington, D.C., shows conflicting readings about the altitudes of a p",
-      "url": "https://www.newsbreak.com/share/3788863726578-preliminary-dc-plane-crash-flight-data-shows-conflicting-altitude-readings-investigators?s=a2&amp;share_destination_id=MjEyMDk5NjQ4LTE3Mzg2Mjc4OTA3Mzg%3D&amp;pd=0ELwo42f&amp;hl=en_US&amp;send_time=1738627890&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v5%2Cns_foryou_rank_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v5%2Cns_foryou_recall_exp_25q1-v3",
-      "urlToImage": "https://img.particlenews.com/img/id/103q4U_0ybkZDdg00",
-      "publishedAt": "2025-02-04T00:12:17Z",
-      "content": "12-Year-Old Girl Dies After Drinking Contaminated Milkshake Made in Unwashed Blender at Cafe\r\n A 12-year-old girl died suddenly after she was allegedly exposed to a deadly food allergy at a cafe, acc… [+478 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 0
 }
