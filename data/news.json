@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-07T18:28:55.280Z",
+  "lastUpdated": "2025-02-08T01:38:59.870Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Mandy Taheri",
+      "title": "Tahini Recall Prompts Warning in 19 States",
+      "description": "Turkana Foods has recalled 858 cases of Aleppo Tahini Sesame Paste over potential salmonella contamination.",
+      "url": "https://www.newsweek.com/tahini-recall-prompts-warning-19-states-2027623",
+      "urlToImage": "https://d.newsweek.com/en/full/2583299/fda.jpg",
+      "publishedAt": "2025-02-07T00:35:56Z",
+      "content": "More than 800 cases of tahini paste have been recalled due to potential salmonella contamination, with the product distributed in 19 states, Turkana Food Inc. announced Thursday.\r\nNewsweek has reache… [+2846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "How Microplastics Accumulate in Your Brain and Other Organs",
+      "description": "Most people enjoy eating seafood regularly or taking a relaxing, warm bath. While these seem harmless, research shows that they now come with an unseen invader — microplastics. These tiny plastic particles, often smaller than a grain of sand, are increasingly…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/07/microplastic-in-the-brain.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/microplastic-in-the-brain-fb.jpg",
+      "publishedAt": "2025-02-07T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Microsoft Outlook, Sophos XG Firewall, and other flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft Outlook, Sophos XG Firewall, and other flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulne…",
+      "url": "https://securityaffairs.com/173949/hacking/u-s-cisa-adds-microsoft-outlook-sophos-xg-firewall-and-other-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-06T22:36:30Z",
+      "content": "U.S. CISA adds Microsoft Outlook, Sophos XG Firewall, and other flaws to its Known Exploited Vulnerabilities catalog\r\n | Notorious hacker behind 40+ cyberattacks on strategic organizations arrested\r\n… [+137509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
+      "title": "Egg Recall Rumors Are Spreading— Here's What You Need To Know",
+      "description": "Is there a recall on Eggland’s Best eggs? Not officially. But the reaction says a lot about how fragile our food supply feels.",
+      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/06/egg-recall-rumors-are-spreading--heres-what-you-need-to-know/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a5190186ef4daa2986f609/0x0.jpg?format=jpg&crop=2249,1266,x86,y185,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-06T20:31:18Z",
+      "content": "No, Eggland's Best eggs weren't recalledbut here's why so many people believed they were.\r\nIs there a recall on Egglands Best eggs? Heres the truth behind the viral egg recall 2025 panic ... [+] and … [+7442 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Erica Lamberg",
+      "title": "Seafood samples contain high levels of microplastics in US state, say researchers",
+      "description": "Microplastics were detected in almost every seafood sample found off the coast of the western U.S. in a recent study. The particles were found in the edible tissue of six different species of fish.",
+      "url": "https://www.foxnews.com/health/seafood-samples-contain-high-levels-microplastics-us-state-say-researchers",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/fish-and-shrimp.jpg",
+      "publishedAt": "2025-02-06T19:06:00Z",
+      "content": "Microplastics were detected in almost every seafood sample found off the coast of the western U.S. in a recent study, researchers claim. \r\nThe study, led by Portland State University (PSU), identifie… [+5291 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1109,19 +1174,6 @@
     {
       "source": {
         "id": null,
-        "name": "Roanoke Times"
-      },
-      "author": "HAYA PANJWANI Associated Press",
-      "title": "Black History Month explained: Its origins, celebrations and myths",
-      "description": "Schools, museums and communities across the nation are marking Black History Month — a celebration of Black history, culture and education.",
-      "url": "https://roanoke.com/news/nation-world/black-history-month-origins-celebrations-carter-g-woodson/article_ca4a2d6c-c4a8-560e-96c7-0803524e02f8.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/a4/ca4a2d6c-c4a8-560e-96c7-0803524e02f8/67a1108cc7ee7.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-02-03T20:30:00Z",
-      "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Richmond.com"
       },
       "author": "HAYA PANJWANI Associated Press",
@@ -1131,6 +1183,19 @@
       "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/d6/1d60ddca-c476-5e89-a80c-c85c49e5f785/67a1108cbf316.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-02-03T20:30:00Z",
       "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Roanoke Times"
+      },
+      "author": "HAYA PANJWANI Associated Press",
+      "title": "Black History Month explained: Its origins, celebrations and myths",
+      "description": "Schools, museums and communities across the nation are marking Black History Month — a celebration of Black history, culture and education.",
+      "url": "https://roanoke.com/news/nation-world/black-history-month-origins-celebrations-carter-g-woodson/article_ca4a2d6c-c4a8-560e-96c7-0803524e02f8.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/a4/ca4a2d6c-c4a8-560e-96c7-0803524e02f8/67a1108cc7ee7.preview.jpg?crop=1709%2C897%2C33%2C151&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-03T20:30:00Z",
+      "content": "Schools, museums and communities across the nation are marking Black History Month  a celebration of Black history, culture and education.\r\nThe history of the month dates back almost a century, and t… [+23489 chars]"
     },
     {
       "source": {
@@ -1183,71 +1248,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/compost-heap.jpg",
       "publishedAt": "2025-02-03T16:30:02Z",
       "content": "With the construction of a massive new garbage incinerator in Miami-Dade County now in serious doubt, environmentalists and climate activists hope it will open the door for a waste disposal method th… [+8470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Crazy Evil gang runs over 10 highly specialized social media scams",
-      "description": "The Russian-speaking Crazy Evil group runs over 10 social media scams, tricking victims into installing StealC, AMOS, and Angel Drainer malware. Since 2021, the Crazy Evil gang has become a major cybercriminal group, using phishing, identity fraud, and malwar…",
-      "url": "https://securityaffairs.com/173784/cyber-crime/crazy-evil-runs-10-social-media-scams.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-3.png",
-      "publishedAt": "2025-02-03T14:49:35Z",
-      "content": "Crazy Evil gang runs over 10 highly specialized social media scams\r\n | Elon Musk s DOGE team granted full access to sensitive Treasury systems. What are the risks?\r\n | Texas is the first state to ban… [+136346 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "What FDA Recalls In 2024 Taught Us About Food & Consumer Trust",
-      "description": "From mislabeled allergens to major contamination scares, each incident was a reminder of how deeply food safety is woven into our daily lives.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/03/what-fda-recalls-in-2024-taught-us-about-food--consumer-trust/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a0d2457dbc83339fd1e0c9/0x0.jpg?format=jpg&crop=1058,595,x0,y58,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-03T14:36:19Z",
-      "content": "Food FDA recalls in 2024 werent just about contaminationthey were reminders of how trust, ... [+] transparency, and consumer expectations are shaping food safety today.\r\ngetty\r\nAs a food culture writ… [+6160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Antimicrobial Plastics Market to Reach USD 85.06 Billion by 2032, Driven by Rising Demand for Hygiene Solutions Across Industries | SNS Insider",
-      "description": "Driven by heightened hygiene awareness, the antimicrobial plastics market is expanding rapidly in healthcare, food packaging, consumer goods, and infection prevention across medical and industrial sectors. Driven by heightened hygiene awareness, the antimicro…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/03/3019625/0/en/Antimicrobial-Plastics-Market-to-Reach-USD-85-06-Billion-by-2032-Driven-by-Rising-Demand-for-Hygiene-Solutions-Across-Industries-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-02-03T14:30:00Z",
-      "content": "Austin, Feb. 03, 2025 (GLOBE NEWSWIRE) -- The SNS Insider report indicates that, The Antimicrobial Plastics Market\r\n Size was valued at USD 44.01 billion in 2023 and is expected to reach USD 85.06 bi… [+10797 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Are perfect bars gluten free?",
-      "description": "Are Perfect Bars Gluten-Free? Introduction When it comes to gluten-free diets, many people are eager to try new products that […]\nThe post Are perfect bars gluten free? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/are-perfect-bars-gluten-free/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-03T14:11:35Z",
-      "content": "Are Perfect Bars Gluten-Free?\r\nIntroduction\r\nWhen it comes to gluten-free diets, many people are eager to try new products that cater to their dietary needs. Perfect Bars are a popular choice among t… [+4574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Marco A. Coelho, Márcia David-Palma, Janneke Aylward, Nam Q. Pham, Cobus M. Visagie, Taygen Fuchs, Neriman Yilmaz, Francois Roets, Sheng Sun, John W. Taylor, Brenda D. Wingfield, Matthew C. Fisher, Michael J. Wingfield, Joseph Heitman",
-      "title": "Decoding Cryptococcus: From African biodiversity to worldwide prevalence",
-      "description": null,
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012876",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012876.g001&size=inline",
-      "publishedAt": "2025-02-03T14:00:00Z",
-      "content": "Citation: Coelho MA, David-Palma M, Aylward J, Pham NQ, Visagie CM, Fuchs T, et al. (2025) Decoding Cryptococcus: From African biodiversity to worldwide prevalence. PLoS Pathog 21(2):\r\n e1012876.\r\nht… [+36619 chars]"
     }
   ],
   "totalResults": 96,
