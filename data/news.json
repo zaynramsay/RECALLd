@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-09T12:37:09.151Z",
+  "lastUpdated": "2025-02-09T18:26:07.312Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Kimsuky APT group used custom RDP Wrapper version and forceCopy stealer",
+      "description": "Researchers spotted North Korea’s Kimsuky APT group launching spear-phishing attacks to deliver forceCopy info-stealer malware. Researchers from AhnLab Security Intelligence Center (ASEC) observed North Korea’s Kimsuky APT group conducting spear-phishing atta…",
+      "url": "https://securityaffairs.com/173991/apt/north-koreas-kimsuky-forcecopy-malware.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
+      "publishedAt": "2025-02-08T18:15:22Z",
+      "content": "Kimsuky APT group used custom RDP Wrapper version and forceCopy stealer\r\n | Russia's intelligence recruits Ukrainians for terror attacks via messaging apps\r\n | Hospital Sisters Health System impacted… [+137821 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Feed",
+      "title": "Massive Donut recall in US and Canada: Over 2 million products pulled due to Listeria contamination risk – What should consumers do?",
+      "description": "Over 2 million donuts have been pulled from shelves due to Listeria monocytogenes contamination. The recall includes cake donuts, raspberry-filled donuts, French crullers, and Dunkin’ Donuts products, among others. This recall is part of a larger wave of food…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/massive-donut-recall-in-us-and-canada-over-2-million-products-pulled-due-to-listeria-contamination-risk-what-should-consumers-do/articleshow/118070986.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118071326,width-1200,height-630,imgsize-1128759,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-08T16:18:42Z",
+      "content": "More than two million donut products have been recalled across the United States and Canada due to possible contamination with Listeria monocytogenes, a dangerous bacterium. The U.S. Food and Drug Ad… [+2788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Bill Marler",
+      "title": "Publisher’s Platform: Combating E. coli: A Call for Vigilance in Food Safety Practices",
+      "description": "Escherichia coli, commonly known as E. coli, is a versatile bacterium. While many strains are harmless and a natural part of our intestinal flora, some can cause severe illness, leading to serious public health concerns. Recent outbreaks associated with conta…",
+      "url": "https://www.foodsafetynews.com/2025/02/publishers-platform-combating-e-coli-a-call-for-vigilance-in-food-safety-practices/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/537/563/DdWb1LGkNYNnnro3Y70OKvRAP/de8795ffb263b73d2366260a4fc2b207a8f35178.png",
+      "publishedAt": "2025-02-08T15:55:59Z",
+      "content": "Escherichia coli, commonly known as E. coli, is a versatile bacterium. While many strains are harmless and a natural part of our intestinal flora, some can cause severe illness, leading to serious pu… [+2761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Anna Gragert",
+      "title": "Fluoride: Why Is It in Our Drinking Water, and Is It Safe for Children?",
+      "description": "You're not alone if you have questions about fluoride in your water supply. We reached out to experts to get answers.",
+      "url": "https://www.cnet.com/health/medical/fluoride-why-drinking-water-safe-children/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/8610d88c29b90c793a3fd2538cdf062d2c185d3a/hub/2025/01/31/b152e9e5-2bd3-4654-ab48-29465dd29cf7/person-pouring-water-glass.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-08T14:45:03Z",
+      "content": "Fluoride in drinking water has become a controversial topic in the US, especially after Robert F. Kennedy Jr., President Trump's nomination to lead the US Department of Health and Human Services, wro… [+30755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dianeravitch.net"
+      },
+      "author": "dianeravitch",
+      "title": "This Is What a Coup Looks Like",
+      "description": "An aging, angry, vengeful man is re-elected President. That would be Trump. He is surrounded by people with an agenda, like JD Vance, who is an acolyte of a radical anarchist, Curtis Yarvin. The primary financier for the President is the richest man in the wo…",
+      "url": "https://dianeravitch.net/2025/02/08/this-is-what-a-coup-looks-like/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2025-02-08T14:00:00Z",
+      "content": "An aging, angry, vengeful man is re-elected President. That would be Trump. He is surrounded by people with an agenda, like JD Vance, who is an acolyte of a radical anarchist, Curtis Yarvin. The prim… [+14058 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Plastic plague reaches Antarctica: Are we past the point of no return?",
+      "description": "Scientists from the British Antarctic Survey have discovered microplastics in Antarctic snow near remote glaciers. This breakthrough reveals that plastic pollution has reached even the most isolated parts of the planet, raising alarming concerns about global …",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/plastic-plague-reaches-antarctica-are-we-past-the-point-of-no-return/articleshow/118068319.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118068374,width-1200,height-630,imgsize-50116,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2025-02-08T13:31:08Z",
+      "content": "The illusion that Antarctica remains an untouched wilderness has been shattered. In a chilling discovery reported by the Daily Mail, scientists from the British Antarctic Survey (BAS) have detected m… [+3776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Russia’s intelligence recruits Ukrainians for terror attacks via messaging apps",
+      "description": "Russia’s intelligence recruits Ukrainians for terror attacks via messaging apps and forums, offering quick pay, Ukraine’s law enforcement warns. According to Ukraine’s law enforcement, Russian intelligence is using messaging apps and forums to recruit Ukraini…",
+      "url": "https://securityaffairs.com/173980/breaking-news/russias-intelligence-recruits-ukrainians-for-terror-attacks.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-13-1024x654.png",
+      "publishedAt": "2025-02-08T13:25:04Z",
+      "content": "Russia's intelligence recruits Ukrainians for terror attacks via messaging apps\r\n | Hospital Sisters Health System impacted 882,782 individuals\r\n | Attackers used a public ASP.NET machine to conduct … [+137745 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -1131,97 +1222,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a254390a6f9b2c32abbbf1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-02-05T00:31:44Z",
       "content": "Hand with magnifying glass looking at broccoli Recall label\r\ngetty\r\nFood recalls often start as minor advisoriesbut some become public health emergencies overnight.\r\nThats exactly what happened with … [+7935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Online food ordering and delivery platform GrubHub discloses a data breach",
-      "description": "Online food ordering and delivery platform GrubHub suffered a data breach that exposed the personal information of drivers and customers. This week the online food ordering and delivery firm GrubHub disclosed a data breach that exposed customer and driver inf…",
-      "url": "https://securityaffairs.com/173848/data-breach/grubhub-suffered-a-data-breach.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
-      "publishedAt": "2025-02-05T00:14:02Z",
-      "content": "Online food ordering and delivery platform GrubHub discloses a data breach\r\n | Netgear urges users to upgrade two flaws impacting WiFi router models\r\n | AMD fixed a flaw that allowed to load maliciou… [+136786 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "author": "Lalit Bansal",
-      "title": "Blockchain in Supply Chain: Enhancing Transparency and Efficiency Across Industries",
-      "description": "Blockchain in supply chains enhances transparency, reduces fraud, and optimizes operations. It enables real-time tracking, secure data sharing, and automation, benefiting industries like retail, healthcare, and logistics for improved efficiency and sustainabi…",
-      "url": "https://www.c-sharpcorner.com/article/blockchain-in-supply-chain-enhancing-transparency-and-efficiency-across-industr/",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner.png",
-      "publishedAt": "2025-02-05T00:00:00Z",
-      "content": "Blockchain in the supply chain is revolutionizing how industries manage and optimize operations. The technology's decentralized nature allows businesses to ensure greater transparency in the supply c… [+11982 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Netgear urges users to upgrade two flaws impacting WiFi router models",
-      "description": "Netgear disclosed two critical flaws impacting multiple WiFi router models and urges customers to address them. Netgear addressed two critical vulnerabilities, internally tracked as PSV-2023-0039 and PSV-2021-0117, impacting multiple WiFi router models and ur…",
-      "url": "https://securityaffairs.com/173839/security/netgear-wifi-routers-flaws.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/netgear-logo.jpg",
-      "publishedAt": "2025-02-04T22:24:08Z",
-      "content": "Netgear urges users to upgrade two flaws impacting WiFi router models\r\n | AMD fixed a flaw that allowed to load malicious microcode\r\n | Coyote Banking Trojan targets Brazilian users, stealing data fr… [+136707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Common Dreams"
-      },
-      "author": "Newswire Editor",
-      "title": "As Netanyahu Visits U.S., Palestinian Americans Call on DOJ to Enforce ICC Arrest Warrant for Crimes in Gaza",
-      "description": "Today, as Israeli Prime Minister Benjamin Netanyahu meets with President Trump in Washington, Palestinian Americans are calling on the Department of Justice to investigate Netanyahu for genocide, torture, and war crimes, and to enforce the International Crimi…",
-      "url": "https://www.commondreams.org/newswire/as-netanyahu-visits-u-s-palestinian-americans-call-on-doj-to-enforce-icc-arrest-warrant-for-crimes-in-gaza",
-      "urlToImage": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjEwMDM4OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0OTE0ODI1N30.nWE-dO3LpGCfrP6HKKrgMGYA-9xT8aazabGiQTfcsrM/image.png?width=210",
-      "publishedAt": "2025-02-04T20:48:05Z",
-      "content": "Trump has called for the prison to be expanded to hold 30,000 people. \r\nThe flights announced Tuesday are the latest step in Trump's militarized anti-immigration operations, with 1,500 soldiers and M… [+4496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Parade"
-      },
-      "author": "Nathan Hutsenpiller",
-      "title": "More Than 17,000 Pounds of Sausage Have Been Recalled—Here's What to Know",
-      "description": "The product in question was distributed to multiple states.",
-      "url": "https://parade.com/food/djs-boudain-sausage-link-recall-february-2025",
-      "urlToImage": "https://media.zenfs.com/en/parade_250/808cd63dc680fdb131325a8eb78869bc",
-      "publishedAt": "2025-02-04T18:30:00Z",
-      "content": "The U.S. Department of Agriculture Food Safety and Inspection Service (FSIS) has announced that 17,720 pounds of DJs Boudain sausage link products are being recalled due to the possible contamination… [+2477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "Walmart Broccoli Recall Elevated To FDA’s Deadliest Category—Here’s Why",
-      "description": "Walmart’s Marketside Broccoli Florets recall has been upgraded to Class 1 due to Listeria risk. Check your freezer—Braga Fresh warns the product may still be in homes.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/04/walmart-broccoli-recall-elevated-to-fdas-deadliest-category-heres-why/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/677716a8d5717864bfa087ac/0x0.jpg?format=jpg&crop=2400,1350,x0,y119,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-04T18:21:38Z",
-      "content": "Walmarts Marketside Broccoli Florets recall has been upgraded to Class 1 due to Listeria risk. ... [+] Check your freezerBraga Fresh warns the product may still be in homes.\r\ngetty\r\nThat bag of brocc… [+5701 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "aol.com",
-      "title": "Blue Ridge Beef dog food recalled over salmonella: See 8 states where it was sold",
-      "description": "The Food and Drug Administration has issued a recall for dog food manufactured by Blue Ridge Beef over concerns of it being contaminated with salmonella.\nAlmost 6,000 pounds of Blue Ridge Beef's \"2 lb. log Natural Mix\" has been recalled across eight states \"d…",
-      "url": "https://biztoc.com/x/a3504bb4e9e5e012",
-      "urlToImage": "https://biztoc.com/cdn/a3504bb4e9e5e012_s.webp",
-      "publishedAt": "2025-02-04T17:46:30Z",
-      "content": "The Food and Drug Administration has issued a recall for dog food manufactured by Blue Ridge Beef over concerns of it being contaminated with salmonella.Almost 6,000 pounds of Blue Ridge Beef's \"2 lb… [+143 chars]"
     }
   ],
   "totalResults": 94,
