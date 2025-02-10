@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-02-10T06:30:47.231Z",
+  "lastUpdated": "2025-02-10T12:42:04.389Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Reg Wydeven column: Most food recalls due to allergen contamination",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3baf27a3-2201-438b-ba4b-97a83f505db1",
+      "urlToImage": null,
+      "publishedAt": "2025-02-09T11:05:24Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,19 +1222,6 @@
       "urlToImage": "https://chrislovesjulia.com/wp-content/uploads/2025/02/061A8070.jpg",
       "publishedAt": "2025-02-05T11:00:00Z",
       "content": "This post is not sponsored and all opinions are my own.\r\nNothing matches a beautiful wooden cutting board (our Boos board lives on my counterit's a piece of art and sturdy as an ox). The drawback wit… [+3118 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thenation.com"
-      },
-      "author": "Anna Simonton",
-      "title": "The People in Charge Won’t Save Us From Climate Catastrophe. We’ll Need to Do It Ourselves.",
-      "description": "Anna Simonton\n\n\n\nGrassroots efforts in places like North Carolina show what we can—and increasingly must—do in a world plagued by climate disasters.\r\n\n\r\n\n\nThe post The People in Charge Won’t Save Us From Climate Catastrophe. We’ll Need to Do It Ourselves. app…",
-      "url": "https://www.thenation.com/?post_type=article&p=540269",
-      "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/02/marshall-north-carolina-helene.jpg",
-      "publishedAt": "2025-02-05T10:00:00Z",
-      "content": "Grassroots efforts in places like North Carolina show what we canand increasingly mustdo in a world plagued by climate disasters.\r\nAd Policy\r\nWorkers, community members, and business owners clean up … [+14551 chars]"
     }
   ],
   "totalResults": 94,
