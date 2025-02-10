@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-10T12:42:04.389Z",
+  "lastUpdated": "2025-02-10T18:29:39.924Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV News Desk",
+      "title": "Chiefs Of 3 Dairies Arrested In Connection With Tirupati Laddoo Case",
+      "description": "Four men, who head three dairies in three states, have been arrested in connection with the Tirupati laddoo adulteration case that had shocked the country last year.",
+      "url": "https://www.ndtv.com/india-news/chiefs-of-3-dairies-arrested-in-connection-with-tirupati-laddoo-case-7673120",
+      "urlToImage": "https://c.ndtvimg.com/2025-01/s0ma6odo_tirupati-ians_625x300_09_January_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-02-09T18:12:49Z",
+      "content": "Hyderabad: Four men, who head three dairies in three states, have been arrested in connection with the Tirupati laddoo adulteration case that had shocked the country last year. The investigation by a… [+1993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theepochtimes.com"
+      },
+      "author": "Naveen Athrappully",
+      "title": "FDA Upgrades Recall of 2 Million Cases of Donuts, Goods to 2nd Highest Level",
+      "description": "Meanwhile, public confidence in government assurance about food safety has declined, a survey showed.",
+      "url": "https://www.theepochtimes.com/health/fda-upgrades-recall-of-2-million-cases-of-donuts-goods-to-2nd-highest-level-5806885",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2024/12/14/id5776530-EpochImages-7677646110-xl-1080x720.jpg",
+      "publishedAt": "2025-02-09T17:56:45Z",
+      "content": "A withdrawal of 60 food products initiated last month citing bacterial contamination has been categorized as a Class II recall by the U.S. Food and Drug Administration (FDA).\r\nOn Jan. 7, Indiana-base… [+3988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Khalil Best",
+      "title": "The deadly truth about metals near your heart",
+      "description": "The relationship between environmental metal exposure and heart and cardiovascular disease has emerged as a critical public health concern, with recent findings from Columbia University’s Mailman School of Public Health revealing disturbing connections. Their…",
+      "url": "https://rollingout.com/2025/02/09/deadly-truth-metals-heart-disease/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/01/Heart-illustration.jpg",
+      "publishedAt": "2025-02-09T16:37:34Z",
+      "content": "The relationship between environmental metal exposure and heart and cardiovascular disease has emerged as a critical public health concern, with recent findings from Columbia University’s Mailman Sch… [+5377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER – ROUND 32",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Malicious packages deepseeek and deepseekai published in Python Package Index   Coyote Banking Trojan: A Stealthy Attack via…",
+      "url": "https://securityaffairs.com/174025/malware/security-affairs-malware-newsletter-round-32.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-02-09T15:36:45Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 32\r\n | Security Affairs newsletter Round 510 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | PlayStation Network outage has been going on for over 24 hours\r\n… [+138023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 510 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. PlayStation Ne…",
+      "url": "https://securityaffairs.com/174019/breaking-news/security-affairs-newsletter-round-510-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-02-09T14:20:54Z",
+      "content": "Security Affairs newsletter Round 510 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | PlayStation Network outage has been going on for over 24 hours\r\n | Kimsuky APT group used custom RDP Wrapper vers… [+137974 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -467,7 +532,7 @@
       "url": "https://www.theverge.com/reviews/606390/emergency-water-filter-purifier-kit-rv-vanlife-home",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_0021.jpeg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200",
       "publishedAt": "2025-02-07T20:52:39Z",
-      "content": "Access to water is always a concern when heading off the grid in my van not when Im home in Amsterdam, a city surrounded by the stuff. That certainty changed recently when government ministers began … [+8679 chars]"
+      "content": "Access to water is always a concern when heading off the grid in my van not when Im home in Amsterdam, a city surrounded by the stuff. That certainty changed recently when government ministers began �� [+8679 chars]"
     },
     {
       "source": {
@@ -1183,47 +1248,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-7.png",
       "publishedAt": "2025-02-05T12:53:43Z",
       "content": "SparkCat campaign target crypto wallets using OCR to steal recovery phrases\r\n | International Civil Aviation Organization (ICAO) and ACAO Breached: Cyberespionage Groups Targeting Aviation Safety Spe… [+136998 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biblicalarchaeology.org"
-      },
-      "author": "Robert Bronder",
-      "title": "Arch-Tech: Slumbering Dreams",
-      "description": "Organic chemistry has opened a new range of research opportunities for archaeology. Among the latest approaches is Organic Residue Analysis (ORA), which examines organic remains. […]\nThe post Arch-Tech: Slumbering Dreams appeared first on Biblical Archaeology…",
-      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/biblical-archaeology-topics/arch-tech-slumbering-dreams/",
-      "urlToImage": "https://www.biblicalarchaeology.org/wp-content/uploads/2025/02/Opium-Poppy-Papaver-somniferum-L._public-domain-via-Wikimedia.jpg",
-      "publishedAt": "2025-02-05T11:45:51Z",
-      "content": "Testing for ancient opium\r\nZuzana Chovanec February 05, 2025 0 Comments 22 views Share\r\nA 19th-century drawing of the opium poppy (Papaver somniferum L.).Otto Wilhelm Thomé, Flora Von Deutschland, Ös… [+8027 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mindbodygreen.com"
-      },
-      "author": "https://www.mindbodygreen.com/wc/amanda-orlando",
-      "title": "Life-Threatening Allergies Left Me With PTSD—Here’s What Helped",
-      "description": "You can't overestimate the importance of community.",
-      "url": "https://www.mindbodygreen.com/articles/how-i-healed-from-severe-allergies-devastated-my-mental-health",
-      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/qrc08gr0lju1oimqm.jpg",
-      "publishedAt": "2025-02-05T11:45:00Z",
-      "content": "While some health issues are visible to the outside world, many people face chronic conditions that don't have externally visible signs or symptomsalso known as invisible illnesses. In this mindbodyg… [+7025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Chrislovesjulia.com"
-      },
-      "author": "Chris Loves Julia",
-      "title": "My Tell-All Review of Composite Cutting Boards",
-      "description": "This post is not sponsored and all opinions are my own. Nothing matches a beautiful wooden cutting board (our Boos board lives on my counter—it's a piece of art and sturdy as an ox). The drawback with wooden cutting boards is they can't be cleaned in the dish…",
-      "url": "https://chrislovesjulia.com/composite-cutting-board-test/",
-      "urlToImage": "https://chrislovesjulia.com/wp-content/uploads/2025/02/061A8070.jpg",
-      "publishedAt": "2025-02-05T11:00:00Z",
-      "content": "This post is not sponsored and all opinions are my own.\r\nNothing matches a beautiful wooden cutting board (our Boos board lives on my counterit's a piece of art and sturdy as an ox). The drawback wit… [+3118 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 96,
   "filteredCount": 0
 }
