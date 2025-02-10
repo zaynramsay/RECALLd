@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-02-10T01:43:23.002Z",
+  "lastUpdated": "2025-02-10T06:30:47.231Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Olive oil and caterers subject to controls in Czech Republic",
+      "description": "An inspection campaign in the Czech Republic has revealed problems with almost half of olive oil samples tested. State Agricultural and Food Inspection Authority (SZPI) testing focused on the quality of olive oils in the country. The aim was to verify whether…",
+      "url": "https://www.foodsafetynews.com/2025/02/olive-oil-and-caterers-subject-to-controls-in-czech-republic/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/568/709/P0ev7XDZrzqbbq5X6MjR9og8N/af5345152be5b5ead9673a00f8dda3aba3ced9a7.png",
+      "publishedAt": "2025-02-09T05:03:00Z",
+      "content": "An inspection campaign in the Czech Republic has revealed problems with almost half of olive oil samples tested.\r\nState Agricultural and Food Inspection Authority (SZPI) testing focused on the qualit… [+3735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Millions of doughnuts, pastries recalled after potential listeria contamination - KTVB.com",
+      "description": "Millions of doughnuts, pastries recalled after potential listeria contaminationKTVB.com 2 Million Doughnut and Pastry Products Have Been Recalled from Stores Due to Potential Listeria ContaminationPEOPLE Another Food Recall? More Than 2 Million Donuts Just Go…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=176160659",
+      "urlToImage": null,
+      "publishedAt": "2025-02-09T01:52:51Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "source": {
         "id": null,
@@ -1196,32 +1222,6 @@
       "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/02/marshall-north-carolina-helene.jpg",
       "publishedAt": "2025-02-05T10:00:00Z",
       "content": "Grassroots efforts in places like North Carolina show what we canand increasingly mustdo in a world plagued by climate disasters.\r\nAd Policy\r\nWorkers, community members, and business owners clean up … [+14551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "International Civil Aviation Organization (ICAO) and ACAO Breached: Cyberespionage Groups Targeting Aviation Safety Specialists",
-      "description": "The International Civil Aviation Organization (ICAO) is investigating a data breach affecting system and employee security. The International Civil Aviation Organization (ICAO), a specialized agency of the United Nations, is investigating a significant data b…",
-      "url": "https://securityaffairs.com/173863/data-breach/icao-and-acao-breached-cyberespionage-groups-targeting-aviation-safety-specialists.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/aviation.jpg",
-      "publishedAt": "2025-02-05T08:38:18Z",
-      "content": "ICAO and ACAO Breached: Cyberespionage Groups Targeting Aviation Safety Specialists\r\n | Online food ordering and delivery platform GrubHub discloses a data breach\r\n | Netgear urges users to upgrade t… [+136874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Mamokete Modiba, Researcher, Gauteng City-Region Observatory, Samiksha Singh, Researcher, Gauteng City-Region Observatory",
-      "title": "South Africa’s food poisoning crisis: the government’s response isn’t dealing with the real issues",
-      "description": "A South African government intervention is addressing the symptoms of the 2024 outbreak of food-borne illnesses, not the underlying causes.",
-      "url": "https://theconversation.com/south-africas-food-poisoning-crisis-the-governments-response-isnt-dealing-with-the-real-issues-245951",
-      "urlToImage": "https://images.theconversation.com/files/646574/original/file-20250203-17-7at0cn.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-05T08:30:50Z",
-      "content": "The South African government declared a national disaster towards the end of 2024 in response to an outbreak of food-borne illnesses. The outbreak had led to the tragic deaths of over 20 children and… [+6929 chars]"
     }
   ],
   "totalResults": 94,
