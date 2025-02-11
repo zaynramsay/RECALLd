@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-02-11T06:29:43.350Z",
+  "lastUpdated": "2025-02-11T12:42:02.684Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "UK Gov demands backdoor to access Apple iCloud backups worldwide",
+      "description": "UK secretly demands Apple create an iCloud backdoor via a Technical Capability Notice, raising privacy concerns over end-to-end encryption. The UK demands Apple to create a backdoor to access any iCloud backups, the request raises concerns about user privacy …",
+      "url": "https://securityaffairs.com/174032/laws-and-regulations/uk-gov-demands-backdoor-apple-icloud-backups.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
+      "publishedAt": "2025-02-10T09:03:50Z",
+      "content": "UK Gov demands backdoor to access Apple iCloud backups worldwide\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 32\r\n | Security Affairs newsletter Round 510 by Pierluigi Paganini INTERNATIONAL EDITION… [+138092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Alexandra Emanuelli",
+      "title": "6 Restaurant Red Flags To Avoid On Valentine’s Day",
+      "description": "It's infamous for being the worst night of the year to dine out, but it doesn't have to be.",
+      "url": "https://www.huffpost.com/entry/valentines-day-restaurant-red-flags_l_678a978fe4b0aa5a1d95af2b",
+      "urlToImage": "https://img.huffingtonpost.com/asset/679931051a000025009f0be7.jpeg?ops=1200_630",
+      "publishedAt": "2025-02-10T08:00:02Z",
+      "content": "If you insist on dining out this Valentine's Day, keep a few things in mind.\r\nValentines Day is notoriously one of the worst days to dine out ask any chef, and theyll confirm overpriced prix fixe men… [+6952 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -241,7 +267,7 @@
         "name": "Securityaffairs.com"
       },
       "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 510 by Pierluigi Paganini �� INTERNATIONAL EDITION",
+      "title": "Security Affairs newsletter Round 510 by Pierluigi Paganini – INTERNATIONAL EDITION",
       "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. PlayStation Ne…",
       "url": "https://securityaffairs.com/174019/breaking-news/security-affairs-newsletter-round-510-by-pierluigi-paganini-international-edition.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
@@ -363,7 +389,7 @@
       "url": "https://www.foxnews.com/food-drink/fda-recalls-more-than-2-million-cases-doughnuts",
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/GlazedDoughnutIstock.jpg",
       "publishedAt": "2025-02-08T19:02:32Z",
-      "content": "The Food and Drug Administration has classified a recall of 60 different doughnut products to its second-highest level, the agency announced earlier this week in an update to its website. \r\nThe recal��� [+2288 chars]"
+      "content": "The Food and Drug Administration has classified a recall of 60 different doughnut products to its second-highest level, the agency announced earlier this week in an update to its website. \r\nThe recal… [+2288 chars]"
     },
     {
       "source": {
@@ -1209,32 +1235,6 @@
       "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
       "publishedAt": "2025-02-06T00:36:34Z",
       "content": "Can I Take Fruit on Airplane?\r\nUnderstanding Airline Policies\r\nBefore we dive into the answer, it’s essential to understand the airline policies regarding fruit on board. Airline policies can vary gr… [+3588 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Lazarus APT targets crypto wallets using cross-platform JavaScript stealer",
-      "description": "The North Korea-linked APT group Lazarus uses a cross-platform JavaScript stealer to target crypto wallets in a new hacking campaign. Bitdefender researchers reported that the North Korea-linked Lazarus group uses fake LinkedIn job offers in the cryptocurrenc…",
-      "url": "https://securityaffairs.com/173902/apt/lazarus-cross-platform-javascript-stealer-crypto-wallets.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-10.png",
-      "publishedAt": "2025-02-06T00:08:02Z",
-      "content": "Lazarus APT targets crypto wallets using cross-platform JavaScript stealer\r\n | U.S. CISA adds Linux kernel flaw to its Known Exploited Vulnerabilities catalog\r\n | U.S. CISA adds Microsoft .NET Framew… [+137307 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Snopes.com"
-      },
-      "author": "Jack Izzo",
-      "title": "Look out for this message about fictional recall on chicken, eggs",
-      "description": "People are warning each other about an alleged recall on chicken and Eggland's Best eggs that's not based in reality.",
-      "url": "https://www.snopes.com//fact-check/chicken-eggs-recall/",
-      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/02/egglands_best_eggs_in_a_carton.jpg",
-      "publishedAt": "2025-02-05T23:20:00Z",
-      "content": "Claim:\r\nIn February 2025, the U.S. was experiencing a recall on chicken and Eggland's Best eggs.\r\nIn early February 2025, people were sharing a \r\nmessage\r\n (archived) with an alleged warning against … [+10414 chars]"
     }
   ],
   "totalResults": 95,
