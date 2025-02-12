@@ -1,6 +1,227 @@
 {
-  "lastUpdated": "2025-02-12T12:41:53.518Z",
+  "lastUpdated": "2025-02-12T18:29:47.109Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jennifer Lotito, Contributor, \n Jennifer Lotito, Contributor\n https://www.forbes.com/sites/jenniferlotito/",
+      "title": "Aid Disruptions Endanger U.S. Security And World’s Most Vulnerable, Experts Warn",
+      "description": "Experts worry that the abrupt disruption to foreign assistance is having serious consequences that threaten the U.S., its allies, and the world’s most vulnerable.",
+      "url": "https://www.forbes.com/sites/jenniferlotito/2025/02/11/aid-disruptions-endanger-us-security-and-worlds-most-vulnerable-experts-warn/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67ab741438d9ac21afa3830a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-11T17:16:07Z",
+      "content": "HARBEL, LIBERIA - AUGUST 24: Workers unload medical supplies to fight the Ebola epidemic from a ... [+] USAID cargo flight on August 24, 2014 in Harbel, Liberia. The U.S. government sent more than 16… [+8129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
+      "title": "Canned Tuna Recall Hits Costco, Trader Joe’s, And More—What To Know",
+      "description": "A canned tuna recall at Costco and other stores over a botulism risk has consumers on alert. Check if your tuna is affected and what to do next.",
+      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/11/canned-tuna-recall-hits-costco-trader-joes-and-more-what-to-know/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67ab817a28b7db9bdc502dfa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-11T17:04:19Z",
+      "content": "A major canned tuna recall has consumers on alert as Tri-Union Seafoods pulls products from shelves, ... [+] including at Costco, Trader Joes, and H-E-B. Is your pantry at risk?\r\ngetty\r\nIf it feels l… [+6743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-sun.com"
+      },
+      "author": "the us sun",
+      "title": "WALMART, COSTCO tuna recalled over botulism...",
+      "description": "SHOPPERS at major grocers such as Walmart, Costco, and Trader Joe’s are being warned over a huge contamination threat regarding a popular lunch product. Tri-Union Seafoods has voluntarily rec…",
+      "url": "https://www.the-sun.com/money/13512436/walmart-costco-trader-joes-tuna-recall-manufacturing-defect/",
+      "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/02/ch-walmart-costco-recall-off-platform.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2025-02-11T17:00:03Z",
+      "content": "SHOPPERS at major grocers such as Walmart, Costco, and Trader Joe's are being warned over a huge contamination threat regarding a popular lunch product.\r\nTri-Union Seafoods has voluntarily recalled s… [+4152 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Marni Rose McFall",
+      "title": "Trader Joe's Products Recalled: Full List of Items Impacted",
+      "description": "A tuna product stocked by Trader Joe's has been recalled in 11 states.",
+      "url": "https://www.newsweek.com/trader-joes-food-recalls-full-list-2029391",
+      "urlToImage": "https://d.newsweek.com/en/full/2585840/trader-joes.jpg",
+      "publishedAt": "2025-02-11T16:26:01Z",
+      "content": "There have been four major recalls of food products at sold in Trader Joe's over the past four months, with one having been rescinded, according to the U.S. Food &amp; Drug Association (FDA).\r\nTrader… [+6439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Merca20.com"
+      },
+      "author": "Bibiana Palacios",
+      "title": "This canned tuna sold at Costco, Walmart and other stores is recalled; this is the reason",
+      "description": "According to what the FDA reported, the canned tuna affected by the recall was sold in stores in 27 states in the United States",
+      "url": "https://www.merca20.com/this-canned-tuna-sold-at-costco-walmart-and-other-stores-is-recalled-this-is-the-reason/",
+      "urlToImage": "https://files.merca20.com/uploads/2025/02/This-canned-tuna-sold-at-Costco-Walmart-and-other-stores-is-recalled-this-is-the-reason-.jpg",
+      "publishedAt": "2025-02-11T16:13:12Z",
+      "content": "The U.S. Food and Drug Administration (FDA) announced the recall of several lots of canned tuna sold in stores such as Walmart, Costco, and Kroger, due to a health risk to consumers.\nThe voluntary re… [+3838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Progress Software fixed multiple high-severity LoadMaster flaws",
+      "description": "Progress Software fixed multiple vulnerabilities in its LoadMaster software, which could be exploited to execute arbitrary system commands. Progress Software has addressed multiple high-severity security vulnerabilities (CVE-2024-56131, CVE-2024-56132, CVE-20…",
+      "url": "https://securityaffairs.com/174103/security/progress-software-loadmaster-software-flaws.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/09/Progress-Software.png",
+      "publishedAt": "2025-02-11T15:40:15Z",
+      "content": "Progress Software fixed multiple high-severity LoadMaster flaws\r\n | Artificial intelligence (AI) as an Enabler for Enhanced Data Security\r\n | Crooks use Google Tag Manager skimmer to steal credit car… [+138619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fastcompany.com",
+      "title": "Nationwide tuna recall hits Trader Joe’s, Publix, Costco, Walmart, and other retailers over Botulinum fears",
+      "description": "California-based seafood manufacturer Tri-Union Seafoods has issued a voluntary recall of select canned tuna products due to a potential contamination risk from Clostridium botulinum, a bacteria that can cause serious and potentially fatal food poisoning. \nTh…",
+      "url": "https://biztoc.com/x/fd41f64a964e8b33",
+      "urlToImage": "https://biztoc.com/cdn/fd41f64a964e8b33_s.webp",
+      "publishedAt": "2025-02-11T15:36:48Z",
+      "content": "California-based seafood manufacturer Tri-Union Seafoods has issued a voluntary recall of select canned tuna products due to a potential contamination risk from Clostridium botulinum, a bacteria that… [+147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "You're Probably Eating a Credit Card's Worth of Plastic Each Week. Here's How to Minimize Exposure",
+      "description": "Research shows people may be ingesting approximately 5 grams of plastic weekly. Try these easy swaps in your kitchen to minimize exposure.",
+      "url": "https://www.cnet.com/health/youre-probably-eating-a-credit-card-worths-of-plastic-each-week/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/910a638ce3193e4ebc84691db21ad2c702cae2b7/hub/2024/12/30/6e2ad328-fd01-45c5-9279-7b347b1224b7/gettyimages-1315120793.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-11T15:34:00Z",
+      "content": "Microplastics are in our air, water and food. It's not surprising that they have been found in human blood, saliva, liver, kidneys and placenta. Now we know they're in the brain, too. A recent study … [+7539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "High Barrier Packaging Films Market to Reach USD 28.3 Billion by 2035, Driven by E-Commerce Boom | Future Market Insights, Inc.",
+      "description": "The rise of online grocery shopping and pharmaceutical delivery in the USA has increased demand for high-barrier packaging films. These films protect contents from moisture, oxygen, and light, ensuring freshness and effectiveness. They also offer durability, …",
+      "url": "https://www.globenewswire.com/news-release/2025/02/11/3024358/0/en/High-Barrier-Packaging-Films-Market-to-Reach-USD-28-3-Billion-by-2035-Driven-by-E-Commerce-Boom-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-02-11T15:30:00Z",
+      "content": "NEWARK, Del:, Feb. 11, 2025 (GLOBE NEWSWIRE) -- The global high barrier packaging films market is poised for significant growth, with its market size projected to expand from USD 19.3 billion in 2025… [+11643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Artificial intelligence (AI) as an Enabler for Enhanced Data Security",
+      "description": "Artificial intelligence enhances data security by identifying risks and protecting sensitive cloud data, helping organizations stay ahead of evolving threats. Artificial intelligence (AI) is transforming industries and redefining how organizations protect the…",
+      "url": "https://securityaffairs.com/174095/security/artificial-intelligence-enhanced-data-security.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2017/11/Artificial-Intelligence.jpg",
+      "publishedAt": "2025-02-11T14:46:46Z",
+      "content": "Artificial intelligence (AI) as an Enabler for Enhanced Data Security\r\n | Crooks use Google Tag Manager skimmer to steal credit card data from a Magento-based e-stores\r\n | Operation Phobos Aetor: Pol… [+138551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Adrianna Wrona",
+      "title": "Bewley's Café on Grafton Street among 11 enforcement orders served on food businesses last month",
+      "description": "Bewley’s Café on Grafton Street was found among several food businesses served with enforcement orders for food safety breaches in January.",
+      "url": "https://www.independent.ie/irish-news/bewleys-cafe-on-grafton-street-among-11-enforcement-orders-served-on-food-businesses-last-month/a933680863.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/jZ4AwFeJLt8PGJUzsgCOp0LJ888=/629x460/smart/prod-mh-ireland/dd934503-4c8e-4756-a1d4-e8208faa1929/b4573ab1-e182-45b3-b525-5b6157ca5e61/dd934503-4c8e-4756-a1d4-e8208faa1929.jpg",
+      "publishedAt": "2025-02-11T14:36:19Z",
+      "content": "Bewleys Café on Grafton Street was found among several food businesses served with enforcement orders for food safety breaches in January.The Food Safety Authority of Ireland (FSAI) ordered the estab… [+4235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Strukmyer LLC dba Strukmyer Medical - 692686 - 01/30/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/strukmyer-llc-dba-strukmyer-medical-692686-01302025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-02-11T14:20:03Z",
+      "content": "Delivery Method:\r\nVia Electronic Mail Return Confirmation Requested\r\nReference #:\r\n320-25-37\r\nProduct:\r\nDrugs \r\nRecipient:\r\nStrukmyer LLC dba Strukmyer Medical \r\n1801 Big Town Blvd. Ste. 100Mesquite,… [+18373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Wuhu Nuowei Chemistry Co., Ltd. - 697727 - 02/04/2025",
+      "description": "CGMP/Active Pharmaceutical Ingredient (API)/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/wuhu-nuowei-chemistry-co-ltd-697727-02042025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-02-11T14:20:03Z",
+      "content": "Delivery Method:\r\nVia Electronic Mail Return Confirmation Requested\r\nReference #:\r\n320-25-38\r\nProduct:\r\nDrugs \r\nRecipient:\r\nWuhu Nuowei Chemistry Co., Ltd.\r\nChuangxin Road, Economic Development ZoneJ… [+13049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Camille Heylen, Gabrielle String, Doreen Naliyongo, Syed Imran Ali, James Brown, Vincent Ogira, Jean-François Fesselet, James Orbinski, Daniele Lantagne",
+      "title": "Evaluating chlorine taste and odor acceptability to inform drinking water chlorination in humanitarian settings: Lessons from trials in Uganda",
+      "description": "While standard methods for chlorine taste and odor (T&O) detection and rejection thresholds exist, little rigorous research has been conducted on T&O thresholds in humanitarian settings. To fill this gap, we estimated chlorine T&O detection and rejection thre…",
+      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000267",
+      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000267.g003&size=inline",
+      "publishedAt": "2025-02-11T14:00:00Z",
+      "content": "Abstract\r\nWhile standard methods for chlorine taste and odor (T&amp;O) detection and rejection thresholds exist, little rigorous research has been conducted on T&amp;O thresholds in humanitarian sett… [+57611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foodpoisonjournal.com"
+      },
+      "author": "Bill Marler",
+      "title": "4,000 at University of Wisconsin exposed to Hepatitis A by ill food service worker",
+      "description": "According to Alaina Walsh of the Daily Cardinal, the University of Wisconsin-Madison’s University Health Services (UHS) sent out an email to 4,000 students and staff Friday afternoon regarding a potential hepatitis A exposure linked to campus dining facility …",
+      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/4000-at-university-of-wisconsin-exposed-to-hepatitis-a-by-ill-food-service-worker/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/785/124/DqR2v1kNaYMB7wX7z8epZrOWP/fb7d0477407bd190a212ae9d96977e50d736b429.png",
+      "publishedAt": "2025-02-11T13:38:28Z",
+      "content": "According to Alaina Walsh of the Daily Cardinal, the University of Wisconsin-Madisons University Health Services (UHS) sent out an email to 4,000 students and staff Friday afternoon regarding a poten… [+9683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "Diarmuid Pepper",
+      "title": "Bewley’s café warned by FSAI as eight food businesses issued with Closure Orders last month",
+      "description": "The FSAI remarked that ‘food safety is not optional, and food businesses that fail to comply will face enforcement action’.",
+      "url": "https://www.thejournal.ie/bewleys-cafe-among-eight-restaurants-issued-closure-orders-in-january-6619642-Feb2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6619642/river/?height=400&version=6619753",
+      "publishedAt": "2025-02-11T13:06:57Z",
+      "content": "BEWLEYS CAFÉ ON Dublins Grafton Street was among eight restaurants and food businesses to be issued with Closure Orders last month.\r\nThe Closure Order was issued to Bewleys on 8 January under EU food… [+5547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Granta.com"
+      },
+      "author": "Aea Varfis-van Warmelo",
+      "title": "In Her Room",
+      "description": "‘It would be wrong to say she hasn’t experienced life. Instead, it would be more apt to describe her as someone whom time has slipped by without leaving the slightest trace.’ \n Fiction by Wang Anyi, translated by Michael Berry.\nThe post In Her Room appeared f…",
+      "url": "https://granta.com/in-her-room/",
+      "urlToImage": "https://granta.com/wp-content/uploads/2025/02/Wang-Anyi-1280x339.jpg",
+      "publishedAt": "2025-02-11T13:03:28Z",
+      "content": "Time seems to slip by without leaving even the slightest trace on her body. There is no way of guessing her age, but her thin, supple body, glowing white skin, and clearly defined features all make h… [+61100 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1040,203 +1261,8 @@
       "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
       "publishedAt": "2025-02-08T03:45:22Z",
       "content": "How to Make Oil from Oregano: A Natural and Nutritious Alternative\r\nIntroduction\r\nOregano oil, extracted from the leaves of the oregano plant, has been used for centuries in traditional medicine and … [+5961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make mushroom gummies?",
-      "description": "How to Make Mushroom Gummies: A Step-by-Step Guide Making mushroom gummies is a fun and easy DIY project that can […]\nThe post How to make mushroom gummies? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-mushroom-gummies/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-08T02:51:00Z",
-      "content": "How to Make Mushroom Gummies: A Step-by-Step Guide\r\nMaking mushroom gummies is a fun and easy DIY project that can be customized to your taste preferences. With the right ingredients and equipment, y… [+4060 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make jelly cube slime?",
-      "description": "How to Make Jelly Cube Slime: A Step-by-Step Guide Making jelly cube slime is a fun and easy DIY project […]\nThe post How to make jelly cube slime? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-jelly-cube-slime/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-08T00:52:46Z",
-      "content": "How to Make Jelly Cube Slime: A Step-by-Step Guide\r\nMaking jelly cube slime is a fun and easy DIY project that can be customized to your liking. In this article, we will guide you through the process… [+3571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Two million cases of donuts recalled over contamination risk - NewsBreak",
-      "description": "More than two million donut products have been recalled nationwide due to a potential contamination with dangerous bacteria. The US Food and Drug Administ",
-      "url": "https://www.newsbreak.com/share/3796287706677-two-million-cases-of-donuts-recalled-over-contamination-risk?_f=app_share&pd=0DGSoAHM&lang=en_US&send_time=1739027723&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.35.0.34%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v6%2Cns_foryou_rank_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v1&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1cGUec_0yjDqYyd00",
-      "publishedAt": "2025-02-07T22:25:35Z",
-      "content": "More than two million donut products have been recalled nationwide due to a potential contamination with dangerous bacteria. \r\n The US Food and Drug Administration (FDA) issued a report on Wednesday … [+2999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Two million cases of donuts recalled over contamination risk - NewsBreak",
-      "description": "More than two million donut products have been recalled nationwide due to a potential contamination with dangerous bacteria. The US Food and Drug Administ",
-      "url": "https://www.newsbreak.com/share/3796287706677-two-million-cases-of-donuts-recalled-over-contamination-risk?_f=app_share&pd=0Cg2g6bH&lang=en_US&send_time=1739028258&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v5&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1cGUec_0yjDqYyd00",
-      "publishedAt": "2025-02-07T22:25:35Z",
-      "content": "More than two million donut products have been recalled nationwide due to a potential contamination with dangerous bacteria. \r\n The US Food and Drug Administration (FDA) issued a report on Wednesday … [+2999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Trimble Cityworks flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Trimble Cityworks vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Trimble Cityworks vulnerability, tracked…",
-      "url": "https://securityaffairs.com/173975/hacking/u-s-cisa-adds-trimble-cityworks-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-07T21:54:13Z",
-      "content": "Hospital Sisters Health System impacted 882,782 individuals\r\n | Attackers used a public ASP.NET machine to conduct ViewState code injection attacks\r\n | U.S. CISA adds Microsoft Outlook, Sophos XG Fir… [+137661 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Suzanne Blake",
-      "title": "Louisiana Oysters Spark Warning for Restaurants Ahead of Super Bowl",
-      "description": "More Americans became sick from contaminated food last year, with the number of hospitalizations and deaths from foodborne illness doubling from 2023.",
-      "url": "https://www.newsweek.com/louisiana-oysters-spark-warning-restaurants-ahead-super-bowl-2028092",
-      "urlToImage": "https://d.newsweek.com/en/full/2583926/oysters.jpg",
-      "publishedAt": "2025-02-07T21:08:26Z",
-      "content": "The U.S. Food and Drug Administration (FDA) is warning consumers to steer clear of a specific kind of oyster ahead of the Super Bowl this weekend.\r\nWhy It Matters\r\nMore Americans became sick from con… [+4184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Jack and the Green Sprouts Recalls Expired Alfalfa Sprouts Because of Possible Health Risk",
-      "description": "Jack and the Green Sprouts, Inc. of River Falls, WI is recalling 5oz packages of Alfalfa sprouts that expired on 1/29/25 because they have the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal in…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jack-and-green-sprouts-recalls-expired-alfalfa-sprouts-because-possible-health-risk",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-07T20:53:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 07, 2025\r\nFDA Publish Date:\r\nFebruary 08, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Descript… [+1629 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Thomas Ricker",
-      "title": "My water filtration kit for good times and the very bad",
-      "description": "Access to water is always a concern when heading off the grid in my van â not when Iâm home in Amsterdam, a city surrounded by the stuff. That certainty changed recently when government ministers began quietly prodding citizens to stock up on emergency su…",
-      "url": "https://www.theverge.com/reviews/606390/emergency-water-filter-purifier-kit-rv-vanlife-home",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_0021.jpeg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200",
-      "publishedAt": "2025-02-07T20:52:39Z",
-      "content": "Access to water is always a concern when heading off the grid in my van not when Im home in Amsterdam, a city surrounded by the stuff. That certainty changed recently when government ministers began … [+8679 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Zena Chamas",
-      "title": "Children once played by the ocean. Now Gaza's beaches are a 'sad' place",
-      "description": "After 15 months of war, children can still remember Gaza's beach side. But now, it has transformed into a vast landscape of destruction. Palestinians returning to their homes recall the better times.",
-      "url": "https://www.abc.net.au/news/2025-02-08/thousands-of-palestinians-journey-back-home-to-gaza-in-rubble-/104864624",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7a9403554e3dfdd5c1cc4ef3942cbd8a?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=53&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-02-07T19:40:41Z",
-      "content": "After 15 months of war, children can still remember Gaza's coastline sparkling brightly in the sun. \r\nThey used to point in excitement and wonder at the reflection dancing on the clear blue water.\r\nP… [+7106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Hospital Sisters Health System impacted 882,782 individuals",
-      "description": "The cyberattack on Hospital Sisters Health System in 2023 compromised the personal information of 883,000 individuals. The cyberattack that hit the infrastructure of the Hospital Sisters Health System (HSHS) in August 2023 impacted the personal information of…",
-      "url": "https://securityaffairs.com/173965/data-breach/hospital-sisters-health-system-data-breach.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/healthcare-MedicalData-breach.jpg",
-      "publishedAt": "2025-02-07T18:26:55Z",
-      "content": "Hospital Sisters Health System impacted 882,782 individuals\r\n | Attackers used a public ASP.NET machine to conduct ViewState code injection attacks\r\n | U.S. CISA adds Microsoft Outlook, Sophos XG Fir… [+137661 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Marcin Nowicki, Marzena Nowakowska, Katarzyna Nowak, Wojciech Szczechura, Piotr Kaminski",
-      "title": "Seed priming and abiotic stress tolerance in carrot: Unraveling the mechanisms of improved germination",
-      "description": "Climate change necessitates the development of improved crops capable of withstanding future weather patterns. Carrots (Daucus carota L.), a crucial vegetable crop of global importance, face unique challenges in seed germination and seedling development due t…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318753",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318753.g009&size=inline",
-      "publishedAt": "2025-02-07T14:00:00Z",
-      "content": "Abstract\r\nClimate change necessitates the development of improved crops capable of withstanding future weather patterns. Carrots (Daucus carota L.), a crucial vegetable crop of global importance, fac… [+60086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Reverse Osmosis Pump Market to Hit USD 15,352.9 Million by 2035, Registering 5.3% CAGR from 2025 to 2035, Driven by Water Purification Demand & Technological Advancements | Future Market Insights, Inc.",
-      "description": "Reverse Osmosis Pump Market By Technology Type (Centrifugal Pump, Diaphragm Pumps), Pump Type (Booster Pump, Delivery/Demand Pumps), Application (Domestic & Commercial, Industrial RO Filtration Unit, Seawater Desalination Unit) & Region - Forecast 2025– 2035 …",
-      "url": "https://www.globenewswire.com/news-release/2025/02/07/3022722/0/en/Reverse-Osmosis-Pump-Market-to-Hit-USD-15-352-9-Million-by-2035-Registering-5-3-CAGR-from-2025-to-2035-Driven-by-Water-Purification-Demand-Technological-Advancements-Future-Market-.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-02-07T12:25:00Z",
-      "content": "NEWARK, Del, Feb. 07, 2025 (GLOBE NEWSWIRE) -- According to a Future Market Insights (FMI), the global reverse osmosis pump market is projected to grow from USD 9,136.0 Million in 2025 to USD 15,352.… [+11322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "The Star Online",
-      "title": "Get vaccinated for typhoid, MOH tells food handlers at fairs, expos",
-      "description": "PUTRAJAYA: Organisers, owners or lessees of food and beverage stalls at fairs or food expos must ensure that all food handlers receive typhoid vaccination, the Health Ministry says. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/02/07/get-vaccinated-for-typhoid-moh-tells-food-handlers-at-fairs-expos",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/07/3156900.jpg",
-      "publishedAt": "2025-02-07T12:01:00Z",
-      "content": "PUTRAJAYA: Organisers, owners or lessees of food and beverage stalls at fairs or food expos must ensure that all food handlers receive typhoid vaccination, the Health Ministry says.\r\nIt stressed in a… [+797 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Marni Rose McFall",
-      "title": "Donuts Recalled Nationwide: Full List of Products Impacted",
-      "description": "The recalls have been issued due to potential contamination with Listeria monocytogenes.",
-      "url": "https://www.newsweek.com/fgf-donut-recall-full-list-listeria-contamination-2027707",
-      "urlToImage": "https://d.newsweek.com/en/full/2583384/donut.jpg",
-      "publishedAt": "2025-02-07T09:54:02Z",
-      "content": "FGF Brands announced a nationwide recall of a number of its donut products due to potential contamination with Listeria monocytogenes.\r\nThis is a full list of the impacted products.\r\nNewsweek reached… [+2974 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Attackers used a public ASP.NET machine to conduct ViewState code injection attacks",
-      "description": "Microsoft researchers warn that threat actors are delivering the Godzilla framework using a static ASP.NET machine. In December 2024, Microsoft Threat Intelligence researchers spotted a threat actor using a public ASP.NET machine key to deploy Godzilla malwar…",
-      "url": "https://securityaffairs.com/173956/hacking/abusing-asp-net-machine-to-deploy-malware.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-12.png",
-      "publishedAt": "2025-02-07T09:31:40Z",
-      "content": "Attackers used a public ASP.NET machine to conduct ViewState code injection attacks\r\n | U.S. CISA adds Microsoft Outlook, Sophos XG Firewall, and other flaws to its Known Exploited Vulnerabilities ca… [+137597 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 97,
   "filteredCount": 0
 }
