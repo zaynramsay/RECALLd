@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-02-11T18:28:11.295Z",
+  "lastUpdated": "2025-02-12T01:42:02.487Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Stephanie Pappas",
+      "title": "Hims & Hers Super Bowl controversy: What the ad left out about its 'alternative' weight-loss drugs",
+      "description": "The telehealth company Hims & Hers put out a Super Bowl ad that skimped on clarifying that its compounded semaglutide medications aren't FDA-approved.",
+      "url": "https://www.livescience.com/health/medicine-drugs/hims-and-hers-super-bowl-controversy-what-the-ad-left-out-about-its-alternative-weight-loss-drugs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iPx48JSQti3ZpWhnJffxTM-1200-80.jpg",
+      "publishedAt": "2025-02-11T01:07:00Z",
+      "content": "A Super Bowl commercial put out by the telehealth company Hims &amp; Hers is drawing heat from critics who say the company's promotion of its weight-loss drugs misled consumers by leaving out key inf… [+7167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Apple fixes iPhone and iPad bug exploited in ‘extremely sophisticated attacks’",
+      "description": "Apple released iOS and iPadOS updates to address a zero-day likely exploited in extremely sophisticated attacks targeting specific individuals. Apple released emergency security updates to address a zero-day vulnerability, tracked as CVE-2025-24200, that the …",
+      "url": "https://securityaffairs.com/174066/hacking/apple-fixes-iphone-and-ipad-bug-exploited-in-extremely-sophisticated-attacks.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
+      "publishedAt": "2025-02-10T22:41:22Z",
+      "content": "Apple fixes iPhone and iPad bug exploited in extremely sophisticated attacks\r\n | HPE is notifying individuals affected by a December 2023 attack\r\n | XE Group shifts from credit card skimming to explo… [+138311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "HPE is notifying individuals affected by a December 2023 attack",
+      "description": "Hewlett Packard Enterprise (HPE) has begun notifying individuals affected by a December 2023 attack carried out by Russia-linked threat actors. Hewlett Packard Enterprise has started notifying individuals whose personal information was exposed in a December 2…",
+      "url": "https://securityaffairs.com/174057/data-breach/hpe-notifying-individuals-impacted-by-december-2023-attack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/HPE-logo.png",
+      "publishedAt": "2025-02-10T21:03:09Z",
+      "content": "HPE is notifying individuals affected by a December 2023 attack\r\n | XE Group shifts from credit card skimming to exploiting zero-days\r\n | UK Gov demands backdoor to access Apple iCloud backups worldw… [+138230 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Victoria Ellis",
+      "title": "Indigenous business works to divert tonnes of food waste from tip",
+      "description": "Each year Australians waste more than seven million tonnes of food at a cost of $36.6 billion to the economy. A Darwin enterprise is doing its bit to change that.",
+      "url": "https://www.abc.net.au/news/2025-02-11/darwin-ecomob-turning-food-waste-into-soil-booster/104904292",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c53c03a153d855faecd4460175704d10?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-02-10T19:46:08Z",
+      "content": "From banana peels and bread crusts to spinach leaves that go slimy at the bottom of the packet, most households waste food.\r\nEach year Australians waste more than seven million tonnes of food across … [+3578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Observer"
+      },
+      "author": "Arick Wierson, Arick Wierson",
+      "title": "Removing ‘Forever Chemicals’ in Water Could Make It a Lot More Expensive",
+      "description": "Recent EPA regulations on PFAS, commonly known as \"forever chemicals,\" seek to tackle a trillion-dollar problem.",
+      "url": "https://observer.com/2025/02/epa-pfas-forever-chemical-water-regulation/",
+      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/02/GettyImages-2154213737.jpg?quality=80",
+      "publishedAt": "2025-02-10T18:55:12Z",
+      "content": "Demonstrators gather at a rally to protest against a national and international use of Per- and poly-fluoroalkyl substances (PFAS), as a precautionary principle, in Oullins on May 26, 2024. JEAN-PHIL… [+13582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Incrediblethings.com"
+      },
+      "author": "Marc Ikbal",
+      "title": "Why Every Farmer Is Switching to Low Salt Fertilizer—And You Should Too",
+      "description": "As agricultural practices continue to evolve, farmers are always looking for ways to improve yields, protect the environment, and ensure the long-term health of their soil. Traditional farming methods, while effective in the short term, often come with long-t…",
+      "url": "https://incrediblethings.com/home/garden/why-every-farmer-is-switching-to-low-salt-fertilizer-and-you-should-too/",
+      "urlToImage": "https://incrediblethings.com/wp-content/uploads/2020/07/bigstock-Strawberry-Fields-Agriculture-375489292.jpg",
+      "publishedAt": "2025-02-10T18:54:10Z",
+      "content": "As agricultural practices continue to evolve, farmers are always looking for ways to improve yields, protect the environment, and ensure the long-term health of their soil. Traditional farming method… [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Incrediblethings.com"
+      },
+      "author": "Marc Ikbal",
+      "title": "Why Every Farmer Is Switching to Low Salt Fertilizer—And You Should Too",
+      "description": "As agricultural practices continue to evolve, farmers are always looking for ways to improve yields, protect the environment, and ensure the long-term health of their soil. Traditional farming methods, while effective in the short term, often come with long-t…",
+      "url": "https://incrediblethings.com/living/environmental/why-every-farmer-is-switching-to-low-salt-fertilizer-and-you-should-too/",
+      "urlToImage": "https://incrediblethings.com/wp-content/uploads/2020/07/bigstock-Strawberry-Fields-Agriculture-375489292.jpg",
+      "publishedAt": "2025-02-10T18:54:10Z",
+      "content": "As agricultural practices continue to evolve, farmers are always looking for ways to improve yields, protect the environment, and ensure the long-term health of their soil. Traditional farming method… [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Joe Edwards",
+      "title": "CVS Products Recalled Nationwide: Full List of Items Impacted",
+      "description": "Multiple recalls for products on CVS Pharmacy shelves were initiated over the past month.",
+      "url": "https://www.newsweek.com/cvs-products-recalled-nationwide-full-list-2028851",
+      "urlToImage": "https://d.newsweek.com/en/full/2585163/cvs.jpg",
+      "publishedAt": "2025-02-10T18:28:35Z",
+      "content": "Multiple recalls for products on CVS Pharmacy shelves were recently initiated due to risk of microbial contamination, choking hazards, and more.\r\nNewsweek has listed the non-prescription products rec… [+2894 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1131,125 +1235,8 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a5190186ef4daa2986f609/0x0.jpg?format=jpg&crop=2249,1266,x86,y185,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-02-06T20:31:18Z",
       "content": "No, Eggland's Best eggs weren't recalledbut here's why so many people believed they were.\r\nIs there a recall on Egglands Best eggs? Heres the truth behind the viral egg recall 2025 panic ... [+] and … [+7442 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Erica Lamberg",
-      "title": "Seafood samples contain high levels of microplastics in US state, say researchers",
-      "description": "Microplastics were detected in almost every seafood sample found off the coast of the western U.S. in a recent study. The particles were found in the edible tissue of six different species of fish.",
-      "url": "https://www.foxnews.com/health/seafood-samples-contain-high-levels-microplastics-us-state-say-researchers",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/fish-and-shrimp.jpg",
-      "publishedAt": "2025-02-06T19:06:00Z",
-      "content": "Microplastics were detected in almost every seafood sample found off the coast of the western U.S. in a recent study, researchers claim. \r\nThe study, led by Portland State University (PSU), identifie… [+5291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Lina Eklund, Associate Senior Lecturer, Lund University, He Yin, Assistant Professor of Geography, Kent State University , Jamon Van Den Hoek, Associate Professor of Geography, Oregon State University",
-      "title": "Gaza: we analysed a year of satellite images to map the scale of agricultural destruction",
-      "description": "Most of Gaza’s olive trees, citrus trees and greenhouses have been destroyed.",
-      "url": "https://theconversation.com/gaza-we-analysed-a-year-of-satellite-images-to-map-the-scale-of-agricultural-destruction-248796",
-      "urlToImage": "https://images.theconversation.com/files/647252/original/file-20250205-15-jnzbjx.png?ixlib=rb-4.1.0&rect=11%2C0%2C2445%2C1222&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-06T18:10:54Z",
-      "content": "Part of North Gaza in November 2023, and again in July 2024. \n\n SkySat imagery © 2025/Planet Labs PBC\r\nThe ceasefire agreed between Israel and Hamas makes provisions for the passage of food and human… [+6057 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Sophie Clark",
-      "title": "Kroger Food Recalls Issued for Over 15 States: List of Products Impacted",
-      "description": "Kroger has issued recalls for several food products across at least 15 states since the start of February.",
-      "url": "https://www.newsweek.com/kroger-food-recalls-issued-15-states-full-list-products-impacted-2027160",
-      "urlToImage": "https://d.newsweek.com/en/full/2582660/kroger-logo.jpg",
-      "publishedAt": "2025-02-06T18:00:54Z",
-      "content": "Kroger has recalled several food products from its stores across at least 15 states, and has also recalled products from several Kroger subsidiary stores across the country since the start of Februar… [+3310 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Mercury content in tuna can be reduced with new packaging solution",
-      "description": "Fish is a high-quality source of protein, containing omega-3 fatty acids and many other beneficial nutrients. However, the accumulation of toxic mercury also makes fish consumption a concern, of which tuna is particularly susceptible. Researchers have now com…",
-      "url": "https://www.sciencedaily.com/releases/2025/02/250206113325.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-02-06T16:33:25Z",
-      "content": "Fish is a high-quality source of protein, containing omega-3 fatty acids and many other beneficial nutrients. However, the accumulation of toxic mercury also makes fish consumption a concern, of whic… [+4136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Cisco addressed two critical flaws in its Identity Services Engine (ISE)",
-      "description": "Cisco addressed critical flaws in Identity Services Engine, preventing privilege escalation and system configuration changes. Cisco addressed multiple vulnerabilities, including two critical remote code execution flaws, tracked as CVE-2025-20124 (CVSS score o…",
-      "url": "https://securityaffairs.com/173946/security/cisco-addressed-critical-flaws-in-identity-services-engine.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
-      "publishedAt": "2025-02-06T15:42:28Z",
-      "content": "Notorious hacker behind 40+ cyberattacks on strategic organizations arrested\r\n | Lazarus APT targets crypto wallets using cross-platform JavaScript stealer\r\n | U.S. CISA adds Linux kernel flaw to its… [+137388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Aluminum Foil Packaging Market to Reach USD 47.0 Billion by 2035, Driven by Growing Demand Across Industries | Future Market Insights, Inc.",
-      "description": "The demand for aluminum foil packaging in the USA is driven by the need for convenience in ready-to-eat and on-the-go foods. Its excellent barrier properties help maintain freshness, prevent contamination, and extend shelf life, making it a preferred choice f…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/06/3022128/0/en/Aluminum-Foil-Packaging-Market-to-Reach-USD-47-0-Billion-by-2035-Driven-by-Growing-Demand-Across-Industries-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-02-06T14:30:00Z",
-      "content": "NEWARK, Del, Feb. 06, 2025 (GLOBE NEWSWIRE) -- The global aluminum foil packaging market is poised for substantial growth, with market size projected to reach USD 28.8 billion in 2025 and expand to U… [+10262 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Keren Davidov, Sheli Itzahri, Liat Anabel Sinberger, Matan Oren",
-      "title": "Unveiling microbial succession dynamics on different plastic surfaces using WGCNA",
-      "description": "Over recent decades, marine microorganisms have increasingly adapted to plastic debris, forming distinct plastic-attached microbial communities. Despite this, the colonization and succession processes on plastic surfaces in marine environments remain poorly u…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318843",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318843.g007&size=inline",
-      "publishedAt": "2025-02-06T14:00:00Z",
-      "content": "Abstract\r\nOver recent decades, marine microorganisms have increasingly adapted to plastic debris, forming distinct plastic-attached microbial communities. Despite this, the colonization and successio… [+49227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Longjun Pu, Jing Wang, Lars Nilsson, Lina Zhao, Chloe Williams, Guanqiao Chi, Jonathan D Gilthorpe, Simon Tuck, Johan Henriksson, Yi-Quan Tang, Sun Nyunt Wai, Changchun Chen",
-      "title": "Shaker/Kv1 potassium channel SHK-1 protects against pathogen infection and oxidative stress in C. elegans",
-      "description": "Author summary Exposure to environmental stimuli, such as bacterial pathogens, increases the production of reactive oxygen species (ROS), leading to oxidative stress and widespread cellular damage. Cells employ various defense mechanisms to counteract ROS-ind…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011554",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011554.g006&size=inline",
-      "publishedAt": "2025-02-06T14:00:00Z",
-      "content": "Abstract\r\nThe Shaker/Kv1 subfamily of voltage-gated potassium (K+) channels is essential for modulating membrane excitability. Their loss results in prolonged depolarization and excessive calcium inf… [+75598 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Veridiana Lenartovicz Boeira, Renata Coltro Bezagio, Marina Silva de Carvalho, Rinaldo Ferreira Gandra, Ana Paula de Abreu, Cristiano Lara Massara, Cristiane Maria Colli, Max Jean de Ornelas Toledo",
-      "title": "Hybrid and/or mixed infection by pig and human Ascaris in a Guarani indigenous village in southern Brazil",
-      "description": "Author summary Despite the control measures implemented in Brazilian Indigenous Lands, the prevalence of intestinal parasites continues to vary from moderate (> 20% and < 50%) to high (≥ 50%) in its inhabitants. The number of indigenous people residing in Bra…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012271",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012271.g005&size=inline",
-      "publishedAt": "2025-02-06T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nAscaris lumbricoides and Ascaris suum are nematode parasites that infect millions of people and pigs worldwide, respectively. Reports of cross-infection and hybridization betwee… [+50515 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 95,
   "filteredCount": 0
 }
