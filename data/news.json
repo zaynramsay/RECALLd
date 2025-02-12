@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-12T06:29:53.300Z",
+  "lastUpdated": "2025-02-12T12:41:53.518Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Crooks use Google Tag Manager skimmer to steal credit card data from a Magento-based e-stores",
+      "description": "Sucuri researchers observed threat actors leveraging Google Tag Manager (GTM) to install e-skimmer software on Magento-based e-stores. Sucuri researchers found threat actors using Google Tag Manager (GTM) to deploy e-skimmer malware on a Magento eCommerce sit…",
+      "url": "https://securityaffairs.com/174085/cyber-crime/google-tag-manager-gtm-e-skimmer-software-in-magento.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-16.png",
+      "publishedAt": "2025-02-11T12:34:42Z",
+      "content": "Crooks use Google Tag Manager skimmer to steal credit card data from a Magento-based e-stores\r\n | Operation Phobos Aetor: Police dismantled 8Base ransomware gang\r\n | Apple fixes iPhone and iPad bug e… [+138477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Global Hygiene Packaging Market to Surpass USD 6.7 Billion by 2035, Driven by Rising Health Awareness, Sustainable Packaging Solutions, and Technological Innovations | FMI",
+      "description": "The USA hygiene packaging market is set to grow at a CAGR of 28.7%, driven by rising health consciousness, post-pandemic safety concerns, and demand for microbial-free packaging. Consumers increasingly prefer secure, tamper-proof, and eco-friendly hygiene sol…",
+      "url": "https://www.globenewswire.com/news-release/2025/02/11/3024066/0/en/Global-Hygiene-Packaging-Market-to-Surpass-USD-6-7-Billion-by-2035-Driven-by-Rising-Health-Awareness-Sustainable-Packaging-Solutions-and-Technological-Innovations-FMI.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-02-11T12:30:00Z",
+      "content": "NEWARK, Del, Feb. 11, 2025 (GLOBE NEWSWIRE) -- The global hygiene packaging market is projected to grow significantly, reaching an estimated USD 6.7 billion by 2035 from USD 4.2 billion in 2025, with… [+13156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Sahit Muja, Forbes Councils Member, \n Sahit Muja, Forbes Councils Member\n https://www.forbes.com/councils/forbesbusinesscouncil/people/sahitmuja/",
+      "title": "How Magnesium And Other Minerals Are Supporting Sustainability Efforts",
+      "description": "As we face significant climate-related challenges, minerals can offer a bridge between ecological restoration and technological innovation.",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2025/02/11/how-magnesium-and-other-minerals-are-supporting-sustainability-efforts/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a9fb0d5ba243bc2b49fb65/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-11T12:00:00Z",
+      "content": "Sahit Muja is Founder &amp; CEO at Albanian Minerals, Cofounder of Green Minerals, Global Mining, Metalplant.\r\ngetty\r\nThe Earth stands at a crossroads. Our planet is facing monumental challenges rela… [+6829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Ilona Baliūnaitė",
+      "title": "Man Tries To Guilt Manager Into Buying Girl Scout Cookies Even Though She Can’t Have Gluten",
+      "description": "This woman refused to give into peer pressure and buy Girl Scout Cookies that she knew she wouldn't eat.\nThe post Man Tries To Guilt Manager Into Buying Girl Scout Cookies Even Though She Can’t Have Gluten first appeared on Bored Panda.",
+      "url": "https://www.boredpanda.com/allergic-manager-refuses-girl-scout-cookies-drama/",
+      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/02/allergic-manager-refuses-girl-scout-cookies-drama-fb.png",
+      "publishedAt": "2025-02-11T09:49:39Z",
+      "content": "Many Americans look forward to Girl Scout Cookie season all year long. And once they finally spot those ambitious, entrepreneurial girls standing outside the grocery store, they’ll happily shell out … [+4732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Tuna Cans Recall From Trader Joe's, Costco and More Over Contamination Risk",
+      "description": "Several canned tuna brands have been pulled from shelves at Trader Joe's, H-E-B, Costco and Walmart over concerns about contamination that could cause a potentially fatal form of food poisoning.\nTri-Union Seafoods voluntarily issued the recall last Friday \"ou…",
+      "url": "https://biztoc.com/x/2f3354e71f9f5d43",
+      "urlToImage": "https://biztoc.com/cdn/2f3354e71f9f5d43_s.webp",
+      "publishedAt": "2025-02-11T09:19:36Z",
+      "content": "Several canned tuna brands have been pulled from shelves at Trader Joe's, H-E-B, Costco and Walmart over concerns about contamination that could cause a potentially fatal form of food poisoning.Tri-U… [+137 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jordan King",
+      "title": "Tuna Cans Recall From Trader Joe's, Costco and More Over Contamination Risk",
+      "description": "The recall has been issued \"out of an abundance of caution.\"",
+      "url": "https://www.newsweek.com/tuna-cans-recall-fda-tri-union-seafoods-food-poisoning-risk-botulism-2029210",
+      "urlToImage": "https://d.newsweek.com/en/full/2585533/tuna.jpg",
+      "publishedAt": "2025-02-11T09:14:37Z",
+      "content": "Several canned tuna brands have been pulled from shelves at Trader Joe's, H-E-B, Costco and Walmart over concerns about contamination that could cause a potentially fatal form of food poisoning.\r\nTri… [+2698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Operation Phobos Aetor: Police dismantled 8Base ransomware gang",
+      "description": "Authorities dismantled the 8Base ransomware gang, shutting down its dark web data leak and negotiation sites. An international law enforcement operation, codenamed Operation Phobos Aetor, dismantled the 8Base ransomware gang. The police took down the dark web…",
+      "url": "https://securityaffairs.com/174078/cyber-crime/police-dismantled-8base-ransomware-gang.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-15-1024x576.png",
+      "publishedAt": "2025-02-11T08:33:47Z",
+      "content": "Operation Phobos Aetor: Police dismantled 8Base ransomware gang\r\n | Apple fixes iPhone and iPad bug exploited in extremely sophisticated attacks\r\n | HPE is notifying individuals affected by a Decembe… [+138379 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1144,86 +1235,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-12.png",
       "publishedAt": "2025-02-07T09:31:40Z",
       "content": "Attackers used a public ASP.NET machine to conduct ViewState code injection attacks\r\n | U.S. CISA adds Microsoft Outlook, Sophos XG Firewall, and other flaws to its Known Exploited Vulnerabilities ca… [+137597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Bill Marler",
-      "title": "Publisher’s Platform: Salmonella is one Nasty Bug",
-      "description": "In recent years, Salmonella outbreaks have become a pressing public health concern, highlighting the vulnerabilities in our food supply chain. Salmonella, a group of bacteria commonly linked to foodborne illnesses, is notorious for causing symptoms ranging fr…",
-      "url": "https://www.foodsafetynews.com/2025/02/publishers-platform-salmonella-is-one-nasty-bug/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/414/747/NWlVkgmbMQEBZkA1YZyAqEwDo/ad02f8c14de6c5d8e84afac5d1fc7f920f33b91a.png",
-      "publishedAt": "2025-02-07T06:30:02Z",
-      "content": "In recent years, Salmonella outbreaks have become a pressing public health concern, highlighting the vulnerabilities in our food supply chain. Salmonella, a group of bacteria commonly linked to foodb… [+2439 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Jacki Thrapp",
-      "title": "Top dog food brand recalls nearly 6,000 pounds of logs due to salmonella contamination",
-      "description": "Pooch parents are urged to check items purchased between Jan. 3 and Jan. 24.",
-      "url": "https://nypost.com/2025/02/07/lifestyle/top-dog-food-brand-recalls-nearly-6000-pounds-of-logs-due-to-salmonella-contamination/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/98038071.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-02-07T06:17:22Z",
-      "content": "A new warning has been issued to dog owners.\r\nBlue Ridge Beef has recalled thousands of 2 lb Natural Mix logs due to a salmonella contamination, according to a news release published by the Food and … [+2449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Study assesses food safety challenges with dark kitchens",
-      "description": "Researchers have said more needs to be done to ensure that the growth of dark kitchens is accompanied by effective food safety measures.  Dark kitchens offer ready-to-eat meals for delivery or takeout through online platforms, including social media, mobile a…",
-      "url": "https://www.foodsafetynews.com/2025/02/study-assesses-food-safety-challenges-with-dark-kitchens/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/406/419/DdWb1LGkNYNnr7b5Y70OKvRAP/5f70b0fc97307efe3ecd4c1be5e9886da7dc8886.png",
-      "publishedAt": "2025-02-07T05:03:00Z",
-      "content": "Researchers have said more needs to be done to ensure that the growth of dark kitchens is accompanied by effective food safety measures. \r\nDark kitchens offer ready-to-eat meals for delivery or takeo… [+4683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Thomas Jeffries, Senior Lecturer in Microbiology, Western Sydney University",
-      "title": "What is botulism? How this ‘nerve-paralysing illness’ can be linked to dodgy botox",
-      "description": "Botulism can also be a food-borne illness. Here’s what to know.",
-      "url": "https://theconversation.com/what-is-botulism-how-this-nerve-paralysing-illness-can-be-linked-to-dodgy-botox-248765",
-      "urlToImage": "https://images.theconversation.com/files/646429/original/file-20250203-15-c7xrg8.jpg?ixlib=rb-4.1.0&rect=0%2C882%2C6206%2C3103&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-07T02:54:01Z",
-      "content": "Tijana Simic/Shutterstock\r\nThe news last week that three people in Sydney were hospitalised with botulism after receiving botox injections has raised questions about the regulation of the cosmetic in… [+4967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Tom Raynel",
-      "title": "Chelsea Sugar fined almost $150k for selling 971 tonnes of lead-contaminated sugar",
-      "description": "NZ Food Safety deputy director-general said that offending of this scale was rare.",
-      "url": "https://www.nzherald.co.nz/business/companies/retail/chelsea-sugar-fined-almost-150k-for-selling-lead-contaminated-sugar/EQFLWRCAZRG43IX7PYOVF3WRBM/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/TGRIZPQZJRAC5OZOYLCQADP77U.jpg?auth=0105d67b3c930ba2823cc45406b7c12abf8a993c1a5d9282e9e6c849bfb1a9fc&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2025-02-07T02:35:17Z",
-      "content": "It failed to properly detect the extent of lead contamination until after the imported sugar had been used in production.\r\nAccording to the findings, NZSC imported sugar from Australia in September 2… [+1911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "Can You sleep at a rest area?",
-      "description": "Can You Sleep at a Rest Area? Understanding the Concept of Rest Areas Rest areas, also known as rest stops […]\nThe post Can You sleep at a rest area? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/can-you-sleep-at-a-rest-area/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-07T02:00:54Z",
-      "content": "Can You Sleep at a Rest Area?\r\nUnderstanding the Concept of Rest Areas\r\nRest areas, also known as rest stops or service stations, are designated areas along highways and roads where travelers can sto… [+5057 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 95,
   "filteredCount": 0
 }
