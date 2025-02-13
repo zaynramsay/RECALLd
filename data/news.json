@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-13T06:29:36.643Z",
+  "lastUpdated": "2025-02-13T12:41:58.143Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Global Baby Powder Market to Reach USD 1,898.8 Million by 2035, Driven by Growing Demand for Talc-Free and Organic Products | Future Market Insights Inc.",
+      "description": "The USA Baby Powder market is set for continued growth, driven by the shift toward organic and naturally made powders. E-commerce expansion and active participation of major manufacturers further support this trend. Following the CDC's ban on talc-based baby …",
+      "url": "https://www.globenewswire.com/news-release/2025/02/12/3024939/0/en/Global-Baby-Powder-Market-to-Reach-USD-1-898-8-Million-by-2035-Driven-by-Growing-Demand-for-Talc-Free-and-Organic-Products-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-02-12T12:30:00Z",
+      "content": "NEWARK, Del, Feb. 12, 2025 (GLOBE NEWSWIRE) -- The global market for baby powder is poised to rise from USD 1,165.7 million in 2025 to USD 1,898.8 million by 2035, at a CAGR of 5.0% for the period un… [+11305 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "North Korea-linked APT Emerald Sleet is using a new tactic",
+      "description": "Microsoft Threat Intelligence has observed North Korea-linked APT Emerald Sleet using a new tactic, tricking targets into running PowerShell. Microsoft Threat Intelligence researchers spotted North Korea-linked threat actor Emerald Sleet (also known as Kimsuk…",
+      "url": "https://securityaffairs.com/174142/apt/emerald-sleet-is-using-a-new-tactic.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-17.png",
+      "publishedAt": "2025-02-12T11:55:48Z",
+      "content": "North Korea-linked APT Emerald Sleet is using a new tactic\r\n��| Microsoft Patch Tuesday security updates for February 2025 ficed 2 actively exploited bugs\r\n | Attackers exploit a new zero-day to hijac… [+138897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Gayoung Lee",
+      "title": "Penguins Help to Map Antarctica’s Growing Mercury Threat",
+      "description": "Molted penguin feathers record mercury infiltrating Antarctica’s food web",
+      "url": "https://www.scientificamerican.com/article/penguins-help-to-map-antarcticas-growing-mercury-threat/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/cdfb10e57de8823/original/sa0325Adva05.jpg?m=1738790662.836&w=1200",
+      "publishedAt": "2025-02-12T11:45:00Z",
+      "content": "When Philip Sontag first visited Antarctica as a Ph.D. student, he brought back an unusual souvenir: a huge bag of penguin feathers. And now, after a decade-long analysis, Sontag and his colleagues h… [+3471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Allied Market Research INC",
+      "title": "Serum Free and Specialty Media Market to Reach $6.9 billion, Globally, by 2033 at 11.6% CAGR: Allied Market Research",
+      "description": "Wilmington, Delaware , Feb. 12, 2025 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, \"Serum Free and Specialty Media Market by Product (CHO Media, HEK Media, Hybridoma Media, and Others), Application (Biopharmaceutical Production, Tissu…",
+      "url": "https://www.globenewswire.com/news-release/2025/02/12/3024794/0/en/Serum-Free-and-Specialty-Media-Market-to-Reach-6-9-billion-Globally-by-2033-at-11-6-CAGR-Allied-Market-Research.html",
+      "urlToImage": null,
+      "publishedAt": "2025-02-12T09:30:00Z",
+      "content": "Wilmington, Delaware , Feb. 12, 2025 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, \"Serum Free and Specialty Media Market by Product (CHO Media, HEK Media, Hybridoma Media, a… [+10533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Microsoft Windows, Zyxel device flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Windows, Zyxel device flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exp…",
+      "url": "https://securityaffairs.com/174135/security/u-s-cisa-adds-microsoft-windows-zyxel-device-flaws-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-12T08:01:34Z",
+      "content": "Microsoft Patch Tuesday security updates for February 2025 ficed 2 actively exploited bugs\r\n | Attackers exploit a new zero-day to hijack Fortinet firewalls\r\n | OpenSSL patched high-severity flaw CVE… [+138834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Microsoft Patch Tuesday security updates for February 2025 ficed 2 actively exploited bugs",
+      "description": "Microsoft Patch Tuesday security updates for February 2025 addressed four zero-day flaws, two of which are actively exploited in the wild. Microsoft Patch Tuesday security updates for February 2025 addressed 57 vulnerabilities in Windows and Windows Component…",
+      "url": "https://securityaffairs.com/174126/hacking/microsoft-patch-tuesday-security-updates-february-2025.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/12/Microsoft-Patch-Tuesday-Exchange-server.png",
+      "publishedAt": "2025-02-12T07:27:22Z",
+      "content": "Microsoft Patch Tuesday security updates for February 2025 ficed 2 actively exploited bugs\r\n | Attackers exploit a new zero-day to hijack Fortinet firewalls\r\n | OpenSSL patched high-severity flaw CVE… [+138834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Sana Khan",
+      "title": "Botulism Risk Prompts Recall Of Canned Tuna At Costco, Walmart, Trader Joe's: Full List Of Affected Products",
+      "description": "The manufacturer issued the recall due to a defect on the cans' \"easy open\" pull lid that could result in leakage or Clostridium botulinum contamination.",
+      "url": "https://www.ibtimes.com/botulism-risk-prompts-recall-canned-tuna-costco-walmart-trader-joes-full-list-affected-3763351",
+      "urlToImage": "https://d.ibtimes.com/en/full/4582032/person-holding-can-tuna-representational-image.jpg",
+      "publishedAt": "2025-02-12T06:45:13Z",
+      "content": "A voluntary recall has been initiated for certain canned tuna products available nationwide at stores like Trader Joe's, Walmart, Costco, and others, due to faulty packaging that could pose a serious… [+3139 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,112 +1248,8 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/98165866.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-02-08T22:46:19Z",
       "content": "The Food and Drug Administration has classified a recall of 60 different doughnut products to its second-highest level, the agency announced earlier this week in an update to its website. \r\nThe recal… [+2211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "PlayStation Network outage has been going on for over 24 hours",
-      "description": "PlayStation Network has been down for nearly a day, with little communication from Sony, leaving players frustrated. PlayStation Network has been down for almost a day all over the world, Sony confirmed it is aware of the global outage, but has yet to provide…",
-      "url": "https://securityaffairs.com/174005/hacking/playstation-network-global-outage.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-14.png",
-      "publishedAt": "2025-02-08T21:48:05Z",
-      "content": "PlayStation Network outage has been going on for over 24 hours\r\n | Kimsuky APT group used custom RDP Wrapper version and forceCopy stealer\r\n | Russia's intelligence recruits Ukrainians for terror att… [+137888 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "mlive.com",
-      "title": "Millions of doughnuts, baked goods sold nationwide recalled over listeria contamination concerns",
-      "description": "The Food and Drug Administration quietly announced a recall last month involving more than two million cases of doughnuts and other baked goods sold under various brand names, including Dunkin. Data from the FDA says 2,017,614 cases of products are part of th…",
-      "url": "https://biztoc.com/x/5af020abcac41df0",
-      "urlToImage": "https://biztoc.com/cdn/5af020abcac41df0_s.webp",
-      "publishedAt": "2025-02-08T20:30:36Z",
-      "content": "The Food and Drug Administration quietly announced a recall last month involving more than two million cases of doughnuts and other baked goods sold under various brand names, including Dunkin. Data … [+142 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Christine Rousselle",
-      "title": "FDA recalls more than 2 million cases of doughnuts",
-      "description": "The FDA recalled 60 doughnut products, totaling more than 2 million cases, for potential listeria contamination. The doughnuts were sold throughout the U.S. and Canada.",
-      "url": "https://www.foxnews.com/food-drink/fda-recalls-more-than-2-million-cases-doughnuts",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/GlazedDoughnutIstock.jpg",
-      "publishedAt": "2025-02-08T19:02:32Z",
-      "content": "The Food and Drug Administration has classified a recall of 60 different doughnut products to its second-highest level, the agency announced earlier this week in an update to its website. \r\nThe recal… [+2288 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Becca Wood",
-      "title": "More than 2 million donut products recalled nationwide over listeria contamination risk",
-      "description": "FGF Brands has voluntarily recalled 60 donut products, impacting more than 2 million pastries sold across the country.",
-      "url": "https://www.today.com/health/recall/donuts-recalled-2025-rcna191321",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-02/tdy-donut-ld-main-250208-939c45.jpg",
-      "publishedAt": "2025-02-08T18:41:33Z",
-      "content": "FGF Brands has voluntarily recalled 60 donut products, impacting more than 2 million pastries sold across the country. \r\nA report from the Food and Drug Administration said the donut products, distri… [+1684 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Kimsuky APT group used custom RDP Wrapper version and forceCopy stealer",
-      "description": "Researchers spotted North Korea’s Kimsuky APT group launching spear-phishing attacks to deliver forceCopy info-stealer malware. Researchers from AhnLab Security Intelligence Center (ASEC) observed North Korea’s Kimsuky APT group conducting spear-phishing atta…",
-      "url": "https://securityaffairs.com/173991/apt/north-koreas-kimsuky-forcecopy-malware.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
-      "publishedAt": "2025-02-08T18:15:22Z",
-      "content": "Kimsuky APT group used custom RDP Wrapper version and forceCopy stealer\r\n | Russia's intelligence recruits Ukrainians for terror attacks via messaging apps\r\n | Hospital Sisters Health System impacted… [+137821 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Feed",
-      "title": "Massive Donut recall in US and Canada: Over 2 million products pulled due to Listeria contamination risk – What should consumers do?",
-      "description": "Over 2 million donuts have been pulled from shelves due to Listeria monocytogenes contamination. The recall includes cake donuts, raspberry-filled donuts, French crullers, and Dunkin’ Donuts products, among others. This recall is part of a larger wave of food…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/massive-donut-recall-in-us-and-canada-over-2-million-products-pulled-due-to-listeria-contamination-risk-what-should-consumers-do/articleshow/118070986.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-118071326,width-1200,height-630,imgsize-1128759,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-02-08T16:18:42Z",
-      "content": "More than two million donut products have been recalled across the United States and Canada due to possible contamination with Listeria monocytogenes, a dangerous bacterium. The U.S. Food and Drug Ad… [+2788 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Bill Marler",
-      "title": "Publisher’s Platform: Combating E. coli: A Call for Vigilance in Food Safety Practices",
-      "description": "Escherichia coli, commonly known as E. coli, is a versatile bacterium. While many strains are harmless and a natural part of our intestinal flora, some can cause severe illness, leading to serious public health concerns. Recent outbreaks associated with conta…",
-      "url": "https://www.foodsafetynews.com/2025/02/publishers-platform-combating-e-coli-a-call-for-vigilance-in-food-safety-practices/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/537/563/DdWb1LGkNYNnnro3Y70OKvRAP/de8795ffb263b73d2366260a4fc2b207a8f35178.png",
-      "publishedAt": "2025-02-08T15:55:59Z",
-      "content": "Escherichia coli, commonly known as E. coli, is a versatile bacterium. While many strains are harmless and a natural part of our intestinal flora, some can cause severe illness, leading to serious pu… [+2761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Anna Gragert",
-      "title": "Fluoride: Why Is It in Our Drinking Water, and Is It Safe for Children?",
-      "description": "You're not alone if you have questions about fluoride in your water supply. We reached out to experts to get answers.",
-      "url": "https://www.cnet.com/health/medical/fluoride-why-drinking-water-safe-children/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/8610d88c29b90c793a3fd2538cdf062d2c185d3a/hub/2025/01/31/b152e9e5-2bd3-4654-ab48-29465dd29cf7/person-pouring-water-glass.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-08T14:45:03Z",
-      "content": "Fluoride in drinking water has become a controversial topic in the US, especially after Robert F. Kennedy Jr., President Trump's nomination to lead the US Department of Health and Human Services, wro… [+30755 chars]"
     }
   ],
-  "totalResults": 97,
+  "totalResults": 96,
   "filteredCount": 0
 }
