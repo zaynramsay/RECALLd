@@ -1,6 +1,149 @@
 {
-  "lastUpdated": "2025-02-12T18:29:47.109Z",
+  "lastUpdated": "2025-02-13T01:42:46.785Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Micro-nano plastics make other pollutants more dangerous to plants and intestinal cells",
+      "description": "Researchers find that tiny plastic particles increase the absorption of environmental arsenic and pesticides in lettuce and human intestinal cells, raising new safety concerns about plastic pollution.",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250211190242.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-12T00:02:42Z",
+      "content": "Micro- and nanoscale plastic particles in soil and water can significantly increase how much toxic chemicals plants and human intestinal cells absorb, according to two new studies from Rutgers Health… [+4355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "none",
+      "title": "Earl Grey Teas Tested for PFAS 'Forever Chemicals' — Guide",
+      "description": "Originally published on Mamavation: December 17, 2024\n\nWhich Earl Grey teas do not have PFAS \"forever chemicals\" present inside the tea leaves? This is the question we attempted to answer when we sent the most popular Earl Grey brands inside our community to …",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/12/earl-grey-tea-pfas.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/earl-grey-tea-pfas-fb.jpg",
+      "publishedAt": "2025-02-12T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Neha Mukherjee",
+      "title": "Canned tuna sold at Trader Joe’s, Costco, Walmart and more recalled due to botulism risk | CNN",
+      "description": "Tri-Union Seafoods is recalling certain canned tuna products sold at Costco, H-E-B, Kroger, Trader Joe’s, Walmart and other stores.",
+      "url": "https://www.cnn.com/2025/02/11/health/genova-canned-tuna-recall-botulism/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179827521.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-11T23:07:34Z",
+      "content": "Tri-Union Seafoods is recalling certain canned tuna products sold at Costco, H-E-B, Kroger, Trader Joes, Walmart and other stores.\r\nThere was a defect in manufacturing the easy open pull tab on the l… [+992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Attackers exploit a new zero-day to hijack Fortinet firewalls",
+      "description": "Fortinet warned of attacks using a now-patched zero-day vulnerability in FortiOS and FortiProxy to hijack Fortinet firewalls. Fortinet warned that threat actors are exploiting a new zero-day vulnerability, tracked as CVE-2025-24472 (CVSS score of 8.1), in For…",
+      "url": "https://securityaffairs.com/174117/hacking/fortinet-fortios-zero-day-exploited.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg",
+      "publishedAt": "2025-02-11T23:06:50Z",
+      "content": "Attackers exploit a new zero-day to hijack Fortinet firewalls\r\n | OpenSSL patched high-severity flaw CVE-2024-12797\r\n | Progress Software fixed multiple high-severity LoadMaster flaws\r\n | Artificial … [+138739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Logan Deloye",
+      "title": "Popular Canned Food Recalled In Florida Poses 'Fatal' Health Risk - NewsBreak",
+      "description": "Popular Canned Food Recalled In Florida Poses 'Fatal' Health Risk - NewsBreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/3803664384088-popular-canned-food-recalled-in-florida-poses-fatal-health-risk?s=a2&share_destination_id=MjA5MTAyOTc2LTE3MzkzNTcxODY4Nzg%3D&pd=0E9NEe3c&hl=en_US&send_time=1739357186&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_push_exp_rt_bucketv12-v8%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_rank_exp_25q1-v9",
+      "urlToImage": "https://img.particlenews.com/img/id/3HCFtA_0yqf6jGG00",
+      "publishedAt": "2025-02-11T22:04:00Z",
+      "content": "Photo: Colleen Michaels / iStock / Getty Images \r\nTri-Union Seafoods recalled select lots of canned tuna products \"sold under the Genova®, Van Camps®, H-E-B and Trader Joes brand names\" on February 7… [+1342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "OpenSSL patched high-severity flaw CVE-2024-12797",
+      "description": "OpenSSL patched the vulnerability CVE-2024-12797, a high-severity flaw found by Apple that enables man-in-the-middle attacks. The OpenSSL Project addressed a high-severity vulnerability, tracked as CVE-2024-12797, in its secure communications library.  The Op…",
+      "url": "https://securityaffairs.com/174111/security/openssl-patched-the-vulnerability-cve-2024-12797.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/openssl.png",
+      "publishedAt": "2025-02-11T21:33:02Z",
+      "content": "OpenSSL patched high-severity flaw CVE-2024-12797\r\n | Progress Software fixed multiple high-severity LoadMaster flaws\r\n | Artificial intelligence (AI) as an Enabler for Enhanced Data Security\r\n | Cro… [+138673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "Lauren Boland",
+      "title": "FSAI says recall of Donegal Catch salmon fillets not necessary despite undeclared peanut traces",
+      "description": "However, people who are sensitive to peanuts should be aware of the contamination.",
+      "url": "https://www.thejournal.ie/fsai-says-recall-of-donegal-catch-salmon-fillets-not-necessary-despite-undeclared-peanut-traces-6620297-Feb2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6620297/river/?height=400&version=6620328",
+      "publishedAt": "2025-02-11T19:53:21Z",
+      "content": "THE FOOD SAFETY Authority of Ireland (FSAI) has determined that a recall of Donegal Catch salmon fillets is not necessary despite undeclared peanut traces present in the fish. \r\nThe FSAI issued an al… [+1180 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aarp.org"
+      },
+      "author": "Aaron Kassraie",
+      "title": "Canned Tuna Recalled for Botulism",
+      "description": "Canned tuna from four different brands was recalled over concerns of leaks or contamination that could cause botulism. Learn more about the tuna recall.",
+      "url": "https://www.aarp.org/health/conditions-treatments/info-2025/canned-tuna-recalled-for-botulism-risk/",
+      "urlToImage": "https://aarp.widen.net/content/n888ehaucy/jpeg/GettyImages-1127968819-web.jpg?crop=true&anchor=62,135&q=80&color=ffffffff&u=k2e9ec&w=1934&h=1111",
+      "publishedAt": "2025-02-11T19:48:34Z",
+      "content": "Canned tuna from four different brands was recalled over concerns that the pull-tab lid on cans may not seal properly, potentially leading to leaks or contamination that could cause botulism, a serio… [+4544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Darragh Nolan",
+      "title": "Recall of Donegal Catch products containing peanuts not necessary but sensitive customers should be aware of contamination – FSAI",
+      "description": "A recall of a Donegal Catch product containing undeclared peanuts is not warranted, the Food Safety Authority (FSAI) has said.",
+      "url": "https://www.independent.ie/irish-news/recall-of-donegal-catch-products-containing-peanuts-not-necessary-but-sensitive-customers-should-be-aware-of-contamination-fsai/a1011213652.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/0F_2rsLzhSgUYHddiDWR53YbfYg=/0x20:960x660/629x0/prod-mh-ireland/7aa02eb6-4968-4626-98b9-3543a16d3f75/35d8fbf9-228d-4502-a8f1-bdc104422f53/7aa02eb6-4968-4626-98b9-3543a16d3f75.jpg",
+      "publishedAt": "2025-02-11T19:34:54Z",
+      "content": "A recall of a Donegal Catch product containing undeclared peanuts is not warranted, the Food Safety Authority (FSAI) has said.On Monday, Green Isle Foods notified the FSAI of the detection of undecla… [+950 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Chloe Mayer",
+      "title": "Plastic Straws Are Bad for Your Health. Here's Why",
+      "description": "Forever chemicals \"can disrupt hormones in your body and lead to problems, things like increased risk of breast cancer, problems with fertility.\"",
+      "url": "https://www.newsweek.com/plastic-straws-bad-health-forever-chemicals-trump-2029521",
+      "urlToImage": "https://d.newsweek.com/en/full/2586071/plastic-straw-glass.jpg",
+      "publishedAt": "2025-02-11T19:02:20Z",
+      "content": "With Donald Trump announcing plans to bring back plastic straws because he doesn't like paper ones, attention has turned to the potential public health risks of the move.\r\nThe Republican president is… [+6983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rutherford Daily Voice"
+      },
+      "author": "Joe Lombardi",
+      "title": "Recall Issued For Canned Tuna Sold In PA Under These Brand Names",
+      "description": "If canned tuna is a staple in your pantry, check your shelves immediately. \nA major nationwide recall has been issued for select Genova, Van Camp’s, H-E-B, and Trader Joe’s canned tuna due to a poten…",
+      "url": "https://dailyvoice.com/pa/allentown/recall-issued-for-canned-tuna-sold-in-pa-under-these-brand-names/",
+      "urlToImage": "https://edge.dailyvoice.com/upload/tuna-439755_1280.jpg?width=1280",
+      "publishedAt": "2025-02-11T18:31:40Z",
+      "content": "A major nationwide recall has been issued for select Genova, Van Camps, H-E-B, and Trader Joes canned tuna due to a potential contamination risk that could lead to botulism, a rare but potentially fa… [+1696 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1118,149 +1261,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-13-1024x654.png",
       "publishedAt": "2025-02-08T13:25:04Z",
       "content": "Russia's intelligence recruits Ukrainians for terror attacks via messaging apps\r\n | Hospital Sisters Health System impacted 882,782 individuals\r\n | Attackers used a public ASP.NET machine to conduct … [+137745 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Skinner",
-      "title": "Super Bowl Party Food Recall: List of Warnings Issued",
-      "description": "Several food items that might be on the menu for Super Bowl Sunday have been recalled by the U.S. Food and Drug Administration.",
-      "url": "https://www.newsweek.com/super-bowl-party-food-recall-list-warnings-issued-2028041",
-      "urlToImage": "https://d.newsweek.com/en/full/2583983/super-bowl-food-recall-list.jpg",
-      "publishedAt": "2025-02-08T11:00:02Z",
-      "content": "In addition to the big game, the Super Bowl boasts food-laden parties across the nation. However, multiple foods that might be used during the parties this weekend have been recalled by the U.S. Food… [+4105 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Lucy Notarantonio",
-      "title": "Cancer Survivor Shares Kitchen Items She'll Never Use Again-Expert Explains",
-      "description": "While pregnant, Susana Demore was diagnosed with triple-negative breast cancer. After beating it, she has embraced significant lifestyle changes.",
-      "url": "https://www.newsweek.com/cancer-survivor-kitchen-items-never-use-again-expert-2023436",
-      "urlToImage": "https://d.newsweek.com/en/full/2578008/kitchenware.png",
-      "publishedAt": "2025-02-08T11:00:01Z",
-      "content": "A video of a cancer survivor sharing the 12 items she will never use in her kitchen again has amassed over 10 million views on Instagram.\r\nNewsweek spoke with Susana Demore, 42, who was diagnosed wit… [+8960 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wichita Eagle"
-      },
-      "author": "Amy Renee Leiker",
-      "title": "Old prime rib, cockroaches, mice, bed stains at Wichita KS restaurants, motel & arena",
-      "description": "These restaurants, hotels and other businesses failed recent health inspections.",
-      "url": "https://www.kansas.com/entertainment/restaurants/article299657904.html",
-      "urlToImage": "https://media.zenfs.com/en/wichita_eagle_mcclatchy_articles_373/4ebdf8a9565c94ec6e85dd61bdb6a972",
-      "publishedAt": "2025-02-08T09:47:00Z",
-      "content": "Dead mice and cockroaches, pest poop, stained beds, excess trash, old meat, employees who didnt wash their hands and dirty kitchen equipment are among violations Kansas Department of Agriculture insp… [+6135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make watermelon jelly?",
-      "description": "Making Watermelon Jelly: A Refreshing Summer Treat Introduction Summer is here, and with it comes the sweet taste of watermelon. […]\nThe post How to make watermelon jelly? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-watermelon-jelly/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-08T09:28:27Z",
-      "content": "Making Watermelon Jelly: A Refreshing Summer Treat\r\nIntroduction\r\nSummer is here, and with it comes the sweet taste of watermelon. This refreshing fruit is perfect for hot days, and its juice is a gr… [+4799 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make venison hot dogs?",
-      "description": "How to Make Venison Hot Dogs: A Delicious and Sustainable Alternative Introduction Venison hot dogs are a game-changer for outdoor […]\nThe post How to make venison hot dogs? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-venison-hot-dogs/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-08T09:17:38Z",
-      "content": "How to Make Venison Hot Dogs: A Delicious and Sustainable Alternative\r\nIntroduction\r\nVenison hot dogs are a game-changer for outdoor enthusiasts, hunters, and foodies alike. Made from the lean meat o… [+5257 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make spread jail food?",
-      "description": "How to Make Spread Jail Food: A Guide to Survival Introduction In the event of a natural disaster, power outage, […]\nThe post How to make spread jail food? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-spread-jail-food/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-08T07:39:26Z",
-      "content": "How to Make Spread Jail Food: A Guide to Survival\r\nIntroduction\r\nIn the event of a natural disaster, power outage, or other emergency situation, having a reliable source of food can be a matter of li… [+5451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "The Star Online",
-      "title": "Malaysia not affected by chlorate in carbonated drinks, says Health Minister",
-      "description": "KEPALA BATAS: Malaysia is not impacted by the carbonated water products reportedly containing high levels of chlorate, as seen in several European countries, says Health Minister Datuk Seri Dr Dzulkefly Ahmad. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/02/08/malaysia-not-affected-by-chlorate-in-carbonated-drinks-says-health-minister",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/08/3157792.jpg",
-      "publishedAt": "2025-02-08T07:34:00Z",
-      "content": "KEPALA BATAS: Malaysia is not impacted by the carbonated water products reportedly containing high levels of chlorate, as seen in several European countries, says Health Minister Datuk Seri Dr Dzulke… [+1619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make sodium hydroxide?",
-      "description": "How to Make Sodium Hydroxide: A Step-by-Step Guide Introduction Sodium hydroxide, also known as caustic soda, is a highly reactive […]\nThe post How to make sodium hydroxide? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-sodium-hydroxide/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-08T06:59:32Z",
-      "content": "How to Make Sodium Hydroxide: A Step-by-Step Guide\r\nIntroduction\r\nSodium hydroxide, also known as caustic soda, is a highly reactive and corrosive substance used in various industrial applications, i… [+4812 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Juancole.com"
-      },
-      "author": "The Conversation",
-      "title": "Gaza: We Analyzed a Year of Satellite Images to Map the Scale of Agricultural Destruction",
-      "description": "By Lina Eklund, Lund University; He Yin, Kent State University , and Jamon Van Den Hoek, Oregon State University (The Conversation) - The ceasefire agreed between Israel and Hamas makes provisions for the passage of food and humanitarian aid into Gaza. This s…",
-      "url": "https://www.juancole.com/2025/02/satellite-agricultural-destruction.html",
-      "urlToImage": "https://media.juancole.com/images/2025/02/IMG_5030.jpg",
-      "publishedAt": "2025-02-08T05:06:16Z",
-      "content": "By Lina Eklund, Lund University; He Yin, Kent State University , and Jamon Van Den Hoek, Oregon State University\r\n(The Conversation) – The ceasefire agreed between Israel and Hamas makes provisions f… [+6102 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "New Zealand firm fined in lead contaminated sugar case",
-      "description": "New Zealand Sugar Company has been fined for manufacturing, distributing and selling sugar products that were contaminated with lead during transport. In November and December 2021, the company, trading as Chelsea Sugar, recalled thousands of packs of sugar b…",
-      "url": "https://www.foodsafetynews.com/2025/02/new-zealand-firm-fined-in-lead-contaminated-sugar-case/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/509/524/DqR2v1kNaYMBBWBqz8epZrOWP/3932719a3218fdefc161ae7f2f2945a604fe1801.png",
-      "publishedAt": "2025-02-08T05:03:00Z",
-      "content": "New Zealand Sugar Company has been fined for manufacturing, distributing and selling sugar products that were contaminated with lead during transport.\r\nIn November and December 2021, the company, tra… [+4438 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to make oil from oregano?",
-      "description": "How to Make Oil from Oregano: A Natural and Nutritious Alternative Introduction Oregano oil, extracted from the leaves of the […]\nThe post How to make oil from oregano? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-make-oil-from-oregano/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-08T03:45:22Z",
-      "content": "How to Make Oil from Oregano: A Natural and Nutritious Alternative\r\nIntroduction\r\nOregano oil, extracted from the leaves of the oregano plant, has been used for centuries in traditional medicine and … [+5961 chars]"
     }
   ],
   "totalResults": 97,
