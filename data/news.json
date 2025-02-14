@@ -1,6 +1,214 @@
 {
-  "lastUpdated": "2025-02-14T12:41:10.229Z",
+  "lastUpdated": "2025-02-14T18:28:57.045Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Sara-Lena Brännström",
+      "title": "Ultra-sensitive method finds bacterial spores in food and hospitals",
+      "description": "Researchers at Umeå University have recently developed a highly sensitive method for detecting bacterial spores—tough microorganisms that survive extreme conditions and can cause both food poisoning and infections. This method could help improve food safety a…",
+      "url": "https://phys.org/news/2025-02-ultra-sensitive-method-bacterial-spores.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/ultra-sensitive-method.jpg",
+      "publishedAt": "2025-02-13T16:22:05Z",
+      "content": "Researchers at Umeå University have recently developed a highly sensitive method for detecting bacterial sporestough microorganisms that survive extreme conditions and can cause both food poisoning a… [+3241 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China-linked APTs’ tool employed in RA World Ransomware attack",
+      "description": "A November 2024 RA World ransomware attack on an Asian software firm used a tool linked to China-linked threat actors. Broadcom researchers reported that threat actors behind an RA World ransomware attack against an Asian software and services firm employed a…",
+      "url": "https://securityaffairs.com/174189/apt/ra-world-ransomware-attack-china-apt-possible-link.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+      "publishedAt": "2025-02-13T15:49:13Z",
+      "content": "China-linked APTs' tool employed in RA World Ransomware attack\r\n | Russia-linked APT Seashell Blizzard is behind the long running global access operation BadPilot campaign\r\n | Sarcoma ransomware gang… [+139267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Planetary Society"
+      },
+      "author": null,
+      "title": "How space explorers could grow habitats from fungus",
+      "description": "A NASA-funded project is exploring the possibility of using mycelium — the root-like structure in fungi — to grow habitats on the Moon or Mars.",
+      "url": "https://www.planetary.org/articles/how-space-explorers-could-grow-habitats-from-fungus",
+      "urlToImage": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/redhouse-mars-habitat.jpg?mtime=1739309232",
+      "publishedAt": "2025-02-13T15:30:00Z",
+      "content": "Myceliums potential may go beyond structural materials, too. The Mycotecture Off Planet team says that mycelium could also be used for water filtration, bioluminescent lighting, humidity regulation, … [+4319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lesswrong.com"
+      },
+      "author": "Zvi",
+      "title": "AI #103: Show Me the Money",
+      "description": "Published on February 13, 2025 3:20 PM GMTThe main event this week was the disastrous Paris AI Anti-Safety Summit. Not only did we not build upon the promise of the Bletchley and Seoul Summits, the French and Americans did their best to actively destroy what …",
+      "url": "https://www.lesswrong.com/posts/Lmqi4x5zntjSxfdPg/ai-103-show-me-the-money",
+      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Lmqi4x5zntjSxfdPg/fjntgyehcviswmihwbe7",
+      "publishedAt": "2025-02-13T15:20:07Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "JE Bakery 2019 LLC DBA Broadway Bakery Issues Allergy Alert for Mislabeled Raisin Bran Muffin 6 Count Due to Undeclared Walnuts",
+      "description": "JE Bakery 2019, LLC, Minneapolis MN is voluntarily recalling its Raisin Bran Muffin 6 count due to a labeling error. The affected product was mislabeled and instead contains Glorious Morning Muffins, which contains Walnuts, a known allergen not declared on th…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/je-bakery-2019-llc-dba-broadway-bakery-issues-allergy-alert-mislabeled-raisin-bran-muffin-6-count",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-02-13T15:05:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 13, 2025\r\nFDA Publish Date:\r\nFebruary 14, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nReason for Announcement:\r\nRecall Reason Description\r\nCompany Name:\r… [+1598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ProPublica"
+      },
+      "author": "by Hal Bernton for ProPublica and Nathaniel Herz, Northern Journal",
+      "title": "How a Risky State Investment in Seafood Cost Alaskans Millions and Left a Fishing Town in Crisis",
+      "description": "by Hal Bernton for ProPublica and Nathaniel Herz, Northern Journal \n \n\n \n This article was produced for ProPublica in partnership with Northern Journal and the Anchorage Daily News. Sign up for Dispatches to get stories like this one as soon as they are publi…",
+      "url": "https://www.propublica.org/article/alaska-seafood-company-investment-king-cove",
+      "urlToImage": "https://img.assets-c3.propublica.org/images/articles/240707KingCove02-OG_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssets&q=90&w=1200&s=166822827abe105a8423f13c8abe4a7d",
+      "publishedAt": "2025-02-13T15:00:00Z",
+      "content": "This article was produced for ProPublica in partnership with Northern Journal and the Anchorage Daily News. Sign up for Dispatches to get stories like this one as soon as they are published.\r\n<ul><li… [+31380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Statistics",
+      "title": "Vaccine Packaging Market Size to Skyrocket USD 3.52 by 2034",
+      "description": "The global vaccine packaging market size to hit USD 3.32 billion by 2033, growing from USD 1.94 billion in 2024, expanding at 6.14% CAGR from 2025 to 2034. The global vaccine packaging market size to hit USD 3.32 billion by 2033, growing from USD 1.94 billion…",
+      "url": "https://www.globenewswire.com/news-release/2025/02/13/3026000/0/en/Vaccine-Packaging-Market-Size-to-Skyrocket-USD-3-52-by-2034.html",
+      "urlToImage": null,
+      "publishedAt": "2025-02-13T15:00:00Z",
+      "content": "Ottawa, Feb. 13, 2025 (GLOBE NEWSWIRE) -- The global vaccine packaging market size reached US$ 1.9 billion in 2024 and is projected to hit around US$ 3.52 billion by 2034, expanding at a CAGR of 6.14… [+13048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Ella IDE",
+      "title": "'Terrified' families seek justice in Italy 'forever chemicals' trial",
+      "description": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.",
+      "url": "https://phys.org/news/2025-02-families-justice-italy-chemicals-trial.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/how-could-a-mother-thi.jpg",
+      "publishedAt": "2025-02-13T14:33:17Z",
+      "content": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.\r\nThe no… [+5495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Md Mostafizur Rahman, Md. Khaladur Rahman Shohag, Md. Ridwanul Islam, Md Shamim Hasan, Jinat Ara Nasrin, Mst. Muslima Khatun, Sudip Debnath, Md. Moshiur Rahman, Edris Alam, Khawla Saeed Al Hattawi, Md Kamrul Islam, Abu Reza Md. Towfiqul Islam",
+      "title": "Occupational health safety in aquaculture: A case study on semi-intensive shrimp farmers of Bangladesh",
+      "description": "The study examined health safety issues among semi-intensive shrimp farmers in southwestern Bangladesh. The study assessed semi-intensive shrimp farmers’ knowledge, attitudes, and practices (KAP) on health and safety during their farm activities. The KAP mode…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315075",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315075.g002&size=inline",
+      "publishedAt": "2025-02-13T14:00:00Z",
+      "content": "Citation: Rahman MM, Shohag MKR, Islam MR, Hasan MS, Nasrin JA, Khatun MM, et al. (2025) Occupational health safety in aquaculture: A case study on semi-intensive shrimp farmers of Bangladesh. PLoS O… [+45849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Deepanshu N. D. Singh, Abigail R. E. Roberts, Xiaocui Wang, Guiyi Li, Enrique Quesada Moraga, David Alliband, Elizabeth Ballou, Hung-Ji Tsai, Alicia Hidalgo",
+      "title": "Toll-1-dependent immune evasion induced by fungal infection leads to cell loss in the Drosophila brain",
+      "description": "This study identifies a new step in the evolutionary arms race between host and fungus in the Drosophila brain. The fungus B. bassiana exploits the Toll-1 host response to activate the MyD88 inhibitor Sarm, enabling immune evasion and triggering neurodegenera…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003020",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003020.g008&size=inline",
+      "publishedAt": "2025-02-13T14:00:00Z",
+      "content": "Citation: Singh DND, Roberts ARE, Wang X, Li G, Quesada Moraga E, Alliband D, et al. (2025) Toll-1-dependent immune evasion induced by fungal infection leads to cell loss in the Drosophila brain. PLo… [+79528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Marina Carla Bezerra da Silva, Madison Gail Kindopp, Midhun Sebastian Jose, Oleksii Obshta, Thanuri Lakna Kumari Edirithilake, Emilio Enrique Tellarini Prieto, Muhammad Fahim Raza, Marcelo Polizel Camilli, Jenna Thebeau, Fatima Masood, Ivanna Kozii, Igor Moshynskyy, Elemir Simko, Sarah C. Wood",
+      "title": "From larva to adult: In vitro rearing protocol for honey bee (Apis mellifera) drones",
+      "description": "Development of a successful in vitro rearing protocol has been essential for pesticide safety assessment of immature honey bee workers under laboratory conditions. In contrast, pesticide safety testing of honey bee drones is limited, in part due to the lack o…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314859",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0314859.g004&size=inline",
+      "publishedAt": "2025-02-13T14:00:00Z",
+      "content": "Abstract\r\nDevelopment of a successful in vitro rearing protocol has been essential for pesticide safety assessment of immature honey bee workers under laboratory conditions. In contrast, pesticide sa… [+35519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Rui Miao, Hao-Yang Yu, Bing-Jie Zhong, Hong-Xia Sun, Qiang Xia",
+      "title": "AWGE-ESPCA: An edge sparse PCA model based on adaptive noise elimination regularization and weighted gene network for Hermetia illucens genomic data analysis",
+      "description": "Author summary Hermetia illucens is an insect of high economic value, which is widely used in the field of feed. Existing research suggests that Cu2+-stressed can significantly affects the growth of Hermetia illucens. Therefore, the identification of genetic …",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012773",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012773.g009&size=inline",
+      "publishedAt": "2025-02-13T14:00:00Z",
+      "content": "Abstract\r\nHermetia illucens is an important insect resource. Studies have shown that exploring the effects of Cu2+-stressed on the growth and development of the Hermetia illucens genome holds signifi… [+55750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "Ella IDE",
+      "title": "'Terrified' Families Seek Justice In Italy 'Forever Chemicals' Trial",
+      "description": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.",
+      "url": "https://www.ibtimes.com.au/terrified-families-seek-justice-italy-forever-chemicals-trial-1856141",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1873763/how-could-mother-think-that-she-had-poisoned-her-children-without-knowing-said-giovanna-dal.jpg",
+      "publishedAt": "2025-02-13T13:00:22Z",
+      "content": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.\r\nThe no… [+4742 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Ella IDE",
+      "title": "'Terrified' Families Seek Justice In Italy 'Forever Chemicals' Trial",
+      "description": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.",
+      "url": "https://www.ibtimes.com/terrified-families-seek-justice-italy-forever-chemicals-trial-3763564",
+      "urlToImage": "https://d.ibtimes.com/en/full/4582336/how-could-mother-think-that-she-had-poisoned-her-children-without-knowing-said-giovanna-dal.jpg",
+      "publishedAt": "2025-02-13T13:00:19Z",
+      "content": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.\r\nThe no… [+4742 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nutritionfacts.org"
+      },
+      "author": "Michael Greger M.D. FACLM",
+      "title": "Is Sorghum a Healthy Grain?",
+      "description": "How does sorghum compare with other grains in terms of protein, antioxidants, and micronutrients? And the benefits of red sorghum compared to black and white […]",
+      "url": "https://nutritionfacts.org/blog/is-sorghum-a-healthy-grain/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/02/3-1200x675.jpg",
+      "publishedAt": "2025-02-13T13:00:09Z",
+      "content": "How does sorghum compare with other grains in terms of protein, antioxidants, and micronutrients? And the benefits of red sorghum compared to black and white varieties?\r\nSorghum is the Forgotten Grai… [+6048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "AFP",
+      "title": "‘Terrified’ families seek justice in Italy ‘forever chemicals’ trial",
+      "description": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe’s biggest environmental disaster lawsuits. The now-shuttered Miteni factory near the northeastern city of Vice…",
+      "url": "https://www.digitaljournal.com/world/terrified-families-seek-justice-in-italy-forever-chemicals-trial/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/02/d5ea7504b9091fd7456d81352077a9fbdb641c6c.jpg",
+      "publishedAt": "2025-02-13T12:57:20Z",
+      "content": "'How could a mother think that she had poisoned her children without knowing?' said Giovanna Dal Lago, one of the plaintiffs - Copyright AFP Marco BERTORELLO\r\nManagers of a chemical plant accused of … [+4970 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1040,229 +1248,8 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c53c03a153d855faecd4460175704d10?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
       "publishedAt": "2025-02-10T19:46:08Z",
       "content": "From banana peels and bread crusts to spinach leaves that go slimy at the bottom of the packet, most households waste food.\r\nEach year Australians waste more than seven million tonnes of food across … [+3578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Observer"
-      },
-      "author": "Arick Wierson, Arick Wierson",
-      "title": "Removing ‘Forever Chemicals’ in Water Could Make It a Lot More Expensive",
-      "description": "Recent EPA regulations on PFAS, commonly known as \"forever chemicals,\" seek to tackle a trillion-dollar problem.",
-      "url": "https://observer.com/2025/02/epa-pfas-forever-chemical-water-regulation/",
-      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/02/GettyImages-2154213737.jpg?quality=80",
-      "publishedAt": "2025-02-10T18:55:12Z",
-      "content": "Demonstrators gather at a rally to protest against a national and international use of Per- and poly-fluoroalkyl substances (PFAS), as a precautionary principle, in Oullins on May 26, 2024. JEAN-PHIL… [+13582 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Incrediblethings.com"
-      },
-      "author": "Marc Ikbal",
-      "title": "Why Every Farmer Is Switching to Low Salt Fertilizer—And You Should Too",
-      "description": "As agricultural practices continue to evolve, farmers are always looking for ways to improve yields, protect the environment, and ensure the long-term health of their soil. Traditional farming methods, while effective in the short term, often come with long-t…",
-      "url": "https://incrediblethings.com/home/garden/why-every-farmer-is-switching-to-low-salt-fertilizer-and-you-should-too/",
-      "urlToImage": "https://incrediblethings.com/wp-content/uploads/2020/07/bigstock-Strawberry-Fields-Agriculture-375489292.jpg",
-      "publishedAt": "2025-02-10T18:54:10Z",
-      "content": "As agricultural practices continue to evolve, farmers are always looking for ways to improve yields, protect the environment, and ensure the long-term health of their soil. Traditional farming method… [+3538 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Incrediblethings.com"
-      },
-      "author": "Marc Ikbal",
-      "title": "Why Every Farmer Is Switching to Low Salt Fertilizer—And You Should Too",
-      "description": "As agricultural practices continue to evolve, farmers are always looking for ways to improve yields, protect the environment, and ensure the long-term health of their soil. Traditional farming methods, while effective in the short term, often come with long-t…",
-      "url": "https://incrediblethings.com/living/environmental/why-every-farmer-is-switching-to-low-salt-fertilizer-and-you-should-too/",
-      "urlToImage": "https://incrediblethings.com/wp-content/uploads/2020/07/bigstock-Strawberry-Fields-Agriculture-375489292.jpg",
-      "publishedAt": "2025-02-10T18:54:10Z",
-      "content": "As agricultural practices continue to evolve, farmers are always looking for ways to improve yields, protect the environment, and ensure the long-term health of their soil. Traditional farming method… [+3538 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Joe Edwards",
-      "title": "CVS Products Recalled Nationwide: Full List of Items Impacted",
-      "description": "Multiple recalls for products on CVS Pharmacy shelves were initiated over the past month.",
-      "url": "https://www.newsweek.com/cvs-products-recalled-nationwide-full-list-2028851",
-      "urlToImage": "https://d.newsweek.com/en/full/2585163/cvs.jpg",
-      "publishedAt": "2025-02-10T18:28:35Z",
-      "content": "Multiple recalls for products on CVS Pharmacy shelves were recently initiated due to risk of microbial contamination, choking hazards, and more.\r\nNewsweek has listed the non-prescription products rec… [+2894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox News",
-      "title": "Alfafa sprouts recalled over listeria risk, FDA says",
-      "description": "Jack and the Green Sprouts Inc., of River Falls, Wisconsin, has recalled its 5-ounce packages of alfalfa sprouts that expired on Jan. 29 of this year, saying they have the potential to be contaminated with listeria monocytogenes.",
-      "url": "https://nypost.com/2025/02/10/us-news/alfafa-sprouts-recalled-over-listeria-risk-fda-says/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/fresh-green-organic-alfalfa-sprouts-98281073.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-02-10T17:58:15Z",
-      "content": "Jack and the Green Sprouts Inc., of River Falls, Wisconsin, has recalled its 5-ounce packages of alfalfa sprouts that expired on Jan. 29 of this year, saying they have the potential to be contaminate… [+2168 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Bruce Gil",
-      "title": "The FDA recalled 2 million baked goods over concerns of listeria contamination",
-      "description": "Roughly 2 million baked good products, some of which were sold at Dunkin’ Donuts locations nationwide, have been recalled over concerns of listeria contamination, a bacterium that can cause serious infections.Read more...",
-      "url": "https://qz.com/fda-recall-dunkin-donuts-listeria-1851759495",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/72036118f815bbaf34c45647e2f0cab1.jpg",
-      "publishedAt": "2025-02-10T17:40:00Z",
-      "content": "Roughly 2 million baked good products, some of which were sold at Dunkin Donuts locations nationwide, have been recalled over concerns of listeria contamination, a bacterium that can cause serious in… [+1674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Activistpost.com"
-      },
-      "author": "Editor",
-      "title": "FDA Lab Uncovers Excess DNA Contamination in Covid-19 Vaccines",
-      "description": "An explosive new study conducted within the US Food and Drug Administration’s (FDA) own laboratory has revealed excessively high levels of DNA contamination in Pfizer’s mRNA Covid-19 vaccine. Tests conducted at the FDA’s White Oak Campus in Maryland found tha…",
-      "url": "https://www.activistpost.com/fda-lab-uncovers-excess-dna-contamination-in-covid-19-vaccines/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-10T17:00:00Z",
-      "content": "An explosive new study conducted within the US Food and Drug Administrations (FDA) own laboratory has revealed excessively high levels of DNA contamination in Pfizers mRNA Covid-19 vaccine.\r\nTests co… [+5917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Isothermal Nucleic Acid Amplification Technology Market to Worth Over US$ 17.26 Billion By 2033 | Astute Analytica",
-      "description": "Isothermal nucleic acid amplification technology market advances through rapid diagnostics, innovative integration, and international collaborations, empowering decentralized healthcare with precise testing solutions that redefine infectious disease monitorin…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/10/3023568/0/en/Isothermal-Nucleic-Acid-Amplification-Technology-Market-to-Worth-Over-US-17-26-Billion-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-02-10T15:30:00Z",
-      "content": "New Delhi, Feb. 10, 2025 (GLOBE NEWSWIRE) -- The global isothermal nucleic acid amplification technology market was valued at US$ 6.06 billion in 2024 and is projected to reach US$ 17.26 billion by 2… [+16060 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Vegetable Oils Industry Report 2025: Vegetable Oils Market to Benefit from Biofuel Demand and Rising Health Consciousness - Palm Oil and Soybean Oil Lead Growth",
-      "description": "Dublin, Feb. 10, 2025 (GLOBE NEWSWIRE) -- The \"Vegetable Oils - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering.The global market for Vegetable Oils was sized at 236.5 Million Metric Tons in 2024 and is projected to reach…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/10/3023563/28124/en/Vegetable-Oils-Industry-Report-2025-Vegetable-Oils-Market-to-Benefit-from-Biofuel-Demand-and-Rising-Health-Consciousness-Palm-Oil-and-Soybean-Oil-Lead-Growth.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-02-10T15:13:00Z",
-      "content": "Dublin, Feb. 10, 2025 (GLOBE NEWSWIRE) -- The \"Vegetable Oils - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Vegetable Oils was sized … [+10562 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Statistics",
-      "title": "Digital PCR Market Size Expected to Reach USD 17.45 Bn by 2034",
-      "description": "The global digital PCR market size is calculated at USD 7.82 billion in 2025 and is expected to reach around USD 17.45 billion by 2034, growing at a CAGR of 9.33% for the forecasted period. The global digital PCR market size is calculated at USD 7.82 billion …",
-      "url": "https://www.globenewswire.com/news-release/2025/02/10/3023557/0/en/Digital-PCR-Market-Size-Expected-to-Reach-USD-17-45-Bn-by-2034.html",
-      "urlToImage": null,
-      "publishedAt": "2025-02-10T15:00:00Z",
-      "content": "Ottawa, Feb. 10, 2025 (GLOBE NEWSWIRE) -- The global digital PCR market size was valued at USD 7.15 billion in 2024 and is predicted to hit around USD 15.96 billion by 2033, a study published by Towa… [+14756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Jenn Gidman",
-      "title": "Listeria With Your Doughnuts, Anyone?",
-      "description": "America may run on Dunkin', but it'll have to run somewhere else temporarily for some of the eatery's sweet treats. The doughnut and coffee chain is just one of the parties affected by a recall of about 2 million baked goods nationwide, spurred by fears of po…",
-      "url": "https://www.newser.com/story/364006/listeria-with-your-doughnuts-anyone.html",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1591380-12-20250210084519.jpeg",
-      "publishedAt": "2025-02-10T14:31:00Z",
-      "content": "America may run on Dunkin', but it'll have to run somewhere else temporarily for some of the eatery's sweet treats. The doughnut and coffee chain is just one of the parties affected by a recall of ab… [+1406 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "5 Genius Hacks To Prolong The Shelf Life Of Your Oats",
-      "description": "Struggling to keep your oats fresh and odour-free? These simple hacks will help you make them last longer.",
-      "url": "https://food.ndtv.com/food-drinks/5-genius-hacks-to-prolong-the-shelf-life-of-your-oats-7679414",
-      "urlToImage": "https://c.ndtvimg.com/2025-02/8v39vnv_food_625x300_10_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
-      "publishedAt": "2025-02-10T14:27:31Z",
-      "content": "Oats are a breakfast staple, right? Whether you're making a warm bowl of porridge, blending them into smoothies, or whipping up homemade granola bars, oats add nutrition and texture to your meals. Bu… [+2460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to cook mackerel patties?",
-      "description": "How to Cook Mackerel Patties: A Step-by-Step Guide Mackerel patties are a delicious and nutritious dish that can be prepared […]\nThe post How to cook mackerel patties? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-cook-mackerel-patties/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-10T14:23:57Z",
-      "content": "How to Cook Mackerel Patties: A Step-by-Step Guide\r\nMackerel patties are a delicious and nutritious dish that can be prepared in various ways. They are a great option for those looking for a protein-… [+4605 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "Massive baked goods recall over possible listeria contamination",
-      "description": "CBS News Moneywatch correspondent Kelly O'Grady joins \"CBS Mornings\" to break down a food safety recall in the U.S. impacting pastries sold across the country that are potentially contaminated with listeria.",
-      "url": "https://www.cbsnews.com/video/massive-baked-goods-recall-over-possible-listeria-contamination/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/10/9f703250-b71f-41c4-97ba-7a93fa77d768/thumbnail/1200x630/d9f0d235c328348360cdde776a6ca088/0210-cmo-baked.jpg?v=c6b5070a57014f3b00753bf0e763f9c3",
-      "publishedAt": "2025-02-10T14:22:00Z",
-      "content": "Watch CBS News\r\nCopyright ©2025 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "N2OFF Inc.",
-      "title": "N2OFF and Solterra Unite to Pioneer Solar PV Development in Albania",
-      "description": "This new collaboration was driven by the successful fast tracking of joint projects in Germany and Italy follows the recently signed three-way clean energy cooperation agreement between Italy, Albania, and the United Arab Emirates",
-      "url": "https://www.globenewswire.com/news-release/2025/02/10/3023513/0/en/N2OFF-and-Solterra-Unite-to-Pioneer-Solar-PV-Development-in-Albania.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4bf1fbe7-f5a9-42ab-93e1-6a92a90eb0b4",
-      "publishedAt": "2025-02-10T14:15:00Z",
-      "content": "This new collaboration was driven by the successful fast tracking of joint projects in Germany and Italy follows the recently signed three-way clean energy cooperation agreement between Italy, Albani… [+5883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kffhealthnews.org"
-      },
-      "author": null,
-      "title": "Monday, February 10, 2025",
-      "description": null,
-      "url": "https://kffhealthnews.org/morning-briefing/monday-february-10-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-10T13:42:29Z",
-      "content": "2 Million Baked Goods Recalled Some Sold At Dunkin Over Risk Of Listeria\r\nSeparately, the FDA has linked ready-to-eat mini pastries imported from Canada with a salmonella outbreak that has sickened 1… [+6269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "XE Group shifts from credit card skimming to exploiting zero-days",
-      "description": "The cybercrime group XE Group exploited a VeraCore zero-day to deploy reverse shells, web shells in recent attacks. A recent investigation by researchers from Intezer and Solis Security shed light on the recent operations of the XE Group. Active since at leas…",
-      "url": "https://securityaffairs.com/174045/cyber-crime/xe-group-exploiting-zero-days.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg",
-      "publishedAt": "2025-02-10T12:52:22Z",
-      "content": "XE Group shifts from credit card skimming to exploiting zero-days\r\n | UK Gov demands backdoor to access Apple iCloud backups worldwide\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 32\r\n | Security Af… [+138162 chars]"
     }
   ],
-  "totalResults": 97,
-  "filteredCount": 0
+  "totalResults": 96,
+  "filteredCount": 1
 }
