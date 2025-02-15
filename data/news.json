@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-14T18:28:57.045Z",
+  "lastUpdated": "2025-02-15T01:41:04.208Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Our Reporters",
+      "title": "Expert advocates nutrition, food safety teaching in primary schools",
+      "description": "A Consumer Scientist at Purdue University, Nigeria, Bukade Adesina, has stressed the need for integration of nutrition and food safety education in basic school curricula. He argued that teaching children, from an early age, about balanced diets, and safe foo…",
+      "url": "https://punchng.com/expert-advocates-nutrition-food-safety-teaching-in-primary-schools/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/06/07143902/Food-in-fridge.jpg",
+      "publishedAt": "2025-02-14T01:26:07Z",
+      "content": "A Consumer Scientist at Purdue University, Nigeria, Bukade Adesina, has stressed the need for integration of nutrition and food safety education in basic school curricula.\r\nHe argued that teaching ch… [+2972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Anne Gibson",
+      "title": "Plans notified for quarter-kilometre downtown Auckland tower, lower Hobson St flyover to be demolished",
+      "description": "Lower Hobson St flyover to be demolished: No access from Quay St to Hobson St any more.",
+      "url": "https://www.nzherald.co.nz/business/plans-notified-for-quarter-kilometre-downtown-auckland-tower-lower-hobson-st-flyover-to-be-demolished/ZOUTAA27DFD6TICIUZLXT3XICU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/Y3TFQNPXCVCGBL3CNL5YLRUUM4.jfif?auth=c9ef08623f63e939cd0787b576dbcbd9a24578d2737c7e134f84add16425e18c&width=1200&height=675&quality=70&focal=624%2C430&smart=false",
+      "publishedAt": "2025-02-13T21:59:38Z",
+      "content": "But the application says it is not Precincts call about the Lower Hobson St flyovers demolition to allow it to beautify the area.\r\nAll parties remain committed to the removal of the Lower Hobson St f… [+3837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "Check These Spots in Your Kitchen for Hidden Microplastics. Here's How to Minimize Exposure",
+      "description": "Try these easy swaps in your kitchen to minimize exposure.",
+      "url": "https://www.cnet.com/health/microplastics-in-your-kitchen/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/910a638ce3193e4ebc84691db21ad2c702cae2b7/hub/2024/12/30/6e2ad328-fd01-45c5-9279-7b347b1224b7/gettyimages-1315120793.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-13T20:44:28Z",
+      "content": "Microplastics are in our air, water and food. Perhaps unsurprisingly, they've also been found in human blood, saliva and organs, like the kidneys, the liver and the placenta. And they're in the brain… [+7668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Atlas"
+      },
+      "author": "Ben Coxworth",
+      "title": "Engineered fish and flies could pull mercury pollution out of the environment",
+      "description": "Methylmercury is an extremely toxic compound, and unfortunately it's often present in the fish that we eat. Scientists are now developing a method of removing it from the environment, utilizing engineered fish and flies that take up the compound and neutraliz…",
+      "url": "https://newatlas.com/environment/engineered-zebrafish-fruit-flies-methylmercury/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/2f4923c/2147483647/strip/true/crop/3898x2046+0+276/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F48%2F49%2F18cf3b0f4c36bc35e39ca6cde89a%2Fdepositphotos-40145969-xl.jpeg&na.image_optimisation=0",
+      "publishedAt": "2025-02-13T19:00:40Z",
+      "content": "Methylmercury is an extremely toxic compound, and unfortunately it's often present in the fish that we eat. Scientists are now developing a method of removing it from the environment, utilizing engin… [+3095 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Beaver family helps control flooding in West London",
+      "description": "In this week's issue of our environmental newsletter, we check out the changes that urban beavers have brought to a neighbourhood in West London, map where our food comes from and see what happens when the packaging industry takes over recycling systems.",
+      "url": "https://www.cbc.ca/news/science/what-on-earth-beaver-london-1.7457544",
+      "urlToImage": "https://i.cbc.ca/1.7457561.1739392907!/fileImage/httpImage/image.gif_gen/derivatives/16x9_1180/beaver-dam.gif?im=Resize%3D620",
+      "publishedAt": "2025-02-13T19:00:00Z",
+      "content": "Hello, Earthlings! This is our weekly newsletter on all things environmental, where we highlight trends and solutions that are moving us to a more sustainable world. Keep up with the latest news on o… [+13078 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Skinner",
+      "title": "Texas County Declares Disaster After 'Shocking' Water Contamination Test",
+      "description": "PFAS levels hundreds of times the safe limit established by the federal environment agency were discovered at some well water sites.",
+      "url": "https://www.newsweek.com/texas-county-declares-disaster-shocking-water-contamination-test-pfas-2030681",
+      "urlToImage": "https://d.newsweek.com/en/full/2587835/dangerous-levels-pfas-texas-drinking-water.jpg",
+      "publishedAt": "2025-02-13T18:53:02Z",
+      "content": "Officials in Johnson County, Texas, declared a state of disaster on Tuesday after extensive testing revealed dangerous levels of \"forever chemicals\" in agricultural land, groundwater and animal tissu… [+3312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "The Rise of Cyber Espionage: UAV and C-UAV Technologies as Targets",
+      "description": "Researchers at cybersecurity firm Resecurity detected a rise in cyberattacks targeting UAV and counter-UAV technologies. Resecurity identified an increase in malicious cyber activity targeting UAV and counter-UAV (C-UAV/C-UAS) technologies. That was especiall…",
+      "url": "https://securityaffairs.com/174199/intelligence/the-rise-of-cyber-espionage-uav-and-c-uav-technologies-as-targets.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/cyberespionage-uav.jpg",
+      "publishedAt": "2025-02-13T18:51:32Z",
+      "content": "China-linked APTs' tool employed in RA World Ransomware attack\r\n | Russia-linked APT Seashell Blizzard is behind the long running global access operation BadPilot campaign\r\n | Sarcoma ransomware gang… [+139267 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,86 +1261,8 @@
       "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
       "publishedAt": "2025-02-11T05:13:55Z",
       "content": "How to Defrost Ground Turkey Safely\r\nDefrosting ground turkey is a crucial step in preparing it for cooking. Ground turkey can be frozen for a long time, but it’s essential to defrost it properly to … [+3991 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Scientists assess relevance of second analysis for food testing",
-      "description": "s Experts in Belgium have given reasons why they believe a second analysis is not needed when doing microbiological testing. The Scientific Committee of the Federal Agency for the Safety of the Food Chain (FASFC) proposed an amendment to the draft decree on t…",
-      "url": "https://www.foodsafetynews.com/?p=246885",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/738/050/kW7yv9eBdzp5GdG16NLRwa5Px/fc097546bdbf7acb6bc0e905ac179db2749e6db6.png",
-      "publishedAt": "2025-02-11T05:03:00Z",
-      "content": "s\r\nExperts in Belgium have given reasons why they believe a second analysis is not needed when doing microbiological testing.\r\nThe Scientific Committee of the Federal Agency for the Safety of the Foo… [+3393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "LSW Team",
-      "title": "How to reheat chicken strips?",
-      "description": "How to Reheat Chicken Strips: A Step-by-Step Guide Reheating chicken strips is a simple process that can be done in […]\nThe post How to reheat chicken strips? appeared first on Life Sciences World.",
-      "url": "https://lifesciencesworld.com/how-to-reheat-chicken-strips/",
-      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
-      "publishedAt": "2025-02-11T04:17:41Z",
-      "content": "How to Reheat Chicken Strips: A Step-by-Step Guide\r\nReheating chicken strips is a simple process that can be done in various ways to achieve the perfect texture and flavor. Whether you’re looking for… [+4635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Stephanie Pappas",
-      "title": "Hims & Hers Super Bowl controversy: What the ad left out about its 'alternative' weight-loss drugs",
-      "description": "The telehealth company Hims & Hers put out a Super Bowl ad that skimped on clarifying that its compounded semaglutide medications aren't FDA-approved.",
-      "url": "https://www.livescience.com/health/medicine-drugs/hims-and-hers-super-bowl-controversy-what-the-ad-left-out-about-its-alternative-weight-loss-drugs",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iPx48JSQti3ZpWhnJffxTM-1200-80.jpg",
-      "publishedAt": "2025-02-11T01:07:00Z",
-      "content": "A Super Bowl commercial put out by the telehealth company Hims &amp; Hers is drawing heat from critics who say the company's promotion of its weight-loss drugs misled consumers by leaving out key inf… [+7167 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Apple fixes iPhone and iPad bug exploited in ‘extremely sophisticated attacks’",
-      "description": "Apple released iOS and iPadOS updates to address a zero-day likely exploited in extremely sophisticated attacks targeting specific individuals. Apple released emergency security updates to address a zero-day vulnerability, tracked as CVE-2025-24200, that the …",
-      "url": "https://securityaffairs.com/174066/hacking/apple-fixes-iphone-and-ipad-bug-exploited-in-extremely-sophisticated-attacks.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
-      "publishedAt": "2025-02-10T22:41:22Z",
-      "content": "Apple fixes iPhone and iPad bug exploited in extremely sophisticated attacks\r\n | HPE is notifying individuals affected by a December 2023 attack\r\n | XE Group shifts from credit card skimming to explo… [+138311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "HPE is notifying individuals affected by a December 2023 attack",
-      "description": "Hewlett Packard Enterprise (HPE) has begun notifying individuals affected by a December 2023 attack carried out by Russia-linked threat actors. Hewlett Packard Enterprise has started notifying individuals whose personal information was exposed in a December 2…",
-      "url": "https://securityaffairs.com/174057/data-breach/hpe-notifying-individuals-impacted-by-december-2023-attack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/HPE-logo.png",
-      "publishedAt": "2025-02-10T21:03:09Z",
-      "content": "HPE is notifying individuals affected by a December 2023 attack\r\n | XE Group shifts from credit card skimming to exploiting zero-days\r\n | UK Gov demands backdoor to access Apple iCloud backups worldw… [+138230 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Victoria Ellis",
-      "title": "Indigenous business works to divert tonnes of food waste from tip",
-      "description": "Each year Australians waste more than seven million tonnes of food at a cost of $36.6 billion to the economy. A Darwin enterprise is doing its bit to change that.",
-      "url": "https://www.abc.net.au/news/2025-02-11/darwin-ecomob-turning-food-waste-into-soil-booster/104904292",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c53c03a153d855faecd4460175704d10?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-02-10T19:46:08Z",
-      "content": "From banana peels and bread crusts to spinach leaves that go slimy at the bottom of the packet, most households waste food.\r\nEach year Australians waste more than seven million tonnes of food across … [+3578 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 97,
   "filteredCount": 1
 }
