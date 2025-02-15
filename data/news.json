@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-15T12:37:48.772Z",
+  "lastUpdated": "2025-02-15T18:26:00.053Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "James Bickerton",
+      "title": "Waffle Recall Update as FDA Sets Highest Risk Level",
+      "description": "Eating the recalled waffles could cause \"serious adverse health consequences or death\" for some consumers, according to the FDA.",
+      "url": "https://www.newsweek.com/waffle-recall-update-fda-sets-highest-risk-level-2031324",
+      "urlToImage": "https://d.newsweek.com/en/full/2588722/waffle.jpg",
+      "publishedAt": "2025-02-14T17:04:27Z",
+      "content": "On Thursday, the federal Food and Drug Administration (FDA) gave a Class I danger classification, its highest level, to the recall of 2-pound cartons of Pearl Milling Company Original Pancake &amp; W… [+3006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "ICU Medical Issues Nationwide Recall of Potassium Chloride Injection, 20 mEq and Potassium Chloride Injection, 10 mEq Due to Mislabeling",
+      "description": "ICU Medical, Inc. is voluntarily recalling one lot each of POTASSIUM CHLORIDE Inj. bags with overwrap labels 10mEq, packaged in cases of POTASSIUM CHLORIDE Inj. 20 mEq, to the user level. ICU medical has received a customer complaint which states that bags of…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/icu-medical-issues-nationwide-recall-potassium-chloride-injection-20-meq-and-potassium-chloride",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-02-14T16:58:11Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 13, 2025\r\nFDA Publish Date:\r\nFebruary 14, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nBags of POTASSIUM CHLORIDE In… [+5150 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Martha McHardy",
+      "title": "Candy Recalled in California: What to Know as FDA Sets Risk Level",
+      "description": "According to the FDA, millions of people in the United States have food allergies or food sensitivities.",
+      "url": "https://www.newsweek.com/candy-jelly-stick-recall-california-allergens-2031193",
+      "urlToImage": "https://d.newsweek.com/en/full/2588579/recall.jpg",
+      "publishedAt": "2025-02-14T16:23:22Z",
+      "content": "The Candy Basket Inc. recalled four of its products in California last month due to undeclared allergens, with the U.S. Food and Drug Administration now giving the situation a Class II or Class III c… [+4931 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "JC Torres",
+      "title": "Edible wrappers make these snack bars healthy for humans and the planet",
+      "description": "Edible wrappers make these snack bars healthy for humans and the planetOat bars and protein bars are a great and delicious way to keep your energy up during long exercise routines outdoors. Heck, they can simply...",
+      "url": "https://www.yankodesign.com/2025/02/14/edible-wrappers-make-these-snack-bars-healthy-for-humans-and-the-planet/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/02/edible-wrappers-make-these-snack-bars-healthy-for-humans-and-the-planet/edible-wrapper-snack-bars-05.jpg",
+      "publishedAt": "2025-02-14T14:20:51Z",
+      "content": "Oat bars and protein bars are a great and delicious way to keep your energy up during long exercise routines outdoors. Heck, they can simply be a delicious treat you’d want to take anywhere you feel … [+2514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Lindsay S. Miles, Elizabeth J. Carlen, Zain Nassrullah, Jason Munshi-South, Marc T. J. Johnson",
+      "title": "No detectable effect of urbanization on genetic drift or gene flow in specialist herbivorous insects of milkweed",
+      "description": "Urbanization is hypothesized to isolate populations and restrict dispersal, leading to reduced genetic diversity and increased genetic differentiation. We tested this hypothesis in specialist herbivorous insects of milkweed, positing that higher dispersal abi…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318956",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318956.g004&size=inline",
+      "publishedAt": "2025-02-14T14:00:00Z",
+      "content": "Abstract\r\nUrbanization is hypothesized to isolate populations and restrict dispersal, leading to reduced genetic diversity and increased genetic differentiation. We tested this hypothesis in speciali… [+59326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theskinnyconfidential.com"
+      },
+      "author": "Hilary",
+      "title": "Is Toilet Paper Toxic? Here’s What You Need To Know",
+      "description": "You know by now how important it is to keep your home as free from toxins as you possibly can. …\nThe post Is Toilet Paper Toxic? Here’s What You Need To Know appeared first on The Skinny Confidential.",
+      "url": "https://www.theskinnyconfidential.com/is-toilet-paper-toxic/",
+      "urlToImage": "https://www.theskinnyconfidential.com/wp-content/uploads/2025/02/reel-nontoxic-toilet-paper-e1739187520571.png",
+      "publishedAt": "2025-02-14T13:44:00Z",
+      "content": "You know by now how important it is to keep your home as free from toxins as you possibly can. Because, lets face it toxins are in EVERYTHING these days. Whether youre cleaning, cooking, following yo… [+7419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "C. Michael White, Distinguished Professor of Pharmacy Practice, University of Connecticut",
+      "title": "Parents can soon use QR codes to reveal heavy metal content in baby food",
+      "description": "A quick scan with a smartphone or an online search can identify foods with lower levels of these toxic substances.",
+      "url": "https://theconversation.com/parents-can-soon-use-qr-codes-to-reveal-heavy-metal-content-in-baby-food-247579",
+      "urlToImage": "https://images.theconversation.com/files/648054/original/file-20250210-15-p9vc0h.jpg?ixlib=rb-4.1.0&rect=34%2C11%2C3800%2C1900&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-14T13:41:34Z",
+      "content": "It's impossible to eliminate heavy metals from baby food entirely, but testing can help consumers make informed decisions. Jeff Greenberg via Getty Images\r\nParents across the U.S. should soon be able… [+8285 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,112 +1261,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2017/11/Artificial-Intelligence.jpg",
       "publishedAt": "2025-02-11T14:46:46Z",
       "content": "Artificial intelligence (AI) as an Enabler for Enhanced Data Security\r\n | Crooks use Google Tag Manager skimmer to steal credit card data from a Magento-based e-stores\r\n | Operation Phobos Aetor: Pol… [+138551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "author": "Adrianna Wrona",
-      "title": "Bewley's Café on Grafton Street among 11 enforcement orders served on food businesses last month",
-      "description": "Bewley’s Café on Grafton Street was found among several food businesses served with enforcement orders for food safety breaches in January.",
-      "url": "https://www.independent.ie/irish-news/bewleys-cafe-on-grafton-street-among-11-enforcement-orders-served-on-food-businesses-last-month/a933680863.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/jZ4AwFeJLt8PGJUzsgCOp0LJ888=/629x460/smart/prod-mh-ireland/dd934503-4c8e-4756-a1d4-e8208faa1929/b4573ab1-e182-45b3-b525-5b6157ca5e61/dd934503-4c8e-4756-a1d4-e8208faa1929.jpg",
-      "publishedAt": "2025-02-11T14:36:19Z",
-      "content": "Bewleys Café on Grafton Street was found among several food businesses served with enforcement orders for food safety breaches in January.The Food Safety Authority of Ireland (FSAI) ordered the estab… [+4235 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Strukmyer LLC dba Strukmyer Medical - 692686 - 01/30/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/strukmyer-llc-dba-strukmyer-medical-692686-01302025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-11T14:20:03Z",
-      "content": "Delivery Method:\r\nVia Electronic Mail Return Confirmation Requested\r\nReference #:\r\n320-25-37\r\nProduct:\r\nDrugs \r\nRecipient:\r\nStrukmyer LLC dba Strukmyer Medical \r\n1801 Big Town Blvd. Ste. 100Mesquite,… [+18373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Wuhu Nuowei Chemistry Co., Ltd. - 697727 - 02/04/2025",
-      "description": "CGMP/Active Pharmaceutical Ingredient (API)/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/wuhu-nuowei-chemistry-co-ltd-697727-02042025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-11T14:20:03Z",
-      "content": "Delivery Method:\r\nVia Electronic Mail Return Confirmation Requested\r\nReference #:\r\n320-25-38\r\nProduct:\r\nDrugs \r\nRecipient:\r\nWuhu Nuowei Chemistry Co., Ltd.\r\nChuangxin Road, Economic Development ZoneJ… [+13049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Camille Heylen, Gabrielle String, Doreen Naliyongo, Syed Imran Ali, James Brown, Vincent Ogira, Jean-François Fesselet, James Orbinski, Daniele Lantagne",
-      "title": "Evaluating chlorine taste and odor acceptability to inform drinking water chlorination in humanitarian settings: Lessons from trials in Uganda",
-      "description": "While standard methods for chlorine taste and odor (T&O) detection and rejection thresholds exist, little rigorous research has been conducted on T&O thresholds in humanitarian settings. To fill this gap, we estimated chlorine T&O detection and rejection thre…",
-      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000267",
-      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000267.g003&size=inline",
-      "publishedAt": "2025-02-11T14:00:00Z",
-      "content": "Abstract\r\nWhile standard methods for chlorine taste and odor (T&amp;O) detection and rejection thresholds exist, little rigorous research has been conducted on T&amp;O thresholds in humanitarian sett… [+57611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foodpoisonjournal.com"
-      },
-      "author": "Bill Marler",
-      "title": "4,000 at University of Wisconsin exposed to Hepatitis A by ill food service worker",
-      "description": "According to Alaina Walsh of the Daily Cardinal, the University of Wisconsin-Madison’s University Health Services (UHS) sent out an email to 4,000 students and staff Friday afternoon regarding a potential hepatitis A exposure linked to campus dining facility …",
-      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/4000-at-university-of-wisconsin-exposed-to-hepatitis-a-by-ill-food-service-worker/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/785/124/DqR2v1kNaYMB7wX7z8epZrOWP/fb7d0477407bd190a212ae9d96977e50d736b429.png",
-      "publishedAt": "2025-02-11T13:38:28Z",
-      "content": "According to Alaina Walsh of the Daily Cardinal, the University of Wisconsin-Madisons University Health Services (UHS) sent out an email to 4,000 students and staff Friday afternoon regarding a poten… [+9683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "Diarmuid Pepper",
-      "title": "Bewley’s café warned by FSAI as eight food businesses issued with Closure Orders last month",
-      "description": "The FSAI remarked that ‘food safety is not optional, and food businesses that fail to comply will face enforcement action’.",
-      "url": "https://www.thejournal.ie/bewleys-cafe-among-eight-restaurants-issued-closure-orders-in-january-6619642-Feb2025/",
-      "urlToImage": "https://img2.thejournal.ie/article/6619642/river/?height=400&version=6619753",
-      "publishedAt": "2025-02-11T13:06:57Z",
-      "content": "BEWLEYS CAFÉ ON Dublins Grafton Street was among eight restaurants and food businesses to be issued with Closure Orders last month.\r\nThe Closure Order was issued to Bewleys on 8 January under EU food… [+5547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Granta.com"
-      },
-      "author": "Aea Varfis-van Warmelo",
-      "title": "In Her Room",
-      "description": "‘It would be wrong to say she hasn’t experienced life. Instead, it would be more apt to describe her as someone whom time has slipped by without leaving the slightest trace.’ \n Fiction by Wang Anyi, translated by Michael Berry.\nThe post In Her Room appeared f…",
-      "url": "https://granta.com/in-her-room/",
-      "urlToImage": "https://granta.com/wp-content/uploads/2025/02/Wang-Anyi-1280x339.jpg",
-      "publishedAt": "2025-02-11T13:03:28Z",
-      "content": "Time seems to slip by without leaving even the slightest trace on her body. There is no way of guessing her age, but her thin, supple body, glowing white skin, and clearly defined features all make h… [+61100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Crooks use Google Tag Manager skimmer to steal credit card data from a Magento-based e-stores",
-      "description": "Sucuri researchers observed threat actors leveraging Google Tag Manager (GTM) to install e-skimmer software on Magento-based e-stores. Sucuri researchers found threat actors using Google Tag Manager (GTM) to deploy e-skimmer malware on a Magento eCommerce sit…",
-      "url": "https://securityaffairs.com/174085/cyber-crime/google-tag-manager-gtm-e-skimmer-software-in-magento.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-16.png",
-      "publishedAt": "2025-02-11T12:34:42Z",
-      "content": "Crooks use Google Tag Manager skimmer to steal credit card data from a Magento-based e-stores\r\n | Operation Phobos Aetor: Police dismantled 8Base ransomware gang\r\n | Apple fixes iPhone and iPad bug e… [+138477 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 97,
   "filteredCount": 1
 }
