@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-02-15T06:28:36.812Z",
+  "lastUpdated": "2025-02-15T12:37:48.772Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Experts discovered PostgreSQL flaw chained with BeyondTrust zeroday in targeted attacks",
+      "description": "Threat actors are exploiting a zero-day SQL injection vulnerability in PostgreSQL, according to researchers from cybersecurity firm Rapid7. Rapid7 researchers discovered a high-severity SQL injection flaw, tracked as CVE-2025-1094, in PostgreSQL’s psql tool. …",
+      "url": "https://securityaffairs.com/174218/hacking/postgresql-flaw-chained-with-beyondtrust-zeroday.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/postgresql-logo.png",
+      "publishedAt": "2025-02-14T09:23:12Z",
+      "content": "Experts discovered PostgreSQL flaw chained with BeyondTrust zeroday in targeted attacks\r\n | Valve removed the game PirateFi from the Steam video game platform because contained a malware\r\n | China-li… [+139458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Caroline Bologna",
+      "title": "The Germiest Places At The Grocery Store",
+      "description": "Some of these might surprise you.",
+      "url": "https://www.huffpost.com/entry/germiest-places-grocery-store_l_67aab9e9e4b09fd55bc672de",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67ae0e6f1600002600aff86e.jpeg?cache=kZjQte3sep&ops=1200_630",
+      "publishedAt": "2025-02-14T08:00:03Z",
+      "content": "Some areas and surfaces in the grocery store are more microbe-filled than others. \r\nGrocery shopping is one of the more mundane errands people do. But in times of high infectious disease prevalence (… [+9027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Valve removed the game PirateFi from the Steam video game platform because contained a malware",
+      "description": "Valve removed a game from Steam because it contained malware, the company also warned affected users to reformat their operating systems. Valve removed the game PirateFi from the Steam video game platform because it contained a Windows malicious code to steal…",
+      "url": "https://securityaffairs.com/174205/malware/valve-removed-a-game-from-steam.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-20.png",
+      "publishedAt": "2025-02-14T07:35:54Z",
+      "content": "Valve removed the game PirateFi from the Steam video game platform because contained a malware\r\n | China-linked APTs' tool employed in RA World Ransomware attack\r\n | Russia-linked APT Seashell Blizza… [+139366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Khabarhub.com"
+      },
+      "author": "Sita Neupane",
+      "title": "Govt negligence leaves Babarmahal residents reeling after pipe burst floods homes and businesses",
+      "description": "KATHMANDU: A sudden flood in Babarmahal on Wednesday afternoon left homes, businesses, and government offices submerged, causing millions in damages. But unlike natural disasters that come without warning, this crisis was entirely man-made—a result of governm…",
+      "url": "https://english.khabarhub.com/2025/14/436563/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/02/babarmahal-flood-3-e1739355017107.jpg",
+      "publishedAt": "2025-02-14T07:15:07Z",
+      "content": "KATHMANDU: A sudden flood in Babarmahal on Wednesday afternoon left homes, businesses, and government offices submerged, causing millions in damages. But unlike natural disasters that come without wa… [+6501 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -623,7 +675,7 @@
       "url": "https://www.globenewswire.com/news-release/2025/02/12/3025154/28124/en/Flexible-Packaging-Global-Overview-2021-2030-E-Commerce-Boom-Flexible-Packaging-Solutions-Recyclable-Materials-and-Advanced-Printing-Technologies-Accelerates-Adoption.html",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-02-12T14:52:00Z",
-      "content": "Dublin, Feb. 12, 2025 (GLOBE NEWSWIRE) -- The \"Flexible Packaging - A Global Market Overview\" report has been added to ResearchAndMarkets.com's offering.\r\nFlexible Packaging demand is estimated at US��� [+8828 chars]"
+      "content": "Dublin, Feb. 12, 2025 (GLOBE NEWSWIRE) -- The \"Flexible Packaging - A Global Market Overview\" report has been added to ResearchAndMarkets.com's offering.\r\nFlexible Packaging demand is estimated at US… [+8828 chars]"
     },
     {
       "source": {
@@ -1222,58 +1274,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-16.png",
       "publishedAt": "2025-02-11T12:34:42Z",
       "content": "Crooks use Google Tag Manager skimmer to steal credit card data from a Magento-based e-stores\r\n | Operation Phobos Aetor: Police dismantled 8Base ransomware gang\r\n | Apple fixes iPhone and iPad bug e… [+138477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Global Hygiene Packaging Market to Surpass USD 6.7 Billion by 2035, Driven by Rising Health Awareness, Sustainable Packaging Solutions, and Technological Innovations | FMI",
-      "description": "The USA hygiene packaging market is set to grow at a CAGR of 28.7%, driven by rising health consciousness, post-pandemic safety concerns, and demand for microbial-free packaging. Consumers increasingly prefer secure, tamper-proof, and eco-friendly hygiene sol…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/11/3024066/0/en/Global-Hygiene-Packaging-Market-to-Surpass-USD-6-7-Billion-by-2035-Driven-by-Rising-Health-Awareness-Sustainable-Packaging-Solutions-and-Technological-Innovations-FMI.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-02-11T12:30:00Z",
-      "content": "NEWARK, Del, Feb. 11, 2025 (GLOBE NEWSWIRE) -- The global hygiene packaging market is projected to grow significantly, reaching an estimated USD 6.7 billion by 2035 from USD 4.2 billion in 2025, with… [+13156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Sahit Muja, Forbes Councils Member, \n Sahit Muja, Forbes Councils Member\n https://www.forbes.com/councils/forbesbusinesscouncil/people/sahitmuja/",
-      "title": "How Magnesium And Other Minerals Are Supporting Sustainability Efforts",
-      "description": "As we face significant climate-related challenges, minerals can offer a bridge between ecological restoration and technological innovation.",
-      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2025/02/11/how-magnesium-and-other-minerals-are-supporting-sustainability-efforts/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a9fb0d5ba243bc2b49fb65/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-11T12:00:00Z",
-      "content": "Sahit Muja is Founder &amp; CEO at Albanian Minerals, Cofounder of Green Minerals, Global Mining, Metalplant.\r\ngetty\r\nThe Earth stands at a crossroads. Our planet is facing monumental challenges rela… [+6829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Ilona Baliūnaitė",
-      "title": "Man Tries To Guilt Manager Into Buying Girl Scout Cookies Even Though She Can’t Have Gluten",
-      "description": "This woman refused to give into peer pressure and buy Girl Scout Cookies that she knew she wouldn't eat.\nThe post Man Tries To Guilt Manager Into Buying Girl Scout Cookies Even Though She Can’t Have Gluten first appeared on Bored Panda.",
-      "url": "https://www.boredpanda.com/allergic-manager-refuses-girl-scout-cookies-drama/",
-      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/02/allergic-manager-refuses-girl-scout-cookies-drama-fb.png",
-      "publishedAt": "2025-02-11T09:49:39Z",
-      "content": "Many Americans look forward to Girl Scout Cookie season all year long. And once they finally spot those ambitious, entrepreneurial girls standing outside the grocery store, they’ll happily shell out … [+4732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Tuna Cans Recall From Trader Joe's, Costco and More Over Contamination Risk",
-      "description": "Several canned tuna brands have been pulled from shelves at Trader Joe's, H-E-B, Costco and Walmart over concerns about contamination that could cause a potentially fatal form of food poisoning.\nTri-Union Seafoods voluntarily issued the recall last Friday \"ou…",
-      "url": "https://biztoc.com/x/2f3354e71f9f5d43",
-      "urlToImage": "https://biztoc.com/cdn/2f3354e71f9f5d43_s.webp",
-      "publishedAt": "2025-02-11T09:19:36Z",
-      "content": "Several canned tuna brands have been pulled from shelves at Trader Joe's, H-E-B, Costco and Walmart over concerns about contamination that could cause a potentially fatal form of food poisoning.Tri-U… [+137 chars]"
     }
   ],
   "totalResults": 98,
