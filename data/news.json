@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-02-17T06:30:45.105Z",
+  "lastUpdated": "2025-02-17T12:43:35.316Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 33",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Mobile Indian Cyber Heist: FatBoyPanel And His Massive Data Breach Google Tag Manager Skimmer Steals Credit Card Info From M…",
+      "url": "https://securityaffairs.com/174262/malware/security-affairs-malware-newsletter-round-33.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-02-16T10:01:42Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 33\r\n | Security Affairs newsletter Round 511 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | U.S. CISA adds Apple iOS and iPadOS and Mitel SIP Phones flaws t… [+139873 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -480,7 +493,7 @@
       "url": "https://www.foodsafetynews.com/?p=246954",
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/186/714/0eb715rd3zLBVMKkQBPpEmKay/3164b8d1e7fcf2268fab689c625197933b3c610d.png",
       "publishedAt": "2025-02-14T05:05:00Z",
-      "content": "At least 140 people have fallen sick in Iceland after eating food as part of a traditional feast.\r\nOn Jan. 31 and Feb. 1, Þorrablót, an Icelandic festival, was held in Grímsnes and the town of Þorlák… [+2454 chars]"
+      "content": "At least 140 people have fallen sick in Iceland after eating food as part of a traditional feast.\r\nOn Jan. 31 and Feb. 1, ��orrablót, an Icelandic festival, was held in Grímsnes and the town of Þorlák… [+2454 chars]"
     },
     {
       "source": {
@@ -1209,34 +1222,8 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/cdfb10e57de8823/original/sa0325Adva05.jpg?m=1738790662.836&w=1200",
       "publishedAt": "2025-02-12T11:45:00Z",
       "content": "When Philip Sontag first visited Antarctica as a Ph.D. student, he brought back an unusual souvenir: a huge bag of penguin feathers. And now, after a decade-long analysis, Sontag and his colleagues h… [+3471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Observer"
-      },
-      "author": "Leah Borts-Kuperman",
-      "title": "Sometimes, going rogue is the only way to get things done",
-      "description": "For years, Sébastien Sauvé, a professor of environmental chemistry at the University of Montreal, would go to public places to gather drinking water samples, and test them at his lab for harmful PFAS chemicals. He uncovered widespread contamination that other…",
-      "url": "https://www.nationalobserver.com/2025/02/12/news/pfas-drinking-water-canada",
-      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/02/11/25_reportage_pfas_sebastien_sauve_univ_montreal_canada_15102024_bastien_doudaine_055_hl_0.jpg",
-      "publishedAt": "2025-02-12T09:51:02Z",
-      "content": "For years, Sébastien Sauvé, a professor of environmental chemistry at the University of Montreal, would go to public places, like Tim Hortons, with an empty water bottle in his jacket. Sauvé would ma… [+6743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Allied Market Research INC",
-      "title": "Serum Free and Specialty Media Market to Reach $6.9 billion, Globally, by 2033 at 11.6% CAGR: Allied Market Research",
-      "description": "Wilmington, Delaware , Feb. 12, 2025 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, \"Serum Free and Specialty Media Market by Product (CHO Media, HEK Media, Hybridoma Media, and Others), Application (Biopharmaceutical Production, Tissu…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/12/3024794/0/en/Serum-Free-and-Specialty-Media-Market-to-Reach-6-9-billion-Globally-by-2033-at-11-6-CAGR-Allied-Market-Research.html",
-      "urlToImage": null,
-      "publishedAt": "2025-02-12T09:30:00Z",
-      "content": "Wilmington, Delaware , Feb. 12, 2025 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, \"Serum Free and Specialty Media Market by Product (CHO Media, HEK Media, Hybridoma Media, a… [+10533 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 1
 }
