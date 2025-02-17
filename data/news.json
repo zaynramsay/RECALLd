@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-02-17T12:43:35.316Z",
+  "lastUpdated": "2025-02-17T18:28:44.062Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox Business",
+      "title": "Quaker Oats pancake mix recall upgraded to highest risk level over threat of ‘life-threatening allergic reaction’",
+      "description": "The Quaker Oats Company, a subsidiary of Pepsi Co, previously announced the limited recall of certain boxes of Pearl Milling Company Original Pancake & Waffle Mix on Jan. 14.",
+      "url": "https://nypost.com/2025/02/16/business/quaker-oats-pancake-mix-recall-upgraded-to-highest-risk-level-over-threat-of-death/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/newspress-collage-ic7lu8069-1739725859822.jpg?quality=75&strip=all&1739707958&w=1024",
+      "publishedAt": "2025-02-16T17:21:53Z",
+      "content": "Officials from the Food and Drug Administration (FDA) recently escalated the recall of certain Quaker Oats pancake mixes earlier this week, increasing the recall category to the most serious level.\r\n… [+2623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Bill Marler",
+      "title": "Publisher’s Platform: Bacillus cereus and Leftover Rice: Perhaps best to Avoid",
+      "description": "Food safety is a critical aspect of health, and understanding the risks associated with improper food handling and storage can prevent foodborne illnesses. One microorganism that poses a risk, especially with leftover rice, is Bacillus cereus. This article wi…",
+      "url": "https://www.foodsafetynews.com/2025/02/publishers-platform-bacillus-cereus-and-leftover-rice-perhaps-best-to-avoid/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/355/675/g4ZpR2ONeYJByM5EYEqvo9WBA/7a8ccd528c5a466299ea0d1aafdc95bec9cd292b.png",
+      "publishedAt": "2025-02-16T16:33:59Z",
+      "content": "Food safety is a critical aspect of health, and understanding the risks associated with improper food handling and storage can prevent foodborne illnesses. One microorganism that poses a risk, especi… [+4200 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Scientists racing to discover the depth of ocean damage sparked by the LA wildfires",
+      "description": "LOS ANGELES — On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.",
+      "url": "https://www.nbcnews.com/news/us-news/scientists-racing-discover-depth-ocean-damage-la-wildfires-rcna192387",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250109-California-Wildfire-530p-a4119f.jpg",
+      "publishedAt": "2025-02-16T15:05:54Z",
+      "content": "LOS ANGELES On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt remnants… [+5355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Storm-2372 used the device code phishing technique since August 2024",
+      "description": "Russia-linked group Storm-2372 used the device code phishing technique since Aug 2024 to steal login tokens from governments, NGOs, and industries. Microsoft Threat Intelligence researchers warn that threat actor Storm-2372, likely linked to Russia, has been …",
+      "url": "https://securityaffairs.com/174270/apt/storm-2372-used-device-code-phishing-technique.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-24.png",
+      "publishedAt": "2025-02-16T14:29:43Z",
+      "content": "Storm-2372 used the device code phishing technique since August 2024\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 33\r\n | Security Affairs newsletter Round 511 by Pierluigi Paganini INTERNATIONAL EDI… [+139946 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -493,7 +545,7 @@
       "url": "https://www.foodsafetynews.com/?p=246954",
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/186/714/0eb715rd3zLBVMKkQBPpEmKay/3164b8d1e7fcf2268fab689c625197933b3c610d.png",
       "publishedAt": "2025-02-14T05:05:00Z",
-      "content": "At least 140 people have fallen sick in Iceland after eating food as part of a traditional feast.\r\nOn Jan. 31 and Feb. 1, ��orrablót, an Icelandic festival, was held in Grímsnes and the town of Þorlák… [+2454 chars]"
+      "content": "At least 140 people have fallen sick in Iceland after eating food as part of a traditional feast.\r\nOn Jan. 31 and Feb. 1, Þorrablót, an Icelandic festival, was held in Grímsnes and the town of Þorlák… [+2454 chars]"
     },
     {
       "source": {
@@ -747,13 +799,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Rui Miao, Hao-Yang Yu, Bing-Jie Zhong, Hong-Xia Sun, Qiang Xia",
-      "title": "AWGE-ESPCA: An edge sparse PCA model based on adaptive noise elimination regularization and weighted gene network for Hermetia illucens genomic data analysis",
-      "description": "Author summary Hermetia illucens is an insect of high economic value, which is widely used in the field of feed. Existing research suggests that Cu2+-stressed can significantly affects the growth of Hermetia illucens. Therefore, the identification of genetic …",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012773",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012773.g009&size=inline",
+      "author": "Marina Carla Bezerra da Silva, Madison Gail Kindopp, Midhun Sebastian Jose, Oleksii Obshta, Thanuri Lakna Kumari Edirithilake, Emilio Enrique Tellarini Prieto, Muhammad Fahim Raza, Marcelo Polizel Camilli, Jenna Thebeau, Fatima Masood, Ivanna Kozii, Igor Moshynskyy, Elemir Simko, Sarah C. Wood",
+      "title": "From larva to adult: In vitro rearing protocol for honey bee (Apis mellifera) drones",
+      "description": "Development of a successful in vitro rearing protocol has been essential for pesticide safety assessment of immature honey bee workers under laboratory conditions. In contrast, pesticide safety testing of honey bee drones is limited, in part due to the lack o…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314859",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0314859.g004&size=inline",
       "publishedAt": "2025-02-13T14:00:00Z",
-      "content": "Abstract\r\nHermetia illucens is an important insect resource. Studies have shown that exploring the effects of Cu2+-stressed on the growth and development of the Hermetia illucens genome holds signifi… [+55750 chars]"
+      "content": "Abstract\r\nDevelopment of a successful in vitro rearing protocol has been essential for pesticide safety assessment of immature honey bee workers under laboratory conditions. In contrast, pesticide sa… [+35519 chars]"
     },
     {
       "source": {
@@ -773,13 +825,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Marina Carla Bezerra da Silva, Madison Gail Kindopp, Midhun Sebastian Jose, Oleksii Obshta, Thanuri Lakna Kumari Edirithilake, Emilio Enrique Tellarini Prieto, Muhammad Fahim Raza, Marcelo Polizel Camilli, Jenna Thebeau, Fatima Masood, Ivanna Kozii, Igor Moshynskyy, Elemir Simko, Sarah C. Wood",
-      "title": "From larva to adult: In vitro rearing protocol for honey bee (Apis mellifera) drones",
-      "description": "Development of a successful in vitro rearing protocol has been essential for pesticide safety assessment of immature honey bee workers under laboratory conditions. In contrast, pesticide safety testing of honey bee drones is limited, in part due to the lack o…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314859",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0314859.g004&size=inline",
+      "author": "Rui Miao, Hao-Yang Yu, Bing-Jie Zhong, Hong-Xia Sun, Qiang Xia",
+      "title": "AWGE-ESPCA: An edge sparse PCA model based on adaptive noise elimination regularization and weighted gene network for Hermetia illucens genomic data analysis",
+      "description": "Author summary Hermetia illucens is an insect of high economic value, which is widely used in the field of feed. Existing research suggests that Cu2+-stressed can significantly affects the growth of Hermetia illucens. Therefore, the identification of genetic …",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012773",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012773.g009&size=inline",
       "publishedAt": "2025-02-13T14:00:00Z",
-      "content": "Abstract\r\nDevelopment of a successful in vitro rearing protocol has been essential for pesticide safety assessment of immature honey bee workers under laboratory conditions. In contrast, pesticide sa… [+35519 chars]"
+      "content": "Abstract\r\nHermetia illucens is an important insect resource. Studies have shown that exploring the effects of Cu2+-stressed on the growth and development of the Hermetia illucens genome holds signifi… [+55750 chars]"
     },
     {
       "source": {
@@ -1170,58 +1222,6 @@
       "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/06/1280/720/Oysters.jpg?ve=1&tl=1",
       "publishedAt": "2025-02-12T13:50:29Z",
       "content": "ATLANTA - The U.S. Food and Drug Administration (FDA) has issued a recall for oysters distributed to multiple states, including Georgia, due to possible norovirus contamination.\r\nWhat we know:\r\nResta… [+796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Pharmaceutical Plastic Packaging Market to Reach USD 85.5 Billion by 2035, Driven by Innovation and Regulatory Compliance | Future Market Insights, Inc.",
-      "description": "The rise in online pharmacy sales in the USA is boosting demand for secure pharmaceutical packaging. Consumers now require tamper-proof, regulation-compliant packaging to protect medication integrity during shipping. Companies must ensure safety while adaptin…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/12/3025030/0/en/Pharmaceutical-Plastic-Packaging-Market-to-Reach-USD-85-5-Billion-by-2035-Driven-by-Innovation-and-Regulatory-Compliance-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-02-12T13:30:00Z",
-      "content": "NEWARK, Del, Feb. 12, 2025 (GLOBE NEWSWIRE) -- The global pharmaceutical plastic packaging market is poised for significant growth, with projections estimating a market size of USD 58.5 billion by 20… [+10935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Global Baby Powder Market to Reach USD 1,898.8 Million by 2035, Driven by Growing Demand for Talc-Free and Organic Products | Future Market Insights Inc.",
-      "description": "The USA Baby Powder market is set for continued growth, driven by the shift toward organic and naturally made powders. E-commerce expansion and active participation of major manufacturers further support this trend. Following the CDC's ban on talc-based baby …",
-      "url": "https://www.globenewswire.com/news-release/2025/02/12/3024939/0/en/Global-Baby-Powder-Market-to-Reach-USD-1-898-8-Million-by-2035-Driven-by-Growing-Demand-for-Talc-Free-and-Organic-Products-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-02-12T12:30:00Z",
-      "content": "NEWARK, Del, Feb. 12, 2025 (GLOBE NEWSWIRE) -- The global market for baby powder is poised to rise from USD 1,165.7 million in 2025 to USD 1,898.8 million by 2035, at a CAGR of 5.0% for the period un… [+11305 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "North Korea-linked APT Emerald Sleet is using a new tactic",
-      "description": "Microsoft Threat Intelligence has observed North Korea-linked APT Emerald Sleet using a new tactic, tricking targets into running PowerShell. Microsoft Threat Intelligence researchers spotted North Korea-linked threat actor Emerald Sleet (also known as Kimsuk…",
-      "url": "https://securityaffairs.com/174142/apt/emerald-sleet-is-using-a-new-tactic.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-17.png",
-      "publishedAt": "2025-02-12T11:55:48Z",
-      "content": "North Korea-linked APT Emerald Sleet is using a new tactic\r\n | Microsoft Patch Tuesday security updates for February 2025 ficed 2 actively exploited bugs\r\n | Attackers exploit a new zero-day to hijac… [+138897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Scientific American"
-      },
-      "author": "Gayoung Lee",
-      "title": "Penguins Help to Map Antarctica’s Growing Mercury Threat",
-      "description": "Molted penguin feathers record mercury infiltrating Antarctica’s food web",
-      "url": "https://www.scientificamerican.com/article/penguins-help-to-map-antarcticas-growing-mercury-threat/",
-      "urlToImage": "https://static.scientificamerican.com/dam/m/cdfb10e57de8823/original/sa0325Adva05.jpg?m=1738790662.836&w=1200",
-      "publishedAt": "2025-02-12T11:45:00Z",
-      "content": "When Philip Sontag first visited Antarctica as a Ph.D. student, he brought back an unusual souvenir: a huge bag of penguin feathers. And now, after a decade-long analysis, Sontag and his colleagues h… [+3471 chars]"
     }
   ],
   "totalResults": 94,
