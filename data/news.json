@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-02-16T18:26:44.038Z",
+  "lastUpdated": "2025-02-17T01:45:50.089Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 511 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. CISA adds…",
+      "url": "https://securityaffairs.com/174255/security/security-affairs-newsletter-round-511-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-02-16T01:20:52Z",
+      "content": "Security Affairs newsletter Round 511 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | U.S. CISA adds Apple iOS and iPadOS and Mitel SIP Phones flaws to its Known Exploited Vulnerabilities catalog\r\n |… [+139824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Allthatsinteresting.com"
+      },
+      "author": "Caroline Redmond",
+      "title": "2,500-Year-Old Beer Cups Uncovered At The Cradle Of Human Civilization",
+      "description": "The traces found on these cups represent some of the earliest evidence of beer ever found.\nThe post 2,500-Year-Old Beer Cups Uncovered At The Cradle Of Human Civilization appeared first on All That's Interesting.",
+      "url": "https://allthatsinteresting.com/mesopotamian-beer-cups",
+      "urlToImage": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/08/beer-drinking-cups.jpg",
+      "publishedAt": "2025-02-15T21:00:18Z",
+      "content": "Sirwan Regional ProjectBeer drinking cups being excavated at Khani Masi.\r\nScientists have long known that beer played an important role in ancient Mesopotamia, widely known as the cradle of human civ… [+3925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Brie Stimson",
+      "title": "Public health alert issued for meat and poultry pasties over undeclared allergen",
+      "description": "Meat and poultry pasties made by a Michigan-based restaurant are the subject of an alert due to an egg allergen not written on the packaging.",
+      "url": "https://www.foxbusiness.com/retail/public-health-alert-issued-meat-poultry-pasties-over-undeclared-allergen",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/02/0/0/pasties.jpg?ve=1&tl=1",
+      "publishedAt": "2025-02-15T20:40:00Z",
+      "content": "The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) issued a public health alert this week for frozen meat and poultry pasties due to an undeclared egg allergen, the USDA s… [+2551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lesswrong.com"
+      },
+      "author": "jenn",
+      "title": "Microplastics: Much Less Than You Wanted To Know",
+      "description": "Published on February 15, 2025 7:08 PM GMTMicroplastics have been in the news and the local rationalist discord with increasing frequency over the past few months. Of note are Nat Friedman's PlasticList, and this 2024 preprint demonstrating that some human br…",
+      "url": "https://www.lesswrong.com/posts/GjbXGybzszw8eN3oB/microplastics-much-less-than-you-wanted-to-know",
+      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+      "publishedAt": "2025-02-15T19:08:13Z",
+      "content": "Microplastics have been in the news and the local rationalist discord with increasing frequency over the past few months. Of note are Nat Friedman's PlasticList, and this 2024 preprint demonstrating … [+26146 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -643,6 +695,19 @@
         "id": null,
         "name": "Plos.org"
       },
+      "author": "Rui Miao, Hao-Yang Yu, Bing-Jie Zhong, Hong-Xia Sun, Qiang Xia",
+      "title": "AWGE-ESPCA: An edge sparse PCA model based on adaptive noise elimination regularization and weighted gene network for Hermetia illucens genomic data analysis",
+      "description": "Author summary Hermetia illucens is an insect of high economic value, which is widely used in the field of feed. Existing research suggests that Cu2+-stressed can significantly affects the growth of Hermetia illucens. Therefore, the identification of genetic …",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012773",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012773.g009&size=inline",
+      "publishedAt": "2025-02-13T14:00:00Z",
+      "content": "Abstract\r\nHermetia illucens is an important insect resource. Studies have shown that exploring the effects of Cu2+-stressed on the growth and development of the Hermetia illucens genome holds signifi… [+55750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
       "author": "Deepanshu N. D. Singh, Abigail R. E. Roberts, Xiaocui Wang, Guiyi Li, Enrique Quesada Moraga, David Alliband, Elizabeth Ballou, Hung-Ji Tsai, Alicia Hidalgo",
       "title": "Toll-1-dependent immune evasion induced by fungal infection leads to cell loss in the Drosophila brain",
       "description": "This study identifies a new step in the evolutionary arms race between host and fungus in the Drosophila brain. The fungus B. bassiana exploits the Toll-1 host response to activate the MyD88 inhibitor Sarm, enabling immune evasion and triggering neurodegenera…",
@@ -667,19 +732,6 @@
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Rui Miao, Hao-Yang Yu, Bing-Jie Zhong, Hong-Xia Sun, Qiang Xia",
-      "title": "AWGE-ESPCA: An edge sparse PCA model based on adaptive noise elimination regularization and weighted gene network for Hermetia illucens genomic data analysis",
-      "description": "Author summary Hermetia illucens is an insect of high economic value, which is widely used in the field of feed. Existing research suggests that Cu2+-stressed can significantly affects the growth of Hermetia illucens. Therefore, the identification of genetic …",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012773",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012773.g009&size=inline",
-      "publishedAt": "2025-02-13T14:00:00Z",
-      "content": "Abstract\r\nHermetia illucens is an important insect resource. Studies have shown that exploring the effects of Cu2+-stressed on the growth and development of the Hermetia illucens genome holds signifi… [+55750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Ibtimes.com.au"
       },
       "author": "Ella IDE",
@@ -688,7 +740,7 @@
       "url": "https://www.ibtimes.com.au/terrified-families-seek-justice-italy-forever-chemicals-trial-1856141",
       "urlToImage": "https://d.ibtimes.com.au/en/full/1873763/how-could-mother-think-that-she-had-poisoned-her-children-without-knowing-said-giovanna-dal.jpg",
       "publishedAt": "2025-02-13T13:00:22Z",
-      "content": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.\r\nThe no��� [+4742 chars]"
+      "content": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.\r\nThe no… [+4742 chars]"
     },
     {
       "source": {
@@ -1196,58 +1248,6 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/843/590/APW1bDp49YKkOEE0YjmVoORax/f639ce20d054034f6fec3c8b5a1f097bf5e0334a.png",
       "publishedAt": "2025-02-12T05:05:00Z",
       "content": "Two Republican representatives have introduced a bill that would prevent the U.S. Department of Agriculture from pursuing a rule to reduce Salmonella in raw poultry products.\r\nThe U.S. Reps. are Stev… [+2159 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Control plan reveals poultry meat contamination rate in France",
-      "description": "Results of a French surveillance operation have been published, revealing the rate of contamination in fresh poultry meat at retail. In France, Salmonella and Campylobacter are the two main bacterial agents responsible for foodborne infections, and Clostridio…",
-      "url": "https://www.foodsafetynews.com/?p=246918",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/843/370/VA54EW2ZqQrqZdJg6egGPNXJl/6fc29130db82534bdfb86811196b504fc182bbce.png",
-      "publishedAt": "2025-02-12T05:03:00Z",
-      "content": "Results of a French surveillance operation have been published, revealing the rate of contamination in fresh poultry meat at retail.\r\nIn France, Salmonella and Campylobacter are the two main bacteria… [+2707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "zerohedge.com",
-      "title": "FDA Lab Uncovers Excess DNA Contamination In COVID-19 Vaccines",
-      "description": "FDA Lab Uncovers Excess DNA Contamination In COVID-19 Vaccines\n \nAuthored by Maryanne Demasi via The Brownstone Institute,\nAn explosive new study conducted within the US Food and Drug Administration’s (FDA) own laboratory has revealed excessively high levels …",
-      "url": "https://biztoc.com/x/74a05788cfff4919",
-      "urlToImage": "https://biztoc.com/cdn/74a05788cfff4919_s.webp",
-      "publishedAt": "2025-02-12T04:27:13Z",
-      "content": "FDA Lab Uncovers Excess DNA Contamination In COVID-19 Vaccines\r\nAuthored by Maryanne Demasi via The Brownstone Institute,An explosive new study conducted within the US Food and Drug Administrations (… [+139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Micro-nano plastics make other pollutants more dangerous to plants and intestinal cells",
-      "description": "Researchers find that tiny plastic particles increase the absorption of environmental arsenic and pesticides in lettuce and human intestinal cells, raising new safety concerns about plastic pollution.",
-      "url": "https://www.sciencedaily.com/releases/2025/02/250211190242.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-02-12T00:02:42Z",
-      "content": "Micro- and nanoscale plastic particles in soil and water can significantly increase how much toxic chemicals plants and human intestinal cells absorb, according to two new studies from Rutgers Health… [+4355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "none",
-      "title": "Earl Grey Teas Tested for PFAS 'Forever Chemicals' — Guide",
-      "description": "Originally published on Mamavation: December 17, 2024\n\nWhich Earl Grey teas do not have PFAS \"forever chemicals\" present inside the tea leaves? This is the question we attempted to answer when we sent the most popular Earl Grey brands inside our community to …",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/12/earl-grey-tea-pfas.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/earl-grey-tea-pfas-fb.jpg",
-      "publishedAt": "2025-02-12T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
   "totalResults": 96,
