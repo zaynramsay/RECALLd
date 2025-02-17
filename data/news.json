@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-17T01:45:50.089Z",
+  "lastUpdated": "2025-02-17T06:30:45.105Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "Scientists race to discover depth of ocean damage sparked by LA wildfires",
+      "description": "Tracy Quinn, president of Heal the Bay, assessed the damage from the Palisades Fire, noting hazardous ash and debris contaminating the Pacific Ocean. Researchers are studying the impact on marine life, with concerns about toxic substances like lead and asbest…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/scientists-race-to-discover-depth-of-ocean-damage-sparked-by-la-wildfires/articleshow/118296641.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118296678,width-1200,height-630,imgsize-134024,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-16T06:08:44Z",
+      "content": "On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire. The water line was darkened by ash. Burnt remnants of washing m… [+5389 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "DORANY PINEDA Associated Press",
+      "title": "Scientists are racing to discover the depth of ocean damage sparked by LA wildfires",
+      "description": "As crews work to remove potentially hundreds of thousands of tons of hazardous materials from the Los Angeles wildfires, researchers and officials are trying to understand how the fires on land have impacted the sea",
+      "url": "https://abcnews.go.com/US/wireStory/scientists-racing-discover-depth-ocean-damage-sparked-la-118870759",
+      "urlToImage": "https://i.abcnewsfe.com/a/70cea849-2478-452a-8335-8b1df137d9b1/wirestory_aff1102887e86b6e524a7ec2b027b564_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-16T06:02:03Z",
+      "content": "LOS ANGELES -- On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire. \r\nThe water line was darkened by ash. Burnt remn… [+5596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "DORANY PINEDA",
+      "title": "Scientists are racing to discover the depth of ocean damage sparked by the LA wildfires",
+      "description": "On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.  The water line was...",
+      "url": "https://www.yahoo.com/news/scientists-racing-discover-depth-ocean-054311468.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.xFz3GVGqER7seaTt7uJfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/13eb8ef9661c6543b1e66e223446a3ab",
+      "publishedAt": "2025-02-16T05:43:11Z",
+      "content": "LOS ANGELES (AP) On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt rem… [+5737 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,60 +1235,8 @@
       "urlToImage": null,
       "publishedAt": "2025-02-12T09:30:00Z",
       "content": "Wilmington, Delaware , Feb. 12, 2025 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, \"Serum Free and Specialty Media Market by Product (CHO Media, HEK Media, Hybridoma Media, a… [+10533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Microsoft Windows, Zyxel device flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Windows, Zyxel device flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exp…",
-      "url": "https://securityaffairs.com/174135/security/u-s-cisa-adds-microsoft-windows-zyxel-device-flaws-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-12T08:01:34Z",
-      "content": "Microsoft Patch Tuesday security updates for February 2025 ficed 2 actively exploited bugs\r\n | Attackers exploit a new zero-day to hijack Fortinet firewalls\r\n | OpenSSL patched high-severity flaw CVE… [+138834 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Microsoft Patch Tuesday security updates for February 2025 ficed 2 actively exploited bugs",
-      "description": "Microsoft Patch Tuesday security updates for February 2025 addressed four zero-day flaws, two of which are actively exploited in the wild. Microsoft Patch Tuesday security updates for February 2025 addressed 57 vulnerabilities in Windows and Windows Component…",
-      "url": "https://securityaffairs.com/174126/hacking/microsoft-patch-tuesday-security-updates-february-2025.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/12/Microsoft-Patch-Tuesday-Exchange-server.png",
-      "publishedAt": "2025-02-12T07:27:22Z",
-      "content": "Microsoft Patch Tuesday security updates for February 2025 ficed 2 actively exploited bugs\r\n | Attackers exploit a new zero-day to hijack Fortinet firewalls\r\n | OpenSSL patched high-severity flaw CVE… [+138834 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "International Business Times"
-      },
-      "author": "Sana Khan",
-      "title": "Botulism Risk Prompts Recall Of Canned Tuna At Costco, Walmart, Trader Joe's: Full List Of Affected Products",
-      "description": "The manufacturer issued the recall due to a defect on the cans' \"easy open\" pull lid that could result in leakage or Clostridium botulinum contamination.",
-      "url": "https://www.ibtimes.com/botulism-risk-prompts-recall-canned-tuna-costco-walmart-trader-joes-full-list-affected-3763351",
-      "urlToImage": "https://d.ibtimes.com/en/full/4582032/person-holding-can-tuna-representational-image.jpg",
-      "publishedAt": "2025-02-12T06:45:13Z",
-      "content": "A voluntary recall has been initiated for certain canned tuna products available nationwide at stores like Trader Joe's, Walmart, Costco, and others, due to faulty packaging that could pose a serious… [+3139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Coral Beach",
-      "title": "Republicans want to prevent USDA from implementing rule to control Salmonella",
-      "description": "Two Republican representatives have introduced a bill that would prevent the U.S. Department of Agriculture from pursuing a rule to reduce Salmonella in raw poultry products. The U.S. Reps. are Steven Womack, R-AR, and Tracey Mann, R-KS. Their bill seeks to p…",
-      "url": "https://www.foodsafetynews.com/2025/02/republicans-want-to-prevent-usda-from-implementing-rule-to-control-salmonella/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/080/843/590/APW1bDp49YKkOEE0YjmVoORax/f639ce20d054034f6fec3c8b5a1f097bf5e0334a.png",
-      "publishedAt": "2025-02-12T05:05:00Z",
-      "content": "Two Republican representatives have introduced a bill that would prevent the U.S. Department of Agriculture from pursuing a rule to reduce Salmonella in raw poultry products.\r\nThe U.S. Reps. are Stev… [+2159 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 95,
   "filteredCount": 1
 }
