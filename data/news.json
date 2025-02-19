@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-19T06:30:14.794Z",
+  "lastUpdated": "2025-02-19T12:40:13.334Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Xerox VersaLink C7025 Multifunction printer flaws may expose Windows Active Directory credentials to attackers",
+      "description": "Xerox VersaLink C7025 Multifunction printer flaws could allow attackers to capture authentication credentials via pass-back attacks via LDAP and SMB/FTP services. Rapid7 researchers discovered vulnerabilities in Xerox Versalink C7025 Multifunction printers (M…",
+      "url": "https://securityaffairs.com/174342/hacking/xerox-versalink-c7025-multifunction-printer-flaws.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-31.png",
+      "publishedAt": "2025-02-18T08:49:39Z",
+      "content": "Xerox VersaLink C7025 Multifunction printer flaws may expose Windows Active Directory credentials to attackers\r\n | New XCSSET macOS malware variant used in limited attacks\r\n | New Golang-based backdo… [+140356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New XCSSET macOS malware variant used in limited attacks",
+      "description": "Microsoft discovered a new variant of the Apple macOS malware XCSSET that was employed in limited attacks in the wild. Microsoft Threat Intelligence discovered a new variant of the macOS malware XCSSET in attacks in the wild. XCSSET is a sophisticated modular…",
+      "url": "https://securityaffairs.com/174333/malware/apple-macos-malware-xcsset-limited-attacks.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
+      "publishedAt": "2025-02-18T07:30:21Z",
+      "content": "New XCSSET macOS malware variant used in limited attacks\r\n | New Golang-based backdoor relies on Telegram for C2 communication\r\n | Pro-Russia collective NoName057(16) launched a new wave of DDoS atta… [+140241 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Pamela Vachon",
+      "title": "I Gave My Microwave a Steam Bath, and It Worked Better Than Any Cleaner",
+      "description": "Skip the harsh chemicals and expensive cleaners. This simple steam cleaning method will have your microwave sparkling in under two minutes.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/i-gave-my-microwave-a-steam-bath-and-it-worked-better-than-any-cleaner/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c7a3acdd3cc1db5d0425c2439a070be93c3902b8/hub/2020/04/02/b4631e8a-58f6-453b-beb5-aba26714b227/empty-microwave-don-nichols.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-18T07:26:00Z",
+      "content": "A microwave can be a saving grace in the kitchen. From heating up leftovers to defrosting frozen foods to making quick meals, there's just about nothing it can't do, making our lives easier so often.… [+6658 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -13,6 +52,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/Nuclear-Bomb-Atomic-Mushroom-Apocalypse-War-Weapon.jpg",
       "publishedAt": "2025-02-18T06:00:00Z",
       "content": "<ul><li>A new map based on FEMA data reveals that a large-scale nuclear attack on the U.S. could potentially kill up to 75% of the country's population, affecting major cities and infrastructure.</li… [+5433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Zoey Sky",
+      "title": "Here’s why you should choose only lab-verified cocoa products",
+      "description": "Recent research has found that some chocolate products, particularly dark chocolates with high cocoa content, contain harmful levels of toxic heavy metals like cadmium and lead. Long-term exposure to these metals can lead to severe health issues. Children are…",
+      "url": "https://www.naturalnews.com/2025-02-18-why-consume-only-lab-verified-cocoa-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/Cocoa-Powder-Chocolate.jpg",
+      "publishedAt": "2025-02-18T06:00:00Z",
+      "content": "<ul><li>Recent research has found that some chocolate products, particularly dark chocolates with high cocoa content, contain harmful levels of toxic heavy metals like cadmium and lead.</li><li>Long-… [+8035 chars]"
     },
     {
       "source": {
@@ -1157,73 +1209,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
       "publishedAt": "2025-02-13T15:49:13Z",
       "content": "China-linked APTs' tool employed in RA World Ransomware attack\r\n | Russia-linked APT Seashell Blizzard is behind the long running global access operation BadPilot campaign\r\n | Sarcoma ransomware gang… [+139267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Planetary Society"
-      },
-      "author": null,
-      "title": "How space explorers could grow habitats from fungus",
-      "description": "A NASA-funded project is exploring the possibility of using mycelium — the root-like structure in fungi — to grow habitats on the Moon or Mars.",
-      "url": "https://www.planetary.org/articles/how-space-explorers-could-grow-habitats-from-fungus",
-      "urlToImage": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/redhouse-mars-habitat.jpg?mtime=1739309232",
-      "publishedAt": "2025-02-13T15:30:00Z",
-      "content": "Myceliums potential may go beyond structural materials, too. The Mycotecture Off Planet team says that mycelium could also be used for water filtration, bioluminescent lighting, humidity regulation, … [+4319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lesswrong.com"
-      },
-      "author": "Zvi",
-      "title": "AI #103: Show Me the Money",
-      "description": "Published on February 13, 2025 3:20 PM GMTThe main event this week was the disastrous Paris AI Anti-Safety Summit. Not only did we not build upon the promise of the Bletchley and Seoul Summits, the French and Americans did their best to actively destroy what …",
-      "url": "https://www.lesswrong.com/posts/Lmqi4x5zntjSxfdPg/ai-103-show-me-the-money",
-      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Lmqi4x5zntjSxfdPg/fjntgyehcviswmihwbe7",
-      "publishedAt": "2025-02-13T15:20:07Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "JE Bakery 2019 LLC DBA Broadway Bakery Issues Allergy Alert for Mislabeled Raisin Bran Muffin 6 Count Due to Undeclared Walnuts",
-      "description": "JE Bakery 2019, LLC, Minneapolis MN is voluntarily recalling its Raisin Bran Muffin 6 count due to a labeling error. The affected product was mislabeled and instead contains Glorious Morning Muffins, which contains Walnuts, a known allergen not declared on th…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/je-bakery-2019-llc-dba-broadway-bakery-issues-allergy-alert-mislabeled-raisin-bran-muffin-6-count",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-13T15:05:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 13, 2025\r\nFDA Publish Date:\r\nFebruary 14, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nReason for Announcement:\r\nRecall Reason Description\r\nCompany Name:\r… [+1598 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ProPublica"
-      },
-      "author": "by Hal Bernton for ProPublica and Nathaniel Herz, Northern Journal",
-      "title": "How a Risky State Investment in Seafood Cost Alaskans Millions and Left a Fishing Town in Crisis",
-      "description": "by Hal Bernton for ProPublica and Nathaniel Herz, Northern Journal \n \n\n \n This article was produced for ProPublica in partnership with Northern Journal and the Anchorage Daily News. Sign up for Dispatches to get stories like this one as soon as they are publi…",
-      "url": "https://www.propublica.org/article/alaska-seafood-company-investment-king-cove",
-      "urlToImage": "https://img.assets-c3.propublica.org/images/articles/240707KingCove02-OG_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssets&q=90&w=1200&s=166822827abe105a8423f13c8abe4a7d",
-      "publishedAt": "2025-02-13T15:00:00Z",
-      "content": "This article was produced for ProPublica in partnership with Northern Journal and the Anchorage Daily News. Sign up for Dispatches to get stories like this one as soon as they are published.\r\n<ul><li… [+31380 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Statistics",
-      "title": "Vaccine Packaging Market Size to Skyrocket USD 3.52 by 2034",
-      "description": "The global vaccine packaging market size to hit USD 3.32 billion by 2033, growing from USD 1.94 billion in 2024, expanding at 6.14% CAGR from 2025 to 2034. The global vaccine packaging market size to hit USD 3.32 billion by 2033, growing from USD 1.94 billion…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/13/3026000/0/en/Vaccine-Packaging-Market-Size-to-Skyrocket-USD-3-52-by-2034.html",
-      "urlToImage": null,
-      "publishedAt": "2025-02-13T15:00:00Z",
-      "content": "Ottawa, Feb. 13, 2025 (GLOBE NEWSWIRE) -- The global vaccine packaging market size reached US$ 1.9 billion in 2024 and is projected to hit around US$ 3.52 billion by 2034, expanding at a CAGR of 6.14… [+13048 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 93,
   "filteredCount": 0
 }
