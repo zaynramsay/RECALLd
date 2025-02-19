@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-18T18:30:13.402Z",
+  "lastUpdated": "2025-02-19T01:42:55.612Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Misdiagnosed UTIs Fuel Antibiotic Overuse Epidemic",
+      "description": "Urinary tract infections (UTIs) are one of the most common infections diagnosed in outpatient settings, affecting millions of women each year. A UTI occurs when bacteria enter the urinary system, leading to symptoms such as a frequent need to urinate, burning…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/18/antibiotics-overprescription-utis.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/antibiotics-overprescription-utis-fb.jpg",
+      "publishedAt": "2025-02-18T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bangkok Post"
+      },
+      "author": "Apinya Wipatayotin",
+      "title": "New durian checks to keep China happy",
+      "description": "<p>The Ministry of Agriculture and Cooperatives is confident that Thai durians will remain China's top choice after tightening its food safety and contamination screening processes.</p>",
+      "url": "https://www.bangkokpost.com/thailand/general/2963116/new-durian-checks-to-keep-china-happy",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20250218/c1_2963116_250218051147_700.jpg",
+      "publishedAt": "2025-02-17T23:10:00Z",
+      "content": "The Ministry of Agriculture and Cooperatives is confident that Thai durians will remain China's top choice after tightening its food safety and contamination screening processes.\r\nMinister Narumon Pi… [+2169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Dutch Police shut down bulletproof hosting provider Zservers and seized 127 servers",
+      "description": "Dutch police seized 127 servers of the bulletproof hosting service Zservers/XHost after government sanctions. On February 11, 2025, the US, UK, and Australia sanctioned a Russian bulletproof hosting services provider and two Russian administrators because the…",
+      "url": "https://securityaffairs.com/174321/hacking/dutch-police-seized-127-servers-bulletproof-hosting-service-zservers-xhost.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-29.png",
+      "publishedAt": "2025-02-17T20:55:38Z",
+      "content": "New Golang-based backdoor relies on Telegram for C2 communication\r\n | Pro-Russia collective NoName057(16) launched a new wave of DDoS attacks on Italian sites\r\n | whoAMI attack could allow remote cod… [+140180 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": "United Nations",
+      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "description": "n Sudan, the total number of newly displaced people in Shamal Jabal Marrah, in Central Darfur State, reached over 120,000, after hostilities over the past week in Zamzam in North Darfur state caused about 5,500 people to seek safety and shelter there, the Int…",
+      "url": "https://press.un.org/en/2025/db250217.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-02-17T20:34:47Z",
+      "content": "The following is a near-verbatim transcriptof todays briefing by Stéphane Dujarric, Spokesman for the Secretary-General.\r\n**Noon Briefing Guest\r\nAlright, good afternoon.  Tomorrow, we will have a gue… [+21646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New Golang-based backdoor relies on Telegram for C2 communication",
+      "description": "Netskope Threat Labs researchers discovered a Golang-based backdoor using Telegram for C2 communication, possibly of Russian origin. Netskope Threat Labs found a Golang-based backdoor using Telegram for C2. The malware, still in development but functional, ex…",
+      "url": "https://securityaffairs.com/174306/malware/golang-based-backdoor-uses-telegram-for-c2.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-28.png",
+      "publishedAt": "2025-02-17T18:41:06Z",
+      "content": "New Golang-based backdoor relies on Telegram for C2 communication\r\n | Pro-Russia collective NoName057(16) launched a new wave of DDoS attacks on Italian sites\r\n | whoAMI attack could allow remote cod… [+140180 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -472,6 +537,19 @@
     {
       "source": {
         "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "BD Announces Voluntary Worldwide Recall for One Lot of ChloraPrep™ Clear 1 mL Applicators Due to Fungal Contamination",
+      "description": "BD (Becton, Dickinson and Company) today announced the voluntary recall of one lot of ChloraPrep™ Clear 1 mL Applicators due to fungal contamination under certain environmental conditions allowing the growth of Aspergillus penicillioides",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bd-announces-voluntary-worldwide-recall-one-lot-chlorapreptm-clear-1-ml-applicators-due-fungal",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-02-15T18:15:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 31, 2025\r\nFDA Publish Date:\r\nFebruary 18, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential for fungal contamina… [+5313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Securityaffairs.com"
       },
       "author": "Pierluigi Paganini",
@@ -610,7 +688,7 @@
       "url": "https://www.foodsafetynews.com/2025/02/publishers-platform-give-hepatitis-a-vaccines-to-food-service-workers/",
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/265/957/0Mn5r3E1XY0kLdoPQWPoD9kg7/3e399d219297aafc80fcadcb324eb1188cca6c7c.png",
       "publishedAt": "2025-02-15T05:05:00Z",
-      "content": "— OPINION —\r\nHere we go again.\r\nFrom the New York Health Department:\r\nAnyone Who Ate Food From ilili Restaurant During January 31 – February 9, 2025 Should Get Hepatitis A Vaccine as a Precautionary … [+10376 chars]"
+      "content": "�� OPINION —\r\nHere we go again.\r\nFrom the New York Health Department:\r\nAnyone Who Ate Food From ilili Restaurant During January 31 – February 9, 2025 Should Get Hepatitis A Vaccine as a Precautionary … [+10376 chars]"
     },
     {
       "source": {
@@ -1131,84 +1209,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315075.g002&size=inline",
       "publishedAt": "2025-02-13T14:00:00Z",
       "content": "Citation: Rahman MM, Shohag MKR, Islam MR, Hasan MS, Nasrin JA, Khatun MM, et al. (2025) Occupational health safety in aquaculture: A case study on semi-intensive shrimp farmers of Bangladesh. PLoS O… [+45849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Marina Carla Bezerra da Silva, Madison Gail Kindopp, Midhun Sebastian Jose, Oleksii Obshta, Thanuri Lakna Kumari Edirithilake, Emilio Enrique Tellarini Prieto, Muhammad Fahim Raza, Marcelo Polizel Camilli, Jenna Thebeau, Fatima Masood, Ivanna Kozii, Igor Moshynskyy, Elemir Simko, Sarah C. Wood",
-      "title": "From larva to adult: In vitro rearing protocol for honey bee (Apis mellifera) drones",
-      "description": "Development of a successful in vitro rearing protocol has been essential for pesticide safety assessment of immature honey bee workers under laboratory conditions. In contrast, pesticide safety testing of honey bee drones is limited, in part due to the lack o…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314859",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0314859.g004&size=inline",
-      "publishedAt": "2025-02-13T14:00:00Z",
-      "content": "Abstract\r\nDevelopment of a successful in vitro rearing protocol has been essential for pesticide safety assessment of immature honey bee workers under laboratory conditions. In contrast, pesticide sa… [+35519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Deepanshu N. D. Singh, Abigail R. E. Roberts, Xiaocui Wang, Guiyi Li, Enrique Quesada Moraga, David Alliband, Elizabeth Ballou, Hung-Ji Tsai, Alicia Hidalgo",
-      "title": "Toll-1-dependent immune evasion induced by fungal infection leads to cell loss in the Drosophila brain",
-      "description": "This study identifies a new step in the evolutionary arms race between host and fungus in the Drosophila brain. The fungus B. bassiana exploits the Toll-1 host response to activate the MyD88 inhibitor Sarm, enabling immune evasion and triggering neurodegenera…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003020",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003020.g008&size=inline",
-      "publishedAt": "2025-02-13T14:00:00Z",
-      "content": "Citation: Singh DND, Roberts ARE, Wang X, Li G, Quesada Moraga E, Alliband D, et al. (2025) Toll-1-dependent immune evasion induced by fungal infection leads to cell loss in the Drosophila brain. PLo… [+79528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Rui Miao, Hao-Yang Yu, Bing-Jie Zhong, Hong-Xia Sun, Qiang Xia",
-      "title": "AWGE-ESPCA: An edge sparse PCA model based on adaptive noise elimination regularization and weighted gene network for Hermetia illucens genomic data analysis",
-      "description": "Author summary Hermetia illucens is an insect of high economic value, which is widely used in the field of feed. Existing research suggests that Cu2+-stressed can significantly affects the growth of Hermetia illucens. Therefore, the identification of genetic …",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012773",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012773.g009&size=inline",
-      "publishedAt": "2025-02-13T14:00:00Z",
-      "content": "Abstract\r\nHermetia illucens is an important insect resource. Studies have shown that exploring the effects of Cu2+-stressed on the growth and development of the Hermetia illucens genome holds signifi… [+55750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ibtimes.com.au"
-      },
-      "author": "Ella IDE",
-      "title": "'Terrified' Families Seek Justice In Italy 'Forever Chemicals' Trial",
-      "description": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.",
-      "url": "https://www.ibtimes.com.au/terrified-families-seek-justice-italy-forever-chemicals-trial-1856141",
-      "urlToImage": "https://d.ibtimes.com.au/en/full/1873763/how-could-mother-think-that-she-had-poisoned-her-children-without-knowing-said-giovanna-dal.jpg",
-      "publishedAt": "2025-02-13T13:00:22Z",
-      "content": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.\r\nThe no… [+4742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "International Business Times"
-      },
-      "author": "Ella IDE",
-      "title": "'Terrified' Families Seek Justice In Italy 'Forever Chemicals' Trial",
-      "description": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.",
-      "url": "https://www.ibtimes.com/terrified-families-seek-justice-italy-forever-chemicals-trial-3763564",
-      "urlToImage": "https://d.ibtimes.com/en/full/4582336/how-could-mother-think-that-she-had-poisoned-her-children-without-knowing-said-giovanna-dal.jpg",
-      "publishedAt": "2025-02-13T13:00:19Z",
-      "content": "Managers of a chemical plant accused of knowingly contaminating the water of hundreds of thousands of people are on trial in Italy, in one of Europe's biggest environmental disaster lawsuits.\r\nThe no… [+4742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutritionfacts.org"
-      },
-      "author": "Michael Greger M.D. FACLM",
-      "title": "Is Sorghum a Healthy Grain?",
-      "description": "How does sorghum compare with other grains in terms of protein, antioxidants, and micronutrients? And the benefits of red sorghum compared to black and white […]",
-      "url": "https://nutritionfacts.org/blog/is-sorghum-a-healthy-grain/",
-      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/02/3-1200x675.jpg",
-      "publishedAt": "2025-02-13T13:00:09Z",
-      "content": "How does sorghum compare with other grains in terms of protein, antioxidants, and micronutrients? And the benefits of red sorghum compared to black and white varieties?\r\nSorghum is the Forgotten Grai… [+6048 chars]"
     }
   ],
   "totalResults": 93,
