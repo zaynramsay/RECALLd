@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-20T06:30:07.527Z",
+  "lastUpdated": "2025-02-20T12:43:01.785Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "OpenSSH bugs allows Man-in-the-Middle and DoS Attacks",
+      "description": "Two OpenSSH vulnerabilities could allow machine-in-the-middle (MitM) and denial-of-service (DoS) attacks under certain conditions. The Qualys Threat Research Unit (TRU) has discovered two vulnerabilities in OpenSSH. The first, tracked as CVE-2025-26465 (CVSS …",
+      "url": "https://securityaffairs.com/174384/security/openssh-vulnerabilities-mitm-dos.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/07/openssh-21.jpg",
+      "publishedAt": "2025-02-19T12:10:24Z",
+      "content": "OpenSSH bugs allows Man-in-the-Middle and DoS Attacks\r\n | U.S. CISA adds SonicWall SonicOS and Palo Alto PAN-OS flaws to its Known Exploited Vulnerabilities catalog\r\n | Juniper Networks fixed a criti… [+140675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Will Stone",
+      "title": "FDA staff handling drug safety for pets and livestock lost jobs in Trump firings",
+      "description": "The fired staffers were tasked with making sure medications given to animals work well and are safe.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/02/19/nx-s1-5301216/federal-layoffs-fda-drug-safety-animals",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+53/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2Fa8%2F02ceabbe4c8c84f1317e57ad4eae%2Fgettyimages-1215625197.jpg",
+      "publishedAt": "2025-02-19T11:00:00Z",
+      "content": "One casualty of the mass firings across federal health agencies are regulators who ensure drugs for pets and livestock are safe and effective.\r\nThe cuts hit the Center for Veterinary Medicine, an arm… [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Peter Burke",
+      "title": "National raw milk regulations likely coming with new administration, says Raw Farm boss",
+      "description": "Mark McAfee, who leads the California-based Raw Farm and founded the Raw Milk Institute, teaches others about the benefits of raw milk for human consumption. But there are risks, as well.",
+      "url": "https://www.foxnews.com/food-drink/national-raw-milk-regulations-likely-coming-administration-raw-farm-boss",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/raw-milk-split-mark-mcafee-1.jpg",
+      "publishedAt": "2025-02-19T10:00:28Z",
+      "content": "Raw milk is a drink that remains unregulated at the federal level, with individual states left to decide whether it's deemed safe for human consumption. \r\nAs of right now, only eight states in the na… [+6372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+      "title": "Magnetic Separator Market to Reach USD 2,334.6 Million by 2035, with a Steady 5.0% CAGR, Driven by Technological Advancements and Rising Industrial Demand | Future Market Insights, Inc.",
+      "description": "Magnetic Separator Market by Product (Magnetic Drum Separator, Magnetic Roller Separator, Over band/Cross Belt Separator, Magnetic Pulley Separator, Coolant Separator), Intensity (Low Intensity, High Intensity, High Gradient), Material Type (Dry Type, Wet Typ…",
+      "url": "https://www.globenewswire.com/news-release/2025/02/19/3028539/0/en/Magnetic-Separator-Market-to-Reach-USD-2-334-6-Million-by-2035-with-a-Steady-5-0-CAGR-Driven-by-Technological-Advancements-and-Rising-Industrial-Demand-Future-Market-Insights-Inc.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "publishedAt": "2025-02-19T09:30:00Z",
+      "content": "NEWARK, Del, Feb. 19, 2025 (GLOBE NEWSWIRE) -- According to a Future Market Insights (FMI), the global magnetic separator market to be valued at USD 1,433.3 Million in 2025 and is expected to reach U… [+11888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Manya Singh",
+      "title": "Stop Using These Kitchen Utensils Today For Better Health",
+      "description": "In this article, we share a list of utensils you should avoid for better health.",
+      "url": "https://www.ndtv.com/health/stop-using-these-kitchen-utensils-today-for-better-health-7744220",
+      "urlToImage": "https://c.ndtvimg.com/2024-04/17bhh72g_utensils_625x300_30_April_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-02-19T06:31:26Z",
+      "content": "Certain kitchen utensils can be harmful to health due to the materials they are made of, how they interact with food, and how they degrade over time. Some utensils leach toxic chemicals or heavy meta… [+3744 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -974,7 +1039,7 @@
       "url": "https://nypost.com/2025/02/15/opinion/as-trump-slashes-federal-waste-he-must-also-address-gaps-in-air-safety-social-security-and-more/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/musk-trump-cover.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-02-15T16:00:00Z",
-      "content": "No one who believes in limited government can do anything other than endorse the Trump Administrations willingness to question and winnow the profusion of federal agencies. Carving out unnecessary an… [+6434 chars]"
+      "content": "No one who believes in limited government can do anything other than endorse the Trump Administrations willingness to question and winnow the profusion of federal agencies. Carving out unnecessary an�� [+6434 chars]"
     },
     {
       "source": {
@@ -1105,60 +1170,8 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/253/753/P0ev7XDZrzqbOAPp6MjR9og8N/e623d0f6b73fac6faedcbe4ac0ea35ac6de674bc.png",
       "publishedAt": "2025-02-14T23:01:03Z",
       "content": "Here we go again.\r\nFrom the New York Health Department:\r\nAnyone Who Ate Food From ilili Restaurant During January 31 February 9, 2025 Should Get Hepatitis A Vaccine as a Precautionary Measure\r\nHepati… [+10566 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Diana Bruk",
-      "title": "The hidden health hazard lurking in your office microwave — and what to do if you must reheat there",
-      "description": "Nuking leftovers at work might not seem like a health risk, but those microwaves can often be a hotbed for bacteria. One expert shares her tips to keep you safe and germ-free.",
-      "url": "https://nypost.com/2025/02/14/health/the-hidden-health-hazard-lurking-in-your-office-microwave/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/98553622.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-02-14T21:23:59Z",
-      "content": "Wafts of reheated fish might seem like the most toxic landmine in the office kitchen, but there are actually bigger hazards waiting in the microwave.\r\nExperts say to beware of the office break room, … [+3081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds SimpleHelp flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SimpleHelp vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a SimpleHelp vulnerability, tracked as CVE-2024-5…",
-      "url": "https://securityaffairs.com/174233/hacking/u-s-cisa-adds-simplehelp-flaw-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-14T21:15:35Z",
-      "content": "China-linked APT Salt Typhoon breached telecoms by exploiting Cisco router flaws\r\n | Experts discovered PostgreSQL flaw chained with BeyondTrust zeroday in targeted attacks\r\n | Valve removed the game… [+139543 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "China-linked APT Salt Typhoon breached telecoms by exploiting Cisco router flaws",
-      "description": "China-linked APT Salt Typhoon has breached more U.S. telecommunications providers via unpatched Cisco IOS XE network devices. China-linked APT group Salt Typhoon is still targeting telecommunications providers worldwide, and according to a new report publishe…",
-      "url": "https://securityaffairs.com/174226/apt/salt-typhoon-exploited-cisco-ios-xe-flaws.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-21.png",
-      "publishedAt": "2025-02-14T19:23:25Z",
-      "content": "China-linked APT Salt Typhoon breached telecoms by exploiting Cisco router flaws\r\n | Experts discovered PostgreSQL flaw chained with BeyondTrust zeroday in targeted attacks\r\n | Valve removed the game… [+139543 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Gilbert Ekugbe",
-      "title": "NOA unveils campaign to curb cholera, meningitis, others",
-      "description": "The National Orientation Agency has launched a more focused campaign to prevent the spread of infectious diseases across Nigeria. This was contained in a statement signed by the Deputy Director of Publicity, Paul Odenyi, on Friday. According to the statement,…",
-      "url": "https://punchng.com/noa-unveils-campaign-to-curb-cholera-meningitis-others/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/09/20111158/NOA.jpg",
-      "publishedAt": "2025-02-14T18:43:16Z",
-      "content": "The National Orientation Agency has launched a more focused campaign to prevent the spread of infectious diseases across Nigeria.\r\nThis was contained in a statement signed by the Deputy Director of P… [+2369 chars]"
     }
   ],
-  "totalResults": 89,
+  "totalResults": 90,
   "filteredCount": 0
 }
