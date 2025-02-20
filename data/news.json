@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-19T18:28:34.183Z",
+  "lastUpdated": "2025-02-20T01:43:25.825Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "As egg prices soar, Trump administration plans new strategy to fight bird flu",
+      "description": "The new strategy for fighting bird flu stresses vaccinations and tighter biosecurity.",
+      "url": "https://www.bostonherald.com/2025/02/18/trump-administration-strategy-bird-flu/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/02/Egg_Prices_22021.jpg?w=1024&h=694",
+      "publishedAt": "2025-02-18T22:53:48Z",
+      "content": "By STEVE KARNOWSKI\r\nMINNEAPOLIS (AP) — With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead of… [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Juniper Networks fixed a critical flaw in Session Smart Routers",
+      "description": "Juniper Networks has addressed a critical vulnerability, tracked as CVE-2025-21589, impacting the Session Smart Router. Juniper Networks addressed a critical authentication bypass vulnerability, tracked as CVE-2025-21589 (CVSS score of 9.8), affecting its Ses…",
+      "url": "https://securityaffairs.com/174365/security/juniper-networks-fixed-a-critical-flaw-in-session-smart-routers.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/Juniper-Networks-logo.jpg",
+      "publishedAt": "2025-02-18T22:30:07Z",
+      "content": "Juniper Networks fixed a critical flaw in Session Smart Routers\r\n | China-linked APT group Winnti targets Japanese organizations since March 2024\r\n | Xerox VersaLink C7025 Multifunction printer flaws… [+140506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "seattlepi.com"
+      },
+      "author": "By STEVE KARNOWSKI, Associated Press",
+      "title": "As egg prices soar, Trump administration plans new strategy to fight bird flu",
+      "description": "With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead of killing off millions of chickens when the disease strikes a flock. The director of the National Ec…",
+      "url": "https://www.seattlepi.com/business/article/as-egg-prices-soar-trump-administration-plans-20174191.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/47/27/27/27096513/3/rawImage.jpg",
+      "publishedAt": "2025-02-18T22:21:59Z",
+      "content": "FILE - Chickens stand in their cages at a farm in Iowa, Nov. 16, 2009.Charlie Neibergall/AP\r\nFILE - Chickens walk in a fenced pasture at an organic farm in Iowa on Oct. 21, 2015.Charlie Neibergall/AP… [+5239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "STEVE KARNOWSKI",
+      "title": "As egg prices soar, Trump administration plans new strategy to fight bird flu",
+      "description": "With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead...",
+      "url": "https://www.yahoo.com/news/egg-prices-soar-trump-administration-221149085.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oZeoYVy3SVjKU_s2aRvuyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTQ-/https://media.zenfs.com/en/ap_finance_articles_694/ca75fded752bc9b902e0d6e5daf184cb",
+      "publishedAt": "2025-02-18T22:11:49Z",
+      "content": "MINNEAPOLIS (AP) With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead of killing off millions … [+4432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "OilPrice.com",
+      "title": "Majority of Brits Support Green Taxes for Carbon Reduction",
+      "description": "According to new research, just over half of Brits are in favour of introducing taxes to encourage a reduction in households’ carbon footprint. According to a survey from EPC and energy efficiency platform epIMS, the most-favoured tax of those surveyed was a …",
+      "url": "https://oilprice.com/The-Environment/Global-Warming/Majority-of-Brits-Support-Green-Taxes-for-Carbon-Reduction.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-02-18_c9zecxoosd.jpg",
+      "publishedAt": "2025-02-18T20:00:00Z",
+      "content": "The South Caucasus region faces…\r\nClimate change is not just…\r\nCentral Asia faces a critical…\r\nBy City A.M - Feb 18, 2025, 2:00 PM CSTAccording to new research, just over half of Brits are in favour … [+3109 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -1105,112 +1170,8 @@
       "urlToImage": "https://www.yankodesign.com/images/design_news/2025/02/edible-wrappers-make-these-snack-bars-healthy-for-humans-and-the-planet/edible-wrapper-snack-bars-05.jpg",
       "publishedAt": "2025-02-14T14:20:51Z",
       "content": "Oat bars and protein bars are a great and delicious way to keep your energy up during long exercise routines outdoors. Heck, they can simply be a delicious treat you’d want to take anywhere you feel … [+2514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lindsay S. Miles, Elizabeth J. Carlen, Zain Nassrullah, Jason Munshi-South, Marc T. J. Johnson",
-      "title": "No detectable effect of urbanization on genetic drift or gene flow in specialist herbivorous insects of milkweed",
-      "description": "Urbanization is hypothesized to isolate populations and restrict dispersal, leading to reduced genetic diversity and increased genetic differentiation. We tested this hypothesis in specialist herbivorous insects of milkweed, positing that higher dispersal abi…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318956",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318956.g004&size=inline",
-      "publishedAt": "2025-02-14T14:00:00Z",
-      "content": "Abstract\r\nUrbanization is hypothesized to isolate populations and restrict dispersal, leading to reduced genetic diversity and increased genetic differentiation. We tested this hypothesis in speciali… [+59326 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theskinnyconfidential.com"
-      },
-      "author": "Hilary",
-      "title": "Is Toilet Paper Toxic? Here’s What You Need To Know",
-      "description": "You know by now how important it is to keep your home as free from toxins as you possibly can. …\nThe post Is Toilet Paper Toxic? Here’s What You Need To Know appeared first on The Skinny Confidential.",
-      "url": "https://www.theskinnyconfidential.com/is-toilet-paper-toxic/",
-      "urlToImage": "https://www.theskinnyconfidential.com/wp-content/uploads/2025/02/reel-nontoxic-toilet-paper-e1739187520571.png",
-      "publishedAt": "2025-02-14T13:44:00Z",
-      "content": "You know by now how important it is to keep your home as free from toxins as you possibly can. Because, lets face it toxins are in EVERYTHING these days. Whether youre cleaning, cooking, following yo… [+7419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "C. Michael White, Distinguished Professor of Pharmacy Practice, University of Connecticut",
-      "title": "Parents can soon use QR codes to reveal heavy metal content in baby food",
-      "description": "A quick scan with a smartphone or an online search can identify foods with lower levels of these toxic substances.",
-      "url": "https://theconversation.com/parents-can-soon-use-qr-codes-to-reveal-heavy-metal-content-in-baby-food-247579",
-      "urlToImage": "https://images.theconversation.com/files/648054/original/file-20250210-15-p9vc0h.jpg?ixlib=rb-4.1.0&rect=34%2C11%2C3800%2C1900&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-14T13:41:34Z",
-      "content": "It's impossible to eliminate heavy metals from baby food entirely, but testing can help consumers make informed decisions. Jeff Greenberg via Getty Images\r\nParents across the U.S. should soon be able… [+8285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Experts discovered PostgreSQL flaw chained with BeyondTrust zeroday in targeted attacks",
-      "description": "Threat actors are exploiting a zero-day SQL injection vulnerability in PostgreSQL, according to researchers from cybersecurity firm Rapid7. Rapid7 researchers discovered a high-severity SQL injection flaw, tracked as CVE-2025-1094, in PostgreSQL’s psql tool. …",
-      "url": "https://securityaffairs.com/174218/hacking/postgresql-flaw-chained-with-beyondtrust-zeroday.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/postgresql-logo.png",
-      "publishedAt": "2025-02-14T09:23:12Z",
-      "content": "Experts discovered PostgreSQL flaw chained with BeyondTrust zeroday in targeted attacks\r\n | Valve removed the game PirateFi from the Steam video game platform because contained a malware\r\n | China-li… [+139458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Caroline Bologna",
-      "title": "The Germiest Places At The Grocery Store",
-      "description": "Some of these might surprise you.",
-      "url": "https://www.huffpost.com/entry/germiest-places-grocery-store_l_67aab9e9e4b09fd55bc672de",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67ae0e6f1600002600aff86e.jpeg?cache=kZjQte3sep&ops=1200_630",
-      "publishedAt": "2025-02-14T08:00:03Z",
-      "content": "Some areas and surfaces in the grocery store are more microbe-filled than others. \r\nGrocery shopping is one of the more mundane errands people do. But in times of high infectious disease prevalence (… [+9027 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Valve removed the game PirateFi from the Steam video game platform because contained a malware",
-      "description": "Valve removed a game from Steam because it contained malware, the company also warned affected users to reformat their operating systems. Valve removed the game PirateFi from the Steam video game platform because it contained a Windows malicious code to steal…",
-      "url": "https://securityaffairs.com/174205/malware/valve-removed-a-game-from-steam.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-20.png",
-      "publishedAt": "2025-02-14T07:35:54Z",
-      "content": "Valve removed the game PirateFi from the Steam video game platform because contained a malware\r\n | China-linked APTs' tool employed in RA World Ransomware attack\r\n | Russia-linked APT Seashell Blizza… [+139366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Khabarhub.com"
-      },
-      "author": "Sita Neupane",
-      "title": "Govt negligence leaves Babarmahal residents reeling after pipe burst floods homes and businesses",
-      "description": "KATHMANDU: A sudden flood in Babarmahal on Wednesday afternoon left homes, businesses, and government offices submerged, causing millions in damages. But unlike natural disasters that come without warning, this crisis was entirely man-made—a result of governm…",
-      "url": "https://english.khabarhub.com/2025/14/436563/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/02/babarmahal-flood-3-e1739355017107.jpg",
-      "publishedAt": "2025-02-14T07:15:07Z",
-      "content": "KATHMANDU: A sudden flood in Babarmahal on Wednesday afternoon left homes, businesses, and government offices submerged, causing millions in damages. But unlike natural disasters that come without wa… [+6501 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Killing H5N1 in waste milk -- an alternative to pasteurization",
-      "description": "Researchers have found that acidification can kill H5N1 in waste milk, providing dairy farmers an affordable, easy-to-use alternative to pasteurization.",
-      "url": "https://www.sciencedaily.com/releases/2025/02/250214003226.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-02-14T05:32:26Z",
-      "content": "Pasteurization is the only widely recognized method of killing H5N1, the virus that causes bird flu, in milk. However, pasteurization can be expensive and fewer than 50% of large dairy farms pasteuri… [+2645 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 90,
   "filteredCount": 0
 }
