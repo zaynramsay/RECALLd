@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-20T12:43:01.785Z",
+  "lastUpdated": "2025-02-20T18:29:39.551Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Venture capital firm Insight Partners discloses security breach",
+      "description": "Venture capital firm Insight Partners suffered a cyberattack involving unauthorized access to its information systems. A cyber attack hit venture capital firm Insight Partners, threat actors gained unauthorized access to its information systems. Venture Capit…",
+      "url": "https://securityaffairs.com/174392/hacking/insight-partners-discloses-security-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg",
+      "publishedAt": "2025-02-19T14:45:27Z",
+      "content": "Venture capital firm Insight Partners discloses security breach\r\n | OpenSSH bugs allows Man-in-the-Middle and DoS Attacks\r\n | U.S. CISA adds SonicWall SonicOS and Palo Alto PAN-OS flaws to its Known … [+140743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Alexandre Blake, Adam Walder, Ephraim M. Hanks, Placide Okitayemba Welo, Francisco Luquero, Didier Bompangue, Nita Bharti",
+      "title": "Impact of a multi-pronged cholera intervention in an endemic setting",
+      "description": "Author summary Cholera is a major global health concern that causes high morbidity. It is a bacterial water-borne disease that can be transmitted via the fecal-oral route or the ingestion of contaminated water. Hence, both population mobility and environmenta…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012867",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012867.g004&size=inline",
+      "publishedAt": "2025-02-19T14:00:00Z",
+      "content": "Abstract\r\nCholera is a bacterial water-borne diarrheal disease transmitted via the fecal-oral route that causes high morbidity in sub-Saharan Africa and Asia. It is preventable with vaccination, and … [+56403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sisir Rajak, Shaikh Rajesh Ali, Baidyanath Pal, Sibani Sen Chakraborty",
+      "title": "A statistical insight to exploration of medicinal wastewater as a source of thermostable lipase-producing microorganisms",
+      "description": "Bacteria are ubiquitous and capable of thriving in diverse environments, including industrial effluents, which often present harsh physical and chemical conditions. These microorganisms produce various intracellular and extracellular biomolecules that enable …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319023",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319023.g012&size=inline",
+      "publishedAt": "2025-02-19T14:00:00Z",
+      "content": "Abstract\r\nBacteria are ubiquitous and capable of thriving in diverse environments, including industrial effluents, which often present harsh physical and chemical conditions. These microorganisms pro… [+18926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LADbible"
+      },
+      "author": "Joshua Nair",
+      "title": "Government announces new recycling rules meaning every UK household will have four different bins",
+      "description": "You'll have to be more careful when it comes to getting rid of waste",
+      "url": "https://www.ladbible.com/news/uk-news/uk-new-recycling-laws-four-different-bins-899030-20250219",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt20fd5855b49f74f3/67b5d71d1b6322bbb43c938b/recycling-bins-new-laws-uk.jpg",
+      "publishedAt": "2025-02-19T13:49:37Z",
+      "content": "The British government are set to introduce new recycling measures which will change the way we get rid of our waste for good.\r\nIf you thought having the standard two or three bins was confusing, str… [+3417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Murali Krishnan",
+      "title": "India's Kumbh Mela brings up environmental challenges",
+      "description": "Hosting the world's largest religious gathering comes with big environmental challenges. However, spiritual leaders in India used the festival to champion environmental sustainability. Nearly one-third of India's 1.4 billion plus population descended on the M…",
+      "url": "https://www.dw.com/en/indias-kumbh-mela-brings-up-environmental-challenges/a-71671784",
+      "urlToImage": "https://static.dw.com/image/71636626_6.jpg",
+      "publishedAt": "2025-02-19T13:49:00Z",
+      "content": "Nearly one-third of India's 1.4 billion plus population descended on the Maha Kumbh Mela, a six-week religious gathering held in the northern state of Uttar Pradesh.\r\nThe number of people attending e… [+4823 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1039,7 +1104,7 @@
       "url": "https://nypost.com/2025/02/15/opinion/as-trump-slashes-federal-waste-he-must-also-address-gaps-in-air-safety-social-security-and-more/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/musk-trump-cover.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-02-15T16:00:00Z",
-      "content": "No one who believes in limited government can do anything other than endorse the Trump Administrations willingness to question and winnow the profusion of federal agencies. Carving out unnecessary an�� [+6434 chars]"
+      "content": "No one who believes in limited government can do anything other than endorse the Trump Administrations willingness to question and winnow the profusion of federal agencies. Carving out unnecessary an… [+6434 chars]"
     },
     {
       "source": {
@@ -1092,86 +1157,8 @@
       "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/02/GazaDestruction_CD_final.jpg?w=1200&h=630&crop=1",
       "publishedAt": "2025-02-15T11:00:00Z",
       "content": "Some lawyers argue Israel is guilty of war crimes against both the people of Gaza and the natural environment.Abed Rahim Khatib/dpa via ZUMA Press\r\nFight disinformation: Sign up for the free Mother J… [+13672 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "ABC News",
-      "title": "Hot cross buns recalled at SA supermarkets because of glass hazard",
-      "description": "Food Standards Australia New Zealand issues a recall of a hot cross bun product it says is sold online and at Foodland supermarkets in South Australia.",
-      "url": "https://www.abc.net.au/news/2025-02-15/hot-cross-bun-product-recalled-because-of-possible-glass-hazard/104941020",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/30df2a054cc9a8a65c439d1c08540fff?impolicy=wcms_watermark_news&cropH=564&cropW=1003&xPos=0&yPos=48&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-02-15T08:05:13Z",
-      "content": "The national food safety agency has recalled a batch of hot cross buns sold at South Australian supermarkets because of the possible presence of glass.\r\nFood Standards Australia New Zealand warned of… [+1425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Bill Marler",
-      "title": "Publisher’s Platform: Give hepatitis A vaccines to food service workers",
-      "description": "— OPINION — Here we go again. From the New York Health Department: Anyone Who Ate Food From ilili Restaurant During January 31 – February 9, 2025 Should Get Hepatitis A Vaccine as a Precautionary Measure Hepatitis A is an Extremely Contagious Liver Disease; I…",
-      "url": "https://www.foodsafetynews.com/2025/02/publishers-platform-give-hepatitis-a-vaccines-to-food-service-workers/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/265/957/0Mn5r3E1XY0kLdoPQWPoD9kg7/3e399d219297aafc80fcadcb324eb1188cca6c7c.png",
-      "publishedAt": "2025-02-15T05:05:00Z",
-      "content": "— OPINION —\r\nHere we go again.\r\nFrom the New York Health Department:\r\nAnyone Who Ate Food From ilili Restaurant During January 31 – February 9, 2025 Should Get Hepatitis A Vaccine as a Precautionary … [+10376 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Expose-news",
-      "title": "Mega thread of evidence showing covid “vaccines” cause turbo cancers",
-      "description": "Multiple doctors and scientists, including Dr. David Rasnick, Dr. Ryan Cole, Dr. Roger Hodkinson, and Scientist Kevin McKernan, say that covid injections cause “turbo cancers” due to immune system suppression.The injections contain DNA plasmids with the SV40 …",
-      "url": "https://freerepublic.com/focus/f-chat/4297730/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-02-15T01:45:37Z",
-      "content": "Multiple doctors and scientists, including Dr. David Rasnick, Dr. Ryan Cole, Dr. Roger Hodkinson, and Scientist Kevin McKernan, say that covid injections cause turbo cancers due to immune system supp… [+8200 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "slaynews.com",
-      "title": "FDA Admits Covid mRNA ‘Vaccines’ Cause Cancer",
-      "description": "[H/T ExTexasRedhead]The U.S. Food and Drug Administration (FDA) has just made the explosive admission that Covid mRNA “vaccines” are spiked with contaminations that triggered a global surge in cancers.The federal agency made the admission after an FDA study c…",
-      "url": "https://freerepublic.com/focus/f-chat/4297703/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-02-15T00:16:26Z",
-      "content": "The U.S. Food and Drug Administration (FDA) has just made the explosive admission that Covid mRNA vaccines are spiked with contaminations that triggered a global surge in cancers.\r\nThe federal agency… [+1003 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Minneapolis company recalls muffins because of undeclared allergen",
-      "description": "JE Bakery 2019 LLC of Minneapolis, MN, is recalling its Raisin Bran Muffin 6 count because of a labeling error. The affected product was mislabeled and instead contains Glorious Morning Muffins, which contain Walnuts, a known allergen not declared on the labe…",
-      "url": "https://www.foodsafetynews.com/2025/02/minneapolis-company-recalls-muffins-because-of-undeclared-allergen/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/254/814/0eb715rd3zLBVAZeQBPpEmKay/3aacbcbf1c07c34549959c3852e9914c296f9b0f.png",
-      "publishedAt": "2025-02-14T23:32:51Z",
-      "content": "JE Bakery 2019 LLC of Minneapolis, MN, is recalling its Raisin Bran Muffin 6 count because of a labeling error. The affected product was mislabeled and instead contains Glorious Morning Muffins, whic… [+1110 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marlerblog.com"
-      },
-      "author": "Bill Marler",
-      "title": "Come on – for Goodness sake – give Hepatitis A vaccines to Food Service workers",
-      "description": "Here we go again. From the New York Health Department: Anyone Who Ate Food From ilili Restaurant During January 31 – February 9, 2025 Should Get Hepatitis A Vaccine as a Precautionary Measure Hepatitis A is an Extremely Contagious Liver Disease; It is Rarely …",
-      "url": "https://www.marlerblog.com/case-news/come-on-for-goodness-sake-give-hepatitis-a-vaccines-to-food-service-workers/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/253/753/P0ev7XDZrzqbOAPp6MjR9og8N/e623d0f6b73fac6faedcbe4ac0ea35ac6de674bc.png",
-      "publishedAt": "2025-02-14T23:01:03Z",
-      "content": "Here we go again.\r\nFrom the New York Health Department:\r\nAnyone Who Ate Food From ilili Restaurant During January 31 February 9, 2025 Should Get Hepatitis A Vaccine as a Precautionary Measure\r\nHepati… [+10566 chars]"
     }
   ],
-  "totalResults": 90,
+  "totalResults": 89,
   "filteredCount": 0
 }
