@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-20T01:43:25.825Z",
+  "lastUpdated": "2025-02-20T06:30:07.527Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds SonicWall SonicOS and Palo Alto PAN-OS flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SonicWall SonicOS and Palo Alto PAN-OS vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Apple iOS and iPadO…",
+      "url": "https://securityaffairs.com/174375/security/u-s-cisa-adds-sonicwall-sonicos-and-palo-alto-pan-os-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-19T06:24:17Z",
+      "content": "U.S. CISA adds SonicWall SonicOS and Palo Alto PAN-OS flaws to its Known Exploited Vulnerabilities catalog\r\n | Juniper Networks fixed a critical flaw in Session Smart Routers\r\n | China-linked APT gro… [+140617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Scientists Racing to Discover Depth of Ocean Damage From LA Wildfires",
+      "description": "On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire. The water line was darkened by ash. Burnt remnants of washing machines and dryers and metal appliances …",
+      "url": "https://www.insurancejournal.com/news/west/2025/02/19/812341.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/01/2024-Palisades-Fire-5-by-CalFire.jpg",
+      "publishedAt": "2025-02-19T06:00:58Z",
+      "content": "On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt remnants of washing … [+5767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSAT San Antonio"
+      },
+      "author": "Steve Karnowski",
+      "title": "As egg prices soar, Trump administration plans new strategy to fight bird flu",
+      "description": "With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead of killing off millions of chickens when the disease strikes a flock.",
+      "url": "https://www.ksat.com/business/2025/02/18/as-egg-prices-soar-trump-administration-plans-new-strategy-to-fight-bird-flu/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2BH6VFBBWBCNHHNTYRCONF64VQ.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2025-02-19T02:20:26Z",
+      "content": "MINNEAPOLIS With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead of killing off millions of ch… [+4581 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1118,60 +1157,8 @@
       "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/09/20111158/NOA.jpg",
       "publishedAt": "2025-02-14T18:43:16Z",
       "content": "The National Orientation Agency has launched a more focused campaign to prevent the spread of infectious diseases across Nigeria.\r\nThis was contained in a statement signed by the Deputy Director of P… [+2369 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "James Bickerton",
-      "title": "Waffle Recall Update as FDA Sets Highest Risk Level",
-      "description": "Eating the recalled waffles could cause \"serious adverse health consequences or death\" for some consumers, according to the FDA.",
-      "url": "https://www.newsweek.com/waffle-recall-update-fda-sets-highest-risk-level-2031324",
-      "urlToImage": "https://d.newsweek.com/en/full/2588722/waffle.jpg",
-      "publishedAt": "2025-02-14T17:04:27Z",
-      "content": "On Thursday, the federal Food and Drug Administration (FDA) gave a Class I danger classification, its highest level, to the recall of 2-pound cartons of Pearl Milling Company Original Pancake &amp; W… [+3006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "ICU Medical Issues Nationwide Recall of Potassium Chloride Injection, 20 mEq and Potassium Chloride Injection, 10 mEq Due to Mislabeling",
-      "description": "ICU Medical, Inc. is voluntarily recalling one lot each of POTASSIUM CHLORIDE Inj. bags with overwrap labels 10mEq, packaged in cases of POTASSIUM CHLORIDE Inj. 20 mEq, to the user level. ICU medical has received a customer complaint which states that bags of…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/icu-medical-issues-nationwide-recall-potassium-chloride-injection-20-meq-and-potassium-chloride",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-14T16:58:11Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 13, 2025\r\nFDA Publish Date:\r\nFebruary 14, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nBags of POTASSIUM CHLORIDE In… [+5150 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Martha McHardy",
-      "title": "Candy Recalled in California: What to Know as FDA Sets Risk Level",
-      "description": "According to the FDA, millions of people in the United States have food allergies or food sensitivities.",
-      "url": "https://www.newsweek.com/candy-jelly-stick-recall-california-allergens-2031193",
-      "urlToImage": "https://d.newsweek.com/en/full/2588579/recall.jpg",
-      "publishedAt": "2025-02-14T16:23:22Z",
-      "content": "The Candy Basket Inc. recalled four of its products in California last month due to undeclared allergens, with the U.S. Food and Drug Administration now giving the situation a Class II or Class III c… [+4931 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "author": "JC Torres",
-      "title": "Edible wrappers make these snack bars healthy for humans and the planet",
-      "description": "Edible wrappers make these snack bars healthy for humans and the planetOat bars and protein bars are a great and delicious way to keep your energy up during long exercise routines outdoors. Heck, they can simply...",
-      "url": "https://www.yankodesign.com/2025/02/14/edible-wrappers-make-these-snack-bars-healthy-for-humans-and-the-planet/",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/02/edible-wrappers-make-these-snack-bars-healthy-for-humans-and-the-planet/edible-wrapper-snack-bars-05.jpg",
-      "publishedAt": "2025-02-14T14:20:51Z",
-      "content": "Oat bars and protein bars are a great and delicious way to keep your energy up during long exercise routines outdoors. Heck, they can simply be a delicious treat you’d want to take anywhere you feel … [+2514 chars]"
     }
   ],
-  "totalResults": 90,
+  "totalResults": 89,
   "filteredCount": 0
 }
