@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-21T06:30:07.780Z",
+  "lastUpdated": "2025-02-21T12:41:49.735Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Microsoft fixed actively exploited flaw in Power Pages",
+      "description": "Microsoft addressed a privilege escalation vulnerability in Power Pages, the flaw is actively exploited in attacks. Microsoft has addressed two critical vulnerabilities, tracked as CVE-2025-21355 (CVSS score: 8.6) and CVE-2025-24989 (CVSS score: 8.2), respect…",
+      "url": "https://securityaffairs.com/174430/security/microsoft-fixed-actively-exploited-flaw-in-power-pages.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/04/Microsoft-autodesk.png",
+      "publishedAt": "2025-02-20T11:20:11Z",
+      "content": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entities\r\n | Microsoft fixed actively exploited flaw in Power Page… [+141146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Citrix addressed NetScaler console privilege escalation flaw",
+      "description": "Citrix addressed a high-severity privilege escalation vulnerability impacting NetScaler Console and NetScaler Agent under certain conditions. Citrix released security updates to address a high-severity security vulnerability, tracked as CVE-2024-12284 (CVSS s…",
+      "url": "https://securityaffairs.com/174425/security/citrix-addressed-netscaler-console-privilege-escalation-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/03/Citrix-1.png",
+      "publishedAt": "2025-02-20T10:46:51Z",
+      "content": "Citrix addressed NetScaler console privilege escalation flaw\r\n | Palo Alto Networks warns that CVE-2025-0111 flaw is actively exploited in attacks\r\n | Russia-linked APTs target Signal messenger\r\n | V… [+140941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "BestReviews",
+      "title": "Best paella pan",
+      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
+      "url": "https://www.denverpost.com/2025/02/19/best-paella-pan/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
+      "publishedAt": "2025-02-20T09:04:24Z",
+      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "BestReviews",
+      "title": "Best paella pan",
+      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
+      "url": "https://www.denverpost.com/2025/02/20/best-paella-pan/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
+      "publishedAt": "2025-02-20T09:04:24Z",
+      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Palo Alto Networks warns that CVE-2025-0111 flaw is actively exploited in attacks",
+      "description": "Palo Alto Networks warns that the vulnerability CVE-2025-0111 is actively exploited with two other flaws to compromise PAN-OS firewalls. Palo Alto Networks warns that threat actors are chaining the vulnerability CVE-2025-0111 with two other vulnerabilities, t…",
+      "url": "https://securityaffairs.com/174409/hacking/palo-alto-networks-cve-2025-0111-actively-exploited.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png",
+      "publishedAt": "2025-02-20T06:32:44Z",
+      "content": "Palo Alto Networks warns that CVE-2025-0111 flaw is actively exploited in attacks\r\n | Russia-linked APTs target Signal messenger\r\n | Venture capital firm Insight Partners discloses security breach\r\n … [+140876 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1105,71 +1170,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.xFz3GVGqER7seaTt7uJfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/13eb8ef9661c6543b1e66e223446a3ab",
       "publishedAt": "2025-02-16T05:43:11Z",
       "content": "LOS ANGELES (AP) On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt rem… [+5737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 511 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. CISA adds…",
-      "url": "https://securityaffairs.com/174255/security/security-affairs-newsletter-round-511-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-02-16T01:20:52Z",
-      "content": "Security Affairs newsletter Round 511 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | U.S. CISA adds Apple iOS and iPadOS and Mitel SIP Phones flaws to its Known Exploited Vulnerabilities catalog\r\n |… [+139824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Allthatsinteresting.com"
-      },
-      "author": "Caroline Redmond",
-      "title": "2,500-Year-Old Beer Cups Uncovered At The Cradle Of Human Civilization",
-      "description": "The traces found on these cups represent some of the earliest evidence of beer ever found.\nThe post 2,500-Year-Old Beer Cups Uncovered At The Cradle Of Human Civilization appeared first on All That's Interesting.",
-      "url": "https://allthatsinteresting.com/mesopotamian-beer-cups",
-      "urlToImage": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/08/beer-drinking-cups.jpg",
-      "publishedAt": "2025-02-15T21:00:18Z",
-      "content": "Sirwan Regional ProjectBeer drinking cups being excavated at Khani Masi.\r\nScientists have long known that beer played an important role in ancient Mesopotamia, widely known as the cradle of human civ… [+3925 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Brie Stimson",
-      "title": "Public health alert issued for meat and poultry pasties over undeclared allergen",
-      "description": "Meat and poultry pasties made by a Michigan-based restaurant are the subject of an alert due to an egg allergen not written on the packaging.",
-      "url": "https://www.foxbusiness.com/retail/public-health-alert-issued-meat-poultry-pasties-over-undeclared-allergen",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/02/0/0/pasties.jpg?ve=1&tl=1",
-      "publishedAt": "2025-02-15T20:40:00Z",
-      "content": "The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) issued a public health alert this week for frozen meat and poultry pasties due to an undeclared egg allergen, the USDA s… [+2551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lesswrong.com"
-      },
-      "author": "jenn",
-      "title": "Microplastics: Much Less Than You Wanted To Know",
-      "description": "Published on February 15, 2025 7:08 PM GMTMicroplastics have been in the news and the local rationalist discord with increasing frequency over the past few months. Of note are Nat Friedman's PlasticList, and this 2024 preprint demonstrating that some human br…",
-      "url": "https://www.lesswrong.com/posts/GjbXGybzszw8eN3oB/microplastics-much-less-than-you-wanted-to-know",
-      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-      "publishedAt": "2025-02-15T19:08:13Z",
-      "content": "Microplastics have been in the news and the local rationalist discord with increasing frequency over the past few months. Of note are Nat Friedman's PlasticList, and this 2024 preprint demonstrating … [+26146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "BD Announces Voluntary Worldwide Recall for One Lot of ChloraPrep™ Clear 1 mL Applicators Due to Fungal Contamination",
-      "description": "BD (Becton, Dickinson and Company) today announced the voluntary recall of one lot of ChloraPrep™ Clear 1 mL Applicators due to fungal contamination under certain environmental conditions allowing the growth of Aspergillus penicillioides",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bd-announces-voluntary-worldwide-recall-one-lot-chlorapreptm-clear-1-ml-applicators-due-fungal",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-15T18:15:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 31, 2025\r\nFDA Publish Date:\r\nFebruary 18, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential for fungal contamina… [+5313 chars]"
     }
   ],
   "totalResults": 90,
