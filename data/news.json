@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-21T01:43:42.079Z",
+  "lastUpdated": "2025-02-21T06:30:07.780Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Romain Dillet",
+      "title": "Spore.Bio raises $23M to apply machine learning to microbiology testing | TechCrunch",
+      "description": "Recalls in the food and beverage industry due to contamination incidents can have catastrophic effects. Not only do companies have to pay fines and",
+      "url": "https://techcrunch.com/2025/02/19/sporebio-raises-23m-to-apply-machine-learning-to-microbiology-testing/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Spore.bio-2.jpg?resize=1200,1200",
+      "publishedAt": "2025-02-20T05:02:31Z",
+      "content": "Recalls in the food and beverage industry due to contamination incidents can have catastrophic effects. Not only do companies have to pay fines and damages, but the impacts on the brands reputation c… [+3586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Bishal Bharadwaj, Adjunct Research Fellow, Curtin Institute for Energy Transition, Curtin University, Peta Ashworth, Professor and Director, Curtin Institute for Energy Transition, Curtin University, Pramesh Dhungana, Lecturer, Faculty of Science and Engineering, Curtin University",
+      "title": "Households are burning plastic waste as fuel for cooking and heating in slums the world over",
+      "description": "Burning plastic as fuel for cooking and heating releases toxic chemicals into the air and contaminates food. Yet this is common in many parts of the world.",
+      "url": "https://theconversation.com/households-are-burning-plastic-waste-as-fuel-for-cooking-and-heating-in-slums-the-world-over-250265",
+      "urlToImage": "https://images.theconversation.com/files/650275/original/file-20250220-32-cg1o5a.png?ixlib=rb-4.1.0&rect=0%2C172%2C1917%2C957&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-20T04:15:57Z",
+      "content": "Poor people in vast city slums across the Global South are burning plastic to cook their food, warm their homes and boil water for hot showers.\n\nWaste plastic is plentiful and highly flammable. So it… [+5365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Amara Thomas",
+      "title": "What color is your vehicle?’: Chick-fil-A asks customer question about truck in drive-thru. There’s just one problem",
+      "description": "A Chick-fil-A worker asked a customer a question they ask most customers who come through the drive-thru: \"What color is your vehicle?\" Only he didn't know how to respond. That's because he's actually not quite sure of the color. \n\n\nTikToker Adam Jr (@im_adam…",
+      "url": "https://www.dailydot.com/news/chick-fil-a-what-color-is-your-car/",
+      "urlToImage": "https://uploads.dailydot.com/2025/02/chikfila_car_color_tiktok.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2025-02-20T04:00:00Z",
+      "content": "A Chick-fil-A worker asked a customer a question they ask most customers who come through the drive-thru: What color is your vehicle? Only he didnt know how to respond. Thats because hes actually not… [+3053 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1131,45 +1170,6 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-02-15T18:15:00Z",
       "content": "Summary\r\nCompany Announcement Date:\r\nJanuary 31, 2025\r\nFDA Publish Date:\r\nFebruary 18, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential for fungal contamina… [+5313 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Apple iOS and iPadOS and Mitel SIP Phones flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple iOS and iPadOS and Mitel SIP Phones vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Apple iOS and iP…",
-      "url": "https://securityaffairs.com/174246/security/u-s-cisa-adds-apple-ios-and-ipados-and-mitel-sip-phones-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-15T17:37:44Z",
-      "content": "U.S. CISA adds Apple iOS and iPadOS and Mitel SIP Phones flaws to its Known Exploited Vulnerabilities catalog\r\n | Attackers exploit recently disclosed Palo Alto Networks PAN-OS firewalls bug\r\n | Chin… [+139738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Becca Wood",
-      "title": "Granola bar recall: FDA updates recall for over 2 million MadeGood granola bars",
-      "description": "The U.S. Food and Drug Administration has made an update to its MadeGood granola bar recall.",
-      "url": "https://www.today.com/food/recall/fda-madegood-granola-bars-recall-rcna192341",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-12/granola-bars-recall-mc-241211-08bcdc.jpg",
-      "publishedAt": "2025-02-15T17:24:22Z",
-      "content": "The U.S. Food and Drug Administration has made an update to its MadeGood granola bar recall. \r\nThe popular granola bars, sold on Amazon and in stores like Target, Whole Foods, Wegmans, CVS, among oth… [+1657 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VinePair"
-      },
-      "author": "Camper English",
-      "title": "In Norway, Lake-Harvested Cocktail Ice Is Making a Quiet Comeback",
-      "description": "Before machines took over, the Norwegian lake ice export business boomed for several decades. Now, one Oslo man is trying to bring it back.",
-      "url": "https://vinepair.com/articles/lake-harvested-cocktail-ice-returns/",
-      "urlToImage": "https://vinepair.com/wp-content/uploads/2025/02/norway-lakes-cocktail-ice-social.jpg",
-      "publishedAt": "2025-02-15T16:32:17Z",
-      "content": "Frosty, cooling drinks like juleps and cobblers were trending in early 1800s America, their popularity driven by the recent year-round availability of ice. Blocks of it were cut from ponds and lakes … [+9299 chars]"
     }
   ],
   "totalResults": 90,
