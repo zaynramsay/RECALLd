@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-02-21T12:41:49.735Z",
+  "lastUpdated": "2025-02-21T18:29:00.023Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Gadgets360.com"
+      },
+      "author": "Gadgets 360 Staff",
+      "title": "Scientists Detect Rising Microplastics in Human Brains, Study Raises Concerns",
+      "description": "A study has found microplastics in human brains, with concentrations rising over recent years. Researchers suggest possible links to dementia, but some experts question the findings due to potential flaws in the analysis. While microplastics have been previou…",
+      "url": "https://www.gadgets360.com/science/news/microplastics-found-in-human-brains-raising-health-concerns-study-finds-7753905",
+      "urlToImage": "https://i.gadgets360cdn.com/large/MicroPlastic_1740047147609.jpg",
+      "publishedAt": "2025-02-20T17:30:01Z",
+      "content": "A rise in microplastic contamination in human brain tissue has been reported, with findings indicating an increase over recent years. Concerns about potential health impacts have been raised, as micr… [+2334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "NailaoLocker ransomware targets EU healthcare-related entities",
+      "description": "NailaoLocker ransomware is a new threat that targeted European healthcare organizations from June to October 2024. Orange Cyberdefense CERT uncovered a malware campaign, tracked as The Green Nailao campaign, that targeted European organizations, including hea…",
+      "url": "https://securityaffairs.com/174440/malware/nailaolocker-ransomware-targets-eu-healthcare-related-entities.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-35.png",
+      "publishedAt": "2025-02-20T15:47:59Z",
+      "content": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entities\r\n | Microsoft fixed actively exploited flaw in Power Page… [+141146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Matt Williams",
+      "title": "Should astronauts be worried about Mars dust?",
+      "description": "Every Martian year (which last 686.98 Earth days), the red planet experiences regional dust storms that coincide with summer in the southern hemisphere. Every three Martian years (five and a half Earth years), these storms grow so large that they encompass th…",
+      "url": "https://phys.org/news/2025-02-astronauts-mars.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/should-astronauts-be-w.jpg",
+      "publishedAt": "2025-02-20T14:56:05Z",
+      "content": "Every Martian year (which last 686.98 Earth days), the red planet experiences regional dust storms that coincide with summer in the southern hemisphere. Every three Martian years (five and a half Ear… [+7860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Lena-Mari Tamminen, Josef Dahlberg",
+      "title": "Evaluation of an automatic image classifier for analysis of bacterial growth on a multiple-agar plate developed for bovine mastitis",
+      "description": "Rapid identification of mastitis-causing bacteria is crucial for effective treatment decisions. Several multi-media agar plates have been developed to aid pathogen identification on farms or by veterinarians, but these methods require trained operators. Advan…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318698",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318698.g004&size=inline",
+      "publishedAt": "2025-02-20T14:00:00Z",
+      "content": "Abstract\r\nRapid identification of mastitis-causing bacteria is crucial for effective treatment decisions. Several multi-media agar plates have been developed to aid pathogen identification on farms o… [+34467 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -462,7 +514,7 @@
         "name": "CNN"
       },
       "author": "Annette Choi",
-      "title": "Food recalls in the US were more widespread – and deadly – in 2024 | CNN",
+      "title": "Food recalls in the US were more widespread �� and deadly – in 2024 | CNN",
       "description": "Contaminated food is causing a growing number of illnesses in the United States, and severe cases that lead to hospitalization or death are becoming more common.",
       "url": "https://www.cnn.com/2025/02/18/health/us-food-recall-list-2024-dg-wellness/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250214-food-recalls-card-exlargetease.png?c=16x9&q=w_800,c_fill",
@@ -1131,47 +1183,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
       "publishedAt": "2025-02-16T10:01:42Z",
       "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 33\r\n | Security Affairs newsletter Round 511 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | U.S. CISA adds Apple iOS and iPadOS and Mitel SIP Phones flaws t… [+139873 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "AP",
-      "title": "Scientists race to discover depth of ocean damage sparked by LA wildfires",
-      "description": "Tracy Quinn, president of Heal the Bay, assessed the damage from the Palisades Fire, noting hazardous ash and debris contaminating the Pacific Ocean. Researchers are studying the impact on marine life, with concerns about toxic substances like lead and asbest…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/scientists-race-to-discover-depth-of-ocean-damage-sparked-by-la-wildfires/articleshow/118296641.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-118296678,width-1200,height-630,imgsize-134024,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-02-16T06:08:44Z",
-      "content": "On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire. The water line was darkened by ash. Burnt remnants of washing m… [+5389 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "DORANY PINEDA Associated Press",
-      "title": "Scientists are racing to discover the depth of ocean damage sparked by LA wildfires",
-      "description": "As crews work to remove potentially hundreds of thousands of tons of hazardous materials from the Los Angeles wildfires, researchers and officials are trying to understand how the fires on land have impacted the sea",
-      "url": "https://abcnews.go.com/US/wireStory/scientists-racing-discover-depth-ocean-damage-sparked-la-118870759",
-      "urlToImage": "https://i.abcnewsfe.com/a/70cea849-2478-452a-8335-8b1df137d9b1/wirestory_aff1102887e86b6e524a7ec2b027b564_16x9.jpg?w=1600",
-      "publishedAt": "2025-02-16T06:02:03Z",
-      "content": "LOS ANGELES -- On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire. \r\nThe water line was darkened by ash. Burnt remn… [+5596 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "DORANY PINEDA",
-      "title": "Scientists are racing to discover the depth of ocean damage sparked by the LA wildfires",
-      "description": "On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.  The water line was...",
-      "url": "https://www.yahoo.com/news/scientists-racing-discover-depth-ocean-054311468.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.xFz3GVGqER7seaTt7uJfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/13eb8ef9661c6543b1e66e223446a3ab",
-      "publishedAt": "2025-02-16T05:43:11Z",
-      "content": "LOS ANGELES (AP) On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt rem… [+5737 chars]"
     }
   ],
-  "totalResults": 90,
+  "totalResults": 91,
   "filteredCount": 0
 }
