@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-02-22T12:37:41.131Z",
+  "lastUpdated": "2025-02-22T18:26:54.724Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "B1ack’s Stash released 1 Million credit cards",
+      "description": "Experts warn that the carding website B1ack’s Stash released a collection of over 1 million unique credit and debit cards. D3 Lab researchers reported that on February 19, 2025, the carding website B1ack’s Stash released a collection of over 1 million unique …",
+      "url": "https://securityaffairs.com/174488/cyber-crime/b1acks-stash-released-1-million-credit-cards.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-37.png",
+      "publishedAt": "2025-02-21T14:41:14Z",
+      "content": "B1acks Stash released 1 Million credit cards\r\n | Atlassian fixed critical flaws in Confluence and Crowd\r\n | Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker… [+141254 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -82,6 +95,19 @@
     {
       "source": {
         "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Darin Detwiler",
+      "title": "A legacy of loss and leadership: What America’s presidents teach us about food safety",
+      "description": "— OPINION — I remember exactly where I was on Feb. 10, 1993. I was in the audience of President Bill Clinton’s nationally televised town hall from the studios of WXYZ-TV in Detroit. He fielded questions from the studio audience as well as studio audiences in …",
+      "url": "https://www.foodsafetynews.com/2025/02/a-legacy-of-loss-and-leadership-what-americas-presidents-teach-us-about-food-safety/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/799/332/jMDOvP3KezRBkgeGzlqoyk8AW/e937688e4cd1d4615ca702074386b836b1d1b957.png",
+      "publishedAt": "2025-02-20T22:38:07Z",
+      "content": "— OPINION —\r\nI remember exactly where I was on Feb. 10, 1993. I was in the audience of President Bill Clinton’s nationally televised town hall from the studios of WXYZ-TV in Detroit. He fielded quest… [+5011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "The BMJ"
       },
       "author": "Kayembe Ntumba, H. C., Taty, N., Mako, S., Batumbo, D. B.",
@@ -104,6 +130,19 @@
       "urlToImage": "https://www.ncspin.com/assets/images/og-othervoices-v2-1200x628.jpg",
       "publishedAt": "2025-02-20T22:35:26Z",
       "content": "An 8% reduction in the number of veterans experiencing homelessness on a given night in January 2024 is the lone bright spot in an otherwise grim U.S. Department of Housing and Urban Development (HUD… [+14297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Import company recalling variety of snacks after consumer complaint of allergic reaction",
+      "description": "ZB Importing LLC is voluntarily recalling certain lots of six varieties of Ulker Brand snack rolls, biscuits, and wafers because of undeclared wheat, egg and/or milk in the ingredient list and/or contains statement on the product labels.  People who have an a…",
+      "url": "https://www.foodsafetynews.com/2025/02/import-company-recalling-variety-of-snacks-after-consumer-complaint-of-allergic-reaction/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/798/934/JWBKNELpyQ2k1NV3YPvbX5R93/d701e7728430d361fcc4116ae3538b8039349642.png",
+      "publishedAt": "2025-02-20T22:22:35Z",
+      "content": "ZB Importing LLC is voluntarily recalling certain lots of six varieties of Ulker Brand snack rolls, biscuits, and wafers because of undeclared wheat, egg and/or milk in the ingredient list and/or con… [+1188 chars]"
     },
     {
       "source": {
@@ -805,7 +844,7 @@
       "url": "https://securityaffairs.com/174333/malware/apple-macos-malware-xcsset-limited-attacks.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
       "publishedAt": "2025-02-18T07:30:21Z",
-      "content": "New XCSSET macOS malware variant used in limited attacks\r\n | New Golang-based backdoor relies on Telegram for C2 communication\r\n | Pro-Russia collective NoName057(16) launched a new wave of DDoS atta… [+140241 chars]"
+      "content": "New XCSSET macOS malware variant used in limited attacks\r\n | New Golang-based backdoor relies on Telegram for C2 communication\r\n | Pro-Russia collective NoName057(16) launched a new wave of DDoS atta�� [+140241 chars]"
     },
     {
       "source": {
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2025/02/GettyImages-1344134471_096c6e-e1739745906577.jpg?fit=2490%2C1405",
       "publishedAt": "2025-02-17T01:59:07Z",
       "content": "Image Credit: UCG/Universal Images Group via Getty Images\r\nAt the start of the year, Quaker Oats recalled over 10,000 products, and now officials from the Food and Drug Administration (FDA) have esca… [+1974 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Low-Level Chronic Glyphosate Linked to Fetal Harms and Reproductive Toxicity",
-      "description": "You’re living in a world where a common product used in gardens and the food supply could impact your ability to have children. Glyphosate, the active ingredient in many popular weed killers, is raising concerns about its effects on fertility and fetal health…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/17/low-level-chronic-glyphosate-exposure.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/low-level-chronic-glyphosate-exposure-fb.jpg",
-      "publishedAt": "2025-02-17T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Weekly Health Quiz: Big Pharma, Statin Risks and Vitamin K",
-      "description": "1 If you or a loved one have been taking statins for over three years, what long-term health effects might you both face?\n\r\n\n<ul>\n<li>A reduced need for regular health screenings</li> \n<li>Improved eye health and lower risk of vision issues</li> \n<li>An incre…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/17/weekly-health-quiz-10.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/weekly-health-quiz-fb.jpg",
-      "publishedAt": "2025-02-17T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VOA News"
-      },
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Scientists race to discover depth of ocean damage from Los Angeles wildfires",
-      "description": "Los Angeles — On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\n\n\nThe water line was darkened by ash. Burnt remnants of washing machines and dryers and metal appliances were…",
-      "url": "https://www.voanews.com/a/scientists-race-to-discover-depth-of-ocean-damage-from-los-angeles-wildfires/7977145.html",
-      "urlToImage": "https://gdb.voanews.com/D6C69A7D-61BA-4CE8-A0EF-3863B09D84C6.jpg",
-      "publishedAt": "2025-02-16T22:55:56Z",
-      "content": "Los Angeles  On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt remnant… [+4851 chars]"
     }
   ],
   "totalResults": 92,
