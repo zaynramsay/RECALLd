@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-22T06:29:56.810Z",
+  "lastUpdated": "2025-02-22T12:37:41.131Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Craft CMS and Palo Alto Networks PAN-OS flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Craft CMS and Palo Alto Networks PAN-OS vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added SonicWall SonicOS …",
+      "url": "https://securityaffairs.com/174483/security/u-s-cisa-adds-craft-cms-palo-alto-networks-pan-os-flaws-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-21T10:40:00Z",
+      "content": "Atlassian fixed critical flaws in Confluence and Crowd\r\n | Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entitie… [+141205 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "11 dead as India struggles with creeping paralysis outbreak linked to contaminated water",
+      "description": "More than 200 people have fallen ill with Guillain-Barré syndrome in the Indian city of Pune, with officials blaming the outbreak on contaminated water. Dozens are still hospitalized and 11 people are dead due to the autoimmune disorder that attacks the nerve…",
+      "url": "https://www.cbc.ca/news/world/india-gbs-public-health-1.7463995",
+      "urlToImage": "https://i.cbc.ca/1.7464174.1740079869!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/awanti-naik-gbs.jpg?im=Resize%3D620",
+      "publishedAt": "2025-02-21T09:00:00Z",
+      "content": "It was in early January that Awanti Naik's symptoms first crept up on her, starting with double vision and quickly followed by a debilitating headache and a strange feeling in her face. \r\n\"There was … [+6855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Atlassian fixed critical flaws in Confluence and Crowd",
+      "description": "Australian software firm Atlassian patched 12 critical and high-severity flaws in Bamboo, Bitbucket, Confluence, Crowd, and Jira. Software firm Atlassian released security patches to address 12 critical- and high-severity vulnerabilities in Bamboo, Bitbucket,…",
+      "url": "https://securityaffairs.com/174474/security/atlassian-fixed-critical-flaws-in-confluence-and-crowd.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/08/Atlassian-logo.png",
+      "publishedAt": "2025-02-21T08:02:50Z",
+      "content": "Atlassian fixed critical flaws in Confluence and Crowd\r\n | Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entitie… [+141205 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://gdb.voanews.com/D6C69A7D-61BA-4CE8-A0EF-3863B09D84C6.jpg",
       "publishedAt": "2025-02-16T22:55:56Z",
       "content": "Los Angeles  On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt remnant… [+4851 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Natalie Venegas",
-      "title": "Trump Administration's Cuts to FDA Employees Raises Concerns",
-      "description": "The total number of FDA positions eliminated remains unclear, but the firings appear to impact centers for food, medical devices and tobacco products.",
-      "url": "https://www.newsweek.com/trump-administrations-cuts-fda-employees-raise-concern-2031992",
-      "urlToImage": "https://d.newsweek.com/en/full/2589546/food-drug-administration.jpg",
-      "publishedAt": "2025-02-16T21:56:58Z",
-      "content": "President Donald Trump administration's push to downsize the federal government has reached the U.S. Food and Drug Administration (FDA), resulting in layoffs that raises concerns over the oversight o… [+6121 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Maureen Mackey",
-      "title": "Snack product recalled due to 'undeclared almonds' detected in packaging",
-      "description": "In the latest product recall news, a company based in Hawaii issued a voluntary recall due to \"undeclared almonds\" discovered in its milk chocolate-covered macadamia nuts snack packages.",
-      "url": "https://www.foxnews.com/food-drink/snack-product-recalled-due-undeclared-almonds-detected-packaging",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/nuts-legumes.jpg",
-      "publishedAt": "2025-02-16T21:47:07Z",
-      "content": "The Mauna Loa Macadamia Nut Company, LLC, has issued a product recall due to \"undeclared almonds\" that were found in its milk chocolate-covered macadamia nut product sold in 1-ounce pouches. \r\nThe co… [+2868 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Francesca Gariano",
-      "title": "FDA sets highest risk level for recall on popular pancake and waffle mix",
-      "description": "The U.S. Food and Drug Administration classified the Pearl Milling Company Original Pancake & Waffle Mix recall as a Class I.",
-      "url": "https://www.today.com/food/recall/pancake-waffle-mix-recall-fda-rcna192396",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-02/pearl-milling-company-pancakeslp-250216-35a26c.jpg",
-      "publishedAt": "2025-02-16T19:08:52Z",
-      "content": "The U.S. Food and Drug Administration issued the highest risk classification to its Pearl Milling Company pancake and waffle mix recall.\r\nThe Quaker Oats Company initially issued a recall on Jan. 14 … [+2188 chars]"
     }
   ],
   "totalResults": 92,
