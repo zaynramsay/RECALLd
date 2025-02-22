@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-02-21T18:29:00.023Z",
+  "lastUpdated": "2025-02-22T01:40:20.631Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "Dr. Mercola",
+      "title": "EPA Reviews Nitrate Limits in Drinking Water as Cancer Concerns Grow",
+      "description": "A March 2024 study published in Public Health delivered sobering news: detecting nitrate in your drinking water is associated with a 73% increased risk of cancer mortality.1 Further, for every 10-fold increase in drinking water nitrate levels, your risk of dy…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/21/nitrate-limits-in-drinking-water.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/nitrate-limits-in-drinking-water-fb.jpg",
+      "publishedAt": "2025-02-21T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers",
+      "description": "China-linked cyber espionage group Salt Typhoon uses custom malware JumbledPath to on spy U.S. telecom providers. Cisco Talos researchers reported that China-linked APT group Salt Typhoon uses a custom-built utility, dubbed JumbledPath, to spy on network traf…",
+      "url": "https://securityaffairs.com/174460/apt/salt-typhoon-custom-malware-jumbledpath-to-spy-u-s-telecom-providers.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-36.png",
+      "publishedAt": "2025-02-20T23:17:10Z",
+      "content": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entities\r\n | Microsoft fixed actively exploited flaw in Power Page… [+141146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The BMJ"
+      },
+      "author": "Kayembe Ntumba, H. C., Taty, N., Mako, S., Batumbo, D. B.",
+      "title": "Assessment of knowledge, attitudes and practices regarding cholera among people living in a cholera-endemic health zone in the Democratic Republic of the Congo",
+      "description": "Objectives To assess cholera-related knowledge, attitudes and practices (KAP) and identify associated factors in a cholera endemic health zone in the Democratic Republic of the Congo (DRC).\n\nDesign A community-based cross-sectional study.\n\nSetting The study w…",
+      "url": "https://bmjopen.bmj.com/content/15/2/e091360",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2025-02-20T22:36:32Z",
+      "content": "Introduction\r\nCholera is a longstanding disease that remains a major public health threat in resource-limited settings.1 2 It is an epidemic diarrhoeal disease caused by ingestion of food or water co… [+13858 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ncspin.com"
+      },
+      "author": "by Greg Childress",
+      "title": "As US, NC homelessness numbers rise, officials and nonprofits make headway in helping veterans",
+      "description": "Experts say the downward trend in the number of homeless vets shows the value of sustained and targeted public investments.",
+      "url": "https://www.ncspin.com/as-us-nc-homelessness-numbers-rise-officials-and-nonprofits-make-headway-in-helping-veterans",
+      "urlToImage": "https://www.ncspin.com/assets/images/og-othervoices-v2-1200x628.jpg",
+      "publishedAt": "2025-02-20T22:35:26Z",
+      "content": "An 8% reduction in the number of veterans experiencing homelessness on a given night in January 2024 is the lone bright spot in an otherwise grim U.S. Department of Housing and Urban Development (HUD… [+14297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "Do Eggs Go Bad? Here's How Long You Can Keep Them in the Fridge",
+      "description": "Eggs stay fresh much longer than you might expect. Don't throw them out too soon.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/do-eggs-go-bad-heres-how-long-you-can-keep-them-in-the-fridge/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/0d056aa80a1c774b5b4902fa928d1737c41cd2f0/hub/2023/01/17/07e6ec54-fa9a-47d7-8b43-281b592862b2/gettyimages-99277066.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-20T21:30:04Z",
+      "content": "Eggs are a powerhouse of protein, making them a staple in many diets. Not only are they packed with nutrients, but they're also versatile and easy to cook. If you're stocking up, proper storage is ke… [+5094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Kyt Dotson",
+      "title": "Spore.Bio raises $23M to cut microbiology testing to minutes from days using AI",
+      "description": "Paris-based Spore.Bio, a startup that developed an artificial intelligence-driven method for detecting pathogens, said today it has raised $23 million in early-stage funding to reinvent microbiology testing. The company’s Series A funding round was led by Sin…",
+      "url": "https://siliconangle.com/2025/02/20/spore-bio-raises-23m-cut-microbiology-testing-minutes-days-using-ai/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/coronaimage.jpg",
+      "publishedAt": "2025-02-20T18:50:00Z",
+      "content": "Paris-based Spore.Bio, a startup that developed an artificial intelligence-driven method for detecting pathogens, said today it has raised $23 million in early-stage funding to reinvent microbiology … [+3387 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -514,7 +592,7 @@
         "name": "CNN"
       },
       "author": "Annette Choi",
-      "title": "Food recalls in the US were more widespread �� and deadly – in 2024 | CNN",
+      "title": "Food recalls in the US were more widespread – and deadly – in 2024 | CNN",
       "description": "Contaminated food is causing a growing number of illnesses in the United States, and severe cases that lead to hospitalization or death are becoming more common.",
       "url": "https://www.cnn.com/2025/02/18/health/us-food-recall-list-2024-dg-wellness/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250214-food-recalls-card-exlargetease.png?c=16x9&q=w_800,c_fill",
@@ -1118,73 +1196,8 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/02/gs_1.png",
       "publishedAt": "2025-02-16T19:00:00Z",
       "content": "<ul><li>Self-described consumer groups Moms Across America and GMOScience posted lab reports in which Girl Scout cookies tested positive for heavy metals and the herbicide glyphosate. </li><li>Lab re… [+20485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox Business",
-      "title": "Quaker Oats pancake mix recall upgraded to highest risk level over threat of ‘life-threatening allergic reaction’",
-      "description": "The Quaker Oats Company, a subsidiary of Pepsi Co, previously announced the limited recall of certain boxes of Pearl Milling Company Original Pancake & Waffle Mix on Jan. 14.",
-      "url": "https://nypost.com/2025/02/16/business/quaker-oats-pancake-mix-recall-upgraded-to-highest-risk-level-over-threat-of-death/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/newspress-collage-ic7lu8069-1739725859822.jpg?quality=75&strip=all&1739707958&w=1024",
-      "publishedAt": "2025-02-16T17:21:53Z",
-      "content": "Officials from the Food and Drug Administration (FDA) recently escalated the recall of certain Quaker Oats pancake mixes earlier this week, increasing the recall category to the most serious level.\r\n… [+2623 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Bill Marler",
-      "title": "Publisher’s Platform: Bacillus cereus and Leftover Rice: Perhaps best to Avoid",
-      "description": "Food safety is a critical aspect of health, and understanding the risks associated with improper food handling and storage can prevent foodborne illnesses. One microorganism that poses a risk, especially with leftover rice, is Bacillus cereus. This article wi…",
-      "url": "https://www.foodsafetynews.com/2025/02/publishers-platform-bacillus-cereus-and-leftover-rice-perhaps-best-to-avoid/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/355/675/g4ZpR2ONeYJByM5EYEqvo9WBA/7a8ccd528c5a466299ea0d1aafdc95bec9cd292b.png",
-      "publishedAt": "2025-02-16T16:33:59Z",
-      "content": "Food safety is a critical aspect of health, and understanding the risks associated with improper food handling and storage can prevent foodborne illnesses. One microorganism that poses a risk, especi… [+4200 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "The Associated Press",
-      "title": "Scientists racing to discover the depth of ocean damage sparked by the LA wildfires",
-      "description": "LOS ANGELES — On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.",
-      "url": "https://www.nbcnews.com/news/us-news/scientists-racing-discover-depth-ocean-damage-la-wildfires-rcna192387",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250109-California-Wildfire-530p-a4119f.jpg",
-      "publishedAt": "2025-02-16T15:05:54Z",
-      "content": "LOS ANGELES On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt remnants… [+5355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Storm-2372 used the device code phishing technique since August 2024",
-      "description": "Russia-linked group Storm-2372 used the device code phishing technique since Aug 2024 to steal login tokens from governments, NGOs, and industries. Microsoft Threat Intelligence researchers warn that threat actor Storm-2372, likely linked to Russia, has been …",
-      "url": "https://securityaffairs.com/174270/apt/storm-2372-used-device-code-phishing-technique.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-24.png",
-      "publishedAt": "2025-02-16T14:29:43Z",
-      "content": "Storm-2372 used the device code phishing technique since August 2024\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 33\r\n | Security Affairs newsletter Round 511 by Pierluigi Paganini INTERNATIONAL EDI… [+139946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 33",
-      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Mobile Indian Cyber Heist: FatBoyPanel And His Massive Data Breach Google Tag Manager Skimmer Steals Credit Card Info From M…",
-      "url": "https://securityaffairs.com/174262/malware/security-affairs-malware-newsletter-round-33.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "publishedAt": "2025-02-16T10:01:42Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 33\r\n | Security Affairs newsletter Round 511 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | U.S. CISA adds Apple iOS and iPadOS and Mitel SIP Phones flaws t… [+139873 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 92,
   "filteredCount": 0
 }
