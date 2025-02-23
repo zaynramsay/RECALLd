@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-02-23T06:28:03.474Z",
+  "lastUpdated": "2025-02-23T12:38:56.083Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Apple removes iCloud encryption in UK following backdoor demand",
+      "description": "Apple removed iCloud’s Advanced Data Protection in the UK after the government requested encryption backdoor access. Apple ends iCloud end-to-end encryption in the United Kingdom following the government’s request for encryption backdoor access. Advanced Data…",
+      "url": "https://securityaffairs.com/174500/security/apple-removes-icloud-encryption-in-uk.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-38.png",
+      "publishedAt": "2025-02-22T11:50:56Z",
+      "content": "Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurrency heist ever\r\n | Apple removes iCloud encryption in UK following backdoor demand\r\n | B1acks Stash released 1 Million credit cards\r\n … [+141406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bengreenfieldlife.com"
+      },
+      "author": "support@bengreenfieldfitness.com (Ben Greenfield)",
+      "title": "A Little-Known Trick To GET RID Of Pesky Gut Issues, Are You Burning As Many Calories As You *Think*?, Hair Growth Hacks & More: Solosode #486",
+      "description": "Listen on: Reading time: 6 minutes What I Discuss The surprising inaccuracy of online metabolic rate calculators, how individual BMR\nThe post A Little-Known Trick To GET RID Of Pesky Gut Issues, Are You Burning As Many Calories As You *Think*?, Hair Growth Ha…",
+      "url": "https://bengreenfieldlife.com/podcast/qa-486/",
+      "urlToImage": "https://bengreenfieldlife.com/wp-content/uploads/2100/12/486-WP.png",
+      "publishedAt": "2025-02-22T10:00:26Z",
+      "content": "Ben Greenfield [00:00:00]: In this episode of the Boundless Life podcast, a little known tricks to get rid of pesky gut issues. Are you burning as many calories as you think? Hair growth hacks and a … [+49982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "SCIENCE-BASED NUTRITION: Itâs time for 200 MILLION AMERICANS to end their Western Medicine real-life nightmares and switch to evidence-based natural medicine",
+      "description": "Western medicine’s emphasis on “science-based” prescription medications and vaccines is criticized for being unsafe, ineffective and influenced by pharma-funded research, leading to a call for skepticism and a shift towards natural, evidence-based medicine. S…",
+      "url": "https://www.naturalnews.com/2025-02-22-time-to-switch-evidence-based-natural-medicine.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/OVERWHELMING-scientific-evidence-supports-NATURAL-medicine.jpg",
+      "publishedAt": "2025-02-22T06:00:00Z",
+      "content": "<ul><li>Western medicine's emphasis on \"science-based\" prescription medications and vaccines is criticized for being unsafe, ineffective and influenced by pharma-funded research, leading to a call fo… [+4669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mental Floss"
+      },
+      "author": "Chris Wheatley",
+      "title": "Does Bagged Lettuce Still Need to Be Rinsed?",
+      "description": "Are bagged salads and other leafy greens safe to eat without rinsing off first? Find out whether pre-washed produce still needs to be cleaned off beforehand, plus more.",
+      "url": "https://www.mentalfloss.com/should-you-wash-bagged-lettuce",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_58,w_2211,h_1243/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01jmdhdev0et59cbcd9a.jpg",
+      "publishedAt": "2025-02-21T23:02:00Z",
+      "content": "Food safety can be a confusing issueespecially when youre grabbing things out of the produce aisle. Even though lots of fruits and vegetables seem good enough to eat straight from the stand, they can… [+3471 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -13,6 +65,32 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-37.png",
       "publishedAt": "2025-02-21T14:41:14Z",
       "content": "B1acks Stash released 1 Million credit cards\r\n | Atlassian fixed critical flaws in Confluence and Crowd\r\n | Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker… [+141254 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foodpolitics.com"
+      },
+      "author": "Marion",
+      "title": "Future reading: The Fish Counter!",
+      "description": "My next forthcoming book is now available for preorder. I say next, because this one is a bit of a surprise, even to me.  It’s a spinoff from my forthcoming (in September, I think) new and thoroughly revised edition of What to Eat, retitled What to Eat Now—th…",
+      "url": "https://www.foodpolitics.com/2025/02/future-reading-the-fish-counter/",
+      "urlToImage": "https://www.foodpolitics.com/wp-content/uploads/Picador_Nestle_FishCounter-002-scaled.jpg",
+      "publishedAt": "2025-02-21T14:00:33Z",
+      "content": "My next forthcoming book is now available for preorder.\r\nI say next, because this one is a bit of a surprise, even to me.  It’s a spinoff from my forthcoming (in September, I think) new and thoroughl… [+1880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Federalist"
+      },
+      "author": "Jenni White",
+      "title": "Your ‘Farm Fresh’ Produce Might Be Fertilized With Forever Chemicals And Human Waste",
+      "description": "Some farms avoid expensive commercial fertilizers by using free treated human sewage, which can contain anything that goes down a sewer.",
+      "url": "https://thefederalist.com/2025/02/21/your-farm-fresh-produce-might-be-fertilized-with-forever-chemicals-and-human-waste/",
+      "urlToImage": "https://thefederalist.com/wp-content/uploads/2025/02/2048px-Manure_spreader_Record_2-e1739909432637.jpg",
+      "publishedAt": "2025-02-21T12:32:45Z",
+      "content": "We lost our third sheep of the week last night and I fell asleep exhausted on a pillow wet with tears.\r\nShe was an adorable little “elf-eared” lamb that had been born too small and apparently with a … [+9565 chars]"
     },
     {
       "source": {
@@ -1105,99 +1183,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
       "publishedAt": "2025-02-17T07:30:00Z",
       "content": "NEWARK, Del, Feb. 17, 2025 (GLOBE NEWSWIRE) -- The global digital textile printing market is poised for remarkable growth, with market size projected to increase from USD 3,012.5 million in 2025 to a… [+10280 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "Why Quaker Oats Waffle Recall Set To FDA’s Highest Risk Level",
-      "description": "FDA updates Quaker Oats' pancake & waffle mix recall to Class I, its highest risk level, due to undeclared milk. Check if your pantry is affected.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/17/why-quaker-oats-waffle-recall-set-to-fdas-highest-risk-level/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b2e20ce97dce398a851c78/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-17T07:26:34Z",
-      "content": "The FDA has officially classified the recall of Pearl Milling Company Original Pancake &amp; Waffle Mix ... [+] as a Class I health risk, its highest levelheres what that means for consumers.\r\ngetty\r… [+5764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CounterPunch"
-      },
-      "author": "Henry Giroux",
-      "title": "Trump’s Reign of Cruelty",
-      "description": "Neoliberalism has always been more than an economic project; it is a political and educational weapon designed to erode social solidarity and dismantle the foundations of democracy. It does not merely defund public institutions like healthcare, education, and…",
-      "url": "https://www.counterpunch.org/2025/02/17/trumps-reign-of-cruelty/",
-      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/02/Screenshot-2025-02-16-at-1.46.51-PM.png",
-      "publishedAt": "2025-02-17T07:00:11Z",
-      "content": "Neoliberalisms Embrace of Cruelty and Its Assault on Social Bonds\r\nNeoliberalism has always been more than an economic project; it is a political and educational weapon designed to erode social solid… [+20492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marlerblog.com"
-      },
-      "author": "Bill Marler",
-      "title": "PIRG calls it: 2024 recalls for Salmonella, Listeria and E. coli increased by 41 percent over 2023",
-      "description": "More people in the United States got sick from contaminated food in 2024 than the year before, and the number of people who were hospitalized or died doubled, according to U.S. PIRG Education Fund’s new report, Food for Thought 2025. Of the people who were si…",
-      "url": "https://www.marlerblog.com/case-news/pirg-calls-it-2024-recalls-for-salmonella-listeria-and-e-coli-increased-by-41-percent-over-2023/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/382/959/Nxmo39RaVQ9kyqEyzAOe2Ewg5/479f49b3a4b3b56cf95451b74cc318c3258b1c64.png",
-      "publishedAt": "2025-02-17T07:00:05Z",
-      "content": "More people in the United States got sick from contaminated food in 2024 than the year before, and the number of people who were hospitalized or died doubled, according to U.S. PIRG Education Funds n… [+1942 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Dorany Pineda",
-      "title": "Scientists are racing to discover the depth of ocean damage sparked by the LA wildfires",
-      "description": "On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.",
-      "url": "https://phys.org/news/2025-02-scientists-depth-ocean-la-wildfires.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-are-racing.jpg",
-      "publishedAt": "2025-02-17T06:55:59Z",
-      "content": "On a recent Sunday, Tracy Quinn drove down the Pacific Coast Highway to assess damage wrought upon the coastline by the Palisades Fire.\r\nThe water line was darkened by ash. Burnt remnants of washing … [+6164 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Lance D Johnson",
-      "title": "Russian scientist speaks out on the OVER-HYPED threat of microplastics, explains how body adapts to particles this small",
-      "description": "In recent years, microplastics have become a focal point of environmental and health discussions, with alarming headlines warning of their pervasive presence in our food, water, and even our bodies. But are these concerns justified, or is the media exaggerati…",
-      "url": "https://www.naturalnews.com/2025-02-17-russian-scientist-speaks-out-over-hyped-threat-of-microplastics.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/A-scientist-with-medical-gloves-holding-a-test-tube-full-of-micro-plastics-1.jpg",
-      "publishedAt": "2025-02-17T06:00:00Z",
-      "content": "In recent years, microplastics have become a focal point of environmental and health discussions, with alarming headlines warning of their pervasive presence in our food, water, and even our bodies. … [+5844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "2024 recalls for Salmonella, Listeria and E. coli increased by 41 percent over 2023",
-      "description": "More people in the United States got sick from contaminated food in 2024 than the year before, and the number of people who were hospitalized or died doubled, according to U.S. PIRG Education Fund’s new report, Food for Thought 2025. Of the people who were si…",
-      "url": "https://www.foodsafetynews.com/2025/02/2024-recalls-for-salmonella-listeria-and-e-coli-increased-by-41-percent-over-2023/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/378/422/KZA1qL8r0zlErgNn6epakDXbM/3adef9948f2a651a0971d94ad87c6568512c3751.png",
-      "publishedAt": "2025-02-17T05:03:00Z",
-      "content": "More people in the United States got sick from contaminated food in 2024 than the year before, and the number of people who were hospitalized or died doubled, according to U.S. PIRG Education Fund’s … [+2004 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Life"
-      },
-      "author": "Vivian",
-      "title": "Waffle & Pancake Recall: Which Products Were Taken Off Shelves?",
-      "description": "Find out more about the Quaker Oats Co. recall, which involves over 10,000 boxes of pancake mix due to undeclared milk on the label.",
-      "url": "https://hollywoodlife.com/feature/waffle-pancake-recall-products-5370511/",
-      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2025/02/GettyImages-1344134471_096c6e-e1739745906577.jpg?fit=2490%2C1405",
-      "publishedAt": "2025-02-17T01:59:07Z",
-      "content": "Image Credit: UCG/Universal Images Group via Getty Images\r\nAt the start of the year, Quaker Oats recalled over 10,000 products, and now officials from the Food and Drug Administration (FDA) have esca… [+1974 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 91,
   "filteredCount": 0
 }
