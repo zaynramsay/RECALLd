@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-02-24T06:31:44.590Z",
+  "lastUpdated": "2025-02-24T12:44:12.770Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 512 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Lazarus APT st…",
+      "url": "https://securityaffairs.com/174529/breaking-news/security-affairs-newsletter-round-512-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-02-23T12:38:51Z",
+      "content": "Security Affairs newsletter Round 512 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurrency heist ever\r\n | Apple removes iCloud encrypti… [+141492 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,19 +1196,6 @@
       "urlToImage": null,
       "publishedAt": "2025-02-17T13:23:07Z",
       "content": "Skip to comments.\r\nFederal law prohibits sending abortion drugs by US mail so why isnt it being enforced?Live Action News ^\r\n | February 13, 2025\r\nPosted on 02/17/2025 5:23:07 AM PST by Morgana\r\nOne … [+16152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Expose-news.com"
-      },
-      "author": "Rhoda Wilson",
-      "title": "Genetically modified microorganisms found in hundreds of foodstuffs on supermarket shelves carry potential health risks",
-      "description": "Dr. Guy Hatchard highlights that genetically modified microorganisms (“GMMs”) are widely used in food production, including in everyday products such as bread, meat, dairy and beverages, due to the…",
-      "url": "https://expose-news.com/2025/02/17/gmms-in-hundreds-of-foodstuffs/",
-      "urlToImage": "https://i0.wp.com/expose-news.com/wp-content/uploads/2025/02/FtFeb17.png?resize=1200%2C720&ssl=1",
-      "publishedAt": "2025-02-17T12:09:36Z",
-      "content": "Dr. Guy Hatchard highlights that genetically modified microorganisms (GMMs) are widely used in food production, including in everyday products such as bread, meat, dairy and beverages, due to their a… [+14908 chars]"
     }
   ],
   "totalResults": 92,
