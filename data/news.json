@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-02-24T12:44:12.770Z",
+  "lastUpdated": "2025-02-24T18:30:31.423Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
+      "title": "Listeria Outbreak—Recalled Shakes Linked To 11 Deaths In Nursing Homes",
+      "description": "A Listeria outbreak linked to recalled frozen shakes has killed 11 people, raising concerns about food safety oversight in nursing homes and hospitals.",
+      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/23/listeria-outbreak-recalled-shakes-linked-to-11-deaths-in-nursing-homes/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67bb67e458b59c8e69831978/0x0.jpg?format=jpg&crop=4066,2285,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-23T18:27:53Z",
+      "content": "A Listeria outbreak linked to recalled frozen shakes has killed 11 people, raising concerns about ... [+] food safety oversight in nursing homes and hospitals.\r\ngetty\r\nFrozen shakes served in nursing… [+6359 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Ice Cream Recall Update As FDA Issues Highest Risk Warning",
+      "description": "An Arizona company recalled the product in January over the possibility of it containing an undeclared allergen.",
+      "url": "https://www.newsweek.com/ice-cream-recall-fda-update-2034962",
+      "urlToImage": "https://d.newsweek.com/en/full/2593698/ice-cream.jpg",
+      "publishedAt": "2025-02-23T15:40:07Z",
+      "content": "The Food and Drug Administration (FDA) has classified Arizona Foods Group's Mombo's Vanilla Soft Serve Ice Cream Mix at its highest risk level, Class I, after the company recalled the product in Janu… [+2617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Microsoft Power Pages flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft Power Pages vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Microsoft Power Pages vulnerability,…",
+      "url": "https://securityaffairs.com/174541/hacking/u-s-cisa-adds-microsoft-power-pages-flaw-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-23T15:07:46Z",
+      "content": "U.S. CISA adds Microsoft Power Pages flaw to its Known Exploited Vulnerabilities catalog\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 34\r\n | Security Affairs newsletter Round 512 by Pierluigi Pagani… [+141634 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 34",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. You’ve Got Malware: FINALDRAFT Hides in Your Drafts   Telegram Abused as C2 Channel for New Golang Backdoor   Infostealing M…",
+      "url": "https://securityaffairs.com/174534/uncategorized/security-affairs-malware-newsletter-round-34.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-02-23T12:59:59Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 34\r\n | Security Affairs newsletter Round 512 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurr… [+141541 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -399,6 +451,19 @@
       "author": "BestReviews",
       "title": "Best paella pan",
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
+      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
+      "publishedAt": "2025-02-20T09:04:24Z",
+      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "BestReviews",
+      "title": "Best paella pan",
+      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/19/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
@@ -414,19 +479,6 @@
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/20/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T09:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
       "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
     },
@@ -1144,58 +1196,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-28.png",
       "publishedAt": "2025-02-17T18:41:06Z",
       "content": "New Golang-based backdoor relies on Telegram for C2 communication\r\n | Pro-Russia collective NoName057(16) launched a new wave of DDoS attacks on Italian sites\r\n | whoAMI attack could allow remote cod… [+140180 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Sydney Lupkin",
-      "title": "When online weight-loss drugs are too good to be true",
-      "description": "A telehealth company partnered with a pharmacy that lacked a required license, raising doubts about the safety and efficacy of the weight-loss medicines it mailed to patients.",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/02/17/nx-s1-5299288/semaglutide-wegovy-zepbound-compounding-pharmacy",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2304x1296+5+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2F9d%2F8198d0e3445b808388ca329ba12b%2Fgettyimages-injector-pen.jpg",
-      "publishedAt": "2025-02-17T17:15:04Z",
-      "content": "For customers using a telehealth website to get cheaper versions of popular obesity drugs, the low prices turned out to be too good to be true.\r\nCustomers of Zappy Health tell NPR they were drawn to … [+10997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox Business",
-      "title": "FDA recalls millions of granola bars for a ‘potential presence of metal’",
-      "description": "A food distributor is recalling certain batches of granola bars due to potential contamination involving a metal object, according to officials.",
-      "url": "https://nypost.com/2025/02/17/health/fda-granola-bars-recalled-for-a-potential-presence-of-metal/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/98731421.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-02-17T16:13:49Z",
-      "content": "A food distributor is recalling certain batches of granola bars due to potential contamination involving a metal object, according to officials.\r\nThe recall, which was initiated by Riverside Natural … [+2622 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Statistics",
-      "title": "Preparative and Process Chromatography Market Size to Scale USD 27.16 Bn by 2034",
-      "description": "The global preparative and process chromatography market size is calculated at USD 12.39 billion in 2025 and is expected to reach around USD 27.16 billion by 2034, growing at a CAGR of 9.11% for the forecasted period. The global preparative and process chroma…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/17/3027314/0/en/Preparative-and-Process-Chromatography-Market-Size-to-Scale-USD-27-16-Bn-by-2034.html",
-      "urlToImage": null,
-      "publishedAt": "2025-02-17T15:30:00Z",
-      "content": "Ottawa, Feb. 17, 2025 (GLOBE NEWSWIRE) -- The global preparative and process chromatography market size was valued at USD 11.36 billion in 2024 and is predicted to hit around USD 24.89 billion by 203… [+12746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Live Action News",
-      "title": "Federal law prohibits sending abortion drugs by US mail… so why isn’t it being enforced?",
-      "description": "One of the jobs of the United States Postal Service (USPS) is to “prevent the flow of illicit drugs and contraband through the mail stream” and to “eliminate the mailing of opioids and other illicit drugs and it works closely with other law enforcement agenci…",
-      "url": "https://freerepublic.com/focus/f-news/4298202/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-02-17T13:23:07Z",
-      "content": "Skip to comments.\r\nFederal law prohibits sending abortion drugs by US mail so why isnt it being enforced?Live Action News ^\r\n | February 13, 2025\r\nPosted on 02/17/2025 5:23:07 AM PST by Morgana\r\nOne … [+16152 chars]"
     }
   ],
   "totalResults": 92,
