@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-02-23T18:26:35.875Z",
+  "lastUpdated": "2025-02-24T01:46:17.385Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Cheese sold in Canada recalled because of contamination with E. coli",
+      "description": "Jean Perrin brand Morbier de Scey and Raclette de Scey (cheeses) are under recall in Canada because of contamination with pathogenic E. coli. According to the Canadian Food Inspection Agency the cheeses were distributed in Alberta, British Columbia, Manitoba …",
+      "url": "https://www.foodsafetynews.com/2025/02/cheese-sold-in-canada-recalled-because-of-contamination-with-e-coli/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/939/251/jMVrobL3AQ5krK4yzG9ReqJW5/1c13e8c59ae2d63c6b10c7c25dc8724449c2718a.png",
+      "publishedAt": "2025-02-23T00:55:01Z",
+      "content": "Jean Perrin brand Morbier de Scey and Raclette de Scey (cheeses) are under recall in Canada because of contamination with pathogenic E. coli.\r\nAccording to the Canadian Food Inspection Agency the che… [+3085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurrency heist ever",
+      "description": "Crypto exchange Bybit was the victim of a sophisticated attack, and threat actors stole $1.5B worth of cryptocurrency from one of the company’s offline wallets. Crypto exchange Bybit suffered a sophisticated cyberattack, threat actors transferred over 400,000…",
+      "url": "https://securityaffairs.com/174514/cyber-crime/lazarus-stole-1-5b-from-bybit-cryptocurrency-heist.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2017/11/ethereum-price-fb.jpg",
+      "publishedAt": "2025-02-23T00:19:03Z",
+      "content": "Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurrency heist ever\r\n | Apple removes iCloud encryption in UK following backdoor demand\r\n | B1acks Stash released 1 Million credit cards\r\n … [+141406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Lyons Magnus Recalls Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes Manufactured by Third Party Because of Possible Health Risk",
+      "description": "Lyons Magnus LLC (“Lyons Magnus”) today announced that it is voluntarily recalling 4 oz. Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes due to the potential for the products to be contaminated with Listeria monocytogenes. Lyons Magnus is taking…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lyons-magnus-recalls-lyons-readycare-and-sysco-imperial-frozen-supplemental-shakes-manufactured",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-02-22T18:18:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 22, 2025\r\nFDA Publish Date:\r\nFebruary 23, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Descript… [+4891 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,34 +1196,8 @@
       "urlToImage": "https://i0.wp.com/expose-news.com/wp-content/uploads/2025/02/FtFeb17.png?resize=1200%2C720&ssl=1",
       "publishedAt": "2025-02-17T12:09:36Z",
       "content": "Dr. Guy Hatchard highlights that genetically modified microorganisms (GMMs) are widely used in food production, including in everyday products such as bread, meat, dairy and beverages, due to their a… [+14908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Pro-Russia collective NoName057(16) launched a new wave of DDoS attacks on Italian sites",
-      "description": "Pro-Russia collective NoName057(16) launched DDoS attacks on Italian sites, targeting airports, the Transport Authority, major ports, and banks. The pro-Russia hacker group NoName057(16) launched a new wave of DDoS attacks this morning against multiple Italia…",
-      "url": "https://securityaffairs.com/174294/hacktivism/noname05716-launched-ddos-attacks-on-italian-sites.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-27.png",
-      "publishedAt": "2025-02-17T10:14:18Z",
-      "content": "Pro-Russia collective NoName057(16) launched a new wave of DDoS attacks on Italian sites\r\n | whoAMI attack could allow remote code execution within AWS account\r\n | Storm-2372 used the device code phi… [+140110 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "whoAMI attack could allow remote code execution within AWS account",
-      "description": "Researchers warn that the whoAMI attack lets attackers publish an AMI with a specific name to execute code in an AWS account. Cybersecurity researchers at Datadog Security Labs devised a new name confusion attack technique, called whoAMI, that allows threat a…",
-      "url": "https://securityaffairs.com/174283/breaking-news/whoami-attack-rce-within-aws-account.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-25.png",
-      "publishedAt": "2025-02-17T09:05:02Z",
-      "content": "Pro-Russia collective NoName057(16) launched a new wave of DDoS attacks on Italian sites\r\n | whoAMI attack could allow remote code execution within AWS account\r\n | Storm-2372 used the device code phi… [+140110 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 92,
   "filteredCount": 0
 }
