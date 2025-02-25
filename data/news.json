@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-02-25T12:43:42.737Z",
+  "lastUpdated": "2025-02-25T18:30:39.802Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Isabel Keane",
+      "title": "Nutritional shakes served in nursing homes, hospitals recalled over listeria outbreak that’s killed at least 11",
+      "description": "Frozen nutritional shakes given to hospital patients and long-term care residents have been recalled after they were linked to 11 deaths and dozens of serious illnesses — with the outbreak dating back to 2018.",
+      "url": "https://nypost.com/2025/02/24/us-news/nutritional-shakes-from-lyons-magnus-recalled-over-listeria/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/99172807.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-02-24T18:14:38Z",
+      "content": "Frozen nutritional shakes given to hospital patients and long-term care residents have been recalled after they were linked to 11 deaths and dozens of serious illnesses with the outbreak dating back … [+1672 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Sophie Clark",
+      "title": "Chicken Caesar Wrap Recall Over Allergic Reaction Fears",
+      "description": "A chicken Caesar wrap has been recalled in Washington state because it contains an undeclared allergen.",
+      "url": "https://www.newsweek.com/chicken-cesear-wrap-recall-over-allergen-fears-2035371",
+      "urlToImage": "https://d.newsweek.com/en/full/2594297/chicken-cesear-wraps.png",
+      "publishedAt": "2025-02-24T16:52:44Z",
+      "content": "A chicken Caesar wrap product has been pulled from shelves because it contains an undeclared allergen. The wraps, produced by LPK1, contained anchovies but did not declare fish on their allergens lis… [+2530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Drew Weisholtz",
+      "title": "Shakes at nursing homes recalled over listeria following deaths and hospitalizations",
+      "description": "Frozen shakes at long-term facilities throughout the country have been recalled due to listeria. The FDA is investigating.",
+      "url": "https://www.today.com/health/recall/shakes-distributed-nursing-homes-recalled-listeria-rcna193427",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-02/shake-recall-mc-250224-copy-937359.jpg",
+      "publishedAt": "2025-02-24T16:23:48Z",
+      "content": "Frozen shakes distributed in long-term facilities around the United States have been recalled due to potential listeria contamination. \r\nLyons Magnus announced Feb. 22 that it had issued a recall for… [+2451 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Joe Edwards",
+      "title": "Nationwide Mac & Cheese Snack Recall As FDA Issues Risk Warning",
+      "description": "Feel Good Foods Inc. issued a voluntary recall for thousands of cases of its Mac & Cheese Bites in February due to the possible presence of metal pieces.",
+      "url": "https://www.newsweek.com/mac-cheese-snack-recall-fda-class-ii-risk-feel-good-foods-new-york-2035208",
+      "urlToImage": "https://d.newsweek.com/en/full/2594179/mac-cheese.jpg",
+      "publishedAt": "2025-02-24T14:59:47Z",
+      "content": "A nationwide recall for a macaroni and cheese snack has been issued a Class II risk classification by the U.S. Food and Drug Administration (FDA).\r\nFeel Good Foods Inc., a New York based company, iss… [+2739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Chicken Caesar wraps sold in veding machines in Washington recalled over undeclared fish",
+      "description": "LPK1, of Renton, WA, is recalling approximately 303 pounds of ready-to-eat chicken Caesar wrap products because of misbranding and an undeclared allergen, according to the U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS).  The produc…",
+      "url": "https://www.foodsafetynews.com/2025/02/chicken-caesar-wraps-sold-in-veding-machines-in-washington-recalled-over-undeclared-fish/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/082/079/203/NWlVkgmbMQEB1KLrYZyAqEwDo/59d5982c10d6f31c097a8fe9b726c1ad19674cf3.png",
+      "publishedAt": "2025-02-24T14:28:18Z",
+      "content": "LPK1, of Renton, WA, is recalling approximately 303 pounds of ready-to-eat chicken Caesar wrap products because of misbranding and an undeclared allergen, according to the U.S. Department of Agricult… [+2049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Aizhan Konysbayeva, Zura Yessimsiitova, Murat Toktar, Alibek Mutushev, Yryszhan Zhakypbek, Serik Tursbekov, Galiya Tursbekova, Zhenis Kozhayev, Assel Kozhamzharova, Serzhan Mombekov, Saki Raheem",
+      "title": "Result of reclamation of man-made dumps from phosphorite deposits in the semi-desert zone of Kazakhstan",
+      "description": "Pollution from industrial activities, including heavy metal contamination, poses severe environmental challenges, especially in industrialized regions. This study evaluates reclamation efforts at the Kokzhon phosphorite deposit in Kazakhstan’s semi-desert zon…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317500",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317500.g006&size=inline",
+      "publishedAt": "2025-02-24T14:00:00Z",
+      "content": "Introduction\r\nGrowing industrial activities have significantly transformed natural systems, surpassing many natural processes in scale and impact. The intensive extraction of oil, ore, coal, and gas … [+28361 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Australia bans Kaspersky over national security concerns",
+      "description": "Australia bans Kaspersky software over national security concerns, citing risks of foreign interference, espionage, and sabotage of government networks. Australian Government banned products and services provided by Russian cybersecurity firm Kaspersky over n…",
+      "url": "https://securityaffairs.com/174586/intelligence/australia-bans-kaspersky-over-national-security-concerns.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/04/eugene-kaspersky.jpg",
+      "publishedAt": "2025-02-24T13:51:30Z",
+      "content": "Australia bans Kaspersky over national security concerns\r\n | A data leak exposes the operations of the Chinese private firm TopSec, which provides Censorship-as-a-Service\r\n | SpyLend Android malware … [+141964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A data leak exposes the operations of the Chinese private firm TopSec, which provides Censorship-as-a-Service",
+      "description": "A leak suggests that Chinese cybersecurity firm TopSec offers censorship-as-a-service services, it provided bespoke monitoring services to a state-owned enterprise facing a corruption scandal. SentinelLABS researchers analyzed a data leak that suggests that t…",
+      "url": "https://securityaffairs.com/174579/intelligence/china-firm-topsec-provides-censorship-services.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+      "publishedAt": "2025-02-24T13:14:22Z",
+      "content": "A data leak exposes the operations of the Chinese private firm TopSec, which provides Censorship-as-a-Service\r\n | SpyLend Android malware found on Google Play enabled financial cyber crime and extort… [+141903 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cisa.gov"
+      },
+      "author": "CISA",
+      "title": "Vulnerability Summary for the Week of February 17, 2025",
+      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>a1post--A1POST.BG Shipping for Woo </td>\n<td>Cross-Site Request Forgery (CSRF) vulnerabi…",
+      "url": "https://www.cisa.gov/news-events/bulletins/sb25-055",
+      "urlToImage": null,
+      "publishedAt": "2025-02-24T13:08:20Z",
+      "content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s… [+899 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -568,19 +685,6 @@
       "author": "BestReviews",
       "title": "Best paella pan",
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T09:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/19/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
@@ -596,6 +700,19 @@
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/20/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
+      "publishedAt": "2025-02-20T09:04:24Z",
+      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "BestReviews",
+      "title": "Best paella pan",
+      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
+      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
       "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
     },
@@ -1092,112 +1209,8 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-02-18T14:20:04Z",
       "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-41\r\nProduct:\r\nDrugs \r\nRecipient:\r\nTyche Industries Ltd\r\n6-223, Sarpavaram (V)Kakinada533005Andhra PradeshIndia\r\nsandeepraju@tycheindustries.net\r\nIssu… [+12690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Marshalls Traditional Healthcare CC - 697697 - 02/10/2025",
-      "description": "CGMP/Finished Pharmaceutical/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/marshalls-traditional-healthcare-cc-697697-02102025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-18T14:20:03Z",
-      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-43\r\nProduct:\r\nDrugs \r\nRecipient:\r\nMarshalls Traditional Healthcare CC\r\n560 Main Reef RoadGermistonGauteng1400South Africa\r\nIssuing Office:\r… [+13270 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Pritam Lenka, Namrata Singh, Deepra Ghosh, Vivekanand Mahato, Sajalendu Ghosh",
-      "title": "A highly cost-effective, eco-friendly tissue lysis and extraction method for faster DNA isolation from fish fin",
-      "description": "Proper DNA extraction is an essential step in molecular biology research, for various downstream applications. Several modifications have been made to the first extraction protocol by Friedrich Miescher in 1869. The current work aimed to standardize an eco-fr…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318708",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318708.g002&size=inline",
-      "publishedAt": "2025-02-18T14:00:00Z",
-      "content": "Abstract\r\nProper DNA extraction is an essential step in molecular biology research, for various downstream applications. Several modifications have been made to the first extraction protocol by Fried… [+31123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Zachary Butzin-Dozier, Yunwen Ji, Jeremy Coyle, Ivana Malenica, Elizabeth T. Rogawski McQuade, Jessica Anne Grembi, James A. Platts-Mills, Eric R. Houpt, Jay P. Graham, Shahjahan Ali, Md Ziaur Rahman, Mohammad Alauddin, Syeda L. Famida, Salma Akther, Md. Saheen Hossen, Palash Mutsuddi, Abul K. Shoab, Mahbubur Rahman, Md. Ohedul Islam, Rana Miah, Mami Taniuchi, Jie Liu, Sarah T. Alauddin, Christine P. Stewart, Stephen P. Luby, John M. Colford Jr., Alan E. Hubbard, Andrew N. Mertens, Audrie Lin",
-      "title": "Treatment heterogeneity of water, sanitation, hygiene, and nutrition interventions on child growth by environmental enteric dysfunction and pathogen status for young children in Bangladesh",
-      "description": "Author summary Water, sanitation, hygiene, and nutrition interventions are often implemented with the goal of improving child growth and development, but we lack information on what determines which children can benefit most from these interventions. Frequent…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012881",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012881.g001&size=inline",
-      "publishedAt": "2025-02-18T14:00:00Z",
-      "content": "Citation: Butzin-Dozier Z, Ji Y, Coyle J, Malenica I, Rogawski McQuade ET, Grembi JA, et al. (2025) Treatment heterogeneity of water, sanitation, hygiene, and nutrition interventions on child growth … [+40318 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kffhealthnews.org"
-      },
-      "author": null,
-      "title": "Tuesday, February 18, 2025",
-      "description": null,
-      "url": "https://kffhealthnews.org/morning-briefing/tuesday-february-18-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-18T13:48:23Z",
-      "content": "HHS Purges Thousands Of Public Health Experts, Inspectors, And Others\r\nPractically every Department of Health and Human Services agency lost workers, who were told via email that their jobs have been… [+9878 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "Office of Inspections and Investigations",
-      "title": "Naturipe Value Added Fresh LLC Issues Allergy Alert On Undeclared Wheat & Eggs In \"Berry Buddies, Berries & Pancakes\" Lot # 1097901",
-      "description": "Naturipe Value Added Fresh LLC. of Alma, GA, is recalling its 2.1 oz./60 gram packages of \"Berry Buddies, Berries & Pancakes\" bento box snack packs because they contain wheat and EGGS that were not declared on the label. People who have allergies to WHEAT and…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naturipe-value-added-fresh-llc-issues-allergy-alert-undeclared-wheat-eggs-berry-buddies-berries",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-18T10:35:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 18, 2025\r\nFDA Publish Date:\r\nFebruary 19, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUnd… [+1877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Xerox VersaLink C7025 Multifunction printer flaws may expose Windows Active Directory credentials to attackers",
-      "description": "Xerox VersaLink C7025 Multifunction printer flaws could allow attackers to capture authentication credentials via pass-back attacks via LDAP and SMB/FTP services. Rapid7 researchers discovered vulnerabilities in Xerox Versalink C7025 Multifunction printers (M…",
-      "url": "https://securityaffairs.com/174342/hacking/xerox-versalink-c7025-multifunction-printer-flaws.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-31.png",
-      "publishedAt": "2025-02-18T08:49:39Z",
-      "content": "Xerox VersaLink C7025 Multifunction printer flaws may expose Windows Active Directory credentials to attackers\r\n | New XCSSET macOS malware variant used in limited attacks\r\n | New Golang-based backdo… [+140356 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New XCSSET macOS malware variant used in limited attacks",
-      "description": "Microsoft discovered a new variant of the Apple macOS malware XCSSET that was employed in limited attacks in the wild. Microsoft Threat Intelligence discovered a new variant of the macOS malware XCSSET in attacks in the wild. XCSSET is a sophisticated modular…",
-      "url": "https://securityaffairs.com/174333/malware/apple-macos-malware-xcsset-limited-attacks.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
-      "publishedAt": "2025-02-18T07:30:21Z",
-      "content": "New XCSSET macOS malware variant used in limited attacks\r\n | New Golang-based backdoor relies on Telegram for C2 communication\r\n | Pro-Russia collective NoName057(16) launched a new wave of DDoS atta… [+140241 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Pamela Vachon",
-      "title": "I Gave My Microwave a Steam Bath, and It Worked Better Than Any Cleaner",
-      "description": "Skip the harsh chemicals and expensive cleaners. This simple steam cleaning method will have your microwave sparkling in under two minutes.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/i-gave-my-microwave-a-steam-bath-and-it-worked-better-than-any-cleaner/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/c7a3acdd3cc1db5d0425c2439a070be93c3902b8/hub/2020/04/02/b4631e8a-58f6-453b-beb5-aba26714b227/empty-microwave-don-nichols.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-02-18T07:26:00Z",
-      "content": "A microwave can be a saving grace in the kitchen. From heating up leftovers to defrosting frozen foods to making quick meals, there's just about nothing it can't do, making our lives easier so often.… [+6658 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
