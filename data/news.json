@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-02-26T06:30:51.375Z",
+  "lastUpdated": "2025-02-26T12:43:20.045Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Adobe ColdFusion and Oracle Agile PLM flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Adobe ColdFusion and Oracle Agile Product Lifecycle Management (PLM) vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (C…",
+      "url": "https://securityaffairs.com/174613/security/u-s-cisa-adds-adobe-coldfusion-and-oracle-agile-plm-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-02-25T10:41:51Z",
+      "content": "U.S. CISA adds Adobe ColdFusion and Oracle Agile PLM flaws to its Known Exploited Vulnerabilities catalog\r\n | Russia warns financial sector organizations of IT service provider LANIT compromise\r\n | A… [+142234 chars]"
+    },
+    {
+      "source": {
+        "id": "new-york-magazine",
+        "name": "New York Magazine"
+      },
+      "author": "Carolyn Kormann",
+      "title": "Everything You Ever Wanted to Know About Microplastics",
+      "description": "They’re in our blood, our livers, and our brains. They’re in newborns and the elderly, urban and rural, rich and poor. What are microplastics doing \nto our bodies?",
+      "url": "http://nymag.com/intelligencer/article/what-are-microplastics-harmful-to-humans-how-to-avoid.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/1df/77a/218c5fd708474c809cffacfa71990da034-MICROPLASTICS-LEDE.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-02-25T10:00:31Z",
+      "content": "In 2019, a toxicologist named Matthew Campen drove into the wilderness of the San Juan Mountains in northern New Mexico with his 12-year-old son. They were working on a school science project about p… [+31888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STAT"
+      },
+      "author": "Chris Gismondi",
+      "title": "What actually makes a food ‘ultra-processed’?",
+      "description": "Legislatures, governors, government agencies, and plaintiff attorneys are taking action against ultra-processed foods, but there is no clear definition of ultra-processed.",
+      "url": "https://www.statnews.com/2025/02/25/ultra-processed-food-upf-definition-laws-maha/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/02/GettyImages-1184682789-1024x576.jpg",
+      "publishedAt": "2025-02-25T09:48:26Z",
+      "content": "In recent years, an idea has taken hold across the ideological spectrum: The rise in diabetes and obesity in the United States is attributable to addictive, ultra-processed foods that dominate the Am… [+7879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lse.ac.uk"
+      },
+      "author": null,
+      "title": "Mapping socioeconomic factors driving antimicrobial resistance in humans: an umbrella review",
+      "description": "Ljungqvist, Gunnar, van Kessel, Robin ORCID: 0000-0001-6309-6343 , Mossialos, Elias ORCID: 0000-0001-8664-9297 , Saint, Victoria, Schmidt, Jelena, Mafi, Alexander, Shutt, Alison, Chatterjee, Anuja, Charani, Esmita and Anderson, Michael ORCID: 0000-0002-8454-4…",
+      "url": "http://eprints.lse.ac.uk/127395/",
+      "urlToImage": null,
+      "publishedAt": "2025-02-25T08:57:10Z",
+      "content": "Ljungqvist, Gunnar, van Kessel, RobinORCID: 0000-0001-6309-6343, Mossialos, EliasORCID: 0000-0001-8664-9297, Saint, Victoria, Schmidt, Jelena, Mafi, Alexander, Shutt, Alison, Chatterjee, Anuja, Chara… [+2363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Russia warns financial sector organizations of IT service provider LANIT compromise",
+      "description": "Russia’s NKTsKI warns financial sector organizations about a breach at major Russian IT service and software provider LANIT. Russia’s National Coordination Center for Computer Incidents (NKTsKI) warns the financial sector of security breach at IT service and …",
+      "url": "https://securityaffairs.com/174604/hacking/russia-warns-financial-sector-lanit-hack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/12/Consular-Department-of-the-Embassy-of-the-Russian-Federation.jpg",
+      "publishedAt": "2025-02-25T08:01:14Z",
+      "content": "Russia warns financial sector organizations of IT service provider LANIT compromise\r\n | A large botnet targets M365 accounts with password spraying attacks\r\n | Australia bans Kaspersky over national … [+142124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Taylor Tobin",
+      "title": "If You're Wondering How Microplastics Even Get In Your Food, Read This",
+      "description": "Experts reveal what to look out for, from our water sources to the plastic that our food is wrapped in.",
+      "url": "https://www.huffpost.com/entry/how-microplastics-get-into-food_l_67b75228e4b04144c7489e6d",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67b76da91400002400fc58e6.jpeg?ops=1200_630",
+      "publishedAt": "2025-02-25T08:00:03Z",
+      "content": "Many of the animals we eat, like tuna, have microplastics in their flesh.\r\nFood contaminants are always a hot topic, as we consumers have a natural desire to know exactly what were putting in our bod… [+8731 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -727,7 +805,7 @@
       "url": "https://securityaffairs.com/174440/malware/nailaolocker-ransomware-targets-eu-healthcare-related-entities.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-35.png",
       "publishedAt": "2025-02-20T15:47:59Z",
-      "content": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n��| NailaoLocker ransomware targets EU healthcare-related entities\r\n | Microsoft fixed actively exploited flaw in Power Page… [+141146 chars]"
+      "content": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entities\r\n | Microsoft fixed actively exploited flaw in Power Page… [+141146 chars]"
     },
     {
       "source": {
@@ -789,6 +867,19 @@
       "author": "BestReviews",
       "title": "Best paella pan",
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
+      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
+      "publishedAt": "2025-02-20T09:04:24Z",
+      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "BestReviews",
+      "title": "Best paella pan",
+      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/19/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
@@ -804,19 +895,6 @@
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/20/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T09:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
       "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
     },
@@ -1144,73 +1222,8 @@
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/02/Egg_Prices_22021.jpg?w=1024&h=694",
       "publishedAt": "2025-02-18T22:53:48Z",
       "content": "By STEVE KARNOWSKI\r\nMINNEAPOLIS (AP) — With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead of… [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Juniper Networks fixed a critical flaw in Session Smart Routers",
-      "description": "Juniper Networks has addressed a critical vulnerability, tracked as CVE-2025-21589, impacting the Session Smart Router. Juniper Networks addressed a critical authentication bypass vulnerability, tracked as CVE-2025-21589 (CVSS score of 9.8), affecting its Ses…",
-      "url": "https://securityaffairs.com/174365/security/juniper-networks-fixed-a-critical-flaw-in-session-smart-routers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/Juniper-Networks-logo.jpg",
-      "publishedAt": "2025-02-18T22:30:07Z",
-      "content": "Juniper Networks fixed a critical flaw in Session Smart Routers\r\n | China-linked APT group Winnti targets Japanese organizations since March 2024\r\n | Xerox VersaLink C7025 Multifunction printer flaws… [+140506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "seattlepi.com"
-      },
-      "author": "By STEVE KARNOWSKI, Associated Press",
-      "title": "As egg prices soar, Trump administration plans new strategy to fight bird flu",
-      "description": "With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead of killing off millions of chickens when the disease strikes a flock. The director of the National Ec…",
-      "url": "https://www.seattlepi.com/business/article/as-egg-prices-soar-trump-administration-plans-20174191.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/47/27/27/27096513/3/rawImage.jpg",
-      "publishedAt": "2025-02-18T22:21:59Z",
-      "content": "FILE - Chickens stand in their cages at a farm in Iowa, Nov. 16, 2009.Charlie Neibergall/AP\r\nFILE - Chickens walk in a fenced pasture at an organic farm in Iowa on Oct. 21, 2015.Charlie Neibergall/AP… [+5239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "STEVE KARNOWSKI",
-      "title": "As egg prices soar, Trump administration plans new strategy to fight bird flu",
-      "description": "With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead...",
-      "url": "https://www.yahoo.com/news/egg-prices-soar-trump-administration-221149085.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oZeoYVy3SVjKU_s2aRvuyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTQ-/https://media.zenfs.com/en/ap_finance_articles_694/ca75fded752bc9b902e0d6e5daf184cb",
-      "publishedAt": "2025-02-18T22:11:49Z",
-      "content": "MINNEAPOLIS (AP) With egg prices soaring, the Trump administration is planning a new strategy for fighting bird flu that stresses vaccinations and tighter biosecurity instead of killing off millions … [+4432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "OilPrice.com",
-      "title": "Majority of Brits Support Green Taxes for Carbon Reduction",
-      "description": "According to new research, just over half of Brits are in favour of introducing taxes to encourage a reduction in households’ carbon footprint. According to a survey from EPC and energy efficiency platform epIMS, the most-favoured tax of those surveyed was a …",
-      "url": "https://oilprice.com/The-Environment/Global-Warming/Majority-of-Brits-Support-Green-Taxes-for-Carbon-Reduction.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-02-18_c9zecxoosd.jpg",
-      "publishedAt": "2025-02-18T20:00:00Z",
-      "content": "The South Caucasus region faces…\r\nClimate change is not just…\r\nCentral Asia faces a critical…\r\nBy City A.M - Feb 18, 2025, 2:00 PM CSTAccording to new research, just over half of Brits are in favour … [+3109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "ZB Importing Issue Voluntary Recall and Allergy Alert on Undeclared Egg, Wheat and Milk in Certain Ulker Brand Products",
-      "description": "ZB Importing LLC is voluntarily recalling certain lots of six varieties of Ulker Brand snack rolls, biscuits, and wafers due to undeclared wheat, egg and/or milk in the Ingredient List and/or Contains Statement on the product labels. People who have an allerg…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/zb-importing-issue-voluntary-recall-and-allergy-alert-undeclared-egg-wheat-and-milk-certain-ulker",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-18T18:12:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 18, 2025\r\nFDA Publish Date:\r\nFebruary 20, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUnd… [+1430 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 94,
   "filteredCount": 0
 }
