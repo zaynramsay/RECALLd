@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-02-27T01:45:38.631Z",
+  "lastUpdated": "2025-02-27T06:30:58.501Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "GitVenom campaign targets gamers and crypto investors by posing as fake GitHub projects",
+      "description": "GitVenom malware campaign targets gamers and crypto investors by posing as open-source projects on GitHub. Kaspersky researchers warn of a malware campaign, dubbed GitVenom, targeting GitHub users. The threat actors behind this campaign created hundreds of fa…",
+      "url": "https://securityaffairs.com/174651/malware/gitvenom-campaign-targets-gamers-and-crypto-investors.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-43.png",
+      "publishedAt": "2025-02-26T06:27:27Z",
+      "content": "GitVenom campaign targets gamers and crypto investors by posing as fake GitHub projects\r\n | LockBit taunts FBI Director Kash Patel with alleged Classified leak threat\r\n | EU sanctioned the leader of … [+142467 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1127,6 +1140,19 @@
       "author": "BestReviews",
       "title": "Best paella pan",
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
+      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
+      "publishedAt": "2025-02-20T09:04:24Z",
+      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "BestReviews",
+      "title": "Best paella pan",
+      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/19/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
@@ -1142,19 +1168,6 @@
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/20/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T09:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
       "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
     },
@@ -1248,19 +1261,6 @@
       "urlToImage": "https://www.universetoday.com/wp-content/uploads/2025/01/Mars_Dust1.jpg",
       "publishedAt": "2025-02-19T23:33:59Z",
       "content": "Every Martian year (which last 686.98 Earth days), the Red Planet experiences regional dust storms that coincide with summer in the southern hemisphere. Every three Martian years (five and a half Ear… [+7016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Food & Wine",
-      "title": "Scientists Found a Surprisingly Simple Way to Cut Mercury Content in Canned Tuna by 35%",
-      "description": "Using a water-based solution with this amino acid draws mercury out of fish and requires no additional production steps.An estimated 10% of Americans eat canned tuna at least once a week, according to a 2022 Consumer Reports survey. Consumer Reports also foun…",
-      "url": "https://freerepublic.com/focus/f-chat/4298907/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-02-19T22:58:06Z",
-      "content": "Skip to comments.\r\nScientists Found a Surprisingly Simple Way to Cut Mercury Content in Canned Tuna by 35%Food &amp; Wine ^\r\n | February 19, 2025\r\n | Stacey Leasca\r\nPosted on 02/19/2025 2:58:06 PM PS… [+4586 chars]"
     }
   ],
   "totalResults": 97,
