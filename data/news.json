@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-27T12:43:44.198Z",
+  "lastUpdated": "2025-02-27T18:30:52.516Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
+      "title": "Are Girl Scout Cookies Toxic? The Truth Behind The 2025 Recall Rumors",
+      "description": "Are Girl Scout Cookies toxic? Viral claims of lead, heavy metals, and glyphosate sparked recall rumors—but is it true? Here’s what you need to know.",
+      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/26/are-girl-scout-cookies-toxic-the-truth-behind-the-2025-recall-rumors/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67bf3cf7b6b5ce0e47e18752/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-26T16:28:07Z",
+      "content": "Are Girl Scout Cookies toxic? Viral TikTok rumors claim they contain lead, heavy metals, and ... [+] glyphosatebut is there really an FDA recall? We break down the controversy, what the study actuall… [+8207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Arden Dier",
+      "title": "Tainted Shakes Tied to 12 Listeria Deaths",
+      "description": "Twelve people have now died in a multi-state listeria outbreak connected to frozen supplemental shakes. The FDA on Monday announced a recall of 4 oz. shakes manufactured by Prairie Farms Dairy due to a potential contamination of listeria monocytogenes, a bact…",
+      "url": "https://www.newser.com/story/364872/12-listeria-deaths-tied-to-tainted-shakes.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1595138-12-20250226094132.jpeg",
+      "publishedAt": "2025-02-26T15:21:00Z",
+      "content": "Some 38 people in 21 states have been affected with the strain, resulting in 12 deaths. All but one infected person were hospitalized, per Quartz. There are probably many more cases than those report… [+1085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Our Bureau",
+      "title": "Indian drugmakers see OAI classifications halving, post USFDA inspections, in 10 years",
+      "description": "In the last 10 years, Indian drugmakers have seen more regulatory inspections from the United States Food and Drug Administration (USFDA), but a halving of OAI (official action indicated) classifications, according to a Mckinsey representative.",
+      "url": "https://www.thehindubusinessline.com/news/national/indian-drugmakers-see-oai-classifications-halving-post-usfda-inspections-in-10-years/article69267015.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/vt9sba/article69267195.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U0A38DLN5_R1516117402_0_5e403ed7-0525-401a-a824-b7092693482b.jpg",
+      "publishedAt": "2025-02-26T14:39:39Z",
+      "content": "In the last 10 years, Indian drugmakers have seen more regulatory inspections from the United States Food and Drug Administration (USFDA), but a halving of OAI (official action indicated) classificat… [+2203 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Michael Owusu, Eric Darko, Debora Akortia, Gifty Nkrumah, Sampson Twumasi-Ankrah, Michael Owusu-Ansah, Christopher B. Uzzell, Jonathan Rigby, Catherine M. Troman, Nicolette A. Zhou, John Scott Meschke, Alexander G. Shaw, Nicholas C. Grassly, Yaw Adu-Sarkodie, Ellis Owusu-Dabo",
+      "title": "Evaluation of Moore and grab sampling method for Salmonella Typhi detection in environmental samples in Ghana",
+      "description": "Background Typhoid fever causes substantial mortality and morbidity in low and middle-income countries (LMICs) as a result of inadequate water, hygiene, and sanitation facilities. The gold standard for typhoid diagnosis is blood culture, however this method i…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318840",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318840.g006&size=inline",
+      "publishedAt": "2025-02-26T14:00:00Z",
+      "content": "Citation: Owusu M, Darko E, Akortia D, Nkrumah G, Twumasi-Ankrah S, Owusu-Ansah M, et al. (2025) Evaluation of Moore and grab sampling method for Salmonella Typhi detection in environmental samples i… [+28639 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yumei Tian, Qi Hou, Mingyue Zhang, Er Gao, Yue Wu",
+      "title": "Exposure to arsenic and cognitive impairment in children: A systematic review",
+      "description": "Objective Arsenic exposure is a significant public health concern, particularly for its impact on children’s cognitive development. Arsenic, a prevalent environmental toxin, is known to disrupt various biological pathways, leading to cognitive deficits and ne…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319104",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319104.g001&size=inline",
+      "publishedAt": "2025-02-26T14:00:00Z",
+      "content": "Cognitive Deficits and IQ Scores: Multiple studies have revealed a strong inverse association between arsenic exposure and childrens cognitive function. These studies show that children exposed to hi… [+12024 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,86 +1248,8 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318698.g004&size=inline",
       "publishedAt": "2025-02-20T14:00:00Z",
       "content": "Abstract\r\nRapid identification of mastitis-causing bacteria is crucial for effective treatment decisions. Several multi-media agar plates have been developed to aid pathogen identification on farms o… [+34467 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Microsoft fixed actively exploited flaw in Power Pages",
-      "description": "Microsoft addressed a privilege escalation vulnerability in Power Pages, the flaw is actively exploited in attacks. Microsoft has addressed two critical vulnerabilities, tracked as CVE-2025-21355 (CVSS score: 8.6) and CVE-2025-24989 (CVSS score: 8.2), respect…",
-      "url": "https://securityaffairs.com/174430/security/microsoft-fixed-actively-exploited-flaw-in-power-pages.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/04/Microsoft-autodesk.png",
-      "publishedAt": "2025-02-20T11:20:11Z",
-      "content": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entities\r\n | Microsoft fixed actively exploited flaw in Power Page… [+141146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Citrix addressed NetScaler console privilege escalation flaw",
-      "description": "Citrix addressed a high-severity privilege escalation vulnerability impacting NetScaler Console and NetScaler Agent under certain conditions. Citrix released security updates to address a high-severity security vulnerability, tracked as CVE-2024-12284 (CVSS s…",
-      "url": "https://securityaffairs.com/174425/security/citrix-addressed-netscaler-console-privilege-escalation-flaw.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/03/Citrix-1.png",
-      "publishedAt": "2025-02-20T10:46:51Z",
-      "content": "Citrix addressed NetScaler console privilege escalation flaw\r\n | Palo Alto Networks warns that CVE-2025-0111 flaw is actively exploited in attacks\r\n | Russia-linked APTs target Signal messenger\r\n | V… [+140941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T09:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.denverpost.com/2025/02/19/best-paella-pan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T09:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.denverpost.com/2025/02/20/best-paella-pan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T09:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.bostonherald.com/2025/02/23/best-paella-pan/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/02/best-paella-pan_3cecf0.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T07:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
     }
   ],
-  "totalResults": 97,
+  "totalResults": 96,
   "filteredCount": 0
 }
