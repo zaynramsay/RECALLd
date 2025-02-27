@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-26T18:30:19.842Z",
+  "lastUpdated": "2025-02-27T01:45:38.631Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Jesse Ruse, Clinical Psychologist, PhD Candidate, University of Sydney",
+      "title": "Why do we fall for wellness scams? Our cultural biases and myths are often to blame",
+      "description": "Belle Gibson built a ‘wellness’ empire on a lie about cancer. Scammers often use psychology and widely-held beliefs to exploit vulnerable people.",
+      "url": "https://theconversation.com/why-do-we-fall-for-wellness-scams-our-cultural-biases-and-myths-are-often-to-blame-250790",
+      "urlToImage": "https://images.theconversation.com/files/651559/original/file-20250226-32-l6vyzu.jpg?ixlib=rb-4.1.0&rect=0%2C125%2C5866%2C2933&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-26T01:24:59Z",
+      "content": "Netflix\r\nNetflix’s Apple Cider Vinegar has renewed interest in Belle Gibson’s infamous wellness scam, reminding us how vulnerable we can be to deception. While Gibson’s scheme eventually collapsed, h… [+5489 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Kate Nalepinski",
+      "title": "Map Shows States With Listeria Cases as FDA Recalls Nutritional Shake",
+      "description": "A listeria outbreak linked to frozen nutritional shakes has led to a nationwide recall of the product.",
+      "url": "https://www.newsweek.com/listeria-outbreak-map-product-recall-fda-nutritional-shake-2036203",
+      "urlToImage": "https://d.newsweek.com/en/full/2595483/recalled-nutritional-shakes.jpg",
+      "publishedAt": "2025-02-25T23:22:05Z",
+      "content": "A nationwide recall of frozen nutritional shakes has been issued after a listeria outbreak tied to the drinks resulted in multiple hospitalizations and deaths across the United States, according to t… [+4448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Discover Magazine"
+      },
+      "author": "Sam Walters",
+      "title": "Brewing Tea Lifts Lead and Other Heavy Metals from Water",
+      "description": "Learn more about the adsorption benefits of brewing tea, which removes lead from the water we drink.",
+      "url": "https://www.discovermagazine.com/health/brewing-tea-lifts-lead-and-other-heavy-metals-from-water",
+      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/1KbyQrU27ayH9J2wvAcd5b/80179a657cccd04dfd90093cc87e3415/Black_Tea_Leaves_Lead_Adsorption.png",
+      "publishedAt": "2025-02-25T23:00:00Z",
+      "content": "Want a flavorful beverage with a lot less lead? Try tea. According to a team of researchers from Northwestern University, tea leaves and bags adsorb lead, trapping lead ions on their surfaces and fil… [+4897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "LockBit taunts FBI Director Kash Patel with alleged “Classified” leak threat",
+      "description": "LockBit claims to have “classified information” for FBI Director Kash Patel that could “destroy” the agency if leaked. The ransomware gang LockBit sent a strange message to newly appointed FBI Director Kash Patel, they offer alleged “classified information” t…",
+      "url": "https://securityaffairs.com/174639/cyber-crime/lockbit-taunts-fbi-director-kash-patel.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-42.png",
+      "publishedAt": "2025-02-25T22:26:30Z",
+      "content": "LockBit taunts FBI Director Kash Patel with alleged Classified leak threat\r\n | EU sanctioned the leader of North Korea-linked APT groups\r\n | U.S. CISA adds Adobe ColdFusion and Oracle Agile PLM flaws… [+142375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Natalie Dreier",
+      "title": "Recall alert: Frozen supplemental shakes recalled after listeria sickens people 21 states, 12 killed",
+      "description": "A deadly listeria outbreak has resulted in a recall of frozen supplemental shakes used at long-term care facilities.",
+      "url": "https://www.wsbtv.com/news/trending/recall-alert-frozen-supplemental-shakes-recalled-after-listeria-sickens-people-21-states-12-killed/33PQ5PGEMJE5PAPJMDRNC6ODMA/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJBRPIJK4ABH5LEHZDXOU572CCQ.jpg?auth=065a661d0d1fbe5258787713aaadd50991cca49f960a0aeb615edc9b49a824b9&width=1200&height=630&smart=true",
+      "publishedAt": "2025-02-25T21:49:37Z",
+      "content": "A deadly listeria outbreak has resulted in a recall of frozen supplemental shakes used at long-term care facilities.\r\nThe shakes were made by Prairie Farms Dairy Inc. based in Fort Wayne, Indiana, an… [+1634 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "'Do the right thing': Grassy Narrows First Nation demands action on mercury pollution ahead of Ontario vote",
+      "description": "Just two days before the provincial election, dozens gathered Tuesday for a vigil outside Queen's Park in Toronto to honour people impacted by mercury contamination in Grassy Narrows First Nation in northwestern Ontario. Here's what participants are demanding…",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/grassy-narrows-vigil-queen-s-park-1.7468144",
+      "urlToImage": "https://i.cbc.ca/1.7468160.1740512441!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/judy-dasilva.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-02-25T20:53:49Z",
+      "content": "Judy DaSilva says she can feel herself deteriorating.\r\nThe elder, grandmother and environmental health co-ordinator for Asubpeeschoseewagong Netum Anishinabek, known as Grassy Narrows First Nation, s… [+4320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Ascent Consumer Products Inc. Issues Voluntary Nationwide Recall of SinuCleanse Soft Tip Squeeze Bottle Nasal Wash System Due to Microbial Contamination",
+      "description": "02/25/2025 Melville, NY. Ascent Consumer Products Inc. is voluntarily recalling one lot of SinuCleanse Soft Tip Squeeze Bottle Nasal Wash System to the consumer level. The recall is being initiated due to a confirmed test result of microbial contamination of …",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ascent-consumer-products-inc-issues-voluntary-nationwide-recall-sinucleanse-soft-tip-squeeze-bottle",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-02-25T18:53:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 25, 2025\r\nFDA Publish Date:\r\nFebruary 25, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nMicrobial contamination of th… [+3052 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1036,19 +1127,6 @@
       "author": "BestReviews",
       "title": "Best paella pan",
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
-      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
-      "publishedAt": "2025-02-20T09:04:24Z",
-      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "BestReviews",
-      "title": "Best paella pan",
-      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/19/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
@@ -1064,6 +1142,19 @@
       "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
       "url": "https://www.denverpost.com/2025/02/20/best-paella-pan/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan.jpg?w=1024&h=576",
+      "publishedAt": "2025-02-20T09:04:24Z",
+      "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "BestReviews",
+      "title": "Best paella pan",
+      "description": "A paella pan exposes as much of the rice as possible to the bottom, allowing it to form the crispy crust — the socarrat — that paella is famous for.\nShare this:\r\n<ul><li>Click to share on Facebook (Opens in new window)</li><li>Click to share on Twitter (Opens…",
+      "url": "https://www.denverpost.com/2025/02/23/best-paella-pan/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/02/best-paella-pan_c94db2.jpg?w=1024&h=576",
       "publishedAt": "2025-02-20T09:04:24Z",
       "content": "Which paella pan is best?\r\nOriginally from Valencia, a rice-growing region in Spain, paella is a slow-cooked dish of meat, seafood and vegetables that are all simmered with saffron. This deeply flavo… [+6026 chars]"
     },
@@ -1170,86 +1261,8 @@
       "urlToImage": null,
       "publishedAt": "2025-02-19T22:58:06Z",
       "content": "Skip to comments.\r\nScientists Found a Surprisingly Simple Way to Cut Mercury Content in Canned Tuna by 35%Food &amp; Wine ^\r\n | February 19, 2025\r\n | Stacey Leasca\r\nPosted on 02/19/2025 2:58:06 PM PS… [+4586 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Russia-linked APTs target Signal messenger",
-      "description": "Russia-linked threat actors exploit Signal ‘s “linked devices” feature to hijack accounts, per Google Threat Intelligence Group. Google Threat Intelligence Group (GTIG) researchers warn of multiple Russia-linked threat actors targeting Signal Messenger accoun…",
-      "url": "https://securityaffairs.com/174397/cyber-warfare-2/russia-linked-threat-actors-exploit-signals-linked-devices-feature.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-33.png",
-      "publishedAt": "2025-02-19T21:43:54Z",
-      "content": "Russia-linked APTs target Signal messenger\r\n | Venture capital firm Insight Partners discloses security breach\r\n | OpenSSH bugs allows Man-in-the-Middle and DoS Attacks\r\n | U.S. CISA adds SonicWall S… [+140790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tech Xplore"
-      },
-      "author": "Anne Wainscott-Sargent",
-      "title": "Machine learning accelerates discovery of membranes to filter PFAS from water",
-      "description": "Someday, your drinking water could be completely free of toxic \"forever chemicals.\" These chemicals, called PFAS (per- and polyfluoroalkyl substances), are found in common household items like makeup, nonstick cookware, dental floss, batteries, and food packa…",
-      "url": "https://techxplore.com/news/2025-02-machine-discovery-membranes-filter-pfas.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/georgia-tech-research.jpg",
-      "publishedAt": "2025-02-19T20:17:25Z",
-      "content": "Someday, your drinking water could be completely free of toxic \"forever chemicals.\" These chemicals, called PFAS (per- and polyfluoroalkyl substances), are found in common household items like makeup… [+6471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inthelibrarywiththeleadpipe.org"
-      },
-      "author": "Alison Mortensen-Hayes",
-      "title": "Sustainable Menstrual Equity: A Case Study on the Success of Low-Cost Menstrual Cup Distribution",
-      "description": "Free menstrual products at libraries are no longer a new phenomenon, thanks to the work of global menstrual equity advocates such as Period.org and Global Menstrual Collective. However, more often than not, these initiatives center around disposable period pr…",
-      "url": "https://www.inthelibrarywiththeleadpipe.org/2025/sustainable-menstrual-equity/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-19T19:07:52Z",
-      "content": "Free menstrual products at libraries are no longer a new phenomenon, thanks to the work of global menstrual equity advocates such as Period.org and Global Menstrual Collective. However, more often th… [+37784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Venture capital firm Insight Partners discloses security breach",
-      "description": "Venture capital firm Insight Partners suffered a cyberattack involving unauthorized access to its information systems. A cyber attack hit venture capital firm Insight Partners, threat actors gained unauthorized access to its information systems. Venture Capit…",
-      "url": "https://securityaffairs.com/174392/hacking/insight-partners-discloses-security-breach.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/05/russia-and-ukraine.jpg",
-      "publishedAt": "2025-02-19T14:45:27Z",
-      "content": "Venture capital firm Insight Partners discloses security breach\r\n | OpenSSH bugs allows Man-in-the-Middle and DoS Attacks\r\n | U.S. CISA adds SonicWall SonicOS and Palo Alto PAN-OS flaws to its Known … [+140743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Alexandre Blake, Adam Walder, Ephraim M. Hanks, Placide Okitayemba Welo, Francisco Luquero, Didier Bompangue, Nita Bharti",
-      "title": "Impact of a multi-pronged cholera intervention in an endemic setting",
-      "description": "Author summary Cholera is a major global health concern that causes high morbidity. It is a bacterial water-borne disease that can be transmitted via the fecal-oral route or the ingestion of contaminated water. Hence, both population mobility and environmenta…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012867",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012867.g004&size=inline",
-      "publishedAt": "2025-02-19T14:00:00Z",
-      "content": "Abstract\r\nCholera is a bacterial water-borne diarrheal disease transmitted via the fecal-oral route that causes high morbidity in sub-Saharan Africa and Asia. It is preventable with vaccination, and … [+56403 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Sisir Rajak, Shaikh Rajesh Ali, Baidyanath Pal, Sibani Sen Chakraborty",
-      "title": "A statistical insight to exploration of medicinal wastewater as a source of thermostable lipase-producing microorganisms",
-      "description": "Bacteria are ubiquitous and capable of thriving in diverse environments, including industrial effluents, which often present harsh physical and chemical conditions. These microorganisms produce various intracellular and extracellular biomolecules that enable …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319023",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319023.g012&size=inline",
-      "publishedAt": "2025-02-19T14:00:00Z",
-      "content": "Abstract\r\nBacteria are ubiquitous and capable of thriving in diverse environments, including industrial effluents, which often present harsh physical and chemical conditions. These microorganisms pro… [+18926 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 97,
   "filteredCount": 0
 }
