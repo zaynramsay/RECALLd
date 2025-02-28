@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-02-28T12:42:24.871Z",
+  "lastUpdated": "2025-02-28T18:30:14.866Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Gadgets360.com"
+      },
+      "author": "Gadgets 360 Staff",
+      "title": "Scientists Find Wastewater Bacteria That Break Down PET Plastic, Aiding Pollution Control",
+      "description": "Research has revealed that bacteria commonly found in wastewater can break down PET plastic, a widely used material in bottles and textiles. Scientists identified a specific enzyme responsible for degrading the plastic into smaller particles. While experts se…",
+      "url": "https://www.gadgets360.com/science/news/wastewater-bacteria-break-down-pet-plastic-aiding-pollution-control-7781737",
+      "urlToImage": "https://i.gadgets360cdn.com/large/bacteria__1_1740379625825.jpg",
+      "publishedAt": "2025-02-27T16:32:24Z",
+      "content": "Our environment continues to grapple with plastic pollution, with microplastics infiltrating the air, food, and water. Scientists are actively seeking methods to break down this persistent material. … [+2486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Lauren Leffer",
+      "title": "Should the ISS be dirtier? Cleanliness could be making astronauts sick.",
+      "description": "The space station's microbial environment most closely resembles a hospital isolation room.\nThe post Should the ISS be dirtier? Cleanliness could be making astronauts sick. appeared first on Popular Science.",
+      "url": "https://www.popsci.com/health/space-station-needs-dirt/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/02/iss-astronaut.png?quality=85&w=2000",
+      "publishedAt": "2025-02-27T16:00:00Z",
+      "content": "Far away from Earth, theres an entire intriguing world of microbes to explore. Aboard the International Space Station (ISS), quasi-extraterrestrial life is growing and replicating. Viruses, bacteria,… [+8360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Criminal group UAC-0173 targets the Notary Office of Ukraine",
+      "description": "CERT-UA warns of UAC-0173 using DCRat malware to target Ukrainian notaries in a new attack wave since mid-January 2025. The Computer Emergency Response Team of Ukraine (CERT-UA) warned of a new campaign by criminal group UAC-0173 targeting Ukrainian notaries …",
+      "url": "https://securityaffairs.com/174723/cyber-crime/uac-0173-targets-the-notary-office-of-ukraine.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-47.png",
+      "publishedAt": "2025-02-27T15:33:58Z",
+      "content": "Criminal group UAC-0173 targets the Notary Office of Ukraine\r\n | Cellebrite blocked Serbia from using its solution because misuse of the equipment for political reasons\r\n | New Ghostwriter campaign t… [+142981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Laura Pezzi, Ramona Moegling, Cécile Baronti, Kamelia R. Stanoeva, Lance D. Presser, Pauline Jourdan, Nazli Ayhan, Willem M.R. van den Akker, Stephan Zientara, Céline M. Gossner, Rémi N. Charrel, Chantal B.E.M. Reusken, on behalf of EVD-LabNet",
+      "title": "Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022",
+      "description": "Alphaviruses comprise over 30 identified species spread worldwide and carry a large global health burden. With vector expansion occurring in and around Europe, it is anticipated this burden will increase. Therefore, regular assessment of the diagnostic capabi…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318602.g002&size=inline",
+      "publishedAt": "2025-02-27T14:00:00Z",
+      "content": "Abstract\r\nAlphaviruses comprise over 30 identified species spread worldwide and carry a large global health burden. With vector expansion occurring in and around Europe, it is anticipated this burden… [+58455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Payal Seth, Prabhu Pingali",
+      "title": "Addressing information and credit barriers to making India open defecation free and improving child health: Evidence from a cluster randomized trial in rural India",
+      "description": "Background Open defecation (OD) remains a significant public health challenge in India, contributing to adverse child health outcomes. Eliminating OD and improving child health necessitates both universal access and adoption of toilets. Despite the success of…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318198",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318198.g003&size=inline",
+      "publishedAt": "2025-02-27T14:00:00Z",
+      "content": "Citation: Seth P, Pingali P (2025) Addressing information and credit barriers to making India open defecation free and improving child health: Evidence from a cluster randomized trial in rural India.… [+46960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Lesley Joseph, Research Assistant Professor of Environmental Engineering, University of South Carolina",
+      "title": "Israel’s bombing of Gaza caused untold environmental damage − recovery will take effort and time",
+      "description": "The humanitarian toll of more than a year of conflict will be augmented by the risk of further health issues due to poor hygiene facilities and air quality.",
+      "url": "https://theconversation.com/israels-bombing-of-gaza-caused-untold-environmental-damage-recovery-will-take-effort-and-time-245311",
+      "urlToImage": "https://images.theconversation.com/files/651474/original/file-20250225-32-p4hllo.jpg?ixlib=rb-4.1.0&rect=0%2C563%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-27T13:42:50Z",
+      "content": "Vast areas in Gaza have been reduced to rubble. Majdi Fathi/NurPhoto via Getty Images\r\nThe war in Gaza has come with an awful cost. Tens of thousands of Palestinian civilians have been killed, and th… [+8855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": "dpicampaigns",
+      "title": "DR Congo: WHO tracks deadly mysterious illness",
+      "description": "Health authorities in the Democratic Republic of the Congo (DRC) and experts from the World Health Organization (WHO) are carrying out further investigations to determine the cause of another cluster of illness and deaths in Équateur province, UN officials re…",
+      "url": "https://news.un.org/en/story/2025/02/1160596",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-02-2025_WHO_DR_Congo.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-02-27T12:00:00Z",
+      "content": "In recent months, disease surveillance has identified increases in cases and fatalities on three occasions across different areas of the country, which triggered follow-up investigations to confirm t… [+2852 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,86 +1261,8 @@
       "urlToImage": "https://www.foodpolitics.com/wp-content/uploads/Picador_Nestle_FishCounter-002-scaled.jpg",
       "publishedAt": "2025-02-21T14:00:33Z",
       "content": "My next forthcoming book is now available for preorder.\r\nI say next, because this one is a bit of a surprise, even to me.  It’s a spinoff from my forthcoming (in September, I think) new and thoroughl… [+1880 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Federalist"
-      },
-      "author": "Jenni White",
-      "title": "Your ‘Farm Fresh’ Produce Might Be Fertilized With Forever Chemicals And Human Waste",
-      "description": "Some farms avoid expensive commercial fertilizers by using free treated human sewage, which can contain anything that goes down a sewer.",
-      "url": "https://thefederalist.com/2025/02/21/your-farm-fresh-produce-might-be-fertilized-with-forever-chemicals-and-human-waste/",
-      "urlToImage": "https://thefederalist.com/wp-content/uploads/2025/02/2048px-Manure_spreader_Record_2-e1739909432637.jpg",
-      "publishedAt": "2025-02-21T12:32:45Z",
-      "content": "We lost our third sheep of the week last night and I fell asleep exhausted on a pillow wet with tears.\r\nShe was an adorable little “elf-eared” lamb that had been born too small and apparently with a … [+9565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Craft CMS and Palo Alto Networks PAN-OS flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Craft CMS and Palo Alto Networks PAN-OS vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added SonicWall SonicOS …",
-      "url": "https://securityaffairs.com/174483/security/u-s-cisa-adds-craft-cms-palo-alto-networks-pan-os-flaws-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-21T10:40:00Z",
-      "content": "Atlassian fixed critical flaws in Confluence and Crowd\r\n | Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entitie… [+141205 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "11 dead as India struggles with creeping paralysis outbreak linked to contaminated water",
-      "description": "More than 200 people have fallen ill with Guillain-Barré syndrome in the Indian city of Pune, with officials blaming the outbreak on contaminated water. Dozens are still hospitalized and 11 people are dead due to the autoimmune disorder that attacks the nerve…",
-      "url": "https://www.cbc.ca/news/world/india-gbs-public-health-1.7463995",
-      "urlToImage": "https://i.cbc.ca/1.7464174.1740079869!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/awanti-naik-gbs.jpg?im=Resize%3D620",
-      "publishedAt": "2025-02-21T09:00:00Z",
-      "content": "It was in early January that Awanti Naik's symptoms first crept up on her, starting with double vision and quickly followed by a debilitating headache and a strange feeling in her face. \r\n\"There was … [+6855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Atlassian fixed critical flaws in Confluence and Crowd",
-      "description": "Australian software firm Atlassian patched 12 critical and high-severity flaws in Bamboo, Bitbucket, Confluence, Crowd, and Jira. Software firm Atlassian released security patches to address 12 critical- and high-severity vulnerabilities in Bamboo, Bitbucket,…",
-      "url": "https://securityaffairs.com/174474/security/atlassian-fixed-critical-flaws-in-confluence-and-crowd.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/08/Atlassian-logo.png",
-      "publishedAt": "2025-02-21T08:02:50Z",
-      "content": "Atlassian fixed critical flaws in Confluence and Crowd\r\n | Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entitie… [+141205 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "Another Food Recall? Over 2 Million MadeGood Granola Bars Pulled",
-      "description": "Over 2 million MadeGood granola bars were recalled due to metal contamination. Check the FDA recall list to see if your granola bars are affected and what to do next.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/20/another-food-recall-over-2-million-madegood-granola-bars-pulled/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b7f11d9cfc7bf4b3c11891/0x0.jpg?format=jpg&crop=3527,1983,x0,y264,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-21T03:39:30Z",
-      "content": "The MadeGood granola bars recall now has an FDA Class II classification, meaning theres a potential ... [+] health risk. Here's what you need to know.\r\ngetty\r\nAnother Food Recall? Over 2 Million Made… [+4055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "Dr. Mercola",
-      "title": "EPA Reviews Nitrate Limits in Drinking Water as Cancer Concerns Grow",
-      "description": "A March 2024 study published in Public Health delivered sobering news: detecting nitrate in your drinking water is associated with a 73% increased risk of cancer mortality.1 Further, for every 10-fold increase in drinking water nitrate levels, your risk of dy…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/21/nitrate-limits-in-drinking-water.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/nitrate-limits-in-drinking-water-fb.jpg",
-      "publishedAt": "2025-02-21T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 97,
   "filteredCount": 0
 }
