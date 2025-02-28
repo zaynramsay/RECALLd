@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-02-28T06:30:30.847Z",
+  "lastUpdated": "2025-02-28T12:42:24.871Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yale.edu"
+      },
+      "author": null,
+      "title": "How Climate Change Puts the Safety of Drinking Water at Risk",
+      "description": "Wildfires, floods, intense heat, droughts, and other extreme events fueled by climate change are threatening water systems in the U.S. and around the globe. Experts warn of the increasing threat of contamination and the need to improve infrastructure to keep …",
+      "url": "https://e360.yale.edu/features/climate-change-drinking-water",
+      "urlToImage": "https://e360.yale.edu/assets/site/Kolkata-Flood-Tap_Getty-HEADER.jpg",
+      "publishedAt": "2025-02-27T10:47:00Z",
+      "content": "On November 8, 2018, a power line dropped into dry grass in the foothills of the Sierra Nevada mountains, north of Sacramento, and ignited the deadliest fire in Californias history. Powerful winds sw… [+11355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mindbodygreen.com"
+      },
+      "author": "https://www.mindbodygreen.com/wc/ava-durgin-writer",
+      "title": "Research Reveals Microplastics In The Brain—Here’s What To Do About It",
+      "description": "Plus, 7 actionable steps to reduce your exposure today",
+      "url": "https://www.mindbodygreen.com/articles/research-reveals-microplastics-in-brainheres-what-to-do-about-it",
+      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1yxom5cf1jr8bjby1.jpg",
+      "publishedAt": "2025-02-27T10:00:00Z",
+      "content": "For years, scientists have sounded the alarm on microplasticstiny plastic particles found in our food, water, air, and even our blood. But now, groundbreaking research has confirmed something even mo… [+3833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cellebrite blocked Serbia from using its solution because misuse of the equipment for political reasons",
+      "description": "Cellebrite blocked Serbia from using its solution after reports that police used it to unlock and infect the phones of a journalist and activist. A report published by Amnesty International in December 2024 documented the use of Cellebrite’s forensics tools b…",
+      "url": "https://securityaffairs.com/174707/intelligence/cellebrite-blocked-serbia-from-using-its-solution-because-misuse-of-the-equipment-for-political-reasons.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/03/cellebrite-ufed-touch.png",
+      "publishedAt": "2025-02-27T09:41:48Z",
+      "content": "Cellebrite blocked Serbia from using its solution because misuse of the equipment for political reasons\r\n | New Ghostwriter campaign targets Ukrainian Government and opposition activists in Belarus\r\n… [+142916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "DragonForce Ransomware group is targeting Saudi Arabia",
+      "description": "Resecurity researchers reported that DragonForce ransomware targets Saudi organizations rising cyber threats in the region. DragonForce ransomware has recently been reported to target organizations in the Kingdom of Saudi Arabia (KSA). A significant incident …",
+      "url": "https://securityaffairs.com/174717/cyber-crime/dragonforce-ransomware-group-is-targeting-saudi-arabia.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/DragonForce-ransomware.jpeg",
+      "publishedAt": "2025-02-27T09:10:37Z",
+      "content": "New Ghostwriter campaign targets Ukrainian Government and opposition activists in Belarus\r\n | New LightSpy spyware variant comes with enhanced data collection features targeting social media platform… [+142808 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,58 +1248,6 @@
       "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/nitrate-limits-in-drinking-water-fb.jpg",
       "publishedAt": "2025-02-21T00:00:00Z",
       "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers",
-      "description": "China-linked cyber espionage group Salt Typhoon uses custom malware JumbledPath to on spy U.S. telecom providers. Cisco Talos researchers reported that China-linked APT group Salt Typhoon uses a custom-built utility, dubbed JumbledPath, to spy on network traf…",
-      "url": "https://securityaffairs.com/174460/apt/salt-typhoon-custom-malware-jumbledpath-to-spy-u-s-telecom-providers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-36.png",
-      "publishedAt": "2025-02-20T23:17:10Z",
-      "content": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entities\r\n | Microsoft fixed actively exploited flaw in Power Page… [+141146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Darin Detwiler",
-      "title": "A legacy of loss and leadership: What America’s presidents teach us about food safety",
-      "description": "— OPINION — I remember exactly where I was on Feb. 10, 1993. I was in the audience of President Bill Clinton’s nationally televised town hall from the studios of WXYZ-TV in Detroit. He fielded questions from the studio audience as well as studio audiences in …",
-      "url": "https://www.foodsafetynews.com/2025/02/a-legacy-of-loss-and-leadership-what-americas-presidents-teach-us-about-food-safety/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/799/332/jMDOvP3KezRBkgeGzlqoyk8AW/e937688e4cd1d4615ca702074386b836b1d1b957.png",
-      "publishedAt": "2025-02-20T22:38:07Z",
-      "content": "— OPINION —\r\nI remember exactly where I was on Feb. 10, 1993. I was in the audience of President Bill Clinton’s nationally televised town hall from the studios of WXYZ-TV in Detroit. He fielded quest… [+5011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The BMJ"
-      },
-      "author": "Kayembe Ntumba, H. C., Taty, N., Mako, S., Batumbo, D. B.",
-      "title": "Assessment of knowledge, attitudes and practices regarding cholera among people living in a cholera-endemic health zone in the Democratic Republic of the Congo",
-      "description": "Objectives To assess cholera-related knowledge, attitudes and practices (KAP) and identify associated factors in a cholera endemic health zone in the Democratic Republic of the Congo (DRC).\n\nDesign A community-based cross-sectional study.\n\nSetting The study w…",
-      "url": "https://bmjopen.bmj.com/content/15/2/e091360",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2025-02-20T22:36:32Z",
-      "content": "Introduction\r\nCholera is a longstanding disease that remains a major public health threat in resource-limited settings.1 2 It is an epidemic diarrhoeal disease caused by ingestion of food or water co… [+13858 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ncspin.com"
-      },
-      "author": "by Greg Childress",
-      "title": "As US, NC homelessness numbers rise, officials and nonprofits make headway in helping veterans",
-      "description": "Experts say the downward trend in the number of homeless vets shows the value of sustained and targeted public investments.",
-      "url": "https://www.ncspin.com/as-us-nc-homelessness-numbers-rise-officials-and-nonprofits-make-headway-in-helping-veterans",
-      "urlToImage": "https://www.ncspin.com/assets/images/og-othervoices-v2-1200x628.jpg",
-      "publishedAt": "2025-02-20T22:35:26Z",
-      "content": "An 8% reduction in the number of veterans experiencing homelessness on a given night in January 2024 is the lone bright spot in an otherwise grim U.S. Department of Housing and Urban Development (HUD… [+14297 chars]"
     }
   ],
   "totalResults": 96,
