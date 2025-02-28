@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-02-27T18:30:52.516Z",
+  "lastUpdated": "2025-02-28T01:45:40.811Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Discover Magazine"
+      },
+      "author": "Jenny Lehmann",
+      "title": "Shark Skin and Cicada Wings Inspire New Antimicrobial Cutting Boards",
+      "description": "Cutting-edge kitchen safety gets a boost thanks to nature's bacteria-resistant strategies.",
+      "url": "https://www.discovermagazine.com/technology/shark-skin-and-cicada-wings-inspire-new-antimicrobial-cutting-boards",
+      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/4p93UC0mrFuHuC2udOHMJc/1af41e2ac34b3e01f2db0eb9e5f22795/black-and-white-nanoscale-texures-of-shark-skin-and-cicada-wings.jpg",
+      "publishedAt": "2025-02-26T23:00:00Z",
+      "content": "Everyone knows that maintaining a clean kitchen is essential for safe food preparation. Failing to properly sanitize utensils after use can lead to foodborne illnesses from bacterial growth. Alongsid… [+4721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New Ghostwriter campaign targets Ukrainian Government and opposition activists in Belarus",
+      "description": "A Ghostwriter campaign using a new variant of PicassoLoader targets opposition activists in Belarus, and Ukrainian military and government organizations. SentinelLABS observed a new Ghostwriter campaign targeting Belarusian opposition activists and Ukrainian …",
+      "url": "https://securityaffairs.com/174696/intelligence/ghostwriter-targets-ukrainian-gov-and-opposition-in-belarus.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-45.png",
+      "publishedAt": "2025-02-26T22:05:25Z",
+      "content": "New Ghostwriter campaign targets Ukrainian Government and opposition activists in Belarus\r\n | New LightSpy spyware variant comes with enhanced data collection features targeting social media platform… [+142808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Braden Bjella",
+      "title": "‘Up to 70% depending on the country of origin’: Expert issues warning over black pepper. Here’s why you may want to think twice before reaching for the shaker",
+      "description": "When one buys a product, they’re generally confident that what’s on the label is going to match the product inside.\n\n\nHowever, this isn’t always the case. For example, some shoppers have found that what they believed to be ice cream was actually “frozen dairy…",
+      "url": "https://www.dailydot.com/news/black-pepper-warning/",
+      "urlToImage": "https://uploads.dailydot.com/2025/02/black_Pepper_warning_instagram.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2025-02-26T20:00:00Z",
+      "content": "When one buys a product, theyre generally confident that whats on the label is going to match the product inside.\r\nHowever, this isnt always the case. For example, some shoppers have found that what … [+6445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "ben.turner@futurenet.com (Ben Turner)",
+      "title": "Brewing tea can remove lead and other heavy metals from water, new study finds",
+      "description": "Tea leaves can remove heavy metals such as lead, cadmium and chromium from water. And steeping time has the biggest impact.",
+      "url": "https://www.livescience.com/health/brewing-tea-can-remove-lead-and-other-heavy-metals-from-water-new-study-finds",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/r9ETfXemGCgXZViRKcsrqT-1200-80.jpg",
+      "publishedAt": "2025-02-26T19:19:23Z",
+      "content": "Brewing tea could help to remove toxic heavy metals, including lead, from drinking water, a new study has revealed.\r\nA good cup of tea has long been associated with numerous slight health benefits, b… [+4719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Observer"
+      },
+      "author": "Observer Content Studio, Observer Content Studio",
+      "title": "10 Best CBD Companies to Buy From in 2025: Honest Reviews & Guide",
+      "description": "Despite strong competition from nine impressive challengers, Colorado Botanicals tops our list of the best CBD companies to buy from in 2025.",
+      "url": "https://observer.com/2025/02/best-cbd-companies-brands/",
+      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/02/CBD-companies-relaunch-1.png?quality=80",
+      "publishedAt": "2025-02-26T18:40:47Z",
+      "content": "The 10 best CBD companies on the market. Observer\r\nWith thousands of CBD companies on the market, knowing which company is best to buy from is difficult. To find the best CBD oil companies on the mar… [+62476 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,71 +1248,6 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/0d056aa80a1c774b5b4902fa928d1737c41cd2f0/hub/2023/01/17/07e6ec54-fa9a-47d7-8b43-281b592862b2/gettyimages-99277066.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-02-20T21:30:04Z",
       "content": "Eggs are a powerhouse of protein, making them a staple in many diets. Not only are they packed with nutrients, but they're also versatile and easy to cook. If you're stocking up, proper storage is ke… [+5094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "author": "Kyt Dotson",
-      "title": "Spore.Bio raises $23M to cut microbiology testing to minutes from days using AI",
-      "description": "Paris-based Spore.Bio, a startup that developed an artificial intelligence-driven method for detecting pathogens, said today it has raised $23 million in early-stage funding to reinvent microbiology testing. The company’s Series A funding round was led by Sin…",
-      "url": "https://siliconangle.com/2025/02/20/spore-bio-raises-23m-cut-microbiology-testing-minutes-days-using-ai/",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/coronaimage.jpg",
-      "publishedAt": "2025-02-20T18:50:00Z",
-      "content": "Paris-based Spore.Bio, a startup that developed an artificial intelligence-driven method for detecting pathogens, said today it has raised $23 million in early-stage funding to reinvent microbiology … [+3387 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Gadgets 360 Staff",
-      "title": "Scientists Detect Rising Microplastics in Human Brains, Study Raises Concerns",
-      "description": "A study has found microplastics in human brains, with concentrations rising over recent years. Researchers suggest possible links to dementia, but some experts question the findings due to potential flaws in the analysis. While microplastics have been previou…",
-      "url": "https://www.gadgets360.com/science/news/microplastics-found-in-human-brains-raising-health-concerns-study-finds-7753905",
-      "urlToImage": "https://i.gadgets360cdn.com/large/MicroPlastic_1740047147609.jpg",
-      "publishedAt": "2025-02-20T17:30:01Z",
-      "content": "A rise in microplastic contamination in human brain tissue has been reported, with findings indicating an increase over recent years. Concerns about potential health impacts have been raised, as micr… [+2334 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "NailaoLocker ransomware targets EU healthcare-related entities",
-      "description": "NailaoLocker ransomware is a new threat that targeted European healthcare organizations from June to October 2024. Orange Cyberdefense CERT uncovered a malware campaign, tracked as The Green Nailao campaign, that targeted European organizations, including hea…",
-      "url": "https://securityaffairs.com/174440/malware/nailaolocker-ransomware-targets-eu-healthcare-related-entities.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-35.png",
-      "publishedAt": "2025-02-20T15:47:59Z",
-      "content": "Salt Typhoon used custom malware JumbledPath to spy U.S. telecom providers\r\n | NailaoLocker ransomware targets EU healthcare-related entities\r\n | Microsoft fixed actively exploited flaw in Power Page… [+141146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Matt Williams",
-      "title": "Should astronauts be worried about Mars dust?",
-      "description": "Every Martian year (which last 686.98 Earth days), the red planet experiences regional dust storms that coincide with summer in the southern hemisphere. Every three Martian years (five and a half Earth years), these storms grow so large that they encompass th…",
-      "url": "https://phys.org/news/2025-02-astronauts-mars.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/should-astronauts-be-w.jpg",
-      "publishedAt": "2025-02-20T14:56:05Z",
-      "content": "Every Martian year (which last 686.98 Earth days), the red planet experiences regional dust storms that coincide with summer in the southern hemisphere. Every three Martian years (five and a half Ear… [+7860 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lena-Mari Tamminen, Josef Dahlberg",
-      "title": "Evaluation of an automatic image classifier for analysis of bacterial growth on a multiple-agar plate developed for bovine mastitis",
-      "description": "Rapid identification of mastitis-causing bacteria is crucial for effective treatment decisions. Several multi-media agar plates have been developed to aid pathogen identification on farms or by veterinarians, but these methods require trained operators. Advan…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318698",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318698.g004&size=inline",
-      "publishedAt": "2025-02-20T14:00:00Z",
-      "content": "Abstract\r\nRapid identification of mastitis-causing bacteria is crucial for effective treatment decisions. Several multi-media agar plates have been developed to aid pathogen identification on farms o… [+34467 chars]"
     }
   ],
   "totalResults": 96,
