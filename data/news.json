@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-03-01T06:29:49.470Z",
+  "lastUpdated": "2025-03-01T12:39:27.234Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cisco fixed command injection and DoS flaws in Nexus switches",
+      "description": "Cisco addressed command injection and denial-of-service (DoS) vulnerabilities in some models of its Nexus switches. Cisco released security updates to address command injection and DoS vulnerabilities in Nexus switches, including a high-severity flaw. The mos…",
+      "url": "https://securityaffairs.com/174753/security/cisco-fixed-command-injection-and-dos-flaws-in-nexus-switches.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
+      "publishedAt": "2025-02-28T11:59:31Z",
+      "content": "Cisco fixed command injection and DoS flaws in Nexus switches\r\n | China-linked threat actors stole 10% of Belgian State Security Service (VSSE)'s staff emails\r\n | FBI: North Korea-linked TraderTraito… [+143229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": null,
+      "title": "Beavers: managing beaver activities in England",
+      "description": "How to manage beaver activities on your land without a licence and when you need a licence.",
+      "url": "https://www.gov.uk/guidance/beavers-managing-beaver-activities-in-england",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-02-28T10:53:05Z",
+      "content": "Eurasian beavers are a European protected species. The Conservation of Habitats and Species Regulations 2017 (the Habitats Regulations) protect beavers and the places they use for breeding and shelte… [+23775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China-linked threat actors stole 10% of Belgian State Security Service (VSSE)’s staff emails",
+      "description": "Belgian authorities are investigating Chinese hackers for breaching its State Security Service (VSSE), stealing 10% of emails from 2021 to May 2023. The Belgian federal prosecutor’s office is probing a possible security breach on its State Security Service (V…",
+      "url": "https://securityaffairs.com/174743/intelligence/china-linked-threat-actors-stole-10-of-belgian-state-security-service-vsse-emails.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+      "publishedAt": "2025-02-28T07:54:40Z",
+      "content": "China-linked threat actors stole 10% of Belgian State Security Service (VSSE)'s staff emails\r\n | FBI: North Korea-linked TraderTraitor is responsible for $1.5 Billion Bybit hack\r\n | Criminal group UA… [+143163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CounterPunch"
+      },
+      "author": "John K. White",
+      "title": "The End of Oil and Empire",
+      "description": "In the wake of Donald Trump’s anti-environmental “Drill baby, drill” stance, now may not seem the time to champion a greener future, but we have no choice if we want the earth to remain habitable. Across the globe, the politics of oil continues causing confli…",
+      "url": "https://www.counterpunch.org/?p=355747",
+      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/02/IMG_2397-scaled.jpeg",
+      "publishedAt": "2025-02-28T06:57:13Z",
+      "content": "Oil refinery near Ashland, Kentucky. Photo: Jeffrey St. Clair.\r\nIn the wake of Donald Trumps anti-environmental Drill baby, drill stance, now may not seem the time to champion a greener future, but w… [+34012 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -658,7 +710,7 @@
       },
       "author": null,
       "title": "Mimicking shark skin to create clean cutting boards",
-      "description": "Keeping work surfaces clean during meat processing is a challenge, and now researchers deliver key insights into a solution that could change the current practice altogether: Instead of working to prevent bacteria buildup, they created surfaces that stop bact���",
+      "description": "Keeping work surfaces clean during meat processing is a challenge, and now researchers deliver key insights into a solution that could change the current practice altogether: Instead of working to prevent bacteria buildup, they created surfaces that stop bact…",
       "url": "https://www.sciencedaily.com/releases/2025/02/250225121518.htm",
       "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
       "publishedAt": "2025-02-25T17:15:18Z",
@@ -1196,73 +1248,8 @@
       "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
       "publishedAt": "2025-02-24T00:00:00Z",
       "content": "Culture of pseudo-unipolar DRG neurons\r\nRequest a detailed protocol\r\nDRG cultures from Wistar rats (embryonic day 16) and Spastin knockout mice and wild-type littermates (embryonic day 13) were done … [+30958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Weekly Health Quiz: Ozempic Dangers, PUFA Risks and Butyrate Production",
-      "description": "1 What is the recommended approach to increasing butyrate production based on your gut health?\n\r\n\n<ul>\n<li>Increase fiber intake immediately, regardless of gut health</li> \n<li>If your gut is healthy, eat fiber-rich foods; if compromised, start with whole fru…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/24/weekly-health-quiz-11.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/weekly-health-quiz-fb.jpg",
-      "publishedAt": "2025-02-24T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Dot"
-      },
-      "author": "Parks Kugle",
-      "title": "‘I have noticed that’: Man finds perfect Orowheat loaf of bread outside. Then he sees the expiration date",
-      "description": "Fresh, natural food is becoming increasingly hard to find while grocery shopping. Sure the food feels fresh and taste good, but when you actually read the ingredients you realize how many chemicals and preservatives you're consuming. \n\n\nThis is especially tru…",
-      "url": "https://www.dailydot.com/news/man-finds-fresh-old-loaf-of-bread/",
-      "urlToImage": "https://uploads.dailydot.com/2025/02/Orowheat_Bread_Expiratio_Date_Tik_Tok.png?auto=compress&fit=scale&fm=png&h=400&w=800",
-      "publishedAt": "2025-02-23T23:00:00Z",
-      "content": "Fresh, natural food is becoming increasingly hard to find while grocery shopping. Sure the food feels fresh and taste good, but when you actually read the ingredients you realize how many chemicals a… [+2555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "Listeria Outbreak—Recalled Shakes Linked To 11 Deaths In Nursing Homes",
-      "description": "A Listeria outbreak linked to recalled frozen shakes has killed 11 people, raising concerns about food safety oversight in nursing homes and hospitals.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/23/listeria-outbreak-recalled-shakes-linked-to-11-deaths-in-nursing-homes/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67bb67e458b59c8e69831978/0x0.jpg?format=jpg&crop=4066,2285,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-23T18:27:53Z",
-      "content": "A Listeria outbreak linked to recalled frozen shakes has killed 11 people, raising concerns about ... [+] food safety oversight in nursing homes and hospitals.\r\ngetty\r\nFrozen shakes served in nursing… [+6359 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Ice Cream Recall Update As FDA Issues Highest Risk Warning",
-      "description": "An Arizona company recalled the product in January over the possibility of it containing an undeclared allergen.",
-      "url": "https://www.newsweek.com/ice-cream-recall-fda-update-2034962",
-      "urlToImage": "https://d.newsweek.com/en/full/2593698/ice-cream.jpg",
-      "publishedAt": "2025-02-23T15:40:07Z",
-      "content": "The Food and Drug Administration (FDA) has classified Arizona Foods Group's Mombo's Vanilla Soft Serve Ice Cream Mix at its highest risk level, Class I, after the company recalled the product in Janu… [+2617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Microsoft Power Pages flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft Power Pages vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Microsoft Power Pages vulnerability,…",
-      "url": "https://securityaffairs.com/174541/hacking/u-s-cisa-adds-microsoft-power-pages-flaw-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-23T15:07:46Z",
-      "content": "U.S. CISA adds Microsoft Power Pages flaw to its Known Exploited Vulnerabilities catalog\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 34\r\n | Security Affairs newsletter Round 512 by Pierluigi Pagani… [+141634 chars]"
     }
   ],
-  "totalResults": 97,
+  "totalResults": 96,
   "filteredCount": 0
 }
