@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-03-01T01:51:49.207Z",
+  "lastUpdated": "2025-03-01T06:29:49.470Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Finn Heartley",
+      "title": "California wildfires release lethal toxins: Environmental expert Eric Coppolino warns of long-term health impacts",
+      "description": "Eric Coppolino, environmental expert, highlights that California’s wildfires have transformed affected areas into toxic waste dumps due to the burning of 14,000-15,000 structures, releasing dangerous chemicals. The burning of homes and businesses releases a t…",
+      "url": "https://www.naturalnews.com/2025-02-28-california-wildfires-release-lethal-toxins-warns-long-term-health-impacts.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/2025-02-28-BBN-Interview-with-Eric-Coppolino.jpg",
+      "publishedAt": "2025-02-28T06:00:00Z",
+      "content": "<ul><li>Eric Coppolino, environmental expert, highlights that California's wildfires have transformed affected areas into toxic waste dumps due to the burning of 14,000-15,000 structures, releasing d… [+5267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "DR Congo: WHO tracks deadly mysterious illness",
+      "description": "Health authorities in the Democratic Republic of the Congo (DRC) and experts from the World Health Organization (WHO) are carrying out further investigations to determine the cause of another cluster of illness and deaths in Équateur province, UN officials re…",
+      "url": "https://www.globalsecurity.org/security/library/news/2025/02/sec-250227-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-02-28T05:18:54Z",
+      "content": "27 February 2025 - Health authorities in the Democratic Republic of the Congo (DRC) and experts from the World Health Organization (WHO) are carrying out further investigations to determine the cause… [+3265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Juancole.com"
+      },
+      "author": "The Conversation",
+      "title": "Israel’s bombing of Gaza caused untold environmental Damage − Can it Recover?",
+      "description": "By Lesley Joseph, University of South Carolina (The Conversation) - The war in Gaza has come with an awful cost. Tens of thousands of Palestinian civilians have been killed, and thousands more are missing. And while a temporary ceasefire has allowed for incre…",
+      "url": "https://www.juancole.com/2025/02/israels-environmental-%e2%88%92.html",
+      "urlToImage": "https://media.juancole.com/images/2025/02/IMG_5137.jpg",
+      "publishedAt": "2025-02-28T05:06:51Z",
+      "content": "By Lesley Joseph, University of South Carolina\r\n(The Conversation) – The war in Gaza has come with an awful cost. Tens of thousands of Palestinian civilians have been killed, and thousands more are m… [+8683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "FDA acts to hold imported clams at U.S. borders because of contamination",
+      "description": "The U.S. FDA has added several Chinese companies to its Import Alert 99-48, Detention without Physical Examination of Foods Due to Chemical Contamination, to prevent future entry of shipments into the U.S. of processed clams because of contamination with per-…",
+      "url": "https://www.foodsafetynews.com/2025/02/fda-acts-to-hold-imported-clams-at-u-s-borders-because-of-contamination/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/082/559/434/JWBKNELpyQ2Vngr8QPvbX5R93/6fbd93cc9319f1117ba18b7221fbf6d511f484e1.png",
+      "publishedAt": "2025-02-28T05:03:00Z",
+      "content": "The U.S. FDA has added several Chinese companies to its Import Alert 99-48, Detention without Physical Examination of Foods Due to Chemical Contamination, to prevent future entry of shipments into th… [+2848 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -606,7 +658,7 @@
       },
       "author": null,
       "title": "Mimicking shark skin to create clean cutting boards",
-      "description": "Keeping work surfaces clean during meat processing is a challenge, and now researchers deliver key insights into a solution that could change the current practice altogether: Instead of working to prevent bacteria buildup, they created surfaces that stop bact…",
+      "description": "Keeping work surfaces clean during meat processing is a challenge, and now researchers deliver key insights into a solution that could change the current practice altogether: Instead of working to prevent bacteria buildup, they created surfaces that stop bact���",
       "url": "https://www.sciencedaily.com/releases/2025/02/250225121518.htm",
       "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
       "publishedAt": "2025-02-25T17:15:18Z",
@@ -1209,58 +1261,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-02-23T15:07:46Z",
       "content": "U.S. CISA adds Microsoft Power Pages flaw to its Known Exploited Vulnerabilities catalog\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 34\r\n | Security Affairs newsletter Round 512 by Pierluigi Pagani… [+141634 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 34",
-      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. You’ve Got Malware: FINALDRAFT Hides in Your Drafts   Telegram Abused as C2 Channel for New Golang Backdoor   Infostealing M…",
-      "url": "https://securityaffairs.com/174534/uncategorized/security-affairs-malware-newsletter-round-34.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "publishedAt": "2025-02-23T12:59:59Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 34\r\n | Security Affairs newsletter Round 512 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurr… [+141541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 512 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Lazarus APT st…",
-      "url": "https://securityaffairs.com/174529/breaking-news/security-affairs-newsletter-round-512-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-02-23T12:38:51Z",
-      "content": "Security Affairs newsletter Round 512 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurrency heist ever\r\n | Apple removes iCloud encrypti… [+141492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Cheese sold in Canada recalled because of contamination with E. coli",
-      "description": "Jean Perrin brand Morbier de Scey and Raclette de Scey (cheeses) are under recall in Canada because of contamination with pathogenic E. coli. According to the Canadian Food Inspection Agency the cheeses were distributed in Alberta, British Columbia, Manitoba …",
-      "url": "https://www.foodsafetynews.com/2025/02/cheese-sold-in-canada-recalled-because-of-contamination-with-e-coli/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/081/939/251/jMVrobL3AQ5krK4yzG9ReqJW5/1c13e8c59ae2d63c6b10c7c25dc8724449c2718a.png",
-      "publishedAt": "2025-02-23T00:55:01Z",
-      "content": "Jean Perrin brand Morbier de Scey and Raclette de Scey (cheeses) are under recall in Canada because of contamination with pathogenic E. coli.\r\nAccording to the Canadian Food Inspection Agency the che… [+3085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurrency heist ever",
-      "description": "Crypto exchange Bybit was the victim of a sophisticated attack, and threat actors stole $1.5B worth of cryptocurrency from one of the company’s offline wallets. Crypto exchange Bybit suffered a sophisticated cyberattack, threat actors transferred over 400,000…",
-      "url": "https://securityaffairs.com/174514/cyber-crime/lazarus-stole-1-5b-from-bybit-cryptocurrency-heist.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2017/11/ethereum-price-fb.jpg",
-      "publishedAt": "2025-02-23T00:19:03Z",
-      "content": "Lazarus APT stole $1.5B from Bybit, it is the largest cryptocurrency heist ever\r\n | Apple removes iCloud encryption in UK following backdoor demand\r\n | B1acks Stash released 1 Million credit cards\r\n … [+141406 chars]"
     }
   ],
   "totalResults": 97,
