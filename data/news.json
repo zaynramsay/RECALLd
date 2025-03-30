@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-03-30T06:30:33.497Z",
+  "lastUpdated": "2025-03-30T12:41:22.649Z",
   "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "The U.S. is on an egg hunt in Europe to ease prices at home",
+      "description": "The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit record highs.",
+      "url": "https://www.nbcnews.com/news/world/us-egg-hunt-europe-ease-prices-home-rcna198694",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250306-Eggs-2-aa-1225-def2b0.jpg",
+      "publishedAt": "2025-03-29T11:12:56Z",
+      "content": "SCHOENEICHE, Germany The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit … [+7540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Navratri 2025: 5 Tips To Pick Quality Ingredients While Shopping For Navratri Meals",
+      "description": "Before you shop for vrat-friendly ingredients, here are some important checks to identify quality foods for your fasting meals.",
+      "url": "https://food.ndtv.com/food-drinks/navratri-2025-5-tips-to-pick-quality-ingredients-while-shopping-for-navratri-meals-8038971",
+      "urlToImage": "https://c.ndtvimg.com/2024-04/egsp7sso_navratri-food_625x300_16_April_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2025-03-29T08:39:15Z",
+      "content": "Navratri is a Hindu festival dedicated to the worship of Goddess Durga's nine divine forms. This year, the auspicious nine-day Navratri festivities will begin on 30 March and conclude on 7 April 2025… [+3793 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ashley DiMella",
+      "title": "Death of ex-Yankee's son in Costa Rica has experts sounding alarm on healthy travel",
+      "description": "The death of Miller Gardner, son of former New York Yankee Brett Gardner, has experts speaking out about travel and health after the teen died while on vacation in Costa Rica.",
+      "url": "https://www.foxnews.com/travel/death-ex-yankees-son-costa-rica-prompts-experts-sound-alarm-healthy-travel",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/miller-gardner-fmaily.jpg",
+      "publishedAt": "2025-03-29T08:00:23Z",
+      "content": "As investigators look into the death of teen Miller Gardner, son of former New York Yankees player Brett Gardner, experts are speaking out about exposure to food-related illnesses during travel and h… [+3568 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -86,7 +125,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Russian authorities arrest three suspects behind Mamont Android banking trojan",
-      "description": "Russian authorities arrested three suspects for developing Mamont, a newly identified Android banking trojan. Russian authorities arrested three suspects in Saratov for developing Mamont (Russian for mammoth), a recently discovered Android banking trojan. “Th��",
+      "description": "Russian authorities arrested three suspects for developing Mamont, a newly identified Android banking trojan. Russian authorities arrested three suspects in Saratov for developing Mamont (Russian for mammoth), a recently discovered Android banking trojan. “Th…",
       "url": "https://securityaffairs.com/175935/cyber-crime/russian-authorities-arrest-three-suspects-behind-mamont-android-banking-trojan.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-54.png",
       "publishedAt": "2025-03-28T18:47:37Z",
@@ -708,19 +747,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Lance D Johnson",
-      "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
-      "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
-      "url": "https://www.naturalnews.com/2025-03-27-scientists-demand-fda-withdraw-mrna-covid-vaccines.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
-      "publishedAt": "2025-03-27T06:00:00Z",
-      "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Soybeans: The ancient superfood powering modern diets",
       "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
@@ -728,6 +754,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
       "publishedAt": "2025-03-27T06:00:00Z",
       "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
+      "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
+      "url": "https://www.naturalnews.com/2025-03-27-scientists-demand-fda-withdraw-mrna-covid-vaccines.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
+      "publishedAt": "2025-03-27T06:00:00Z",
+      "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
     },
     {
       "source": {
@@ -1100,7 +1139,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Google fixed the first actively exploited Chrome zero-day since the start of the year",
-      "description": "Google fixed a flaw in the Chrome browser for Windows that was actively exploited in attacks targeting organizations in Russia. Google has released out-of-band fixes to address a high-severity security vulnerability, tracked as��CVE-2025-2783, in Chrome browse…",
+      "description": "Google fixed a flaw in the Chrome browser for Windows that was actively exploited in attacks targeting organizations in Russia. Google has released out-of-band fixes to address a high-severity security vulnerability, tracked as CVE-2025-2783, in Chrome browse…",
       "url": "https://securityaffairs.com/175862/hacking/google-fixed-first-chrome-zero-day-in-2025.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/03/google-chrome-bounty-program.jpg",
       "publishedAt": "2025-03-26T07:46:27Z",
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2025/03/female-chewing-gum-1200x628-facebook.jpg",
       "publishedAt": "2025-03-26T02:16:44Z",
       "content": "<ul><li>A new study found that chewing gum releases hundreds to thousands of microplastics for every gram of gum.</li><li>Both synthetic and natural gums were found to contain microplastics.</li><li>… [+6394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "REBECCA CHONG",
-      "title": "Cleaner, safer Ramadan bazaars in Sandakan",
-      "description": "KOTA KINABALU: Food safety standards at Ramadan bazaars in Sandakan have improved this year, with authorities reporting fewer hygiene violations during enforcement checks. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/03/26/cleaner-safer-ramadan-bazaars-in-sandakan",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/03/26/3234176.jpeg",
-      "publishedAt": "2025-03-25T23:00:00Z",
-      "content": "KOTA KINABALU: Food safety standards at Ramadan bazaars in Sandakan have improved this year, with authorities reporting fewer hygiene violations during enforcement checks.\r\nOnly seven compound notice… [+1906 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Jano Gibson",
-      "title": "Astronauts to grow edible mushrooms during next space mission",
-      "description": "When SpaceX launches its next mission in the coming days, it will include an Australian-led experiment that could have significant ramifications for the future of space exploration.",
-      "url": "https://www.abc.net.au/news/2025-03-26/spacex-astronauts-to-grow-edible-mushrooms-on-space-mission/105079800",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dca1b8846d27fe32d9a54cb67c62b7d8?impolicy=wcms_watermark_news&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-03-25T22:37:02Z",
-      "content": "When SpaceX launches its next mission in the coming days, it will include an Australian-led experiment that could have significant ramifications for the future of space exploration.\r\nThe Fram2 missio… [+5614 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Coca-Cola cases recalled due to plastic contamination",
-      "description": "Recall comes amid a flurry of other product recalls",
-      "url": "https://www.the-independent.com/life-style/coca-cola-recall-cans-plastic-b2721505.html",
-      "urlToImage": "https://static.the-independent.com/2025/03/25/21/30/iStock-458585847.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-03-25T22:06:45Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3409 chars]"
     }
   ],
   "totalResults": 92,
