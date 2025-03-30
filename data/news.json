@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-01T12:39:27.234Z",
+  "lastUpdated": "2025-03-30T01:57:43.793Z",
   "articles": [
     {
       "source": {
@@ -7,649 +7,51 @@
         "name": "Securityaffairs.com"
       },
       "author": "Pierluigi Paganini",
-      "title": "Cisco fixed command injection and DoS flaws in Nexus switches",
-      "description": "Cisco addressed command injection and denial-of-service (DoS) vulnerabilities in some models of its Nexus switches. Cisco released security updates to address command injection and DoS vulnerabilities in Nexus switches, including a high-severity flaw. The mos…",
-      "url": "https://securityaffairs.com/174753/security/cisco-fixed-command-injection-and-dos-flaws-in-nexus-switches.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
-      "publishedAt": "2025-02-28T11:59:31Z",
-      "content": "Cisco fixed command injection and DoS flaws in Nexus switches\r\n | China-linked threat actors stole 10% of Belgian State Security Service (VSSE)'s staff emails\r\n | FBI: North Korea-linked TraderTraito… [+143229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "author": null,
-      "title": "Beavers: managing beaver activities in England",
-      "description": "How to manage beaver activities on your land without a licence and when you need a licence.",
-      "url": "https://www.gov.uk/guidance/beavers-managing-beaver-activities-in-england",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
-      "publishedAt": "2025-02-28T10:53:05Z",
-      "content": "Eurasian beavers are a European protected species. The Conservation of Habitats and Species Regulations 2017 (the Habitats Regulations) protect beavers and the places they use for breeding and shelte… [+23775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "China-linked threat actors stole 10% of Belgian State Security Service (VSSE)’s staff emails",
-      "description": "Belgian authorities are investigating Chinese hackers for breaching its State Security Service (VSSE), stealing 10% of emails from 2021 to May 2023. The Belgian federal prosecutor’s office is probing a possible security breach on its State Security Service (V…",
-      "url": "https://securityaffairs.com/174743/intelligence/china-linked-threat-actors-stole-10-of-belgian-state-security-service-vsse-emails.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
-      "publishedAt": "2025-02-28T07:54:40Z",
-      "content": "China-linked threat actors stole 10% of Belgian State Security Service (VSSE)'s staff emails\r\n | FBI: North Korea-linked TraderTraitor is responsible for $1.5 Billion Bybit hack\r\n | Criminal group UA… [+143163 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CounterPunch"
-      },
-      "author": "John K. White",
-      "title": "The End of Oil and Empire",
-      "description": "In the wake of Donald Trump’s anti-environmental “Drill baby, drill” stance, now may not seem the time to champion a greener future, but we have no choice if we want the earth to remain habitable. Across the globe, the politics of oil continues causing confli…",
-      "url": "https://www.counterpunch.org/?p=355747",
-      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/02/IMG_2397-scaled.jpeg",
-      "publishedAt": "2025-02-28T06:57:13Z",
-      "content": "Oil refinery near Ashland, Kentucky. Photo: Jeffrey St. Clair.\r\nIn the wake of Donald Trumps anti-environmental Drill baby, drill stance, now may not seem the time to champion a greener future, but w… [+34012 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Finn Heartley",
-      "title": "California wildfires release lethal toxins: Environmental expert Eric Coppolino warns of long-term health impacts",
-      "description": "Eric Coppolino, environmental expert, highlights that California’s wildfires have transformed affected areas into toxic waste dumps due to the burning of 14,000-15,000 structures, releasing dangerous chemicals. The burning of homes and businesses releases a t…",
-      "url": "https://www.naturalnews.com/2025-02-28-california-wildfires-release-lethal-toxins-warns-long-term-health-impacts.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/2025-02-28-BBN-Interview-with-Eric-Coppolino.jpg",
-      "publishedAt": "2025-02-28T06:00:00Z",
-      "content": "<ul><li>Eric Coppolino, environmental expert, highlights that California's wildfires have transformed affected areas into toxic waste dumps due to the burning of 14,000-15,000 structures, releasing d… [+5267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "DR Congo: WHO tracks deadly mysterious illness",
-      "description": "Health authorities in the Democratic Republic of the Congo (DRC) and experts from the World Health Organization (WHO) are carrying out further investigations to determine the cause of another cluster of illness and deaths in Équateur province, UN officials re…",
-      "url": "https://www.globalsecurity.org/security/library/news/2025/02/sec-250227-unnews01.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-02-28T05:18:54Z",
-      "content": "27 February 2025 - Health authorities in the Democratic Republic of the Congo (DRC) and experts from the World Health Organization (WHO) are carrying out further investigations to determine the cause… [+3265 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Juancole.com"
-      },
-      "author": "The Conversation",
-      "title": "Israel’s bombing of Gaza caused untold environmental Damage − Can it Recover?",
-      "description": "By Lesley Joseph, University of South Carolina (The Conversation) - The war in Gaza has come with an awful cost. Tens of thousands of Palestinian civilians have been killed, and thousands more are missing. And while a temporary ceasefire has allowed for incre…",
-      "url": "https://www.juancole.com/2025/02/israels-environmental-%e2%88%92.html",
-      "urlToImage": "https://media.juancole.com/images/2025/02/IMG_5137.jpg",
-      "publishedAt": "2025-02-28T05:06:51Z",
-      "content": "By Lesley Joseph, University of South Carolina\r\n(The Conversation) – The war in Gaza has come with an awful cost. Tens of thousands of Palestinian civilians have been killed, and thousands more are m… [+8683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "FDA acts to hold imported clams at U.S. borders because of contamination",
-      "description": "The U.S. FDA has added several Chinese companies to its Import Alert 99-48, Detention without Physical Examination of Foods Due to Chemical Contamination, to prevent future entry of shipments into the U.S. of processed clams because of contamination with per-…",
-      "url": "https://www.foodsafetynews.com/2025/02/fda-acts-to-hold-imported-clams-at-u-s-borders-because-of-contamination/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/082/559/434/JWBKNELpyQ2Vngr8QPvbX5R93/6fbd93cc9319f1117ba18b7221fbf6d511f484e1.png",
-      "publishedAt": "2025-02-28T05:03:00Z",
-      "content": "The U.S. FDA has added several Chinese companies to its Import Alert 99-48, Detention without Physical Examination of Foods Due to Chemical Contamination, to prevent future entry of shipments into th… [+2848 chars]"
+      "title": "Crooks are reviving the Grandoreiro banking trojan",
+      "description": "Grandoreiro Banking Trojan resurfaces, targeting users in Latin America and Europe in new phishing campaigns. Forcepoint X-Labs researchers warn of new phishing campaigns targeting Latin America and Europe in new phishing campaigns. The Trojan has been active…",
+      "url": "https://securityaffairs.com/175964/malware/crooks-are-reviving-the-grandoreiro-banking-trojan.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-55.png",
+      "publishedAt": "2025-03-28T21:14:09Z",
+      "content": "Crooks are reviving the Grandoreiro banking trojan\r\n | Russian authorities arrest three suspects behind Mamont Android banking trojan\r\n | Mozilla fixed critical Firefox vulnerability CVE-2025-2857\r\n … [+151358 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Vegan Tuna Market to Surpass USD 478.0 Million in 2035, Poised for 4.5% CAGR Growth Through 2035 | Future Market Insights, Inc.",
-      "description": "The vegan tuna market size exceeded USD 307.8 million by 2025 and is estimated to grow at over 4.5% CAGR between 2025 and 2035. The Japan vegan tuna market is expected to register a 4.9% CAGR between 2025 and 2035. The vegan tuna market size exceeded USD 307.…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/28/3034440/0/en/Vegan-Tuna-Market-to-Surpass-USD-478-0-Million-in-2035-Poised-for-4-5-CAGR-Growth-Through-2035-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-02-28T00:30:00Z",
-      "content": "NEWARK, Del, Feb. 27, 2025 (GLOBE NEWSWIRE) -- The vegan tuna market is projected to exceed USD 307.8 million by 2025 and is anticipated to grow at a CAGR of over 4.5% between 2025 and 2035.\r\nVegan t… [+16269 chars]"
+      "author": "MITOLYN®",
+      "title": "Mitolyn WARNING (MUST-READ): Medical Investigator Exposes The Facts About Mitochondrial Health & Weight Loss",
+      "description": "Discover what medical experts, researchers, and real users are now saying about Mitolyn’s role in mitochondrial function, energy support, and fat loss. Discover what medical experts, researchers, and real users are now saying about Mitolyn’s role in mitochond…",
+      "url": "https://www.globenewswire.com/news-release/2025/03/28/3051607/0/en/Mitolyn-WARNING-MUST-READ-Medical-Investigator-Exposes-The-Facts-About-Mitochondrial-Health-Weight-Loss.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/dfc35d05-18bc-40de-9385-854984953924",
+      "publishedAt": "2025-03-28T19:51:00Z",
+      "content": "Vancouver, March 28, 2025 (GLOBE NEWSWIRE) --  Mitolyn\r\nIn a world where weight loss solutions come and go, Mitolyn has emerged as a frontrunner, capturing the attention of thousands looking for a su… [+40747 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "GlobeNewswire",
+      "title": "Arialief Reviews & Complaints (ALERT): Is This Nerve Pain Breakthrough Too Good To Be Real?",
+      "description": "SEATTLE, March 28, 2025 (GLOBE NEWSWIRE) — Nerve pain is brutal. Whether it’s the persistent tingling, relentless burning, or sharp, electric jabs that come without warning—it can turn everyday life into a constant battle. More than 30,000+ users are now turn…",
+      "url": "https://financialpost.com/globe-newswire/arialief-reviews-complaints-alert-is-this-nerve-pain-breakthrough-too-good-to-be-real",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/arialief.png",
+      "publishedAt": "2025-03-28T19:38:13Z",
+      "content": "Author of the article:\r\nARIALIEF OfficialGNW\r\nArticle content\r\nSEATTLE, March 28, 2025 (GLOBE NEWSWIRE) Nerve pain is brutal. Whether its the persistent tingling, relentless burning, or sharp, electr… [+49798 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Electronicintifada.net"
+        "name": "GlobeNewswire"
       },
-      "author": "Islam Elhabil",
-      "title": "Gaza wastewater crisis threatens Palestinian survival",
-      "description": "Israel's targeting of key infrastructure is aimed at making the territory uninhabitable.",
-      "url": "https://electronicintifada.net/content/gaza-wastewater-crisis-threatens-palestinian-survival/50440",
-      "urlToImage": "https://electronicintifada.net/sites/default/files/styles/original_800w/public/2025-02/main_image56051_mdbejvlnwi.jpeg?itok=OiW8PDGe",
-      "publishedAt": "2025-02-28T00:15:17Z",
-      "content": "Islam ElhabilThe Electronic Intifada27 February 2025\r\nA Palestinian woman and her daughter in front of a makeshift shelter built next to their destroyed home in Jabaliya, northern Gaza, 5 February.\r\n… [+6294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Daily"
-      },
-      "author": null,
-      "title": "Majority of US Baby Food Products Do Not Meet Nutrition Guidelines, Study Finds",
-      "description": "A new study found that 60% of the baby foods in the United States don't meet nutritional guidelines set by the World Health Organization.",
-      "url": "https://www.medicaldaily.com/majority-us-baby-food-products-do-not-meet-nutrition-guidelines-study-finds-473178",
-      "urlToImage": "https://d.medicaldaily.com/en/full/479764/baby-food.jpg",
-      "publishedAt": "2025-02-28T00:04:36Z",
-      "content": "Nutritious food is always important, whether for an infant or a senior, but it's especially critical for newborn babies. The global baby food market is rapidly growing, with the United States being t… [+6562 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Energycentral.com"
-      },
-      "author": "[Energy Central] German Toro Ghio",
-      "title": "The Shattered Mirror of Globalisation: Unveiling the Consequences for the Electricity Industry",
-      "description": "2. The Future of Electricity and Industry The global energy sector is at a crossroads, with two competing pathways: Continuation of Fossil Fuels Many governments prioritize short-term energy security by extending the life of oil, gas, and coal, particularly i…",
-      "url": "https://energycentral.com/c/cp/shattered-mirror-globalisation-unveiling-consequences-electricity-industry",
-      "urlToImage": "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/node_main/2025/2/gtg20rata20de20dos20patas20.jpg?itok=963abFGo",
-      "publishedAt": "2025-02-27T23:33:44Z",
-      "content": "Many brand todays world a two-legged rat! for the brazen deception it embodies...\r\nWorkart fully right of Germán &amp; Co\r\n\"As President, I will set a national goal of ensuring that America has the N… [+164202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cleanthesky.com"
-      },
-      "author": "Colin Smith —  February 27, 2025",
-      "title": "Advanced Dehumidification Solutions - Bry-Air is Advancing Air Control Sustainability (TrendHunter.com)",
-      "description": "(TrendHunter.com) Bry-Air, a global leader in dehumidification and environmental control solutions, is advancing its sustainability efforts with innovative technologies. The company has developed Low Dew Point...",
-      "url": "https://www.cleanthesky.com/innovation/bry-air",
-      "urlToImage": null,
-      "publishedAt": "2025-02-27T23:11:03Z",
-      "content": "Bry-Air, a global leader in dehumidification and environmental control solutions, is advancing its sustainability efforts with innovative technologies. The company has developed Low Dew Point Dehumid… [+1143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Kate Murphy",
-      "title": "Bird flu FAQ: Is my pet safe? Can I eat runny eggs? Is it safe to go to the park?",
-      "description": "Yahoo News answers some of the most frequently asked questions about the current bird flu outbreak.",
-      "url": "https://www.yahoo.com/news/bird-flu-faq-is-my-pet-safe-can-i-eat-runny-eggs-is-it-safe-to-go-to-the-park-220806548.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FFYvsvvJZtE2G.jSVpwJgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODE-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/0646b260-f550-11ef-b7f3-08a745252dc9",
-      "publishedAt": "2025-02-27T22:08:06Z",
-      "content": "Bird flu is spreading across the United States, causing egg shortages and soaring prices at supermarkets and restaurants. Since the outbreak started in February 2022, over 166 million birds have been… [+8915 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Dave Rogers",
-      "title": "Implanted medical devices coated with copper nanoparticles could reduce infection risk",
-      "description": "Scientists have developed copper oxide nanoparticles which can be coated onto implanted medical devices to reduce the risk of infection after operations. A team at Nottingham Trent University has led the work, which it is hoped will also help to tackle over-r…",
-      "url": "https://phys.org/news/2025-02-implanted-medical-devices-coated-copper.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/implanted-medical-devi.jpg",
-      "publishedAt": "2025-02-27T19:17:11Z",
-      "content": "Scientists have developed copper oxide nanoparticles which can be coated onto implanted medical devices to reduce the risk of infection after operations. A team at Nottingham Trent University has led… [+4411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "FBI: North Korea-linked TraderTraitor is responsible for $1.5 Billion Bybit hack",
-      "description": "The FBI confirmed that North Korea is responsible for the record-breaking cyber heist at the crypto exchange Bybit. FBI links the recent Bybit hack to North Korea-linked group TraderTraitor as details of the $1.5B cyber heist emerge. Last week, the crypto exc…",
-      "url": "https://securityaffairs.com/174735/cyber-crime/fbi-north-korea-responsible-bybit-hack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
-      "publishedAt": "2025-02-27T18:57:11Z",
-      "content": "FBI: North Korea-linked TraderTraitor is responsible for $1.5 Billion Bybit hack\r\n | Criminal group UAC-0173 targets the Notary Office of Ukraine\r\n | Cellebrite blocked Serbia from using its solution… [+143066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Gadgets 360 Staff",
-      "title": "Scientists Find Wastewater Bacteria That Break Down PET Plastic, Aiding Pollution Control",
-      "description": "Research has revealed that bacteria commonly found in wastewater can break down PET plastic, a widely used material in bottles and textiles. Scientists identified a specific enzyme responsible for degrading the plastic into smaller particles. While experts se…",
-      "url": "https://www.gadgets360.com/science/news/wastewater-bacteria-break-down-pet-plastic-aiding-pollution-control-7781737",
-      "urlToImage": "https://i.gadgets360cdn.com/large/bacteria__1_1740379625825.jpg",
-      "publishedAt": "2025-02-27T16:32:24Z",
-      "content": "Our environment continues to grapple with plastic pollution, with microplastics infiltrating the air, food, and water. Scientists are actively seeking methods to break down this persistent material. … [+2486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Lauren Leffer",
-      "title": "Should the ISS be dirtier? Cleanliness could be making astronauts sick.",
-      "description": "The space station's microbial environment most closely resembles a hospital isolation room.\nThe post Should the ISS be dirtier? Cleanliness could be making astronauts sick. appeared first on Popular Science.",
-      "url": "https://www.popsci.com/health/space-station-needs-dirt/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/02/iss-astronaut.png?quality=85&w=2000",
-      "publishedAt": "2025-02-27T16:00:00Z",
-      "content": "Far away from Earth, theres an entire intriguing world of microbes to explore. Aboard the International Space Station (ISS), quasi-extraterrestrial life is growing and replicating. Viruses, bacteria,… [+8360 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Criminal group UAC-0173 targets the Notary Office of Ukraine",
-      "description": "CERT-UA warns of UAC-0173 using DCRat malware to target Ukrainian notaries in a new attack wave since mid-January 2025. The Computer Emergency Response Team of Ukraine (CERT-UA) warned of a new campaign by criminal group UAC-0173 targeting Ukrainian notaries …",
-      "url": "https://securityaffairs.com/174723/cyber-crime/uac-0173-targets-the-notary-office-of-ukraine.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-47.png",
-      "publishedAt": "2025-02-27T15:33:58Z",
-      "content": "Criminal group UAC-0173 targets the Notary Office of Ukraine\r\n | Cellebrite blocked Serbia from using its solution because misuse of the equipment for political reasons\r\n | New Ghostwriter campaign t… [+142981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Laura Pezzi, Ramona Moegling, Cécile Baronti, Kamelia R. Stanoeva, Lance D. Presser, Pauline Jourdan, Nazli Ayhan, Willem M.R. van den Akker, Stephan Zientara, Céline M. Gossner, Rémi N. Charrel, Chantal B.E.M. Reusken, on behalf of EVD-LabNet",
-      "title": "Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022",
-      "description": "Alphaviruses comprise over 30 identified species spread worldwide and carry a large global health burden. With vector expansion occurring in and around Europe, it is anticipated this burden will increase. Therefore, regular assessment of the diagnostic capabi…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318602.g002&size=inline",
-      "publishedAt": "2025-02-27T14:00:00Z",
-      "content": "Abstract\r\nAlphaviruses comprise over 30 identified species spread worldwide and carry a large global health burden. With vector expansion occurring in and around Europe, it is anticipated this burden… [+58455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Payal Seth, Prabhu Pingali",
-      "title": "Addressing information and credit barriers to making India open defecation free and improving child health: Evidence from a cluster randomized trial in rural India",
-      "description": "Background Open defecation (OD) remains a significant public health challenge in India, contributing to adverse child health outcomes. Eliminating OD and improving child health necessitates both universal access and adoption of toilets. Despite the success of…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318198",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318198.g003&size=inline",
-      "publishedAt": "2025-02-27T14:00:00Z",
-      "content": "Citation: Seth P, Pingali P (2025) Addressing information and credit barriers to making India open defecation free and improving child health: Evidence from a cluster randomized trial in rural India.… [+46960 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Lesley Joseph, Research Assistant Professor of Environmental Engineering, University of South Carolina",
-      "title": "Israel’s bombing of Gaza caused untold environmental damage − recovery will take effort and time",
-      "description": "The humanitarian toll of more than a year of conflict will be augmented by the risk of further health issues due to poor hygiene facilities and air quality.",
-      "url": "https://theconversation.com/israels-bombing-of-gaza-caused-untold-environmental-damage-recovery-will-take-effort-and-time-245311",
-      "urlToImage": "https://images.theconversation.com/files/651474/original/file-20250225-32-p4hllo.jpg?ixlib=rb-4.1.0&rect=0%2C563%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-27T13:42:50Z",
-      "content": "Vast areas in Gaza have been reduced to rubble. Majdi Fathi/NurPhoto via Getty Images\r\nThe war in Gaza has come with an awful cost. Tens of thousands of Palestinian civilians have been killed, and th… [+8855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UN News"
-      },
-      "author": "dpicampaigns",
-      "title": "DR Congo: WHO tracks deadly mysterious illness",
-      "description": "Health authorities in the Democratic Republic of the Congo (DRC) and experts from the World Health Organization (WHO) are carrying out further investigations to determine the cause of another cluster of illness and deaths in Équateur province, UN officials re…",
-      "url": "https://news.un.org/en/story/2025/02/1160596",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-02-2025_WHO_DR_Congo.jpg/image770x420cropped.jpg",
-      "publishedAt": "2025-02-27T12:00:00Z",
-      "content": "In recent months, disease surveillance has identified increases in cases and fatalities on three occasions across different areas of the country, which triggered follow-up investigations to confirm t… [+2852 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yale.edu"
-      },
-      "author": null,
-      "title": "How Climate Change Puts the Safety of Drinking Water at Risk",
-      "description": "Wildfires, floods, intense heat, droughts, and other extreme events fueled by climate change are threatening water systems in the U.S. and around the globe. Experts warn of the increasing threat of contamination and the need to improve infrastructure to keep …",
-      "url": "https://e360.yale.edu/features/climate-change-drinking-water",
-      "urlToImage": "https://e360.yale.edu/assets/site/Kolkata-Flood-Tap_Getty-HEADER.jpg",
-      "publishedAt": "2025-02-27T10:47:00Z",
-      "content": "On November 8, 2018, a power line dropped into dry grass in the foothills of the Sierra Nevada mountains, north of Sacramento, and ignited the deadliest fire in Californias history. Powerful winds sw… [+11355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mindbodygreen.com"
-      },
-      "author": "https://www.mindbodygreen.com/wc/ava-durgin-writer",
-      "title": "Research Reveals Microplastics In The Brain—Here’s What To Do About It",
-      "description": "Plus, 7 actionable steps to reduce your exposure today",
-      "url": "https://www.mindbodygreen.com/articles/research-reveals-microplastics-in-brainheres-what-to-do-about-it",
-      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1yxom5cf1jr8bjby1.jpg",
-      "publishedAt": "2025-02-27T10:00:00Z",
-      "content": "For years, scientists have sounded the alarm on microplasticstiny plastic particles found in our food, water, air, and even our blood. But now, groundbreaking research has confirmed something even mo… [+3833 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Cellebrite blocked Serbia from using its solution because misuse of the equipment for political reasons",
-      "description": "Cellebrite blocked Serbia from using its solution after reports that police used it to unlock and infect the phones of a journalist and activist. A report published by Amnesty International in December 2024 documented the use of Cellebrite’s forensics tools b…",
-      "url": "https://securityaffairs.com/174707/intelligence/cellebrite-blocked-serbia-from-using-its-solution-because-misuse-of-the-equipment-for-political-reasons.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/03/cellebrite-ufed-touch.png",
-      "publishedAt": "2025-02-27T09:41:48Z",
-      "content": "Cellebrite blocked Serbia from using its solution because misuse of the equipment for political reasons\r\n | New Ghostwriter campaign targets Ukrainian Government and opposition activists in Belarus\r\n… [+142916 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "DragonForce Ransomware group is targeting Saudi Arabia",
-      "description": "Resecurity researchers reported that DragonForce ransomware targets Saudi organizations rising cyber threats in the region. DragonForce ransomware has recently been reported to target organizations in the Kingdom of Saudi Arabia (KSA). A significant incident …",
-      "url": "https://securityaffairs.com/174717/cyber-crime/dragonforce-ransomware-group-is-targeting-saudi-arabia.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/DragonForce-ransomware.jpeg",
-      "publishedAt": "2025-02-27T09:10:37Z",
-      "content": "New Ghostwriter campaign targets Ukrainian Government and opposition activists in Belarus\r\n | New LightSpy spyware variant comes with enhanced data collection features targeting social media platform… [+142808 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Finn Heartley",
-      "title": "Community-Led Disaster Relief, Environmental Advocacy, and Autism Health Initiatives: Insights from Mike Adams, Tracy, and Steve Slepcevic",
-      "description": "SRP 24 and Mike Adams, collaborate to deliver organic food to California wildfire victims, showcasing efficient private sector disaster response and contrasting it with governmental inefficiencies. Steve Slepcevic discusses in an interview on Brighteon.com th…",
-      "url": "https://www.naturalnews.com/2025-02-27-disaster-relief-environmental-advocacy-and-autism-health-initiatives-insights.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/02/2025-02-27-BBN-Interview-with-Steve-and-Warrior-Mom.jpg",
-      "publishedAt": "2025-02-27T06:00:00Z",
-      "content": "<ul><li>SRP 24 and Mike Adams, collaborate to deliver organic food to California wildfire victims, showcasing efficient private sector disaster response and contrasting it with governmental inefficie… [+5625 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "WHO assesses relevance of pathogens in water",
-      "description": "The World Health Organization (WHO) has published a series of documents covering the relevance of a range of pathogens in water. The background documents will inform the revision of WHO guidelines for drinking water quality and on sanitation and health. Examp…",
-      "url": "https://www.foodsafetynews.com/2025/02/who-assesses-relevance-of-pathogens-in-water/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/082/442/790/APW1bDp49YKkZjDLYjmVoORax/2c81e71ed5042cc6ddf3f09d450da6a2164eaaa6.png",
-      "publishedAt": "2025-02-27T05:01:00Z",
-      "content": "The World Health Organization (WHO) has published a series of documents covering the relevance of a range of pathogens in water.\r\nThe background documents will inform the revision of WHO guidelines f… [+3523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Discover Magazine"
-      },
-      "author": "Jenny Lehmann",
-      "title": "Shark Skin and Cicada Wings Inspire New Antimicrobial Cutting Boards",
-      "description": "Cutting-edge kitchen safety gets a boost thanks to nature's bacteria-resistant strategies.",
-      "url": "https://www.discovermagazine.com/technology/shark-skin-and-cicada-wings-inspire-new-antimicrobial-cutting-boards",
-      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/4p93UC0mrFuHuC2udOHMJc/1af41e2ac34b3e01f2db0eb9e5f22795/black-and-white-nanoscale-texures-of-shark-skin-and-cicada-wings.jpg",
-      "publishedAt": "2025-02-26T23:00:00Z",
-      "content": "Everyone knows that maintaining a clean kitchen is essential for safe food preparation. Failing to properly sanitize utensils after use can lead to foodborne illnesses from bacterial growth. Alongsid… [+4721 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New Ghostwriter campaign targets Ukrainian Government and opposition activists in Belarus",
-      "description": "A Ghostwriter campaign using a new variant of PicassoLoader targets opposition activists in Belarus, and Ukrainian military and government organizations. SentinelLABS observed a new Ghostwriter campaign targeting Belarusian opposition activists and Ukrainian …",
-      "url": "https://securityaffairs.com/174696/intelligence/ghostwriter-targets-ukrainian-gov-and-opposition-in-belarus.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-45.png",
-      "publishedAt": "2025-02-26T22:05:25Z",
-      "content": "New Ghostwriter campaign targets Ukrainian Government and opposition activists in Belarus\r\n | New LightSpy spyware variant comes with enhanced data collection features targeting social media platform… [+142808 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Dot"
-      },
-      "author": "Braden Bjella",
-      "title": "‘Up to 70% depending on the country of origin’: Expert issues warning over black pepper. Here’s why you may want to think twice before reaching for the shaker",
-      "description": "When one buys a product, they’re generally confident that what’s on the label is going to match the product inside.\n\n\nHowever, this isn’t always the case. For example, some shoppers have found that what they believed to be ice cream was actually “frozen dairy…",
-      "url": "https://www.dailydot.com/news/black-pepper-warning/",
-      "urlToImage": "https://uploads.dailydot.com/2025/02/black_Pepper_warning_instagram.jpg?auto=compress&fm=pjpg",
-      "publishedAt": "2025-02-26T20:00:00Z",
-      "content": "When one buys a product, theyre generally confident that whats on the label is going to match the product inside.\r\nHowever, this isnt always the case. For example, some shoppers have found that what … [+6445 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "ben.turner@futurenet.com (Ben Turner)",
-      "title": "Brewing tea can remove lead and other heavy metals from water, new study finds",
-      "description": "Tea leaves can remove heavy metals such as lead, cadmium and chromium from water. And steeping time has the biggest impact.",
-      "url": "https://www.livescience.com/health/brewing-tea-can-remove-lead-and-other-heavy-metals-from-water-new-study-finds",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/r9ETfXemGCgXZViRKcsrqT-1200-80.jpg",
-      "publishedAt": "2025-02-26T19:19:23Z",
-      "content": "Brewing tea could help to remove toxic heavy metals, including lead, from drinking water, a new study has revealed.\r\nA good cup of tea has long been associated with numerous slight health benefits, b… [+4719 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Observer"
-      },
-      "author": "Observer Content Studio, Observer Content Studio",
-      "title": "10 Best CBD Companies to Buy From in 2025: Honest Reviews & Guide",
-      "description": "Despite strong competition from nine impressive challengers, Colorado Botanicals tops our list of the best CBD companies to buy from in 2025.",
-      "url": "https://observer.com/2025/02/best-cbd-companies-brands/",
-      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/02/CBD-companies-relaunch-1.png?quality=80",
-      "publishedAt": "2025-02-26T18:40:47Z",
-      "content": "The 10 best CBD companies on the market. Observer\r\nWith thousands of CBD companies on the market, knowing which company is best to buy from is difficult. To find the best CBD oil companies on the mar… [+62476 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "Are Girl Scout Cookies Toxic? The Truth Behind The 2025 Recall Rumors",
-      "description": "Are Girl Scout Cookies toxic? Viral claims of lead, heavy metals, and glyphosate sparked recall rumors—but is it true? Here’s what you need to know.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/02/26/are-girl-scout-cookies-toxic-the-truth-behind-the-2025-recall-rumors/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67bf3cf7b6b5ce0e47e18752/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-02-26T16:28:07Z",
-      "content": "Are Girl Scout Cookies toxic? Viral TikTok rumors claim they contain lead, heavy metals, and ... [+] glyphosatebut is there really an FDA recall? We break down the controversy, what the study actuall… [+8207 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Arden Dier",
-      "title": "Tainted Shakes Tied to 12 Listeria Deaths",
-      "description": "Twelve people have now died in a multi-state listeria outbreak connected to frozen supplemental shakes. The FDA on Monday announced a recall of 4 oz. shakes manufactured by Prairie Farms Dairy due to a potential contamination of listeria monocytogenes, a bact…",
-      "url": "https://www.newser.com/story/364872/12-listeria-deaths-tied-to-tainted-shakes.html",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1595138-12-20250226094132.jpeg",
-      "publishedAt": "2025-02-26T15:21:00Z",
-      "content": "Some 38 people in 21 states have been affected with the strain, resulting in 12 deaths. All but one infected person were hospitalized, per Quartz. There are probably many more cases than those report… [+1085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Our Bureau",
-      "title": "Indian drugmakers see OAI classifications halving, post USFDA inspections, in 10 years",
-      "description": "In the last 10 years, Indian drugmakers have seen more regulatory inspections from the United States Food and Drug Administration (USFDA), but a halving of OAI (official action indicated) classifications, according to a Mckinsey representative.",
-      "url": "https://www.thehindubusinessline.com/news/national/indian-drugmakers-see-oai-classifications-halving-post-usfda-inspections-in-10-years/article69267015.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/vt9sba/article69267195.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U0A38DLN5_R1516117402_0_5e403ed7-0525-401a-a824-b7092693482b.jpg",
-      "publishedAt": "2025-02-26T14:39:39Z",
-      "content": "In the last 10 years, Indian drugmakers have seen more regulatory inspections from the United States Food and Drug Administration (USFDA), but a halving of OAI (official action indicated) classificat… [+2203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Michael Owusu, Eric Darko, Debora Akortia, Gifty Nkrumah, Sampson Twumasi-Ankrah, Michael Owusu-Ansah, Christopher B. Uzzell, Jonathan Rigby, Catherine M. Troman, Nicolette A. Zhou, John Scott Meschke, Alexander G. Shaw, Nicholas C. Grassly, Yaw Adu-Sarkodie, Ellis Owusu-Dabo",
-      "title": "Evaluation of Moore and grab sampling method for Salmonella Typhi detection in environmental samples in Ghana",
-      "description": "Background Typhoid fever causes substantial mortality and morbidity in low and middle-income countries (LMICs) as a result of inadequate water, hygiene, and sanitation facilities. The gold standard for typhoid diagnosis is blood culture, however this method i…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318840",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318840.g006&size=inline",
-      "publishedAt": "2025-02-26T14:00:00Z",
-      "content": "Citation: Owusu M, Darko E, Akortia D, Nkrumah G, Twumasi-Ankrah S, Owusu-Ansah M, et al. (2025) Evaluation of Moore and grab sampling method for Salmonella Typhi detection in environmental samples i… [+28639 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Yumei Tian, Qi Hou, Mingyue Zhang, Er Gao, Yue Wu",
-      "title": "Exposure to arsenic and cognitive impairment in children: A systematic review",
-      "description": "Objective Arsenic exposure is a significant public health concern, particularly for its impact on children’s cognitive development. Arsenic, a prevalent environmental toxin, is known to disrupt various biological pathways, leading to cognitive deficits and ne…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319104",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319104.g001&size=inline",
-      "publishedAt": "2025-02-26T14:00:00Z",
-      "content": "Cognitive Deficits and IQ Scores: Multiple studies have revealed a strong inverse association between arsenic exposure and childrens cognitive function. These studies show that children exposed to hi… [+12024 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Answersresearchjournal.org"
-      },
-      "author": "Troy Lacey",
-      "title": "The Hyksos— Does the Bible Shed Light on Who They Were?",
-      "description": "An interesting idea has been developed in recent decades that connects the Hyksos with the Bible’s Exodus account.",
-      "url": "https://answersresearchjournal.org/ancient-egypt/hyksos-bible-who-they-were/",
-      "urlToImage": "https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/place-of-exodus-egyptian-history-comments.jpg",
-      "publishedAt": "2025-02-26T11:00:00Z",
-      "content": "Keywords: Chronology; Hyksos; Exodus; Egypt; Israel; Levant; Amorites; Amalekites; Archaeology\r\nThe Recently Published Study at Tell el-Dabca\r\nIn July 2020, a study (Stantis et. al. 2020) was publish… [+119493 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Harry McGee",
-      "title": "Nuclear accident in UK or Europe could significantly contaminate food in Ireland, EPA told Government",
-      "description": "Emergency briefing prepared after Russia’s invasion of Ukraine estimated economic cost at €4 billion",
-      "url": "https://www.irishtimes.com/ireland/2025/02/26/nuclear-accident-in-uk-or-europe-could-significantly-contaminate-food-in-ireland-epa-told-government/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/HPHGJA6PSBETPLVQFGMVOJZGXU.jpg?smart=true&auth=d0388f84abe095c82576d98991a7a628ef75bab7d89629da39944484e5191f44&width=1200&height=630",
-      "publishedAt": "2025-02-26T10:30:00Z",
-      "content": "A nuclear accident in the UK or Europe could significantly contaminate food in Ireland with radiation, leading to health implications and an economic cost of 4 billion, the Government was told shortl… [+4104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New LightSpy spyware variant comes with enhanced data collection features targeting social media platforms",
-      "description": "Researchers found an updated LightSpy spyware with enhanced data collection features targeting social media platforms like Facebook and Instagram. Cybersecurity researchers at Hunt.io have found an updated version of the LightSpy spyware that supports an expa…",
-      "url": "https://securityaffairs.com/174674/malware/new-lightspy-spyware-variant-data-collection-targets-social-media-platforms.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-44.png",
-      "publishedAt": "2025-02-26T09:46:37Z",
-      "content": "New LightSpy spyware variant comes with enhanced data collection features targeting social media platforms\r\n | U.S. CISA adds Microsoft Partner Center and Synacor Zimbra Collaboration Suite flaws to … [+142714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Microsoft Partner Center and Synacor Zimbra Collaboration Suite flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft Partner Center and Synacor Zimbra Collaboration Suite vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) …",
-      "url": "https://securityaffairs.com/174664/security/u-s-cisa-adds-microsoft-partner-center-and-synacor-zimbra-collaboration-suite-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-26T08:09:32Z",
-      "content": "U.S. CISA adds Microsoft Partner Center and Synacor Zimbra Collaboration Suite flaws to its Known Exploited Vulnerabilities catalog\r\n | GitVenom campaign targets gamers and crypto investors by posing… [+142603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CounterPunch"
-      },
-      "author": "Jonathan Sharp",
-      "title": "How the Camp Lejeune Justice Act Can Help Veterans Impacted by Toxic Exposure",
-      "description": "Camp Lejeune, a military base in Jacksonville, North Carolina, was established in 1942 to train future marines for World War II. While it is known as the home of the “Expeditionary Forces in Readiness,” the facility also has a long history of contamination wi…",
-      "url": "https://www.counterpunch.org/2025/02/26/how-the-camp-lejeune-justice-act-can-help-veterans-impacted-by-toxic-exposure/",
-      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/02/Masters_of_the_Iron_Horse_train_at_SR-10_131002-M-BW898-005.jpg",
-      "publishedAt": "2025-02-26T06:54:04Z",
-      "content": "Photograph Source: Lance Cpl. Joey Mendez – https://www.dvidshub.net/image/1033522 – Public Domain\r\nCamp Lejeune, a military base in Jacksonville, North Carolina, was established in 1942 to train fut… [+8528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "GitVenom campaign targets gamers and crypto investors by posing as fake GitHub projects",
-      "description": "GitVenom malware campaign targets gamers and crypto investors by posing as open-source projects on GitHub. Kaspersky researchers warn of a malware campaign, dubbed GitVenom, targeting GitHub users. The threat actors behind this campaign created hundreds of fa…",
-      "url": "https://securityaffairs.com/174651/malware/gitvenom-campaign-targets-gamers-and-crypto-investors.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-43.png",
-      "publishedAt": "2025-02-26T06:27:27Z",
-      "content": "GitVenom campaign targets gamers and crypto investors by posing as fake GitHub projects\r\n | LockBit taunts FBI Director Kash Patel with alleged Classified leak threat\r\n | EU sanctioned the leader of … [+142467 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Jesse Ruse, Clinical Psychologist, PhD Candidate, University of Sydney",
-      "title": "Why do we fall for wellness scams? Our cultural biases and myths are often to blame",
-      "description": "Belle Gibson built a ‘wellness’ empire on a lie about cancer. Scammers often use psychology and widely-held beliefs to exploit vulnerable people.",
-      "url": "https://theconversation.com/why-do-we-fall-for-wellness-scams-our-cultural-biases-and-myths-are-often-to-blame-250790",
-      "urlToImage": "https://images.theconversation.com/files/651559/original/file-20250226-32-l6vyzu.jpg?ixlib=rb-4.1.0&rect=0%2C125%2C5866%2C2933&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-26T01:24:59Z",
-      "content": "Netflix\r\nNetflix’s Apple Cider Vinegar has renewed interest in Belle Gibson’s infamous wellness scam, reminding us how vulnerable we can be to deception. While Gibson’s scheme eventually collapsed, h… [+5489 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Kate Nalepinski",
-      "title": "Map Shows States With Listeria Cases as FDA Recalls Nutritional Shake",
-      "description": "A listeria outbreak linked to frozen nutritional shakes has led to a nationwide recall of the product.",
-      "url": "https://www.newsweek.com/listeria-outbreak-map-product-recall-fda-nutritional-shake-2036203",
-      "urlToImage": "https://d.newsweek.com/en/full/2595483/recalled-nutritional-shakes.jpg",
-      "publishedAt": "2025-02-25T23:22:05Z",
-      "content": "A nationwide recall of frozen nutritional shakes has been issued after a listeria outbreak tied to the drinks resulted in multiple hospitalizations and deaths across the United States, according to t… [+4448 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Discover Magazine"
-      },
-      "author": "Sam Walters",
-      "title": "Brewing Tea Lifts Lead and Other Heavy Metals from Water",
-      "description": "Learn more about the adsorption benefits of brewing tea, which removes lead from the water we drink.",
-      "url": "https://www.discovermagazine.com/health/brewing-tea-lifts-lead-and-other-heavy-metals-from-water",
-      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/1KbyQrU27ayH9J2wvAcd5b/80179a657cccd04dfd90093cc87e3415/Black_Tea_Leaves_Lead_Adsorption.png",
-      "publishedAt": "2025-02-25T23:00:00Z",
-      "content": "Want a flavorful beverage with a lot less lead? Try tea. According to a team of researchers from Northwestern University, tea leaves and bags adsorb lead, trapping lead ions on their surfaces and fil… [+4897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "LockBit taunts FBI Director Kash Patel with alleged “Classified” leak threat",
-      "description": "LockBit claims to have “classified information” for FBI Director Kash Patel that could “destroy” the agency if leaked. The ransomware gang LockBit sent a strange message to newly appointed FBI Director Kash Patel, they offer alleged “classified information” t…",
-      "url": "https://securityaffairs.com/174639/cyber-crime/lockbit-taunts-fbi-director-kash-patel.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-42.png",
-      "publishedAt": "2025-02-25T22:26:30Z",
-      "content": "LockBit taunts FBI Director Kash Patel with alleged Classified leak threat\r\n | EU sanctioned the leader of North Korea-linked APT groups\r\n | U.S. CISA adds Adobe ColdFusion and Oracle Agile PLM flaws… [+142375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Natalie Dreier",
-      "title": "Recall alert: Frozen supplemental shakes recalled after listeria sickens people 21 states, 12 killed",
-      "description": "A deadly listeria outbreak has resulted in a recall of frozen supplemental shakes used at long-term care facilities.",
-      "url": "https://www.wsbtv.com/news/trending/recall-alert-frozen-supplemental-shakes-recalled-after-listeria-sickens-people-21-states-12-killed/33PQ5PGEMJE5PAPJMDRNC6ODMA/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJBRPIJK4ABH5LEHZDXOU572CCQ.jpg?auth=065a661d0d1fbe5258787713aaadd50991cca49f960a0aeb615edc9b49a824b9&width=1200&height=630&smart=true",
-      "publishedAt": "2025-02-25T21:49:37Z",
-      "content": "A deadly listeria outbreak has resulted in a recall of frozen supplemental shakes used at long-term care facilities.\r\nThe shakes were made by Prairie Farms Dairy Inc. based in Fort Wayne, Indiana, an… [+1634 chars]"
+      "author": "Arialief",
+      "title": "Arialief Reviews & Complaints (ALERT): Is This Nerve Pain Breakthrough Too Good To Be Real?",
+      "description": "Arialief emerges as a science-backed nerve support formula helping users fight discomfort, inflammation, and fatigue—naturally and effectively.......",
+      "url": "https://www.globenewswire.com/news-release/2025/03/28/3051604/0/en/Arialief-Reviews-Complaints-ALERT-Is-This-Nerve-Pain-Breakthrough-Too-Good-To-Be-Real.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4d40cfe8-69b0-4ac3-9449-0e85a06ed0e6",
+      "publishedAt": "2025-03-28T19:33:00Z",
+      "content": "SEATTLE, March 28, 2025 (GLOBE NEWSWIRE) -- Nerve pain is brutal. Whether its the persistent tingling, relentless burning, or sharp, electric jabs that come without warningit can turn everyday life i… [+34206 chars]"
     },
     {
       "source": {
@@ -657,129 +59,168 @@
         "name": "CBC News"
       },
       "author": null,
-      "title": "'Do the right thing': Grassy Narrows First Nation demands action on mercury pollution ahead of Ontario vote",
-      "description": "Just two days before the provincial election, dozens gathered Tuesday for a vigil outside Queen's Park in Toronto to honour people impacted by mercury contamination in Grassy Narrows First Nation in northwestern Ontario. Here's what participants are demanding…",
-      "url": "https://www.cbc.ca/news/canada/thunder-bay/grassy-narrows-vigil-queen-s-park-1.7468144",
-      "urlToImage": "https://i.cbc.ca/1.7468160.1740512441!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/judy-dasilva.jpeg?im=Resize%3D620",
-      "publishedAt": "2025-02-25T20:53:49Z",
-      "content": "Judy DaSilva says she can feel herself deteriorating.\r\nThe elder, grandmother and environmental health co-ordinator for Asubpeeschoseewagong Netum Anishinabek, known as Grassy Narrows First Nation, s… [+4320 chars]"
+      "title": "Desperate for eggs, the U.S. looks to Europe. Why haven't they asked Canada to shell out?",
+      "description": "Germany, Italy, Poland and Sweden are among the nations the U.S. Department of Agriculture approached to address the shortage, according to European industry groups.",
+      "url": "https://www.cbc.ca/news/world/eggs-us-canada-europe-1.7495959",
+      "urlToImage": "https://i.cbc.ca/1.7495983.1743171707!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/europe-us-egg-hunt.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-28T19:26:08Z",
+      "content": "Does the U.S. administration have egg on their faces? \r\nWell, probably not literally, since they likely can't afford to waste a mouthful these days.\r\nBut amid an outbreak of bird flu in laying hens t… [+5374 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "FDA.gov"
+        "name": "Securityaffairs.com"
       },
-      "author": "FDA",
-      "title": "Ascent Consumer Products Inc. Issues Voluntary Nationwide Recall of SinuCleanse Soft Tip Squeeze Bottle Nasal Wash System Due to Microbial Contamination",
-      "description": "02/25/2025 Melville, NY. Ascent Consumer Products Inc. is voluntarily recalling one lot of SinuCleanse Soft Tip Squeeze Bottle Nasal Wash System to the consumer level. The recall is being initiated due to a confirmed test result of microbial contamination of …",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ascent-consumer-products-inc-issues-voluntary-nationwide-recall-sinucleanse-soft-tip-squeeze-bottle",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-02-25T18:53:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nFebruary 25, 2025\r\nFDA Publish Date:\r\nFebruary 25, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nMicrobial contamination of th… [+3052 chars]"
+      "author": "Pierluigi Paganini",
+      "title": "Russian authorities arrest three suspects behind Mamont Android banking trojan",
+      "description": "Russian authorities arrested three suspects for developing Mamont, a newly identified Android banking trojan. Russian authorities arrested three suspects in Saratov for developing Mamont (Russian for mammoth), a recently discovered Android banking trojan. “Th…",
+      "url": "https://securityaffairs.com/175935/cyber-crime/russian-authorities-arrest-three-suspects-behind-mamont-android-banking-trojan.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-54.png",
+      "publishedAt": "2025-03-28T18:47:37Z",
+      "content": "Russian authorities arrest three suspects behind Mamont Android banking trojan\r\n | Mozilla fixed critical Firefox vulnerability CVE-2025-2857\r\n | U.S. CISA adds Google Chromium Mojo flaw to its Known… [+151303 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Netlify.app"
+        "id": "financial-post",
+        "name": "Financial Post"
       },
-      "author": "klevertree",
-      "title": "Show HN: Preventing plasticizer absorption with an oat fiber-based supplement",
-      "description": "Article URL: https://stellar-melomakarona-30fbb7.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=43175434\nPoints: 2\n# Comments: 1",
-      "url": "https://stellar-melomakarona-30fbb7.netlify.app/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-25T18:21:51Z",
-      "content": "Recent research, like Nat Friedman's PlasticList, and academic studies, like Garside et al., 2022, have highlighted \r\n widespread contamination of foods, both processed and organic, with plasticizers… [+2210 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Bruce Gil",
-      "title": "A recall of supplemental shakes over listeria fears is linked to 12 deaths",
-      "description": "A twelfth person has died in connection to a multi-state listeria outbreak linked to frozen supplemental shakes served primarily in long-term care facilities.Read more...",
-      "url": "https://qz.com/listeria-frozen-shake-recall-deaths-1851766369",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c3552d6274c377fae2929d9bb8e2e6d4.jpg",
-      "publishedAt": "2025-02-25T17:28:00Z",
-      "content": "In This Story\r\nA twelfth person has died in connection to a multi-state listeria outbreak linked to frozen supplemental shakes served primarily in long-term care facilities.\r\nThe U.S. Food and Drug A… [+2949 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Mimicking shark skin to create clean cutting boards",
-      "description": "Keeping work surfaces clean during meat processing is a challenge, and now researchers deliver key insights into a solution that could change the current practice altogether: Instead of working to prevent bacteria buildup, they created surfaces that stop bact…",
-      "url": "https://www.sciencedaily.com/releases/2025/02/250225121518.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-02-25T17:15:18Z",
-      "content": "Keeping work surfaces clean during meat processing is a challenge. Bacteria from meat can attach, grow, and build up to create a biofilm that is difficult to remove, even on stainless steel surfaces … [+2395 chars]"
+      "author": "GlobeNewswire",
+      "title": "PurDentix Reviews & Complaints (URGENT REPORT): Is This Probiotic Tooth Saver Too Good To Be True?",
+      "description": "SEATTLE, March 28, 2025 (GLOBE NEWSWIRE) — If you’ve been following the exploding buzz in the health world, you’ve likely heard of PurDentix—a so-called “8-second probiotic tooth saver” being hailed as a groundbreaking alternative to mouthwash, flossing, and …",
+      "url": "https://financialpost.com/globe-newswire/purdentix-reviews-complaints-urgent-report-is-this-probiotic-tooth-saver-too-good-to-be-true",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/purdentix.png",
+      "publishedAt": "2025-03-28T18:37:56Z",
+      "content": "SEATTLE, March 28, 2025 (GLOBE NEWSWIRE) If youve been following the exploding buzz in the health world, youve likely heard of PurDentixa so-called 8-second probiotic tooth saver being hailed as a gr… [+37726 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Global Bromine Market to Reach USD 5,266.5 Million by 2035, Driven by Demand in Flame Retardants, Water Treatment, Pharmaceuticals, and Energy Storage | Future Market Insights, Inc.",
-      "description": "The United States bromine market is experiencing significant growth, driven by rising demand in key applications such as flame retardants, oil & gas, and water treatment chemicals. Bromine-based products are widely utilized in the electronics and automotive i…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/25/3032259/0/en/Global-Bromine-Market-to-Reach-USD-5-266-5-Million-by-2035-Driven-by-Demand-in-Flame-Retardants-Water-Treatment-Pharmaceuticals-and-Energy-Storage-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-02-25T16:30:00Z",
-      "content": "NEWARK, Del, Feb. 25, 2025 (GLOBE NEWSWIRE) -- The global bromine market is projected to grow from an estimated USD 2,858.8 million in 2025 to USD 5,266.5 million by 2035, reflecting a steady CAGR of… [+11265 chars]"
+      "author": "PurDentix",
+      "title": "PurDentix Reviews & Complaints (URGENT REPORT): Is This Probiotic Tooth Saver Too Good To Be True?",
+      "description": "PurDentix is a probiotic-based oral supplement designed to support gum health, fight bad breath, and strengthen teeth naturally from within.......",
+      "url": "https://www.globenewswire.com/news-release/2025/03/28/3051589/0/en/PurDentix-Reviews-Complaints-URGENT-REPORT-Is-This-Probiotic-Tooth-Saver-Too-Good-To-Be-True.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d7ab3af3-4bc6-4f3b-8ca7-32f173ba4f4c",
+      "publishedAt": "2025-03-28T18:33:00Z",
+      "content": "SEATTLE, March 28, 2025 (GLOBE NEWSWIRE) -- If youve been following the exploding buzz in the health world, youve likely heard of PurDentixa so-called 8-second probiotic tooth saver being hailed as a… [+35433 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "March 28",
+      "title": "U.S. turns to Europe for eggs to ease prices at home, but so far comes up empty-handed",
+      "description": "U.S. egg prices are just starting to fall, but big demand for Easter and Passover could cause prices to edge up again next month.",
+      "url": "https://www.cbsnews.com/news/egg-prices-us-europe-exports/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/03/10/8b67d433-c1ec-4709-a5ad-5ffe86a0ab15/thumbnail/1200x630/5de92f083aafd8ea42c48e0bcf7711a7/gettyimages-2154882660.jpg?v=95354023eeb6141c58c08d9a5716f291",
+      "publishedAt": "2025-03-28T16:52:27Z",
+      "content": "The U.S. government is on an international egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit record highs.… [+7542 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WFTV Orlando"
+        "name": "PBS"
       },
-      "author": "Natalie Dreier",
-      "title": "Recall alert: Frozen supplemental shakes recalled after listeria sickens people 21 states, 12 killed",
-      "description": "A deadly listeria outbreak has resulted in a recall of frozen supplemental shakes used at long-term care facilities.",
-      "url": "https://www.wftv.com/news/trending/recall-alert-frozen-supplemental-shakes-recalled-after-listeria-sickens-people-21-states-12-killed/33PQ5PGEMJE5PAPJMDRNC6ODMA/",
-      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJBRPIJK4ABH5LEHZDXOU572CCQ.jpg?auth=065a661d0d1fbe5258787713aaadd50991cca49f960a0aeb615edc9b49a824b9&width=1200&height=630&smart=true",
-      "publishedAt": "2025-02-25T16:25:42Z",
-      "content": "A deadly listeria outbreak has resulted in a recall of frozen supplemental shakes used at long-term care facilities.\r\nThe shakes were made by Prairie Farms Dairy Inc. based in Fort Wayne, Indiana, an… [+1634 chars]"
+      "author": "Vanesa Gera, Associated Press, Kerstin Sopke, Associated Press",
+      "title": "The U.S. is on an egg hunt in Europe to ease prices at home",
+      "description": "he U.S. government is on a global egg hunt. It's seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit record highs.",
+      "url": "https://www.pbs.org/newshour/nation/the-u-s-is-on-an-egg-hunt-in-europe-to-ease-prices-at-home",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/03/2025-03-27T154858Z_45772548_RC2W3DA1TZWV_RTRMADP_3_HILLANDALE-FARMS-M-A-GLOBAL-EGGS-1024x683.jpg",
+      "publishedAt": "2025-03-28T16:13:03Z",
+      "content": "SCHOENEICHE, Germany (AP) The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to… [+7930 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Forbes"
       },
-      "author": "Joseph Winters, Grist",
-      "title": "Starbucks Quietly Phases Out Plastic Cups at 580 Stores. Here’s Why.",
-      "description": "Green groups say it’s a “clear admission” that plastic cups aren’t recyclable.",
-      "url": "https://gizmodo.com/starbucks-quietly-phases-out-plastic-cups-at-580-stores-heres-why-2000568109",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Starbucks-Plastic-Cups.jpg",
-      "publishedAt": "2025-02-25T16:25:06Z",
-      "content": "Starbucks customers across hundreds of locations in the United States started their weeks off with a surprise: Their beloved Frappuccinos and iced espresso drinks served in paper cups, not plastic.\r\n… [+8303 chars]"
+      "author": "Chloe Sorvino, Forbes Staff, \n Chloe Sorvino, Forbes Staff\n https://www.forbes.com/sites/chloesorvino/",
+      "title": "Fresh Take: As The Weather Thaws, Build A Springtime Kitchen Agenda",
+      "description": "In this week’s Fresh Take we reflect on what spring in the kitchen, plus stories on an Irish drone delivery startup, beef stick recall, Trump wine tariffs and more.",
+      "url": "https://www.forbes.com/sites/chloesorvino/2025/03/28/fresh-take-as-the-weather-thaws-build-a-springtime-kitchen-agenda/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e6ad64c5760cbe158f75cf/0x0.jpg?format=jpg&crop=1883,1060,x0,y127,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-28T14:19:41Z",
+      "content": "Spring offers a time to start thinking about what to grow in your garden and fresh foods to cook in your kitchen.\r\ngetty\r\nHows your thaw-out going? Im feeling so energized to have survived winter and… [+2514 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Mental Floss"
       },
-      "author": "American Institute of Physics",
-      "title": "Laser-textured metal surfaces mimic shark skin to combat bacterial biofilms",
-      "description": "Keeping work surfaces clean during meat processing is a challenge. Bacteria from meat can attach, grow, and build up to create a biofilm that is difficult to remove, even on stainless steel surfaces used in industrial facilities. It can also aggregate, clumpi…",
-      "url": "https://phys.org/news/2025-02-laser-textured-metal-surfaces-mimic.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mimicking-shark-skin-t.jpg",
-      "publishedAt": "2025-02-25T16:00:03Z",
-      "content": "Keeping work surfaces clean during meat processing is a challenge. Bacteria from meat can attach, grow, and build up to create a biofilm that is difficult to remove, even on stainless steel surfaces … [+2986 chars]"
+      "author": "Chris Wheatley",
+      "title": "Why Can’t You Buy Dasani Bottled Water in the UK?",
+      "description": "Dasani bottled water was poised to take the UK market by storm, but shortly after it was released in 2004, Coca-Cola yanked it off shelves. Discover the real reasons why here.",
+      "url": "https://www.mentalfloss.com/dasani-bottled-water-controversy-uk",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1999,h_1124/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01jpnhxqnh4czc5pbwrq.jpg",
+      "publishedAt": "2025-03-28T14:02:00Z",
+      "content": "When Coca-Cola launched its Dasani bottled water brand in the U.S. in 1999, the product proved amazingly successful. By 2004, it had captured 24 percent of the U.S. market. The stage looked set for s… [+4164 chars]"
     },
     {
       "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
+        "id": null,
+        "name": "Plos.org"
       },
-      "author": "Joe Edwards",
-      "title": "H-E-B Food Recalls Issued in Texas: Full List of Products Impacted",
-      "description": "The Texan grocer recalled two food products from its stores in February, including cans of tuna and spinach artichoke dips.",
-      "url": "https://www.newsweek.com/heb-food-recalls-texas-full-list-tuna-cans-tri-union-seafoods-spinach-artichoke-dip-2035821",
-      "urlToImage": "https://d.newsweek.com/en/full/2595013/h-e-b-sign.jpg",
-      "publishedAt": "2025-02-25T14:48:22Z",
-      "content": "Two products were recalled by the Texan grocery store H-E-B in February.\r\nThe products affected included cans of tuna and spinach artichoke dips, according to its website.\r\nNewsweek has contacted H-E… [+2475 chars]"
+      "author": "Md. Golam Sadeque, Suchana Aktar Tithi, Md. Safiul Islam, A. H. M. Iftekharul Ferdous, Diponkar Kundu, Md. Galib Hasan, Md. Zakirul Islam Sarker",
+      "title": "Hollow-core PCF for terahertz sensing: A new approach for ethanol and benzene detection",
+      "description": "Terahertz (THz) spectroscopy is becoming a powerful technique for non-destructive, label-free chemical sensing with applications ranging from medicinal research to security screening. Enhancing THz spectroscopy’s sensitivity and selectivity is crucial to maxi…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320805",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320805.g007&size=inline",
+      "publishedAt": "2025-03-28T14:00:00Z",
+      "content": "Abstract\r\nTerahertz (THz) spectroscopy is becoming a powerful technique for non-destructive, label-free chemical sensing with applications ranging from medicinal research to security screening. Enhan… [+55826 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailycoffeenews.com"
+      },
+      "author": "Daily Coffee News Staff",
+      "title": "Weekly Coffee News: Caffeine and Tinnitus + Recall in 15 States",
+      "description": "Roast Magazine’s Daily Coffee News is proud to maintain advertising partnerships with many of the world’s leading coffee companies, yet maintains a focus on fair and objective editorial content, with no sponsored content or native advertising.",
+      "url": "https://dailycoffeenews.com/2025/03/28/weekly-coffee-news-caffeine-and-tinnitus-recall-in-15-states/",
+      "urlToImage": "https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-espresso-1.jpg",
+      "publishedAt": "2025-03-28T12:55:26Z",
+      "content": "Welcome to DCNs Weekly Coffee News! Subscribe here for all the latest coffee industry news. Also, check out the latest career opportunities at CoffeeIndustryJobs.com.\r\nResearchers Say the Association… [+6289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Roanoke Times"
+      },
+      "author": "VANESSA GERA and KERSTIN SOPKE Associated Press",
+      "title": "The US is on an egg hunt in Europe to ease prices at home",
+      "description": "Supplying Americans with eggs would be complicated for foreign producers — and not because of political tensions over the myriad import tariffs Trump has imposed or threatened to impose.",
+      "url": "https://roanoke.com/news/nation-world/business/article_a8f50949-0e8d-5676-8574-edbcac475189.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/a/8f/a8f50949-0e8d-5676-8574-edbcac475189/67e68bf294098.preview.jpg?crop=1692%2C888%2C20%2C80&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-03-28T12:30:00Z",
+      "content": "SCHOENEICHE, Germany The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit … [+7790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "The Associated Press",
+      "title": "The US is on an egg hunt in Europe to ease prices at home",
+      "description": "Denmark, Germany, Italy and Poland are among the nations the U.S. Department of Agriculture approached for eggs.",
+      "url": "https://www.denverpost.com/2025/03/28/us-egg-hunt-europe/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/03/Europe_US_Egg_Hunt_22523.jpg?w=1024&h=682",
+      "publishedAt": "2025-03-28T11:35:07Z",
+      "content": "By VANESSA GERA and KERSTIN SOPKE, Associated Press\r\nSCHOENEICHE, Germany (AP) — The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe s… [+7721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "The US is on an egg hunt in Europe to ease prices at home",
+      "description": "Denmark, Germany, Italy and Poland are among the nations the U.S. Department of Agriculture approached for eggs.",
+      "url": "https://www.bostonherald.com/2025/03/28/us-egg-hunt-europe/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/03/Europe_US_Egg_Hunt_22523.jpg?w=1024&h=682",
+      "publishedAt": "2025-03-28T11:35:07Z",
+      "content": "By VANESSA GERA and KERSTIN SOPKE, Associated Press\r\nSCHOENEICHE, Germany (AP) — The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe s… [+7721 chars]"
     },
     {
       "source": {
@@ -787,77 +228,207 @@
         "name": "Securityaffairs.com"
       },
       "author": "Pierluigi Paganini",
-      "title": "EU sanctioned the leader of North Korea-linked APT groups",
-      "description": "The European Union sanctioned the leader of North Korea-linked APT groups for aiding Russia in its war against Ukraine. The European Union announced sanctions against entities aiding Russia in the ongoing conflict with Ukraine, including Lee Chang Ho, who is …",
-      "url": "https://securityaffairs.com/174622/security/eu-sanctioned-the-leader-of-north-korea-linked-apt-groups.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
-      "publishedAt": "2025-02-25T14:42:46Z",
-      "content": "EU sanctioned the leader of North Korea-linked APT groups\r\n | U.S. CISA adds Adobe ColdFusion and Oracle Agile PLM flaws to its Known Exploited Vulnerabilities catalog\r\n | Russia warns financial sect… [+142296 chars]"
+      "title": "Mozilla fixed critical Firefox vulnerability CVE-2025-2857",
+      "description": "Mozilla addressed a critical vulnerability, tracked as CVE-2025-2857, impacting its Firefox browser for Windows. Mozilla has released security updates to address a critical flaw, tracked as CVE-2025-2857, impacting its Firefox browser for Windows. Recently, G…",
+      "url": "https://securityaffairs.com/175945/security/mozilla-fixed-critical-firefox-vulnerability-cve-2025-2857.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/08/mozilla-firefox.png",
+      "publishedAt": "2025-03-28T09:51:49Z",
+      "content": "Mozilla fixed critical Firefox vulnerability CVE-2025-2857\r\n | U.S. CISA adds Google Chromium Mojo flaw to its Known Exploited Vulnerabilities catalog\r\n | Crooks target DeepSeek users with fake spons… [+151220 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "VANESSA GERA and KERSTIN SOPKE / AP",
+      "title": "Soaring Prices Send U.S. on a Global Egg Hunt",
+      "description": "Germany, Italy, Poland and Sweden are among the nations the government approached to address the shortage brought on by a bird flu outbreak.",
+      "url": "https://time.com/7272445/us-egg-shortage-high-prices-bird-flu-europe-imports-easter/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/03/eggs.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2025-03-28T09:30:00Z",
+      "content": "SCHOENEICHE, Germany The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit … [+7273 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
+        "name": "GlobeNewswire"
       },
-      "author": "Hiddecel Medrano, Sarah Hill, Martine Boulianne, Teresa Cereno, Anne E. Deckert, Audrey Charlebois, Sheryl P. Gow, Kathryn McDonald, Richard J. Reid-Smith, Agnes Agunos",
-      "title": "Widespread dissemination of Salmonella, Escherichia coli and Campylobacter resistant to medically important antimicrobials in the poultry production continuum in Canada",
-      "description": "The Canadian Integrated Program for Antimicrobial Resistance Surveillance (CIPARS) monitors Escherichia coli, Salmonella and Campylobacter and their resistance to antimicrobials in broiler chickens at the farm and slaughter plant levels. In response to many y…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319086",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319086.g007&size=inline",
-      "publishedAt": "2025-02-25T14:00:00Z",
-      "content": "Citation: Medrano H, Hill S, Boulianne M, Cereno T, Deckert AE, Charlebois A, et al. (2025) Widespread dissemination of Salmonella, Escherichia coli and Campylobacter resistant to medically important… [+62767 chars]"
+      "author": "Research and Markets",
+      "title": "Malaysia Fertilizer Market Outlook Report 2025-2033 Featuring Analysis of Key Players - Yara International, K+S, CF Industries, GrupaAzoty, ICL Group & More",
+      "description": "Dublin, March 28, 2025 (GLOBE NEWSWIRE) -- The \"Malaysia Fertilizer Market Size and Share Analysis - Growth Trends and Forecast Report 2025-2033\" report has been added to ResearchAndMarkets.com's offering.The Malaysian fertilizers market will be worth US$ 1.3…",
+      "url": "https://www.globenewswire.com/news-release/2025/03/28/3051212/28124/en/Malaysia-Fertilizer-Market-Outlook-Report-2025-2033-Featuring-Analysis-of-Key-Players-Yara-International-K-S-CF-Industries-GrupaAzoty-ICL-Group-More.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-03-28T09:19:00Z",
+      "content": "Dublin, March 28, 2025 (GLOBE NEWSWIRE) -- The \"Malaysia Fertilizer Market Size and Share Analysis - Growth Trends and Forecast Report 2025-2033\" report has been added to ResearchAndMarkets.com's off… [+13049 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
+        "name": "Iasbaba.com"
       },
-      "author": "Faith M. Rahic-Seggerman, Cayla Iske, Jennifer Graham, Nicole Furst, Stephan Schmitz-Esser, Micah R. Kohles",
-      "title": "Effect of rabbit gastrointestinal stasis (RGIS) on the fecal microbiota of pet rabbits (Oryctolagus cuniculus)",
-      "description": "Rabbit (Oryctolagus cuniculus) gastrointestinal stasis syndrome (RGIS) is defined as reduced motility of any part of the digestive tract that can lead to impaction and death if left untreated. This study aimed to describe the effect of RGIS on the fecal micro…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318810",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318810.g004&size=inline",
-      "publishedAt": "2025-02-25T14:00:00Z",
-      "content": "Abstract\r\nRabbit (Oryctolagus cuniculus) gastrointestinal stasis syndrome (RGIS) is defined as reduced motility of any part of the digestive tract that can lead to impaction and death if left untreat… [+39422 chars]"
+      "author": "IASbaba",
+      "title": "[DAY 16] 60 DAY RAPID REVISION (RaRe) SERIES for UPSC Prelims 2025 – HISTORY, CURRENT AFFAIRS & CSAT TEST SERIES!",
+      "description": "Archives Hello Friends The 60 Days Rapid Revision (RaRe) Series is IASbaba’s Flagship Initiative recommended by Toppers and loved by the aspirants’ community every year. It is the most comprehensive program which will help you complete the syllabus, revise an…",
+      "url": "https://iasbaba.com/2025/03/day-16-60-day-rapid-revision-rare-series-for-upsc-prelims-2025-history-current-affairs-csat-test-series/",
+      "urlToImage": "https://iasbaba.com/wp-content/uploads/2025/03/60-Days-Rapid-Revision-Series-UPSC-Prelims-2025.jpg",
+      "publishedAt": "2025-03-28T09:17:09Z",
+      "content": "Hello Friends\r\nThe 60 Days Rapid Revision (RaRe) Series is IASbabas Flagship Initiative recommended by Toppers and loved by the aspirants community every year.\r\nIt is the most comprehensive program w… [+91965 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "US on egg hunt in Europe to ease prices at home",
+      "description": "The US is seeking egg imports from Europe due to a severe egg shortage caused by bird flu. The US approached countries like Germany, Italy, and Poland, but different safety standards and their own shortages make it difficult. European producers may export pow…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-on-egg-hunt-in-europe-to-ease-prices-at-home/articleshow/119644761.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-119644812,width-1200,height-630,imgsize-251712,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-03-28T08:51:30Z",
+      "content": "The US government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit record highs. Germany, … [+7202 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "VANESSA GERA Associated Press, KERSTIN SOPKE Associated Press",
+      "title": "The US is on an egg hunt in Europe to ease prices at home",
+      "description": "The U.S. government is on a global egg hunt",
+      "url": "https://abcnews.go.com/US/wireStory/us-egg-hunt-europe-ease-prices-home-120247797",
+      "urlToImage": "https://i.abcnewsfe.com/a/a4f53006-9dbc-40ea-91e8-4044b4d36f46/wirestory_1b61adf77056da7a0bbae2c50de8b6bf_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-28T06:37:36Z",
+      "content": "SCHOENEICHE, Germany -- The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to h… [+7120 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "The Associated Press",
+      "title": "The US is on an egg hunt in Europe to ease prices at home",
+      "description": "SCHOENEICHE, Germany (AP) — The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit record highs. Germany, Italy, Poland and Sweden are a…",
+      "url": "https://financialpost.com/pmn/the-us-is-on-an-egg-hunt-in-europe-to-ease-prices-at-home",
+      "urlToImage": null,
+      "publishedAt": "2025-03-28T06:15:33Z",
+      "content": "Author of the article:\r\nArticle content\r\nSCHOENEICHE, Germany (AP) The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that h… [+10421 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Emmah Owidi, Gilbert Asoka, Eric Waga, Alfred Ochieng’, Fanuel Kawaka",
-      "title": "Consumer attitudes and perceptions on consumption of edible insects among communities in western Kenya",
-      "description": "Edible insects are a highly sustainable and nutritional food source despite their low consumption in many communities. This study evaluated consumer attitudes and perceptions on consumption of edible insects in western Kenya. Eight focus group discussions (FG…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318711",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318711.g001&size=inline",
-      "publishedAt": "2025-02-25T14:00:00Z",
-      "content": "Citation: Owidi E, Asoka G, Waga E, Ochieng A, Kawaka F (2025) Consumer attitudes and perceptions on consumption of edible insects among communities in western Kenya. PLoS ONE 20(2):\r\n e0318711.\r\nhtt… [+32346 chars]"
+      "author": "VANESSA GERA and KERSTIN SOPKE",
+      "title": "The US is on an egg hunt in Europe to ease prices at home",
+      "description": "The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at...",
+      "url": "https://www.yahoo.com/news/us-egg-hunt-europe-ease-060936830.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4eBfCy7IjDidCaTb6NVHcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/f8e08535f31540a7f85d1b3bb7a1eebd",
+      "publishedAt": "2025-03-28T06:09:36Z",
+      "content": "SCHOENEICHE, Germany (AP) The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to… [+7258 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Amy Sheehan",
+      "title": "Can you take fresh produce back to the supermarket if it's poor quality?",
+      "description": "We're paying more for our food than ever, and experts say that's reason enough to be fussy about the quality.",
+      "url": "https://www.abc.net.au/news/2025-03-28/returning-bad-quality-fruit-and-veg/105099042",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/00c478d8bd2e65646d12339e0903926c?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=41&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-28T03:58:30Z",
+      "content": "Most of us have probably felt the pang of disappointment after biting or cutting into fresh produce, only to find it's brown and mushy inside.  \r\nOr maybe you've opened a bag of pre-packaged fruit an… [+4395 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Trump claims egg prices down by 50%; says 'the problem with eggs was Joe Biden' amid historic highs",
+      "description": "US President Donald Trump claimed that egg prices in America were down by 50 per cent during his keynote address at the White House Iftaar Party. He also mocked the media for reporting that egg prices had increased and blamed former President Joe Biden for th…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-claims-egg-prices-down-by-50-says-the-problem-with-eggs-was-joe-biden-amid-historic-highs/articleshow/119627971.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-119628959,width-1200,height-630,imgsize-1101192,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-03-28T03:17:24Z",
+      "content": "US President Donald Trump on Thursday said that egg prices were down by as much as 50 per cent across America, a statement that contradicts reality. Trump made the claim while delivering his keynote … [+4735 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Takeout"
+        "name": "Newsbreak.com"
       },
-      "author": "Chloe James",
-      "title": "Condiment Recalls That Affected Millions",
-      "description": "Food products are frequently recalled ... as are the condiments that we spread on them. These are major condiment recalls throughout recent history.",
-      "url": "https://www.thetakeout.com/1794542/condiment-recalls-affected-millions/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3SwxnNm0FhlyqTyvcIz79A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_takeout_667/6f5b7bfb45f60db2e3412834f0b74880",
-      "publishedAt": "2025-02-25T13:40:00Z",
-      "content": "Condiments are the definition of small but mighty, transforming dry or average meals into flavorful feasts with minimal effort. While plenty of us have passionate opinions on our favorite (and least … [+17167 chars]"
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
+      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
+      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?s=a1&share_destination_id=MjIyNjM5MTg4LTE3NDMxMjI1NTc2NTk%3D&pd=0F4AceNL&hl=en_US&send_time=1743122557&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.12.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q1-v1%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_25q2-v8",
+      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
+      "publishedAt": "2025-03-28T02:34:19Z",
+      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalresearch.ca"
+        "name": "Newsbreak.com"
       },
-      "author": "WCH Canada",
-      "title": "Join the Fight: Canada and 23 Nations Demand a Halt to COVID-19 mRNA ‘Vaccines’",
-      "description": "Canadians, alongside 23 other nations, are united in demanding that our federal governments halt the use of COVID-19 Genetic ‘Vaccines’ and launch a thorough investigation into their approval and deployment.\nA formal notice, signed by 800 scientists and polic…",
-      "url": "https://www.globalresearch.ca/canada-23-nations-demand-halt-covid-19-mrna-vaccines/5880835",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2023/12/canada-covid-vaccine.jpeg",
-      "publishedAt": "2025-02-25T13:25:09Z",
-      "content": "Canadians, alongside 23 other nations, are united in demanding that our federal governments halt the use of COVID-19 Genetic ‘Vaccines’ and launch a thorough investigation into their approval and dep… [+31331 chars]"
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
+      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
+      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?_f=app_share&pd=0JsJjLbd&lang=en_US&send_time=1743125242&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.12.1.3%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v5%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v3%2Cns_push_exp_rt_bucketv12-v5%2Cns_foryou_blend_exp_25q1-v9%2Cns_local_strategy_25q1_exp-v5&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
+      "publishedAt": "2025-03-28T01:29:41Z",
+      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thesuntrapp.com"
+      },
+      "author": "Btv_th3",
+      "title": "Katherine Adams’ Best Gluten-Free Meal Plans for Digestive Health - The Sun Trapp",
+      "description": "For individuals managing gluten sensitivity or celiac disease, Katherine Adams presents a novel strategy: glut",
+      "url": "https://thesuntrapp.com/katherine-adams-best-gluten-free-meal-plans-for-digestive-health/",
+      "urlToImage": "https://thesuntrapp.com/wp-content/uploads/2025/03/Untitled-75.jpg",
+      "publishedAt": "2025-03-28T01:11:39Z",
+      "content": "For individuals managing gluten sensitivity or celiac disease, Katherine Adams presents a novel strategy: gluten-free eating that is both as filling as it is nutritious. Unlike trendy diets substitut… [+1697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Teddy Cambosa",
+      "title": "Coca-Cola Pulls Popular Drinks From Shelves in UK and US—Full List of Affected Products",
+      "description": "The company has confirmed that standard-sized cans and all glass and plastic bottles available in the UK are not affected by this recall.",
+      "url": "https://www.ibtimes.com/coca-cola-pulls-popular-drinks-shelves-uk-usfull-list-affected-products-3767941",
+      "urlToImage": "https://d.ibtimes.com/en/full/4589872/view-shows-plant-coca-cola-company-azov.jpg",
+      "publishedAt": "2025-03-28T00:22:59Z",
+      "content": "Coca-Cola is facing renewed scrutiny in 2025 after issuing multiple recalls across the UK and US due to contamination concerns ranging from chlorate levels to plastic fragments. The global soft drink… [+3424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
+      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
+      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?s=a2&share_destination_id=MzE4NTE2MDkyLTE3NDMxMjAzMzI4MzQ%3D&pd=0LYSaKAs&hl=en_US&send_time=1743120332&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.12.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-control%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_rank_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v14%2Cns_foryou_blend_exp_25q1-v4",
+      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
+      "publishedAt": "2025-03-28T00:06:02Z",
+      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elifesciences.org"
+      },
+      "author": "lotfi.ferhat@univ-amu.fr (Angélique Bôle), lotfi.ferhat@univ-amu.fr (Anne Bernard), lotfi.ferhat@univ-amu.fr (Fanny Gassiot), lotfi.ferhat@univ-amu.fr (François Roman), lotfi.ferhat@univ-amu.fr (Géraldine Ferracci), lotfi.ferhat@univ-amu.fr (Grigorios Kyriatzis), lotfi.ferhat@univ-amu.fr (Guillaume Jacquot), lotfi.ferhat@univ-amu.fr (Jamal Temsamani), lotfi.ferhat@univ-amu.fr (Lotfi Ferhat), lotfi.ferhat@univ-amu.fr (Maria Smirnova), lotfi.ferhat@univ-amu.fr (Marion David), lotfi.ferhat@univ-amu.fr (Mathieu Laurencin), lotfi.ferhat@univ-amu.fr (Maxime Masse), lotfi.ferhat@univ-amu.fr (Michel Khrestchatisky), lotfi.ferhat@univ-amu.fr (Nicolas Gaudin), lotfi.ferhat@univ-amu.fr (Pascaline Lécorché), lotfi.ferhat@univ-amu.fr (Rabia Soussi), lotfi.ferhat@univ-amu.fr (Salvatore Cisternino), lotfi.ferhat@univ-amu.fr (Stéphane Girard), lotfi.ferhat@univ-amu.fr (Vincent Dive)",
+      "title": "A peptide-neurotensin conjugate that crosses the blood-brain barrier induces pharmacological hypothermia associated with anticonvulsant, neuroprotective, and anti-inflammatory properties following status epilepticus in mice",
+      "description": "Preclinical and clinical studies show that mild to moderate hypothermia is neuroprotective in sudden cardiac arrest, ischemic stroke, perinatal hypoxia/ischemia, traumatic brain injury, and seizures. Induction of hypothermia largely involves physical cooling …",
+      "url": "https://elifesciences.org/articles/100527",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "content": "Animals\r\nAll animals were housed 6 per cage in a temperature and humidity-controlled room (22 ± 2°C, 12 hr light-dark cycles), had free access to food and water. Procedures involving animals were car… [+38953 chars]"
     },
     {
       "source": {
@@ -865,116 +436,38 @@
         "name": "Securityaffairs.com"
       },
       "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Adobe ColdFusion and Oracle Agile PLM flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Adobe ColdFusion and Oracle Agile Product Lifecycle Management (PLM) vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (C…",
-      "url": "https://securityaffairs.com/174613/security/u-s-cisa-adds-adobe-coldfusion-and-oracle-agile-plm-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "title": "U.S. CISA adds Google Chromium Mojo flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Google Chromium Mojo flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Google Chromium Mojo sandbox escape vulnerabil…",
+      "url": "https://securityaffairs.com/175936/security/u-s-cisa-adds-google-chromium-mojo-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-02-25T10:41:51Z",
-      "content": "U.S. CISA adds Adobe ColdFusion and Oracle Agile PLM flaws to its Known Exploited Vulnerabilities catalog\r\n | Russia warns financial sector organizations of IT service provider LANIT compromise\r\n | A… [+142234 chars]"
-    },
-    {
-      "source": {
-        "id": "new-york-magazine",
-        "name": "New York Magazine"
-      },
-      "author": "Carolyn Kormann",
-      "title": "Everything You Ever Wanted to Know About Microplastics",
-      "description": "They’re in our blood, our livers, and our brains. They’re in newborns and the elderly, urban and rural, rich and poor. What are microplastics doing \nto our bodies?",
-      "url": "http://nymag.com/intelligencer/article/what-are-microplastics-harmful-to-humans-how-to-avoid.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/1df/77a/218c5fd708474c809cffacfa71990da034-MICROPLASTICS-LEDE.1x.rsocial.w1200.jpg",
-      "publishedAt": "2025-02-25T10:00:31Z",
-      "content": "In 2019, a toxicologist named Matthew Campen drove into the wilderness of the San Juan Mountains in northern New Mexico with his 12-year-old son. They were working on a school science project about p… [+31888 chars]"
+      "publishedAt": "2025-03-27T23:02:32Z",
+      "content": "U.S. CISA adds Google Chromium Mojo flaw to its Known Exploited Vulnerabilities catalog\r\n | Crooks target DeepSeek users with fake sponsored Google ads to deliver malware\r\n | U.S. CISA adds Sitecore … [+151157 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "STAT"
+        "name": "Forbes"
       },
-      "author": "Chris Gismondi",
-      "title": "What actually makes a food ‘ultra-processed’?",
-      "description": "Legislatures, governors, government agencies, and plaintiff attorneys are taking action against ultra-processed foods, but there is no clear definition of ultra-processed.",
-      "url": "https://www.statnews.com/2025/02/25/ultra-processed-food-upf-definition-laws-maha/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/02/GettyImages-1184682789-1024x576.jpg",
-      "publishedAt": "2025-02-25T09:48:26Z",
-      "content": "In recent years, an idea has taken hold across the ideological spectrum: The rise in diabetes and obesity in the United States is attributable to addictive, ultra-processed foods that dominate the Am… [+7879 chars]"
+      "author": "Emese Maczko, Contributor, \n Emese Maczko, Contributor\n https://www.forbes.com/sites/emesemaczko/",
+      "title": "Want To Dine Responsibly? Five Restaurant Dishes That Threaten Endangered Species",
+      "description": "From luxury seafood to exotic meats, some of the most coveted dishes served in restaurants come with a hidden price, driving already vulnerable species closer to extinction.",
+      "url": "https://www.forbes.com/sites/emesemaczko/2025/03/27/want-to-dine-responsibly-five-restaurant-dishes-that-threaten-endangered-species/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e51603f533434741d6b4dd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-27T21:00:22Z",
+      "content": "Chef adding the final flourish to a dish in a fine dining restaurant. \r\ngetty\r\nFrom luxury seafood to exotic meats, travel often opens the door to culinary adventures. However, there is a hidden cost… [+7353 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Lse.ac.uk"
+        "name": "New Zealand Herald"
       },
-      "author": null,
-      "title": "Mapping socioeconomic factors driving antimicrobial resistance in humans: an umbrella review",
-      "description": "Ljungqvist, Gunnar, van Kessel, Robin ORCID: 0000-0001-6309-6343 , Mossialos, Elias ORCID: 0000-0001-8664-9297 , Saint, Victoria, Schmidt, Jelena, Mafi, Alexander, Shutt, Alison, Chatterjee, Anuja, Charani, Esmita and Anderson, Michael ORCID: 0000-0002-8454-4…",
-      "url": "http://eprints.lse.ac.uk/127395/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-25T08:57:10Z",
-      "content": "Ljungqvist, Gunnar, van Kessel, RobinORCID: 0000-0001-6309-6343, Mossialos, EliasORCID: 0000-0001-8664-9297, Saint, Victoria, Schmidt, Jelena, Mafi, Alexander, Shutt, Alison, Chatterjee, Anuja, Chara… [+2363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Russia warns financial sector organizations of IT service provider LANIT compromise",
-      "description": "Russia’s NKTsKI warns financial sector organizations about a breach at major Russian IT service and software provider LANIT. Russia’s National Coordination Center for Computer Incidents (NKTsKI) warns the financial sector of security breach at IT service and …",
-      "url": "https://securityaffairs.com/174604/hacking/russia-warns-financial-sector-lanit-hack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/12/Consular-Department-of-the-Embassy-of-the-Russian-Federation.jpg",
-      "publishedAt": "2025-02-25T08:01:14Z",
-      "content": "Russia warns financial sector organizations of IT service provider LANIT compromise\r\n | A large botnet targets M365 accounts with password spraying attacks\r\n | Australia bans Kaspersky over national … [+142124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Taylor Tobin",
-      "title": "If You're Wondering How Microplastics Even Get In Your Food, Read This",
-      "description": "Experts reveal what to look out for, from our water sources to the plastic that our food is wrapped in.",
-      "url": "https://www.huffpost.com/entry/how-microplastics-get-into-food_l_67b75228e4b04144c7489e6d",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67b76da91400002400fc58e6.jpeg?ops=1200_630",
-      "publishedAt": "2025-02-25T08:00:03Z",
-      "content": "Many of the animals we eat, like tuna, have microplastics in their flesh.\r\nFood contaminants are always a hot topic, as we consumers have a natural desire to know exactly what were putting in our bod… [+8731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "OCD: 'If Liam had got the care he needed he would be here today'",
-      "description": "Liam Arthur took his own life after struggling with OCD - now his mum is campaigning to help others.",
-      "url": "https://www.bbc.com/news/articles/cwywlnn423qo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be30/live/db8ad420-f2ac-11ef-9220-d3ef6018353e.jpg",
-      "publishedAt": "2025-02-25T06:03:58Z",
-      "content": "Liam Arthur struggled with severe symptoms of OCD - his mother Michelle is calling for more support\r\nAlmost all the plants Michelle Arthur shows me in her garden when we first meet were chosen by her… [+8519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Allied Market Research INC",
-      "title": "Otolaryngology Endoscopy Market to Reach $3.2 billion, Globally, by 2035 at 5.7% CAGR: Allied Market Research",
-      "description": "The growth of the otolaryngology endoscopy market is driven by increase in prevalence of ENT disorders, rise in demand for minimally invasive procedures, and advancements in endoscopic technology, such as high-definition imaging and robotic-assisted endoscopy…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/25/3031652/0/en/Otolaryngology-Endoscopy-Market-to-Reach-3-2-billion-Globally-by-2035-at-5-7-CAGR-Allied-Market-Research.html",
-      "urlToImage": null,
-      "publishedAt": "2025-02-25T05:30:00Z",
-      "content": "Wilmington, Delaware, Feb. 25, 2025 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, \"Otolaryngology Endoscopy Market by Type (Laryngoscopes, Nasopharyngoscopes, Rhinoscopes, Ot… [+11958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "FAO reveals food safety work in Pakistan and Bangladesh",
-      "description": "The United Nations’ Food and Agriculture Organization (FAO) has highlighted food safety-related work in several countries. A food control system assessment has been started in Pakistan. The initiative aims to enhance governance and compliance with internation…",
-      "url": "https://www.foodsafetynews.com/2025/02/fao-reveals-food-safety-work-in-pakistan-and-bangladesh/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/082/150/923/7gAk4KJj8QmaVZg7QvwqxrD20/8c1827cad3ddca0ce69ac44bbdecb6ac9acd3ce9.png",
-      "publishedAt": "2025-02-25T05:01:00Z",
-      "content": "The United Nations’ Food and Agriculture Organization (FAO) has highlighted food safety-related work in several countries.\r\nA food control system assessment has been started in Pakistan. The initiati… [+4161 chars]"
+      "author": "Moana Ellis",
+      "title": "Plans to can Raetihi recycling station face pushback",
+      "description": "Overflowing bins and contamination prompted calls for community action.",
+      "url": "https://www.nzherald.co.nz/whanganui-chronicle/news/plans-to-can-raetihi-recycling-station-face-pushback/C4QIA6WCEJBU3LCZB3NS6RUZYY/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/OIGV27LIVVDRXGLIR6RMTZDOEY.jpg?auth=87bc66985a263408847ce5454f8d5a496752da252e7fd59979478f5a73ddeb90&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-03-27T20:17:16Z",
+      "content": "They do so well in their waste management. They love their community, Hadley-Chase said.\r\nWe need to rethink, re-support them and find the money to ensure that the way they go about caring for their … [+4774 chars]"
     },
     {
       "source": {
@@ -982,51 +475,64 @@
         "name": "NDTV News"
       },
       "author": "Press Trust of India",
-      "title": "Sudden Hair Loss Cases In Maharashtra Solved? Expert Report Blames...",
-      "description": "Incidents of sudden hair loss in Maharashtra&#039;s Buldhana district, which made national headlines, are linked to high selenium content found in wheat from Punjab and Haryana supplied by local ration shops, as per a medical expert&#039;s report.",
-      "url": "https://www.ndtv.com/india-news/buldhana-hair-loss-cases-sudden-hair-loss-cases-in-maharashtra-solved-expert-report-blames-7788396",
-      "urlToImage": "https://c.ndtvimg.com/2025-01/je8hhr8g_buldhana-hair-fall_625x300_08_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2025-02-25T04:52:24Z",
-      "content": "Mumbai: Incidents of sudden hair loss in Maharashtra's Buldhana district, which made national headlines, are linked to high selenium content found in wheat from Punjab and Haryana supplied by local r… [+3458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Independentsciencenews.org"
-      },
-      "author": "Jonathan Latham",
-      "title": "Global Civil Society: The Dire Consequences of Secretive Biotech Regulation",
-      "description": "The first Asilomar conference of 1975 has been both celebrated and condemned. Whichever way you lean it was certainly a pivotal moment in the history of biotechnology. Californian researchers working on GM microbes and GM ...\nThe post Global Civil Society: Th…",
-      "url": "https://www.independentsciencenews.org/commentaries/global-civil-society-the-dire-consequences-of-secretive-biotech-regulation/",
-      "urlToImage": "https://www.independentsciencenews.org/wp-content/uploads/2025/02/Asilomar-1975-from-MIT-scaled.jpeg",
-      "publishedAt": "2025-02-25T01:15:53Z",
-      "content": "The first Asilomar conference of 1975 has been both celebrated and condemned. Whichever way you lean it was certainly a pivotal moment in the history of biotechnology. Californian researchers working… [+17805 chars]"
+      "title": "4 Specially-Abled Children Die At UP Rehabilitation Centre",
+      "description": "Four specially-abled children died and at least 16 were taken ill, allegedly after they had dinner at a government rehabilitation centre in the Para area here, officials said on Thursday.",
+      "url": "https://www.ndtv.com/india-news/4-specially-abled-children-die-over-dozen-fall-sick-at-up-rehabilitation-centre-8027379",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-03-27T19:18:55Z",
+      "content": "Lucknow:  Four specially-abled children died and at least 16 were taken ill, allegedly after they had dinner at a government rehabilitation centre in the Para area here, officials said on Thursday.\r\n… [+3976 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "Allied Market Research INC",
-      "title": "Petri Dishes Market to Reach $663.2 Million, Globally, by 2035 at 4% CAGR: Allied Market Research",
-      "description": "The Petri dishes market growth is driven by rise in demand for microbiological research, clinical diagnostics, and pharmaceutical applications. Increase in prevalence of infectious diseases and expanding biotechnology & life sciences research further fuel mar…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/25/3031613/0/en/Petri-Dishes-Market-to-Reach-663-2-Million-Globally-by-2035-at-4-CAGR-Allied-Market-Research.html",
-      "urlToImage": null,
-      "publishedAt": "2025-02-25T00:30:00Z",
-      "content": "Wilmington, Delaware , Feb. 24, 2025 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, \"Petri Dishes Market by Material (Plastic and Glass), Type (Disposable and Reusable), and E… [+12188 chars]"
+      "author": "PRIMEBIOME®",
+      "title": "Prime Biome Gummies (EXPOSED): What Real Users Just Revealed About Prime Biome’s Gut & Skin Reset Formula",
+      "description": "Discover how Prime Biome Gummies are transforming gut health and skin clarity—backed by real user experiences and science-backed ingredients. Discover how Prime Biome Gummies are transforming gut health and skin clarity—backed by real user experiences and sci…",
+      "url": "https://www.globenewswire.com/news-release/2025/03/27/3050930/0/en/Prime-Biome-Gummies-EXPOSED-What-Real-Users-Just-Revealed-About-Prime-Biome-s-Gut-Skin-Reset-Formula.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/18fbcff0-0717-4cfe-ba2b-8592290eaa0d",
+      "publishedAt": "2025-03-27T18:24:00Z",
+      "content": "Vancouver, March 27, 2025 (GLOBE NEWSWIRE) --  Prime Biome\r\nAt a time when nearly every health product claims to support digestion, reduce inflammation, or rewind the clock on aging, one name is risi… [+30101 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Live Science"
+        "name": "Slickdeals.net"
       },
-      "author": "Nicoletta Lanese",
-      "title": "Dozens sickened and 12 dead in Listeria outbreak linked to frozen shakes",
-      "description": "An ongoing Listeria outbreak has mostly affected people living in long-term care facilities and people who were already hospitalized prior to becoming sick from the infection.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/dozens-sickened-and-12-dead-in-listeria-outbreak-linked-to-frozen-shakes",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Py62DJBBsRRx7Eb5s6nLA-1200-80.jpg",
-      "publishedAt": "2025-02-24T22:51:07Z",
-      "content": "An ongoing Listeria outbreak has so far sickened 38 people across 21 U.S. states, and 12 of the affected individuals have died since the start of the outbreak in 2018.\r\nThe Food and Drug Administrati… [+4370 chars]"
+      "author": "PennyFound",
+      "title": "Fiskars Soil Block Maker $6.95",
+      "description": "*Walmart [walmart.com]* has *Fiskars Soil Block Maker* on sale for* $6.96*. Shipping is free w/ Walmart+ (free trial available [walmart.com]) or on orders $35+. \n \nProduct Description from WalmartThe...",
+      "url": "https://slickdeals.net/f/18200002-fiskars-soil-block-maker-6-96-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "urlToImage": "https://slickdeals.net/attachment/8/3/9/2/450x450/17293234.thumb",
+      "publishedAt": "2025-03-27T17:16:29Z",
+      "content": "Styrofoam is environmentally harmful in a sense, but probably not as much as repeatedly buying bleached wood pulp that is trucked around every year. You'd certainly be releasing more CO2 emissions th… [+1382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Brittany Miller",
+      "title": "Urgent recall issued for shampoo contaminated with harmful bacteria",
+      "description": "Henkel’s Tec Italy Totale Shampoo may contain the bacteria Klebsiella oxytoca",
+      "url": "https://www.the-independent.com/life-style/henkel-shampoo-recall-bacteria-b2722739.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/27/15/43/gettyimages-1213680761-170667a.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-03-27T16:02:08Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3630 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Shampoo Recalled After Potentially Deadly Bacteria Found in Bottles",
+      "description": "Although this bacteria is considered healthy in your intestines, outside the gut, it can cause serious infections, particularly in vulnerable people.",
+      "url": "https://www.newsweek.com/shampoo-recalled-potentially-deadly-bacteria-bottles-2051340",
+      "urlToImage": "https://d.newsweek.com/en/full/2615849/shampoo.jpg",
+      "publishedAt": "2025-03-27T15:06:18Z",
+      "content": "Henkel Capital S.A. de C.V., also known as Henkel, has issued a voluntary recall of its Tec Italy Shampoo Totale after routine testing revealed some products had been contaminated with harmful bacter… [+2968 chars]"
     },
     {
       "source": {
@@ -1034,38 +540,402 @@
         "name": "Securityaffairs.com"
       },
       "author": "Pierluigi Paganini",
-      "title": "A large botnet targets M365 accounts with password spraying attacks",
-      "description": "A botnet of 130,000+ devices is attacking Microsoft 365 accounts via password-spraying, bypassing MFA by exploiting basic authentication. SecurityScorecard researchers discovered a botnet of over 130,000 devices that is conducting password-spray attacks again…",
-      "url": "https://securityaffairs.com/174595/cyber-crime/large-botnet-targets-m365-password-spraying-attacks.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-40.png",
-      "publishedAt": "2025-02-24T20:51:34Z",
-      "content": "A large botnet targets M365 accounts with password spraying attacks\r\n | Australia bans Kaspersky over national security concerns\r\n | A data leak exposes the operations of the Chinese private firm Top… [+142036 chars]"
+      "title": "Crooks target DeepSeek users with fake sponsored Google ads to deliver malware",
+      "description": "Cybercriminals are exploiting the popularity of DeepSeek by using fake sponsored Google ads to distribute malware. While DeepSeek is rising in popularity, threat actors are attempting to exploit it by using fake sponsored Google ads to distribute malware, Mal…",
+      "url": "https://securityaffairs.com/175923/malware/crooks-deepseek-users-with-fake-sponsored-google-ads-to-deliver-malware.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-53.png",
+      "publishedAt": "2025-03-27T14:37:49Z",
+      "content": "Crooks DeepSeek users with fake sponsored Google ads to deliver malware\r\n | U.S. CISA adds Sitecore CMS and XP, and GitHub Action flaws to its Known Exploited Vulnerabilities catalog\r\n | Arkana Secur… [+151058 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "The-independent.com"
       },
-      "author": "Isabel Keane",
-      "title": "Nutritional shakes served in nursing homes, hospitals recalled over listeria outbreak that’s killed at least 11",
-      "description": "Frozen nutritional shakes given to hospital patients and long-term care residents have been recalled after they were linked to 11 deaths and dozens of serious illnesses — with the outbreak dating back to 2018.",
-      "url": "https://nypost.com/2025/02/24/us-news/nutritional-shakes-from-lyons-magnus-recalled-over-listeria/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/02/99172807.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-02-24T18:14:38Z",
-      "content": "Frozen nutritional shakes given to hospital patients and long-term care residents have been recalled after they were linked to 11 deaths and dozens of serious illnesses with the outbreak dating back … [+1672 chars]"
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk",
+      "description": "The recalled chips were sold at retailers in 13 states",
+      "url": "https://www.the-independent.com/life-style/tostitos-chips-recall-frito-lay-b2722664.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-03-27T14:27:40Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
     },
     {
       "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
+        "id": null,
+        "name": "Newsbreak.com"
       },
-      "author": "Sophie Clark",
-      "title": "Chicken Caesar Wrap Recall Over Allergic Reaction Fears",
-      "description": "A chicken Caesar wrap has been recalled in Washington state because it contains an undeclared allergen.",
-      "url": "https://www.newsweek.com/chicken-cesear-wrap-recall-over-allergen-fears-2035371",
-      "urlToImage": "https://d.newsweek.com/en/full/2594297/chicken-cesear-wraps.png",
-      "publishedAt": "2025-02-24T16:52:44Z",
-      "content": "A chicken Caesar wrap product has been pulled from shelves because it contains an undeclared allergen. The wraps, produced by LPK1, contained anchovies but did not declare fish on their allergens lis… [+2530 chars]"
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
+      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
+      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?_f=app_share&pd=0EP8xahG&lang=en_US&send_time=1743165731&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.12.1.3%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q2-v1%2Cns_push_exp_rt_bucketv12-v7&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
+      "publishedAt": "2025-03-27T14:27:40Z",
+      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "CIP Chemicals Market to Expand at 8.96% CAGR, Reaching USD 4.76 Billion by 2032 | Report by SNS Insider",
+      "description": "Stringent hygiene regulations and increasing automation in food processing drive the global demand for CIP Chemicals, enhancing cleaning efficiency and safety. Stringent hygiene regulations and increasing automation in food processing drive the global demand …",
+      "url": "https://www.globenewswire.com/news-release/2025/03/27/3050656/0/en/CIP-Chemicals-Market-to-Expand-at-8-96-CAGR-Reaching-USD-4-76-Billion-by-2032-Report-by-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-03-27T14:00:00Z",
+      "content": "Austin, March 27, 2025 (GLOBE NEWSWIRE) -- The SNS Insider report indicates that, The CIP Chemicals Market\r\n Size was valued at 2.20 Billion in 2023 and is expected to reach USD 4.76 Billion by 2032,… [+9710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jason D. Keegan, Paul M. Airs, Claire Brown, Anya Rishi Dingley, Conor Courtney, Eric R. Morgan, Celia V. Holland",
+      "title": "Park entrances, commonly contaminated with infective Toxocara canis eggs, present a risk of zoonotic infection and an opportunity for focused intervention",
+      "description": "Author summary The common roundworms of dogs and cats are also capable of infecting other animals, including humans. Infected dogs and cats can release parasite eggs into the environment, where they develop if the conditions are warm and moist enough. Acciden…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012917",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012917.g002&size=inline",
+      "publishedAt": "2025-03-27T14:00:00Z",
+      "content": "Citation: Keegan JD, Airs PM, Brown C, Dingley AR, Courtney C, Morgan ER, et al. (2025) Park entrances, commonly contaminated with infective Toxocara canis eggs, present a risk of zoonotic infection … [+40191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Sitecore CMS and XP, and GitHub Action flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Sitecore CMS and XP, and GitHub Action flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added [1,2] the following vulnerabi…",
+      "url": "https://securityaffairs.com/175915/security/u-s-cisa-adds-sitecore-cms-and-xp-and-github-action-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-03-27T12:30:29Z",
+      "content": "U.S. CISA adds Sitecore CMS and XP, and GitHub Action flaws to its Known Exploited Vulnerabilities catalog\r\n | Arkana Security group claims the hack of US telco provider WideOpenWest (WOW!)\r\n | New R… [+150982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WWD"
+      },
+      "author": "Renan Botelho",
+      "title": "Tec Italy Totale Shampoo Recalled Due to Potential Contamination With Harmful Bacteria",
+      "description": "Henkel has initiated a voluntary recall of 1,068 units of Tec Italy Shampoo Totale due to potential contamination with Klebsiella oxytoca bacteria.",
+      "url": "http://wwd.com/fashion-news/fashion-scoops/tec-italy-totale-shampoo-recall-1237063699/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2025/03/totale-shampoo.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2025-03-27T12:23:44Z",
+      "content": "Henkel Capital S.A. de C.V., a Mexican subsidiary of the German consumer goods giant Henkel, has initiated a voluntary recall of 1,068 units of its Tec Italy Shampoo Totale due to potential contamina… [+1735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Resilience"
+      },
+      "author": "Robert Jensen",
+      "title": "A Different “Abundance Agenda”: Avoiding Delusions and Diversions",
+      "description": "Our choices are clear: We can drill more, which will simply get us to a cruel end game even sooner. We can pretend that technology will save us, which might delay that reckoning. If we can abandon the delusions and diversions, there’s no guarantee of a happy …",
+      "url": "https://www.resilience.org/stories/2025-03-27/a-different-abundance-agenda-avoiding-delusions-and-diversions/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2025/03/maddy-baker-DVze54aeK9k-unsplash.jpg",
+      "publishedAt": "2025-03-27T11:08:27Z",
+      "content": "For the next few weeks, the buzzword in US debates on the liberal/left about economics and ecology will be abundance after the release of the book with that title by Ezra Klein (New York Times) and D… [+6991 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Arialief",
+      "title": "Arialief Nerve Health Supplement Review: Benefits, Side Effects & Where to Buy",
+      "description": "AURORA, Colo., March 27, 2025 (GLOBE NEWSWIRE) -- Nerve health has become a critical concern for many individuals suffering from conditions such as neuropathy, sciatica, and other forms of chronic nerve discomfort. While traditional pain relief methods often …",
+      "url": "https://www.globenewswire.com/news-release/2025/03/27/3050335/0/en/Arialief-Nerve-Health-Supplement-Review-Benefits-Side-Effects-Where-to-Buy.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a10bc945-4ab8-472a-bbdd-47a769874fc2",
+      "publishedAt": "2025-03-27T09:59:00Z",
+      "content": "AURORA, Colo., March 27, 2025 (GLOBE NEWSWIRE) -- Nerve health has become a critical concern for many individuals suffering from conditions such as neuropathy, sciatica, and other forms of chronic ne… [+44272 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "N.B. man says he complained about fuel leak 7 weeks before Tim Hortons shut down in Woodstock",
+      "description": "Jody Bourgoin said he tried to warn staff about diesel in the coffee shop's water back in October, more than two months before the Tim Hortons on Beardsley Road was closed due to a significant diesel leak from Murray's Irving gas station next door.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/diesel-tim-hortons-woodstock-water-1.7491699",
+      "urlToImage": "https://i.cbc.ca/1.7491708.1742833033!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/jody-bourgoin.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-27T09:00:00Z",
+      "content": "A Nackawic man says he suspected a fuel leak at a Tim Hortons coffee shop in Woodstock and complained to a manager months before it was shut down.\r\nJody Bourgoin, who works in Woodstock, said he trie… [+5508 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Arkana Security group claims the hack of US telco provider WideOpenWest (WOW!)",
+      "description": "Arkana Security, a new ransomware group, claims to have breached the telecommunications provider WideOpenWest (WOW!). The new ransomware group Arkana Security claims to have hacked US telecom provider WOW!, stealing customer data. WideOpenWest (WOW!) is a US-…",
+      "url": "https://securityaffairs.com/175905/data-breach/arkana-security-group-claims-the-hack-of-wideopenwest-wow.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-51.png",
+      "publishedAt": "2025-03-27T08:57:33Z",
+      "content": "Arkana Security group claims the hack of US telco provider WideOpenWest (WOW!)\r\n | New ReaderUpdate malware variants target macOS users\r\n | BlackLock Ransomware Targeted by Cybersecurity Firm\r\n | Goo… [+150871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nutritionfacts.org"
+      },
+      "author": "Michael Greger M.D. FACLM",
+      "title": "Love Your Liver",
+      "description": "There is a lot you can do to keep your liver healthy.\nThis episode features audio from:\n\nHerbalife Supplements and Liver Toxicity\nHow to Prevent Non-Alcoholic Fatty Liver Disease\nPoultry Exposure Tied to Liver and Pancreatic Cancer\n\nVisit the video pages for …",
+      "url": "https://nutritionfacts.org/audio/love-your-liver/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/02/batch-42-podcast-433.png",
+      "publishedAt": "2025-03-27T07:00:53Z",
+      "content": "The liver is a crucial organ in the body, playing a vital role in metabolism, detoxification, digestion, blood sugar regulation, and vitamin storage. Today, we start with a story about the liver dama… [+11498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Soybeans: The ancient superfood powering modern diets",
+      "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
+      "url": "https://www.naturalnews.com/2025-03-27-soybeans-ancient-superfood-powering-modern-diets.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
+      "publishedAt": "2025-03-27T06:00:00Z",
+      "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
+      "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
+      "url": "https://www.naturalnews.com/2025-03-27-scientists-demand-fda-withdraw-mrna-covid-vaccines.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
+      "publishedAt": "2025-03-27T06:00:00Z",
+      "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Coca-Cola cases recalled due to plastic contamination",
+      "description": "Recall comes amid a flurry of other product recalls",
+      "url": "https://www.the-independent.com/life-style/coca-cola-cans-recalled-b2722364.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/25/21/30/iStock-458585847.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-03-27T04:41:56Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Matthew Williams, Universe Today",
+      "title": "Toxic Mars Dust Could Pose Major Health Risks For Future Astronauts",
+      "description": "Martian dust storms can potentially cause respiratory issues and elevated risk of disease, making them yet another health hazard space agencies need to prepare for, according to new research by the Keck School of Medicine at the University of Southern Califor…",
+      "url": "https://www.sciencealert.com/toxic-mars-dust-could-pose-major-health-risks-for-future-astronauts",
+      "urlToImage": "https://www.sciencealert.com/images/2025/03/MarsDark.jpg",
+      "publishedAt": "2025-03-27T01:25:36Z",
+      "content": "Martian dust storms can potentially cause respiratory issues and elevated risk of disease, making them yet another health hazard space agencies need to prepare for, according to new research by the K… [+7378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnewsblogs.com"
+      },
+      "author": "Kimberly Roberson",
+      "title": "Nuclear Disasters and Lessons Learned ~ What is Safe to Eat?",
+      "description": "FDA is Stonewalling a 2013 Petition for Better Food Regs\nBy Kimberly Roberson\nThis time of year marks anniversaries of three major nuclear disasters: Fukushima, Three Mile Island, and Chernobyl on March 11, 2011; March 28, 1979; and April 26,…\nThe post Nuclea…",
+      "url": "https://naturalnewsblogs.com/nuclear-disasters-and-lessons-learned-what-is-safe-to-eat/",
+      "urlToImage": "https://naturalnewsblogs.com/wp-content/uploads/2013/06/Gas-Mask-Destruction-Radiation-Nuclear.jpg",
+      "publishedAt": "2025-03-26T22:05:26Z",
+      "content": "FDA is Stonewalling a 2013 Petition for Better Food Regs\r\nBy Kimberly Roberson\r\nThis time of year marks anniversaries of three major nuclear disasters: Fukushima, Three Mile Island, and Chernobyl on … [+12527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New ReaderUpdate malware variants target macOS users",
+      "description": "New ReaderUpdate malware variants, now written in Crystal, Nim, Rust, and Go, targets macOS users, SentinelOne warns. SentinelOne researchers warn that multiple versions of the ReaderUpdate malware written in Crystal, Nim, Rust, and Go programming languages, …",
+      "url": "https://securityaffairs.com/175891/malware/readerupdate-malware-variants-targets-macos.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-50.png",
+      "publishedAt": "2025-03-26T20:45:09Z",
+      "content": "New ReaderUpdate malware variants target macOS users\r\n | BlackLock Ransomware Targeted by Cybersecurity Firm\r\n | Google fixed the first actively exploited Chrome zero-day since the start of the year\r… [+150788 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Angelica Stabile",
+      "title": "Shampoo recalled for bacteria contamination that could cause infection",
+      "description": "A consumer brands manufacturer recalled more than 1,000 units of Tec Italy Totale Shampoo due to potential bacteria contamination, which can cause serious infection and health complications.",
+      "url": "https://www.foxnews.com/health/shampoo-recalled-bacteria-contamination-cause-infection",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/gettyimages-1346179935.jpg",
+      "publishedAt": "2025-03-26T18:02:44Z",
+      "content": "A brand of shampoo has been recalled due to a potential health risk.\r\nHenkel, a consumer brands manufacturer, announced on Tuesday that Tec Italy Totale Shampoo has been pulled from shelves for poten… [+1809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "Mae Cornes",
+      "title": "Digitizing the sense of smell – How AI is transforming olfactory data",
+      "description": "Artificial intelligence has taken significant strides in mimicking human senses, from vision and hearing to touch. Now, it’s turning its attention to one of the most elusive and complex senses — smell. Companies like Cogito Tech are leading efforts to digitiz…",
+      "url": "https://www.digitaljournal.com/tech-science/digitizing-the-sense-of-smell-how-ai-is-transforming-olfactory-data/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/03/Copy-of-Image-Resizing-Template-.png",
+      "publishedAt": "2025-03-26T17:56:56Z",
+      "content": "Photo Courtesy of Cogito Tech\r\nOpinions expressed by Digital Journal contributors are their own.\r\nArtificial intelligence has taken significant strides in mimicking human senses, from vision and hear… [+5144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yale.edu"
+      },
+      "author": null,
+      "title": "In War-Torn Sudan, a Gold Mining Boom Takes a Human Toll",
+      "description": "As civil war rages in Sudan, a surge in gold production is helping finance and arm the warring factions. Most of the mining is done on a small scale by villagers who process the gold using mercury and cyanide, posing serious threats to their health and to the…",
+      "url": "https://e360.yale.edu/features/sudan-war-gold-mining",
+      "urlToImage": "https://yale-threesixty.transforms.svdcdn.com/production/Sudan-Gold-Workers_Getty-HEADER.jpg?w=1200&q=60&auto=format&fit=max&dm=1743006259&s=6fe7f64ebb89e547ceb1fc6ae0757f9c",
+      "publishedAt": "2025-03-26T17:26:00Z",
+      "content": "Amid Sudans brutal civil war, where famine threatens millions of displaced people, many have turned to small-scale gold mining, risking their lives by using toxic chemicals to extract the precious me… [+13208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Candida Fink MD",
+      "title": "What Are Intrusive Thoughts, and Why Do They Cause Trouble?",
+      "description": "Many social media conversations address the pain of intrusive thoughts, but what are they? Learn about the types of intrusive thoughts to help heal them.",
+      "url": "https://www.psychologytoday.com/us/blog/changing-minds/202503/what-are-intrusive-thoughts-and-why-do-they-cause-trouble",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-03/Shutterstock_2540349965.jpeg.jpg?itok=mZaurn_4",
+      "publishedAt": "2025-03-26T16:52:34Z",
+      "content": "What are intrusive thoughts?\r\nThe term intrusive thoughts has become common parlance from mental health creators on social media such as TikTok, and people have resonated with it. In psychiatry, we d… [+6258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "A new method to recycle fluoride from long-lived PFAS chemicals",
+      "description": "Researchers have developed a method to destroy fluorine-containing PFAS (sometimes labelled 'forever chemicals') while recovering their fluorine content for future use.",
+      "url": "https://www.sciencedaily.com/releases/2025/03/250326122647.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-03-26T16:26:47Z",
+      "content": "Oxford Chemistry researchers have developed a method to destroy fluorine-containing PFAS (sometimes labelled 'forever chemicals') while recovering their fluorine content for future use. The results h… [+4332 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "University of Oxford",
+      "title": "A new method to recycle fluoride from long-lived PFAS chemicals",
+      "description": "Oxford Chemistry researchers have developed a method to destroy fluorine-containing PFAS (sometimes labeled 'forever chemicals') while recovering their fluorine content for future use. The results have been published in Nature.",
+      "url": "https://phys.org/news/2025-03-method-recycle-fluoride-pfas-chemicals.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-method-to-recycl.jpg",
+      "publishedAt": "2025-03-26T16:00:05Z",
+      "content": "Oxford Chemistry researchers have developed a method to destroy fluorine-containing PFAS (sometimes labeled 'forever chemicals') while recovering their fluorine content for future use. The results ha… [+5178 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Plastic in your coke? Coca-Cola recalls over 10,000 cans in these states—Here’s what to know",
+      "description": "Coca-Cola has recalled over 10,000 cans of its flagship soda in Illinois and Wisconsin due to potential plastic contamination. The recall, classified as a Class II by the U.S. Food and Drug Administration (FDA), affects specific 12-packs of Coca-Cola Original…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/plastic-in-your-coke-coca-cola-recalls-over-10000-cans-in-these-statesheres-what-to-know/articleshow/119545853.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-119546516,width-1200,height-630,imgsize-323616,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-03-26T15:19:56Z",
+      "content": "If you recently purchased a 12-pack of Coca-Cola in the U.S., you might want to check the packaging. More than 10,000 cans of Coca-Cola Original Taste have been recalled due to the risk of plastic co… [+3313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Cox Media Group National Content Desk",
+      "title": "Recall alert: 10K cans of Coca-Cola recalled for foreign object",
+      "description": "The Food and Drug Administration announced the recall of more than 10,000 cans of Coca-Cola over potential foreign contamination.",
+      "url": "https://www.wsbtv.com/news/trending/recall-alert-10k-cans-coca-cola-recalled-foreign-object/MQZY42Y6JNFLNK4RM75KNEHILE/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWZH5C7UNJFWBHHMIKP4KIE4KQ.jpeg?auth=5f54becf36b4b17df7351901d4c9f6165ded36fa63316bcac6859bb82a4132c3&width=1200&height=630&smart=true",
+      "publishedAt": "2025-03-26T15:18:29Z",
+      "content": "The Food and Drug Administration announced the recall of more than 10,000 cans of Coca-Cola over potential foreign contamination.\r\nThe foreign object is plastic. \r\nThe recall affects 12-ounce cans th… [+792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "BlackLock Ransomware Targeted by Cybersecurity Firm",
+      "description": "Resecurity found an LFI flaw in the leak site of BlackLock ransomware, exposing clearnet IPs and server details. Resecurity has identified a Local File Include (LFI) vulnerability in Data Leak Site (DLS) of BlackLock Ransomware.  Cybersecurity experts were ab…",
+      "url": "https://securityaffairs.com/175877/cyber-crime/blacklock-ransomware-targeted-by-cybersecurity-firm.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/BlackLock.jpg",
+      "publishedAt": "2025-03-26T14:44:58Z",
+      "content": "BlackLock Ransomware Targeted by Cybersecurity Firm\r\n | Google fixed the first actively exploited Chrome zero-day since the start of the year\r\n | Authentication bypass CVE-2025-22230 impacts VMware W… [+150731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Piyamas Sillapakong, Tokumitsu Wakabayashi, Koichi Suzuki",
+      "title": "Naturido alleviates amyloid β1–42-induced adverse effects in a transgenic Caenorhabditis elegans model of Alzheimer’s disease",
+      "description": "Alzheimer’s disease (AD) is a progressive neurodegenerative disorder primarily associated with aging. While the amyloid hypothesis is not the only explanation for AD pathogenesis, it is widely recognized that the accumulation of amyloid β (Aβ) protein trigger…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320636",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320636.g003&size=inline",
+      "publishedAt": "2025-03-26T14:00:00Z",
+      "content": "Abstract\r\nAlzheimers disease (AD) is a progressive neurodegenerative disorder primarily associated with aging. While the amyloid hypothesis is not the only explanation for AD pathogenesis, it is wide… [+23761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Joseph D. Jones, Brandon L. Holder, Andrew C. Montgomery, Chloe V. McAdams, Emily He, Anna E. Burns, Kiran R. Eiken, Alex Vogt, Adriana I. Velarde, Alexandra J. Elder, Jennifer A. McEllin, Stephane Dissel",
+      "title": "The dorsal fan-shaped body is a neurochemically heterogeneous sleep-regulating center in Drosophila",
+      "description": "The role of the dorsal fan-shaped body in sleep regulation in Drosophila is contested. This study shows that cholinergic neurons in the dorsal fan-shaped body play a major role in sleep modulation in this neurochemically heterogeneous sleep-regulating center …",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003014",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003014.g005&size=inline",
+      "publishedAt": "2025-03-26T14:00:00Z",
+      "content": "Introduction\r\nUnderstanding the neural basis of behavior is a major aspect of neurobiology. However, unequivocally assigning a behavior to a specific neuron or group of neurons is not a trivial task.… [+143766 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "The Associated Press",
+      "title": "Residue from human waste has long wound up as farm fertilizer. Some neighbors hate it",
+      "description": "WELLSTON, Okla. (AP) — When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought she’d found a slice of heaven. In a town of fewer than 700 people, her son could attend a good schoo…",
+      "url": "https://financialpost.com/pmn/residue-from-human-waste-has-long-wound-up-as-farm-fertilizer-some-neighbors-hate-it",
+      "urlToImage": null,
+      "publishedAt": "2025-03-26T13:40:04Z",
+      "content": "Author of the article:\r\nArticle content\r\nWELLSTON, Okla. (AP) When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought s… [+9059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "JOSHUA A. BICKEL and SEAN MURPHY",
+      "title": "Residue from human waste has long wound up as farm fertilizer. Some neighbors hate it",
+      "description": "When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought she'd found a slice...",
+      "url": "https://www.yahoo.com/news/residue-human-waste-long-wound-133127912.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SlbgMt8TzW5.WV.7h19yVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/8a07016d46270eb2d4298af801627fa1",
+      "publishedAt": "2025-03-26T13:31:27Z",
+      "content": "WELLSTON, Okla. (AP) When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought she'd found a slice of heaven. In a town o… [+6041 chars]"
     },
     {
       "source": {
@@ -1073,25 +943,168 @@
         "name": "TODAY"
       },
       "author": "Drew Weisholtz",
-      "title": "Shakes at nursing homes recalled over listeria following deaths and hospitalizations",
-      "description": "Frozen shakes at long-term facilities throughout the country have been recalled due to listeria. The FDA is investigating.",
-      "url": "https://www.today.com/health/recall/shakes-distributed-nursing-homes-recalled-listeria-rcna193427",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-02/shake-recall-mc-250224-copy-937359.jpg",
-      "publishedAt": "2025-02-24T16:23:48Z",
-      "content": "Frozen shakes distributed in long-term facilities around the United States have been recalled due to potential listeria contamination. \r\nLyons Magnus announced Feb. 22 that it had issued a recall for… [+2451 chars]"
+      "title": "Coca-Cola cans sold in these 2 states recalled due to contamination with foreign object",
+      "description": "A Coca-Cola distributor has announced it has recalled nearly 900 12-packs of Coke due to potential contamination of plastic, the FDA said.",
+      "url": "https://www.today.com/food/coca-cola-fda-recall-rcna198137",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-03/coca-cola-recall-mc-250326-1105b0.jpg",
+      "publishedAt": "2025-03-26T13:12:02Z",
+      "content": "A Coca-Cola distributor has announced a voluntary recall of more than 10,000 cans of the soft drink, according to the Food and Drug Administration.\r\nA total of 864 12-packs thats a total of 10,368 ca… [+1076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSOC Charlotte"
+      },
+      "author": "Cox Media Group National Content Desk",
+      "title": "Recall alert: 10K cans of Coca-Cola recalled for foreign object",
+      "description": "The Food and Drug Administration announced the recall of more than 10,000 cans of Coca-Cola over potential foreign contamination.",
+      "url": "https://www.wsoctv.com/news/trending/recall-alert-10k-cans-coca-cola-recalled-foreign-object/MQZY42Y6JNFLNK4RM75KNEHILE/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWZH5C7UNJFWBHHMIKP4KIE4KQ.jpeg?auth=5f54becf36b4b17df7351901d4c9f6165ded36fa63316bcac6859bb82a4132c3&width=1200&height=630&smart=true",
+      "publishedAt": "2025-03-26T12:31:53Z",
+      "content": "The Food and Drug Administration announced the recall of more than 10,000 cans of Coca-Cola over potential foreign contamination.\r\nThe foreign object is plastic. \r\nThe recall affects 12-ounce cans th… [+792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hospitality Net"
+      },
+      "author": "Marriott",
+      "title": "Marriott International Announces Strategic Agreement with PathSpot, an Innovative Real-Time Hand Hygiene Management System and Safety Operations Suite",
+      "description": "Marriott International, Inc. (Nasdaq: MAR) today announced it has entered into a strategic agreement with technology company PathSpot Technologies, Inc., the creator of a real-time hygiene management and digital kitchen system that protects against the threat…",
+      "url": "https://www.hospitalitynet.org/news/4126419.html",
+      "urlToImage": "https://www.hospitalitynet.org/picture/social_153180523.jpg?t=1742992154",
+      "publishedAt": "2025-03-26T12:31:00Z",
+      "content": "Marriott International, Inc. (Nasdaq: MAR) today announced it has entered into a strategic agreement with technology company PathSpot Technologies, Inc., the creator of a real-time hygiene management… [+5408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prevention.com"
+      },
+      "author": "Kayla Blanton",
+      "title": "Aldi Cheese Recalled Over Contamination Concerns, Per FDA",
+      "description": "Happy Farms by Aldi Shredded Colby Jack Cheese was recalled in February and is now a Class II recall, the FDA says, due to stainless steel fragments.",
+      "url": "https://www.prevention.com/food-nutrition/a64285197/aldi-cheese-recall-classified-march-2025/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/cooking-italian-vegetarian-pizza-with-vegetables-royalty-free-image-1742934130.pjpeg?crop=1.00xw:0.752xh;0,0.151xh&resize=1200:*",
+      "publishedAt": "2025-03-26T11:34:42Z",
+      "content": "<ul><li>Aldi cheese is being recalled over metal fragment contamination. </li><li>It was made a Class II recall, which means consuming the product may cause serious adverse health concerns. </li><li>… [+2987 chars]"
     },
     {
       "source": {
         "id": "newsweek",
         "name": "Newsweek"
       },
-      "author": "Joe Edwards",
-      "title": "Nationwide Mac & Cheese Snack Recall As FDA Issues Risk Warning",
-      "description": "Feel Good Foods Inc. issued a voluntary recall for thousands of cases of its Mac & Cheese Bites in February due to the possible presence of metal pieces.",
-      "url": "https://www.newsweek.com/mac-cheese-snack-recall-fda-class-ii-risk-feel-good-foods-new-york-2035208",
-      "urlToImage": "https://d.newsweek.com/en/full/2594179/mac-cheese.jpg",
-      "publishedAt": "2025-02-24T14:59:47Z",
-      "content": "A nationwide recall for a macaroni and cheese snack has been issued a Class II risk classification by the U.S. Food and Drug Administration (FDA).\r\nFeel Good Foods Inc., a New York based company, iss… [+2739 chars]"
+      "author": "Jasmine Laws",
+      "title": "Coffee Recall in 15 States as FDA Sets Risk Level",
+      "description": "For people with heart conditions, high blood pressure, or who are pregnant, accidentally consuming caffeine can lead to concerning symptoms.",
+      "url": "https://www.newsweek.com/coffee-recall-fifteen-states-fda-sets-risk-level-class-two-2050562",
+      "urlToImage": "https://d.newsweek.com/en/full/2614727/coffee.jpg",
+      "publishedAt": "2025-03-26T11:29:38Z",
+      "content": "A recall has been voluntarily issued for 692 cases of ground coffee, which were distributed across 15 states, after some of the products were found to be mislabeled as decaffeinated, according to an … [+3279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "PurDentix",
+      "title": "PurDentix Probiotic Supplement: Ingredients, Benefits, Reviews & Where to Buy",
+      "description": "AURORA, Colo., March 26, 2025 (GLOBE NEWSWIRE) -- Maintaining optimal oral health is more crucial than ever in today's unhealthy world. Many struggle with gum disease, tooth decay, and oral hygiene, leading to a growing interest in innovative solutions. One p…",
+      "url": "https://www.globenewswire.com/news-release/2025/03/26/3049512/0/en/PurDentix-Probiotic-Supplement-Ingredients-Benefits-Reviews-Where-to-Buy.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/3e80c9ed-d5fa-4c43-b0ba-31b5cb9634b0",
+      "publishedAt": "2025-03-26T11:11:00Z",
+      "content": "AURORA, Colo., March 26, 2025 (GLOBE NEWSWIRE) -- Maintaining optimal oral health is more crucial than ever in today's unhealthy world. Many struggle with gum disease, tooth decay, and oral hygiene, … [+52368 chars]"
+    },
+    {
+      "source": {
+        "id": "marca",
+        "name": "Marca"
+      },
+      "author": "TBS",
+      "title": "Coca-Cola alarms: Thousands of cans recalled for 'foreign object contamination' that could cause health problems",
+      "description": "Coca-Cola has initiated a massive recall of over 10,000 cans of its iconic soft drink due to potential contamination with plastic fragments. \n\nThe recall, which was announced on Ma",
+      "url": "https://www.marca.com/en/lifestyle/us-news/2025/03/26/67e3dba0268e3e187a8b457f.html",
+      "urlToImage": "https://phantom-marca.uecdn.es/6906956198e2bfd793638fc5b7376f07/crop/0x0/2044x1363/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/26/17429859371447.jpg",
+      "publishedAt": "2025-03-26T10:51:30Z",
+      "content": "Coca-Cola has initiated a massive recall of over 10,000 cans of its iconic soft drink due to potential contamination with plastic fragments. \r\nThe recall, which was announced on March 6, was prompted… [+3335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPVI-TV"
+      },
+      "author": "Shafiq Najib",
+      "title": "More than 10k cans of Coca-Cola voluntarily recalled over possible plastic contamination",
+      "description": "More than 10k cans of Coca-Cola voluntarily recalled over possible plastic contamination6abc.com",
+      "url": "https://6abc.com/post/more-10k-cans-coca-cola-voluntarily-recalled-possible-plastic-contamination/16084291/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16084301_AP17058541034951.jpg?w=1600",
+      "publishedAt": "2025-03-26T10:46:30Z",
+      "content": "More than 10,000 cans of Original Coca-Cola have been voluntarily recalled due to possible plastic contamination.\r\nThe recall was initiated by Coca-Cola manufacturer Reyes Coca-Cola Bottling on March… [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLS-TV"
+      },
+      "author": "Shafiq Najib",
+      "title": "More than 10k cans of Coca-Cola voluntarily recalled over possible plastic contamination",
+      "description": "More than 10k cans of Coca-Cola voluntarily recalled over possible plastic contaminationabc7chicago.com",
+      "url": "https://abc7chicago.com/post/more-10k-cans-coca-cola-voluntarily-recalled-possible-plastic-contamination/16084291/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16084301_AP17058541034951.jpg?w=1600",
+      "publishedAt": "2025-03-26T10:41:57Z",
+      "content": "More than 10,000 cans of Original Coca-Cola have been voluntarily recalled due to possible plastic contamination.\r\nThe recall was initiated by Coca-Cola manufacturer Reyes Coca-Cola Bottling on March… [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTRK-TV"
+      },
+      "author": "Shafiq Najib",
+      "title": "More than 10k cans of Coca-Cola voluntarily recalled over possible plastic contamination",
+      "description": "More than 10k cans of Coca-Cola voluntarily recalled over possible plastic contaminationabc13.com",
+      "url": "https://abc13.com/post/more-10k-cans-coca-cola-voluntarily-recalled-possible-plastic-contamination/16084291/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16084301_AP17058541034951.jpg?w=1600",
+      "publishedAt": "2025-03-26T10:35:27Z",
+      "content": "More than 10,000 cans of Original Coca-Cola have been voluntarily recalled due to possible plastic contamination.\r\nThe recall was initiated by Coca-Cola manufacturer Reyes Coca-Cola Bottling on March… [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Australia's Cold Chain Logistics Market 2025-2034 - Projected to Expand from US$5 Billion in 2024 to US$7.3 Billion by 2034, Led by Karras Cold Logistics, NewCold Cooperatief, and Transdyer Management",
+      "description": "Dublin, March 26, 2025 (GLOBE NEWSWIRE) -- The \"Australia Cold Chain Logistics Market Report and Forecast 2025-2034\" has been added to ResearchAndMarkets.com's offering. The report looks into the market shares, plant turnarounds, capacities, investments, and …",
+      "url": "https://www.globenewswire.com/news-release/2025/03/26/3049393/28124/en/Australia-s-Cold-Chain-Logistics-Market-2025-2034-Projected-to-Expand-from-US-5-Billion-in-2024-to-US-7-3-Billion-by-2034-Led-by-Karras-Cold-Logistics-NewCold-Cooperatief-and-Trans.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-03-26T09:13:00Z",
+      "content": "Dublin, March 26, 2025 (GLOBE NEWSWIRE) -- The \"Australia Cold Chain Logistics Market Report and Forecast 2025-2034\" has been added to ResearchAndMarkets.com's offering. The report looks into the mar… [+9988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Google fixed the first actively exploited Chrome zero-day since the start of the year",
+      "description": "Google fixed a flaw in the Chrome browser for Windows that was actively exploited in attacks targeting organizations in Russia. Google has released out-of-band fixes to address a high-severity security vulnerability, tracked as CVE-2025-2783, in Chrome browse…",
+      "url": "https://securityaffairs.com/175862/hacking/google-fixed-first-chrome-zero-day-in-2025.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/03/google-chrome-bounty-program.jpg",
+      "publishedAt": "2025-03-26T07:46:27Z",
+      "content": "Authentication bypass CVE-2025-22230 impacts VMware Windows Tools\r\n | Android malware campaigns use .NET MAUI to evade detection\r\n | Astral Foods, South Africas largest poultry producer, lost over $1… [+150585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Authentication bypass CVE-2025-22230 impacts VMware Windows Tools",
+      "description": "Broadcom addressed a high-severity authentication bypass vulnerability, tracked as CVE-2025-22230, in VMware Tools for Windows. Broadcom released security updates to address a high-severity authentication bypass vulnerability, tracked as CVE-2025-22230 (CVSS …",
+      "url": "https://securityaffairs.com/175858/security/authentication-bypass-cve-2025-22230-in-vmware-tools-for-windows.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/04/vmware-logo.png",
+      "publishedAt": "2025-03-26T07:07:02Z",
+      "content": "Authentication bypass CVE-2025-22230 impacts VMware Windows Tools\r\n | Android malware campaigns use .NET MAUI to evade detection\r\n | Astral Foods, South Africas largest poultry producer, lost over $1… [+150585 chars]"
     },
     {
       "source": {
@@ -1099,157 +1112,92 @@
         "name": "Food Safety News"
       },
       "author": "News Desk",
-      "title": "Chicken Caesar wraps sold in veding machines in Washington recalled over undeclared fish",
-      "description": "LPK1, of Renton, WA, is recalling approximately 303 pounds of ready-to-eat chicken Caesar wrap products because of misbranding and an undeclared allergen, according to the U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS).  The produc…",
-      "url": "https://www.foodsafetynews.com/2025/02/chicken-caesar-wraps-sold-in-veding-machines-in-washington-recalled-over-undeclared-fish/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/082/079/203/NWlVkgmbMQEB1KLrYZyAqEwDo/59d5982c10d6f31c097a8fe9b726c1ad19674cf3.png",
-      "publishedAt": "2025-02-24T14:28:18Z",
-      "content": "LPK1, of Renton, WA, is recalling approximately 303 pounds of ready-to-eat chicken Caesar wrap products because of misbranding and an undeclared allergen, according to the U.S. Department of Agricult… [+2049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Aizhan Konysbayeva, Zura Yessimsiitova, Murat Toktar, Alibek Mutushev, Yryszhan Zhakypbek, Serik Tursbekov, Galiya Tursbekova, Zhenis Kozhayev, Assel Kozhamzharova, Serzhan Mombekov, Saki Raheem",
-      "title": "Result of reclamation of man-made dumps from phosphorite deposits in the semi-desert zone of Kazakhstan",
-      "description": "Pollution from industrial activities, including heavy metal contamination, poses severe environmental challenges, especially in industrialized regions. This study evaluates reclamation efforts at the Kokzhon phosphorite deposit in Kazakhstan’s semi-desert zon…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317500",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317500.g006&size=inline",
-      "publishedAt": "2025-02-24T14:00:00Z",
-      "content": "Introduction\r\nGrowing industrial activities have significantly transformed natural systems, surpassing many natural processes in scale and impact. The intensive extraction of oil, ore, coal, and gas … [+28361 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Australia bans Kaspersky over national security concerns",
-      "description": "Australia bans Kaspersky software over national security concerns, citing risks of foreign interference, espionage, and sabotage of government networks. Australian Government banned products and services provided by Russian cybersecurity firm Kaspersky over n…",
-      "url": "https://securityaffairs.com/174586/intelligence/australia-bans-kaspersky-over-national-security-concerns.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/04/eugene-kaspersky.jpg",
-      "publishedAt": "2025-02-24T13:51:30Z",
-      "content": "Australia bans Kaspersky over national security concerns\r\n | A data leak exposes the operations of the Chinese private firm TopSec, which provides Censorship-as-a-Service\r\n | SpyLend Android malware … [+141964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A data leak exposes the operations of the Chinese private firm TopSec, which provides Censorship-as-a-Service",
-      "description": "A leak suggests that Chinese cybersecurity firm TopSec offers censorship-as-a-service services, it provided bespoke monitoring services to a state-owned enterprise facing a corruption scandal. SentinelLABS researchers analyzed a data leak that suggests that t…",
-      "url": "https://securityaffairs.com/174579/intelligence/china-firm-topsec-provides-censorship-services.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
-      "publishedAt": "2025-02-24T13:14:22Z",
-      "content": "A data leak exposes the operations of the Chinese private firm TopSec, which provides Censorship-as-a-Service\r\n | SpyLend Android malware found on Google Play enabled financial cyber crime and extort… [+141903 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cisa.gov"
-      },
-      "author": "CISA",
-      "title": "Vulnerability Summary for the Week of February 17, 2025",
-      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>a1post--A1POST.BG Shipping for Woo </td>\n<td>Cross-Site Request Forgery (CSRF) vulnerabi…",
-      "url": "https://www.cisa.gov/news-events/bulletins/sb25-055",
-      "urlToImage": null,
-      "publishedAt": "2025-02-24T13:08:20Z",
-      "content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s… [+899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
-      "title": "Retort Cartons Market Set to Reach USD 6.7 Billion by 2035 Amid Rising Demand for Shelf-Stable Packaging Solutions | Future Market Insights, Inc.",
-      "description": "Germany leads in eco-friendly packaging, with companies like Smurfit Kappa driving innovation in barrier technology. Strong sustainability commitments fuel the continuous growth of the retort carton sector. Rising consumer demand for green packaging and stric…",
-      "url": "https://www.globenewswire.com/news-release/2025/02/24/3030942/0/en/Retort-Cartons-Market-Set-to-Reach-USD-6-7-Billion-by-2035-Amid-Rising-Demand-for-Shelf-Stable-Packaging-Solutions-Future-Market-Insights-Inc.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
-      "publishedAt": "2025-02-24T10:30:00Z",
-      "content": "NEWARK, Del, Feb. 24, 2025 (GLOBE NEWSWIRE) -- The global retort cartons market is poised for substantial growth, with projections estimating a market value of USD 4.2 billion by 2025, expanding at a… [+11980 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Joseph Winters",
-      "title": "Why some Starbucks locations are switching from plastic to paper cups",
-      "description": "Green groups say it’s a “clear admission” that the plastic ones aren’t recyclable.",
-      "url": "http://grist.org/accountability/why-some-starbucks-locations-are-switching-from-plastic-to-paper-cups/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2025/02/starbucks-cups.jpg?quality=75&strip=all",
-      "publishedAt": "2025-02-24T09:15:00Z",
-      "content": "Starbucks customers across hundreds of locations in the United States started their weeks off with a surprise: Their beloved Frappuccinos and iced espresso drinks served in paper cups, not plastic. \r… [+8025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SpyLend Android malware found on Google Play enabled financial cyber crime and extortion",
-      "description": "CYFIRMA researchers discovered that the SpyLend Android malware was downloaded 100,000 times from the official app store Google Play. CYFIRMA researchers discovered an Android malware, named SpyLend, which was distributed through Google Play as Finance Simpli…",
-      "url": "https://securityaffairs.com/174540/malware/spylend-android-malware-100k-downloard.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/02/image-39.png",
-      "publishedAt": "2025-02-24T08:57:57Z",
-      "content": "SpyLend Android malware found on Google Play enabled financial cyber crime and extortion\r\n | Leaked Black Basta chat logs reveal the gang's operations\r\n | U.S. CISA adds Microsoft Power Pages flaw to… [+141789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": null,
-      "description": "Data Leak Exposes TopSec’s Role in China’s Censorship-as-a-Service Operations An analysis of a data leak from a Chinese cybersecurity company TopSec has revealed that it likely offers censorship-as-a-service solutions to prospective customers, including a sta…",
-      "url": "https://securityaffairs.com/174573/uncategorized/174573.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6e4c8i_pkXRCFnrtqVIygOrARiVnU3_KUgU5mhPl5V4uj8R1KcQOxRLdZ0xm1Rf5AX_cviUAeiiRkTJCe8HXzOeB363590NBXAMv92N9e7zr4m7aKtDq-Q_gpP9QFWecL0oxcVtmqSg9qrGEGqlDbzwNNFKGJe2nlup4tuL7AZzTm0U501YxPGodOc2Fq/s728-rw-e100/zz-d.jpg",
-      "publishedAt": "2025-02-24T08:57:31Z",
-      "content": "SpyLend Android malware found on Google Play enabled financial cyber crime and extortion\r\n | Leaked Black Basta chat logs reveal the gang's operations\r\n | U.S. CISA adds Microsoft Power Pages flaw to… [+141789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Leaked Black Basta chat logs reveal the gang’s operations",
-      "description": "Leaked Black Basta chat logs reveal internal conflicts, exposing member details and hacking tools as the gang reportedly falls apart. An unknown actor, named ExploitWhispers, leaked Matrix chat logs of the Black Basta ransomware gang revealing internal confli…",
-      "url": "https://securityaffairs.com/174547/cyber-crime/leaked-black-basta-chat-logs-reveal-internal-conflicts.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
-      "publishedAt": "2025-02-24T08:22:52Z",
-      "content": "Leaked Black Basta chat logs reveal the gang's operations\r\n | U.S. CISA adds Microsoft Power Pages flaw to its Known Exploited Vulnerabilities catalog\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 34… [+141696 chars]"
+      "title": "Twelve E. coli cases under investigation in Latvia",
+      "description": "Latvian public health officials have reported 12 recent E. coli infections with mostly children sick. The Center for Disease Prevention and Control (SPKC) said it is conducting an epidemiological investigation because of the registered cases of Shiga toxin-pr…",
+      "url": "https://www.foodsafetynews.com/2025/03/twelve-e-coli-cases-under-investigation-in-latvia/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/085/339/180/PwAV5rMNq6Oo3j5j6kBm274Op/708caba24137bbcf2970376bcbc744937eee09d9.png",
+      "publishedAt": "2025-03-26T04:03:00Z",
+      "content": "Latvian public health officials have reported 12 recent E. coli infections with mostly children sick.\r\nThe Center for Disease Prevention and Control (SPKC) said it is conducting an epidemiological in… [+3194 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Food Safety News"
       },
-      "author": "Jonan Pilet",
-      "title": "At-home freeze drying: A growing trend with food safety concerns",
-      "description": "As the popularity of at-home freeze drying continues to grow, so do questions about its safety. Once primarily a commercial food preservation technique, freeze drying has made its way into homes, with consumers hoping to create long-lasting, shelf-stable food…",
-      "url": "https://www.foodsafetynews.com/2025/02/at-home-freeze-drying-a-growing-trend-with-food-safety-concerns/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/082/011/264/3Be2PXkVAQ4krlga6m78j1oNa/3561138d13a53d5cd040c5bc09b5a4013b4a5a09.png",
-      "publishedAt": "2025-02-24T05:03:00Z",
-      "content": "As the popularity of at-home freeze drying continues to grow, so do questions about its safety.\r\nOnce primarily a commercial food preservation technique, freeze drying has made its way into homes, wi… [+6932 chars]"
+      "author": "Joe Whitworth",
+      "title": "Australians warned about wild mushroom risk",
+      "description": "A charity in Australia has repeated a warning against picking and eating wild mushrooms. The Food Safety Information Council’s annual message comes as mushrooms are starting to appear around Australia with it being Autumn in the Southern Hemisphere. Lydia Buc…",
+      "url": "https://www.foodsafetynews.com/2025/03/australians-warned-about-wild-mushroom-risk/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/085/339/093/aMBJ5DWdLYPodjEkQXRNjrp4Z/6cba6f73c3c3834d29b34430e291562c0eecdb4b.png",
+      "publishedAt": "2025-03-26T04:01:00Z",
+      "content": "A charity in Australia has repeated a warning against picking and eating wild mushrooms.\r\nThe Food Safety Information Council’s annual message comes as mushrooms are starting to appear around Austral… [+4154 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Elifesciences.org"
+        "name": "Healthline"
       },
-      "author": "msousa@i3s.up.pt (Ana Catarina Costa), msousa@i3s.up.pt (Blanca R Murillo), msousa@i3s.up.pt (Gabriel G Martins), msousa@i3s.up.pt (Matthias Kneussel), msousa@i3s.up.pt (Monica M Sousa), msousa@i3s.up.pt (Monika S Brill), msousa@i3s.up.pt (Patrícia Porfírio-Rodrigues), msousa@i3s.up.pt (Pedro Brites), msousa@i3s.up.pt (Ricardo Ribeiro), msousa@i3s.up.pt (Rita Bessa), msousa@i3s.up.pt (Thomas Misgeld), msousa@i3s.up.pt (Tiago Ferreira da Silva)",
-      "title": "Axon-specific microtubule regulation drives asymmetric regeneration of sensory neuron axons",
-      "description": "Sensory dorsal root ganglion (DRG) neurons have a unique pseudo-unipolar morphology in which a stem axon bifurcates into a peripheral and a central axon, with different regenerative abilities. Whereas peripheral DRG axons regenerate, central axons are unable …",
-      "url": "https://elifesciences.org/articles/104069",
-      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
-      "publishedAt": "2025-02-24T00:00:00Z",
-      "content": "Culture of pseudo-unipolar DRG neurons\r\nRequest a detailed protocol\r\nDRG cultures from Wistar rats (embryonic day 16) and Spastin knockout mice and wild-type littermates (embryonic day 13) were done … [+30958 chars]"
+      "author": "Elizabeth Pratt",
+      "title": "Chewing Gum Releases Thousands of Microplastics Into Saliva: Study",
+      "description": "A new study found that chewing gum releases hundreds to thousands of microplastics into saliva. Both synthetic and natural gums were found to contain microplastics, the health effects of which are not yet fully understood.",
+      "url": "https://www.healthline.com/health-news/chewing-gum-microplastics-saliva-study",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2025/03/female-chewing-gum-1200x628-facebook.jpg",
+      "publishedAt": "2025-03-26T02:16:44Z",
+      "content": "<ul><li>A new study found that chewing gum releases hundreds to thousands of microplastics for every gram of gum.</li><li>Both synthetic and natural gums were found to contain microplastics.</li><li>… [+6394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "REBECCA CHONG",
+      "title": "Cleaner, safer Ramadan bazaars in Sandakan",
+      "description": "KOTA KINABALU: Food safety standards at Ramadan bazaars in Sandakan have improved this year, with authorities reporting fewer hygiene violations during enforcement checks. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/03/26/cleaner-safer-ramadan-bazaars-in-sandakan",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/03/26/3234176.jpeg",
+      "publishedAt": "2025-03-25T23:00:00Z",
+      "content": "KOTA KINABALU: Food safety standards at Ramadan bazaars in Sandakan have improved this year, with authorities reporting fewer hygiene violations during enforcement checks.\r\nOnly seven compound notice… [+1906 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Jano Gibson",
+      "title": "Astronauts to grow edible mushrooms during next space mission",
+      "description": "When SpaceX launches its next mission in the coming days, it will include an Australian-led experiment that could have significant ramifications for the future of space exploration.",
+      "url": "https://www.abc.net.au/news/2025-03-26/spacex-astronauts-to-grow-edible-mushrooms-on-space-mission/105079800",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dca1b8846d27fe32d9a54cb67c62b7d8?impolicy=wcms_watermark_news&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-25T22:37:02Z",
+      "content": "When SpaceX launches its next mission in the coming days, it will include an Australian-led experiment that could have significant ramifications for the future of space exploration.\r\nThe Fram2 missio… [+5614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Coca-Cola cases recalled due to plastic contamination",
+      "description": "Recall comes amid a flurry of other product recalls",
+      "url": "https://www.the-independent.com/life-style/coca-cola-recall-cans-plastic-b2721505.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/25/21/30/iStock-458585847.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-03-25T22:06:45Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "Internal Emails Reveal Merck’s Negligence in Gardasil Safety Testing",
+      "description": "A landmark lawsuit against Merck is underway in a Los Angeles courtroom, marking the company’s first jury trial over claims it misrepresented the safety of its highly profitable Gardasil HPV vaccine. Newly declassified documents in the trial have revealed tro…",
+      "url": "https://www.activistpost.com/internal-emails-reveal-mercks-negligence-in-gardasil-safety-testing/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-25T22:00:00Z",
+      "content": "A landmark lawsuit against Merck is underway in a Los Angeles courtroom, marking the companys first jury trial over claims it misrepresented the safety of its highly profitable Gardasil HPV vaccine.\r… [+4997 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 92,
   "filteredCount": 0
 }
