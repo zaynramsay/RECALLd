@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-03-31T01:56:05.146Z",
+  "lastUpdated": "2025-03-31T06:33:30.514Z",
   "articles": [
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Madeleine Rojahn",
+      "title": "Major supermarkets recall salad products due to contamination concerns",
+      "description": "More than 20 pre-packaged salad products are being recalled by two major supermarket retailers after Queensland's public health surveillance detected two products contaminated with a strain of E-coli.",
+      "url": "https://www.abc.net.au/news/2025-03-30/coles-iga-recalls-salad-products-over-e-coli-concerns/105114252",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/da14efaacff9873b93c86ee64fa1f9cd?impolicy=wcms_watermark_news&cropH=873&cropW=1552&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-30T03:56:28Z",
+      "content": "Consumers are being urged to check the use-by date of more than 20 pre-packaged salad products, as two major supermarket chains issued a recall notice on salad and mixed-salad products across multipl… [+2793 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Madeleine Rojahn",
+      "title": "Major supermarkets recall salad products due to contamination concerns",
+      "description": "More than 20 pre-packaged salad products are being recalled by major supermarket retailers after Queensland's public health surveillance detected two products contaminated with a strain of E. coli.",
+      "url": "https://www.abc.net.au/news/2025-03-30/coles-iga-aldi-woolworths-salad-products-e-coli-concerns/105114252",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/da14efaacff9873b93c86ee64fa1f9cd?impolicy=wcms_watermark_news&cropH=873&cropW=1552&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-30T03:56:28Z",
+      "content": "Consumers are being urged to check the use-by date of more than 20 pre-packaged salad products, as two major supermarket chains issued a recall notice on salad and mixed-salad products across multipl… [+3117 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -307,7 +333,7 @@
       },
       "author": "Arialief",
       "title": "Arialief Reviews & Complaints (ALERT): Is This Nerve Pain Breakthrough Too Good To Be Real?",
-      "description": "Arialief emerges as a science-backed nerve support formula helping users fight discomfort, inflammation, and fatigue—naturally and effectively.......",
+      "description": "Arialief emerges as a science-backed nerve support formula helping users fight discomfort, inflammation, and fatigue��naturally and effectively.......",
       "url": "https://www.globenewswire.com/news-release/2025/03/28/3051604/0/en/Arialief-Reviews-Complaints-ALERT-Is-This-Nerve-Pain-Breakthrough-Too-Good-To-Be-Real.html",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/4d40cfe8-69b0-4ac3-9449-0e85a06ed0e6",
       "publishedAt": "2025-03-28T19:33:00Z",
@@ -922,7 +948,7 @@
       "url": "https://www.cbc.ca/news/canada/new-brunswick/diesel-tim-hortons-woodstock-water-1.7491699",
       "urlToImage": "https://i.cbc.ca/1.7491708.1742833033!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/jody-bourgoin.jpg?im=Resize%3D620",
       "publishedAt": "2025-03-27T09:00:00Z",
-      "content": "A Nackawic man says he suspected a fuel leak at a Tim Hortons coffee shop in Woodstock and complained to a manager months before it was shut down.\r\nJody Bourgoin, who works in Woodstock, said he trie��� [+5508 chars]"
+      "content": "A Nackawic man says he suspected a fuel leak at a Tim Hortons coffee shop in Woodstock and complained to a manager months before it was shut down.\r\nJody Bourgoin, who works in Woodstock, said he trie… [+5508 chars]"
     },
     {
       "source": {
@@ -1183,21 +1209,8 @@
       "urlToImage": null,
       "publishedAt": "2025-03-26T13:40:04Z",
       "content": "Author of the article:\r\nArticle content\r\nWELLSTON, Okla. (AP) When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought s… [+9059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "JOSHUA A. BICKEL and SEAN MURPHY",
-      "title": "Residue from human waste has long wound up as farm fertilizer. Some neighbors hate it",
-      "description": "When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought she'd found a slice...",
-      "url": "https://www.yahoo.com/news/residue-human-waste-long-wound-133127912.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SlbgMt8TzW5.WV.7h19yVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/8a07016d46270eb2d4298af801627fa1",
-      "publishedAt": "2025-03-26T13:31:27Z",
-      "content": "WELLSTON, Okla. (AP) When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought she'd found a slice of heaven. In a town o… [+6041 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
