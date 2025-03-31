@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-03-31T06:33:30.514Z",
+  "lastUpdated": "2025-03-31T12:48:15.942Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Samantha Mathewson",
+      "title": "SpaceX's Fram2 astronaut flight over Earth's poles will be the 1st to grow mushrooms in space",
+      "description": "SpaceX's upcoming Fram2 astronaut mission will attempt to grow mushrooms in microgravity for the first time, as part of an experiment called Mission MushVroom.",
+      "url": "https://www.space.com/space-exploration/missions/spacexs-fram2-astronaut-flight-over-earths-poles-will-be-first-to-grow-mushrooms-in-space",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/89i6z8WwvSK74NhavnVBTT-1200-80.jpg",
+      "publishedAt": "2025-03-30T10:00:00Z",
+      "content": "Astronauts will attempt to grow mushrooms in space for the first time during SpaceX's upcoming Fram2 mission.\r\nLaunching aboard a SpaceX Falcon 9 rocket\r\n as early as Monday (March 31), the Fram2\r\n m… [+3852 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Aria Bendix",
+      "title": "It's time to worry about bird flu in cats",
+      "description": "Pet owners whose cats got bird flu describe their symptoms. At least 126 domestic cats have contracted bird flu. Experts recommend avoiding raw meat and raw milk.",
+      "url": "https://www.nbcnews.com/health/bird-flu/bird-flu-in-cats-rcna198374",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250328-Kira-Tim-Hanson-ew-503p-a15814.jpg",
+      "publishedAt": "2025-03-30T09:30:00Z",
+      "content": "Bird flu wasnt on Tim Hansons mind when he fed his cats specialty pet food containing raw chicken.\r\nYou go to the pet shop and it was the premium raw food, he said. It was finely ground to a consiste… [+9423 chars]"
+    },
     {
       "source": {
         "id": "abc-news-au",
@@ -333,7 +359,7 @@
       },
       "author": "Arialief",
       "title": "Arialief Reviews & Complaints (ALERT): Is This Nerve Pain Breakthrough Too Good To Be Real?",
-      "description": "Arialief emerges as a science-backed nerve support formula helping users fight discomfort, inflammation, and fatigue��naturally and effectively.......",
+      "description": "Arialief emerges as a science-backed nerve support formula helping users fight discomfort, inflammation, and fatigue—naturally and effectively.......",
       "url": "https://www.globenewswire.com/news-release/2025/03/28/3051604/0/en/Arialief-Reviews-Complaints-ALERT-Is-This-Nerve-Pain-Breakthrough-Too-Good-To-Be-Real.html",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/4d40cfe8-69b0-4ac3-9449-0e85a06ed0e6",
       "publishedAt": "2025-03-28T19:33:00Z",
@@ -836,19 +862,6 @@
     {
       "source": {
         "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
-      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
-      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?_f=app_share&pd=0EP8xahG&lang=en_US&send_time=1743165731&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.12.1.3%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q2-v1%2Cns_push_exp_rt_bucketv12-v7&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
-      "publishedAt": "2025-03-27T14:27:40Z",
-      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The-independent.com"
       },
       "author": "Amber Raiken",
@@ -858,6 +871,19 @@
       "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-03-27T14:27:40Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
+      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
+      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?_f=app_share&pd=0EP8xahG&lang=en_US&send_time=1743165731&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.12.1.3%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q2-v1%2Cns_push_exp_rt_bucketv12-v7&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
+      "publishedAt": "2025-03-27T14:27:40Z",
+      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
     },
     {
       "source": {
@@ -981,19 +1007,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Lance D Johnson",
-      "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
-      "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
-      "url": "https://www.naturalnews.com/2025-03-27-scientists-demand-fda-withdraw-mrna-covid-vaccines.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
-      "publishedAt": "2025-03-27T06:00:00Z",
-      "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Soybeans: The ancient superfood powering modern diets",
       "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
@@ -1001,6 +1014,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
       "publishedAt": "2025-03-27T06:00:00Z",
       "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
+      "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
+      "url": "https://www.naturalnews.com/2025-03-27-scientists-demand-fda-withdraw-mrna-covid-vaccines.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
+      "publishedAt": "2025-03-27T06:00:00Z",
+      "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
     },
     {
       "source": {
@@ -1170,47 +1196,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/BlackLock.jpg",
       "publishedAt": "2025-03-26T14:44:58Z",
       "content": "BlackLock Ransomware Targeted by Cybersecurity Firm\r\n | Google fixed the first actively exploited Chrome zero-day since the start of the year\r\n | Authentication bypass CVE-2025-22230 impacts VMware W… [+150731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Piyamas Sillapakong, Tokumitsu Wakabayashi, Koichi Suzuki",
-      "title": "Naturido alleviates amyloid β1–42-induced adverse effects in a transgenic Caenorhabditis elegans model of Alzheimer’s disease",
-      "description": "Alzheimer’s disease (AD) is a progressive neurodegenerative disorder primarily associated with aging. While the amyloid hypothesis is not the only explanation for AD pathogenesis, it is widely recognized that the accumulation of amyloid β (Aβ) protein trigger…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320636",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320636.g003&size=inline",
-      "publishedAt": "2025-03-26T14:00:00Z",
-      "content": "Abstract\r\nAlzheimers disease (AD) is a progressive neurodegenerative disorder primarily associated with aging. While the amyloid hypothesis is not the only explanation for AD pathogenesis, it is wide… [+23761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Joseph D. Jones, Brandon L. Holder, Andrew C. Montgomery, Chloe V. McAdams, Emily He, Anna E. Burns, Kiran R. Eiken, Alex Vogt, Adriana I. Velarde, Alexandra J. Elder, Jennifer A. McEllin, Stephane Dissel",
-      "title": "The dorsal fan-shaped body is a neurochemically heterogeneous sleep-regulating center in Drosophila",
-      "description": "The role of the dorsal fan-shaped body in sleep regulation in Drosophila is contested. This study shows that cholinergic neurons in the dorsal fan-shaped body play a major role in sleep modulation in this neurochemically heterogeneous sleep-regulating center …",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003014",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003014.g005&size=inline",
-      "publishedAt": "2025-03-26T14:00:00Z",
-      "content": "Introduction\r\nUnderstanding the neural basis of behavior is a major aspect of neurobiology. However, unequivocally assigning a behavior to a specific neuron or group of neurons is not a trivial task.… [+143766 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "The Associated Press",
-      "title": "Residue from human waste has long wound up as farm fertilizer. Some neighbors hate it",
-      "description": "WELLSTON, Okla. (AP) — When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought she’d found a slice of heaven. In a town of fewer than 700 people, her son could attend a good schoo…",
-      "url": "https://financialpost.com/pmn/residue-from-human-waste-has-long-wound-up-as-farm-fertilizer-some-neighbors-hate-it",
-      "urlToImage": null,
-      "publishedAt": "2025-03-26T13:40:04Z",
-      "content": "Author of the article:\r\nArticle content\r\nWELLSTON, Okla. (AP) When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought s… [+9059 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 92,
   "filteredCount": 0
 }
