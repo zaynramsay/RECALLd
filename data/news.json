@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-03-30T18:28:35.604Z",
+  "lastUpdated": "2025-03-31T01:56:05.146Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Adeola Adeosun",
+      "title": "Liquid Eggs Recalled Due to Possible Cleaning Solution Contamination",
+      "description": "Cargill Kitchen Solutions recalls 212,268 pounds of liquid egg products due to possible cleaning solution contamination.",
+      "url": "https://www.newsweek.com/cargill-liquid-egg-products-recalled-cleaning-solution-contamination-2052706",
+      "urlToImage": "https://d.newsweek.com/en/full/2617523/liquid-egg-recall.png",
+      "publishedAt": "2025-03-30T01:35:44Z",
+      "content": "Cargill Kitchen Solutions is recalling approximately 212,268 pounds of liquid egg products that may contain a sodium hypochlorite cleaning solution, as announced by the U.S. Department of Agriculture… [+3008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Japan Times"
+      },
+      "author": "The Japan Times",
+      "title": "Japan's biggest beef bowl chain Sukiya to shut nearly 2,000 stores after rat and bug contamination",
+      "description": "As of the end of 2024, Sukiya operated 1,965 stores in Japan.",
+      "url": "https://www.japantimes.co.jp/news/2025/03/30/japan/skiya-stores-shut-rat-bug/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/03/30/460248.jpg?v=3.1",
+      "publishedAt": "2025-03-30T00:40:00Z",
+      "content": "Japan's fast-food chain Sukiya will shut nearly all of its roughly 2,000 stores nationwide for four days from Monday following recent incidents of customers finding a rodent in a bowl of miso soup an… [+1139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Georgia Worrell",
+      "title": "Popular fast-food Japanese chain announces temporary closure due to rat-infested miso soup",
+      "description": "Sukiya, Japans’s biggest beef bowl chain, will close its roughly 2,000 locations nationwide for four days starting on Monday, the company said Saturday.",
+      "url": "https://nypost.com/2025/03/29/world-news/japanese-fast-food-chain-sukiya-temporarily-closes-due-to-rat-bug-contamination/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/03/demonstrators-wearing-hats-featuring-beef-101344258.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-03-29T21:28:21Z",
+      "content": "A popular fast-food chain in Japan will shut down for several days following reports of rat-infested miso soup.\r\nSukiya, the countrys biggest beef bowl chain, said it would cease operations Monday at… [+1286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "Yes, There Are Microplastics in Your Kitchen. Here's What You Can Do",
+      "description": "Make a few easy changes in your kitchen to help cut down on microplastic exposure — here's how to get started.",
+      "url": "https://www.cnet.com/health/yes-there-are-microplastics-in-your-kitchen-heres-what-you-can-do/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/910a638ce3193e4ebc84691db21ad2c702cae2b7/hub/2024/12/30/6e2ad328-fd01-45c5-9279-7b347b1224b7/gettyimages-1315120793.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-03-29T20:30:00Z",
+      "content": "Microplastics are virtually unavoidable -- they're in the air we breathe, the water we drink, the food we eat and even the homes we live in. Alarming research has shown their presence in human blood,… [+7560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox News",
+      "title": "212,000 pounds of liquid eggs recalled over concerns toxic cleaning solution contaminated batch",
+      "description": "Over 212,000 pounds of liquid egg products are being recalled nationwide, the U.S. Department of Agriculture’s Food Safety and Inspection Service announced.",
+      "url": "https://nypost.com/2025/03/29/health/liquid-eggs-food-products-are-recalled-may-have-been-distributed-nationwide/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/03/herb-omelette-chives-oregano-sprinkled-97429755.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-03-29T19:58:05Z",
+      "content": "Over 212,000 pounds of liquid egg products that may contain a cleaning solution with sodium hypochlorite are being recalled nationwide, the U.S. Department of Agricultures Food Safety and Inspection … [+3770 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Japan chain shuts shops after pest found in food",
+      "description": "Sukiya announced the temporary closure after customers found an insect and a rat in their food.",
+      "url": "https://www.bbc.com/news/articles/c74zll31pwxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e28a/live/87734480-0cce-11f0-bd5c-75dd3ff67252.jpg",
+      "publishedAt": "2025-03-29T19:47:29Z",
+      "content": "One of Japan's biggest restaurant chains is closing its outlets for cleaning, after two incidents of customers finding pests, including a rat, in their food.\r\nSukiya, known for its beef-on-rice dishe… [+1499 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -732,19 +810,6 @@
     {
       "source": {
         "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Popular tortilla chips urgently recalled for serious health risk",
-      "description": "The recalled chips were sold at retailers in 13 states",
-      "url": "https://www.the-independent.com/life-style/tostitos-chips-recall-frito-lay-b2722664.html",
-      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-03-27T14:27:40Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Newsbreak.com"
       },
       "author": "Amber Raiken",
@@ -754,6 +819,19 @@
       "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
       "publishedAt": "2025-03-27T14:27:40Z",
       "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk",
+      "description": "The recalled chips were sold at retailers in 13 states",
+      "url": "https://www.the-independent.com/life-style/tostitos-chips-recall-frito-lay-b2722664.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-03-27T14:27:40Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
     },
     {
       "source": {
@@ -844,7 +922,7 @@
       "url": "https://www.cbc.ca/news/canada/new-brunswick/diesel-tim-hortons-woodstock-water-1.7491699",
       "urlToImage": "https://i.cbc.ca/1.7491708.1742833033!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/jody-bourgoin.jpg?im=Resize%3D620",
       "publishedAt": "2025-03-27T09:00:00Z",
-      "content": "A Nackawic man says he suspected a fuel leak at a Tim Hortons coffee shop in Woodstock and complained to a manager months before it was shut down.\r\nJody Bourgoin, who works in Woodstock, said he trie… [+5508 chars]"
+      "content": "A Nackawic man says he suspected a fuel leak at a Tim Hortons coffee shop in Woodstock and complained to a manager months before it was shut down.\r\nJody Bourgoin, who works in Woodstock, said he trie��� [+5508 chars]"
     },
     {
       "source": {
@@ -877,19 +955,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Soybeans: The ancient superfood powering modern diets",
-      "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
-      "url": "https://www.naturalnews.com/2025-03-27-soybeans-ancient-superfood-powering-modern-diets.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
-      "publishedAt": "2025-03-27T06:00:00Z",
-      "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Lance D Johnson",
       "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
       "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
@@ -897,6 +962,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
       "publishedAt": "2025-03-27T06:00:00Z",
       "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Soybeans: The ancient superfood powering modern diets",
+      "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
+      "url": "https://www.naturalnews.com/2025-03-27-soybeans-ancient-superfood-powering-modern-diets.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
+      "publishedAt": "2025-03-27T06:00:00Z",
+      "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
     },
     {
       "source": {
@@ -1118,84 +1196,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SlbgMt8TzW5.WV.7h19yVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/8a07016d46270eb2d4298af801627fa1",
       "publishedAt": "2025-03-26T13:31:27Z",
       "content": "WELLSTON, Okla. (AP) When Leslie Stewart moved to her home in a rural expanse of Lincoln County outside of Oklahoma City more than 20 years ago, she thought she'd found a slice of heaven. In a town o… [+6041 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Drew Weisholtz",
-      "title": "Coca-Cola cans sold in these 2 states recalled due to contamination with foreign object",
-      "description": "A Coca-Cola distributor has announced it has recalled nearly 900 12-packs of Coke due to potential contamination of plastic, the FDA said.",
-      "url": "https://www.today.com/food/coca-cola-fda-recall-rcna198137",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-03/coca-cola-recall-mc-250326-1105b0.jpg",
-      "publishedAt": "2025-03-26T13:12:02Z",
-      "content": "A Coca-Cola distributor has announced a voluntary recall of more than 10,000 cans of the soft drink, according to the Food and Drug Administration.\r\nA total of 864 12-packs thats a total of 10,368 ca… [+1076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSOC Charlotte"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: 10K cans of Coca-Cola recalled for foreign object",
-      "description": "The Food and Drug Administration announced the recall of more than 10,000 cans of Coca-Cola over potential foreign contamination.",
-      "url": "https://www.wsoctv.com/news/trending/recall-alert-10k-cans-coca-cola-recalled-foreign-object/MQZY42Y6JNFLNK4RM75KNEHILE/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWZH5C7UNJFWBHHMIKP4KIE4KQ.jpeg?auth=5f54becf36b4b17df7351901d4c9f6165ded36fa63316bcac6859bb82a4132c3&width=1200&height=630&smart=true",
-      "publishedAt": "2025-03-26T12:31:53Z",
-      "content": "The Food and Drug Administration announced the recall of more than 10,000 cans of Coca-Cola over potential foreign contamination.\r\nThe foreign object is plastic. \r\nThe recall affects 12-ounce cans th… [+792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hospitality Net"
-      },
-      "author": "Marriott",
-      "title": "Marriott International Announces Strategic Agreement with PathSpot, an Innovative Real-Time Hand Hygiene Management System and Safety Operations Suite",
-      "description": "Marriott International, Inc. (Nasdaq: MAR) today announced it has entered into a strategic agreement with technology company PathSpot Technologies, Inc., the creator of a real-time hygiene management and digital kitchen system that protects against the threat…",
-      "url": "https://www.hospitalitynet.org/news/4126419.html",
-      "urlToImage": "https://www.hospitalitynet.org/picture/social_153180523.jpg?t=1742992154",
-      "publishedAt": "2025-03-26T12:31:00Z",
-      "content": "Marriott International, Inc. (Nasdaq: MAR) today announced it has entered into a strategic agreement with technology company PathSpot Technologies, Inc., the creator of a real-time hygiene management… [+5408 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Prevention.com"
-      },
-      "author": "Kayla Blanton",
-      "title": "Aldi Cheese Recalled Over Contamination Concerns, Per FDA",
-      "description": "Happy Farms by Aldi Shredded Colby Jack Cheese was recalled in February and is now a Class II recall, the FDA says, due to stainless steel fragments.",
-      "url": "https://www.prevention.com/food-nutrition/a64285197/aldi-cheese-recall-classified-march-2025/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/cooking-italian-vegetarian-pizza-with-vegetables-royalty-free-image-1742934130.pjpeg?crop=1.00xw:0.752xh;0,0.151xh&resize=1200:*",
-      "publishedAt": "2025-03-26T11:34:42Z",
-      "content": "<ul><li>Aldi cheese is being recalled over metal fragment contamination. </li><li>It was made a Class II recall, which means consuming the product may cause serious adverse health concerns. </li><li>… [+2987 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Coffee Recall in 15 States as FDA Sets Risk Level",
-      "description": "For people with heart conditions, high blood pressure, or who are pregnant, accidentally consuming caffeine can lead to concerning symptoms.",
-      "url": "https://www.newsweek.com/coffee-recall-fifteen-states-fda-sets-risk-level-class-two-2050562",
-      "urlToImage": "https://d.newsweek.com/en/full/2614727/coffee.jpg",
-      "publishedAt": "2025-03-26T11:29:38Z",
-      "content": "A recall has been voluntarily issued for 692 cases of ground coffee, which were distributed across 15 states, after some of the products were found to be mislabeled as decaffeinated, according to an … [+3279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "PurDentix",
-      "title": "PurDentix Probiotic Supplement: Ingredients, Benefits, Reviews & Where to Buy",
-      "description": "AURORA, Colo., March 26, 2025 (GLOBE NEWSWIRE) -- Maintaining optimal oral health is more crucial than ever in today's unhealthy world. Many struggle with gum disease, tooth decay, and oral hygiene, leading to a growing interest in innovative solutions. One p…",
-      "url": "https://www.globenewswire.com/news-release/2025/03/26/3049512/0/en/PurDentix-Probiotic-Supplement-Ingredients-Benefits-Reviews-Where-to-Buy.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/3e80c9ed-d5fa-4c43-b0ba-31b5cb9634b0",
-      "publishedAt": "2025-03-26T11:11:00Z",
-      "content": "AURORA, Colo., March 26, 2025 (GLOBE NEWSWIRE) -- Maintaining optimal oral health is more crucial than ever in today's unhealthy world. Many struggle with gum disease, tooth decay, and oral hygiene, … [+52368 chars]"
     }
   ],
   "totalResults": 92,
