@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-01T02:02:42.583Z",
+  "lastUpdated": "2025-04-01T06:34:06.066Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Vincent Ho, Associate Professor and Clinical Academic Gastroenterologist, Western Sydney University",
+      "title": "Why have supermarkets around Australia recalled bagged salad products? A gastroenterologist explains",
+      "description": "The culprit behind the recalls is ‘shiga-toxin-producing E. coli’. What do you need to know about this bacterium?",
+      "url": "https://theconversation.com/why-have-supermarkets-around-australia-recalled-bagged-salad-products-a-gastroenterologist-explains-253427",
+      "urlToImage": "https://images.theconversation.com/files/658579/original/file-20250331-68-3d452f.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5991%2C2991&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-03-31T06:33:10Z",
+      "content": "Kristi Blokhin/Shutterstock\r\nPeople are being asked to check the use-by dates of bagged salad products they’ve purchased recently after a number of Australian supermarkets issued recalls due to poten… [+4648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lewrockwell.com"
+      },
+      "author": "No Author",
+      "title": "Why Is What We Feed Infants So Unhealthy?",
+      "description": "Three years ago, a nationwide infant formula shortage shook America, and before long led to fights at grocery stores and stories like this flooding the media: At the time, significant outrage was directed at the FDA since the shortage was due to pre-existing …",
+      "url": "https://www.lewrockwell.com/2025/03/no_author/why-is-what-we-feed-infants-so-unhealthy/",
+      "urlToImage": "https://www.lewrockwell.com/wp-content/uploads/2025/03/1-2-620x516.webp",
+      "publishedAt": "2025-03-31T04:01:00Z",
+      "content": "Three years ago, a nationwide infant formula shortage shook America, and before long led to fights at grocery stores and stories like this flooding the media:\r\nAt the time, significant outrage was di… [+25414 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -966,19 +992,6 @@
     {
       "source": {
         "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
-      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
-      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?_f=app_share&pd=0EP8xahG&lang=en_US&send_time=1743165731&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.12.1.3%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q2-v1%2Cns_push_exp_rt_bucketv12-v7&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
-      "publishedAt": "2025-03-27T14:27:40Z",
-      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The-independent.com"
       },
       "author": "Amber Raiken",
@@ -988,6 +1001,19 @@
       "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-03-27T14:27:40Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
+      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
+      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?_f=app_share&pd=0EP8xahG&lang=en_US&send_time=1743165731&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.12.1.3%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q2-v1%2Cns_push_exp_rt_bucketv12-v7&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
+      "publishedAt": "2025-03-27T14:27:40Z",
+      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
     },
     {
       "source": {
@@ -1111,19 +1137,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Lance D Johnson",
-      "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
-      "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
-      "url": "https://www.naturalnews.com/2025-03-27-scientists-demand-fda-withdraw-mrna-covid-vaccines.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
-      "publishedAt": "2025-03-27T06:00:00Z",
-      "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Soybeans: The ancient superfood powering modern diets",
       "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
@@ -1131,6 +1144,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
       "publishedAt": "2025-03-27T06:00:00Z",
       "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
+      "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
+      "url": "https://www.naturalnews.com/2025-03-27-scientists-demand-fda-withdraw-mrna-covid-vaccines.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
+      "publishedAt": "2025-03-27T06:00:00Z",
+      "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://naturalnewsblogs.com/wp-content/uploads/2013/06/Gas-Mask-Destruction-Radiation-Nuclear.jpg",
       "publishedAt": "2025-03-26T22:05:26Z",
       "content": "FDA is Stonewalling a 2013 Petition for Better Food Regs\r\nBy Kimberly Roberson\r\nThis time of year marks anniversaries of three major nuclear disasters: Fukushima, Three Mile Island, and Chernobyl on … [+12527 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New ReaderUpdate malware variants target macOS users",
-      "description": "New ReaderUpdate malware variants, now written in Crystal, Nim, Rust, and Go, targets macOS users, SentinelOne warns. SentinelOne researchers warn that multiple versions of the ReaderUpdate malware written in Crystal, Nim, Rust, and Go programming languages, …",
-      "url": "https://securityaffairs.com/175891/malware/readerupdate-malware-variants-targets-macos.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-50.png",
-      "publishedAt": "2025-03-26T20:45:09Z",
-      "content": "New ReaderUpdate malware variants target macOS users\r\n | BlackLock Ransomware Targeted by Cybersecurity Firm\r\n | Google fixed the first actively exploited Chrome zero-day since the start of the year\r… [+150788 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Angelica Stabile",
-      "title": "Shampoo recalled for bacteria contamination that could cause infection",
-      "description": "A consumer brands manufacturer recalled more than 1,000 units of Tec Italy Totale Shampoo due to potential bacteria contamination, which can cause serious infection and health complications.",
-      "url": "https://www.foxnews.com/health/shampoo-recalled-bacteria-contamination-cause-infection",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/gettyimages-1346179935.jpg",
-      "publishedAt": "2025-03-26T18:02:44Z",
-      "content": "A brand of shampoo has been recalled due to a potential health risk.\r\nHenkel, a consumer brands manufacturer, announced on Tuesday that Tec Italy Totale Shampoo has been pulled from shelves for poten… [+1809 chars]"
     }
   ],
   "totalResults": 92,
