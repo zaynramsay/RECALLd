@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-03-31T18:32:09.315Z",
+  "lastUpdated": "2025-04-01T02:02:42.583Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "CISA warns of RESURGE malware exploiting Ivanti flaw",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns of RESURGE malware, targeting a vulnerability in Ivanti Connect Secure (ICS) appliances. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) published a Malware Analysis Repor…",
+      "url": "https://securityaffairs.com/176040/breaking-news/cisa-warns-of-resurge-malware-exploiting-ivanti-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-03-30T23:11:20Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 39\r\n | Security Affairs newsletter Round 517 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Sams Club Investigates Alleged Cl0p Ransomware Breach\r\n | FBI an… [+151699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": null,
+      "title": "Sukiya Closes Most Stores After Insect and Rat Contamination",
+      "description": "Sukiya, one of Japan's leading beef bowl restaurant chains, announced it will temporarily close nearly all of its stores after an insect was found in a food item served at one of its outlets. (News On Japan)",
+      "url": "https://newsonjapan.com/article/145262.php",
+      "urlToImage": "https://i2.ytimg.com/vi/VB49Dg7SgtM/mqdefault.jpg",
+      "publishedAt": "2025-03-30T21:21:45Z",
+      "content": "TOKYO, Mar 31 (News On Japan) -\r\n Sukiya, one of Japan's leading beef bowl restaurant chains, announced it will temporarily close nearly all of its stores after an insect was found in a food item ser… [+679 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -940,19 +966,6 @@
     {
       "source": {
         "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Popular tortilla chips urgently recalled for serious health risk",
-      "description": "The recalled chips were sold at retailers in 13 states",
-      "url": "https://www.the-independent.com/life-style/tostitos-chips-recall-frito-lay-b2722664.html",
-      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-03-27T14:27:40Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Newsbreak.com"
       },
       "author": "Amber Raiken",
@@ -962,6 +975,19 @@
       "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
       "publishedAt": "2025-03-27T14:27:40Z",
       "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk",
+      "description": "The recalled chips were sold at retailers in 13 states",
+      "url": "https://www.the-independent.com/life-style/tostitos-chips-recall-frito-lay-b2722664.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-03-27T14:27:40Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
     },
     {
       "source": {
@@ -1085,19 +1111,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Soybeans: The ancient superfood powering modern diets",
-      "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
-      "url": "https://www.naturalnews.com/2025-03-27-soybeans-ancient-superfood-powering-modern-diets.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
-      "publishedAt": "2025-03-27T06:00:00Z",
-      "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Lance D Johnson",
       "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
       "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
@@ -1105,6 +1118,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Covid-vaccine-world.jpg",
       "publishedAt": "2025-03-27T06:00:00Z",
       "content": "Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines\r\n Evidence reveals synthetic DNA contamination up to 470 times above safety … [+5659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Soybeans: The ancient superfood powering modern diets",
+      "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
+      "url": "https://www.naturalnews.com/2025-03-27-soybeans-ancient-superfood-powering-modern-diets.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
+      "publishedAt": "2025-03-27T06:00:00Z",
+      "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/gettyimages-1346179935.jpg",
       "publishedAt": "2025-03-26T18:02:44Z",
       "content": "A brand of shampoo has been recalled due to a potential health risk.\r\nHenkel, a consumer brands manufacturer, announced on Tuesday that Tec Italy Totale Shampoo has been pulled from shelves for poten… [+1809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "author": "Mae Cornes",
-      "title": "Digitizing the sense of smell – How AI is transforming olfactory data",
-      "description": "Artificial intelligence has taken significant strides in mimicking human senses, from vision and hearing to touch. Now, it’s turning its attention to one of the most elusive and complex senses — smell. Companies like Cogito Tech are leading efforts to digitiz…",
-      "url": "https://www.digitaljournal.com/tech-science/digitizing-the-sense-of-smell-how-ai-is-transforming-olfactory-data/article",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/03/Copy-of-Image-Resizing-Template-.png",
-      "publishedAt": "2025-03-26T17:56:56Z",
-      "content": "Photo Courtesy of Cogito Tech\r\nOpinions expressed by Digital Journal contributors are their own.\r\nArtificial intelligence has taken significant strides in mimicking human senses, from vision and hear… [+5144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yale.edu"
-      },
-      "author": null,
-      "title": "In War-Torn Sudan, a Gold Mining Boom Takes a Human Toll",
-      "description": "As civil war rages in Sudan, a surge in gold production is helping finance and arm the warring factions. Most of the mining is done on a small scale by villagers who process the gold using mercury and cyanide, posing serious threats to their health and to the…",
-      "url": "https://e360.yale.edu/features/sudan-war-gold-mining",
-      "urlToImage": "https://yale-threesixty.transforms.svdcdn.com/production/Sudan-Gold-Workers_Getty-HEADER.jpg?w=1200&q=60&auto=format&fit=max&dm=1743006259&s=6fe7f64ebb89e547ceb1fc6ae0757f9c",
-      "publishedAt": "2025-03-26T17:26:00Z",
-      "content": "Amid Sudans brutal civil war, where famine threatens millions of displaced people, many have turned to small-scale gold mining, risking their lives by using toxic chemicals to extract the precious me… [+13208 chars]"
     }
   ],
   "totalResults": 92,
