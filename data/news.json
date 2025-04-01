@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-01T06:34:06.066Z",
+  "lastUpdated": "2025-04-01T12:48:57.315Z",
   "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Restaurant chain to shut 2,000 branches after rat found in soup",
+      "description": "Sukiya will temporarily shut nearly all of its roughly 2,000 branches after a rat was found in a miso soup and a bug in another meal, the company said.",
+      "url": "https://www.cbsnews.com/news/sukiya-rat-found-soup-japan-restaurant-shutting-2000-branches/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/03/31/a9ccc07a-5819-4787-bb95-905b45d01d25/thumbnail/1200x630/39fc932c106f0daba9adb5a9a8487b66/gettyimages-2207037191.jpg?v=95354023eeb6141c58c08d9a5716f291",
+      "publishedAt": "2025-03-31T10:26:01Z",
+      "content": "Japanese restaurant chain Sukiya will temporarily shut nearly all of its roughly 2,000 branches after a rat was found in a miso soup and a bug in another meal, the company said Saturday.\r\nSukiya, fam… [+1410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Morphing Meerkat phishing kits exploit DNS MX records",
+      "description": "Morphing Meerkat phishing kits exploit DNS MX records to deliver spoofed login pages, targeting over 100 brands. Infoblox researchers discovered a new phishing-as-a-service (PhaaS) platform that generated multiple phishing kits, called Morphing Meerkat, using…",
+      "url": "https://securityaffairs.com/176029/cyber-crime/morphing-meerkat-phishing-kits-exploit-dns-mx.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-59.png",
+      "publishedAt": "2025-03-31T08:30:57Z",
+      "content": "Morphing Meerkat phishing kits exploit DNS MX records\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 39\r\n | Security Affairs newsletter Round 517 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Sams C… [+151757 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -26,6 +52,19 @@
       "urlToImage": "https://www.lewrockwell.com/wp-content/uploads/2025/03/1-2-620x516.webp",
       "publishedAt": "2025-03-31T04:01:00Z",
       "content": "Three years ago, a nationwide infant formula shortage shook America, and before long led to fights at grocery stores and stories like this flooding the media:\r\nAt the time, significant outrage was di… [+25414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Undeclared Allergen in Trader Joe’s Hot Honey Mustard Dressing with Use By Date of 05/27/2025 Issued by Fresh Creative Foods",
+      "description": "Fresh Creative Foods is voluntarily recalling a single item with a specific use by date, produced at a regional facility and distributed to limited Trader Joe’s locations.  The product is Trader Joe’s Hot Honey Mustard Dressing, with a Use By Date of 05/27/20…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/undeclared-allergen-trader-joes-hot-honey-mustard-dressing-use-date-05272025-issued-fresh-creative",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-03-31T00:00:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nMarch 30, 2025\r\nFDA Publish Date:\r\nMarch 31, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUndeclare… [+1143 chars]"
     },
     {
       "source": {
@@ -992,19 +1031,6 @@
     {
       "source": {
         "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Popular tortilla chips urgently recalled for serious health risk",
-      "description": "The recalled chips were sold at retailers in 13 states",
-      "url": "https://www.the-independent.com/life-style/tostitos-chips-recall-frito-lay-b2722664.html",
-      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-03-27T14:27:40Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Newsbreak.com"
       },
       "author": "Amber Raiken",
@@ -1014,6 +1040,19 @@
       "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
       "publishedAt": "2025-03-27T14:27:40Z",
       "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Popular tortilla chips urgently recalled for serious health risk",
+      "description": "The recalled chips were sold at retailers in 13 states",
+      "url": "https://www.the-independent.com/life-style/tostitos-chips-recall-frito-lay-b2722664.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-03-27T14:27:40Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3815 chars]"
     },
     {
       "source": {
@@ -1137,19 +1176,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Soybeans: The ancient superfood powering modern diets",
-      "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
-      "url": "https://www.naturalnews.com/2025-03-27-soybeans-ancient-superfood-powering-modern-diets.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
-      "publishedAt": "2025-03-27T06:00:00Z",
-      "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Lance D Johnson",
       "title": "Scientists demand FDA withdraw mRNA COVID vaccines amid contamination and gene therapy concerns",
       "description": "• Petition filed by scientists and legal experts calls for immediate suspension of Pfizer and Moderna mRNA COVID-19 vaccines • Evidence reveals synthetic DNA contamination up to 470 times above safety limits, including cancer-linked SV40 sequences • FDA accus…",
@@ -1161,41 +1187,15 @@
     {
       "source": {
         "id": null,
-        "name": "The-independent.com"
+        "name": "Naturalnews.com"
       },
-      "author": "Amber Raiken",
-      "title": "Coca-Cola cases recalled due to plastic contamination",
-      "description": "Recall comes amid a flurry of other product recalls",
-      "url": "https://www.the-independent.com/life-style/coca-cola-cans-recalled-b2722364.html",
-      "urlToImage": "https://static.the-independent.com/2025/03/25/21/30/iStock-458585847.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-03-27T04:41:56Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3409 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Matthew Williams, Universe Today",
-      "title": "Toxic Mars Dust Could Pose Major Health Risks For Future Astronauts",
-      "description": "Martian dust storms can potentially cause respiratory issues and elevated risk of disease, making them yet another health hazard space agencies need to prepare for, according to new research by the Keck School of Medicine at the University of Southern Califor…",
-      "url": "https://www.sciencealert.com/toxic-mars-dust-could-pose-major-health-risks-for-future-astronauts",
-      "urlToImage": "https://www.sciencealert.com/images/2025/03/MarsDark.jpg",
-      "publishedAt": "2025-03-27T01:25:36Z",
-      "content": "Martian dust storms can potentially cause respiratory issues and elevated risk of disease, making them yet another health hazard space agencies need to prepare for, according to new research by the K… [+7378 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnewsblogs.com"
-      },
-      "author": "Kimberly Roberson",
-      "title": "Nuclear Disasters and Lessons Learned ~ What is Safe to Eat?",
-      "description": "FDA is Stonewalling a 2013 Petition for Better Food Regs\nBy Kimberly Roberson\nThis time of year marks anniversaries of three major nuclear disasters: Fukushima, Three Mile Island, and Chernobyl on March 11, 2011; March 28, 1979; and April 26,…\nThe post Nuclea…",
-      "url": "https://naturalnewsblogs.com/nuclear-disasters-and-lessons-learned-what-is-safe-to-eat/",
-      "urlToImage": "https://naturalnewsblogs.com/wp-content/uploads/2013/06/Gas-Mask-Destruction-Radiation-Nuclear.jpg",
-      "publishedAt": "2025-03-26T22:05:26Z",
-      "content": "FDA is Stonewalling a 2013 Petition for Better Food Regs\r\nBy Kimberly Roberson\r\nThis time of year marks anniversaries of three major nuclear disasters: Fukushima, Three Mile Island, and Chernobyl on … [+12527 chars]"
+      "author": "Laura Harris",
+      "title": "Soybeans: The ancient superfood powering modern diets",
+      "description": "Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War II, and are now widely cultivated, with the U.S., Brazil and Argenti…",
+      "url": "https://www.naturalnews.com/2025-03-27-soybeans-ancient-superfood-powering-modern-diets.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/03/Soy-Beans-Closeup-Bulk-Food.jpg",
+      "publishedAt": "2025-03-27T06:00:00Z",
+      "content": "<ul><li>Soybeans originated in ancient China over 5,000 years ago and were valued for their nutritional and medicinal properties. They spread globally, becoming a key protein source during World War … [+7565 chars]"
     }
   ],
   "totalResults": 92,
