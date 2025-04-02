@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-04-02T06:32:34.553Z",
+  "lastUpdated": "2025-04-02T12:48:12.511Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Walker’s Wine Juice LLC Recalls Product Due to Possible Health Risk",
+      "description": "Walker’s Wine Juice LLC of Forestville, NY is recalling its pumpkin juice because it may be contaminated with Botulism.  Botulism is a potentially fatal form of food poisoning and can cause the following symptoms: general weakness, dizziness, double-vision, a…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walkers-wine-juice-llc-recalls-product-due-possible-health-risk",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-04-01T12:36:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nApril 01, 2025\r\nFDA Publish Date:\r\nApril 01, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nJuice\r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Descrip… [+1799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Brett Gardner's Son May Have Died of Carbon Monoxide Poisoning",
+      "description": "Brett Gardner's 14-year-old son Miller may have died from carbon monoxide poisoning, Costa Rica's Judicial Investigation Agency (OIJ) announced Monday. OIJ Director Rándall Zúñiga revealed via a press briefing high levels of carbon monoxide were…\n Permalink",
+      "url": "https://www.tmz.com/2025/04/01/brett-gardner-son-miller-dead-potential-carbon-monoxide-poisoning/",
+      "urlToImage": "https://imagez.tmz.com/image/44/16by9/2025/03/23/44973b8535fc4d568205eeead50269ea_xl.jpg",
+      "publishedAt": "2025-04-01T12:21:27Z",
+      "content": "Brett Gardner's 14-year-old son Miller may have died from carbon monoxide poisoning, Costa Rica's Judicial Investigation Agency (OIJ) announced Monday.\r\nOIJ Director Rándall Zúñiga revealed via a pre… [+1189 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Caroline O'Doherty, Environment Correspondent",
+      "title": "Craft glitter causing major damage to marine life, Trinity scientists reveal",
+      "description": "Craft glitter that adds sparkle to decorations, cards and costumes is escaping into our seas and destroying marine creatures.",
+      "url": "https://www.independent.ie/irish-news/craft-glitter-causing-major-damage-to-marine-life-trinity-scientists-reveal/a1595331976.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/cRWAO000zC1b8m6tNXRfe90M13w=/0x0:2879x1919/629x0/prod-mh-ireland/36965f41-8143-40d1-8f8f-a63c77aa4442/e1558ba6-a011-4cd1-8ca1-8498ab0ec7c0/36965f41-8143-40d1-8f8f-a63c77aa4442.jpg",
+      "publishedAt": "2025-04-01T11:54:56Z",
+      "content": "Craft glitter that adds sparkle to decorations, cards and costumes is escaping into our seas and destroying marine creatures.The tiny pieces of plastic and metal not only end up in the stomachs of fi… [+3079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "France’s antitrust authority fines Apple €150M for issues related to its App Tracking Transparency",
+      "description": "France fines Apple €150M for abusing its dominance in ATT consent practices on iOS and iPadOS from 2021 to 2023. France’s Autorité de la concurrence fined Apple €150M for abusing its dominance in App Tracking Transparency (ATT) consent practices on iOS and iP…",
+      "url": "https://securityaffairs.com/176092/laws-and-regulations/frances-antitrust-authority-fines-apple-e150m.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image.png",
+      "publishedAt": "2025-04-01T11:30:59Z",
+      "content": "Frances antitrust authority fines Apple 150M for issues related to its App Tracking Transparency\r\n | Hiding WordPress malware in the mu-plugins directory to avoid detection\r\n | U.S. CISA adds Cisco S… [+152155 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Katy Jones, Forbes Councils Member, \n Katy Jones, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/katyjones/",
+      "title": "How AI Is Transforming The Food Industry: The Future Of Food Safety, Compliance And Innovation",
+      "description": "The food industry is entering a new era, and AI is leading the way.",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2025/04/01/how-ai-is-transforming-the-food-industry-the-future-of-food-safety-compliance-and-innovation/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/643e9f298645fe9c10a008a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-01T10:45:00Z",
+      "content": "Katy Jones, CEO Trustwell.\r\ngetty\r\nAI is reshaping the food industry in ways that were once thought impossible. From improving food safety and compliance to revolutionizing supply chain management an… [+6377 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jackson Thompson",
+      "title": "Ex-Yankees star Brett Gardner's son may have died from carbon monoxide poisoning, authorities say",
+      "description": "Costa Rican authorities told reporters that carbon monoxide poisoning may caused the mysterious death of former Yankees star Brett Gardner's son, Miller.",
+      "url": "https://www.foxnews.com/sports/ex-yankees-star-brett-gardners-son-may-have-died-from-carbon-monoxide-poisoning-authorities-say",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/miller-gardner-fmaily.jpg",
+      "publishedAt": "2025-04-01T09:57:17Z",
+      "content": "Costa Rican authorities provided an update regarding the investigation into the death of Miller Gardner, the 14-year-old son of former New York Yankees player Brett Gardner. \r\nCosta Rican Judicial In… [+3400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "$1.7 Billion Green Water Treatment Chemicals Market Analysis Report 2025: Forecast to Reach $2.25 Billion by 2029, Led by Kemira, Veolia, Ecolab, Kurita, Solenis",
+      "description": "Dublin, April 01, 2025 (GLOBE NEWSWIRE) -- The \"Green Water Treatment Chemicals Market by Type (Coagulant & Flocculants, Corrosion & Scale Inhibitors, Biocides & Disinfectants), Source (Plant, Animal, Mineral), Application, End-Use Industry (Municipal, Indust…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/01/3053058/28124/en/1-7-Billion-Green-Water-Treatment-Chemicals-Market-Analysis-Report-2025-Forecast-to-Reach-2-25-Billion-by-2029-Led-by-Kemira-Veolia-Ecolab-Kurita-Solenis.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-04-01T08:06:00Z",
+      "content": "Dublin, April 01, 2025 (GLOBE NEWSWIRE) -- The \"Green Water Treatment Chemicals Market by Type (Coagulant &amp; Flocculants, Corrosion &amp; Scale Inhibitors, Biocides &amp; Disinfectants), Source (P… [+9198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Hiding WordPress malware in the mu-plugins directory to avoid detection",
+      "description": "Sucuri researchers spotted threat actors deploying WordPress malware in the mu-plugins directory to evade security checks. In February, Sucuri warned of threat actors exploiting WordPress mu-plugins, which auto-load without activation, to maintain persistence…",
+      "url": "https://securityaffairs.com/176083/malware/wordpress-malware-in-the-mu-plugins-directory.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-61.png",
+      "publishedAt": "2025-04-01T07:45:44Z",
+      "content": "Hiding WordPress malware in the mu-plugins directory to avoid detection\r\n | U.S. CISA adds Cisco Smart Licensing Utility flaw to its Known Exploited Vulnerabilities catalog\r\n | Russia-linked Gamaredo… [+152054 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -169,6 +273,19 @@
       "urlToImage": "https://aarp.widen.net/content/34qcpkvh0u/jpeg/web-GettyImages-499164497.jpg?crop=true&anchor=0,1&q=80&color=ffffffff&u=k2e9ec&w=418&h=240",
       "publishedAt": "2025-03-31T18:22:49Z",
       "content": "This article was created with the assistance of generative AI. It was reviewed by editors before publication.\r\nApproximately 212,000 pounds of liquid egg products produced March 12 and 13, were recal… [+1900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Men's Journal"
+      },
+      "author": "Andrew Holleran",
+      "title": "Popular Restaurant Closing 2,000 Locations After Rat Is Found in Soup",
+      "description": "A popular restaurant is shutting down roughly 2,000 locations after a rat was found in a bowl of soup, among other disturbing food findings. Sukiya, a...",
+      "url": "https://www.mensjournal.com/news/popular-restaurant-closing-2000-locations-after-rat-is-found-in-soup",
+      "urlToImage": "https://media.zenfs.com/en/men_s_journal_718/9362a696f1a96392bed3253b7ba2f4fc",
+      "publishedAt": "2025-03-31T17:49:49Z",
+      "content": "A popular restaurant is shutting down roughly 2,000 locations after a rat was found in a bowl of soup, among other disturbing food findings.\r\nSukiya, a Japanese restaurant chain, is temporarily shutt… [+1881 chars]"
     },
     {
       "source": {
@@ -1092,123 +1209,6 @@
       "urlToImage": "https://api.time.com/wp-content/uploads/2025/03/eggs.jpg?quality=85&w=1024&h=628&crop=1",
       "publishedAt": "2025-03-28T09:30:00Z",
       "content": "SCHOENEICHE, Germany The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit … [+7273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Malaysia Fertilizer Market Outlook Report 2025-2033 Featuring Analysis of Key Players - Yara International, K+S, CF Industries, GrupaAzoty, ICL Group & More",
-      "description": "Dublin, March 28, 2025 (GLOBE NEWSWIRE) -- The \"Malaysia Fertilizer Market Size and Share Analysis - Growth Trends and Forecast Report 2025-2033\" report has been added to ResearchAndMarkets.com's offering.The Malaysian fertilizers market will be worth US$ 1.3…",
-      "url": "https://www.globenewswire.com/news-release/2025/03/28/3051212/28124/en/Malaysia-Fertilizer-Market-Outlook-Report-2025-2033-Featuring-Analysis-of-Key-Players-Yara-International-K-S-CF-Industries-GrupaAzoty-ICL-Group-More.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-03-28T09:19:00Z",
-      "content": "Dublin, March 28, 2025 (GLOBE NEWSWIRE) -- The \"Malaysia Fertilizer Market Size and Share Analysis - Growth Trends and Forecast Report 2025-2033\" report has been added to ResearchAndMarkets.com's off… [+13049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iasbaba.com"
-      },
-      "author": "IASbaba",
-      "title": "[DAY 16] 60 DAY RAPID REVISION (RaRe) SERIES for UPSC Prelims 2025 – HISTORY, CURRENT AFFAIRS & CSAT TEST SERIES!",
-      "description": "Archives Hello Friends The 60 Days Rapid Revision (RaRe) Series is IASbaba’s Flagship Initiative recommended by Toppers and loved by the aspirants’ community every year. It is the most comprehensive program which will help you complete the syllabus, revise an…",
-      "url": "https://iasbaba.com/2025/03/day-16-60-day-rapid-revision-rare-series-for-upsc-prelims-2025-history-current-affairs-csat-test-series/",
-      "urlToImage": "https://iasbaba.com/wp-content/uploads/2025/03/60-Days-Rapid-Revision-Series-UPSC-Prelims-2025.jpg",
-      "publishedAt": "2025-03-28T09:17:09Z",
-      "content": "Hello Friends\r\nThe 60 Days Rapid Revision (RaRe) Series is IASbabas Flagship Initiative recommended by Toppers and loved by the aspirants community every year.\r\nIt is the most comprehensive program w… [+91965 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "AP",
-      "title": "US on egg hunt in Europe to ease prices at home",
-      "description": "The US is seeking egg imports from Europe due to a severe egg shortage caused by bird flu. The US approached countries like Germany, Italy, and Poland, but different safety standards and their own shortages make it difficult. European producers may export pow…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-on-egg-hunt-in-europe-to-ease-prices-at-home/articleshow/119644761.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-119644812,width-1200,height-630,imgsize-251712,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-03-28T08:51:30Z",
-      "content": "The US government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit record highs. Germany, … [+7202 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "VANESSA GERA Associated Press, KERSTIN SOPKE Associated Press",
-      "title": "The US is on an egg hunt in Europe to ease prices at home",
-      "description": "The U.S. government is on a global egg hunt",
-      "url": "https://abcnews.go.com/US/wireStory/us-egg-hunt-europe-ease-prices-home-120247797",
-      "urlToImage": "https://i.abcnewsfe.com/a/a4f53006-9dbc-40ea-91e8-4044b4d36f46/wirestory_1b61adf77056da7a0bbae2c50de8b6bf_16x9.jpg?w=1600",
-      "publishedAt": "2025-03-28T06:37:36Z",
-      "content": "SCHOENEICHE, Germany -- The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to h… [+7120 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "The Associated Press",
-      "title": "The US is on an egg hunt in Europe to ease prices at home",
-      "description": "SCHOENEICHE, Germany (AP) — The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to hit record highs. Germany, Italy, Poland and Sweden are a…",
-      "url": "https://financialpost.com/pmn/the-us-is-on-an-egg-hunt-in-europe-to-ease-prices-at-home",
-      "urlToImage": null,
-      "publishedAt": "2025-03-28T06:15:33Z",
-      "content": "Author of the article:\r\nArticle content\r\nSCHOENEICHE, Germany (AP) The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that h… [+10421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "VANESSA GERA and KERSTIN SOPKE",
-      "title": "The US is on an egg hunt in Europe to ease prices at home",
-      "description": "The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at...",
-      "url": "https://www.yahoo.com/news/us-egg-hunt-europe-ease-060936830.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4eBfCy7IjDidCaTb6NVHcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/f8e08535f31540a7f85d1b3bb7a1eebd",
-      "publishedAt": "2025-03-28T06:09:36Z",
-      "content": "SCHOENEICHE, Germany (AP) The U.S. government is on a global egg hunt, seeking exports from countries in Europe and elsewhere to ease a severe shortage that has caused egg prices at grocery stores to… [+7258 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Amy Sheehan",
-      "title": "Can you take fresh produce back to the supermarket if it's poor quality?",
-      "description": "We're paying more for our food than ever, and experts say that's reason enough to be fussy about the quality.",
-      "url": "https://www.abc.net.au/news/2025-03-28/returning-bad-quality-fruit-and-veg/105099042",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/00c478d8bd2e65646d12339e0903926c?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=41&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-03-28T03:58:30Z",
-      "content": "Most of us have probably felt the pang of disappointment after biting or cutting into fresh produce, only to find it's brown and mushy inside.  \r\nOr maybe you've opened a bag of pre-packaged fruit an… [+4395 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Trump claims egg prices down by 50%; says 'the problem with eggs was Joe Biden' amid historic highs",
-      "description": "US President Donald Trump claimed that egg prices in America were down by 50 per cent during his keynote address at the White House Iftaar Party. He also mocked the media for reporting that egg prices had increased and blamed former President Joe Biden for th…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-claims-egg-prices-down-by-50-says-the-problem-with-eggs-was-joe-biden-amid-historic-highs/articleshow/119627971.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-119628959,width-1200,height-630,imgsize-1101192,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-03-28T03:17:24Z",
-      "content": "US President Donald Trump on Thursday said that egg prices were down by as much as 50 per cent across America, a statement that contradicts reality. Trump made the claim while delivering his keynote … [+4735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Popular tortilla chips urgently recalled for serious health risk - NewsBreak",
-      "description": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. The company issued a press release on Wednesday about a limit",
-      "url": "https://www.newsbreak.com/share/3874265264915-popular-tortilla-chips-urgently-recalled-for-serious-health-risk?s=a1&share_destination_id=MjIyNjM5MTg4LTE3NDMxMjI1NTc2NTk%3D&pd=0F4AceNL&hl=en_US&send_time=1743122557&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.12.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q1-v1%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_25q2-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/4ccIGz_0zynsA4H00",
-      "publishedAt": "2025-03-28T02:34:19Z",
-      "content": "Frito-Lay has issued a recall on certain bags of Tostitos chips over an undeclared allergen. \r\n The company issued a press release on Wednesday about a limited number of 13-ounce bags of Tostitos Can… [+2958 chars]"
     }
   ],
   "totalResults": 93,
