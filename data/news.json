@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-04-03T18:31:25.111Z",
+  "lastUpdated": "2025-04-04T01:50:32.466Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Elifesciences.org"
+      },
+      "author": "patrik.verstreken@kuleuven.be (Adekunle T Bademosi), patrik.verstreken@kuleuven.be (Carles Calatayud Aristoy), patrik.verstreken@kuleuven.be (Gert J Hulselmans), patrik.verstreken@kuleuven.be (Jasper Janssens), patrik.verstreken@kuleuven.be (Jef Swerts), patrik.verstreken@kuleuven.be (Kristofer Davie), patrik.verstreken@kuleuven.be (Nils Schoovaerts), patrik.verstreken@kuleuven.be (Patrik Verstreken), patrik.verstreken@kuleuven.be (Sabine Kuenen), patrik.verstreken@kuleuven.be (Samira Makhzami), patrik.verstreken@kuleuven.be (Sandra F Gallego), patrik.verstreken@kuleuven.be (Stein Aerts), patrik.verstreken@kuleuven.be (Suresh Poovathingal), patrik.verstreken@kuleuven.be (Sven Vilain), patrik.verstreken@kuleuven.be (Ulrike Pech)",
+      "title": "Synaptic deregulation of cholinergic projection neurons causes olfactory dysfunction across five fly Parkinsonism models",
+      "description": "The classical diagnosis of Parkinsonism is based on motor symptoms that are the consequence of nigrostriatal pathway dysfunction and reduced dopaminergic output. However, a decade prior to the emergence of motor issues, patients frequently experience non-moto…",
+      "url": "https://elifesciences.org/articles/98348",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "content": "Experimental model details\r\nRequest a detailed protocol\r\nThe control we refer to is a semi-isogenized w1118 backcrossed to CantonS for 10 generations (cantonized w1118). We sequenced the entire genom… [+36117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Visalia Times-Delta and Tulare Advance-Register"
+      },
+      "author": "Gabe Hauari, USA TODAY",
+      "title": "National Burrito Day 2025: Get deals, freebies at Chipotle, Taco Bell, more this year",
+      "description": "April 3 is National Burrito Day, and restaurant chains are celebrating with deals and freebies. See where to get yours in California.",
+      "url": "https://www.visaliatimesdelta.com/story/life/food/2025/04/02/national-burrito-day-2025-where-to-get-deals-freebies-on-april-3/82784172007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lFC5An8PJ3.iNMvTmOY50A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNTAw/https://media.zenfs.com/en/visalia-times-delta-tulare-advance-register/feaead6708da3051bc02d05c10a16c6d",
+      "publishedAt": "2025-04-02T23:26:21Z",
+      "content": "While April 1 is known for being a national day of jokes and pranks, April 3 is known for something a little more appetizing burritos.\r\nThe burrito, which translates to \"little donkey,\" likely arose … [+3557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Pet Treat Recall Sparks Warning to Customers",
+      "description": "Supercan Bulk is recalling their Pig Ear Slivers-Thick Cut Piggy Ear Slices treats this week amid fears of potential Salmonella contamination.\nWhy It Matters\nNumerous food recalls have been initiated in 2025 due to potentially damaged products, foodborne illn…",
+      "url": "https://biztoc.com/x/1c88ea482e33a684",
+      "urlToImage": "https://biztoc.com/cdn/1c88ea482e33a684_s.webp",
+      "publishedAt": "2025-04-02T22:27:24Z",
+      "content": "Supercan Bulk is recalling their Pig Ear Slivers-Thick Cut Piggy Ear Slices treats this week amid fears of potential Salmonella contamination.Why It MattersNumerous food recalls have been initiated i… [+136 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Pet Treat Recall Sparks Warning to Customers",
+      "description": "Supercan Bulk is recalling their Pig Ear Slivers treats this week amid fears of potential Salmonella contamination.",
+      "url": "https://www.newsweek.com/pet-treat-recall-warning-2054550",
+      "urlToImage": "https://d.newsweek.com/en/full/2619812/pet-treats.jpg",
+      "publishedAt": "2025-04-02T22:22:31Z",
+      "content": "Supercan Bulk is recalling their Pig Ear Slivers-Thick Cut Piggy Ear Slices treats this week amid fears of potential Salmonella contamination.\r\nWhy It Matters\r\nNumerous food recalls have been initiat… [+2905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New advanced FIN7’s Anubis backdoor allows to gain full system control on Windows",
+      "description": "FIN7 cybercrime group has been linked to Anubis, a Python-based backdoor that provides remote access to compromised Windows systems. The threat actor FIN7, also known as Savage Ladybug, has developed a new Python-based malware, named Anubis Backdoor, which al…",
+      "url": "https://securityaffairs.com/176134/malware/new-advanced-fin7s-anubis-backdoor-allows-to-gain-full-system-control-on-windows.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-3.png",
+      "publishedAt": "2025-04-02T21:38:24Z",
+      "content": "New advanced FIN7's Anubis backdoor allows to gain full system control on Windows\r\n | U.S. CISA adds Apache Tomcat flaw to its Known Exploited Vulnerabilities catalog\r\n | Apple backported fixes for t… [+152611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "TuffWrap Installations, Inc.",
+      "title": "MULTIMEDIA UPDATE – TuffWrap Special Ops Team is Mission-Ready Across North America",
+      "description": "The tip of the spear in fighting dust, debris, and weather during construction The tip of the spear in fighting dust, debris, and weather during construction",
+      "url": "https://www.globenewswire.com/news-release/2025/04/02/3054748/0/en/MULTIMEDIA-UPDATE-TuffWrap-Special-Ops-Team-is-Mission-Ready-Across-North-America.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f62564bf-68f2-43b3-96af-5469ee6e8741",
+      "publishedAt": "2025-04-02T21:28:00Z",
+      "content": "HARLEYSVILLE, Pa., April 02, 2025 (GLOBE NEWSWIRE) -- In a release issued yesterday by TuffWrap Installations, Inc. (tuffwrap.com), the company is updating this release to include an updated video li… [+4411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Taylor Leamey",
+      "title": "Microplastics Aren't Just Found in Seafood Anymore. The 9 Other Foods With More Microplastics Than You Think",
+      "description": "Microplastics are in our water, air and seafood. It's been recently discovered to be in chewing gum, too. Here's what to know about microplastics in your foods.",
+      "url": "https://www.cnet.com/health/nutrition/microplastics-arent-just-found-in-seafood-anymore-9-other-foods/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-02T19:31:00Z",
+      "content": "A new study from the University of California, Los Angeles has discovered that there are microplastics in chewing gum. Both natural and synthetic gum releases microplastics into the mouth when chewed… [+10430 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1105,97 +1196,6 @@
       "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/06/03194559/Water-scarcity.jpg",
       "publishedAt": "2025-03-31T13:39:47Z",
       "content": "Some Lagos residents have called on the state government to make potable water accessible to reduce the huge amount of money spent on buying water.\r\nThey disclosed this in separate interviews with th… [+6096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "CoffeeLoader uses a GPU-based packer to evade detection",
-      "description": "CoffeeLoader is a sophisticated malware that uses numerous techniques to bypass security solutions, Zscaler ThreatLabz warns. Zscaler ThreatLabz discovered CoffeeLoader, a malware family active since September 2024, that uses multiple techniques to evade endp…",
-      "url": "https://securityaffairs.com/176046/malware/coffeeloader-is-a-sophisticated-malware.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/08/malware.jpg",
-      "publishedAt": "2025-03-31T13:35:30Z",
-      "content": "CoffeeLoader uses a GPU-based packer to evade detection\r\n | Morphing Meerkat phishing kits exploit DNS MX records\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 39\r\n | Security Affairs newsletter Roun… [+151817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "author": null,
-      "title": "Non-infectious environmental hazards: migrant health guide",
-      "description": "Advice and guidance on the health needs of migrant patients for healthcare practitioners.",
-      "url": "https://www.gov.uk/guidance/non-infectious-environmental-hazards-migrant-health-guide",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
-      "publishedAt": "2025-03-31T13:25:59Z",
-      "content": "Main messages\r\nSome migrant patients may be at increased risk of illness arising from chemical exposure. This may either be prior to arrival in the UK or in the UK as a result of consumption of impor… [+7591 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "PRIMEBIOME®",
-      "title": "Prime Biome (REVIEW INVESTIGATION): Gut & Skin Health Supplement Put Under Medical Microscope",
-      "description": "Why are thousands of users calling Prime Biome the “gut-skin reset” of 2025? Early adopters say the results are shocking—and dermatologists are finally taking notice. Why are thousands of users calling Prime Biome the “gut-skin reset” of 2025? Early adopters …",
-      "url": "https://www.globenewswire.com/news-release/2025/03/31/3052361/0/en/Prime-Biome-REVIEW-INVESTIGATION-Gut-Skin-Health-Supplement-Put-Under-Medical-Microscope.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/73771ab6-2c60-483a-aeca-c9710e42eae0",
-      "publishedAt": "2025-03-31T13:04:00Z",
-      "content": "Bellingham, WASHINGTON, March 31, 2025 (GLOBE NEWSWIRE) -- \r\n PRIME BIOME\r\nWhen a supplement gains massive popularity, it's natural for questions and concerns to arise. Does Prime Biome have side eff… [+40979 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Agency Report",
-      "title": "Residents decry water scarcity in parts of Lagos, demand govt action",
-      "description": "Some Lagos residents have called on the state government to make potable water accessible to reduce the huge amount of money spent on buying water. They disclosed this in separate interviews with the News Agency of Nigeria on Monday in Lagos, against the Worl…",
-      "url": "https://punchng.com/residents-decry-water-scarcity-in-parts-of-lagos-demand-govt-action/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/06/03194559/Water-scarcity.jpg",
-      "publishedAt": "2025-03-31T12:52:24Z",
-      "content": "Some Lagos residents have called on the state government to make potable water accessible to reduce the huge amount of money spent on buying water.\r\nThey disclosed this in separate interviews with th… [+6096 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Restaurant chain to shut 2,000 branches after rat found in soup",
-      "description": "Sukiya will temporarily shut nearly all of its roughly 2,000 branches after a rat was found in a miso soup and a bug in another meal, the company said.",
-      "url": "https://www.cbsnews.com/news/sukiya-rat-found-soup-japan-restaurant-shutting-2000-branches/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/03/31/a9ccc07a-5819-4787-bb95-905b45d01d25/thumbnail/1200x630/39fc932c106f0daba9adb5a9a8487b66/gettyimages-2207037191.jpg?v=95354023eeb6141c58c08d9a5716f291",
-      "publishedAt": "2025-03-31T10:26:01Z",
-      "content": "Japanese restaurant chain Sukiya will temporarily shut nearly all of its roughly 2,000 branches after a rat was found in a miso soup and a bug in another meal, the company said Saturday.\r\nSukiya, fam… [+1410 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Morphing Meerkat phishing kits exploit DNS MX records",
-      "description": "Morphing Meerkat phishing kits exploit DNS MX records to deliver spoofed login pages, targeting over 100 brands. Infoblox researchers discovered a new phishing-as-a-service (PhaaS) platform that generated multiple phishing kits, called Morphing Meerkat, using…",
-      "url": "https://securityaffairs.com/176029/cyber-crime/morphing-meerkat-phishing-kits-exploit-dns-mx.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/03/image-59.png",
-      "publishedAt": "2025-03-31T08:30:57Z",
-      "content": "Morphing Meerkat phishing kits exploit DNS MX records\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 39\r\n | Security Affairs newsletter Round 517 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Sams C… [+151757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Vincent Ho, Associate Professor and Clinical Academic Gastroenterologist, Western Sydney University",
-      "title": "Why have supermarkets around Australia recalled bagged salad products? A gastroenterologist explains",
-      "description": "The culprit behind the recalls is ‘shiga-toxin-producing E. coli’. What do you need to know about this bacterium?",
-      "url": "https://theconversation.com/why-have-supermarkets-around-australia-recalled-bagged-salad-products-a-gastroenterologist-explains-253427",
-      "urlToImage": "https://images.theconversation.com/files/658579/original/file-20250331-68-3d452f.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5991%2C2991&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-03-31T06:33:10Z",
-      "content": "Kristi Blokhin/Shutterstock\r\nPeople are being asked to check the use-by dates of bagged salad products they’ve purchased recently after a number of Australian supermarkets issued recalls due to poten… [+4648 chars]"
     }
   ],
   "totalResults": 92,
