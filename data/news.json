@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-04-05T01:49:00.161Z",
+  "lastUpdated": "2025-04-05T06:29:59.061Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Toshita Sahni, Neha Grover",
+      "title": "Unsafe Food, Infestation And Lack Of Hygiene Flagged At Sodexo India's Unit In Hyderabad",
+      "description": "The officials went to the Central Production Unit of Sodexo India Services Pvt. Ltd. in the Kondapur area. They found multiple food safety violations.",
+      "url": "https://www.ndtv.com/food/unsafe-food-infestation-and-lack-of-hygiene-flagged-at-sodexo-indias-unit-in-hyderabad-8084167",
+      "urlToImage": "https://c.ndtvimg.com/2025-04/cejcjasg_lack-of-hygiene-flagged-at-sodexo-indias-unit-in-hyderabad_625x300_04_April_25.png",
+      "publishedAt": "2025-04-04T06:19:05Z",
+      "content": "A task force representing Telangana's Food Safety Commissioner has been conducting inspections across the state over the past several months. The team recently inspected a Sodexo production unit in H… [+2247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Tofu: Health benefits, nutrients and healthy ways to eat this superfood",
+      "description": "Tofu, or bean curd, originated in China over 2,000 years ago during the Han Dynasty. It spread across Asia, becoming a staple in Buddhist vegetarian diets, and gained global popularity in the 20th century. A complete source of plant-based protein, tofu contai…",
+      "url": "https://www.naturalnews.com/2025-04-04-health-benefits-nutrients-healthy-recipes-tofu-superfood.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/tofu-3.jpg",
+      "publishedAt": "2025-04-04T06:00:00Z",
+      "content": "<ul><li>Tofu, or bean curd, originated in China over 2,000 years ago during the Han Dynasty. It spread across Asia, becoming a staple in Buddhist vegetarian diets, and gained global popularity in the… [+7307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Finn Heartley",
+      "title": "Florida skies contaminated: Shocking levels of aluminum, mercury, and lead found in atmospheric fallout",
+      "description": "Independent tests by Mike Adams and Dr. Jane Ruby reveal alarming levels of heavy metals (aluminum, lead, cadmium, mercury) and unnatural biological structures in airborne deposits. Microscopy shows bizarre blue filaments, egg-like biomasses, and microchip-li…",
+      "url": "https://www.naturalnews.com/2025-04-04-shocking-levels-of-aluminum-mercury-lead-found-in-atmospheric-fallout.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-04-BBN-Interview-with-Jane-Ruby.jpg",
+      "publishedAt": "2025-04-04T06:00:00Z",
+      "content": "<ul><li>Independent tests by Mike Adams and Dr. Jane Ruby reveal alarming levels of heavy metals (aluminum, lead, cadmium, mercury) and unnatural biological structures in airborne deposits.</li><li>M… [+6267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Prenatal phthalate exposure linked to disrupted newborn metabolism and impaired neurodevelopment",
+      "description": "Chemical Culprit: Phthalates, common in everyday products, can disrupt fetal development. Metabolic Disruption: Prenatal exposure to phthalates alters newborn metabolomes, particularly affecting tyrosine and tryptophan pathways. Neurodevelopmental Impact: Inf…",
+      "url": "https://www.naturalnews.com/2025-04-04-prenatal-phthalate-exposure-linked-to-impaired-infant-neurodevelopment.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Crying-Newborn-Baby-1.jpg",
+      "publishedAt": "2025-04-04T06:00:00Z",
+      "content": "<ul><li>Chemical Culprit: Phthalates, common in everyday products, can disrupt fetal development.</li><li>Metabolic Disruption: Prenatal exposure to phthalates alters newborn metabolomes, particularl… [+6683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "How To Keep Curd Fresh And Creamy In Summer: 6 Proven Tips For Storing",
+      "description": "The soaring temperature in summer can affect the shelf life of curd, causing it to turn sour or watery faster. Here are some foolproof storage tips for you.",
+      "url": "https://food.ndtv.com/how-to/how-to-keep-curd-fresh-and-creamy-in-summer-6-proven-tips-for-storing-8082940",
+      "urlToImage": "https://c.ndtvimg.com/2024-12/v3tc5jl8_curd_625x300_12_December_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2025-04-04T03:29:58Z",
+      "content": "Come summer, and we look for cooling food options to soothe ourselves from within. Curd, a kitchen staple across India, makes a great food choice to beat the sweltering heat. It is enriched with prob… [+4862 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Alexander Tin",
+      "title": "FDA bird flu testing efforts disrupted by RFK Jr.'s layoffs, officials say",
+      "description": "Multiple FDA labs were cut amid Health and Human Services Secretary Robert F. Kennedy Jr.'s layoffs this week.",
+      "url": "https://www.cbsnews.com/news/fda-bird-flu-testing-efforts-disrupted-rfk-jr-layoffs/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/03/27/6329f472-2623-4c58-bc2d-cde7be144404/thumbnail/1200x630/e5060796bd963165cf21ca2a0a8741cb/ap25073750681861.jpg?v=7613930c2bdb7d1bf55be910a9b022f2",
+      "publishedAt": "2025-04-04T01:57:16Z",
+      "content": "Some of the Food and Drug Administration's efforts to support testing for the ongoing bird flu outbreak have been disrupted due to steep layoffs at the agency, multiple officials told CBS News Thursd… [+3761 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1144,84 +1222,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/htssi0/article69400492.ece/alternates/LANDSCAPE_1200/BL02_Think_orbit_space.jpg",
       "publishedAt": "2025-04-01T13:44:48Z",
       "content": "Space exploration, once the domain of governments, has opened up a new horizon for the private sector. It all started with the launch of SpaceX in 2002, whose mission is to revolutionise space techno… [+7987 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Japan Food Wrapping Film Market to Worth Over US$ 1,555.62 Million By 2033 | Astute Analytica",
-      "description": "Japan’s food wrapping film market is set for sustained growth, fueled by cultural values, demographic shifts, environmental policies, and technological innovations. As sustainability and convenience dominate, manufacturers must innovate to meet this dynamic m…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/01/3053478/0/en/Japan-Food-Wrapping-Film-Market-to-Worth-Over-US-1-555-62-Million-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-04-01T13:30:00Z",
-      "content": "Chicago, April 01, 2025 (GLOBE NEWSWIRE) -- According to recent analysis conducted by Astute Analytica, the Japan food wrapping film market was valued at US$ 677.30 billion in 2024 and is expected to… [+16813 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Supercan Bulk Recalls a Single Lot of Pig Ear Slivers Pet Treats Due to Salmonella Contamination",
-      "description": "4/1/2025, Supercan Bulk of Miami, Florida is recalling one lot of Supercan Pig Ear Slivers- Thick Cut Piggy Ear Slices pet treats in 500 piece bags, 15.9 oz, expiration date 11/09/2026, due to Salmonella contamination.",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/supercan-bulk-recalls-single-lot-pig-ear-slivers-pet-treats-due-salmonella-contamination",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-04-01T13:30:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nApril 01, 2025\r\nFDA Publish Date:\r\nApril 02, 2025\r\nProduct Type:\r\nAnimal &amp; Veterinary \r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential Foodbor… [+2712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chris Cwik",
-      "title": "Death of Brett Gardner's son Miller being investigated as possible carbon-monoxide poisoning",
-      "description": "Investigators suggest Miller Gardner's death may have been due to \"inhaling hazardous gases.\"",
-      "url": "https://sports.yahoo.com/mlb/article/death-of-brett-gardners-son-miller-being-investigated-as-possible-carbon-monoxide-poisoning-131408606.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WJOzWzcDbBzu0N..sYaGXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e551d10-0efa-11f0-bd11-fc01b299cb53",
-      "publishedAt": "2025-04-01T13:14:08Z",
-      "content": "(Mike Stobe via Getty Images)\r\nThe death of former New York Yankees outfielder Brett Gardner's son is now being investigated as a possible carbon-monoxide poisoning, investigators said Monday.\r\nGardn… [+1552 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Walker’s Wine Juice LLC Recalls Product Due to Possible Health Risk",
-      "description": "Walker’s Wine Juice LLC of Forestville, NY is recalling its pumpkin juice because it may be contaminated with Botulism.  Botulism is a potentially fatal form of food poisoning and can cause the following symptoms: general weakness, dizziness, double-vision, a…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walkers-wine-juice-llc-recalls-product-due-possible-health-risk",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-04-01T12:36:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nApril 01, 2025\r\nFDA Publish Date:\r\nApril 01, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nJuice\r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Descrip… [+1799 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "author": "TMZ Staff",
-      "title": "Brett Gardner's Son May Have Died of Carbon Monoxide Poisoning",
-      "description": "Brett Gardner's 14-year-old son Miller may have died from carbon monoxide poisoning, Costa Rica's Judicial Investigation Agency (OIJ) announced Monday. OIJ Director Rándall Zúñiga revealed via a press briefing high levels of carbon monoxide were…\n Permalink",
-      "url": "https://www.tmz.com/2025/04/01/brett-gardner-son-miller-dead-potential-carbon-monoxide-poisoning/",
-      "urlToImage": "https://imagez.tmz.com/image/44/16by9/2025/03/23/44973b8535fc4d568205eeead50269ea_xl.jpg",
-      "publishedAt": "2025-04-01T12:21:27Z",
-      "content": "Brett Gardner's 14-year-old son Miller may have died from carbon monoxide poisoning, Costa Rica's Judicial Investigation Agency (OIJ) announced Monday.\r\nOIJ Director Rándall Zúñiga revealed via a pre… [+1189 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "author": "Caroline O'Doherty, Environment Correspondent",
-      "title": "Craft glitter causing major damage to marine life, Trinity scientists reveal",
-      "description": "Craft glitter that adds sparkle to decorations, cards and costumes is escaping into our seas and destroying marine creatures.",
-      "url": "https://www.independent.ie/irish-news/craft-glitter-causing-major-damage-to-marine-life-trinity-scientists-reveal/a1595331976.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/cRWAO000zC1b8m6tNXRfe90M13w=/0x0:2879x1919/629x0/prod-mh-ireland/36965f41-8143-40d1-8f8f-a63c77aa4442/e1558ba6-a011-4cd1-8ca1-8498ab0ec7c0/36965f41-8143-40d1-8f8f-a63c77aa4442.jpg",
-      "publishedAt": "2025-04-01T11:54:56Z",
-      "content": "Craft glitter that adds sparkle to decorations, cards and costumes is escaping into our seas and destroying marine creatures.The tiny pieces of plastic and metal not only end up in the stomachs of fi… [+3079 chars]"
     }
   ],
   "totalResults": 94,
