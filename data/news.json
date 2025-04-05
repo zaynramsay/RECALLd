@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-04-05T06:29:59.061Z",
+  "lastUpdated": "2025-04-05T12:40:44.947Z",
   "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Calgary daycare chain hits parents with 'optional' $330 meal fee while prohibiting outside food",
+      "description": "The province says this is not allowed under its new fee regulations that took effect on April 1, but Clever Daycare says the rules are unclear and possibly contradict other provincial guidance on food safety.",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-clever-daycare-meal-fee-new-alberta-rules-april-2025-1.7499979",
+      "urlToImage": "https://i.cbc.ca/1.7499980.1743606846!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/clever-daycare.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-04-04T11:00:00Z",
+      "content": "Parents with kids in a Calgary daycare chain say they feel taken advantage of after new provincial rules took effect on April 1 that set a flat monthly rate of $326 for basic care but also allow oper… [+7074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STAT"
+      },
+      "author": "Katherine O'malley",
+      "title": "The FDA’s hands-off approach to pet food nutrition",
+      "description": "The system regulating pet food in the U.S. is patchy — and getting more so.",
+      "url": "https://www.statnews.com/2025/04/04/pet-food-safety-fda-regulation-recalls/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/04/AP23151624955725-1024x576.jpg",
+      "publishedAt": "2025-04-04T10:43:18Z",
+      "content": "As a longtime dog owner, I assumed that each bag of my dogs commercial pet food was closely monitored by the federal Food and Drug Administration (FDA). It turns out I was wrong.\r\nMore than 102 milli… [+6027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Critical flaw in Apache Parquet’s Java Library allows remote code execution",
+      "description": "Experts warn of a critical vulnerability impacting Apache Parquet’s Java Library that could allow remote code execution. Apache Parquet’s Java Library is a software library for reading and writing Parquet files in the Java programming language. Parquet is a c…",
+      "url": "https://securityaffairs.com/176187/security/apache-parquets-java-library-critical-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-7.png",
+      "publishedAt": "2025-04-04T10:00:26Z",
+      "content": "Critical flaw in Apache Parquet's Java Library allows remote code execution\r\n | CERT-UA reports attacks in March 2025 targeting Ukrainian agencies with WRECKSTEEL Malware\r\n | 39M secrets exposed: Git… [+153077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Rabbi Avrohom Gordimer",
+      "title": "The Mystery of the Mincha",
+      "description": "Why does the Torah feature the Mincha immediately after the Olah, right before the Shelamim, rather than after all four of the animal korbonot?",
+      "url": "https://www.israelnationalnews.com/news/406403",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1186053.jpg",
+      "publishedAt": "2025-04-04T09:47:29Z",
+      "content": "Parshat Vayikra presents and details the five general categories of korbonot (sacrifices), commencing with the Olah (Elevation Offering) and concluding with the Asham (Guilt Offering). To be precise,… [+5485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Ottavia Spaggiari",
+      "title": "Mining the Past, Threatening the Future",
+      "description": "Ottavia Spaggiari\n\n\n\nFacing the brunt of the mineral rush, Tribal Nations sue the federal government.\r\n\n\r\n\n\nThe post Mining the Past, Threatening the Future appeared first on The Nation.",
+      "url": "https://www.thenation.com/article/environment/tribal-nations-arizona-mining/",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/04/Ponders-Margin-Mining-5265A-for-web.jpg",
+      "publishedAt": "2025-04-04T09:00:00Z",
+      "content": "In August 2024, the Hualapai Tribe could finally breathe a sigh of relief.\r\nAfter a five-year fight, a US District Court for the District of Arizona granted a temporary restraining order to block a l… [+25929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ProPublica"
+      },
+      "author": "by Heather Vogell",
+      "title": "Unsanitary Practices Persist at Baby Formula Factory Whose Shutdown Led to Mass Shortages, Workers Say",
+      "description": "by Heather Vogell \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nWorkers at one of the nation’s largest baby formula plants say the Abbott Lab…",
+      "url": "https://www.propublica.org/article/baby-formula-abbot-sturgis-michigan-shortages-unsanitary-conditions-workers-say",
+      "urlToImage": "https://img.assets-d.propublica.org/v5/images/GettyImages-1240839172_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?crop=focalpoint&fit=crop&fp-x=0.4982&fp-y=0.7634&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=0fae6bad55e3335adf522ee3092125d8",
+      "publishedAt": "2025-04-04T09:00:00Z",
+      "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\n<ul><li>Unsanitary Conditions: Workers at one of the nations… [+18617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Ottavia Spaggiari",
+      "title": "Mining the Past, Threatening the Future",
+      "description": "Ottavia Spaggiari\n\n\n\nTribes seeking federal recognition so they can better address climate change face a catch-22 as climate change jeopardizes the documents they need for recognition.\r\n\n\r\n\n\nThe post Mining the Past, Threatening the Future appeared first on T…",
+      "url": "https://www.thenation.com/?post_type=article&p=549187",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/04/Ponders-Margin-Mining-5265A-for-web.jpg",
+      "publishedAt": "2025-04-04T09:00:00Z",
+      "content": "Tribes seeking federal recognition so they can better address climate change face a catch-22 as climate change jeopardizes the documents they need for recognition.\r\nAd Policy\r\nIn August 2024, the Hua… [+25877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "CERT-UA reports attacks in March 2025 targeting Ukrainian agencies with WRECKSTEEL Malware",
+      "description": "CERT-UA reported three cyberattacks targeting Ukraine’s state agencies and critical infrastructure to steal sensitive data. The Computer Emergency Response Team of Ukraine (CERT-UA) reported three cyberattacks in March 2025 targeting Ukrainian agencies and in…",
+      "url": "https://securityaffairs.com/176181/cyber-warfare-2/cert-ua-reports-attacks-in-march-2025-targeting-ukrainian-agencies-with-wrecksteel-malware.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-6.png",
+      "publishedAt": "2025-04-04T08:32:24Z",
+      "content": "CERT-UA reports attacks in March 2025 targeting Ukrainian agencies with WRECKSTEEL Malware\r\n | 39M secrets exposed: GitHub rolls out new security tools\r\n | China-linked group UNC5221 exploited Ivanti… [+152997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
+      "title": "Frito-Lay Recalls Tostitos Cantina Chips—But There’s A Catch",
+      "description": "Frito-Lay recalls select Tostitos Cantina tortilla chips due to undeclared milk allergen. Here’s what to know—and who needs to take action.",
+      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/04/04/frito-lay-recalls-tostitos-cantina-chips-but-theres-a-catch/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67ef4bf3e05dc141418f5fb0/0x0.jpg?format=jpg&crop=2778,1562,x136,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-04T07:45:00Z",
+      "content": "Some bags of Tostitos Cantina Traditional Yellow Corn Tortilla Chips may contain nacho cheese ... More chipswith an undeclared milk allergen that could pose a risk for people with dairy allergies.\r\ng… [+4451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "39M secrets exposed: GitHub rolls out new security tools",
+      "description": "39 Million Secrets Leaked on GitHub in 2024 GitHub found 39M secrets leaked in 2024 and launched new tools to help developers and organizations secure sensitive data in code. Microsoft-owned code hosting platform GitHub announced the discovery of 39 million s…",
+      "url": "https://securityaffairs.com/176170/security/39m-secrets-exposed-github-rolls-out-new-security-tools.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-5.png",
+      "publishedAt": "2025-04-04T06:48:25Z",
+      "content": "39M secrets exposed: GitHub rolls out new security tools\r\n | China-linked group UNC5221 exploited Ivanti Connect Secure zero-day since mid-March\r\n | Europol-led operation shuts down CSAM platform Kid… [+152902 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -19,19 +149,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Tofu: Health benefits, nutrients and healthy ways to eat this superfood",
-      "description": "Tofu, or bean curd, originated in China over 2,000 years ago during the Han Dynasty. It spread across Asia, becoming a staple in Buddhist vegetarian diets, and gained global popularity in the 20th century. A complete source of plant-based protein, tofu contai…",
-      "url": "https://www.naturalnews.com/2025-04-04-health-benefits-nutrients-healthy-recipes-tofu-superfood.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/tofu-3.jpg",
-      "publishedAt": "2025-04-04T06:00:00Z",
-      "content": "<ul><li>Tofu, or bean curd, originated in China over 2,000 years ago during the Han Dynasty. It spread across Asia, becoming a staple in Buddhist vegetarian diets, and gained global popularity in the… [+7307 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Finn Heartley",
       "title": "Florida skies contaminated: Shocking levels of aluminum, mercury, and lead found in atmospheric fallout",
       "description": "Independent tests by Mike Adams and Dr. Jane Ruby reveal alarming levels of heavy metals (aluminum, lead, cadmium, mercury) and unnatural biological structures in airborne deposits. Microscopy shows bizarre blue filaments, egg-like biomasses, and microchip-li…",
@@ -39,6 +156,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-04-BBN-Interview-with-Jane-Ruby.jpg",
       "publishedAt": "2025-04-04T06:00:00Z",
       "content": "<ul><li>Independent tests by Mike Adams and Dr. Jane Ruby reveal alarming levels of heavy metals (aluminum, lead, cadmium, mercury) and unnatural biological structures in airborne deposits.</li><li>M… [+6267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Tofu: Health benefits, nutrients and healthy ways to eat this superfood",
+      "description": "Tofu, or bean curd, originated in China over 2,000 years ago during the Han Dynasty. It spread across Asia, becoming a staple in Buddhist vegetarian diets, and gained global popularity in the 20th century. A complete source of plant-based protein, tofu contai…",
+      "url": "https://www.naturalnews.com/2025-04-04-health-benefits-nutrients-healthy-recipes-tofu-superfood.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/tofu-3.jpg",
+      "publishedAt": "2025-04-04T06:00:00Z",
+      "content": "<ul><li>Tofu, or bean curd, originated in China over 2,000 years ago during the Han Dynasty. It spread across Asia, becoming a staple in Buddhist vegetarian diets, and gained global popularity in the… [+7307 chars]"
     },
     {
       "source": {
@@ -1105,125 +1235,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/16450e79-07ea-495b-aa98-6b64ec03b856",
       "publishedAt": "2025-04-01T16:11:00Z",
       "content": "ORLANDO, April 01, 2025 (GLOBE NEWSWIRE) --  NAGANO TONIC\r\nThe search for a reliable, natural weight loss solution is an endless battle for many. With countless supplements flooding the marketeach pr… [+36981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Lauren Alex O'Hagan, Research Fellow, School of Languages and Applied Linguistics, The Open University",
-      "title": "How controversial nutritionist John Harvey Kellogg pioneered the path to modern plant-based eating",
-      "description": "The pioneering US health reformer and breakfast cereal inventor introduced plant-based meat substitutes to the public.",
-      "url": "https://theconversation.com/how-controversial-nutritionist-john-harvey-kellogg-pioneered-the-path-to-modern-plant-based-eating-252960",
-      "urlToImage": "https://images.theconversation.com/files/658696/original/file-20250331-62-d8exlr.jpg?ixlib=rb-4.1.0&rect=0%2C491%2C5964%2C2982&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-04-01T15:52:25Z",
-      "content": "MVelishchuk/Shutterstock\r\nWhen you hear the name Kellogg, Corn Flakes might be the first thing that comes to mind. But John Harvey Kellogg is famous for more than just breakfast cereals. \n\nIn many re… [+5826 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "GlobeNewswire",
-      "title": "Prime Biome (INVESTIGATIVE REPORT): Does This Trending Gut Reset Supplement Actually Deliver Real Results?",
-      "description": "DENVER, April 01, 2025 (GLOBE NEWSWIRE) — At a time when nearly every health product claims to support digestion, reduce inflammation, or rewind the clock on aging, one name is rising through the noise: Prime Biome. Promoted as a next-generation probiotic des…",
-      "url": "https://financialpost.com/globe-newswire/prime-biome-investigative-report-does-this-trending-gut-reset-supplement-actually-deliver-real-results",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/04/prime-biome.png",
-      "publishedAt": "2025-04-01T15:40:29Z",
-      "content": "Author of the article:\r\nPrime BiomeGNW\r\nArticle content\r\nDENVER, April 01, 2025 (GLOBE NEWSWIRE) At a time when nearly every health product claims to support digestion, reduce inflammation, or rewind… [+37363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "author": "Michael Levanduski",
-      "title": "Some Foods Are So Good That You’re Willing To Go To Great Lengths To Try Them, And This TikToker Was Even Willing To Risk Getting Sick",
-      "description": "I'm not sure they are worth getting sick over, but they do look good.",
-      "url": "http://twistedsifter.com/2025/04/some-foods-are-so-good-that-youre-willing-to-go-to-great-lengths-to-try-them-and-this-tiktoker-was-even-willing-to-risk-getting-sick/",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/03/Dunkin.png",
-      "publishedAt": "2025-04-01T14:50:15Z",
-      "content": "It seems like every other day you hear about some type of food contamination issue, including one recently that caused a recall on certain menu items at Dunkin’ Donuts.\r\nThis TikToker had heard about… [+2282 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Just Jared"
-      },
-      "author": "Just Jared",
-      "title": "Brett Gardner's Son Miller May Have Passed Away Due to 'High Levels of Carbon Monoxide Contamination' in Hotel Room",
-      "description": "There are new details surrounding the tragic passing of Brett Gardner’s 14-year-old son, Miller Gardner. The young son of the New York Yankees baseball superstar may have passed away due to carbon monoxide poisoning while vacationing with his family in Costa …",
-      "url": "https://www.justjared.com/2025/04/01/brett-gardners-son-miller-may-have-passed-away-due-to-high-levels-of-carbon-monoxide-contamination-in-hotel-room/",
-      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/04/gardner-hotel-social.jpg",
-      "publishedAt": "2025-04-01T14:44:53Z",
-      "content": "There are new details surrounding the tragic passing of Brett Gardners 14-year-old son, Miller Gardner.\r\nThe young son of the New York Yankees baseball superstar may have passed away due to carbon mo… [+2079 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jordan King",
-      "title": "Pasta Recalled in 37 States as Wood-Like Material Found Inside Products",
-      "description": "One consumer experienced a potential choking incident.",
-      "url": "https://www.newsweek.com/pasta-nestle-recall-37-states-2053659",
-      "urlToImage": "https://d.newsweek.com/en/full/2618685/states-map.png",
-      "publishedAt": "2025-04-01T14:42:31Z",
-      "content": "A voluntary recall has been issued by Nestlé USA for more than 50,000 cases of Lean Cuisine Butternut Squash Ravioli, after reports from consumers indicated the presence of a wood-like foreign materi… [+2683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Ron Dicker",
-      "title": "Death Probe Of Ex-Yankee Star's Son Takes Another Disturbing Turn",
-      "description": "Brett Gardner's 14-year-old son, Miller, died while on a family vacation in Costa Rica last month.",
-      "url": "https://www.huffpost.com/entry/miller-gardner-carbon-monoxide_n_67ebdb4fe4b001c7dedcbc5f",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67e520a11700001900e1b0e7.jpeg?cache=Yzzlj9wv91&ops=1200_630",
-      "publishedAt": "2025-04-01T14:12:24Z",
-      "content": "The 14-year-old son of former New York Yankees star Brett Gardner may have died from carbon monoxide poisoning, Costa Rican investigators said Monday in another twist to the tragedy.\r\nTests conducted… [+3099 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "CrushFTP CVE-2025-2825 flaw actively exploited in the wild",
-      "description": "Attackers exploit CrushFTP CVE-2025-2825 flaw, enabling unauthenticated access to unpatched devices using public proof-of-concept code. Threat actors are exploiting a critical authentication bypass vulnerability, tracked as CVE-2025-2825, in the CrushFTP file…",
-      "url": "https://securityaffairs.com/176097/hacking/crushftp-cve-2025-2825-flaw-actively-exploited.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-1.png",
-      "publishedAt": "2025-04-01T14:09:54Z",
-      "content": "CrushFTP CVE-2025-2825 flaw actively exploited in the wild\r\n | Frances antitrust authority fines Apple 150M for issues related to its App Tracking Transparency\r\n | Hiding WordPress malware in the mu-… [+152218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Nathaniel L. Gibson, Bruno M. Ghersi, Bridget Knudson, Anna C. Peterson, Claudia Riegel, Weihong Tu, Eric Dumonteil, Claudia Herrera, Michael J. Blum",
-      "title": "Potential vertical transmission of genetically diverse Trypanosoma cruzi in natural rodent populations",
-      "description": "Author summary Trypanosoma cruzi, the parasite that causes Chagas disease, has recently been detected in commensal hosts across cities where kissing bug vectors can be rare or absent. This suggests that a different mode of transmission is sustaining the paras…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012930",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012930.g002&size=inline",
-      "publishedAt": "2025-04-01T14:00:00Z",
-      "content": "Citation: Gibson NL, Ghersi BM, Knudson B, Peterson AC, Riegel C, Tu W, et al. (2025) Potential vertical transmission of genetically diverse Trypanosoma cruzi in natural rodent populations. PLoS Negl… [+23606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Sundar  Mahalingam",
-      "title": "Making use of satellite data to safeguard water resources",
-      "description": "The fusion of satellite technology and ICT offers high-resolution images that allow for precise mapping of rivers, lakes and reservoirs",
-      "url": "https://www.thehindubusinessline.com/opinion/making-use-of-satellite-data-to-safeguard-water-resources/article69400490.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/htssi0/article69400492.ece/alternates/LANDSCAPE_1200/BL02_Think_orbit_space.jpg",
-      "publishedAt": "2025-04-01T13:44:48Z",
-      "content": "Space exploration, once the domain of governments, has opened up a new horizon for the private sector. It all started with the launch of SpaceX in 2002, whose mission is to revolutionise space techno… [+7987 chars]"
     }
   ],
-  "totalResults": 94,
-  "filteredCount": 2
+  "totalResults": 95,
+  "filteredCount": 1
 }
