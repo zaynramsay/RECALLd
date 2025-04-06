@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-06T06:30:42.443Z",
+  "lastUpdated": "2025-04-06T12:40:53.015Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Port of Seattle ‘s August data breach impacted 90,000 people",
+      "description": "Port of Seattle is notifying 90,000 people of a data breach after personal data was stolen in a ransomware attack in August 2024. In August 2024, a cyber attack hit the Port of Seattle, which also operates the Seattle-Tacoma International Airport. The attack …",
+      "url": "https://securityaffairs.com/176205/data-breach/port-of-seattle-august-data-breach-impacted-90000-people.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/image-38-1024x576.png",
+      "publishedAt": "2025-04-05T10:02:37Z",
+      "content": "Port of Seattle August data breach impacted 90,000 people\r\n | President Trump fired the head of U.S. Cyber Command and NSA\r\n | Critical flaw in Apache Parquet's Java Library allows remote code execut… [+153204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Rob Stein",
+      "title": "'Your RIF notice is not cancelled.' Inside a chaotic week of massive layoffs at HHS",
+      "description": "Health agency staffers describe a week of chaos and continued uncertainty about who still has a job and how the work will get done. To many it's the opposite of 'government efficiency.'",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/04/05/g-s1-58312/hhs-layoffs-rif-cdc-fda-nih",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F41%2F539dccdf4f99ae9ea074e675974b%2Fgettyimages-2207469482.jpg",
+      "publishedAt": "2025-04-05T09:00:00Z",
+      "content": "Chaos and confusion dominated the restructuring affecting thousands of workers at the U.S. Department of Health and Human Services this week. \r\nSome people who were fired are being unfired, at least … [+8208 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -8,7 +34,7 @@
       },
       "author": "Kevin Hughes",
       "title": "“A Consumer’s Dictionary of Food Additives”: A comprehensive guide to understanding the substances that make their way into your diet",
-      "description": "U.S. food safety agencies like the FDA, USDA, EPA and CDC are underfunded, understaffed and rely on outdated systems, leading to limited oversight. For example, domestic food plants are inspected only once every decade, and just two percent of imported foods ��",
+      "description": "U.S. food safety agencies like the FDA, USDA, EPA and CDC are underfunded, understaffed and rely on outdated systems, leading to limited oversight. For example, domestic food plants are inspected only once every decade, and just two percent of imported foods …",
       "url": "https://www.naturalnews.com/2025-04-05-guide-to-understanding-substances-in-your-diet.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Popped-wheat-seeds-full-with-food-additive-1.jpeg",
       "publishedAt": "2025-04-05T06:00:00Z",
@@ -1235,47 +1261,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-04-02T13:47:39Z",
       "content": "U.S. CISA adds Apache Tomcat flaw to its Known Exploited Vulnerabilities catalog\r\n | Apple backported fixes for three actively exploited flaws to older devices\r\n | Spike in Palo Alto Networks scanner… [+152525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "TuffWrap Installations, Inc.",
-      "title": "TuffWrap Special Ops Team is Mission-Ready Across North America",
-      "description": "TuffWrap Installations, Inc. (tuffwrap.com), the industry leader in innovative temporary containment solutions, proudly announces its Special Ops Team.......",
-      "url": "https://www.globenewswire.com/news-release/2025/04/02/3054317/0/en/TuffWrap-Special-Ops-Team-is-Mission-Ready-Across-North-America.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f62564bf-68f2-43b3-96af-5469ee6e8741",
-      "publishedAt": "2025-04-02T13:05:00Z",
-      "content": "HARLEYSVILLE, Pa., April 02, 2025 (GLOBE NEWSWIRE) -- TuffWrap Installations, Inc. (tuffwrap.com), the industry leader in innovative temporary containment solutions, proudly announces that its elite … [+3964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPVI-TV"
-      },
-      "author": "Leah Sarnoff And Clara Mcmichael",
-      "title": "Over 200 passengers sickened with norovirus aboard luxury cruise Cunard Line to Southampton, England, New York and Caribbean",
-      "description": "Over 200 passengers sickened with norovirus aboard luxury cruise Cunard Line to Southampton, England, New York and Caribbean6abc.com",
-      "url": "https://6abc.com/post/200-passengers-sickened-norovirus-aboard-luxury-cruise-cunard-line-southampton-england-new-york-caribbean/16118724/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16118726_AP21245670440064.jpg?w=1600",
-      "publishedAt": "2025-04-02T12:30:40Z",
-      "content": "A norovirus outbreak aboard a luxury cruise ship has left over 224 passengers and 17 crew members ill, according to the Centers for Disease Control.\r\nThe affected voyage was a luxury Cunard Line ship… [+2343 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WTVD-TV"
-      },
-      "author": "Leah Sarnoff And Clara Mcmichael",
-      "title": "Over 200 passengers sickened with norovirus aboard luxury cruise Cunard Line to Southampton, England, New York and Caribbean",
-      "description": "Over 200 passengers sickened with norovirus aboard luxury cruise Cunard Line to Southampton, England, New York and Caribbeanabc11.com",
-      "url": "https://abc11.com/post/200-passengers-sickened-norovirus-aboard-luxury-cruise-cunard-line-southampton-england-new-york-caribbean/16118724/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16118726_AP21245670440064.jpg?w=1600",
-      "publishedAt": "2025-04-02T12:26:21Z",
-      "content": "A norovirus outbreak aboard a luxury cruise ship has left over 224 passengers and 17 crew members ill, according to the Centers for Disease Control.\r\nThe affected voyage was a luxury Cunard Line ship… [+2343 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 97,
   "filteredCount": 1
 }
