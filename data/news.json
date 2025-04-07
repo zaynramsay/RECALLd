@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-04-06T18:28:42.581Z",
+  "lastUpdated": "2025-04-07T01:54:19.563Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Ljeonida Mulabazi",
+      "title": "‘It actually increased the amount of microplastics’: Expert says ZeroWater, Brita water filter pitchers are a ‘100% no.’ Then she reveals what to use instead",
+      "description": "Microplastics are everywhere—your clothes, food, water. And yes, inside your body, too. \n\n\nAnd while it’s easy to feel helpless about it, some experts are putting in the work to help us make smarter choices.\n\n\nOne of them is Dana Zhaxylykova (@dankazh), a mic…",
+      "url": "https://www.dailydot.com/news/zerowater-brita-water-filter-microplastics/",
+      "urlToImage": "https://uploads.dailydot.com/2025/04/No_More_Microplastic.png?auto=compress&fm=png",
+      "publishedAt": "2025-04-05T22:00:00Z",
+      "content": "Microplastics are everywhereyour clothes, food, water. And yes, inside your body, too. \r\nAnd while its easy to feel helpless about it, some experts are putting in the work to help us make smarter cho… [+5039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Idowu Abdullahi",
+      "title": "Hot weather: Eating food left out for long may cause sickness, death -Experts - Healthwise",
+      "description": "As the country continues to experience extremely hot weather conditions, nutrition experts have warned against improper food storage, saying such practices could predispose individuals to health complications.",
+      "url": "https://healthwise.punchng.com/hot-weather-eating-food-left-out-for-long-may-cause-sickness-death-experts-say/",
+      "urlToImage": "https://healthwise.punchng.com/wp-content/uploads/2025/04/Food-Poisoning-Source-RoyChang-Insjoy.jpg",
+      "publishedAt": "2025-04-05T21:56:31Z",
+      "content": "Idowu Abdullahi\r\nAs the country continues to experience extremely hot weather conditions, nutrition experts have warned against improper food storage, saying such practices could predispose individua… [+3847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A flaw in Verizon’s iOS Call Filter app exposed call records of millions",
+      "description": "A now-patched flaw in Verizon ’s iOS Call Filter app exposed call records of millions. No abuse found. Only phone numbers and timestamps were at risk. A now-patched vulnerability in Verizon ’s iOS Call Filter app could have been exploited to harvest the call …",
+      "url": "https://securityaffairs.com/176217/hacking/verizon-s-ios-call-filter-app-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/03/verizon-enterprise.jpg",
+      "publishedAt": "2025-04-05T18:59:52Z",
+      "content": "A flaw in Verizons iOS Call Filter app exposed call records of millions\r\n | Port of Seattle 's August data breach impacted 90,000 people\r\n | President Trump fired the head of U.S. Cyber Command and N… [+153283 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -459,19 +498,6 @@
     {
       "source": {
         "id": null,
-        "name": "ProPublica"
-      },
-      "author": "by Heather Vogell",
-      "title": "Unsanitary Practices Persist at Baby Formula Factory Whose Shutdown Led to Mass Shortages, Workers Say",
-      "description": "by Heather Vogell \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nWorkers at one of the nation’s largest baby formula plants say the Abbott Lab…",
-      "url": "https://www.propublica.org/article/baby-formula-abbot-sturgis-michigan-shortages-unsanitary-conditions-workers-say",
-      "urlToImage": "https://img.assets-d.propublica.org/v5/images/GettyImages-1240839172_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?crop=focalpoint&fit=crop&fp-x=0.4982&fp-y=0.7634&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=0fae6bad55e3335adf522ee3092125d8",
-      "publishedAt": "2025-04-04T09:00:00Z",
-      "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\n<ul><li>Unsanitary Conditions: Workers at one of the nations… [+18617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Thenation.com"
       },
       "author": "Ottavia Spaggiari",
@@ -481,6 +507,19 @@
       "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/04/Ponders-Margin-Mining-5265A-for-web.jpg",
       "publishedAt": "2025-04-04T09:00:00Z",
       "content": "In August 2024, the Hualapai Tribe could finally breathe a sigh of relief.\r\nAfter a five-year fight, a US District Court for the District of Arizona granted a temporary restraining order to block a l… [+25929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ProPublica"
+      },
+      "author": "by Heather Vogell",
+      "title": "Unsanitary Practices Persist at Baby Formula Factory Whose Shutdown Led to Mass Shortages, Workers Say",
+      "description": "by Heather Vogell \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nWorkers at one of the nation’s largest baby formula plants say the Abbott Lab…",
+      "url": "https://www.propublica.org/article/baby-formula-abbot-sturgis-michigan-shortages-unsanitary-conditions-workers-say",
+      "urlToImage": "https://img.assets-d.propublica.org/v5/images/GettyImages-1240839172_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?crop=focalpoint&fit=crop&fp-x=0.4982&fp-y=0.7634&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=0fae6bad55e3335adf522ee3092125d8",
+      "publishedAt": "2025-04-04T09:00:00Z",
+      "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\n<ul><li>Unsanitary Conditions: Workers at one of the nations… [+18617 chars]"
     },
     {
       "source": {
@@ -1209,45 +1248,6 @@
       "urlToImage": "http://agwired.com/wp-content/uploads/2016/09/AW-agwired-alpha-full-color.png",
       "publishedAt": "2025-04-02T14:37:33Z",
       "content": "With the growing season underway, the Arizona Cotton Research and Protection Council (ACRPC) is urging farmers to take action against aflatoxin contamination by applying AF36, a biological solution b… [+1980 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BroBible"
-      },
-      "author": "Eric Italiano",
-      "title": "Probable Cause Of Death For Brett Gardner’s Teenage Son Miller Reported, Was Likely Entirely Preventable By Hotel",
-      "description": "Authorities investigating the tragic death of Brett Gardner’s teenage son Miller have suggested that he could have been killed by carbon monoxide poisoning. Miller Gardner passed away the age of 14 years old on March 21 while on a family vacation at the Arena…",
-      "url": "https://brobible.com/sports/article/miller-gardner-carbon-monoxide-poisoning-theory/",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2025/04/brett-gardner-high-fiving.jpg",
-      "publishedAt": "2025-04-02T14:26:00Z",
-      "content": "Dan Hamilton-Imagn Images\r\nAuthorities investigating the tragic death of Brett Gardner’s teenage son Miller have suggested that he could have been killed by carbon monoxide poisoning. Miller Gardner … [+2835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IPWatchdog.com"
-      },
-      "author": "Kene Gallois",
-      "title": "Green Innovation in Brazil: How Patent Protection Is Powering Sustainable Agriculture",
-      "description": "The use of biological agents in pest and disease control in agriculture has been a growing trend worldwide, and Brazil is no exception. With increasing concerns about sustainability and environmental health, many farmers and agricultural companies are seeking…",
-      "url": "https://ipwatchdog.com/2025/04/02/green-innovation-brazil-patent-protection-powering-sustainable-agriculture/id=187821/",
-      "urlToImage": "https://ipwatchdog.com/wp-content/uploads/2021/08/brazil-27-scaled.jpg",
-      "publishedAt": "2025-04-02T14:15:18Z",
-      "content": "“Brazil has significant potential to emerge as a global leader in the development of agricultural biological agents, especially given its rich biodiversity and favorable climate.”\r\nThe use of biologi… [+6543 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Shawn P. Dookie, Lynn Martin",
-      "title": "The effect of language discordance on the experience of palliative care: A scoping review",
-      "description": "Background  Internationally, research demonstrates consistent disparities in access to palliative care services for those in underserved communities with life-limiting conditions.    Objectives  This outcomes-oriented scoping review examines the impact of lan…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321075",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321075.g001&size=inline",
-      "publishedAt": "2025-04-02T14:00:00Z",
-      "content": "The searches yielded 594 articles for title review (after elimination of duplicates), of which 209 were kept for screening. Sixty-six articles were fully read, and 39 were included in the data extrac… [+19148 chars]"
     }
   ],
   "totalResults": 96,
