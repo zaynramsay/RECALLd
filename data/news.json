@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-04-07T06:33:52.078Z",
+  "lastUpdated": "2025-04-07T12:48:46.670Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 40",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape CISA Releases Malware Analysis Report on RESURGE Malware Associated with Ivanti Connect Secure   Unboxing Anubis: Exploring t…",
+      "url": "https://securityaffairs.com/176244/malware/security-affairs-malware-newsletter-round-40.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-04-06T11:47:42Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 40\r\n | Security Affairs newsletter Round 518 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Expert used ChatGPT-4o to create a replica of his passport in ju… [+153513 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 518 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. A flaw in Veri…",
+      "url": "https://securityaffairs.com/176235/security/security-affairs-newsletter-round-518-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-04-06T11:40:04Z",
+      "content": "Security Affairs newsletter Round 518 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC\r\n | A flaw in Verizons… [+153464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Brittany Miller",
+      "title": "Juice recalled in 12 states due to possible botulism contamination",
+      "description": "Customers should contact Walker’s Wine Juice to determine how to dispose of the juice",
+      "url": "https://www.the-independent.com/life-style/food-and-drink/walkers-wine-juice-recall-pumpkin-botulism-b2728294.html",
+      "urlToImage": "https://static.the-independent.com/2025/04/04/15/17/gettyimages-2178426077-170667a.jpeg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-04-06T10:54:53Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3205 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC",
+      "description": "A researcher used ChatGPT-4o to create a replica of his passport in just five minutes, realistic enough to deceive most automated KYC systems. Polish researcher Borys Musielak (@michuk) used ChatGPT-4o to generate a fake passport in just five minutes. The doc…",
+      "url": "https://securityaffairs.com/176224/security/chatgpt-4o-to-create-a-replica-of-his-passport-in-just-five-minutes.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-8.png",
+      "publishedAt": "2025-04-06T08:19:53Z",
+      "content": "Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC\r\n | A flaw in Verizons iOS Call Filter app exposed call records of millions\r\n | Port of Seattle 's August da… [+153378 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,73 +1222,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-3.png",
       "publishedAt": "2025-04-02T21:38:24Z",
       "content": "New advanced FIN7's Anubis backdoor allows to gain full system control on Windows\r\n | U.S. CISA adds Apache Tomcat flaw to its Known Exploited Vulnerabilities catalog\r\n | Apple backported fixes for t… [+152611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "TuffWrap Installations, Inc.",
-      "title": "MULTIMEDIA UPDATE – TuffWrap Special Ops Team is Mission-Ready Across North America",
-      "description": "The tip of the spear in fighting dust, debris, and weather during construction The tip of the spear in fighting dust, debris, and weather during construction",
-      "url": "https://www.globenewswire.com/news-release/2025/04/02/3054748/0/en/MULTIMEDIA-UPDATE-TuffWrap-Special-Ops-Team-is-Mission-Ready-Across-North-America.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f62564bf-68f2-43b3-96af-5469ee6e8741",
-      "publishedAt": "2025-04-02T21:28:00Z",
-      "content": "HARLEYSVILLE, Pa., April 02, 2025 (GLOBE NEWSWIRE) -- In a release issued yesterday by TuffWrap Installations, Inc. (tuffwrap.com), the company is updating this release to include an updated video li… [+4411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Taylor Leamey",
-      "title": "Microplastics Aren't Just Found in Seafood Anymore. The 9 Other Foods With More Microplastics Than You Think",
-      "description": "Microplastics are in our water, air and seafood. It's been recently discovered to be in chewing gum, too. Here's what to know about microplastics in your foods.",
-      "url": "https://www.cnet.com/health/nutrition/microplastics-arent-just-found-in-seafood-anymore-9-other-foods/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-04-02T19:31:00Z",
-      "content": "A new study from the University of California, Los Angeles has discovered that there are microplastics in chewing gum. Both natural and synthetic gum releases microplastics into the mouth when chewed… [+10430 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "MITOLYN®",
-      "title": "Mitolyn WARNING (DOCTOR-APPROVED RESEARCH): The Metabolic Reset Formula Changing How Experts See Fat Loss",
-      "description": "Discover why medical experts are now urging adults over 35 to pay close attention to Mitolyn’s mitochondria-boosting formula—and how it may be the missing piece in your fat loss and energy puzzle. Discover why medical experts are now urging adults over 35 to …",
-      "url": "https://www.globenewswire.com/news-release/2025/04/02/3054624/0/en/Mitolyn-WARNING-DOCTOR-APPROVED-RESEARCH-The-Metabolic-Reset-Formula-Changing-How-Experts-See-Fat-Loss.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4047ce4a-3df6-42ef-aae7-30ef994feac7",
-      "publishedAt": "2025-04-02T18:06:00Z",
-      "content": "SEATTLE, WA, April 02, 2025 (GLOBE NEWSWIRE) --  Mitolyn\r\nIn a world where weight loss solutions come and go, Mitolyn has emerged as a frontrunner, capturing the attention of thousands looking for a … [+40009 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Katie Langford",
-      "title": "Liquid eggs recalled for possible bleach contamination",
-      "description": "The maker of Egg Beaters and Bob Evans liquid eggs is recalling products.",
-      "url": "https://www.bostonherald.com/2025/04/02/egg-beaters-recall-colorado-bob-evans-liquid-eggs/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/04/TDP-Z-196848513.jpg?w=1024&h=1707",
-      "publishedAt": "2025-04-02T17:16:46Z",
-      "content": "The maker of Egg Beaters and Bob Evans liquid eggs is recalling thousands of pounds of product that may be contaminated with a bleach cleaning solution, according to the U.S. Department of Agricultur… [+1357 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ariel Zilber",
-      "title": "Tony’s Chocolonely recalls products over risk of ‘small stones’",
-      "description": "The affected products include the company's Dark Almond Sea Salt and Everything Bar varieties.",
-      "url": "https://nypost.com/2025/04/02/business/tonys-chocolonely-recalls-candy-over-risk-of-small-stones/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/101556058-1.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-04-02T15:41:33Z",
-      "content": "Manhattan-based candy maker Tonys Chocolonely issued a recall of its popular chocolate bars because some were found to contain “small stones,” the company said.\r\nThe affected products include the com… [+2284 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 1
 }
