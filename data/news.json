@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-04-08T18:31:47.550Z",
+  "lastUpdated": "2025-04-09T01:51:36.152Z",
   "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Amaris Encinas, USA TODAY",
+      "title": "22,000 pounds of Johnsonville Bratwurst recalled over possible plastic contamination",
+      "description": "Johnsonville issued a voluntary recall Saturday for over 20,000 pounds of cheddar bratwurst product due to contamination concerns.",
+      "url": "https://www.usatoday.com/story/money/food/2025/04/07/johnsonville-bratwurst-recall-2025/82982845007/",
+      "urlToImage": "https://media.zenfs.com/en/usa_today_money_325/3c9023971e673dd3f2ad72f766b02e0d",
+      "publishedAt": "2025-04-07T23:27:31Z",
+      "content": "Johnsonville recalled more than 20,000 pounds of its cheddar-flavored bratwurst after customers reported finding plastic in the product.\r\nThe American sausage company notified the U.S. Department of … [+1807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "Department for Environment, Food & Rural Affairs",
+      "title": "Environmental permit reforms to empower regulators to slash business red tape",
+      "description": "UK and Welsh Governments launch joint consultation to reform environmental permitting regulations, supporting UK Government’s Plan for Change",
+      "url": "https://www.gov.uk/government/news/environmental-permit-reforms-to-empower-regulators-to-slash-business-red-tape",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/67f3fae3c2fea2548f4eff49/s960_Hi-vis_clipboard_officer.jpg",
+      "publishedAt": "2025-04-07T23:01:09Z",
+      "content": "Streamlined environmental permitting will drive economic growth and help tackle crime while continuing to safeguard the environment, under reforms unveiled by Environment Minister Emma Hardy today (T… [+4530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Apache Tomca…",
+      "url": "https://securityaffairs.com/176332/security/u-s-cisa-adds-ivanti-connect-secure-policy-secure-and-zta-gateways-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-04-07T19:39:30Z",
+      "content": "U.S. CISA adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog\r\n | A member of the Scattered Spider cybercrime group pleads guilty\r\n | The co… [+153998 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -532,7 +571,7 @@
       "url": "https://securityaffairs.com/176205/data-breach/port-of-seattle-august-data-breach-impacted-90000-people.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/image-38-1024x576.png",
       "publishedAt": "2025-04-05T10:02:37Z",
-      "content": "Port of Seattle August data breach impacted 90,000 people\r\n | President Trump fired the head of U.S. Cyber Command and NSA\r\n | Critical flaw in Apache Parquet's Java Library allows remote code execut… [+153204 chars]"
+      "content": "Port of Seattle August data breach impacted 90,000 people\r\n | President Trump fired the head of U.S. Cyber Command and NSA\r\n��| Critical flaw in Apache Parquet's Java Library allows remote code execut… [+153204 chars]"
     },
     {
       "source": {
@@ -1170,45 +1209,6 @@
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/04/Brewers_Yankees_Baseball_60885.jpg?w=1024&h=682",
       "publishedAt": "2025-04-03T18:22:53Z",
       "content": "By JAVIER CORDOBA\r\nSAN JOSE, Costa Rica (AP) — Carbon monoxide poisoning was the cause of death of the teenage son of former New York Yankees outfielder Brett Gardner, authorities in Costa Rica confi… [+1575 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "15 important eating styles everyone should know",
-      "description": "Understanding the motivation behind different eating patterns has become essential knowledge for anyone who enjoys sharing meals with diverse groups of friends and family. Food brings people together, but not everyone gathers around the table with the same di…",
-      "url": "https://rollingout.com/2025/04/03/15-eating-styles-everyone-should-know/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/04/shutterstock_392335264-scaled.jpg",
-      "publishedAt": "2025-04-03T16:54:44Z",
-      "content": "Understanding the motivation behind different eating patterns has become essential knowledge for anyone who enjoys sharing meals with diverse groups of friends and family.\r\nFood brings people togethe… [+29322 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Paulina Dedaj",
-      "title": "Miller Gardner, son of ex-Yankees star, died from carbon monoxide poisoning, officials say",
-      "description": "Officials in Costa Rica confirmed Wednesday that the official cause of death for 14-year-old Miller Gardner was carbon monoxide poisoning.",
-      "url": "https://www.foxnews.com/sports/miller-gardner-son-ex-yankees-star-died-from-carbon-monoxide-poisoning-officials-say",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/crop-gardner.jpg",
-      "publishedAt": "2025-04-03T16:12:48Z",
-      "content": "Officials in Costa Rica have confirmed the official cause of death of Miller Gardner, the 14-year-old son of former New York Yankees\r\n player Brett Gardner who died under mysterious circumstances on … [+2381 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Phil Helsel, David K. Li",
-      "title": "Toxicology tests show Brett Gardner’s son died of carbon monoxide poisoning, agency says",
-      "description": "The 14-year-old son of former New York Yankees player Brett Gardner died of carbon monoxide poisoning while on vacation in Costa Rica last month, an investigative agency in the Central American country said Thursday.",
-      "url": "https://www.nbcnews.com/news/world/brett-gardners-son-died-carbon-monoxide-poisonin-rcna199424",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250401-miller-gardner-inline-se-406p-ea6cdd.jpg",
-      "publishedAt": "2025-04-03T15:20:06Z",
-      "content": "The 14-year-old son of former New York Yankees player Brett Gardner died of carbon monoxide poisoning while on vacation in Costa Rica last month, an investigative agency in the Central American count… [+1479 chars]"
     }
   ],
   "totalResults": 93,
