@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-04-09T18:32:29.161Z",
+  "lastUpdated": "2025-04-10T01:51:38.561Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Christopher Marquis, Contributor, \n Christopher Marquis, Contributor\n https://www.forbes.com/sites/christophermarquis/",
+      "title": "Brewing Change: How Suki Tea Is Tackling The Tea Industry’s Hidden Environmental Costs",
+      "description": "Suki Tea’s Oscar Woolley shares how the company has embraced ethical sourcing, plastic-free packaging, and workplace wellbeing to build a more sustainable tea business.",
+      "url": "https://www.forbes.com/sites/christophermarquis/2025/04/08/brewing-change-how-suki-tea-is-tackling-the-tea-industrys-hidden-environmental-costs/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67eef978955ecab2b816aad6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-08T22:17:14Z",
+      "content": "Suki Tea has embraced ethical sourcing, plastic-free packaging, and workplace wellbeing to build a ... More more sustainable tea business.\r\nSuki Tea\r\nIn an era of heightened awareness around plastic … [+11563 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -242,7 +255,7 @@
       },
       "author": "Willow Tohi",
       "title": "The hidden defense against microplastics: How dark-colored fruits and vegetables could shield your health",
-      "description": "Tiny plastic particles (under 5mm) contaminate air, water, food and even human tissues, contributing to hormone disruption, DNA damage and chronic diseases like heart disease and infertility. Found in deeply colored fruits and vegetables (e.g., blueberries, b…",
+      "description": "Tiny plastic particles (under 5mm) contaminate air, water, food and even human tissues, contributing to hormone disruption, DNA damage and chronic diseases like heart disease and infertility. Found in deeply colored fruits and vegetables (e.g., blueberries, b���",
       "url": "https://www.naturalnews.com/2025-04-08-defense-against-microplastics-dark-colored-fruits-veggies.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/microplastics-1.jpeg",
       "publishedAt": "2025-04-08T06:00:00Z",
@@ -1170,19 +1183,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2620999/cookie-recall-map.png",
       "publishedAt": "2025-04-04T14:28:02Z",
       "content": "Thousands of cases of frozen and ready-to-eat cookies are being recalled because of possible contamination with plastic, according to a notice published by the U.S. Food and Drug Administration (FDA)… [+2704 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Tortilla Chips Recall Update as FDA Issues Highest Risk Warning",
-      "description": "Frito-Lay has initiated a recall for a number of 13-ounce bags of Tostitos Cantina Traditional Yellow Corn Tortilla Chips after the product was found to potentially contain nacho cheese-flavored chips, meaning it may contain an undeclared allergen.\nThe Food a…",
-      "url": "https://biztoc.com/x/4d618fb37002e1d0",
-      "urlToImage": "https://biztoc.com/cdn/4d618fb37002e1d0_s.webp",
-      "publishedAt": "2025-04-04T14:22:42Z",
-      "content": "Frito-Lay has initiated a recall for a number of 13-ounce bags of Tostitos Cantina Traditional Yellow Corn Tortilla Chips after the product was found to potentially contain nacho cheese-flavored chip… [+143 chars]"
     }
   ],
   "totalResults": 91,
