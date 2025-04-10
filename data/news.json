@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-04-10T12:48:38.432Z",
+  "lastUpdated": "2025-04-10T18:29:33.083Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "National Social Security Fund of Morocco Suffers Data Breach",
+      "description": "Threat actor ‘Jabaroot’ claims breach of National Social Security Fund of Morocco, aiming to steal large volumes of sensitive citizen data. Resecurity has identified a threat actor targeting government systems in Morocco with the goal of exfiltrating large vo…",
+      "url": "https://securityaffairs.com/176388/security/national-social-security-fund-of-morocco-suffers-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/signal-2025-04-09-201147_002.jpeg",
+      "publishedAt": "2025-04-09T18:21:09Z",
+      "content": "National Social Security Fund of Morocco Suffers Data Breach\r\n | Critical Fortinet FortiSwitch flaw allows remote attackers to change admin passwords\r\n | The US Treasurys OCC disclosed an undetected … [+154596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "Danielle Deangelis",
+      "title": "Butter Recalled Due to Potential Fecal Contamination",
+      "description": "A recall was just announced on 1,700 pounds of butter sold in seven states due to “elevated levels of coliform.” Here’s what to know.",
+      "url": "https://www.eatingwell.com/butter-recalled-potential-fecal-contamination-11712153",
+      "urlToImage": "https://www.eatingwell.com/thmb/Qp_SJ4zKjwYtp4tsUQcOPEe5ciA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Butter-Recalled-in-7-States-Due-to-Contamination-27b97d8252a641f39758c96caaa39915.jpg",
+      "publishedAt": "2025-04-09T18:16:14Z",
+      "content": "Key Takeaways\r\n<ul><li>Cabot Creamery butter with sea salt is being recalled.</li><li>The recalled butter contains elevated levels of coliform, a bacteria found in feces.</li><li>The butter was sold … [+1565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Critical Fortinet FortiSwitch flaw allows remote attackers to change admin passwords",
+      "description": "Fortinet addressed a critical vulnerability in its FortiSwitch devices that can be exploited to change administrator passwords remotely. Fortinet has released security updates to address a critical vulnerability, tracked as CVE-2024-48887 (CVSS score 9.8), in…",
+      "url": "https://securityaffairs.com/176380/security/fortinet-fortiswitch-flaw.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg",
+      "publishedAt": "2025-04-09T17:50:02Z",
+      "content": "Critical Fortinet FortiSwitch flaw allows remote attackers to change admin passwords\r\n | The US Treasurys OCC disclosed an undetected major email breach for over a year\r\n | U.S. CISA adds Gladinet Ce… [+154531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "Can You Freeze Eggs? Here's Everything to Know About Keeping Them Fresh",
+      "description": "While egg prices are still high, you may be wondering if you can freeze them to ensure they don't spoil. The answer is yes, but there's a caveat.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/can-you-freeze-eggs-heres-everything-to-know-about-keeping-them-fresh/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/454f63b65202d17dc67603f7bf051915e6f1a389/hub/2022/09/16/d9511990-ea04-4908-9198-faa0aeeb4c82/gettyimages-1308706741.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-09T15:00:00Z",
+      "content": "Eggs are a protein-packed staple in many households, offering versatility and essential nutrients in every bite. As egg prices continue to shock us, proper storage is more important now than ever to … [+5039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jun Zhang, Siwen Liu, Wenlong Yang, Yanling Xie, Chuange Shao, Zhi-Ren Zhang, Chunyu Li, Xiaoqiang Yao",
+      "title": "Fusaric acid-mediated S-glutathionylation of MaAKT1 channel confers the virulence of Foc TR4 to banana",
+      "description": "Author summary Fusaric acid (FSA) is a secondary metabolite commonly produced by Fusarium strains during plant infection. Although FSA has been identified as a virulence factor in several pathosystems, its mechanism of action has not been fully understood. In…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013066",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013066.g009&size=inline",
+      "publishedAt": "2025-04-09T14:00:00Z",
+      "content": "Abstract\r\nOur previous studies have demonstrated that the phytotoxin fusaric acid (FSA), secreted by several Fusarium species, acts as a key factor in the development of plant diseases; however, the … [+81820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sjan Timilsina, Fernanda Iruegas-Bocardo, Mustafa O. Jibrin, Anuj Sharma, Aastha Subedi, Amandeep Kaur, Gerald V. Minsavage, Jose C. Huguet-Tapia, Jeannie Klein-Gordon, Pragya Adhikari, Tika B. Adhikari, Gabriella Cirvilleri, Laura Belen Tapia de la Barrera, Eduardo Bernal, Tom C. Creswell, Tien Thi Kieu Doan, Teresa A. Coutinho, Daniel S. Egel, Rubén Félix-Gastélum, David M. Francis, Misrak Kebede, Melanie Lewis Ivey, Frank J. Louws, Laixin Luo, Elizabeth T. Maynard, Sally A. Miller, Nga Thi Thu Nguyen, Ebrahim Osdaghi, Alice M. Quezado-Duval, Rebecca Roach, Francesca Rotondo, Gail E. Ruhl, Vou M. Shutt, Petcharat Thummabenjapone, Cheryl Trueman, Pamela D. Roberts, Jeffrey B. Jones, Gary E. Vallad, Erica M. Goss",
+      "title": "Diversification of an emerging bacterial plant pathogen; insights into the global spread of Xanthomonas euvesicatoria pv. perforans",
+      "description": "Author summary Bacterial diseases pose significant threats to food security by reducing crop yield and increasing production costs. Managing these diseases is particularly challenging when pathogen populations are genetically diverse, rapidly evolving, and ca…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013036",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013036.g003&size=inline",
+      "publishedAt": "2025-04-09T14:00:00Z",
+      "content": "Citation: Timilsina S, Iruegas-Bocardo F, Jibrin MO, Sharma A, Subedi A, Kaur A, et al. (2025) Diversification of an emerging bacterial plant pathogen; insights into the global spread of Xanthomonas … [+54756 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -883,7 +961,7 @@
       "url": "https://securityaffairs.com/176235/security/security-affairs-newsletter-round-518-by-pierluigi-paganini-international-edition.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
       "publishedAt": "2025-04-06T11:40:04Z",
-      "content": "Security Affairs newsletter Round 518 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC\r\n | A flaw in Verizons… [+153464 chars]"
+      "content": "Security Affairs newsletter Round 518 by Pierluigi Paganini INTERNATIONAL EDITION\r\n |��Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC\r\n | A flaw in Verizons… [+153464 chars]"
     },
     {
       "source": {
@@ -1105,84 +1183,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/428ea3fc-44c8-41d6-873d-33b04bdf2969",
       "publishedAt": "2025-04-05T00:22:00Z",
       "content": "Denver, April 04, 2025 (GLOBE NEWSWIRE) -- Neuropathy, a condition affecting millions globally, manifests as nerve pain, tingling, and numbness, significantly impacting the quality of life. Tradition… [+54984 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Chijioke Iremeka",
-      "title": "7 safety tips for limiting microplastics in the body",
-      "description": "Limiting the presence of microplastics in the body is challenging due to their widespread presence in the environment. However, several steps can help reduce exposure. Microplastics, tiny plastic particles less than five millimetres in size, are a growing env…",
-      "url": "https://punchng.com/7-safety-tips-for-limiting-microplastics-in-the-body/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/04/04193022/microplastics.jpg",
-      "publishedAt": "2025-04-05T00:01:59Z",
-      "content": "Limiting the presence of microplastics in the body is challenging due to their widespread presence in the environment. However, several steps can help reduce exposure.\r\nMicroplastics, tiny plastic pa… [+8500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Microplastics Accumulate in Your Brain More Than Other Organs",
-      "description": "Everywhere you look, plastic is a part of modern life. From packaging to clothing, it's almost inescapable. However, what you might not realize is that plastic is not just around you; it's increasingly accumulating inside you. Microscopic plastic particles, k…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/04/05/microplastics-accumulate-in-your-brain.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/April/FB/microplastics-accumulate-in-your-brain-fb.jpg",
-      "publishedAt": "2025-04-05T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "Haley Zaremba",
-      "title": "Demand for Lithium Strains Water Resources",
-      "description": "While lithium has a starring role in the global clean energy transition thanks to its fundamental importance in batteries for electric vehicles and energy storage, the “white gold” may be as much of an environmental threat as it is a savior. Extraction proces…",
-      "url": "https://oilprice.com/Energy/Energy-General/Demand-for-Lithium-Strains-Water-Resources.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-04-04_nfhsb9toud.jpg",
-      "publishedAt": "2025-04-04T23:00:00Z",
-      "content": "Chinas state energy giants …\r\nOil prices plummeted by more…\r\nMany freshly tariffed governments are…\r\nBy Haley Zaremba - Apr 04, 2025, 6:00 PM CDTWhile lithium has a starring role in the global clean … [+4473 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "Pocky",
-      "title": "Feature: Laos faces UXO threat, calls for continued support",
-      "description": "VIENTIANE, April 4 (Xinhua) -- Despite progress in clearing unexploded ordnance (UXO), Laos still faces challenges, with the threat hindering livelihoods and socio-economic development. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/04/05/feature-laos-faces-uxo-threat-calls-for-continued-support",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-04-04T19:10:00Z",
-      "content": "VIENTIANE, April 4 (Xinhua) -- Despite progress in clearing unexploded ordnance (UXO), Laos still faces challenges, with the threat hindering livelihoods and socio-economic development.\r\n Speaking at… [+2568 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UN News"
-      },
-      "author": "United Nations",
-      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-      "description": "In South Sudan, the head of the United Nations Mission in South Sudan (UNMISS) continues to be engaged in intensive high-level political efforts to de-escalate the current tensions and convince the parties to preserve the peace deal they all agreed to.",
-      "url": "https://press.un.org/en/2025/db250404.doc.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-04-04T18:59:35Z",
-      "content": "The following is a near-verbatim transcript of todays briefing by Stéphane Dujarric, Spokesman for the Secretary-General.\r\n**Myanmar\r\nGood afternoon.  Starting off with Myanmar:  As announced by the … [+27240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Longreads.com"
-      },
-      "author": "Krista Stevens",
-      "title": "Wasting Away",
-      "description": "\"Rampant pollution caused manatees to starve. Florida waters are getting worse.\"",
-      "url": "http://longreads.com/2025/04/04/wasting-away/",
-      "urlToImage": null,
-      "publishedAt": "2025-04-04T17:38:31Z",
-      "content": "Why are Florida manatees starving to death in unprecedented numbers? What has compromised the sea grass they favor as food? As it turns out, officials have known that nitrogen and phosphorus runoff f… [+1396 chars]"
     }
   ],
   "totalResults": 91,
