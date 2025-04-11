@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-04-11T01:52:21.756Z",
+  "lastUpdated": "2025-04-11T06:32:48.535Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "New study confirms brown rice contains 40% more toxic arsenic than white rice, putting young children at risk",
+      "description": "Brown rice contains significantly higher levels of arsenic than white rice, with the toxic element concentrating in the bran layer. Children under 5, especially infants, face the highest risk due to their higher food intake relative to body weight. Despite it…",
+      "url": "https://www.naturalnews.com/2025-04-10-brown-rice-contains-40-more-toxic-arsenic-than-white-rice.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brown-Rice-Food.jpg",
+      "publishedAt": "2025-04-10T06:00:00Z",
+      "content": "<ul><li>Brown rice contains significantly higher levels of arsenic than white rice, with the toxic element concentrating in the bran layer.</li><li>Children under 5, especially infants, face the high… [+4641 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Brittany Miller",
+      "title": "Popular hot sauce recalled in 10 states due to possible ‘life-threatening’ allergen",
+      "description": "Two different flavors of Texas Pete hot sauce were recalled",
+      "url": "https://www.the-independent.com/life-style/food-and-drink/texas-pete-hot-sauce-recall-sulfite-fda-b2730690.html",
+      "urlToImage": "https://static.the-independent.com/2025/04/09/17/37/MixCollage-09-Apr-2025-01-50-PM-4040.jpeg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-04-10T05:03:56Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3554 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Frito-Lay chips recall upgraded to most dangerous classification over ‘life-threatening’ risk",
+      "description": "The chips were recalled last because they may have contained an undeclared allergen",
+      "url": "https://www.the-independent.com/life-style/frito-lay-tostitos-corn-chips-recall-b2730689.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-04-10T05:00:55Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FOX 13 Tampa Bay"
+      },
+      "author": "Aaron Mesmer",
+      "title": "Dozens of people recovering from sickness after eating at South Tampa restaurant",
+      "description": "Dozens of people recovering from sickness after eating at South Tampa restaurantfox13news.com",
+      "url": "https://www.fox13news.com/news/dozens-people-recovering-from-sickness-after-eating-south-tampa-restaurant",
+      "urlToImage": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2025/04/1280/720/vlcsnap-2025-04-09-20h39m05s429.jpg?ve=1&tl=1",
+      "publishedAt": "2025-04-10T05:00:48Z",
+      "content": "TAMPA - Dozens of customers at a popular South Tampa restaurant were recovering this week after they all reported getting sick with similar symptoms.\r\nA diner who spoke with FOX 13 said she went to Y… [+3995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Kaleigh Werner",
+      "title": "Butter recalled in seven states due to potentially dangerous bacteria contamination",
+      "description": "The affected Cabot Creamery butter was sold across seven states",
+      "url": "https://www.the-independent.com/life-style/butter-recall-cabot-creamery-fda-b2730688.html",
+      "urlToImage": "https://static.the-independent.com/2025/04/09/18/21/MixCollage-09-Apr-2025-02-46-PM-3532.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-04-10T04:58:38Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3332 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Andrea Margolis",
+      "title": "'Extra creamy' butter recalled due to stomach-churning bacterial contamination",
+      "description": "A batch of Cabot Creamery butter, distributed by Agri-Mark, was recalled because of coliform bacteria, prompting concerns about potential fecal contamination.",
+      "url": "https://www.foxnews.com/food-drink/extra-creamy-butter-recalled-stomach-churning-bacterial-contamination",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/knife-cutting-into-stick-of-butter.jpg",
+      "publishedAt": "2025-04-10T01:58:59Z",
+      "content": "An \"extra creamy\" variety of butter was recently recalled due to coliform bacteria, raising alarms about potential fecal contamination.\r\nThe recall applied to one lot of 8-ounce Cabot Creamery Extra … [+2251 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -935,7 +1013,7 @@
       "url": "https://securityaffairs.com/176317/cyber-crime/poisonseed-campaign-uses-stolen-email-credentials-to-spread-crypto-seed-scams-and-and-empty-wallets.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-15.png",
       "publishedAt": "2025-04-07T11:09:03Z",
-      "content": "PoisonSeed Campaign uses stolen email credentials to spread crypto seed scams and and empty wallets\r\n | EDR-as-a-Service makes the headlines in the cybercrime landscape\r\n | Oracle privately notifies ��� [+153747 chars]"
+      "content": "PoisonSeed Campaign uses stolen email credentials to spread crypto seed scams and and empty wallets\r\n | EDR-as-a-Service makes the headlines in the cybercrime landscape\r\n | Oracle privately notifies … [+153747 chars]"
     },
     {
       "source": {
@@ -1092,84 +1170,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2025/03/TunaCan.jpg",
       "publishedAt": "2025-04-06T14:00:18Z",
       "content": "The benefits of getting fish in your diet are well known (it's in the Mediterranean diet, for example), but mercury poisoning remains a concern. Now, scientists have figured out how to cut levels of … [+2823 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 40",
-      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape CISA Releases Malware Analysis Report on RESURGE Malware Associated with Ivanti Connect Secure   Unboxing Anubis: Exploring t…",
-      "url": "https://securityaffairs.com/176244/malware/security-affairs-malware-newsletter-round-40.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "publishedAt": "2025-04-06T11:47:42Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 40\r\n | Security Affairs newsletter Round 518 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Expert used ChatGPT-4o to create a replica of his passport in ju… [+153513 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 518 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. A flaw in Veri…",
-      "url": "https://securityaffairs.com/176235/security/security-affairs-newsletter-round-518-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-04-06T11:40:04Z",
-      "content": "Security Affairs newsletter Round 518 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC\r\n | A flaw in Verizons… [+153464 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Brittany Miller",
-      "title": "Juice recalled in 12 states due to possible botulism contamination",
-      "description": "Customers should contact Walker’s Wine Juice to determine how to dispose of the juice",
-      "url": "https://www.the-independent.com/life-style/food-and-drink/walkers-wine-juice-recall-pumpkin-botulism-b2728294.html",
-      "urlToImage": "https://static.the-independent.com/2025/04/04/15/17/gettyimages-2178426077-170667a.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-06T10:54:53Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3205 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC",
-      "description": "A researcher used ChatGPT-4o to create a replica of his passport in just five minutes, realistic enough to deceive most automated KYC systems. Polish researcher Borys Musielak (@michuk) used ChatGPT-4o to generate a fake passport in just five minutes. The doc…",
-      "url": "https://securityaffairs.com/176224/security/chatgpt-4o-to-create-a-replica-of-his-passport-in-just-five-minutes.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-8.png",
-      "publishedAt": "2025-04-06T08:19:53Z",
-      "content": "Expert used ChatGPT-4o to create a replica of his passport in just 5 minutes bypassing KYC\r\n | A flaw in Verizons iOS Call Filter app exposed call records of millions\r\n | Port of Seattle 's August da… [+153378 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Mike Adams",
-      "title": "Widespread social and economic unrest: Steve Quayle issues urgent financial warning of imminent asset collapse in new interview with Mike Adams",
-      "description": "Things are looking dire in the world of financial assets. Trump’s tariffs have set off a wave of defaults and margin calls that may be far beyond what Trump anticipated would occur. Or, as some analysts are saying, Trump is deliberately trying to collapse the…",
-      "url": "https://www.naturalnews.com/2025-04-06-steve-quayle-issues-urgent-financial-warning.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Burned-Dollar-US-Economy.jpg",
-      "publishedAt": "2025-04-06T06:00:00Z",
-      "content": "Things are looking dire in the world of financial assets. Trump's tariffs have set off a wave of defaults and margin calls that may be far beyond what Trump anticipated would occur. Or, as some analy… [+8270 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Hannah Twiggs",
-      "title": "Roast meat cooking times: How long to cook every joint for a perfect Easter lunch",
-      "description": "Overcooked lamb, dry chicken, pork with no crackle – the Easter roast can be a battlefield. Here’s how to nail every joint, every time, with timings that actually work and tips that don’t involve guesswork or blind hope",
-      "url": "https://www.the-independent.com/life-style/food-and-drink/recipes/roast-meat-cooking-times-how-long-to-cook-easter-b2727398.html",
-      "urlToImage": "https://static.the-independent.com/2022/09/23/09/newFile-2.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-06T05:00:00Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+6508 chars]"
     }
   ],
   "totalResults": 90,
