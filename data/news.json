@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-04-11T06:32:48.535Z",
+  "lastUpdated": "2025-04-11T12:47:02.840Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mashed.com"
+      },
+      "author": "Charlotte Pointing",
+      "title": "The Biggest Recalls In Jam History",
+      "description": "Practically no food product is safe from the dreaded recall and as history shows, this includes numerous jam brands as well.",
+      "url": "https://www.mashed.com/1822712/biggest-recalls-jam/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8wMaz1ORlzrrXen0Hgh8Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/mashed_603/cef9e62f468e11452cafd6d77950a566",
+      "publishedAt": "2025-04-10T12:30:00Z",
+      "content": "When it comes to toast, sandwich fillings, and cake, jam is a go-to ingredient for people all over the world. Research suggests that more than 294 million Americans consumed some type of jam or jelly… [+15948 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Sorcha Pollak",
+      "title": "Eddie Rockets branch ordered to close after rodent droppings found in kitchen",
+      "description": "Seven restaurants, takeaways and food warehouses in Dublin, Louth, Roscommon and Limerick ordered to close following inspections",
+      "url": "https://www.irishtimes.com/ireland/2025/04/10/eddie-rockets-branch-ordered-to-close-after-rodent-droppings-found-in-kitchen/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/P6R5TUVCRGDJO3BAGL24L3THYE.jpg?smart=true&auth=705408d2f6e956e39ef00ffcfa4d69fe77b3723203e771ffc16ba1f5ff86e455&width=1200&height=630",
+      "publishedAt": "2025-04-10T12:08:07Z",
+      "content": "Eddie Rockets in Dublins Point Village has been ordered to close immediately after inspectors found fresh rodent droppings and evidence of contamination through rat urine and faeces in the kitchen of… [+3565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "An APT group exploited ESET flaw to execute malware",
+      "description": "At least one APT group has exploited a vulnerability in ESET software to stealthily execute malware, bypassing security measures. Kaspersky researchers reported that an APT group, tracked as ToddyCat, has exploited a vulnerability in ESET software to stealthi…",
+      "url": "https://securityaffairs.com/176364/security/an-apt-group-exploited-eset-flaw-to-execute-malware.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-19.png",
+      "publishedAt": "2025-04-10T10:47:51Z",
+      "content": "An APT group exploited ESET flaw to execute malware\r\n | Oracle confirms the hack of two obsolete servers hacked. No Oracle Cloud systems or customer data were affected\r\n | National Social Security Fu… [+154768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Biolubricants Global Industry Overview Report 2024-2030, Competitive Analysis of 40+ Companies",
+      "description": "This global report on Biolubricants analyzes the market based on base oil, application and end-use sector for the period 2021-2030 with forecasts from 2024 to 2030 in terms of value in US$. In addition to providing profiles of major companies operating in thi…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/10/3059055/28124/en/Biolubricants-Global-Industry-Overview-Report-2024-2030-Competitive-Analysis-of-40-Companies.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-04-10T09:46:00Z",
+      "content": "Dublin, April 10, 2025 (GLOBE NEWSWIRE) -- The \"Biolubricants - A Global Market Overview\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global demand for Biolubricants is estimated… [+9946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Oracle confirms the hack of two obsolete servers hacked. No Oracle Cloud systems or customer data were affected",
+      "description": "Oracle confirmed a hacker stole credentials from two obsolete servers but said no Oracle Cloud systems or customer data were affected. Oracle confirmed a hacker stole and leaked credentials from two obsolete servers, but said no Oracle Cloud systems or custom…",
+      "url": "https://securityaffairs.com/176398/data-breach/oracle-confirms-the-hack-of-two-obsolete-servers-hacked-no-oracle-cloud-systems-or-customer-data-were-affected.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-18.png",
+      "publishedAt": "2025-04-10T09:34:14Z",
+      "content": "Oracle confirms the hack of two obsolete servers hacked. No Oracle Cloud systems or customer data were affected\r\n | National Social Security Fund of Morocco Suffers Data Breach\r\n | Critical Fortinet … [+154712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Standard Digital"
+      },
+      "author": "Patrick Beja",
+      "title": "Dirty containers raise alarm at Kenyan ports",
+      "description": "Most containers used to import cargo through major Kenyan ports are contaminated and pose health risks to consumers, a new survey shows.",
+      "url": "http://www.standardmedia.co.ke/business/shipping-logistics/article/2001516029/dirty-containers-raise-alarm-at-kenyan-ports",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/mABJv8jkO1wzLoR9ymsqsE1PTfbScxBchcRCTvCy.jpg",
+      "publishedAt": "2025-04-10T08:45:36Z",
+      "content": "Containers at the Port of Mombasa. March 3,2025 [Omondi Onyango,Standard]\r\nMost containers used to import cargo through major Kenyan ports are contaminated and pose health risks to consumers, a new s… [+4224 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Sana Khan",
+      "title": "Cabot Creamery Recalls Butter In 7 States Over Bacterial Contamination Concerns",
+      "description": "The recalled butter was distributed in seven states: Arkansas, Connecticut, Maine, New Hampshire, New York, Pennsylvania, and Vermont.",
+      "url": "https://www.ibtimes.com/cabot-creamery-recalls-butter-7-states-over-bacterial-contamination-concerns-3769537",
+      "urlToImage": "https://d.ibtimes.com/en/full/3806548/butter.jpg",
+      "publishedAt": "2025-04-10T07:26:07Z",
+      "content": "Cabot Creamery has recalled its butter in seven U.S. states after tests found high levels of coliform bacteria in the product, which can indicate possible fecal contamination.\r\nThe recall involved 18… [+2206 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1079,97 +1170,6 @@
       "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-04-07T09:01:33Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+8675 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "EDR-as-a-Service makes the headlines in the cybercrime landscape",
-      "description": "Cybercriminals exploit compromised accounts for EDR-as-a-Service (Emergency Data Requests – EDR), targeting major platforms According to a detailed analysis conducted by Meridian Group, an increasingly complex and structured phenomenon, commonly referred to a…",
-      "url": "https://securityaffairs.com/176266/cyber-crime/edr-as-a-service-edr-cybercrime.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-10.png",
-      "publishedAt": "2025-04-07T08:19:42Z",
-      "content": "EDR-as-a-Service makes the headlines in the cybercrime landscape\r\n | Oracle privately notifies Cloud data breach to customers\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 40\r\n | Security Affairs new… [+153643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Tivano Cutting Board",
-      "title": "Tivano Cutting Board Reviews [Read Before Buying]: Does This Titanium Board Really Work?",
-      "description": "NEWARK, N.J., April 07, 2025 (GLOBE NEWSWIRE) -- When it comes to kitchen utensils, cutting boards are rarely given much thought. The majority of people pick one up carelessly, use it every day, then replace it when it begins to smell, break, or get stained. …",
-      "url": "https://www.globenewswire.com/news-release/2025/04/07/3056461/0/en/Tivano-Cutting-Board-Reviews-Read-Before-Buying-Does-This-Titanium-Board-Really-Work.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/675cc714-52f5-4b82-a830-0d9cbaf9c73a",
-      "publishedAt": "2025-04-07T08:10:00Z",
-      "content": "NEWARK, N.J., April 07, 2025 (GLOBE NEWSWIRE) -- When it comes to kitchen utensils, cutting boards are rarely given much thought. The majority of people pick one up carelessly, use it every day, then… [+34541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Dennis Naku",
-      "title": "HYPREP partners Australian centre on Ogoni cleanup",
-      "description": "The Hydrocarbon Pollution Remediation Project has announced plans to partner with Australia’s Cooperative Research Centre for Contamination Assessment and Remediation of the Environment to enhance the cleanup in Ogoniland, Rivers State. While describing the p…",
-      "url": "https://punchng.com/hyprep-partners-australian-centre-on-ogoni-cleanup/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/09/22235014/ogoni-clean-up.jpg",
-      "publishedAt": "2025-04-07T00:26:33Z",
-      "content": "The Hydrocarbon Pollution Remediation Project has announced plans to partner with Australias Cooperative Research Centre for Contamination Assessment and Remediation of the Environment to enhance the… [+1800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Oracle privately notifies Cloud data breach to customers",
-      "description": "Oracle confirms a cloud data breach, quietly informing customers while downplaying the impact of the security breach. Oracle confirms a data breach and started informing customers while downplaying the impact of the incident. A threat actor using the moniker …",
-      "url": "https://securityaffairs.com/176278/data-breach/oracle-privately-notifies-cloud-data-breach-to-customers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-14.png",
-      "publishedAt": "2025-04-06T20:33:53Z",
-      "content": "Oracle privately notifies Cloud data breach to customers\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 40\r\n | Security Affairs newsletter Round 518 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Exp… [+153574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Atlas"
-      },
-      "author": "Ben Coxworth",
-      "title": "Pomegranate peels put to use as an edible strawberry-saving coating",
-      "description": "If you've ever eaten a pomegranate, you'll know that a great deal of the fruit is composed of its thick skin – which simply gets thrown away. Soon, however, that skin could be used in an edible coating which will help keep strawberries from spoiling.Continue …",
-      "url": "https://newatlas.com/science/pomegranate-peels-edible-strawberry-preserving-coating/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/5eb3d3b/2147483647/strip/true/crop/957x502+0+68/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F79%2F31%2Ffc50a5304422b428d9a352dc02f9%2Fedible-biofilm.jpeg&na.image_optimisation=0",
-      "publishedAt": "2025-04-06T16:03:00Z",
-      "content": "If you've ever eaten a pomegranate, you'll know that a great deal of the fruit is composed of its thick skin which simply gets thrown away. Soon, however, that skin could be used in an edible coating… [+2269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "9 essential food allergy facts every parent needs to know",
-      "description": "Food allergies have become an increasingly common challenge for American families, now affecting approximately 8% of children nationwide. This troubling trend has grown steadily over three decades, leaving many parents navigating unfamiliar territory when the…",
-      "url": "https://rollingout.com/2025/04/06/food-allergy-facts-parent-needs-to-know/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/04/shutterstock_2466624405-scaled.jpg",
-      "publishedAt": "2025-04-06T14:55:46Z",
-      "content": "Food allergies have become an increasingly common challenge for American families, now affecting approximately 8% of children nationwide. This troubling trend has grown steadily over three decades, l… [+11110 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "Scientists Discover a Simple Method to Reduce Mercury Levels in Tuna",
-      "description": "The benefits of getting fish in your diet are well known (it's in the Mediterranean diet, for example), but mercury poisoning remains a concern.",
-      "url": "https://www.sciencealert.com/scientists-discover-a-simple-method-to-reduce-mercury-levels-in-tuna",
-      "urlToImage": "https://www.sciencealert.com/images/2025/03/TunaCan.jpg",
-      "publishedAt": "2025-04-06T14:00:18Z",
-      "content": "The benefits of getting fish in your diet are well known (it's in the Mediterranean diet, for example), but mercury poisoning remains a concern. Now, scientists have figured out how to cut levels of … [+2823 chars]"
     }
   ],
   "totalResults": 90,
