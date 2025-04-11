@@ -1,6 +1,240 @@
 {
-  "lastUpdated": "2025-04-11T12:47:02.840Z",
+  "lastUpdated": "2025-04-11T18:31:57.626Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Linux Kernel flaws, respectively tracked as CVE-2024-53…",
+      "url": "https://securityaffairs.com/176427/hacking/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-04-10T18:25:59Z",
+      "content": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog\r\n | AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites\r\n | An APT group exploited ESET flaw to ex… [+154929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Duda Farm Fresh Foods, Inc. Recalls 1,587 Cases of 4 in/1.6 oz Bundle Marketside Celery Sticks Because of Possible Health Risk",
+      "description": "Oxnard, Calif. – April 10, 2025 – Duda Farm Fresh Foods, Inc. is voluntarily issuing a precautionary advisory of a single production lot of washed and ready-to-eat 4 in/1.6oz Marketside Celery Sticks with best if used by date 03/23/2025.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/duda-farm-fresh-foods-inc-recalls-1587-cases-4-in16-oz-bundle-marketside-celery-sticks-because",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-04-10T17:39:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nApril 10, 2025\r\nFDA Publish Date:\r\nApril 10, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nProduce\r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Descr… [+2560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Duda Farm Fresh Foods, Inc. Issues Advisory for 1,587 Cases of 4 in/1.6 oz Bundle Marketside Celery Sticks Because of Possible Health Risk",
+      "description": "Oxnard, Calif. – April 10, 2025 – Duda Farm Fresh Foods, Inc. is voluntarily issuing a precautionary advisory of a single production lot of washed and ready-to-eat 4 in/1.6oz Marketside Celery Sticks with best if used by date 03/23/2025.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/duda-farm-fresh-foods-inc-issues-advisory-1587-cases-4-in16-oz-bundle-marketside-celery-sticks",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-04-10T17:39:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nApril 10, 2025\r\nFDA Publish Date:\r\nApril 10, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nProduce\r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Descr… [+2561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Kaleigh Werner",
+      "title": "Butter recalled in seven states due to contamination with bacteria found in feces",
+      "description": "Cabot Creamery issued a voluntary recall on 1,700 pounds of its butter",
+      "url": "https://www.the-independent.com/life-style/butter-recall-cabot-creamery-fda-b2731154.html",
+      "urlToImage": "https://static.the-independent.com/2025/04/09/18/21/MixCollage-09-Apr-2025-02-46-PM-3532.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-04-10T17:07:15Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bangkok Post"
+      },
+      "author": "AFP",
+      "title": "Global plastic recycling rates 'stagnant' at under 10%: study",
+      "description": "<p>PARIS - The amount of plastic being recycled around the world is stagnant at less than 10 percent with most new plastic still made from fossil fuels, a new study said Thursday.</p>",
+      "url": "https://www.bangkokpost.com/world/3000567/global-plastic-recycling-rates-stagnant-at-under-10-study",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20250410/c1_5552727_700.jpg",
+      "publishedAt": "2025-04-10T15:45:00Z",
+      "content": "PARIS - The amount of plastic being recycled around the world is stagnant at less than 10 percent with most new plastic still made from fossil fuels, a new study said Thursday.\r\nResearchers from Tsin… [+3324 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Cabot Creamery butter recalled over fecal bacteria contamination",
+      "description": "A Vermont firm is recalling more than 1,700 pounds of butter because it may be contaminated with coliform, a type of bacteria found in fecal matter",
+      "url": "https://abcnews.go.com/Business/wireStory/cabot-creamery-butter-recalled-fecal-bacteria-contamination-120681539",
+      "urlToImage": "https://i.abcnewsfe.com/a/9e9a8d08-1615-41fb-a5af-a7dbd1f4da85/wirestory_1badb501647b83790f5ebdf9eb82b2f0_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-10T15:42:17Z",
+      "content": "A Vermont firm has recalled more than 1,700 pounds of butter because it may be contaminated with coliform, a type of bacteria found in fecal matter. \r\nAgri-Mark Inc., of Waitsfield, Vermont, recalled… [+1352 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "Jane Moore",
+      "title": "Rodent droppings and dead rat among reasons for food business closure orders last month",
+      "description": "Seven food businesses were served closure orders by the Food Safety Authority of Ireland in March.",
+      "url": "https://www.thejournal.ie/closure-orders-seven-food-businesses-food-safety-authority-6674547-Apr2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6674547/river/?height=400&version=6674586",
+      "publishedAt": "2025-04-10T15:32:30Z",
+      "content": "SEVEN FOOD BUSINESSES were served closure orders by the Food Safety Authority of Ireland (FSAI) in March.\r\nSome of the reasons for the closure orders include evidence of rodent infestation, a dead ra… [+3959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "Soy Lecithin Market To Worth Over US$ 1,002.38 Million by 2033 | Astute Analytica",
+      "description": "Soy lecithin market is evolving rapidly, driven by clean-label demands, regulatory changes, and innovations in pharmaceuticals and food applications, with significant growth potential in emerging markets and sustainability-focused sourcing strategies shaping …",
+      "url": "https://www.globenewswire.com/news-release/2025/04/10/3059491/0/en/Soy-Lecithin-Market-To-Worth-Over-US-1-002-38-Million-by-2033-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2025-04-10T15:30:00Z",
+      "content": "Chicago, April 10, 2025 (GLOBE NEWSWIRE) -- The global soy lecithin market was valued at US$ 616.98 million in 2024 and is projected to reach US$ 1,002.38 million by 2033, growing at a CAGR of 5.54% … [+16737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Cabot Creamery butter recalled over fecal bacteria contamination",
+      "description": "A Vermont firm is recalling more than 1,700 pounds of butter as it may be contaminated with a type of bacteria found in fecal matter.",
+      "url": "https://www.bostonherald.com/2025/04/10/cabot-creamery-butter-recall/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/04/Butter-Recall_09731.jpg?w=1024&h=585",
+      "publishedAt": "2025-04-10T15:22:35Z",
+      "content": "A Vermont firm has recalled more than 1,700 pounds of butter because it may be contaminated with coliform, a type of bacteria found in fecal matter.\r\nAgri-Mark Inc., of Waitsfield, Vermont, recalled … [+1394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "AFP News",
+      "title": "Global Plastic Recycling Rates 'Stagnant' At Under 10%: Study",
+      "description": "The amount of plastic being recycled around the world is stagnant at less than 10 percent with most new plastic still made from fossil fuels, a new study said Thursday.",
+      "url": "https://www.ibtimes.com/global-plastic-recycling-rates-stagnant-under-10-study-3769607",
+      "urlToImage": "https://d.ibtimes.com/en/full/4593020/less-10-percent-all-plastic-recycled-rate-that-has-remained-stagnant-even-production-has.jpg",
+      "publishedAt": "2025-04-10T15:18:18Z",
+      "content": "The amount of plastic being recycled around the world is stagnant at less than 10 percent with most new plastic still made from fossil fuels, a new study said Thursday.\r\nResearchers from Tsinghua Uni… [+3290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "AFP",
+      "title": "Global plastic recycling rates ‘stagnant’ at under 10%: study",
+      "description": "The amount of plastic being recycled around the world is stagnant at less than 10 percent with most new plastic still made from fossil fuels, a new study said Thursday. Researchers from Tsinghua University in China said the rate of recycling had barely budged…",
+      "url": "https://www.digitaljournal.com/world/global-plastic-recycling-rates-stagnant-at-under-10-study/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/04/4053bd856c16971b9792769db00cccd417a7a2b1.jpg",
+      "publishedAt": "2025-04-10T15:17:20Z",
+      "content": "Less than 10 percent of all plastic is recycled, a rate that has remained stagnant even as production has exploded - Copyright AFP Biju BORO\r\nThe amount of plastic being recycled around the world is … [+3462 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "The Associated Press",
+      "title": "Cabot Creamery butter recalled over fecal bacteria contamination",
+      "description": "A Vermont firm has recalled more than 1,700 pounds of butter because it may be contaminated with coliform, a type of bacteria found in fecal matter. Agri-Mark Inc., of Waitsfield, Vermont, recalled 189 cases of Cabot Creamery 8-ounce premium butter made with …",
+      "url": "https://financialpost.com/pmn/cabot-creamery-butter-recalled-over-fecal-bacteria-contamination",
+      "urlToImage": null,
+      "publishedAt": "2025-04-10T15:17:00Z",
+      "content": "A Vermont firm has recalled more than 1,700 pounds of butter because it may be contaminated with coliform, a type of bacteria found in fecal matter.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSu… [+3557 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Joe Edwards",
+      "title": "Teriyaki Sauce Recall as FDA Issues Risk Warning Over 'Bubbling'",
+      "description": "Nearly 1,000 bottles of sauce are being recalled after signs of microbial growth raised concerns about spoilage.",
+      "url": "https://www.newsweek.com/teriyaki-sauce-recall-fda-issues-risk-warning-bubbling-2057952",
+      "urlToImage": "https://d.newsweek.com/en/full/2624788/teriyaki-sauce.jpg",
+      "publishedAt": "2025-04-10T14:44:32Z",
+      "content": "Almost 1,000 bottles of teriyaki sauce are being recalled after the producer flagged signs of microbial growth—including swelling and bubbling—in some containers, which could indicate spoilage.\r\nManu… [+2390 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Viola Flowers",
+      "title": "Cabot Creamery issues butter recall for possible fecal contamination",
+      "description": "Cabot Creamery issued a voluntarily recall for a single lot of its Extra Creamy Premium Butter, Sea Salted in seven states, totaling 1,700 pounds across 189 cases, after testing found the product to be contaminated with elevated levels of coliform bacteria, a…",
+      "url": "https://www.nbcnews.com/news/us-news/cabot-creamery-butter-recall-fecal-contamination-rcna200593",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250410-cabot-butter-recall-mn-1000-ac90c0.jpg",
+      "publishedAt": "2025-04-10T14:33:54Z",
+      "content": "Cabot Creamery issued a voluntarily recall for a single lot of its Extra Creamy Premium Butter, Sea Salted in seven states, totaling 1,700 pounds across 189 cases, after testing found the product to … [+1257 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Smruti Priyambada Pradhan, Hirak Jyoti Chakraborty, Ayushman Gadnayak, Subhashree Subhasmita Raut, Dhruba Jyoti Sarkar, Anu Sharma, Dwijesh Chandra Mishra, Mohammad Samir Farooqi, Bijaya Kumar Behera, Basanta Kumar Das, for the Centre for Agricultural Bioinformatics (CABin) Scheme, ICAR-IASRI, New Delhi",
+      "title": "Comparative transcriptome analysis of Labeo calbasu (Hamilton, 1822) from polluted and non-polluted rivers in India",
+      "description": "Labeo calbasu (L. calbasu) is an important detrivore fish in an ecosystem. So, the present transcriptome study was undertaken in relation to polluted and non-polluted water sources from a natural perennial river system. The Illumina NovaSeq 6000 platform was …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320358",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320358.g006&size=inline",
+      "publishedAt": "2025-04-10T14:00:00Z",
+      "content": "Abstract\r\nLabeo calbasu (L. calbasu) is an important detrivore fish in an ecosystem. So, the present transcriptome study was undertaken in relation to polluted and non-polluted water sources from a n… [+49757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Anthony Phiri, Emmanuel Likulunga, Adriace Chauwa, Mildred Zulu, Beatrice Kankhuni, Ngula Monde, Sydney Malama",
+      "title": "Knowledge and awareness of bovine tuberculosis associated with raw milk and under-cooked meat contamination among cattle farmers in selected parts of zambia",
+      "description": "Author Summary Bovine tuberculosis (bTB) is a significant public health concern in Zambia, particularly among cattle farmers who handle and consume raw milk and undercooked meat. The authors conducted a cross-sectional survey among cattle farmers, abattoir wo…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012870",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012870.g001&size=inline",
+      "publishedAt": "2025-04-10T14:00:00Z",
+      "content": "Abstract\r\nBackground\r\nBovine tuberculosis (bTB) is a disease of cattle that is transmitted through direct contact with an infected animal or ingestion of contaminated food.\r\nMethods\r\nA mixed-methods … [+40218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites",
+      "description": "AkiraBot, a CAPTCHA-evading Python framework, has spammed over 80,000 websites with AI-generated messages, targeting small and medium-sized businesses. SentinelOne’s SentinelLabs researchers warn that AkiraBot, a spam framework, targets websites’ chats and co…",
+      "url": "https://securityaffairs.com/176415/cyber-crime/akirabot-ai-powered-spam-bot-evades-captcha-to-target-80000-websites.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-20.png",
+      "publishedAt": "2025-04-10T13:37:21Z",
+      "content": "AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites\r\n | An APT group exploited ESET flaw to execute malware\r\n | Oracle confirms the hack of two obsolete servers hacked. No Oracle … [+154844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Lindsay Lowe",
+      "title": "Popular butter brand recalls 1,700 pounds of product due to bacterial contamination",
+      "description": "1,700 pounds of Cabot Creamery butter has been recalled by Agri-Mark due to bacterial contamination — here's what you need to know.",
+      "url": "https://www.today.com/health/recall/cabot-creamery-butter-recall-2025-rcna200570",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-04/butter-recall-mc-250410-a04af0.jpg",
+      "publishedAt": "2025-04-10T13:30:14Z",
+      "content": "Agri-Mark, a dairy cooperative based in Vermont, has recalled about 1,700 pounds of its Cabot Creamery butter due to bacterial contamination.\r\nThe butter was recalled because it is contaminated with … [+2201 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -748,12 +982,12 @@
         "name": "DW (English)"
       },
       "author": "Natalie Muller",
-      "title": "What can be done to tackle 'forever chemicals?'",
+      "title": "How harmful are 'forever chemicals?'",
       "description": "They are found everywhere and have been linked to a range of health issues. So how can the damage from these toxic substances be minimized? One mother in the US has fought to find answers.",
-      "url": "https://www.dw.com/en/what-can-be-done-to-tackle-forever-chemicals/a-72129225",
+      "url": "https://www.dw.com/en/forever-chemicals-toxic-substances-chemicals-health-pfas/a-72129225",
       "urlToImage": "https://static.dw.com/image/70883375_6.jpg",
       "publishedAt": "2025-04-08T09:46:00Z",
-      "content": "In 2015 Andrea Amico returned from vacation to four large yellow envelopes on her kitchen table one for each family member.\r\nThe letters contained blood tests sent from her state health department in… [+6790 chars]"
+      "content": "In 2015 Andrea Amico returned from vacation to four large yellow envelopes on her kitchen table one for each family member.\r\nThe letters contained blood tests sent from her state health department in… [+6796 chars]"
     },
     {
       "source": {
@@ -761,12 +995,12 @@
         "name": "DW (English)"
       },
       "author": "Natalie Muller",
-      "title": "How harmful are 'forever chemicals?'",
+      "title": "What can be done to tackle 'forever chemicals?'",
       "description": "They are found everywhere and have been linked to a range of health issues. So how can the damage from these toxic substances be minimized? One mother in the US has fought to find answers.",
-      "url": "https://www.dw.com/en/forever-chemicals-toxic-substances-chemicals-health-pfas/a-72129225",
+      "url": "https://www.dw.com/en/what-can-be-done-to-tackle-forever-chemicals/a-72129225",
       "urlToImage": "https://static.dw.com/image/70883375_6.jpg",
       "publishedAt": "2025-04-08T09:46:00Z",
-      "content": "In 2015 Andrea Amico returned from vacation to four large yellow envelopes on her kitchen table one for each family member.\r\nThe letters contained blood tests sent from her state health department in… [+6796 chars]"
+      "content": "In 2015 Andrea Amico returned from vacation to four large yellow envelopes on her kitchen table one for each family member.\r\nThe letters contained blood tests sent from her state health department in… [+6790 chars]"
     },
     {
       "source": {
@@ -910,268 +1144,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-04-07T19:39:30Z",
       "content": "U.S. CISA adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog\r\n | A member of the Scattered Spider cybercrime group pleads guilty\r\n | The co… [+153998 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Sausages recalled due to possible contamination with ‘hard plastic’",
-      "description": "The Johnsonville cheddar bratwursts were sold at retailers in 10 states",
-      "url": "https://www.the-independent.com/life-style/sausage-recall-johnsonville-brats-cheddar-bratwurst-b2728898.html",
-      "urlToImage": "https://static.the-independent.com/2025/04/07/17/11/Johnsonville-Brats-recall.jpeg?trim=33,0,34,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-07T17:05:28Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "author": "Kyra Piperides",
-      "title": "Researchers Explain How Microplastics Are Getting Into Our Blood And Intravenous Drips Could Be To Blame",
-      "description": "The researchers hope that it draws important attention to the matter.",
-      "url": "http://twistedsifter.com/2025/04/researchers-explain-how-microplastics-are-getting-into-our-blood-and-intravenous-drips-could-be-to-blame/",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/03/IV-Drip.jpg",
-      "publishedAt": "2025-04-07T16:55:00Z",
-      "content": "Pexels\r\nBy this point, we’re not stranger to microplastics, the tiny grains of plastic that are killing our marine life whilst also having detrimental effects on human health.\r\nAs plastic waste break… [+3755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Prodentim",
-      "title": "Prodentim (Official Website Update) 2025 Reviews Reveal Effective Oral Care Ingredients",
-      "description": "ProDentim Redefines Oral Care in 2025 With Clinically Backed Probiotics and Natural Ingredients That Support a Balanced Mouth Microbiome, Stronger Teeth, and Healthier Gums ProDentim Redefines Oral Care in 2025 With Clinically Backed Probiotics and Natural In…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/07/3057058/0/en/Prodentim-Official-Website-Update-2025-Reviews-Reveal-Effective-Oral-Care-Ingredients.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/5d1975bb-d4fc-43e7-8a68-554e45c2333e",
-      "publishedAt": "2025-04-07T16:25:00Z",
-      "content": "New York City, April 07, 2025 (GLOBE NEWSWIRE) -- \r\nIn recent years, the understanding of oral health has evolved significantly, revealing the critical role that good bacteria play in maintaining den… [+40269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Psychology Today"
-      },
-      "author": "The School of Psychology at the University of Surrey",
-      "title": "Can Prescriptions for Bread Support Well-Being?",
-      "description": "Imagine needing access to specialist food to stay well but only being able to get it in some parts of the country. What happens when access to safe food depends on your postcode?",
-      "url": "https://www.psychologytoday.com/us/blog/surrey-minds/202504/can-prescriptions-for-bread-support-well-being",
-      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/Rosie%20pic.png.jpg?itok=nWG_d47j",
-      "publishedAt": "2025-04-07T15:35:33Z",
-      "content": "It might sound quirkyprescribing bread. But for people with coeliac disease, being able to get gluten-free staples on the National Health Service (NHS) was once much more than a nice benefit. It was … [+5533 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "GlobeNewswire",
-      "title": "Mitolyn Report (SHOCKING DATA): Why Experts Are Re-Evaluating How We Burn Fat",
-      "description": "DENVER, April 07, 2025 (GLOBE NEWSWIRE) — In a world where weight loss solutions come and go, Mitolyn has emerged as a frontrunner, capturing the attention of thousands looking for a sustainable, science-backed approach to shedding excess fat. But does Mitoly…",
-      "url": "https://financialpost.com/globe-newswire/mitolyn-report-shocking-data-why-experts-are-re-evaluating-how-we-burn-fat",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/04/mitolyn-1.png",
-      "publishedAt": "2025-04-07T15:01:38Z",
-      "content": "Author of the article:\r\nMitolynGNW\r\nArticle content\r\nDENVER, April 07, 2025 (GLOBE NEWSWIRE) In a world where weight loss solutions come and go, Mitolyn has emerged as a frontrunner, capturing the at… [+42374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "MITOLYN®",
-      "title": "Mitolyn Report (SHOCKING DATA): Why Experts Are Re-Evaluating How We Burn Fat",
-      "description": "Built on mitochondrial science, Mitolyn is now exploding in popularity—but is it worth the buzz?......",
-      "url": "https://www.globenewswire.com/news-release/2025/04/07/3056952/0/en/Mitolyn-Report-SHOCKING-DATA-Why-Experts-Are-Re-Evaluating-How-We-Burn-Fat.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a019a515-92dd-4fa4-97db-a04bd2ec38f8",
-      "publishedAt": "2025-04-07T14:59:00Z",
-      "content": "DENVER, April 07, 2025 (GLOBE NEWSWIRE) -- In a world where weight loss solutions come and go, Mitolyn has emerged as a frontrunner, capturing the attention of thousands looking for a sustainable, sc… [+37805 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "PurDentix",
-      "title": "PurDentix Reviews (EXPOSED): Why Dentists Are Quietly Recommending This Probiotic Tooth Fix",
-      "description": "Is this the best-kept dental secret of 2025? Discover why some practitioners are quietly using PurDentix themselves. Is this the best-kept dental secret of 2025? Discover why some practitioners are quietly using PurDentix themselves.",
-      "url": "https://www.globenewswire.com/news-release/2025/04/07/3056909/0/en/PurDentix-Reviews-EXPOSED-Why-Dentists-Are-Quietly-Recommending-This-Probiotic-Tooth-Fix.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/c015b44f-4494-4aba-a939-767bbb7afaab",
-      "publishedAt": "2025-04-07T14:13:00Z",
-      "content": "DENVER, COLORADO, April 07, 2025 (GLOBE NEWSWIRE) --  PURDENTIX ANALYSIS\r\nIf youve been following the exploding buzz in the health world, youve likely heard of PurDentixa so-called 8-second probiotic… [+35156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Yujia Xie, Liping Guo, Xinru Qi, Shiqi Zhao, Qichuan Pei, Yixiao Chen, Qi Wu, Meixue Yao, Dehui Yin",
-      "title": "Establishment of an I-ELISA method based on multi-epitope fusion protein for diagnosis of human brucellosis",
-      "description": "Author summary Brucellosis is a serious zoonotic disease affecting people worldwide, and its diagnosis has always been challenging. Traditional diagnostic methods typically rely on lipopolysaccharides (LPS) antigen, which are not only complex and costly to pr…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012995",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012995.g002&size=inline",
-      "publishedAt": "2025-04-07T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nBrucellosis is a significant zoonotic disease that impacts people globally, and its diagnosis has long posed challenges. This study aimed to explore the application value of mul… [+33990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Johnsonville recalls cheddar bratwurst due to plastic",
-      "description": "Check your refrigerator if you have purchased Johnsonville’s cheddar bratwurst.",
-      "url": "https://www.wsbtv.com/news/trending/recall-alert-johnsonville-recalls-cheddar-bratwurst-due-plastic/DZ7BS4CIYFHS3BUNDDAAQFY3IA/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZD265QFV4BAN7EZJ35565X4GS4.jpg?auth=0e0bdd79c6a7bcec372a2da517ccba64140bb4006061765d590fb961fab40e17&width=1200&height=630&smart=true",
-      "publishedAt": "2025-04-07T13:58:33Z",
-      "content": "Check your refrigerator if you have purchased Johnsonvilles cheddar bratwurst. The product has been recalled due to potential foreign matter contamination. \r\nThe U.S. Department of Agricultures Food … [+601 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A member of the Scattered Spider cybercrime group pleads guilty",
-      "description": "A 20-year-old man linked to the Scattered Spider cybercrime group has pleaded guilty to charges filed in Florida and California. Noah Urban, a 20-year-old from Palm Coast, pleaded guilty to conspiracy, wire fraud, and identity theft in two federal cases, one …",
-      "url": "https://securityaffairs.com/176323/cyber-crime/scattered-spider-cybercrime-group-member-pleaded-guilty.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-16.png",
-      "publishedAt": "2025-04-07T13:48:11Z",
-      "content": "A member of the Scattered Spider cybercrime group pleads guilty\r\n | The controversial case of the threat actor EncryptHub\r\n | PoisonSeed Campaign uses stolen email credentials to spread crypto seed s… [+153873 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "The controversial case of the threat actor EncryptHub",
-      "description": "Microsoft credited controversial actor EncryptHub, a lone actor with ties to cybercrime, for reporting two Windows flaws. Microsoft credited the likely lone actor behind the EncryptHub alias (also known as SkorikARI) for reporting two Windows security flaws, …",
-      "url": "https://securityaffairs.com/176251/cyber-crime/the-controversial-case-of-the-threat-actor-encrypthub.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-9.png",
-      "publishedAt": "2025-04-07T13:14:21Z",
-      "content": "The controversial case of the threat actor EncryptHub\r\n | PoisonSeed Campaign uses stolen email credentials to spread crypto seed scams and and empty wallets\r\n | EDR-as-a-Service makes the headlines … [+153805 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "GlobeNewswire",
-      "title": "ProvaDent Reviews (EXPOSED): Dentist Reveals If This Probiotic Tooth Saver Is Too Good to Be True",
-      "description": "SEATTLE, April 07, 2025 (GLOBE NEWSWIRE) — If you’ve been brushing, flossing, rinsing—and still watching your dental health decline—there’s a reason. The truth is, most people never address the root cause of chronic oral problems. That’s where ProvaDent steps…",
-      "url": "https://financialpost.com/globe-newswire/provadent-reviews-exposed-dentist-reveals-if-this-probiotic-tooth-saver-is-too-good-to-be-true",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/04/provadent-1.png",
-      "publishedAt": "2025-04-07T12:44:35Z",
-      "content": "Author of the article:\r\nProvaDentGNW\r\nArticle content\r\nSEATTLE, April 07, 2025 (GLOBE NEWSWIRE) If youve been brushing, flossing, rinsingand still watching your dental health declinetheres a reason. … [+45458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "ProvaDent",
-      "title": "ProvaDent Reviews (EXPOSED): Dentist Reveals If This Probiotic Tooth Saver Is Too Good to Be True",
-      "description": "SEATTLE, April 07, 2025 (GLOBE NEWSWIRE) -- If you’ve been brushing, flossing, rinsing—and still watching your dental health decline—there’s a reason. The truth is, most people never address the root cause of chronic oral problems. That’s where ProvaDent step…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/07/3056755/0/en/ProvaDent-Reviews-EXPOSED-Dentist-Reveals-If-This-Probiotic-Tooth-Saver-Is-Too-Good-to-Be-True.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/018c4cd7-2368-4c76-b3d0-f906b6e43c56",
-      "publishedAt": "2025-04-07T12:41:00Z",
-      "content": "SEATTLE, April 07, 2025 (GLOBE NEWSWIRE) -- If youve been brushing, flossing, rinsingand still watching your dental health declinetheres a reason. The truth is, most people never address the root cau… [+32766 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Space Review"
-      },
-      "author": "info@thespacereview.com (Darren Raspa)",
-      "title": "Anything But expendable: A history of the Evolved Expendable Launch Vehicle (EELV) Secondary Payload Adapter (ESPA) (part 1)",
-      "description": "A payload adapter called ESPA has become a widely used standard for accommodating secondary payloads on launch vehicles. In the first of a three-part series, Darren Raspa examines the historical and other forces that set the stage for the the development of E…",
-      "url": "https://www.thespacereview.com/article/4966/1",
-      "urlToImage": null,
-      "publishedAt": "2025-04-07T11:59:00Z",
-      "content": "Prologue: The grim ’90s\r\nIt was Valentine’s Day 1996: launch day at Space Systems Loral’s headquarters building overlooking San Francisco Bay. Members of the Intelsat-708 mission team had assembled t… [+37089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "PoisonSeed Campaign uses stolen email credentials to spread crypto seed scams and and empty wallets",
-      "description": "A campaign named PoisonSeed uses stolen CRM and bulk email credentials to send crypto seed scams, aiming to empty victims’ digital wallets. Silent Push researchers warn of a malicious PoisonSeed campaign that uses stolen CRM and bulk email provider credential…",
-      "url": "https://securityaffairs.com/176317/cyber-crime/poisonseed-campaign-uses-stolen-email-credentials-to-spread-crypto-seed-scams-and-and-empty-wallets.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-15.png",
-      "publishedAt": "2025-04-07T11:09:03Z",
-      "content": "PoisonSeed Campaign uses stolen email credentials to spread crypto seed scams and and empty wallets\r\n | EDR-as-a-Service makes the headlines in the cybercrime landscape\r\n | Oracle privately notifies … [+153747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "APAC PFAS Free Lubricants Market Report 2025, with Key Player Profiles for FUCHS Lubricants, McLube, ROCOL, Americhem, ENEOS, Curtiss-Wright, Idemitsu Kosan, Setral Chemie, Kluber Lubrication & Avient",
-      "description": "Dublin, April 07, 2025 (GLOBE NEWSWIRE) -- The \"APAC PFAS Free Lubricants Market: Focus on Application, Product, and Country - Analysis and Forecast, 2025-2034\" report has been added to ResearchAndMarkets.com's offering.In the Asia-Pacific region (APAC), regu…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/07/3056548/28124/en/APAC-PFAS-Free-Lubricants-Market-Report-2025-with-Key-Player-Profiles-for-FUCHS-Lubricants-McLube-ROCOL-Americhem-ENEOS-Curtiss-Wright-Idemitsu-Kosan-Setral-Chemie-Kluber-Lubricati.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-04-07T10:59:00Z",
-      "content": "Dublin, April 07, 2025 (GLOBE NEWSWIRE) -- The \"APAC PFAS Free Lubricants Market: Focus on Application, Product, and Country - Analysis and Forecast, 2025-2034\" report has been added to ResearchAndMa… [+9390 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Manya Singh",
-      "title": "Bird Flu In India: How You Can Keep Your Pets Safe",
-      "description": "Taking proactive steps can greatly reduce this risk and help ensure the health and safety of your furry companions. Read on to find out how.",
-      "url": "https://www.ndtv.com/health/bird-flu-in-india-how-you-can-keep-your-pets-safe-8107386",
-      "urlToImage": "https://i.ndtvimg.com/i/2016-05/bird-flu_650x400_41462734256.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2025-04-07T09:43:07Z",
-      "content": "Bird flu, or avian influenza, is a viral infection that primarily affects birds, especially poultry and wild waterfowl, but in rare cases, it can also infect mammals, including humans and pets. The v… [+3463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Sausage Recall in 10 States As Warning Issued Over Plastic Contamination",
-      "description": "More than 22,000 pounds of cheddar bratwurst have been recalled after some consumers said they found hard plastic in the product, prompting a warning from federal food safety officials.\nThe products were distributed to grocery stores across 10 states and may …",
-      "url": "https://biztoc.com/x/f19d0fed38e06272",
-      "urlToImage": "https://biztoc.com/cdn/f19d0fed38e06272_s.webp",
-      "publishedAt": "2025-04-07T09:35:47Z",
-      "content": "More than 22,000 pounds of cheddar bratwurst have been recalled after some consumers said they found hard plastic in the product, prompting a warning from federal food safety officials.The products w… [+147 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Sausage Recall in 10 States As Warning Issued Over Plastic Contamination",
-      "description": "The company received two consumer complaints reporting pieces of hard plastic found in the product.",
-      "url": "https://www.newsweek.com/sausage-recall-plastic-contamination-2056120",
-      "urlToImage": "https://d.newsweek.com/en/full/2622068/sausage-recall.png",
-      "publishedAt": "2025-04-07T09:32:12Z",
-      "content": "More than 22,000 pounds of cheddar bratwurst have been recalled after some consumers said they found hard plastic in the product, prompting a warning from federal food safety officials.\r\nThe products… [+2883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Emilie Lavinia",
-      "title": "I drank kefir for a month and it made me feel like a superhuman – what’s the secret behind this gut-friendly drink?",
-      "description": "Could this fermented drink hold the key to better health?",
-      "url": "https://www.the-independent.com/health-and-fitness/what-is-kefir-b2728663.html",
-      "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-07T09:01:33Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+8675 chars]"
     }
   ],
-  "totalResults": 90,
+  "totalResults": 88,
   "filteredCount": 0
 }
