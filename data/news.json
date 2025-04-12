@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-04-12T12:41:07.057Z",
+  "lastUpdated": "2025-04-12T18:29:01.803Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Amanda Kooser",
+      "title": "Butter Recalled for Potential Fecal Contamination: Everything to Know",
+      "description": "The good news? It's not a widespread issue.",
+      "url": "https://www.cnet.com/health/butter-recalled-for-potential-fecal-contamination-everything-to-know/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/4efabe6ca9aed7c5627ab75b093a2dd0fe8569d0/hub/2025/04/10/49cb88bd-ea22-4548-bce6-df2874c06d31/butter-press-page-recall.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-11T16:53:00Z",
+      "content": "Dairy cooperative Agri-Mark has voluntarily recalled a single lot of Cabot Creamery 8-ounce Extra Creamy Premium Butter with sea salt, capturing the internet's attention thanks to its ick factor. The… [+2103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Man guilty of selling fake halal meat to restaurants",
+      "description": "Hamil Miah was found guilty of 10 counts of fraud and food safety offences on Friday.",
+      "url": "https://www.bbc.com/news/articles/c99p13zj22ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ed19/live/eee01a30-1570-11f0-a455-cf1d5f751d2f.jpg",
+      "publishedAt": "2025-04-11T15:26:27Z",
+      "content": "Stephen Fairclough\r\nUK law requires animals to be stunned before slaughter unless the meat is intended for Muslims or Jews\r\nA food wholesaler has been found guilty of fraud by falsely distributing ch… [+2332 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Blue Ridge Beef Issues Voluntary Recall of Blue Ridge Beef Puppy Mix and Kitten Mix Due to Salmonella & Listeria Contamination",
+      "description": "Blue Ridge Beef is recalling 1,080 lbs. of their 2 lb logs of Kitten Mix Lot # N26 0114 and 1,380 lbs of their 2 lb logs of Puppy Mix Lot # N25 1230 (Lot numbers are stamped in the clips on the end of the chubs/bags) due to contamination with Salmonella and L…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blue-ridge-beef-issues-voluntary-recall-blue-ridge-beef-puppy-mix-and-kitten-mix-due-salmonella",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-04-11T15:06:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nApril 11, 2025\r\nFDA Publish Date:\r\nApril 11, 2025\r\nProduct Type:\r\nAnimal &amp; VeterinaryFood &amp; Beverages Pet Food\r\nFoodborne Illness\r\nReason for Announcement… [+3187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox News",
+      "title": "Honey-roasted peanuts recalled after customer’s allergic reaction: FDA",
+      "description": "An Ohio-based nut company is recalling over 140 cases of honey-roasted peanuts due to the possible presence of an allergen.",
+      "url": "https://nypost.com/2025/04/11/lifestyle/peanuts-distributed-in-2-states-recalled-after-customer-experiences-allergic-reaction-fda/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/peanuts-distributed-2-states-recalled-102386722.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-04-11T14:57:41Z",
+      "content": "An Ohio-based nut company is recalling over 140 cases of honey-roasted peanuts due to the possible presence of an allergen.\r\nAccording to a Food &amp; Drug Administration (FDA) notice, the Trophy Nut… [+2101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Brittany Miller",
+      "title": "Celery sold at Walmart recalled in 29 states over possible contamination",
+      "description": "The celery has a best-by date of March 23, 2025",
+      "url": "https://www.the-independent.com/life-style/celery-recall-walmart-marketside-listeria-b2731694.html",
+      "urlToImage": "https://static.the-independent.com/2025/04/11/14/31/gettyimages-1464530177-170667a.jpeg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-04-11T14:52:12Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Palo Alto warns of brute-force login attempts on PAN-OS GlobalProtect gateways indicating possible upcoming attacks",
+      "description": "Experts warn of brute-force login attempts on PAN-OS GlobalProtect gateways following increased scanning activity on its devices. Palo Alto Networks reports brute-force login attempts on PAN-OS GlobalProtect gateways. The security firm pointed out that no kno…",
+      "url": "https://securityaffairs.com/176446/hacking/brute-force-login-attempts-on-pan-os-globalprotect.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-21.png",
+      "publishedAt": "2025-04-11T14:13:16Z",
+      "content": "Palo Alto warns of brute-force login attempts on PAN-OS GlobalProtect gateways indicating possible upcoming attacks\r\n | Gamaredon targeted the military mission of a Western country based in Ukraine\r\n… [+155131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Allison H. Kerwin, Aki Ohdera, Juliet Bier, Devon Goodman, Marta Mammone, Victoria Sharp, Alesandra Echeandía, Mónica Medina",
+      "title": "Cassiopea xamachana microbiome across anatomy, development, and geography",
+      "description": "The upside-down jellyfish holobiont, Cassiopea xamachana, is a useful model system for tri-partite interactions between the cnidarian host, the photosymbiont, and the bacterial microbiome. While the interaction between the host and photosymbiont has been well…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319944",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319944.g005&size=inline",
+      "publishedAt": "2025-04-11T14:00:00Z",
+      "content": "Citation: Kerwin AH, Ohdera A, Bier J, Goodman D, Mammone M, Sharp V, et al. (2025) Cassiopea xamachana microbiome across anatomy, development, and geography. PLoS ONE 20(4):\r\n e0319944.\r\nhttps://doi… [+46370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Tatiana B.B. Zidan, Eduardo J. Troster, Jennifer Beck, Livia R. Sanches, Carlos Eduardo S. Ferreira, Romy S.B. Zacharias, Celso M. Rebello",
+      "title": "Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns",
+      "description": "The gold standard treatment for apnea of prematurity is caffeine citrate, which is known for its effect on diaphragm muscle activity. The purpose of this study was to investigate the electrical activity of the diaphragm in preterm newborns, which was measured…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320992",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320992.g004&size=inline",
+      "publishedAt": "2025-04-11T14:00:00Z",
+      "content": "Citation: Zidan TB, Troster EJ, Beck J, Sanches LR, Ferreira CES, Zacharias RS, et al. (2025) Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns. PLoS ONE 20(4):\r\n e… [+20088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Alberto E Pérez, Jacobo Hernandez-Montelongo, Melisa González Flores, María Eugenia Rodríguez, Christian A Lopes, José Luis Lanata",
+      "title": "Revealing the ancient origins of blonde beers: Phylogeography and phylogenetics of cryotolerant fermentative yeast Saccharomyces eubayanus from pre-Hispanic pottery in Northwestern Patagonia, Argentina",
+      "description": "This study presents an analysis of residuals and the identification of the oldest cryotolerant fermentative yeast Saccharomyces eubayanus, absorbed in the walls of ceramic vessels. The samples were dated between 920 and 750 years before present (BP) from the …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319938",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319938.g004&size=inline",
+      "publishedAt": "2025-04-11T14:00:00Z",
+      "content": "Citation: Pérez AE, Hernandez-Montelongo J, Flores MG, Rodríguez ME, Lopes CA, Lanata JL (2025) Revealing the ancient origins of blonde beers: Phylogeography and phylogenetics of cryotolerant ferment… [+42018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "Ultrasonic Cleaning Market to Grow USD 2.85 Billion By 2032, Driven by Rising Demand for Precision Cleaning | Research by SNS Insider",
+      "description": "The Ultrasonic Cleaning Market is growing with demand for precise, eco-friendly cleaning in healthcare, electronics, and automotive sectors, driven by automation and sustainability trends. The Ultrasonic Cleaning Market is growing with demand for precise, eco…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/11/3060100/0/en/Ultrasonic-Cleaning-Market-to-Grow-USD-2-85-Billion-By-2032-Driven-by-Rising-Demand-for-Precision-Cleaning-Research-by-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-04-11T13:00:00Z",
+      "content": "Austin, April 11, 2025 (GLOBE NEWSWIRE) -- Ultrasonic Cleaning Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider Report, The Ultrasonic Cleaning Market\r\n Size\r\n was valued at USD 1.64 … [+8280 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -71,19 +201,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Cottage cheese: A superfood source of protein and other nutrients",
-      "description": "Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism. Dating back to early European and Middle Eastern cultures, cottage…",
-      "url": "https://www.naturalnews.com/2025-04-11-cottage-cheese-superfood-source-of-protein-nutrients.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Appetizer-Background-Board-Breakfast-Cheese-Cooking-Cottage.jpg",
-      "publishedAt": "2025-04-11T06:00:00Z",
-      "content": "<ul><li>Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism… [+7726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Finn Heartley",
       "title": "Dane Wigington exposes climate engineering as ‘All-Out Weather and Biological Warfare’",
       "description": "Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream “chemtrail” dismissals as jet exhaust. Independent lab tests found heavy metals (aluminum, lea…",
@@ -91,6 +208,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-11-BBN-Interview-with-Dane-Wigington.jpg",
       "publishedAt": "2025-04-11T06:00:00Z",
       "content": "<ul><li>Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream \"chemtrail\" dismissals as … [+5455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Cottage cheese: A superfood source of protein and other nutrients",
+      "description": "Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism. Dating back to early European and Middle Eastern cultures, cottage…",
+      "url": "https://www.naturalnews.com/2025-04-11-cottage-cheese-superfood-source-of-protein-nutrients.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Appetizer-Background-Board-Breakfast-Cheese-Cooking-Cottage.jpg",
+      "publishedAt": "2025-04-11T06:00:00Z",
+      "content": "<ul><li>Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism… [+7726 chars]"
     },
     {
       "source": {
@@ -1040,151 +1170,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-04-08T17:00:00Z",
       "content": "Dublin, April 08, 2025 (GLOBE NEWSWIRE) -- The \"Cleanroom Lighting Market (2025 Edition): Market Insights and Forecast (2021-2031)\" report has been added to ResearchAndMarkets.com's offering.\r\nThis r… [+12226 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blogger.com"
-      },
-      "author": "Randy Seaver",
-      "title": "Ask AI: \"Please Describe a Day in the Life of My 3rd Great-Grandmother, Mary Ann Vaux (1816-1882)\"",
-      "description": null,
-      "url": "https://www.blogger.com/comment/fullpage/post/26204193/4548881194059615261",
-      "urlToImage": null,
-      "publishedAt": "2025-04-08T16:43:00Z",
-      "content": "Artificial Intelligence tools can provide social and historical information about how our ancestors lived their daily lives - housing, family, work, community, social life, etc.  I have lived all of … [+32143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
-      "title": "[Latest] Global Pipeline Monitoring System Market Size/Share Worth USD 5.34 Billion by 2034 at a 7.63% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-      "description": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Pipeline Monitoring System Market size & share revenue was valued at approximately USD 2.56 Billion in 2024 and is expected to r…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/08/3057914/0/en/Latest-Global-Pipeline-Monitoring-System-Market-Size-Share-Worth-USD-5-34-Billion-by-2034-at-a-7-63-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segm.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
-      "publishedAt": "2025-04-08T16:30:00Z",
-      "content": "Austin, TX, USA, April 08, 2025 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled Pipeline Monitoring System Market Size, Trends and Insights By Type (Metallic, No… [+26855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "WhatsApp fixed a spoofing flaw that could enable Remote Code Execution",
-      "description": "WhatsApp addressed a flaw, tracked as CVE-2025-30401, that could allow attackers to trick users and enable remote code execution. WhatsApp released a security update to address a vulnerability, tracked as CVE-2025-30401, that could let attackers trick users a…",
-      "url": "https://securityaffairs.com/176357/security/whatsapp-fixed-a-spoofing-flaw-that-could-enable-remote-code-execution.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/whatsapp.jpg",
-      "publishedAt": "2025-04-08T14:25:07Z",
-      "content": "WhatsApp fixed a spoofing flaw that could enable Remote Code Execution\r\n | Everest ransomware groups Tor leak site offline after a defacement\r\n | Google fixed two actively exploited Android zero-days… [+154202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Mengmeng Yu, Li Zhang, Ying Wang, Suyan Wang, Yongzhen Liu, Peng Liu, Yuntong Chen, Ru Guo, Lingzhai Meng, Tao Zhang, Wenrui Fan, Xiaole Qi, Yulu Duan, Yanping Zhang, Hongyu Cui, Yulong Gao",
-      "title": "N6-methyladenosine modification of the subgroup J avian leukosis viral RNAs attenuates host innate immunity via MDA5 signaling",
-      "description": "Author summary ALV-J has a long latency and can cause persistent infections with continuous viral shedding, leading to severe immunosuppression and tumor induction in chickens and consequently significant economic losses to the poultry industry. However, the …",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013064",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013064.g007&size=inline",
-      "publishedAt": "2025-04-08T14:00:00Z",
-      "content": "Citation: Yu M, Zhang L, Wang Y, Wang S, Liu Y, Liu P, et al. (2025) N6-methyladenosine modification of the subgroup J avian leukosis viral RNAs attenuates host innate immunity via MDA5 signaling. PL… [+55111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Biologics CDMO Secondary Packaging Market Size to Strike USD 5.50 Bn by 2034",
-      "description": "The biologics CDMO secondary packaging market size stood at US$ 2.38 billion in 2024 and is predicted to exceed US$ 5.50 billion by 2034, experiencing a CAGR of 8.75% from 2025 to 2034. The biologics CDMO secondary packaging market size stood at US$ 2.38 bill…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/08/3057740/0/en/Biologics-CDMO-Secondary-Packaging-Market-Size-to-Strike-USD-5-50-Bn-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-08T14:00:00Z",
-      "content": "Ottawa, April 08, 2025 (GLOBE NEWSWIRE) -- The biologics CDMO secondary packaging market size to record US$ 2.59 billion in 2025 and is projected to grow beyond US$ 5.50 billion by 2034, a study publ… [+23507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EURACTIV"
-      },
-      "author": "laurine.augere",
-      "title": "S&Ds lead EU push for accessible, sustainable and cleaner water",
-      "description": "Climate & Environment\r\nToday, the European Parliament’s committee on the environment, climate and food safety adopted a forward-looking report on the European Water Resilience Strategy, led by S&D MEP Thomas Bajada, marking a key step in protecting one of our…",
-      "url": "http://pr.euractiv.com/node/269556",
-      "urlToImage": "http://pr.euractiv.com/files/logo_pr.gif",
-      "publishedAt": "2025-04-08T13:30:35Z",
-      "content": "Today, the European Parliament’s committee on the environment, climate and food safety adopted a forward-looking report on the European Water Resilience Strategy, led by S&amp;D MEP Thomas Bajada, ma… [+2486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "MarketsandMarkets Research Pvt. Ltd.",
-      "title": " The Future of Food and Beverage Metal Cans: Smarter, Lighter, Greener",
-      "description": "Unlocking New Revenue Pockets: How Metal Packaging Innovations Are Reshaping Sustainability & Efficiency Unlocking New Revenue Pockets: How Metal Packaging Innovations Are Reshaping Sustainability & Efficiency",
-      "url": "https://www.globenewswire.com/news-release/2025/04/08/3057711/0/en/The-Future-of-Food-and-Beverage-Metal-Cans-Smarter-Lighter-Greener.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
-      "publishedAt": "2025-04-08T13:30:00Z",
-      "content": "Delray Beach, FL, April 08, 2025 (GLOBE NEWSWIRE) -- The food &amp; beverage metal cans market is boomingprojected to hit $70.72B by 2029 (7.0% CAGR). Why? Because sustainability, lightweighting, and… [+2677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mashed.com"
-      },
-      "author": "Rebekah Hendricks",
-      "title": "The Biggest Bread Recalls In US History",
-      "description": "Bread is an omnipresent food that has been subjected to recalls. Whether due to foreign objects or bacterial contamination, these recalls were huge.",
-      "url": "https://www.mashed.com/1825043/biggest-bread-recalls-us-history/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HzEyM.Eqn2OEToL7loD9LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mashed_603/a19612e6fa9506f96daefedd54d20e6c",
-      "publishedAt": "2025-04-08T12:30:00Z",
-      "content": "Bread is one of the most versatile food staples on the planet. Not only is a warm fluffy slice of bread divine with a soft pad of butter, but it's the basis of countless delicious concoctions. A deli… [+12473 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Scientific American"
-      },
-      "author": "Saima S. Iqbal",
-      "title": "Surgeons Can Permanently Change Eye Color with Experimental Keratopigmentation Procedure",
-      "description": "A new surgical procedure to permanently change eye color is gaining traction in the U.S. But many ophthalmologists fear long-term unknowns",
-      "url": "https://www.scientificamerican.com/article/surgeons-can-permanently-change-eye-color-with-experimental/",
-      "urlToImage": "https://static.scientificamerican.com/dam/m/600defdc24986c79/original/Light-green-eye.jpg?m=1744060516.679&w=1200",
-      "publishedAt": "2025-04-08T12:00:00Z",
-      "content": "Carol Miranda paid a surgeon in Los Angeles thousands of dollars last year to permanently change her eye color from dark brown to hazel.\r\nMiranda, a now 49-year-old sales associate, had dreamed since… [+9856 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Local Germany"
-      },
-      "author": "Paul Krantz",
-      "title": "Why you'll have to take more care sorting your biowaste in Germany from May",
-      "description": "Properly sorting your waste has long been a big topic in Germany, but upcoming rule changes mean the penalties for not separating organic waste are set to get even tougher.",
-      "url": "https://www.thelocal.de/20250408/why-youll-have-to-take-more-care-sorting-your-biowaste-in-germany-from-may",
-      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/04/watermarks-logo-474955306.jpg@webp",
-      "publishedAt": "2025-04-08T10:55:01Z",
-      "content": "Properly sorting your waste has long been a big topic in Germany, but upcoming rule changes mean the penalties for not separating organic waste are set to get even tougher.\r\n Youll want to take extra… [+4083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jenny Allison",
-      "title": "Scientists uncover massive collateral damage tied to a routine practice: 'A necessary evil'",
-      "description": "\"We found pervasive negative impacts across plants, animals, fungi and microbes.\"",
-      "url": "https://www.yahoo.com/news/scientists-uncover-massive-collateral-damage-103116457.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/E1Zt5W71rmmtCr1pV8G7lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/bb0264c67c3d75ea344a0cadc2b8babb",
-      "publishedAt": "2025-04-08T10:31:16Z",
-      "content": "For decades, scientists have known that pesticide use negatively impacts many species, including humans, and ecosystems. But new research has found that not only do pesticides harm some species they … [+3366 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 90,
   "filteredCount": 0
 }
