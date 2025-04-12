@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-04-12T06:30:00.775Z",
+  "lastUpdated": "2025-04-12T12:41:07.057Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Proactiv Skin Care Products Recalled Nationwide as Carcinogen Found",
+      "description": "The recall, which is still ongoing, affects more than 41,000 bottles across two Proactiv-branded acne treatment products.",
+      "url": "https://www.newsweek.com/proactiv-products-recalled-nationwide-carcinogen-found-2058447",
+      "urlToImage": "https://d.newsweek.com/en/full/2625592/proactiv.jpg",
+      "publishedAt": "2025-04-11T11:31:53Z",
+      "content": "Two popular Proactiv skin care products have been voluntarily recalled nationwide after they were found to contain traces of benzene, a known human carcinogen.\r\nNewsweek has contacted Alchemee LLC, t… [+4108 chars]"
+    },
+    {
+      "source": {
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
+      "author": "Melissa Hobson",
+      "title": "Dolphins are dying from toxic chemicals banned since the 1980s",
+      "description": "Polychlorinated biphenyls (PCBs) are commonly found in the bodies of short-beaked common dolphins that get stranded on UK beaches, and are linked to the animals’ risk of infectious diseases",
+      "url": "https://www.newscientist.com/article/2476080-dolphins-are-dying-from-toxic-chemicals-banned-since-the-1980s/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/04/10123716/SEI_247019167.jpg",
+      "publishedAt": "2025-04-11T10:00:33Z",
+      "content": "A common dolphin stranded on a UK beach\r\nWaves &amp; Wellies Photography\r\nDolphins in seas around the UK are dying from a combination of increased water temperatures and toxic chemicals that the UK b… [+2828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ron Schmelzer, Contributor, \n Ron Schmelzer, Contributor\n https://www.forbes.com/sites/ronschmelzer/",
+      "title": "Cooking Up Innovation: How Artificial Intelligence Is Transforming Food Service",
+      "description": "As AI becomes part of our everyday lives, it’s becoming hard to avoid, even in restaurants and our favorite food establishments.",
+      "url": "https://www.forbes.com/sites/ronschmelzer/2025/04/11/cooking-up-innovation-how-artificial-intelligence-is-transforming-food-service/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6782b9f97d91fdb44aa12913/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-11T07:00:00Z",
+      "content": "AI in Food Service\r\ngetty\r\nAs AI becomes part of our everyday lives, its becoming hard to avoid, even in restaurants and our favorite food establishments. From AI-enabled chatbots for ordering to rob… [+5380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Gamaredon targeted the military mission of a Western country based in Ukraine",
+      "description": "Gamaredon targeted a foreign military mission in Ukraine with updated GammaSteel malware on Feb 26, 2025, per Symantec. Symantec Threat Hunter researchers reported that the Russia-linked APT group Gamaredon (a.k.a. Shuckworm, Armageddon, Primitive Bear, ACTIN…",
+      "url": "https://securityaffairs.com/176433/apt/gamaredon-targeted-the-military-mission-of-a-western-country-based-in-ukraine.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/02/Ukraine.jpg",
+      "publishedAt": "2025-04-11T06:55:25Z",
+      "content": "Gamaredon targeted the military mission of a Western country based in Ukraine\r\n | U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog\r\n | AkiraBot: AI-Powered spam bot ev… [+155011 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1131,58 +1183,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/E1Zt5W71rmmtCr1pV8G7lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/bb0264c67c3d75ea344a0cadc2b8babb",
       "publishedAt": "2025-04-08T10:31:16Z",
       "content": "For decades, scientists have known that pesticide use negatively impacts many species, including humans, and ecosystems. But new research has found that not only do pesticides harm some species they … [+3366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Everest ransomware group’s Tor leak site offline after a defacement",
-      "description": "The Tor leak site of the Everest ransomware group went offline after being hacked and defaced over the weekend. The Everest ransomware gang’s darknet site went offline after being hacked and defaced, with victim listings replaced by the following message. “Do…",
-      "url": "https://securityaffairs.com/176345/cyber-crime/everest-ransomware-groups-tor-leak-site-offline-after-a-defacement.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
-      "publishedAt": "2025-04-08T09:55:11Z",
-      "content": "Everest ransomware groups Tor leak site offline after a defacement\r\n | Google fixed two actively exploited Android zero-days\r\n | U.S. CISA adds Ivanti Connect Secure, Policy Secure and ZTA Gateways f… [+154127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Natalie Muller",
-      "title": "What can be done to tackle 'forever chemicals?'",
-      "description": "They are found everywhere and have been linked to a range of health issues. So how can the damage from these toxic substances be minimized? One mother in the US has fought to find answers.",
-      "url": "https://www.dw.com/en/what-can-be-done-to-tackle-forever-chemicals/a-72129225",
-      "urlToImage": "https://static.dw.com/image/70883375_6.jpg",
-      "publishedAt": "2025-04-08T09:46:00Z",
-      "content": "In 2015 Andrea Amico returned from vacation to four large yellow envelopes on her kitchen table one for each family member.\r\nThe letters contained blood tests sent from her state health department in… [+6790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Natalie Muller",
-      "title": "How harmful are 'forever chemicals?'",
-      "description": "They are found everywhere and have been linked to a range of health issues. So how can the damage from these toxic substances be minimized? One mother in the US has fought to find answers.",
-      "url": "https://www.dw.com/en/forever-chemicals-toxic-substances-chemicals-health-pfas/a-72129225",
-      "urlToImage": "https://static.dw.com/image/70883375_6.jpg",
-      "publishedAt": "2025-04-08T09:46:00Z",
-      "content": "In 2015 Andrea Amico returned from vacation to four large yellow envelopes on her kitchen table one for each family member.\r\nThe letters contained blood tests sent from her state health department in… [+6796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Google fixed two actively exploited Android zero-days",
-      "description": "Google addressed 62 vulnerabilities with the release of Android ‘s April 2025 security update, including two actively exploited zero-days. Google released Android ‘s April 2025 security updates to address 62 vulnerabilities, including two zero-day vulnerabili…",
-      "url": "https://securityaffairs.com/176337/hacking/google-fixed-two-actively-exploited-android-zero-days.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/02/Android-security.png",
-      "publishedAt": "2025-04-08T07:29:45Z",
-      "content": "Google fixed two actively exploited Android zero-days\r\n | U.S. CISA adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog\r\n | A member of the … [+154056 chars]"
     }
   ],
   "totalResults": 91,
