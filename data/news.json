@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-04-11T18:31:57.626Z",
+  "lastUpdated": "2025-04-12T01:49:08.572Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "1,701 Pounds Of Butter Recalled Due To Possible Fecal Contamination",
+      "description": "Agri-Mark is voluntarily recalling 186 cases of its Extra Creamy Premium Butter, Sea Salted butter, according to the FDA, due to elevated levels of coliform bacteria.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/04/10/1701-pounds-of-butter-recalled-due-to-possible-fecal-contamination/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f7b6dd36b0d1a77c7eb9f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-11T01:30:53Z",
+      "content": "Agri-Mark is voluntarily recalling 186 cases or 1,701 pounds of its Extra Creamy Premium Butter, Sea ... More Salted butter, according to a report from the U.S. Food and Drug Administration. (Photo: … [+4010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "The War Against Breastfeeding and the Dangers of Infant Formula",
+      "description": "Three years ago, a nationwide infant formula shortage shook America, and before long led to fights at grocery stores1 and stories like this flooding the media:\n\n\n\n\nAt the time, significant outrage was directed at the FDA since the shortage was due to their in…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/04/11/war-against-breastfeeding-dangers-infant-formula.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/April/FB/war-against-breastfeeding-dangers-infant-formula-fb.jpg",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Amanda Kooser",
+      "title": "Butter Recall for Potential Fecal Contamination Sure Sounds Icky",
+      "description": "The bad news? the FDA recalled a specific lot of Cabot Creamery butter found to have elevated levels of coliform bacteria. The good news? It's not a widespread issue.",
+      "url": "https://www.cnet.com/health/butter-recall-for-potential-fecal-contamination-sure-sounds-icky-what-to-know/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/4efabe6ca9aed7c5627ab75b093a2dd0fe8569d0/hub/2025/04/10/49cb88bd-ea22-4548-bce6-df2874c06d31/butter-press-page-recall.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-10T19:47:59Z",
+      "content": "A particularly disturbing food recall has captured the internet's attention thanks to its ick factor. Dairy cooperative Agri-Mark voluntarily recalled a single lot of Cabot Creamery 8-ounce Extra Cre… [+1494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Rob Quinn",
+      "title": "Butter Recalled Due to Possible Fecal Contamination",
+      "description": "Cabot Creamery butter has been recalled in seven states because of possible fecal contamination but its maker says the product only made it to store shelves in its home state, Vermont. According to a Food and Drug Administration recall notice for the 8oz Extr…",
+      "url": "https://www.newser.com/story/367002/butter-recalled-due-to-possible-fecal-contamination.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1603830-12-20250410143532.jpeg",
+      "publishedAt": "2025-04-10T19:07:31Z",
+      "content": "Cabot Creamery butter has been recalled in seven states because of possible fecal contamination but its maker says the product only made it to store shelves in its home state, Vermont. According to a… [+1074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Fred Schwaller",
+      "title": "Psychoactive drug pollution makes fish less risk-averse",
+      "description": "Clobazam, an anti-anxiety drug, is polluting our waterways. A Swedish study found traces of the drug had altered the way wild Atlantic salmon migrate. A common anti-anxiety drug, which has been found to pollute the world's waterways, seems to be influencing t…",
+      "url": "https://www.dw.com/en/psychoactive-drug-pollution-makes-fish-less-risk-averse/a-72201626",
+      "urlToImage": "https://static.dw.com/image/55859104_6.jpg",
+      "publishedAt": "2025-04-10T18:57:00Z",
+      "content": "A common anti-anxiety drug, which has been found to pollute the world's waterways, seems to be influencing the migration behavior of wild Atlantic Salmon, according to a  study out of Sweden. \r\nThe s… [+6121 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -494,6 +559,19 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-120138697,width-1200,height-630,imgsize-55418,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-04-09T20:11:13Z",
       "content": "Cabot Creamery has voluntarily recalled around a ton of its butter amid potential faecal contamination. A notice in this regard has been issued by the Food and Drug Administration (FDA).The recall fo… [+2982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Mapping mercury contamination in penguins of the Southern Ocean",
+      "description": "In 1962, when environmentalist and author Rachel Carson penned 'Silent Spring,' alerting the world to the dangers of the pesticide DDT, it was the reproductive threat to birds -- the bald eagle in particular -- that spurred people to action. Six decades later…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250409154642.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-09T19:46:42Z",
+      "content": "In 1962, when environmentalist and author Rachel Carson pennedSilent Spring, alerting the world to the dangers of the pesticide DDT, it was the reproductive threat to birds -- the bald eagle in parti… [+4802 chars]"
     },
     {
       "source": {
@@ -1079,73 +1157,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/675cc714-52f5-4b82-a830-0d9cbaf9c73a",
       "publishedAt": "2025-04-08T05:19:00Z",
       "content": "NEWARK, N.J., April 08, 2025 (GLOBE NEWSWIRE) -- For centuries, cutting boards have been an essential tool in kitchens worldwide. However, beneath their seemingly harmless surface, traditional cuttin… [+20100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Sausages recalled due to possible contamination with ‘hard plastic’",
-      "description": "The Johnsonville cheddar bratwursts were sold at retailers in 10 states",
-      "url": "https://www.the-independent.com/life-style/sausage-recall-johnsonville-cheddar-bratwurst-b2729207.html",
-      "urlToImage": "https://static.the-independent.com/2025/04/07/17/11/Johnsonville-Brats-recall.jpeg?trim=33,0,34,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-08T04:34:12Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Why Should You Never Defrost Meat At Room Temperature (What To Do Instead)",
-      "description": "Thawing meat at room temperature can lay the ground for harmful bacteria to grow. You can't revive the nutrition of the meat even after cooking it at high temperatures.",
-      "url": "https://food.ndtv.com/how-to/why-should-you-never-defrost-meat-at-room-temperature-what-to-do-instead-8113047",
-      "urlToImage": "https://c.ndtvimg.com/2025-04/shi9lov_meat_625x300_08_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
-      "publishedAt": "2025-04-08T03:53:59Z",
-      "content": "Let us agree, most of us have done it! We take out a packet of frozen meat and leave it on the kitchen counter for hours to thaw before cooking it for dinner. Seems harmless, right? But did you know … [+5392 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Amaris Encinas, USA TODAY",
-      "title": "22,000 pounds of Johnsonville Bratwurst recalled over possible plastic contamination",
-      "description": "Johnsonville issued a voluntary recall Saturday for over 20,000 pounds of cheddar bratwurst product due to contamination concerns.",
-      "url": "https://www.usatoday.com/story/money/food/2025/04/07/johnsonville-bratwurst-recall-2025/82982845007/",
-      "urlToImage": "https://media.zenfs.com/en/usa_today_money_325/3c9023971e673dd3f2ad72f766b02e0d",
-      "publishedAt": "2025-04-07T23:27:31Z",
-      "content": "Johnsonville recalled more than 20,000 pounds of its cheddar-flavored bratwurst after customers reported finding plastic in the product.\r\nThe American sausage company notified the U.S. Department of … [+1807 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "author": "Department for Environment, Food & Rural Affairs",
-      "title": "Environmental permit reforms to empower regulators to slash business red tape",
-      "description": "UK and Welsh Governments launch joint consultation to reform environmental permitting regulations, supporting UK Government’s Plan for Change",
-      "url": "https://www.gov.uk/government/news/environmental-permit-reforms-to-empower-regulators-to-slash-business-red-tape",
-      "urlToImage": "https://assets.publishing.service.gov.uk/media/67f3fae3c2fea2548f4eff49/s960_Hi-vis_clipboard_officer.jpg",
-      "publishedAt": "2025-04-07T23:01:09Z",
-      "content": "Streamlined environmental permitting will drive economic growth and help tackle crime while continuing to safeguard the environment, under reforms unveiled by Environment Minister Emma Hardy today (T… [+4530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Apache Tomca…",
-      "url": "https://securityaffairs.com/176332/security/u-s-cisa-adds-ivanti-connect-secure-policy-secure-and-zta-gateways-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-04-07T19:39:30Z",
-      "content": "U.S. CISA adds Ivanti Connect Secure, Policy Secure and ZTA Gateways flaw to its Known Exploited Vulnerabilities catalog\r\n | A member of the Scattered Spider cybercrime group pleads guilty\r\n | The co… [+153998 chars]"
     }
   ],
-  "totalResults": 88,
+  "totalResults": 89,
   "filteredCount": 0
 }
