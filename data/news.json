@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-04-13T03:18:04.489Z",
+  "lastUpdated": "2025-04-13T06:31:06.325Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Oats: A nutritional powerhouse for health and wellness",
+      "description": "Oats (Avena sativa) originated in the Fertile Crescent and became a staple in cooler climates like Northern Europe. They were later introduced to North America and are now majorly produced in Russia, Canada and the United States. Oats are rich in complex carb…",
+      "url": "https://www.naturalnews.com/2025-04-12-oats-a-nutritional-powerhouse-for-health-wellness.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Fruit-Oats-Blueberries.jpg",
+      "publishedAt": "2025-04-12T06:00:00Z",
+      "content": "<ul><li>Oats (Avena sativa) originated in the Fertile Crescent and became a staple in cooler climates like Northern Europe. They were later introduced to North America and are now majorly produced in… [+6525 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -143,6 +156,19 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/4efabe6ca9aed7c5627ab75b093a2dd0fe8569d0/hub/2025/04/10/49cb88bd-ea22-4548-bce6-df2874c06d31/butter-press-page-recall.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-04-11T16:53:00Z",
       "content": "Dairy cooperative Agri-Mark has voluntarily recalled a single lot of Cabot Creamery 8-ounce Extra Creamy Premium Butter with sea salt, capturing the internet's attention thanks to its ick factor. The… [+2103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "author": null,
+      "title": "Visual AI Market Forecast: USD 26,140 Million by 2031, Driven by Innovations in City Management, Healthcare, and More | Valuates Reports",
+      "description": "BANGALORE, India, April 11, 2025 /PRNewswire/ -- Visual Artificial Intelligence (AI) Market is Segmented by Type (Software & Service, Hardware), by Application (City Management, Rail Transit Operation and Maintenance, Industrial Manufacturing, Bank, Power Ind…",
+      "url": "https://www.prnewswire.co.uk/news-releases/visual-ai-market-forecast-usd-26-140-million-by-2031--driven-by-innovations-in-city-management-healthcare-and-more--valuates-reports-302426660.html",
+      "urlToImage": "https://mma.prnewswire.com/media/1082232/5263837/Valuates_Reports_Logo.jpg?p=facebook",
+      "publishedAt": "2025-04-11T15:39:00Z",
+      "content": "BANGALORE, India, April 11, 2025 /PRNewswire/ -- Visual Artificial Intelligence (AI) Market is Segmented by Type (Software &amp; Service, Hardware), by Application (City Management, Rail Transit Oper… [+11915 chars]"
     },
     {
       "source": {
@@ -1157,32 +1183,6 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/aa3863990a0244fb7c2e77499c6b4147ae01d908/hub/2022/07/13/c91409a7-7846-481a-a57b-6529278329ca/gettyimages-hanan-isachar.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-04-09T12:00:15Z",
       "content": "Spring is a great time to refresh your space as well as your habits. As you're decluttering closets and scrubbing baseboards, don't forget to turn your attention to your produce drawer. Whether you'r… [+5462 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Butter Recalled in 7 States Over Possible Fecal Contamination",
-      "description": "Contaminated dairy products are among the most common sources of such bacterial outbreaks, making early detection and recall critical for public health.",
-      "url": "https://www.newsweek.com/butter-recalled-possible-fecal-contamination-coliform-bacteria-2057304",
-      "urlToImage": "https://d.newsweek.com/en/full/2623878/butter.jpg",
-      "publishedAt": "2025-04-09T11:49:29Z",
-      "content": "Cabot Creamery is recalling 1,700 pounds of butter after testing found elevated levels of coliform bacteria in the product, a marker of potential fecal contamination.\r\nThe voluntary recall, initiated… [+3031 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Gladinet CentreStack and ZTA Microsoft Windows Common Log File System (CLFS) Driver flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Gladinet CentreStack and ZTA Microsoft Windows Common Log File System (CLFS) Driver flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agen…",
-      "url": "https://securityaffairs.com/176366/hacking/u-s-cisa-adds-gladinet-centrestack-and-zta-microsoft-windows-common-log-file-system-clfs-driver-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-04-09T11:35:22Z",
-      "content": "U.S. CISA adds Gladinet CentreStack and ZTA Microsoft Windows Common Log File System (CLFS) Driver flaws to its Known Exploited Vulnerabilities catalog\r\n | WhatsApp fixed a spoofing flaw that could e… [+154358 chars]"
     }
   ],
   "totalResults": 91,
