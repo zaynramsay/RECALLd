@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-04-13T06:31:06.325Z",
+  "lastUpdated": "2025-04-13T12:41:39.376Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "nj.com"
+      },
+      "author": "Katherine Rodriguez | Nj Advance Media For Nj.com",
+      "title": "Five recalls that flew under the radar this week",
+      "description": "Here are some of the most pressing recalls for the week of April 7-13",
+      "url": "https://www.nj.com/business/2025/04/five-recalls-that-flew-under-the-radar-this-week.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/YOIVAVQXIFE4LKFYLRK7QKX56Y.png?auth=0f659a82c9d8e48768900d7d6816fa3ef41345998ec720432e91a14bbbb53dae&width=1280&quality=90",
+      "publishedAt": "2025-04-12T12:24:22Z",
+      "content": "Recalls of food, products and cars have popped up in the news more recently, causing us to scrutinize whats in our pantries, closets and garages.\r\nThese recalls have become more common thanks to incr… [+4262 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jené Luciani Sena",
+      "title": "Cutting boards every home cook needs in their kitchen",
+      "description": "Home chefs need these cutting boards to boost kitchen productivity and add a decorative touch.",
+      "url": "https://www.foxnews.com/deals/cutting-boards-essential-kitchen-gear",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/cutting-board-istock-2155064931.jpg",
+      "publishedAt": "2025-04-12T12:00:26Z",
+      "content": "Your kitchen isnt complete without a cutting board or two, or three. They're not just useful tools, they're integral to safe and efficient food preparation. Depending on what you are using it for, yo… [+6723 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Attackers are exploiting recently disclosed OttoKit WordPress plugin flaw",
+      "description": "Threat actors are exploiting a vulnerability in the OttoKit WordPress plugin, a few hours after public disclosure. Threat actors are exploiting a recently discovered vulnerability, tracked as CVE-2025-3102 (CVSS score of 8.1) in the OttoKit WordPress plugin (…",
+      "url": "https://securityaffairs.com/176461/security/ottokit-wordpress-plugin-flaw-exploitation.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-22.png",
+      "publishedAt": "2025-04-12T10:43:21Z",
+      "content": "Attackers are exploiting recently disclosed OttoKit WordPress plugin flaw\r\n | Laboratory Services Cooperative data breach impacts 1.6 Million People\r\n | Palo Alto warns of brute-force login attempts … [+155284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox Business",
+      "title": "Celery sold at Walmart in nearly 30 states recalled over possible listeria contamination",
+      "description": "Listeria infection can cause fever, headache, stiffness, nausea, abdominal pain and diarrhea and in some it can be fatal.",
+      "url": "https://nypost.com/2025/04/12/business/celery-sold-at-walmart-in-nearly-30-states-recalled-over-possible-listeria-contamination/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/walmart.jpg?quality=75&strip=all&1744435973&w=1024",
+      "publishedAt": "2025-04-12T09:33:05Z",
+      "content": "Celery sold at Walmarts in nearly 30 states has been recalled due to a possible listeria contamination risk, according to the US Food and Drug Administration (FDA). \r\nCalifornia-based Duda Farm Fresh… [+1520 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -240,19 +292,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Allison H. Kerwin, Aki Ohdera, Juliet Bier, Devon Goodman, Marta Mammone, Victoria Sharp, Alesandra Echeandía, Mónica Medina",
-      "title": "Cassiopea xamachana microbiome across anatomy, development, and geography",
-      "description": "The upside-down jellyfish holobiont, Cassiopea xamachana, is a useful model system for tri-partite interactions between the cnidarian host, the photosymbiont, and the bacterial microbiome. While the interaction between the host and photosymbiont has been well…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319944",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319944.g005&size=inline",
-      "publishedAt": "2025-04-11T14:00:00Z",
-      "content": "Citation: Kerwin AH, Ohdera A, Bier J, Goodman D, Mammone M, Sharp V, et al. (2025) Cassiopea xamachana microbiome across anatomy, development, and geography. PLoS ONE 20(4):\r\n e0319944.\r\nhttps://doi… [+46370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Tatiana B.B. Zidan, Eduardo J. Troster, Jennifer Beck, Livia R. Sanches, Carlos Eduardo S. Ferreira, Romy S.B. Zacharias, Celso M. Rebello",
       "title": "Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns",
       "description": "The gold standard treatment for apnea of prematurity is caffeine citrate, which is known for its effect on diaphragm muscle activity. The purpose of this study was to investigate the electrical activity of the diaphragm in preterm newborns, which was measured…",
@@ -260,6 +299,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320992.g004&size=inline",
       "publishedAt": "2025-04-11T14:00:00Z",
       "content": "Citation: Zidan TB, Troster EJ, Beck J, Sanches LR, Ferreira CES, Zacharias RS, et al. (2025) Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns. PLoS ONE 20(4):\r\n e… [+20088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Allison H. Kerwin, Aki Ohdera, Juliet Bier, Devon Goodman, Marta Mammone, Victoria Sharp, Alesandra Echeandía, Mónica Medina",
+      "title": "Cassiopea xamachana microbiome across anatomy, development, and geography",
+      "description": "The upside-down jellyfish holobiont, Cassiopea xamachana, is a useful model system for tri-partite interactions between the cnidarian host, the photosymbiont, and the bacterial microbiome. While the interaction between the host and photosymbiont has been well…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319944",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319944.g005&size=inline",
+      "publishedAt": "2025-04-11T14:00:00Z",
+      "content": "Citation: Kerwin AH, Ohdera A, Bier J, Goodman D, Mammone M, Sharp V, et al. (2025) Cassiopea xamachana microbiome across anatomy, development, and geography. PLoS ONE 20(4):\r\n e0319944.\r\nhttps://doi… [+46370 chars]"
     },
     {
       "source": {
@@ -320,7 +372,7 @@
       },
       "author": "Ron Schmelzer, Contributor, \n Ron Schmelzer, Contributor\n https://www.forbes.com/sites/ronschmelzer/",
       "title": "Cooking Up Innovation: How Artificial Intelligence Is Transforming Food Service",
-      "description": "As AI becomes part of our everyday lives, it���s becoming hard to avoid, even in restaurants and our favorite food establishments.",
+      "description": "As AI becomes part of our everyday lives, it’s becoming hard to avoid, even in restaurants and our favorite food establishments.",
       "url": "https://www.forbes.com/sites/ronschmelzer/2025/04/11/cooking-up-innovation-how-artificial-intelligence-is-transforming-food-service/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6782b9f97d91fdb44aa12913/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-04-11T07:00:00Z",
@@ -357,19 +409,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Finn Heartley",
-      "title": "Dane Wigington exposes climate engineering as ‘All-Out Weather and Biological Warfare’",
-      "description": "Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream “chemtrail” dismissals as jet exhaust. Independent lab tests found heavy metals (aluminum, lea…",
-      "url": "https://www.naturalnews.com/2025-04-11-dane-wigington-exposes-climate-engineering-weather-biological-warfare.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-11-BBN-Interview-with-Dane-Wigington.jpg",
-      "publishedAt": "2025-04-11T06:00:00Z",
-      "content": "<ul><li>Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream \"chemtrail\" dismissals as … [+5455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Cottage cheese: A superfood source of protein and other nutrients",
       "description": "Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism. Dating back to early European and Middle Eastern cultures, cottage…",
@@ -377,6 +416,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Appetizer-Background-Board-Breakfast-Cheese-Cooking-Cottage.jpg",
       "publishedAt": "2025-04-11T06:00:00Z",
       "content": "<ul><li>Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism… [+7726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Finn Heartley",
+      "title": "Dane Wigington exposes climate engineering as ‘All-Out Weather and Biological Warfare’",
+      "description": "Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream “chemtrail” dismissals as jet exhaust. Independent lab tests found heavy metals (aluminum, lea…",
+      "url": "https://www.naturalnews.com/2025-04-11-dane-wigington-exposes-climate-engineering-weather-biological-warfare.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-11-BBN-Interview-with-Dane-Wigington.jpg",
+      "publishedAt": "2025-04-11T06:00:00Z",
+      "content": "<ul><li>Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream \"chemtrail\" dismissals as … [+5455 chars]"
     },
     {
       "source": {
@@ -1144,47 +1196,8 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013036.g003&size=inline",
       "publishedAt": "2025-04-09T14:00:00Z",
       "content": "Citation: Timilsina S, Iruegas-Bocardo F, Jibrin MO, Sharma A, Subedi A, Kaur A, et al. (2025) Diversification of an emerging bacterial plant pathogen; insights into the global spread of Xanthomonas … [+54756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "The US Treasury’s OCC disclosed an undetected major email breach for over a year",
-      "description": "The US Office of the Comptroller of the Currency (OCC) disclosed a major email breach compromising 100 accounts, undetected for over a year. The US Treasury’s Office of the Comptroller of the Currency (OCC) disclosed an undetected major email breach for over …",
-      "url": "https://securityaffairs.com/176373/data-breach/the-us-treasurys-occ-disclosed-an-undetected-major-email-breach-for-over-a-year.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/03/us-department-of-treasury.jpg",
-      "publishedAt": "2025-04-09T12:35:11Z",
-      "content": "The US Treasurys OCC disclosed an undetected major email breach for over a year\r\n | U.S. CISA adds Gladinet CentreStack and ZTA Microsoft Windows Common Log File System (CLFS) Driver flaws to its Kno… [+154442 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Arialief",
-      "title": "Arialief Supplement: Vitamins Reviews and Complaints for Neuropathic Pain",
-      "description": "HONOLULU, April 09, 2025 (GLOBE NEWSWIRE) -- Arialief is a premium dietary supplement specifically designed to target the root causes of neuropathic discomfort. Whether your symptoms include burning, tingling, numbness, or stabbing nerve pain, Arialief aims t…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/09/3058377/0/en/Arialief-Supplement-Vitamins-Reviews-and-Complaints-for-Neuropathic-Pain.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a10bc945-4ab8-472a-bbdd-47a769874fc2",
-      "publishedAt": "2025-04-09T12:03:00Z",
-      "content": "HONOLULU, April 09, 2025 (GLOBE NEWSWIRE) -- Arialief is a premium dietary supplement specifically designed to target the root causes of neuropathic discomfort. Whether your symptoms include burning,… [+28958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "David Watsky",
-      "title": "12 Fruits and Vegetables You Should Always Wash Extra Carefully",
-      "description": "Some fruits and vegetables tend to hold onto pesticides and chemicals, making it especially important to rinse them thoroughly before eating.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/12-fruits-and-vegetables-you-should-always-wash-extra-carefully/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/aa3863990a0244fb7c2e77499c6b4147ae01d908/hub/2022/07/13/c91409a7-7846-481a-a57b-6529278329ca/gettyimages-hanan-isachar.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-04-09T12:00:15Z",
-      "content": "Spring is a great time to refresh your space as well as your habits. As you're decluttering closets and scrubbing baseboards, don't forget to turn your attention to your produce drawer. Whether you'r… [+5462 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 92,
   "filteredCount": 0
 }
