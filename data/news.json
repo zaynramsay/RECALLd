@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-04-14T06:34:39.142Z",
+  "lastUpdated": "2025-04-14T12:48:39.632Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 41",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Lazarus Expands Malicious npm Campaign: 11 New Packages Add Malware Loaders and Bitbucket Payloads BadBazaar: iOS and Android…",
+      "url": "https://securityaffairs.com/176503/malware/security-affairs-malware-newsletter-round-41.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-04-13T11:39:10Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 41\r\n | Security Affairs newsletter Round 519 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | China admitted its role in Volt Typhoon cyberattacks on U.S. inf… [+155579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Victor Tangermann",
+      "title": "Bottles of \"Holy Water\" Contaminated With Cholera Send European Tourists to the ICU",
+      "description": "Researchers are warning that bottles of \"holy water\" from a well in Ethiopia could be laced with dangerous bacteria that could cause cholera. As detailed in a new report published in the journal Eurosurveillance, spotted by Ars Technica, three German and four…",
+      "url": "https://futurism.com/neoscope/bottles-holy-water-cholera-european-tourists",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/04/bottles-holy-water-cholera-european-tourists.jpg",
+      "publishedAt": "2025-04-13T11:30:07Z",
+      "content": "Researchers are warning that bottles of \"holy water\" from a well in Ethiopia could be laced with dangerous bacteria that could cause cholera.\r\nAs detailed in a new report published in the journal Eur… [+2774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 519 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Symbolic Link …",
+      "url": "https://securityaffairs.com/176494/breaking-news/security-affairs-newsletter-round-519-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-04-13T11:23:40Z",
+      "content": "Security Affairs newsletter Round 519 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | China admitted its role in Volt Typhoon cyberattacks on U.S. infrastructure\r\n | Symbolic Link trick lets attacker… [+155530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China admitted its role in Volt Typhoon cyberattacks on U.S. infrastructure",
+      "description": "China admitted in a secret meeting with U.S. officials that it conducted Volt Typhoon cyberattacks on U.S. infrastructure, WSJ reports. China reportedly admitted in a secret meeting with U.S. officials that it carried out cyberattacks on U.S. infrastructure, …",
+      "url": "https://securityaffairs.com/176485/apt/china-admitted-its-role-in-volt-typhoon-cyberattacks-on-u-s-infrastructure.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+      "publishedAt": "2025-04-13T07:57:27Z",
+      "content": "China admitted its role in Volt Typhoon cyberattacks on U.S. infrastructure\r\n | Symbolic Link trick lets attackers bypass FortiGate patches, Fortinet warns\r\n | Attackers are exploiting recently discl… [+155444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Standard Digital"
+      },
+      "author": "Dr Othieno Joseph",
+      "title": "What it will take to produce 'clean milk'",
+      "description": "I’m a dairy farmer from Bomet County. I would wish you to enlighten us on what it takes to produce clean milk.",
+      "url": "http://www.standardmedia.co.ke/business/opinion/article/2001516326/what-it-will-take-to-produce-clean-milk",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/a7aWZB3ohlHBItgJIDoOvkHkG6LGgTDqLkgVma6Y.jpg",
+      "publishedAt": "2025-04-13T07:40:47Z",
+      "content": "Hand milking should be done by gentle but firm teat squeezing and not pulling. [Kipsang Joseph, Standard]\r\nDear Daktari,\r\nThank you for your informative articles to us farmers. I’m a dairy farmer fro… [+3749 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -422,19 +487,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Allison H. Kerwin, Aki Ohdera, Juliet Bier, Devon Goodman, Marta Mammone, Victoria Sharp, Alesandra Echeandía, Mónica Medina",
-      "title": "Cassiopea xamachana microbiome across anatomy, development, and geography",
-      "description": "The upside-down jellyfish holobiont, Cassiopea xamachana, is a useful model system for tri-partite interactions between the cnidarian host, the photosymbiont, and the bacterial microbiome. While the interaction between the host and photosymbiont has been well…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319944",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319944.g005&size=inline",
-      "publishedAt": "2025-04-11T14:00:00Z",
-      "content": "Citation: Kerwin AH, Ohdera A, Bier J, Goodman D, Mammone M, Sharp V, et al. (2025) Cassiopea xamachana microbiome across anatomy, development, and geography. PLoS ONE 20(4):\r\n e0319944.\r\nhttps://doi… [+46370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Tatiana B.B. Zidan, Eduardo J. Troster, Jennifer Beck, Livia R. Sanches, Carlos Eduardo S. Ferreira, Romy S.B. Zacharias, Celso M. Rebello",
       "title": "Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns",
       "description": "The gold standard treatment for apnea of prematurity is caffeine citrate, which is known for its effect on diaphragm muscle activity. The purpose of this study was to investigate the electrical activity of the diaphragm in preterm newborns, which was measured…",
@@ -442,6 +494,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320992.g004&size=inline",
       "publishedAt": "2025-04-11T14:00:00Z",
       "content": "Citation: Zidan TB, Troster EJ, Beck J, Sanches LR, Ferreira CES, Zacharias RS, et al. (2025) Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns. PLoS ONE 20(4):\r\n e… [+20088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Allison H. Kerwin, Aki Ohdera, Juliet Bier, Devon Goodman, Marta Mammone, Victoria Sharp, Alesandra Echeandía, Mónica Medina",
+      "title": "Cassiopea xamachana microbiome across anatomy, development, and geography",
+      "description": "The upside-down jellyfish holobiont, Cassiopea xamachana, is a useful model system for tri-partite interactions between the cnidarian host, the photosymbiont, and the bacterial microbiome. While the interaction between the host and photosymbiont has been well…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319944",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319944.g005&size=inline",
+      "publishedAt": "2025-04-11T14:00:00Z",
+      "content": "Citation: Kerwin AH, Ohdera A, Bier J, Goodman D, Mammone M, Sharp V, et al. (2025) Cassiopea xamachana microbiome across anatomy, development, and geography. PLoS ONE 20(4):\r\n e0319944.\r\nhttps://doi… [+46370 chars]"
     },
     {
       "source": {
@@ -539,19 +604,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Finn Heartley",
-      "title": "Dane Wigington exposes climate engineering as ‘All-Out Weather and Biological Warfare’",
-      "description": "Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream “chemtrail” dismissals as jet exhaust. Independent lab tests found heavy metals (aluminum, lea…",
-      "url": "https://www.naturalnews.com/2025-04-11-dane-wigington-exposes-climate-engineering-weather-biological-warfare.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-11-BBN-Interview-with-Dane-Wigington.jpg",
-      "publishedAt": "2025-04-11T06:00:00Z",
-      "content": "<ul><li>Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream \"chemtrail\" dismissals as … [+5455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Cottage cheese: A superfood source of protein and other nutrients",
       "description": "Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism. Dating back to early European and Middle Eastern cultures, cottage…",
@@ -559,6 +611,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Appetizer-Background-Board-Breakfast-Cheese-Cooking-Cottage.jpg",
       "publishedAt": "2025-04-11T06:00:00Z",
       "content": "<ul><li>Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism… [+7726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Finn Heartley",
+      "title": "Dane Wigington exposes climate engineering as ‘All-Out Weather and Biological Warfare��",
+      "description": "Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream “chemtrail” dismissals as jet exhaust. Independent lab tests found heavy metals (aluminum, lea…",
+      "url": "https://www.naturalnews.com/2025-04-11-dane-wigington-exposes-climate-engineering-weather-biological-warfare.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-11-BBN-Interview-with-Dane-Wigington.jpg",
+      "publishedAt": "2025-04-11T06:00:00Z",
+      "content": "<ul><li>Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream \"chemtrail\" dismissals as … [+5455 chars]"
     },
     {
       "source": {
@@ -688,7 +753,7 @@
       "url": "https://securityaffairs.com/176427/hacking/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-04-10T18:25:59Z",
-      "content": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog\r\n | AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites\r\n | An APT group exploited ESET flaw to ex… [+154929 chars]"
+      "content": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog\r\n |��AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites\r\n | An APT group exploited ESET flaw to ex… [+154929 chars]"
     },
     {
       "source": {
@@ -1157,60 +1222,8 @@
       "urlToImage": "https://static.the-independent.com/2025/04/09/18/21/MixCollage-09-Apr-2025-02-46-PM-3532.jpg?width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-04-09T21:15:25Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3332 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Feed",
-      "title": "1,700 pounds of butter recalled over possible faecal contamination in US; here’s all you need to know",
-      "description": "Cabot Creamery's parent company, Agri-Mark Inc, has issued a recall for 1,700 pounds of butter after elevated levels of coliform bacteria was found in tests. The affected food item is being removed from the stores in New York, Pennsylvania, Vermont, Maine, Ar…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/1700-pounds-of-butter-recalled-over-possible-faecal-contamination-in-us-heres-all-you-need-to-know/articleshow/120138706.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-120138697,width-1200,height-630,imgsize-55418,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-04-09T20:11:13Z",
-      "content": "Cabot Creamery has voluntarily recalled around a ton of its butter amid potential faecal contamination. A notice in this regard has been issued by the Food and Drug Administration (FDA).The recall fo… [+2982 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Mapping mercury contamination in penguins of the Southern Ocean",
-      "description": "In 1962, when environmentalist and author Rachel Carson penned 'Silent Spring,' alerting the world to the dangers of the pesticide DDT, it was the reproductive threat to birds -- the bald eagle in particular -- that spurred people to action. Six decades later…",
-      "url": "https://www.sciencedaily.com/releases/2025/04/250409154642.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-04-09T19:46:42Z",
-      "content": "In 1962, when environmentalist and author Rachel Carson pennedSilent Spring, alerting the world to the dangers of the pesticide DDT, it was the reproductive threat to birds -- the bald eagle in parti… [+4802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Frito-Lay chips recall upgraded to most dangerous classification over ‘life-threatening’ risk",
-      "description": "The chips were recalled last because they may have contained an undeclared allergen",
-      "url": "https://www.the-independent.com/life-style/frito-lay-recall-tostitos-corn-chips-b2730452.html",
-      "urlToImage": "https://static.the-independent.com/2025/03/27/13/13/tostitos-corn-chips.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-09T19:45:40Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Brittany Miller",
-      "title": "Popular hot sauce recalled in 10 states due to possible ‘life-threatening’ allergen",
-      "description": "Two different flavors of Texas Pete hot sauce were recalled",
-      "url": "https://www.the-independent.com/life-style/food-and-drink/texas-pete-hot-sauce-recall-sulfite-allergy-b2730443.html",
-      "urlToImage": "https://static.the-independent.com/2025/04/09/17/37/MixCollage-09-Apr-2025-01-50-PM-4040.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-09T19:42:37Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3554 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 94,
   "filteredCount": 0
 }
