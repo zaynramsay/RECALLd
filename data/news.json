@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-14T01:56:11.514Z",
+  "lastUpdated": "2025-04-14T06:34:39.142Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Drug makers Glenmark, Sun Pharma, Zydus recall products in US",
+      "description": "Companies initiate Class-II recall, which happens when use of, or exposure to, a violative product may lead to temporary or medically reversible health consequences",
+      "url": "https://www.thehindubusinessline.com/companies/drug-makers-glenmark-sun-pharma-zydus-recall-products-in-us/article69445477.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ji0me5/article69445491.ece/alternates/LANDSCAPE_1200/pills-dark-environment.jpg",
+      "publishedAt": "2025-04-13T06:18:38Z",
+      "content": "Drug makers Glenmark, Sun Pharma and Zydus are recalling products in the US for manufacturing issues, the US Food and Drug Administration (USFDA) said in its latest Enforcement Report.\r\nAs per the US… [+1704 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Glenmark, Sun Pharma, Zydus recall products in US",
+      "description": "Glenmark, Sun Pharma, and Zydus are recalling various products in the US due to manufacturing issues and CGMP deviations, according to the USFDA. Glenmark is recalling over 25 products, while Sun Pharma is recalling Gabapentin capsules due to cross-contaminat…",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/glenmark-sun-pharma-zydus-recall-products-in-us/articleshow/120248890.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120249011,width-1200,height-630,imgsize-29922,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-04-13T05:26:14Z",
+      "content": "NEW DELHI: Drug makers Glenmark, Sun Pharma and Zydus are recalling products in the US for manufacturing issues, the US Food and Drug Administration (USFDA) said in its latest Enforcement Report. As … [+1731 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,21 +1209,8 @@
       "urlToImage": "https://static.the-independent.com/2025/04/09/17/37/MixCollage-09-Apr-2025-01-50-PM-4040.jpeg?width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-04-09T19:42:37Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vulture"
-      },
-      "author": "Dan Reilly",
-      "title": "The Ultimate Guide to 2025’s Can’t-Miss Music Festivals",
-      "description": "Trying to piece together your live-music calendar? Or simply looking for an exciting lineup to see on a free weekend? Let us help with this list of the best upcoming music festivals this summer and beyond.",
-      "url": "http://www.vulture.com/article/best-music-festivals-2025-summer-fall-calendar-lineups.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/509/128/e5d4fdaf60fce0665fd0ce13e25544d840-coachella-crowd.1x.rsocial.w1200.jpg",
-      "publishedAt": "2025-04-09T18:53:00Z",
-      "content": "Trying to piece together an extensive summer-music itinerary? Or simply looking for an exciting option for one free weekend? Let us help. Weve assembled a guide that includes more than 60 festivals a… [+33290 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
