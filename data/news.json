@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-04-14T12:48:39.632Z",
+  "lastUpdated": "2025-04-14T18:32:37.758Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "Global plastic recycling rates 'stagnant' at under 10%: Study",
+      "description": "The amount of plastic being recycled around the world is stagnant at less than 10% with most new plastic still made from fossil fuels, a new study said Thursday.",
+      "url": "https://phys.org/news/2025-04-global-plastic-recycling-stagnant.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/less-than-10-percent-o.jpg",
+      "publishedAt": "2025-04-13T18:00:02Z",
+      "content": "The amount of plastic being recycled around the world is stagnant at less than 10% with most new plastic still made from fossil fuels, a new study said Thursday.\r\nResearchers from Tsinghua University… [+4006 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Black Forest ham sandwich sold in Quebec recalled due to Listeria",
+      "description": "A Black Forest ham sandwich by the Cuisine Fraicheur Urbaine brand is being recalled due to possible Listeria monocytogenes contamination. The Canadian Food Inspection Agency warns that pregnant women, the elderly and those with weakened immune systems are mo…",
+      "url": "https://www.cbc.ca/news/canada/montreal/food-recall-quebec-listeria-ham-sanwhich-1.7509207",
+      "urlToImage": "https://i.cbc.ca/1.7509218.1744558992!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/black-forest-ham-sandwich-recall.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-13T16:18:45Z",
+      "content": "The Canadian Food Inspection Agency (CFIA) issued a recall Saturday for a Black Forest ham sandwich due to possible microbial contamination by Listeria monocytogenes. \r\nThe sandwich, sold under the C… [+1438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Taylor Leamey",
+      "title": "Microplastics Aren't Just Found in Seafood Anymore. These Are 9 Other Foods to Watch",
+      "description": "Microplastics are everywhere, including in your diet. These are the top foods that hide more than you think.",
+      "url": "https://www.cnet.com/health/nutrition/microplastics-arent-just-found-in-seafood-anymore-the-9-other-foods-to-watch/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-13T15:00:04Z",
+      "content": "A new study from the University of California, Los Angeles has discovered that there are microplastics in chewing gum. Both natural and synthetic gum releases microplastics into the mouth when chewed… [+10259 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -195,6 +234,19 @@
       "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/taNKF2C2IvDugr73vM6OqXMVgfY=/0x0:1200x630/fit-in/1200x630/top/filters:format_auto():quality(85):upscale()/2025/04/11/914/n/49351082/9679328267f981f2a4ebb6.40492934_.jpg",
       "publishedAt": "2025-04-12T15:00:03Z",
       "content": "If you've scrolled through TikTok or Instagram lately, chances are you've seen plenty of ads hawking supplements claiming to detox, de-bloat, de-stress, and fix your hormonal imbalances and metabolis… [+8253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CounterPunch"
+      },
+      "author": "Jeffrey St. Clair",
+      "title": "I Am Bombed, Therefore I Am",
+      "description": "Israeli tank firing on Palestinian greenhouses in Gaza. (Screen grab from video on X posted by Gaza Notifications.) Israeli tank firing on Palestinian greenhouses in Gaza. (Screen grab from video on X posted by Gaza Notifications.) Israeli tank firing on Pale…",
+      "url": "https://www.counterpunch.org/2025/04/12/i-am-bombed-therefore-i-am/",
+      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/04/Screen-Shot-2025-04-14-at-8.57.28-AM.png",
+      "publishedAt": "2025-04-12T14:55:53Z",
+      "content": "“Nobody should have to livestream the deaths of their loved ones to prove that they deserve to live.”\r\nMohammad Safa\r\n+ First, the Israelis said it didn’t happen; the Palestinians were lying. Then, a… [+26068 chars]"
     },
     {
       "source": {
@@ -487,19 +539,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Tatiana B.B. Zidan, Eduardo J. Troster, Jennifer Beck, Livia R. Sanches, Carlos Eduardo S. Ferreira, Romy S.B. Zacharias, Celso M. Rebello",
-      "title": "Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns",
-      "description": "The gold standard treatment for apnea of prematurity is caffeine citrate, which is known for its effect on diaphragm muscle activity. The purpose of this study was to investigate the electrical activity of the diaphragm in preterm newborns, which was measured…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320992",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320992.g004&size=inline",
-      "publishedAt": "2025-04-11T14:00:00Z",
-      "content": "Citation: Zidan TB, Troster EJ, Beck J, Sanches LR, Ferreira CES, Zacharias RS, et al. (2025) Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns. PLoS ONE 20(4):\r\n e… [+20088 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Allison H. Kerwin, Aki Ohdera, Juliet Bier, Devon Goodman, Marta Mammone, Victoria Sharp, Alesandra Echeandía, Mónica Medina",
       "title": "Cassiopea xamachana microbiome across anatomy, development, and geography",
       "description": "The upside-down jellyfish holobiont, Cassiopea xamachana, is a useful model system for tri-partite interactions between the cnidarian host, the photosymbiont, and the bacterial microbiome. While the interaction between the host and photosymbiont has been well…",
@@ -507,6 +546,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319944.g005&size=inline",
       "publishedAt": "2025-04-11T14:00:00Z",
       "content": "Citation: Kerwin AH, Ohdera A, Bier J, Goodman D, Mammone M, Sharp V, et al. (2025) Cassiopea xamachana microbiome across anatomy, development, and geography. PLoS ONE 20(4):\r\n e0319944.\r\nhttps://doi… [+46370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Tatiana B.B. Zidan, Eduardo J. Troster, Jennifer Beck, Livia R. Sanches, Carlos Eduardo S. Ferreira, Romy S.B. Zacharias, Celso M. Rebello",
+      "title": "Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns",
+      "description": "The gold standard treatment for apnea of prematurity is caffeine citrate, which is known for its effect on diaphragm muscle activity. The purpose of this study was to investigate the electrical activity of the diaphragm in preterm newborns, which was measured…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320992",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320992.g004&size=inline",
+      "publishedAt": "2025-04-11T14:00:00Z",
+      "content": "Citation: Zidan TB, Troster EJ, Beck J, Sanches LR, Ferreira CES, Zacharias RS, et al. (2025) Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns. PLoS ONE 20(4):\r\n e… [+20088 chars]"
     },
     {
       "source": {
@@ -604,6 +656,19 @@
         "id": null,
         "name": "Naturalnews.com"
       },
+      "author": "Finn Heartley",
+      "title": "Dane Wigington exposes climate engineering as ‘All-Out Weather and Biological Warfare’",
+      "description": "Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream “chemtrail” dismissals as jet exhaust. Independent lab tests found heavy metals (aluminum, lea…",
+      "url": "https://www.naturalnews.com/2025-04-11-dane-wigington-exposes-climate-engineering-weather-biological-warfare.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-11-BBN-Interview-with-Dane-Wigington.jpg",
+      "publishedAt": "2025-04-11T06:00:00Z",
+      "content": "<ul><li>Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream \"chemtrail\" dismissals as … [+5455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
       "author": "Laura Harris",
       "title": "Cottage cheese: A superfood source of protein and other nutrients",
       "description": "Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism. Dating back to early European and Middle Eastern cultures, cottage…",
@@ -611,19 +676,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Appetizer-Background-Board-Breakfast-Cheese-Cooking-Cottage.jpg",
       "publishedAt": "2025-04-11T06:00:00Z",
       "content": "<ul><li>Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism… [+7726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Finn Heartley",
-      "title": "Dane Wigington exposes climate engineering as ‘All-Out Weather and Biological Warfare��",
-      "description": "Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream “chemtrail” dismissals as jet exhaust. Independent lab tests found heavy metals (aluminum, lea…",
-      "url": "https://www.naturalnews.com/2025-04-11-dane-wigington-exposes-climate-engineering-weather-biological-warfare.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-11-BBN-Interview-with-Dane-Wigington.jpg",
-      "publishedAt": "2025-04-11T06:00:00Z",
-      "content": "<ul><li>Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream \"chemtrail\" dismissals as … [+5455 chars]"
     },
     {
       "source": {
@@ -753,7 +805,7 @@
       "url": "https://securityaffairs.com/176427/hacking/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-04-10T18:25:59Z",
-      "content": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog\r\n |��AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites\r\n | An APT group exploited ESET flaw to ex… [+154929 chars]"
+      "content": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog\r\n | AkiraBot: AI-Powered spam bot evades CAPTCHA to target 80,000+ websites\r\n | An APT group exploited ESET flaw to ex… [+154929 chars]"
     },
     {
       "source": {
@@ -1170,58 +1222,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Peanuts-Salted.jpg",
       "publishedAt": "2025-04-10T01:06:52Z",
       "content": "An Ohio-based nut company is recalling over 140 cases of honey roasted peanuts due to the possible presence of an allergen.\r\nAccording to a Food &amp; Drug Administration (FDA) notice, the Trophy Nut… [+1867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Are Neonics Essential to All Crops? Research Says No",
-      "description": "Originally published on U.S. Right to Know: March 10, 2025\n\n\nIn 2018, Louis Robert, an agronomist in Québec, was fired after releasing controversial research about the limited effectiveness of neonicotinoid pesticides. After a year of asking his superiors at …",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/04/10/are-neonics-essential-to-all-crops.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/April/FB/are-neonics-essential-to-all-crops-fb.jpg",
-      "publishedAt": "2025-04-10T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Cabot butter recall spreads across 7 states",
-      "description": "Thousands of pounds of premium butter have been recalled after testing revealed concerning bacterial levels, affecting customers in multiple states. Understanding the contamination concern A significant recall has been issued for Cabot Creamery butter product…",
-      "url": "https://rollingout.com/2025/04/09/cabot-butter-recall-spreads-7-states/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/04/shutterstock_2358764789-scaled.jpg",
-      "publishedAt": "2025-04-09T22:40:47Z",
-      "content": "Thousands of pounds of premium butter have been recalled after testing revealed concerning bacterial levels, affecting customers in multiple states.\r\nUnderstanding the contamination concern\r\nA signif… [+6264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "pennlive.com",
-      "title": "Frito-Lay chip recall upgraded to most severe FDA classification",
-      "description": "The Food and Drug Administration (FDA) announced it has elevated a recall it issued last month for one of its most popular chip brands due to an undeclared allergen.\nFrito-Lay initially issued the recall for 1,300 bags of its Tostitos Cantina-style corn chips…",
-      "url": "https://biztoc.com/x/04b74b010abd1969",
-      "urlToImage": "https://biztoc.com/cdn/04b74b010abd1969_s.webp",
-      "publishedAt": "2025-04-09T22:21:46Z",
-      "content": "The Food and Drug Administration (FDA) announced it has elevated a recall it issued last month for one of its most popular chip brands due to an undeclared allergen.Frito-Lay initially issued the rec… [+146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Kaleigh Werner",
-      "title": "Butter recalled in seven states due to potentially dangerous bacteria contamination",
-      "description": "The affected Cabot Creamery butter was sold across seven states",
-      "url": "https://www.the-independent.com/life-style/cabot-creamery-butter-recall-bacteria-contamination-b2730485.html",
-      "urlToImage": "https://static.the-independent.com/2025/04/09/18/21/MixCollage-09-Apr-2025-02-46-PM-3532.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-09T21:15:25Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3332 chars]"
     }
   ],
   "totalResults": 94,
