@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-04-15T06:33:23.397Z",
+  "lastUpdated": "2025-04-15T12:48:19.792Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Alan Ohnsman, Forbes Staff, \n Alan Ohnsman, Forbes Staff\n https://www.forbes.com/sites/alanohnsman/",
+      "title": "Current Climate: Curbing Cow Farts With Selective Breeding",
+      "description": "In this week's Current Climate newsletter, reducing methane emissions by breeding less gassy cows; Tesla Cybertruck sales plunge; solving water scarcity challenges",
+      "url": "https://www.forbes.com/sites/alanohnsman/2025/04/11/current-climate-curbing-cow-farts/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f99d3313e0a99f93212d86/0x0.jpg?format=jpg&crop=1694,953,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-14T12:00:00Z",
+      "content": "Current Climate brings you the latest news about the business of sustainability every Monday. Sign up to get it in your inbox.\r\ngetty\r\nMuch of the news on climate has been discouraging of late. Europ… [+8529 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Lauren Leffer",
+      "title": "Chew on this: The 10,000-year history of gum",
+      "description": "The not-quite-snack has a storied past and some surprising benefits.\nThe post Chew on this: The 10,000-year history of gum appeared first on Popular Science.",
+      "url": "https://www.popsci.com/science/history-of-chewing-gum/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/04/gumballs.png?quality=85&w=2000",
+      "publishedAt": "2025-04-14T12:00:00Z",
+      "content": "Somewhere between 9,500 and 9,900 years ago, three Scandinavian teenagers were hanging out, chewing gum after a meal. Specifically, they were chewing pitch or tar made from the bark of birch trees. M… [+7238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Emilie Lavinia",
+      "title": "I drank kefir for a month and it made me feel like a superhuman – what’s the secret behind this gut-friendly drink?",
+      "description": "Could this fermented drink hold the key to better health?",
+      "url": "https://www.the-independent.com/health-and-fitness/what-is-kefir-b2732816.html",
+      "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-04-14T08:57:36Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+8675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Tycoon2FA phishing kit rolled out significant updates",
+      "description": "The operators of the Phishing-as-a-Service (PhaaS) platform Tycoon2FA have rolled out significant updates to enhance its evasion capabilities. Tycoon2FA, a phishing kit discovered in 2023 by cybersecurity firm Sekoia, was recently updated to improve its evasi…",
+      "url": "https://securityaffairs.com/176521/cyber-crime/tycoon2fa-phishing-kit-rolled-out-significant-updates.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-24.png",
+      "publishedAt": "2025-04-14T08:38:52Z",
+      "content": "Tycoon2FA phishing kit rolled out significant updates\r\n | South African telecom provider Cell C disclosed a data breach following a cyberattack\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 41\r\n | Se… [+155727 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,58 +1235,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-18.png",
       "publishedAt": "2025-04-10T09:34:14Z",
       "content": "Oracle confirms the hack of two obsolete servers hacked. No Oracle Cloud systems or customer data were affected\r\n | National Social Security Fund of Morocco Suffers Data Breach\r\n | Critical Fortinet … [+154712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Standard Digital"
-      },
-      "author": "Patrick Beja",
-      "title": "Dirty containers raise alarm at Kenyan ports",
-      "description": "Most containers used to import cargo through major Kenyan ports are contaminated and pose health risks to consumers, a new survey shows.",
-      "url": "http://www.standardmedia.co.ke/business/shipping-logistics/article/2001516029/dirty-containers-raise-alarm-at-kenyan-ports",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/mABJv8jkO1wzLoR9ymsqsE1PTfbScxBchcRCTvCy.jpg",
-      "publishedAt": "2025-04-10T08:45:36Z",
-      "content": "Containers at the Port of Mombasa. March 3,2025 [Omondi Onyango,Standard]\r\nMost containers used to import cargo through major Kenyan ports are contaminated and pose health risks to consumers, a new s… [+4224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "International Business Times"
-      },
-      "author": "Sana Khan",
-      "title": "Cabot Creamery Recalls Butter In 7 States Over Bacterial Contamination Concerns",
-      "description": "The recalled butter was distributed in seven states: Arkansas, Connecticut, Maine, New Hampshire, New York, Pennsylvania, and Vermont.",
-      "url": "https://www.ibtimes.com/cabot-creamery-recalls-butter-7-states-over-bacterial-contamination-concerns-3769537",
-      "urlToImage": "https://d.ibtimes.com/en/full/3806548/butter.jpg",
-      "publishedAt": "2025-04-10T07:26:07Z",
-      "content": "Cabot Creamery has recalled its butter in seven U.S. states after tests found high levels of coliform bacteria in the product, which can indicate possible fecal contamination.\r\nThe recall involved 18… [+2206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Lance D Johnson",
-      "title": "New study confirms brown rice contains 40% more toxic arsenic than white rice, putting young children at risk",
-      "description": "Brown rice contains significantly higher levels of arsenic than white rice, with the toxic element concentrating in the bran layer. Children under 5, especially infants, face the highest risk due to their higher food intake relative to body weight. Despite it…",
-      "url": "https://www.naturalnews.com/2025-04-10-brown-rice-contains-40-more-toxic-arsenic-than-white-rice.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brown-Rice-Food.jpg",
-      "publishedAt": "2025-04-10T06:00:00Z",
-      "content": "<ul><li>Brown rice contains significantly higher levels of arsenic than white rice, with the toxic element concentrating in the bran layer.</li><li>Children under 5, especially infants, face the high… [+4641 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Brittany Miller",
-      "title": "Popular hot sauce recalled in 10 states due to possible ‘life-threatening’ allergen",
-      "description": "Two different flavors of Texas Pete hot sauce were recalled",
-      "url": "https://www.the-independent.com/life-style/food-and-drink/texas-pete-hot-sauce-recall-sulfite-fda-b2730690.html",
-      "urlToImage": "https://static.the-independent.com/2025/04/09/17/37/MixCollage-09-Apr-2025-01-50-PM-4040.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-10T05:03:56Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3554 chars]"
     }
   ],
   "totalResults": 95,
