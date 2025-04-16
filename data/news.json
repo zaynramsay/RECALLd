@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-16T01:54:42.268Z",
+  "lastUpdated": "2025-04-16T06:33:32.296Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Dairy firm RECALLS butter over potential fecal bacteria contamination",
+      "description": "Cabot Creamery (owned by Agri-Mark) recalled roughly 1,700 pounds of its Extra Creamy Premium Butter Sea Salted due to elevated coliform bacteria levels, a potential indicator of fecal contamination. Only 8.5 pounds reached consumers in Vermont. The FDA deeme…",
+      "url": "https://www.naturalnews.com/2025-04-15-dairy-firm-recalls-butter-over-potential-contamination.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Butter-Knife-Margarine.jpg",
+      "publishedAt": "2025-04-15T06:00:00Z",
+      "content": "<ul><li>Cabot Creamery (owned by Agri-Mark) recalled roughly 1,700 pounds of its Extra Creamy Premium Butter Sea Salted due to elevated coliform bacteria levels, a potential indicator of fecal contam… [+4279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Nate Perez",
+      "title": "Federal funding freeze halts key infrastructure projects in tribal communities",
+      "description": "Riverbank stabilization, lead and asbestos contamination are just some of the projects tribes planned to address before the Trump administration froze funds.",
+      "url": "https://www.npr.org/2025/04/14/nx-s1-5342539/federal-funding-freeze-halts-native-american-projects",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3738x2103+0+85/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F1c%2F046964fe47358a51caca32174d33%2Fgettyimages-1139520720.jpg",
+      "publishedAt": "2025-04-15T01:55:32Z",
+      "content": "The Tebughna Foundation\r\n threw a big celebration in February after the Environmental Protection Agency awarded the nonprofit $20 million to renovate or replace 20 homes contaminated with asbestos an… [+8628 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -337,7 +363,7 @@
       "url": "https://encyclopedia.thefreedictionary.com/Shroud+of+Turin",
       "urlToImage": "http://img.tfd.com/TFDlogo1200x1200.png",
       "publishedAt": "2025-04-14T04:06:44Z",
-      "content": "The Shroud of Turin or Turin Shroud (Italian: Sindone di Torino, Sacra Sindone[ˈsa��kra ˈsindone] or Santa Sindone) is a length of linen cloth bearing the image of a man who is alleged to be Jesus of … [+88583 chars]"
+      "content": "The Shroud of Turin or Turin Shroud (Italian: Sindone di Torino, Sacra Sindone[ˈsaːkra ˈsindone] or Santa Sindone) is a length of linen cloth bearing the image of a man who is alleged to be Jesus of … [+88583 chars]"
     },
     {
       "source": {
@@ -916,19 +942,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Tatiana B.B. Zidan, Eduardo J. Troster, Jennifer Beck, Livia R. Sanches, Carlos Eduardo S. Ferreira, Romy S.B. Zacharias, Celso M. Rebello",
-      "title": "Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns",
-      "description": "The gold standard treatment for apnea of prematurity is caffeine citrate, which is known for its effect on diaphragm muscle activity. The purpose of this study was to investigate the electrical activity of the diaphragm in preterm newborns, which was measured…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320992",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320992.g004&size=inline",
-      "publishedAt": "2025-04-11T14:00:00Z",
-      "content": "Citation: Zidan TB, Troster EJ, Beck J, Sanches LR, Ferreira CES, Zacharias RS, et al. (2025) Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns. PLoS ONE 20(4):\r\n e… [+20088 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Allison H. Kerwin, Aki Ohdera, Juliet Bier, Devon Goodman, Marta Mammone, Victoria Sharp, Alesandra Echeandía, Mónica Medina",
       "title": "Cassiopea xamachana microbiome across anatomy, development, and geography",
       "description": "The upside-down jellyfish holobiont, Cassiopea xamachana, is a useful model system for tri-partite interactions between the cnidarian host, the photosymbiont, and the bacterial microbiome. While the interaction between the host and photosymbiont has been well…",
@@ -936,6 +949,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319944.g005&size=inline",
       "publishedAt": "2025-04-11T14:00:00Z",
       "content": "Citation: Kerwin AH, Ohdera A, Bier J, Goodman D, Mammone M, Sharp V, et al. (2025) Cassiopea xamachana microbiome across anatomy, development, and geography. PLoS ONE 20(4):\r\n e0319944.\r\nhttps://doi… [+46370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Tatiana B.B. Zidan, Eduardo J. Troster, Jennifer Beck, Livia R. Sanches, Carlos Eduardo S. Ferreira, Romy S.B. Zacharias, Celso M. Rebello",
+      "title": "Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns",
+      "description": "The gold standard treatment for apnea of prematurity is caffeine citrate, which is known for its effect on diaphragm muscle activity. The purpose of this study was to investigate the electrical activity of the diaphragm in preterm newborns, which was measured…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320992",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320992.g004&size=inline",
+      "publishedAt": "2025-04-11T14:00:00Z",
+      "content": "Citation: Zidan TB, Troster EJ, Beck J, Sanches LR, Ferreira CES, Zacharias RS, et al. (2025) Effect of caffeine citrate on diaphragmatic electrical activity in pre-term newborns. PLoS ONE 20(4):\r\n e… [+20088 chars]"
     },
     {
       "source": {
@@ -996,7 +1022,7 @@
       },
       "author": "Ron Schmelzer, Contributor, \n Ron Schmelzer, Contributor\n https://www.forbes.com/sites/ronschmelzer/",
       "title": "Cooking Up Innovation: How Artificial Intelligence Is Transforming Food Service",
-      "description": "As AI becomes part of our everyday lives, it’s becoming hard to avoid, even in restaurants and our favorite food establishments.",
+      "description": "As AI becomes part of our everyday lives, it��s becoming hard to avoid, even in restaurants and our favorite food establishments.",
       "url": "https://www.forbes.com/sites/ronschmelzer/2025/04/11/cooking-up-innovation-how-artificial-intelligence-is-transforming-food-service/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6782b9f97d91fdb44aa12913/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-04-11T07:00:00Z",
@@ -1033,19 +1059,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Cottage cheese: A superfood source of protein and other nutrients",
-      "description": "Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism. Dating back to early European and Middle Eastern cultures, cottage…",
-      "url": "https://www.naturalnews.com/2025-04-11-cottage-cheese-superfood-source-of-protein-nutrients.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Appetizer-Background-Board-Breakfast-Cheese-Cooking-Cottage.jpg",
-      "publishedAt": "2025-04-11T06:00:00Z",
-      "content": "<ul><li>Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism… [+7726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Finn Heartley",
       "title": "Dane Wigington exposes climate engineering as ‘All-Out Weather and Biological Warfare’",
       "description": "Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream “chemtrail” dismissals as jet exhaust. Independent lab tests found heavy metals (aluminum, lea…",
@@ -1053,6 +1066,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/2025-04-11-BBN-Interview-with-Dane-Wigington.jpg",
       "publishedAt": "2025-04-11T06:00:00Z",
       "content": "<ul><li>Dane Wigington warns of large-scale aerosol spraying programs, alleging deliberate harm to ecosystems, climate stability, and human health, contradicting mainstream \"chemtrail\" dismissals as … [+5455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Cottage cheese: A superfood source of protein and other nutrients",
+      "description": "Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism. Dating back to early European and Middle Eastern cultures, cottage…",
+      "url": "https://www.naturalnews.com/2025-04-11-cottage-cheese-superfood-source-of-protein-nutrients.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Appetizer-Background-Board-Breakfast-Cheese-Cooking-Cottage.jpg",
+      "publishedAt": "2025-04-11T06:00:00Z",
+      "content": "<ul><li>Cottage cheese is packed with high-quality casein protein (28 g per cup), calcium, B vitamins, phosphorus and selenium, which is great for supporting muscle repair, bone health and metabolism… [+7726 chars]"
     },
     {
       "source": {
@@ -1222,32 +1248,6 @@
       "urlToImage": "https://static.the-independent.com/2025/04/09/18/21/MixCollage-09-Apr-2025-02-46-PM-3532.jpg?width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-04-10T17:07:15Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bangkok Post"
-      },
-      "author": "AFP",
-      "title": "Global plastic recycling rates 'stagnant' at under 10%: study",
-      "description": "<p>PARIS - The amount of plastic being recycled around the world is stagnant at less than 10 percent with most new plastic still made from fossil fuels, a new study said Thursday.</p>",
-      "url": "https://www.bangkokpost.com/world/3000567/global-plastic-recycling-rates-stagnant-at-under-10-study",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20250410/c1_5552727_700.jpg",
-      "publishedAt": "2025-04-10T15:45:00Z",
-      "content": "PARIS - The amount of plastic being recycled around the world is stagnant at less than 10 percent with most new plastic still made from fossil fuels, a new study said Thursday.\r\nResearchers from Tsin… [+3324 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "The Associated Press",
-      "title": "Cabot Creamery butter recalled over fecal bacteria contamination",
-      "description": "A Vermont firm is recalling more than 1,700 pounds of butter because it may be contaminated with coliform, a type of bacteria found in fecal matter",
-      "url": "https://abcnews.go.com/Business/wireStory/cabot-creamery-butter-recalled-fecal-bacteria-contamination-120681539",
-      "urlToImage": "https://i.abcnewsfe.com/a/9e9a8d08-1615-41fb-a5af-a7dbd1f4da85/wirestory_1badb501647b83790f5ebdf9eb82b2f0_16x9.jpg?w=1600",
-      "publishedAt": "2025-04-10T15:42:17Z",
-      "content": "A Vermont firm has recalled more than 1,700 pounds of butter because it may be contaminated with coliform, a type of bacteria found in fecal matter. \r\nAgri-Mark Inc., of Waitsfield, Vermont, recalled… [+1352 chars]"
     }
   ],
   "totalResults": 96,
