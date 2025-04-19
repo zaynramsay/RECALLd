@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-04-18T18:31:02.143Z",
+  "lastUpdated": "2025-04-19T01:48:20.624Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Local3news.com"
+      },
+      "author": "Marissa Stacy",
+      "title": "Health Inspection Reports in Chattanooga Area",
+      "description": "This article covers recent health inspection scores and findings in restaurants and establishments across Chattanooga and surrounding areas, highlighting areas of concern and compliance.",
+      "url": "https://www.local3news.com/local-news/roaming-roaches-at-cleveland-restaurant-lead-to-failed-health-inspection/article_76dff22c-0523-44f4-8849-d4fdb905d489.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/7/6d/76dff22c-0523-44f4-8849-d4fdb905d489/68016ef04e2b0.preview.jpg?crop=1394%2C732%2C38%2C255&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-17T21:20:58Z",
+      "content": "Roaches were found crawling around a Cleveland restaurant this week when an inspector gave it a failing score.\r\nIndigo Café on 1st Street scored a 62.\r\nThe inspector said the restaurant lacked manage… [+14885 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Melody Heald",
+      "title": "‘Crumbl, please explain’: Woman pays for Crumbl cookie. Then she takes a bite",
+      "description": "Finding random objects in your cookie can be a craving killer. Here, a woman demands answers from Crumbl after tasting something crunchy in her chocolate cookie. \n\n\nBut not everyone is sympathetic.\n\n\nIn a viral video, Crumbl Cookies customer Allison Farley (@…",
+      "url": "https://www.dailydot.com/news/crumbl-eggshell-in-cookie/",
+      "urlToImage": "https://uploads.dailydot.com/2025/04/Crumbl_Please.png?auto=compress&fm=png",
+      "publishedAt": "2025-04-17T21:00:00Z",
+      "content": "Finding random objects in your cookie can be a craving killer. Here, a woman demands answers from Crumbl after tasting something crunchy in her chocolate cookie. \r\nBut not everyone is sympathetic.\r\nI… [+2550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China-linked APT Mustang Panda upgrades tools in its arsenal",
+      "description": "China-linked APT group Mustang Panda deployed a new custom backdoor, MQsTTang, in recent attacks targeting Europe, Asia, and Australia. China-linked APT group Mustang Panda (aka Camaro Dragon, RedDelta or Bronze President). deployed a new custom backdoor, tra…",
+      "url": "https://securityaffairs.com/176662/apt/china-linked-apt-mustang-panda-upgrades-tools-in-its-arsenal.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-33.png",
+      "publishedAt": "2025-04-17T19:30:42Z",
+      "content": "Node.js malvertising campaign targets crypto users\r\n | Apple released emergency updates for actively exploited flaws\r\n | U.S. CISA adds SonicWall SMA100 Appliance flaw to its Known Exploited Vulnerab… [+156557 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -266,19 +305,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Lance D Johnson",
-      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
-      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
-      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
-      "publishedAt": "2025-04-17T06:00:00Z",
-      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Olive oil: A superfood source of antioxidants and heart-healthy fats",
       "description": "Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress. Studies link olive oil to lower risks of heart disease, stroke, depressio…",
@@ -286,6 +312,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Olive-oil.jpg",
       "publishedAt": "2025-04-17T06:00:00Z",
       "content": "<ul><li>Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress.</li><… [+6976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
+      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
+      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
+      "publishedAt": "2025-04-17T06:00:00Z",
+      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
     },
     {
       "source": {
@@ -363,7 +402,7 @@
       "url": "https://rollingout.com/2025/04/16/tonys-chocolonely-recalls-bars-stone/",
       "urlToImage": "https://rollingout.com/wp-content/uploads/2025/04/shutterstock_2358764789-scaled.jpg",
       "publishedAt": "2025-04-16T21:11:05Z",
-      "content": "Chocolate lovers across the United States are being urged to check their pantries as a popular premium chocolate brand has initiated a nationwide recall. The Food and Drug Administration has classifi��� [+11757 chars]"
+      "content": "Chocolate lovers across the United States are being urged to check their pantries as a popular premium chocolate brand has initiated a nationwide recall. The Food and Drug Administration has classifi… [+11757 chars]"
     },
     {
       "source": {
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/05/iStock-481106849.jpg",
       "publishedAt": "2025-04-15T01:01:19Z",
       "content": "A brand of men's multivitamins has been recalled due to the presence of an undeclared allergen that may prove deadly to some consumers.\r\nThe recall pertains to men's multivitamins manufactured by Uta… [+1808 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SlimCrystal",
-      "title": "SlimCrystal Under Review: Best Crystal Water Bottle to Recharge Water for Weight Loss Support",
-      "description": "A Vibrational Wellness Innovation: SlimCrystal Energizes Hydration with Crystal-Infused Frequencies to Support Metabolism, Mindfulness, and Holistic Weight Loss A Vibrational Wellness Innovation: SlimCrystal Energizes Hydration with Crystal-Infused Frequencie…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/15/3061345/0/en/SlimCrystal-Under-Review-Best-Crystal-Water-Bottle-to-Recharge-Water-for-Weight-Loss-Support.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/bc0e3e15-dd11-4d8f-b4d3-4086dd100732",
-      "publishedAt": "2025-04-15T00:07:00Z",
-      "content": "New York City, April 14, 2025 (GLOBE NEWSWIRE) -- \r\nIntroduction\r\nFor millions of individuals grappling with excess weight, fatigue, low motivation, and frustrating plateaus, the quest for a sustaina… [+58928 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStranger.com"
-      },
-      "author": "Drippy, the Soggy Paper Straw",
-      "title": "Ask Drippy, the Soggy Paper Straw",
-      "description": "Should I get rid of my gas-powered car and get an EV? And other questions for Drippy, the Soggy Paper Straw.\n \n by Drippy, the Soggy Paper Straw\n \n \n \n Illustrations and animation by Karen Hong\nWith The Stranger’s 2025 Climate Issue upon us, many of our (very…",
-      "url": "https://www.thestranger.com/climate-issue-2025/2025/04/14/80013602/ask-drippy-the-soggy-paper-straw",
-      "urlToImage": "https://media2.fdncms.com/stranger/imager/u/large/80013627/drippy-main.webp",
-      "publishedAt": "2025-04-14T21:15:00Z",
-      "content": "Illustrations and animation by Karen Hong\r\nWith The Strangers 2025 Climate Issue upon us, many of our (very real and not at all fake) readers have been asking us important questions about environment… [+9709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New malware ‘ResolverRAT’ targets healthcare, pharmaceutical firms",
-      "description": "New malware ‘ResolverRAT’ is targeting healthcare and pharmaceutical firms, using advanced capabilities to steal sensitive data. Morphisec researchers discovered a new malware dubbed ‘ResolverRAT’ that is targeting healthcare and pharmaceutical firms, using a…",
-      "url": "https://securityaffairs.com/176537/malware/new-malware-resolverrat-targets-healthcare-pharmaceutical-firms.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-26.png",
-      "publishedAt": "2025-04-14T18:46:27Z",
-      "content": "New malware ResolverRAT targets healthcare, pharmaceutical firms\r\n | Malicious NPM packages target PayPal users\r\n | Tycoon2FA phishing kit rolled out significant updates\r\n | South African telecom pro… [+155843 chars]"
     }
   ],
   "totalResults": 92,
