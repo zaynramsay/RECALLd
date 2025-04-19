@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-04-19T06:30:50.242Z",
+  "lastUpdated": "2025-04-19T12:41:05.168Z",
   "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Michael Dorgan",
+      "title": "E. coli outbreak went unpublicized by FDA despite affecting 15 states: report",
+      "description": "The FDA is under fire for not publicly warning about deadly E. coli outbreak linked to romaine lettuce that sickened 89 people across 15 states, raising questions about food safety protocols.",
+      "url": "https://www.foxnews.com/health/e-coli-outbreak-went-unpublicized-fda-despite-affecting-15-states-report",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/iStock-919906486.jpg",
+      "publishedAt": "2025-04-18T12:39:57Z",
+      "content": "The Food and Drug Administration (FDA) is coming under fire for not publicizing its own report into an E. coli outbreak last year that spread across 15 states and infected 89 people, one of whom died… [+4912 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "A deadly E.coli outbreak in US killed a teen and left dozens sick. But here's why you never heard of it",
+      "description": "In November 2024, an E. coli outbreak connected to romaine lettuce sickened 89 individuals across 15 states, leading to one fatality. The FDA opted not to release specific details or identify the companies involved, ultimately closing the investigation in Feb…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-deadly-e-coli-outbreak-in-us-killed-a-teen-and-left-dozens-sick-but-heres-why-you-never-heard-of-it/articleshow/120408189.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120408243,width-1200,height-630,imgsize-214658,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-04-18T12:31:19Z",
+      "content": "A deadly E. coli outbreak linked to romaine lettuce affected 15 states in the United States. This led to one death and several others fell sick. But chances are, you have never heard of it. This is b… [+3475 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Immunologic.org"
+      },
+      "author": "Dr. Andrea Love",
+      "title": "There is no autism epidemic, just a public health threat named RFK Jr.",
+      "description": "RFK Jr. has profited off this ableist lie for decades. Now he’s using his power to make it health policy.",
+      "url": "https://news.immunologic.org/p/there-is-no-autism-epidemic-just",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3614bb8-dca1-4ec0-be1d-53964eeef8d9_840x600.png",
+      "publishedAt": "2025-04-18T12:07:38Z",
+      "content": "This newsletter is free, but its able to sustain itself from support I receive from a small percentage of regular readers. If you value science-based information, consider upgrading to a paid subscri… [+19133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Apple products and Microsoft Windows NTLM flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple products and Microsoft Windows NTLM flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Apple products and Microso…",
+      "url": "https://securityaffairs.com/176687/hacking/u-s-cisa-adds-apple-products-and-microsoft-windows-ntlm-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-04-18T11:19:58Z",
+      "content": "U.S. CISA adds Apple products and Microsoft Windows NTLM flaws to its Known Exploited Vulnerabilities catalog\r\n | Entertainment venue management firm Legends International disclosed a data breach\r\n |… [+156757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Heather Souvaine Horn",
+      "title": "Get Ready for Expensive Tomatoes and Lots of Food Contamination",
+      "description": "You could soon be hearing a lot of news about tomatoes. That’s because the Commerce Department announced this week that Mexican tomatoes will be subject to 21 percent tariffs starting July 14. If this goes through, expect tomato prices to rise precipitously: …",
+      "url": "https://newrepublic.com/post/194110/tomato-prices-tariffs-food-safety-recall",
+      "urlToImage": "https://images.newrepublic.com/dd9d666c52e5b7bc9a39f8f6dedd5a847a19d848.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-04-18T09:30:00Z",
+      "content": "Trumps tariffs and executive orders seem to assume that foreign competition and lack of lands to log are the primary things hampering U.S. timber production. But when I talked to experts familiar wit… [+2308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LancasterOnline"
+      },
+      "author": "ERIN NEGLEY | Staff Writer",
+      "title": "Buying eggs from a farm or neighbor to save money? Here are tips to make sure they're safe",
+      "description": "As egg prices reached yet another historic high this month, here are safety tips for farm egg stands.",
+      "url": "https://lancasteronline.com/features/food/buying-eggs-from-a-farm-or-neighbor-to-save-money-here-are-tips-to-make/article_afd93ac8-e246-4ded-9aca-8149892af306.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/5/77/577fde06-bf28-4483-9faa-1e00e8372bf6/67fff87754b46.image.jpg?crop=800%2C420%2C0%2C92",
+      "publishedAt": "2025-04-18T09:00:00Z",
+      "content": "Egg prices reached yet another historic high this month. The average price for a dozen eggs reached $6.23, according to the federal Consumer Price Index.\r\nPrices soared during the pandemic and jumped… [+5230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "Heavy metals contaminate up to 17% of world's arable land: Study",
+      "description": "Up to 17% of cropland worldwide is contaminated with at least one type of toxic heavy metal, posing health risks to up to 1.4 billion people, scientists warned Thursday.",
+      "url": "https://phys.org/news/2025-04-heavy-metals-contaminate-world-arable.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/arable-land.jpg",
+      "publishedAt": "2025-04-18T08:28:08Z",
+      "content": "Up to 17% of cropland worldwide is contaminated with at least one type of toxic heavy metal, posing health risks to up to 1.4 billion people, scientists warned Thursday.\r\nPublished in the journal Sci… [+2417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Entertainment venue management firm Legends International disclosed a data breach",
+      "description": "Legends International disclosed a data breach from November 2024 that affected employees and visitors to its managed venues. Legends International is a global leader in sports and entertainment venue management, specializing in delivering comprehensive soluti…",
+      "url": "https://securityaffairs.com/176674/data-breach/legends-international-disclosed-a-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
+      "publishedAt": "2025-04-18T07:20:18Z",
+      "content": "Entertainment venue management firm Legends International disclosed a data breach\r\n | Node.js malvertising campaign targets crypto users\r\n | Apple released emergency updates for actively exploited fl… [+156643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Entertainment venue management firm Legends International disclosed a data breach",
+      "description": "Legends International disclosed a data breach from November 2024 that affected employees and visitors to its managed venues. Legends International is a global leader in sports and entertainment venue management, specializing in delivering comprehensive soluti…",
+      "url": "https://securityaffairs.com/176674/uncategorized/legends-international-disclosed-a-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
+      "publishedAt": "2025-04-18T07:20:18Z",
+      "content": "Entertainment venue management firm Legends International disclosed a data breach\r\n | Node.js malvertising campaign targets crypto users\r\n | Apple released emergency updates for actively exploited fl… [+156643 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -331,19 +448,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Lance D Johnson",
-      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
-      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
-      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
-      "publishedAt": "2025-04-17T06:00:00Z",
-      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Olive oil: A superfood source of antioxidants and heart-healthy fats",
       "description": "Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress. Studies link olive oil to lower risks of heart disease, stroke, depressio…",
@@ -351,6 +455,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Olive-oil.jpg",
       "publishedAt": "2025-04-17T06:00:00Z",
       "content": "<ul><li>Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress.</li><… [+6976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
+      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
+      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
+      "publishedAt": "2025-04-17T06:00:00Z",
+      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
     },
     {
       "source": {
@@ -372,7 +489,7 @@
       },
       "author": "Julia Landwehr",
       "title": "Nationwide Recall Hits Dozens of Generic Drugs—What to Know",
-      "description": "Nearly 40 generic medications—most prescription, but some sold over-the-counter at Amazon and Walmart—have been recalled due to manufacturing quality concerns, the FDA said. See the full list of recalled drugs here.",
+      "description": "Nearly 40 generic medications��most prescription, but some sold over-the-counter at Amazon and Walmart—have been recalled due to manufacturing quality concerns, the FDA said. See the full list of recalled drugs here.",
       "url": "https://www.health.com/fda-glenmark-recall-generic-drugs-11716765",
       "urlToImage": "https://www.health.com/thmb/P9cU9QqpKufLfLkk-62Tjf5Bhf0=/4368x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-157310213-fbc8d849313848148b7d434b84e97048.jpg",
       "publishedAt": "2025-04-17T01:26:46Z",
@@ -1092,112 +1209,8 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/microplastics-found-ac.jpg",
       "publishedAt": "2025-04-15T10:30:01Z",
       "content": "Nankai University researchers have found that plant leaves can directly absorb microplastics (MPs) from the atmosphere, leading to a widespread presence of plastic polymers in vegetation. Concentrati… [+5569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Will Stone",
-      "title": "Europe deplores America's 'chlorinated chicken.' How safe is our poultry?",
-      "description": "President Trump wants European countries to start buying U.S. chicken and eggs. But the U.K. and E.U. think American poultry is gross and chemically washed. Turns out, chlorine isn't really the issue.",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/04/15/nx-s1-5364940/chlorinated-chicken-trump-tariffs-uk-eu",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+188/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2F08%2F3ff6381345e6926b648848eb7cbb%2Fgettyimages-830683336.jpg",
-      "publishedAt": "2025-04-15T09:15:00Z",
-      "content": "When President Trump recently griped about Europe's distaste for buying American chicken, his comments touched on a long-running and divisive trade spat that's flared up from time to time.\r\nEuropeans… [+5108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Skeptoid.com"
-      },
-      "author": "brian@skeptoid.com (Brian Dunning), Brian Dunning",
-      "title": "Skeptoid #984: Should You Feed Your Dog That?",
-      "description": "Some people try to feed their dogs the same alternative diet they eat themselves... not necessarily so good for the dog.\n\nLearn about your ad choices: dovetail.prx.org/ad-choices",
-      "url": "https://skeptoid.com/episodes/4984",
-      "urlToImage": "https://skeptoid.com/eps1200x744/4984.jpg",
-      "publishedAt": "2025-04-15T09:00:00Z",
-      "content": "by Brian DunningApril 15, 2025\r\nMany people tend to go in for fads that they view as fashionable, enlightened, wellness-focused, sustainable, or ethically sourced. In particular, we see uptake on the… [+11421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "6 Genius Ways Ice Cube Trays Can Level Up Your Summer Kitchen Game",
-      "description": "You might think an ice tray is just for freezing water, but trust us, this little tray is far more useful than it gets credit for.",
-      "url": "https://food.ndtv.com/how-to/6-genius-ways-ice-cube-trays-can-level-up-your-summer-kitchen-game-8168505",
-      "urlToImage": "https://c.ndtvimg.com/2025-04/0l6tsqbs_ice-cube-tray_625x300_15_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
-      "publishedAt": "2025-04-15T08:42:48Z",
-      "content": "Our kitchens are well-equipped with different types of tools and staples. While some we use daily, some barely get noticed. Then some tools are way more versatile than you can imagine. One such under… [+3271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Hertz disclosed a data breach following 2024 Cleo zero-day attack",
-      "description": "Hertz Corporation disclosed a data breach after customer data was stolen via Cleo zero-day exploits in late 2024, affecting Hertz, Thrifty, and Dollar brands. Car rental giant Hertz Corporation disclosed a data breach that impacted its Hertz, Thrifty, and Dol…",
-      "url": "https://securityaffairs.com/176562/data-breach/hertz-disclosed-a-data-breach-following-2024-cleo-zero-day-attack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/01/image-25.png",
-      "publishedAt": "2025-04-15T08:23:39Z",
-      "content": "Hertz disclosed a data breach following 2024 Cleo zero-day attack\r\n | Gladinet flaw CVE-2025-30406 actively exploited in the wild\r\n | New malware ResolverRAT targets healthcare, pharmaceutical firms\r… [+155977 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thechronicle.com.gh"
-      },
-      "author": "admin",
-      "title": "Nutritional Value and Health Benefits of Bitter Cola",
-      "description": "Bitter Kola or  Garcinia kola, is a small fruit native to West Africa. Bitter Kola has been a staple in traditional remedies for many years due to its powerful therapeutic and healing properties. Virtually all parts of the kola tree are helpful in traditional…",
-      "url": "https://thechronicle.com.gh/nutritional-value-and-health-benefits-of-bitter-cola/",
-      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/04/Bitter-Cola.jpg",
-      "publishedAt": "2025-04-15T07:47:59Z",
-      "content": "Bitter Kola or  Garcinia kola, is a small fruit native to West Africa. Bitter Kola has been a staple in traditional remedies for many years due to its powerful therapeutic and healing properties.\r\nVi… [+4717 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Gladinet flaw CVE-2025-30406 actively exploited in the wild",
-      "description": "Huntress reports active exploitation of Gladinet CVE-2025-30406 in the wild, affecting seven organizations and 120 endpoints. Security researchers at Huntress warn of attacks in the wild exploiting a critical vulnerability, tracked as CVE-2025-30406, in Gladi…",
-      "url": "https://securityaffairs.com/176552/hacking/gladinet-flaw-cve-2025-30406-actively-exploited-in-the-wild.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-27.png",
-      "publishedAt": "2025-04-15T07:05:21Z",
-      "content": "Gladinet flaw CVE-2025-30406 actively exploited in the wild\r\n | New malware ResolverRAT targets healthcare, pharmaceutical firms\r\n | Malicious NPM packages target PayPal users\r\n | Tycoon2FA phishing … [+155907 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Dairy firm RECALLS butter over potential fecal bacteria contamination",
-      "description": "Cabot Creamery (owned by Agri-Mark) recalled roughly 1,700 pounds of its Extra Creamy Premium Butter Sea Salted due to elevated coliform bacteria levels, a potential indicator of fecal contamination. Only 8.5 pounds reached consumers in Vermont. The FDA deeme…",
-      "url": "https://www.naturalnews.com/2025-04-15-dairy-firm-recalls-butter-over-potential-contamination.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Butter-Knife-Margarine.jpg",
-      "publishedAt": "2025-04-15T06:00:00Z",
-      "content": "<ul><li>Cabot Creamery (owned by Agri-Mark) recalled roughly 1,700 pounds of its Extra Creamy Premium Butter Sea Salted due to elevated coliform bacteria levels, a potential indicator of fecal contam… [+4279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Nate Perez",
-      "title": "Federal funding freeze halts key infrastructure projects in tribal communities",
-      "description": "Riverbank stabilization, lead and asbestos contamination are just some of the projects tribes planned to address before the Trump administration froze funds.",
-      "url": "https://www.npr.org/2025/04/14/nx-s1-5342539/federal-funding-freeze-halts-native-american-projects",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3738x2103+0+85/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F1c%2F046964fe47358a51caca32174d33%2Fgettyimages-1139520720.jpg",
-      "publishedAt": "2025-04-15T01:55:32Z",
-      "content": "The Tebughna Foundation\r\n threw a big celebration in February after the Environmental Protection Agency awarded the nonprofit $20 million to renovate or replace 20 homes contaminated with asbestos an… [+8628 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 3
 }
