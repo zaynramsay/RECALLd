@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-20T06:31:11.420Z",
+  "lastUpdated": "2025-04-20T12:41:30.919Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "About 15% of World's Cropland Polluted With Toxic Metals, Say Researchers",
+      "description": "About one sixth of global cropland is contaminated by toxic heavy metals, researchers have estimated, with as many as 1.4 billion people living in high-risk areas worldwide. From a report: Approximately 14 to 17% of cropland globally -- roughly 242m hectares …",
+      "url": "https://news.slashdot.org/story/25/04/18/2345235/about-15-of-worlds-cropland-polluted-with-toxic-metals-say-researchers",
+      "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
+      "publishedAt": "2025-04-19T10:00:00Z",
+      "content": "Approximately 14 to 17% of cropland globally -- roughly 242m hectares -- is contaminated by at least one toxic metal such as arsenic, cadmium, cobalt, chromium, copper, nickel or lead, at levels that… [+1165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Anna Gibbs",
+      "title": "Americans Might Be Tempted to Leave Their Eggs on the Counter Like Europeans. There’s a Reason You Can’t.",
+      "description": "Australia actually tried to do it the American way—and failed.",
+      "url": "https://slate.com/technology/2025/04/eggs-easter-refrigerator-safe-salmonella.html",
+      "urlToImage": "https://compote.slate.com/images/3cde438c-e362-405f-b735-f7b37788cfd2.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-04-19T09:50:00Z",
+      "content": "This is part of Egg, an attempt to explain why Americans have absolutely lost their minds over egg prices. The Eggsplainer briefly considers some of our weirdest behaviors around eggs.\r\nTheres someth… [+3391 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/HSLKR3PY7FHWDPXJXUDTGVFDUM.jpg?_a=DATAdtccZAA0",
       "publishedAt": "2025-04-15T20:32:08Z",
       "content": "A company that makes baby food sold under a Target store brand is recalling more than 25,000 packages of a product because it may contain elevated levels of lead. \r\nMiami-based Fruselva issued the re… [+1109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSAT San Antonio"
-      },
-      "author": "Associated Press",
-      "title": "Target baby food is recalled over lead contamination",
-      "description": "A company that makes baby food for Target is recalling more than 25,000 packages of a product because it may contain elevated levels of lead.",
-      "url": "https://www.ksat.com/business/2025/04/15/target-baby-food-is-recalled-over-lead-contamination/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/HSLKR3PY7FHWDPXJXUDTGVFDUM.jpg?_a=DATAdtccZAA0",
-      "publishedAt": "2025-04-15T20:23:54Z",
-      "content": "A company that makes baby food sold under a Target store brand is recalling more than 25,000 packages of a product because it may contain elevated levels of lead. \r\nMiami-based Fruselva issued the re… [+1109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Target baby food is recalled over lead contamination",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf54e061-d0da-4a58-9bad-dc66dd3d1d11",
-      "urlToImage": null,
-      "publishedAt": "2025-04-15T20:23:54Z",
-      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
     }
   ],
   "totalResults": 92,
