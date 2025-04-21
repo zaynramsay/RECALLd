@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-21T06:33:22.638Z",
+  "lastUpdated": "2025-04-21T12:47:22.825Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "Meg Wingerter",
+      "title": "Is your marijuana safe? Lack of data makes it hard to know in the long term",
+      "description": "Regulators had to work with limited existing information on the possible risks of pesticides and contaminants in marijuana.",
+      "url": "https://www.denverpost.com/2025/04/20/colorado-marijuana-safety-pesticides-mold-metals/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/04/TDP-Z-420-FESTIVAL_6M0A7158.jpg?w=1024&h=683",
+      "publishedAt": "2025-04-20T12:00:33Z",
+      "content": "When Colorado and other states began legalizing marijuana more than a decade ago, they faced a problem: how to guarantee a safe product, with little data about the long-term risks of pesticides and o… [+5884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 520 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Attackers expl…",
+      "url": "https://securityaffairs.com/176716/breaking-news/security-affairs-newsletter-round-520-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-04-20T09:53:17Z",
+      "content": "Security Affairs newsletter Round 520 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Attackers exploited SonicWall SMA appliances since January 2025\r\n | ASUS routers with AiCloud vulnerable to auth … [+156975 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -838,19 +864,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Lance D Johnson",
-      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
-      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
-      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
-      "publishedAt": "2025-04-17T06:00:00Z",
-      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Olive oil: A superfood source of antioxidants and heart-healthy fats",
       "description": "Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress. Studies link olive oil to lower risks of heart disease, stroke, depressio…",
@@ -858,6 +871,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Olive-oil.jpg",
       "publishedAt": "2025-04-17T06:00:00Z",
       "content": "<ul><li>Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress.</li><… [+6976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
+      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
+      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
+      "publishedAt": "2025-04-17T06:00:00Z",
+      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
     },
     {
       "source": {
@@ -1209,21 +1235,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
       "publishedAt": "2025-04-16T07:53:50Z",
       "content": "Government contractor Conduent disclosed a data breach\r\n | Critical Apache Roller flaw allows to retain unauthorized access even after a password change\r\n | Meta will use public EU user data to train… [+156195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Knightcolumbia.org"
-      },
-      "author": "aguecheek",
-      "title": "AI as Normal Technology | Knight First Amendment Institute",
-      "description": "AI as Normal Technology\nAn alternative to the vision of AI as a potential superintelligence\n\nBY ARVIND NARAYANAN &",
-      "url": "http://knightcolumbia.org/content/ai-as-normal-technology",
-      "urlToImage": "https://kfai-documents.s3.amazonaws.com/images/9221083633/Susskind-Hero-Image-w-color-wash--3-_medium.png",
-      "publishedAt": "2025-04-16T05:47:01Z",
-      "content": "We articulate a vision of artificial intelligence (AI) as normal technology. To view AI as normal is not to understate its impact—even transformative, general-purpose technologies such as electricity… [+160404 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 95,
   "filteredCount": 2
 }
