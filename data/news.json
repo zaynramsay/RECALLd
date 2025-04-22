@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-04-21T18:31:47.588Z",
+  "lastUpdated": "2025-04-22T01:53:56.578Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Adeola Adeosun",
+      "title": "Mushrooms Recalled Nationwide Over Listeria Fears",
+      "description": "Listeria contamination poses serious health risks, particularly for vulnerable populations.",
+      "url": "https://www.newsweek.com/mushrooms-recalled-nationwide-over-listeria-fears-2061917",
+      "urlToImage": "https://d.newsweek.com/en/full/2630317/mushroom-recall.png",
+      "publishedAt": "2025-04-20T18:58:55Z",
+      "content": "Harvest NYC Inc. has announced a nationwide recall of its 200g packages of Enoki Mushrooms due to potential Listeria monocytogenes contamination.\r\nNewsweek has reached out to Harvest NYC Inc. on Sund… [+2804 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -38,7 +51,7 @@
       "url": "https://www.denverpost.com/2025/04/20/colorado-marijuana-safety-pesticides-mold-metals/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/04/TDP-Z-420-FESTIVAL_6M0A7158.jpg?w=1024&h=683",
       "publishedAt": "2025-04-20T12:00:33Z",
-      "content": "When Colorado and other states began legalizing marijuana more than a decade ago, they faced a problem: how to guarantee a safe product, with little data about the long-term risks of pesticides and o… [+5884 chars]"
+      "content": "When Colorado and other states began legalizing marijuana more than a decade ago, they faced a problem: how to guarantee a safe product, with little data about the long-term risks of pesticides and o�� [+5884 chars]"
     },
     {
       "source": {
@@ -324,7 +337,7 @@
       "url": "https://www.npr.org/sections/shots-health-news/2025/04/18/nx-s1-5364544/fda-inspections-layoffs-food-and-drug-supply-less-safe",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2F84%2Fe30c4c264e3ba2186d7095297a40%2Fgettyimages-1228202149.jpg",
       "publishedAt": "2025-04-18T17:42:53Z",
-      "content": "When Health and Human Services Secretary Robert F. Kennedy Jr. announced in March that he would eliminate thousands of jobs from federal health agencies, he promised that he would spare the inspector… [+6733 chars]"
+      "content": "When Health and Human Services Secretary Robert F. Kennedy Jr. announced in March that he would eliminate thousands of jobs from federal health agencies, he promised that he would spare the inspector��� [+6733 chars]"
     },
     {
       "source": {
@@ -890,19 +903,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Lance D Johnson",
-      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
-      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
-      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
-      "publishedAt": "2025-04-17T06:00:00Z",
-      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Olive oil: A superfood source of antioxidants and heart-healthy fats",
       "description": "Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress. Studies link olive oil to lower risks of heart disease, stroke, depressio…",
@@ -910,6 +910,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Olive-oil.jpg",
       "publishedAt": "2025-04-17T06:00:00Z",
       "content": "<ul><li>Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress.</li><… [+6976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
+      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
+      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
+      "publishedAt": "2025-04-17T06:00:00Z",
+      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
     },
     {
       "source": {
@@ -1222,19 +1235,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/energy.jpg",
       "publishedAt": "2025-04-16T08:27:36Z",
       "content": "Cyber Threats Against Energy Sector Surge as Global Tensions Mount\r\n | Government contractor Conduent disclosed a data breach\r\n | Critical Apache Roller flaw allows to retain unauthorized access even… [+156266 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Ecotoxicological Studies Market Trends, Opportunity and Forecasts to 2030, with Smithers, SGS, Covance, Intox, Fera Science, Charles River Laboratories, Eurofins Scientific, ALS and Aqua Survey",
-      "description": "Dublin, April 16, 2025 (GLOBE NEWSWIRE) -- The \"Ecotoxicological Studies Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F\" report has been added to ResearchAndMarkets.com's offering.The Global Ecotoxicological Studies Market…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/16/3062306/28124/en/Ecotoxicological-Studies-Market-Trends-Opportunity-and-Forecasts-to-2030-with-Smithers-SGS-Covance-Intox-Fera-Science-Charles-River-Laboratories-Eurofins-Scientific-ALS-and-Aqua-Su.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-04-16T08:06:00Z",
-      "content": "Dublin, April 16, 2025 (GLOBE NEWSWIRE) -- The \"Ecotoxicological Studies Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F\" report has been added to ResearchAndMarke… [+8744 chars]"
     }
   ],
   "totalResults": 95,
