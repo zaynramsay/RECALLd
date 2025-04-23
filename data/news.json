@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-23T01:54:10.405Z",
+  "lastUpdated": "2025-04-23T06:33:28.778Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "âToxic cocktailâ: study finds almost 200 pesticides in European homes",
+      "description": "Pesticides are a worldwide health problem, destroying environments, animals’ lives and human health as well. Most people think this is an “outdoor” problem, but now science and research reveal these contaminants are being tracked into the average home at alar…",
+      "url": "https://www.naturalnews.com/2025-04-22-toxic-cocktail-study-finds-almost-200-pesticides-in-european-homes.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Pesticide-Agriculture-Apple-Apricot-Care-Environment-Equipment.jpg",
+      "publishedAt": "2025-04-22T06:00:00Z",
+      "content": "Pesticides are a worldwide health problem, destroying environments, animals' lives and human health as well. Most people think this is an outdoor problem, but now science and research reveal these co… [+3773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Pork products sold at Aldi spark health alert over possible metal contamination",
+      "description": "The affected products were produced between April 1 and April 2",
+      "url": "https://www.the-independent.com/life-style/aldi-pork-products-health-alert-warning-metal-b2737049.html",
+      "urlToImage": "https://static.the-independent.com/2025/04/21/16/20/pork-carnitas.jpeg?trim=49,0,49,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-04-22T04:19:53Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3609 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -220,7 +246,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321136",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321136.g002&size=inline",
       "publishedAt": "2025-04-21T14:00:00Z",
-      "content": "Abstract\r\nThe treatment of several pediatric metabolic diseases involves vitamins supplementation. Among these, thiamine, riboflavin, pyridoxine and biotin can be prescribed and compounded as hard ge… [+38086 chars]"
+      "content": "Abstract\r\nThe treatment of several pediatric metabolic diseases involves vitamins supplementation. Among these, thiamine, riboflavin, pyridoxine and biotin can be prescribed and compounded as hard ge�� [+38086 chars]"
     },
     {
       "source": {
@@ -1209,47 +1235,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
       "publishedAt": "2025-04-17T09:24:47Z",
       "content": "Apple released emergency updates for actively exploited iOS, iPadOS and macOS flaws\r\n | U.S. CISA adds SonicWall SMA100 Appliance flaw to its Known Exploited Vulnerabilities catalog\r\n | CISA's 11-Mon… [+156524 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Suzy Khimm",
-      "title": "A deadly E. coli outbreak hit 15 states, but the FDA chose not to publicize it",
-      "description": "A foodborne illness linked to lettuce ripped across 15 states last November, sickening dozens of people and killing one. But the federal government chose not to publicize it.",
-      "url": "https://www.nbcnews.com/news/us-news/ecoli-bacteria-lettuce-outbreak-rcna200236",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250426-e-coli-outbreak-lr-579595.jpg",
-      "publishedAt": "2025-04-17T09:00:00Z",
-      "content": "An E. coli outbreak linked to romaine lettuce ripped across 15 states in November, sickening dozens of people, including a 9-year-old boy in Indiana who nearly died of kidney failure and a 57-year-ol… [+13860 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds SonicWall SMA100 Appliance flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SonicWall SMA100 Appliance flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a SonicWall SMA100 Appliance flaw, tracked…",
-      "url": "https://securityaffairs.com/176630/hacking/u-s-cisa-adds-sonicwall-sma100-appliance-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-04-17T08:30:00Z",
-      "content": "Apple released emergency updates for actively exploited flaws\r\n | U.S. CISA adds SonicWall SMA100 Appliance flaw to its Known Exploited Vulnerabilities catalog\r\n | CISA's 11-Month extension ensures c… [+156502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "author": "Matthew Gilligan",
-      "title": "Her Roommate Thinks She’s A Good Cook, But She’s Actually Terrible. Now She’s Not Sure How To Tell Her The Truth Without Hurting Her Feelings.",
-      "description": "Some people shouldn't be allowed in the kitchen!",
-      "url": "http://twistedsifter.com/2025/04/her-roommate-thinks-shes-a-good-cook-but-is-a-terrible-cook-and-shes-not-sure-how-to-tell-her-the-truth-without-hurting-her-feelings/",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/03/rdbadfod.jpg",
-      "publishedAt": "2025-04-17T07:49:12Z",
-      "content": "Pexels/Reddit\r\nHow do you tell someone that their cooking is no bueno?\r\nThat’s a tough one, right?\r\nAnd this woman is in a real pickle.\r\nHer roommate is a terrible cook, and she needs to find some wa… [+2937 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 95,
   "filteredCount": 1
 }
