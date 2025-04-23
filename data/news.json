@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-04-23T06:33:28.778Z",
+  "lastUpdated": "2025-04-23T12:49:06.839Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Anna Turns, Senior Environment Editor, The Conversation, Patrick Byrne, Professor of Water Science, Liverpool John Moores University",
+      "title": "Toxic chemical pollution continues on Isle of Man as government defends Unesco conservation status",
+      "description": "Biosphere status is ‘not a hallmark of perfection’, says island administration.",
+      "url": "https://theconversation.com/toxic-chemical-pollution-continues-on-isle-of-man-as-government-defends-unesco-conservation-status-236547",
+      "urlToImage": "https://images.theconversation.com/files/639584/original/file-20241218-16-qtqlwm.jpg?ixlib=rb-4.1.0&rect=18%2C543%2C4007%2C2003&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-04-22T12:41:53Z",
+      "content": "Peel Bay on the Isle of Man. MrsBain/Shutterstock\r\nThe Isle of Man government has said it is “fully committed to environmental protection and transparency” regarding its Unesco biosphere status – des… [+15976 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "GlobeNewswire",
+      "title": "Raw Honey at Least as Safe as Pasteurized Honey",
+      "description": "Wendell Estate Honey contests the common misconception that pasteurized honey is safer than raw honey MACNUTT, Saskatchewan, April 22, 2025 (GLOBE NEWSWIRE) — “Pasteurized” has become synonymous with “food safety”. However, pasteurization of honey has never b…",
+      "url": "https://financialpost.com/globe-newswire/raw-honey-at-least-as-safe-as-pasteurized-honey",
+      "urlToImage": null,
+      "publishedAt": "2025-04-22T12:34:55Z",
+      "content": "While bacteria cannot grow in raw honey, one species of bacteria, Clostridium botulinum can avoid being completely eradicated by the potent anti-bacterial properties of raw honey by going into a hard… [+3626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Abilene city, Texas, takes systems offline following a cyberattack",
+      "description": "Abilene, Texas, shut down systems after a cyberattack caused server issues. IT staff and experts are investigating the security incident. Abilene, Texas, shut down systems after a cyberattack caused server issues. The incident occurred on April 18, 2025, emer…",
+      "url": "https://securityaffairs.com/176793/hacking/abilene-city-texas-takes-systems-offline-following-a-cyberattack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/10/bind-DNS-Server-Attacks.jpg",
+      "publishedAt": "2025-04-22T08:45:14Z",
+      "content": "Japan s FSA warns of unauthorized trades via stolen credentials from fake security firms' sites\r\n | Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan\r\n | New sophistica… [+157375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Japan ’s FSA warns of unauthorized trades via stolen credentials from fake security firms’ sites",
+      "description": "Japan ’s Financial Services Agency (FSA) warns of hundreds of millions in unauthorized trades linked to hacked brokerage accounts. Japan ’s Financial Services Agency (FSA) reported that the damage caused by unauthorized access to and transactions on internet …",
+      "url": "https://securityaffairs.com/176776/hacking/japan-s-financial-services-agency-warns-of-unauthorized-trades.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/10/japan.jpg",
+      "publishedAt": "2025-04-22T08:06:04Z",
+      "content": "Japan s FSA warns of unauthorized trades via stolen credentials from fake security firms' sites\r\n | Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan\r\n | New sophistica… [+157375 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -13,6 +65,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Pesticide-Agriculture-Apple-Apricot-Care-Environment-Equipment.jpg",
       "publishedAt": "2025-04-22T06:00:00Z",
       "content": "Pesticides are a worldwide health problem, destroying environments, animals' lives and human health as well. Most people think this is an outdoor problem, but now science and research reveal these co… [+3773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "HRS Editors",
+      "title": "Arsenic in Brown Rice? Here’s how you can keep enjoying this nutritious grain",
+      "description": "Brown rice contains 40 percent more inorganic arsenic (a toxin linked to various diseases) than white rice due to its unprocessed bran layer, a study reveals. Infants and young children face disproportionate risks because they consume more rice relative to th…",
+      "url": "https://www.naturalnews.com/2025-04-22-how-to-avoid-arsenic-in-brown-rice.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Spoon-Brown-Rice.jpg",
+      "publishedAt": "2025-04-22T06:00:00Z",
+      "content": "<ul><li>Brown rice contains 40 percent more inorganic arsenic (a toxin linked to various diseases) than white rice due to its unprocessed bran layer, a study reveals.</li><li>Infants and young childr… [+9309 chars]"
     },
     {
       "source": {
@@ -246,7 +311,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321136",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321136.g002&size=inline",
       "publishedAt": "2025-04-21T14:00:00Z",
-      "content": "Abstract\r\nThe treatment of several pediatric metabolic diseases involves vitamins supplementation. Among these, thiamine, riboflavin, pyridoxine and biotin can be prescribed and compounded as hard ge�� [+38086 chars]"
+      "content": "Abstract\r\nThe treatment of several pediatric metabolic diseases involves vitamins supplementation. Among these, thiamine, riboflavin, pyridoxine and biotin can be prescribed and compounded as hard ge… [+38086 chars]"
     },
     {
       "source": {
@@ -319,7 +384,7 @@
         "name": "HuffPost"
       },
       "author": "Erica Sweeney",
-      "title": "There's A Very Real Chance Your Kitchen Sink Is Crawling With Bacteria — Even If It Looks Clean",
+      "title": "There's A Very Real Chance Your Kitchen Sink Is Crawling With Bacteria �� Even If It Looks Clean",
       "description": "Safety experts explain how your sink can harbor microorganisms and how this might affect your health.",
       "url": "https://www.huffpost.com/entry/is-your-kitchen-sink-making-you-sick_l_67dc2ba9e4b038b4d0a67393",
       "urlToImage": "https://img.huffingtonpost.com/asset/67f001f41b0000260005326d.jpeg?ops=1200_630",
@@ -423,7 +488,7 @@
         "name": "New York Post"
       },
       "author": "Carl Campanile",
-      "title": "RFK Jr. declares autism in America as an ‘epidemic’ that ‘dwarfs’ deadly COVID-19 outbreak",
+      "title": "RFK Jr. declares autism in America as an ‘epidemic’ that ‘dwarfs��� deadly COVID-19 outbreak",
       "description": "Health and Human Services Secretary Robert F. Kennedy Jr is declaring a war on autism, claiming the neurodevelopmental condition is an epidemic that's far worse than the deadly COVID-19 outbreak.",
       "url": "https://nypost.com/2025/04/20/us-news/rfk-jr-declares-autism-is-worse-in-us-than-covid-19-outbreak/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/103014122.jpg?quality=75&strip=all&w=1024",
@@ -1170,71 +1235,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321181.g006&size=inline",
       "publishedAt": "2025-04-17T14:00:00Z",
       "content": "Introduction\r\nThe world population will reach over nine billion people in 2050; hence, crop production must double to meet the increasing demand for food [1]. Abiotic stresses such as, salinity, drou… [+54019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kanittha Tonchiangsai, Anuwat Wiratsudakul, Suwicha Kasemsuwan, Ruangrat Buddhirongawatr, Weerapong Thanapongtharm, Kan Kledmanee, Tatiyanuch Chamsai, Nareerat Sangkachai, Bencharong Sangkharak, Pakpoom Aramsirirujiwet, Sarin Suwanpakdee",
-      "title": "Quantitative risk assessment and interventional recommendations for preventing canine distemper virus infection in captive tigers at selected wildlife stations in Thailand",
-      "description": "Canine distemper virus (CDV) can cause high morbidity and mortality in large felids and pose a significant threat to the conservation of captive and non-captive tiger (Panthera tigris). This study conducted in Thailand’s wildlife stations aimed to assess the …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320657",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320657.g006&size=inline",
-      "publishedAt": "2025-04-17T14:00:00Z",
-      "content": "Introduction\r\nCanine distemper virus (CDV) is an enveloped single-stranded RNA virus of the family Paramyxoviridae in the genus Morbillivirus [1]. Distemper is a highly contagious and potentially fat… [+48637 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Node.js malvertising campaign targets crypto users",
-      "description": "Microsoft warns of a malvertising campaign using Node.js to deliver info-stealing malware via fake crypto trading sites like Binance and TradingView. Microsoft has observed Node.js increasingly used in malware campaigns since October 2024, including an ongoin…",
-      "url": "https://securityaffairs.com/176651/hacking/node-js-malvertising-campaign-targets-crypto-users.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-32-scaled.png",
-      "publishedAt": "2025-04-17T13:07:20Z",
-      "content": "Node.js malvertising campaign targets crypto users\r\n | Apple released emergency updates for actively exploited flaws\r\n | U.S. CISA adds SonicWall SMA100 Appliance flaw to its Known Exploited Vulnerab… [+156557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Lauren David",
-      "title": "You May Want To Think Twice Before You Eat Bagged Lettuce",
-      "description": "Ever heard of a \"manure lagoon\"?",
-      "url": "https://www.huffpost.com/entry/bagged-salad-greens-food-safety_l_67f827bee4b0c6da0011396b",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67fd62071b00002600053d75.jpeg?ops=1200_630",
-      "publishedAt": "2025-04-17T11:00:25Z",
-      "content": "You likely buy some grocery items for convenience, to save a couple of steps when its time to prepare a meal. Prewashed bagged greens, such as lettuce or spinach, seem like a no-brainer if youre tryi… [+8584 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Plastic Drums Market Trends and Forecast 2025-2034 - Chemical Industry Fuels Rise in Plastic Drums Demand with Focus on Safe and Compliant Packaging",
-      "description": "Dublin, April 17, 2025 (GLOBE NEWSWIRE) -- The \"Plastic Drums Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025-2034\" report has been added to ResearchAndMarkets.com's offering.The Global Plastic Drums Market generated USD 4.5 bil…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/17/3063199/28124/en/Plastic-Drums-Market-Trends-and-Forecast-2025-2034-Chemical-Industry-Fuels-Rise-in-Plastic-Drums-Demand-with-Focus-on-Safe-and-Compliant-Packaging.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-04-17T10:09:00Z",
-      "content": "Dublin, April 17, 2025 (GLOBE NEWSWIRE) -- The \"Plastic Drums Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025-2034\" report has been added to ResearchAndMarkets.com's of… [+7153 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Apple released emergency updates for actively exploited flaws",
-      "description": "Apple released emergency updates to fix iOS, iPadOS & macOS vulnerabilities actively exploited in sophisticated attacks. Apple released out‑of‑band security updates to address two vulnerabilities, tracked as CVE-2025-31200 and CVE-2025-31201, impacting iOS, i…",
-      "url": "https://securityaffairs.com/176644/security/apple-emergency-updates-actively-exploited-ios-ipados-macos-bugs.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
-      "publishedAt": "2025-04-17T09:24:47Z",
-      "content": "Apple released emergency updates for actively exploited iOS, iPadOS and macOS flaws\r\n | U.S. CISA adds SonicWall SMA100 Appliance flaw to its Known Exploited Vulnerabilities catalog\r\n | CISA's 11-Mon… [+156524 chars]"
     }
   ],
   "totalResults": 95,
