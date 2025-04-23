@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-04-22T18:32:32.291Z",
+  "lastUpdated": "2025-04-23T01:54:10.405Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livenowfox.com"
+      },
+      "author": "Stephanie Weaver",
+      "title": "Public health alert issued for pork products due to possible metal contamination",
+      "description": "Public health alert issued for pork products due to possible metal contaminationlivenowfox.com",
+      "url": "https://www.livenowfox.com/news/public-health-alert-pork-products-metal-contamination",
+      "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/04/1280/720/pork-carnitas-getty.jpg?ve=1&tl=1",
+      "publishedAt": "2025-04-21T23:49:06Z",
+      "content": "WASHINGTON - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) has issued a public health alert for pork carnitas products that may be contaminated with foreign material,… [+1979 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Chela Williams and Bridget McArthur",
+      "title": "Ratepayers 'grumpy' and 'disgusted' as FOGO efforts go to waste",
+      "description": "Organic waste in several WA shires is going straight to landfill despite the tip tasked with processing it receiving significant funding to deal with FOGO.",
+      "url": "https://www.abc.net.au/news/2025-04-22/ratepayers-angry-fogo-organics-waste-south-west-wa/105188062",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2554073e27fd4e0cd52461af145de7ff?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=191&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-04-21T23:01:50Z",
+      "content": "Residents in Western Australia's South West are disappointed to learn their efforts to sort food scraps and garden trimmings from general rubbish are going to waste.\r\nBunbury Harvey Regional Council … [+4842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Taylor Leamey",
+      "title": "Eating These 9 Foods? You Might Be Swallowing Microplastics",
+      "description": "It's not just seafood anymore. Microplastics are showing up in snacks, sweets and even vegetables.",
+      "url": "https://www.cnet.com/health/nutrition/eating-these-9-foods-you-might-be-swallowing-microplastics/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-21T23:00:03Z",
+      "content": "Think you're not eating microplastics? Think again. Researchers at UCLA have uncovered something unsettling: microplastics are released directly into your mouth every time you chew gum. In a new stud… [+10272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GMA"
+      },
+      "author": "Shafiq Najib",
+      "title": "Public health alert issued for pork carnitas products over possible metal contamination",
+      "description": "Public health alert issued for pork carnitas products over possible metal contaminationgoodmorningamerica.com",
+      "url": "https://www.goodmorningamerica.com/food/story/public-health-alert-issued-pork-carnitas-products-metal-121028981",
+      "urlToImage": "https://i.abcnewsfe.com/a/459ed2ad-7bb3-44c8-ac89-1b43a187b019/cargill-pork-carnitas-ht-jef-250421_1745262122816_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2025-04-21T22:23:30Z",
+      "content": "A public health alert has been issued for pork carnitas products that may be contaminated with metal fragments, the U.S. Department of Agriculture's Food Safety and Inspection Service announced Satur… [+2101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Allrecipes.com"
+      },
+      "author": "Courtney Kassel",
+      "title": "USDA Announces Health Alert for Pork Sold at Aldi Due to Potential Metal Contamination",
+      "description": "The USDA's Food Safety and Inspection Service (FSIS) issued a public health alert for pork carnitas sold at Aldi stores nationwide after the products were found to potentially contain pieces of metal.",
+      "url": "https://www.allrecipes.com/usda-health-alert-aldi-pork-april-2025-11718785",
+      "urlToImage": "https://www.allrecipes.com/thmb/g8D5BKBsz2hZLSyEZVO9rdik84M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-aldi-health-alert-getty-2x1-6fa4b5d265564654827775914eb00ee6.jpg",
+      "publishedAt": "2025-04-21T19:55:14Z",
+      "content": "The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) has issued a public health alert for pork carnitas after they were found to be potentially contaminated with foreign mat… [+1380 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -299,6 +364,19 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/44b5629a-ce7c-4b96-889a-fba715ff172e",
       "publishedAt": "2025-04-21T04:51:00Z",
       "content": "ALBANY, N.Y., April 21, 2025 (GLOBE NEWSWIRE) -- HepatoBurn is a natural weight loss formula that optimizes the major fat-burning processes in the body to eliminate stubborn body fat. What makes Hepa… [+15678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stanford.edu"
+      },
+      "author": null,
+      "title": "Stanford Medicine researchers develop RNA blood test to detect cancers, other clues",
+      "description": "Stanford Medicine researchers have created a liquid biopsy test capable of detecting cancers, molecular mechanisms of resistance to treatment, and tissue injury.",
+      "url": "https://news.stanford.edu/stories/2025/04/stanford-medicine-researchers-develop-rna-blood-test-to-detect-cancers-other-clues",
+      "urlToImage": "https://news.stanford.edu/__data/assets/image/0029/169076/GettyImages-1220308483.jpg",
+      "publishedAt": "2025-04-21T00:00:00Z",
+      "content": "Stanford Medicine researchers have developed a blood test capable of detecting cancers, the ways cancer resists treatments, and tissue injury caused by non-cancerous conditions.\r\nThe new test analyze… [+5991 chars]"
     },
     {
       "source": {
@@ -1170,84 +1248,6 @@
       "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/03/rdbadfod.jpg",
       "publishedAt": "2025-04-17T07:49:12Z",
       "content": "Pexels/Reddit\r\nHow do you tell someone that their cooking is no bueno?\r\nThat’s a tough one, right?\r\nAnd this woman is in a real pickle.\r\nHer roommate is a terrible cook, and she needs to find some wa… [+2937 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The BMJ"
-      },
-      "author": "Turner, P., Dowdall, N.",
-      "title": "Flying with nut and other food allergies: unravelling fact from fiction",
-      "description": "There is a common perception that peanut/tree nut particles can be transmitted through aircraft ventilation systems and pose a significant risk to passengers with food allergies. In fact, food-induced allergic reactions are around 10–100 times less common dur…",
-      "url": "https://adc.bmj.com/content/110/5/334",
-      "urlToImage": "https://adc.bmj.com/sites/default/files/highwire/archdischild/110/5.cover-source.jpg",
-      "publishedAt": "2025-04-17T07:45:28Z",
-      "content": "Around 23% of children and 12% of adults in the UK have a food allergy,1 with similar prevalence in other mediumhigh income countries.2 Food allergy is the most common cause of anaphylaxis,3 a seriou… [+19225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Cassie B.",
-      "title": "Major baby food brands exceed California lead limits, risking children’s health",
-      "description": "Products from many major baby food brands contain lead levels that far exceed California’s safety limit. A lawsuit alleges that manufacturers knowingly sell products requiring Proposition 65 warnings but fail to use them. Lead exposure risks children’s brain …",
-      "url": "https://www.naturalnews.com/2025-04-17-baby-food-brands-california-lead-limits.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Baby-Infant-Food-Bad-Taste.jpg",
-      "publishedAt": "2025-04-17T06:00:00Z",
-      "content": "<ul><li>Products from many major baby food brands contain lead levels that far exceed California's safety limit.</li><li>A lawsuit alleges that manufacturers knowingly sell products requiring Proposi… [+4100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Lance D Johnson",
-      "title": "Brain-boosting foods: the key to unlocking cognitive potential and mental well-being",
-      "description": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requires the right fuel, our brains thrive on a diet rich in ess…",
-      "url": "https://www.naturalnews.com/2025-04-17-the-key-to-unlocking-cognitive-potential-and-mental-well-being.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Brain-Cognition-Power-Mind-Conscious-Neuron-Energy.jpg",
-      "publishedAt": "2025-04-17T06:00:00Z",
-      "content": "In a world where mental health is increasingly recognized as a cornerstone of overall well-being, the food we consume plays a pivotal role in how our brains function. Just as a well-tuned engine requ… [+7715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Olive oil: A superfood source of antioxidants and heart-healthy fats",
-      "description": "Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress. Studies link olive oil to lower risks of heart disease, stroke, depressio…",
-      "url": "https://www.naturalnews.com/2025-04-17-olive-oil-superfood-source-antioxidants-heart-healthy-fats.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Olive-oil.jpg",
-      "publishedAt": "2025-04-17T06:00:00Z",
-      "content": "<ul><li>Olive oil, particularly extra-virgin (EVOO), is high in monounsaturated fats (oleic acid) and polyphenols that can reduce inflammation, improve heart health and combat oxidative stress.</li><… [+6976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Cassie B.",
-      "title": "Urban wildflowers absorb toxic metals, poisoning bees and threatening food supply",
-      "description": "Urban wildflowers meant to help bees are absorbing toxic metals from contaminated soil. Common pollinator plants like chicory and clover accumulate lead, arsenic, and cadmium in their nectar. Bees exposed to these metals suffer impaired learning, reduced popu…",
-      "url": "https://www.naturalnews.com/2025-04-17-urban-wildflowers-absorb-toxic-metals-poisoning-bees.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Wildflowers-Flowers-Field.jpg",
-      "publishedAt": "2025-04-17T06:00:00Z",
-      "content": "<ul><li>Urban wildflowers meant to help bees are absorbing toxic metals from contaminated soil.</li><li>Common pollinator plants like chicory and clover accumulate lead, arsenic, and cadmium in their… [+4972 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "Julia Landwehr",
-      "title": "Nationwide Recall Hits Dozens of Generic Drugs—What to Know",
-      "description": "Nearly 40 generic medications—most prescription, but some sold over-the-counter at Amazon and Walmart—have been recalled due to manufacturing quality concerns, the FDA said. See the full list of recalled drugs here.",
-      "url": "https://www.health.com/fda-glenmark-recall-generic-drugs-11716765",
-      "urlToImage": "https://www.health.com/thmb/P9cU9QqpKufLfLkk-62Tjf5Bhf0=/4368x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-157310213-fbc8d849313848148b7d434b84e97048.jpg",
-      "publishedAt": "2025-04-17T01:26:46Z",
-      "content": "Nearly 40 different kinds of common generic medications are being recalled, according to a report posted by the Food and Drug Administration (FDA).\r\n The medications, all produced by Glenmark Pharmac… [+6499 chars]"
     }
   ],
   "totalResults": 96,
