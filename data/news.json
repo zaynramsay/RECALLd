@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-04-24T12:49:51.016Z",
+  "lastUpdated": "2025-04-24T18:32:18.868Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Crypto mining campaign targets Docker environments with new evasion technique",
+      "description": "New malware campaign targets Docker environments using unknown methods to secretly mine cryptocurrency, researchers warn. Researchers from Darktrace and Cado Security have spotted a malware campaign that targets Docker environments with a novel technique to m…",
+      "url": "https://securityaffairs.com/176877/malware/crypto-mining-campaign-targets-docker-environments-with-new-evasion-technique.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-41.png",
+      "publishedAt": "2025-04-23T18:15:48Z",
+      "content": "Crypto mining campaign targets Docker environments with new evasion technique\r\n | The popular xrpl.js Ripple cryptocurrency library was compromised in a supply chain attack\r\n | British retailer giant… [+157795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Todd Karpovich",
+      "title": "What is listeria? Things to know about the bacteria and how to prevent infection.",
+      "description": "At least two listeria cases in the Baltimore area have been tied to ice cream. Learn how to prevent infection, spot symptoms and seek treatment.",
+      "url": "https://www.bostonherald.com/2025/04/23/listeria-what-to-know/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/04/US-NEWS-MED-LISTERIA-EXPLAINER-DMT.jpg?w=1024&h=611",
+      "publishedAt": "2025-04-23T17:44:10Z",
+      "content": "At least two cases of listeria have been linked to ice cream in the Baltimore metro area, prompting health and safety concerns.\r\nListeria is a bacterium that can contaminate food and cause serious, s… [+5634 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "Jenna Anderson",
+      "title": "E. Coli Outbreak in Lettuce Killed 1, Sickened Dozens—Why Didn't the FDA Say Anything?",
+      "description": "An NBC News investigation found that there was a deadly E. coli outbreak linked to romaine lettuce at the end of 2024, but the FDA never notified the public about it. Here's why the FDA didn't say anything, and what you can do to stay safe from foodborne illn…",
+      "url": "https://www.health.com/e-coli-outbreak-lettuce-fda-11718035",
+      "urlToImage": "https://www.health.com/thmb/7T8IYMoJ_VTUa2mzHqgmrlvinx8=/6720x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1143817829-f2606f04d447448db986074f94e9fd90.jpg",
+      "publishedAt": "2025-04-23T16:46:38Z",
+      "content": "A deadly E. coli outbreak linked to contaminated romaine lettuce ripped across the U.S. near the end of 2024but the Food and Drug Administration never informed the public about it.\r\nThats what a new … [+6862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists have found a way to 'tattoo' tardigrades",
+      "description": "If you haven't heard of a tardigrade before, prepare to be wowed. These clumsy, eight-legged creatures, nicknamed water bears, are about half a millimeter long and can survive practically anything: freezing temperatures, near starvation, high pressure, radiat…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250423112030.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-23T15:20:30Z",
+      "content": "If you haven't heard of a tardigrade before, prepare to be wowed. These clumsy, eight-legged creatures, nicknamed water bears, are about half a millimeter long and can survive practically anything: f… [+3327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC Bay Area"
+      },
+      "author": "NBC Bay Area staff",
+      "title": "Health inspectors shut down Whole Foods in Cupertino",
+      "description": "A troubled Whole Foods Market store in the South Bay has been shut down by county health inspectors over food safety violations.",
+      "url": "https://www.nbcbayarea.com/news/local/inspectors-shut-down-whole-foods/3850973/",
+      "urlToImage": "https://media.nbcbayarea.com/2025/04/Whole-Foods-shuts-down-bakery-and-deli-in-Cupertino-e1745417240297.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-04-23T14:26:45Z",
+      "content": "A troubled Whole Foods Market store in the South Bay has been shut down by county health inspectors over food safety violations.\r\nThe store at 20955 Stevens Creek Blvd. in Cupertino, which had parts … [+1507 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Alaa H. Sewid, Joseph H. Ramos, Haley C. Dylewski, Gillian I. Castro, Doris H. D’Souza, Shigetoshi Eda",
+      "title": "Colorimetric dual DNAzyme reaction triggered by loop-mediated isothermal amplification for the visual detection of Shiga toxin-producing Escherichia coli in food matrices",
+      "description": "Shiga toxin-producing Escherichia coli (STEC) is causing outbreaks worldwide and a rapid detection method is urgently needed. Loop-mediated isothermal amplification (LAMP) has attracted attention in the development of pathogen detection methods; however, curr…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320393",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320393.g011&size=inline",
+      "publishedAt": "2025-04-23T14:00:00Z",
+      "content": "Citation: Sewid AH, Ramos JH, Dylewski HC, Castro GI, DSouza DH, Eda S (2025) Colorimetric dual DNAzyme reaction triggered by loop-mediated isothermal amplification for the visual detection of Shiga … [+47349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Food Storage Container Market Size to Culminate USD 247.29 Bn by 2034 | Expert Analysis",
+      "description": "According to Towards Packaging Experts, the food storage container market size stood at USD 160 billion in 2024 and is predicted to exceed USD 247.29 billion by 2034, experiencing a CAGR of 4.60% from 2024 to 2034. According to Towards Packaging Experts, the …",
+      "url": "https://www.globenewswire.com/news-release/2025/04/23/3066538/0/en/Food-Storage-Container-Market-Size-to-Culminate-USD-247-29-Bn-by-2034-Expert-Analysis.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-04-23T14:00:00Z",
+      "content": "Ottawa, April 23, 2025 (GLOBE NEWSWIRE) -- The food storage container market size to record USD 167.36 billion in 2025 and is projected to grow beyond USD 247.29 billion by 2034, a study published by… [+18729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Beenzu Siamalube, Emmanuel Ehinmitan, Steven Runo, Maina Ngotho, Justus Onguso",
+      "title": "Cholera in Sub-Saharan Africa: Unveiling neglected drivers and pathways to elimination",
+      "description": "Cholera is a virulent infectious disease caused by the Gram-negative, comma-shaped bacteria Vibrio cholerae, after ingesting contaminated food and/or water. If left untreated, it can kill within 5 days. Since mid-2021 the world has recorded a notable increase…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013029",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013029.g001&size=inline",
+      "publishedAt": "2025-04-23T14:00:00Z",
+      "content": "Abstract\r\nCholera is a virulent infectious disease caused by the Gram-negative, comma-shaped bacteria Vibrio cholerae, after ingesting contaminated food and/or water. If left untreated, it can kill w… [+21691 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -21,7 +125,7 @@
       },
       "author": "Parks Kugle",
       "title": "‘This happened to me with Liquid IV’: Woman buys Heinz Simply Tomato Ketchup in 2 sizes. Then she notices this label is missing on 1 of them",
-      "description": "According to Food Allergy Research and Education, 33 million Americans, or 1 in 10 adults and 1 in 13 children, have food allergies. Additionally, 51% of food-allergic adults and 42% of food-allergic children have experienced a severe reaction. So, if a compa…",
+      "description": "According to Food Allergy Research and Education, 33 million Americans, or 1 in 10 adults and 1 in 13 children, have food allergies. Additionally, 51% of food-allergic adults and 42% of food-allergic children have experienced a severe reaction. So, if a compa���",
       "url": "https://www.dailydot.com/news/heinz-simply-tomato-ketchup-gluten-free-label/",
       "urlToImage": "https://uploads.dailydot.com/2025/04/heinz_celiac_simply_tiktok.jpg?auto=compress&fm=pjpg",
       "publishedAt": "2025-04-23T12:00:00Z",
@@ -1170,110 +1274,6 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
       "publishedAt": "2025-04-19T10:00:00Z",
       "content": "Approximately 14 to 17% of cropland globally -- roughly 242m hectares -- is contaminated by at least one toxic metal such as arsenic, cadmium, cobalt, chromium, copper, nickel or lead, at levels that… [+1165 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slate Magazine"
-      },
-      "author": "Anna Gibbs",
-      "title": "Americans Might Be Tempted to Leave Their Eggs on the Counter Like Europeans. There’s a Reason You Can’t.",
-      "description": "Australia actually tried to do it the American way—and failed.",
-      "url": "https://slate.com/technology/2025/04/eggs-easter-refrigerator-safe-salmonella.html",
-      "urlToImage": "https://compote.slate.com/images/3cde438c-e362-405f-b735-f7b37788cfd2.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2025-04-19T09:50:00Z",
-      "content": "This is part of Egg, an attempt to explain why Americans have absolutely lost their minds over egg prices. The Eggsplainer briefly considers some of our weirdest behaviors around eggs.\r\nTheres someth… [+3391 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Healthletic",
-      "title": "Healthletic Methylene Blue Drops Under Review: Best USP-Grade Pure Liquid Brand on the Market",
-      "description": "One Drop, Big Impact: How Healthletic’s USP-Grade Methylene Blue Drops Are Revolutionizing Brain Energy, Focus, and Cognitive Vitality in 2025 One Drop, Big Impact: How Healthletic’s USP-Grade Methylene Blue Drops Are Revolutionizing Brain Energy, Focus, and …",
-      "url": "https://www.globenewswire.com/news-release/2025/04/18/3064297/0/en/Healthletic-Methylene-Blue-Drops-Under-Review-Best-USP-Grade-Pure-Liquid-Brand-on-the-Market.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/154a53bb-f934-4abd-b2e0-eb44b6814bef",
-      "publishedAt": "2025-04-18T21:11:00Z",
-      "content": "New York City, April 18, 2025 (GLOBE NEWSWIRE) -- \r\nWhat If One Drop Could Transform Your Brain and Energy?\r\nIn the pursuit of peak cognitive performance, enhanced mental clarity, and sustained energ… [+44743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Meghan Holohan",
-      "title": "Romaine lettuce E. coli outbreak left boy, 10, hospitalized with kidney failure, lawsuit says",
-      "description": "Before Thanksgiving last year, Colton George, then 9, became very ill.",
-      "url": "https://www.today.com/health/news/e-coli-romaine-lettuce-outbreak-boy-hospitalized-rcna201878",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-04/250416-e-coli-colton-george-2-inline-lr-543dd6.jpg",
-      "publishedAt": "2025-04-18T20:07:08Z",
-      "content": "Before Thanksgiving last year, Colton George, then 9, became very ill.\r\nI was going to the bathroom like five or six times a day, Colton told NBC affiliate WTHR in Indianapolis. My stomach was like c… [+4111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "author": "Trisha Leigh",
-      "title": "Many People Don’t Wash Their Reusable Water Bottles, But You Definitely Should",
-      "description": "Get those bottles in some soapy water, asap!",
-      "url": "http://twistedsifter.com/2025/04/many-people-dont-wash-their-reusable-water-bottle-but-you-definitely-should/",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/03/dirtywaterbottle.jpg",
-      "publishedAt": "2025-04-18T19:48:31Z",
-      "content": "Shutterstock\r\nPersonally, I think it’s weird to have a piece of drinkware that you don’t think needs to be washed.\r\nI mean sure, it only holds water but your mouth goes on there (and if you have kids… [+2967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "International Business Times"
-      },
-      "author": "M.B. Mack",
-      "title": "FDA Seeks to End Food Safety Inspections Days After Hundreds of Pounds of Butter Recalled Over Fecal Bacteria Contamination",
-      "description": "Following a butter recall due to fecal bacteria, the FDA is preparing to outsource much of its food safety inspection work to states.",
-      "url": "https://www.ibtimes.com/fda-seeks-end-food-safety-inspections-days-after-hundreds-pounds-butter-recalled-over-fecal-3770617",
-      "urlToImage": "https://d.ibtimes.com/en/full/4594946/fda-cabot-creamery-recall.jpg",
-      "publishedAt": "2025-04-18T19:41:49Z",
-      "content": "Just weeks after nearly 1,700 pounds of butter were recalled due to fecal bacteriacontamination, the FDA is considering a plan to scale back its routine food safety inspections and shift oversight re… [+1797 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "ASUS routers with AiCloud vulnerable to auth bypass exploit",
-      "description": "ASUS warns of an authentication bypass vulnerability in routers with AiCloud enabled that could allow unauthorized execution of functions on the device. ASUS warns of an authentication bypass vulnerability, tracked as CVE-2025-2492 (CVSS v4 score: 9.2), which…",
-      "url": "https://securityaffairs.com/176697/security/asus-warns-of-a-router-authentication-bypass-flaw.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/06/ASUS-LOGO.png",
-      "publishedAt": "2025-04-18T19:26:02Z",
-      "content": "ASUS routers with AiCloud vulnerable to auth bypass exploit\r\n | U.S. CISA adds Apple products and Microsoft Windows NTLM flaws to its Known Exploited Vulnerabilities catalog\r\n | Entertainment venue m… [+156821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Pia Araneta",
-      "title": "How long are Easter dinner leftovers safe to eat? A food safety expert weighs in on the 'danger zone'",
-      "description": "Food experts say a common misconception among people is the \"two-hour rule.\"",
-      "url": "https://ca.style.yahoo.com/how-long-are-easter-dinner-leftovers-safe-to-eat-a-food-safety-expert-weighs-in-on-the-danger-zone-190039829.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CDc6EOEZXIHYQD_kUiAYfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzE-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/ceef6130-ebb0-11ee-b6ff-29e1d3949f3c",
-      "publishedAt": "2025-04-18T19:00:39Z",
-      "content": "As many Canadian families gear up for a big Easter weekend, our thoughts naturally turn to the heart of the celebration: The food. From grandma's famous bread rolls to roasted ham, Canadians are undo… [+5220 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Dot"
-      },
-      "author": "Anna Good",
-      "title": "FDA says ‘good luck out there,’ plans to end food safety checks—21 memes and reactions",
-      "description": "Earlier this week, the Food and Drug Administration (FDA) announced it would scale back most of its routine food safety inspections, according to a report from CBS News. Although some high-risk cases would still be inspected by the FDA itself, the majority of…",
-      "url": "https://www.dailydot.com/memes/fda-food-safety-inspections-romaine-lettuce-ecoli-outbreak/",
-      "urlToImage": "https://uploads.dailydot.com/2025/04/FDA-MEME.jpg?auto=compress&fm=pjpg",
-      "publishedAt": "2025-04-18T18:51:53Z",
-      "content": "Earlier this week, the Food and Drug Administration (FDA) announced it would scale back most of its routine food safety inspections, according to a report from CBS News. Although some high-risk cases… [+2960 chars]"
     }
   ],
   "totalResults": 98,
