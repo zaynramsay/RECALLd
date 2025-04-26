@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-04-26T12:41:59.666Z",
+  "lastUpdated": "2025-04-26T18:29:02.140Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "JPCERT warns of DslogdRAT malware deployed in Ivanti Connect Secure",
+      "description": "Researchers identified a new malware, named DslogdRAT, deployed after exploiting a now-patched flaw in Ivanti Connect Secure (ICS). JPCERT/CC researchers reported that a new malware, dubbed DslogdRAT, and a web shell were deployed by exploiting a zero-day vul…",
+      "url": "https://securityaffairs.com/177002/malware/jpcert-warns-of-dslogdrat-malware-deployed-in-ivanti-connect-secure.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-48.png",
+      "publishedAt": "2025-04-25T17:56:11Z",
+      "content": "JPCERT warns of DslogdRAT malware deployed in Ivanti Connect Secure\r\n | SAP NetWeaver zero-day allegedly exploited by an initial access broker\r\n | Operation SyncHole: Lazarus APT targets supply chain… [+158399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Advanced BioNutritionals",
+      "title": "Advanced BioNutritionals Under Review: Highly-Trusted Supplement Brand for Quality Products",
+      "description": "Explore the Doctor-Formulated, Science-Backed Supplements Trusted by Thousands—And See Why Advanced BioNutritionals Sets the Gold Standard in Wellness Transparency, Quality, and Results Explore the Doctor-Formulated, Science-Backed Supplements Trusted by Thou…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/25/3068557/0/en/Advanced-BioNutritionals-Under-Review-Highly-Trusted-Supplement-Brand-for-Quality-Products.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ff476a81-ffde-4ca9-9635-b16f19dfe25a",
+      "publishedAt": "2025-04-25T17:50:00Z",
+      "content": "New York City, April 25, 2025 (GLOBE NEWSWIRE) -- \r\nIn This Article, Youll Discover:\r\n<ul><li>The most common supplement-related health concerns people face today</li><li>Why supplement quality, form… [+42898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SAP NetWeaver zero-day allegedly exploited by an initial access broker",
+      "description": "A zero-day in SAP NetWeaver is potentially being exploited, putting thousands of internet-facing applications at risk. Researchers warn that a zero-day vulnerability, tracked as CVE-2025-31324 (CVSS score of 10/10), in SAP NetWeaver is potentially being explo…",
+      "url": "https://securityaffairs.com/176983/hacking/sap-netweaver-zero-day-allegedly-exploited-by-an-initial-access-broker.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/05/SAP-systems.gif",
+      "publishedAt": "2025-04-25T15:48:27Z",
+      "content": "SAP NetWeaver zero-day allegedly exploited by an initial access broker\r\n | Operation SyncHole: Lazarus APT targets supply chains in South Korea\r\n | Interlock ransomware gang started leaking data alle… [+158327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sporkful.com"
+      },
+      "author": "Shantel Holder",
+      "title": "Reheat: Jason Mantzoukas Sees Every Meal As A Threat",
+      "description": "Actor and comedian Jason Mantzoukas is known for playing characters that are overzealous, exuberant, and more than a little wacky. But these characters are the exact opposite of how Jason felt growing up — like a “boy made of glass.” Jason has a life-threaten…",
+      "url": "https://www.sporkful.com/reheat-jason-mantzoukas-sees-every-meal-as-a-threat/",
+      "urlToImage": "http://sporkful.s3.amazonaws.com/uploads/2022/04/18171517/jason-mantzoukas-crop-735x488.png",
+      "publishedAt": "2025-04-25T15:00:00Z",
+      "content": "Dan Pashman: This episode contains explicit language and mature content, and it's going to start just about as soon as the show begins, so I'm pausing here for a second. Maybe you're a parent in the … [+35096 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Juice Recall Update As FDA Issues Highest Risk Warning for 12 States",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nJuice recalled over potential harmful bacteria contamination has been issued a Class I risk warning by the Food and Drug Administration (FDA).\nWalker's Wine Juice LLC of Forestville, New York, recalled its pum…",
+      "url": "https://biztoc.com/x/f6b2b04e5123e8b1",
+      "urlToImage": "https://biztoc.com/cdn/f6b2b04e5123e8b1_s.webp",
+      "publishedAt": "2025-04-25T14:16:12Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.Juice recalled over potential harmful bacteria contamination has been issued a Class I risk warning by the Food and Drug Administration (FDA).Walker's… [+145 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Juice Recall Update As FDA Issues Highest Risk Warning for 12 States",
+      "description": "Walker's Wine Juice LLC recalled its pumpkin juice in March due to possible contamination with Clostridium botulinum.",
+      "url": "https://www.newsweek.com/juice-recall-fda-issues-highest-risk-warning-walkers-wine-juice-12-states-2064121",
+      "urlToImage": "https://d.newsweek.com/en/full/2633246/juice-recall.png",
+      "publishedAt": "2025-04-25T14:12:50Z",
+      "content": "Juice recalled over potential harmful bacteria contamination has been issued a Class I risk warning by the Food and Drug Administration (FDA).\r\nWalker's Wine Juice LLC of Forestville, New York, recal… [+3360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Oxygen Scavengers Market Size to Progress USD 4.20 Bn by 2034",
+      "description": "According to Towards Packaging Consultants, the global oxygen scavengers market size stood at USD 2.59 billion in 2024 and is predicted to exceed USD 4.20 billion by 2034, experiencing a CAGR of 5% from 2024 to 2034. According to Towards Packaging Consultants…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/25/3068378/0/en/Oxygen-Scavengers-Market-Size-to-Progress-USD-4-20-Bn-by-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-04-25T14:00:00Z",
+      "content": "Ottawa, April 25, 2025 (GLOBE NEWSWIRE) -- The global oxygen scavengers market size to record USD 2.72 billion in 2025 and is projected to grow beyond USD 4.20 billion by 2034, a study published by T… [+16247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kelsey Alvarez del Castillo, Suresh A. Sethi, Eugene Won, John Maniscalco, Richard Pendleton, Eliza Ryan, Lars G. Rudstam",
+      "title": "Salinity tolerance of Round Goby: Informing invasion potential in North American coastal watersheds",
+      "description": "Since being introduced into the Laurentian Great Lakes in the 1990s, round goby (Neogobius melanostomus) has spread rapidly, reaching the Hudson River Estuary, NY in 2021. To address the expansion potential into saline environments from this North American co…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316327",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316327.g006&size=inline",
+      "publishedAt": "2025-04-25T14:00:00Z",
+      "content": "Abstract\r\nSince being introduced into the Laurentian Great Lakes in the 1990s, round goby (Neogobius melanostomus) has spread rapidly, reaching the Hudson River Estuary, NY in 2021. To address the ex… [+68387 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Andrea Margolis",
+      "title": "Apple juice recalled in 28 states due to toxic substance, FDA says",
+      "description": "Martinelli's is recalling some four packs of its 10-ounce glass apple juice bottles due to potential patulin contamination, according to the FDA. Here's what to know.",
+      "url": "https://www.foxnews.com/food-drink/apple-juice-recalled-28-states-due-toxic-substance-fda-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/apple-juice-1.jpg",
+      "publishedAt": "2025-04-25T13:34:26Z",
+      "content": "There are some bad apples out there and they may be in your pantry.\r\nMartinelli's, famous for its glass-bottled apple juices, has begun recalling certain products, according to the Food and Drug Admi… [+2046 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -225,19 +342,6 @@
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kareem Hatam-Nahavandi, Ehsan Ahmadpour, Milad Badri, Aida Vafae Eslahi, Davood Anvari, David Carmena, Lihua Xiao",
-      "title": "Global prevalence of Giardia infection in nonhuman mammalian hosts: A systematic review and meta-analysis of five million animals",
-      "description": "Author summary Giardia is a ubiquitous protozoan parasite that causes gastrointestinal illness, known as giardiasis, in both humans and animals. To understand how common this infection is among nonhuman mammals worldwide, we reviewed studies published from 19…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013021",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013021.g006&size=inline",
-      "publishedAt": "2025-04-24T14:00:00Z",
-      "content": "Introduction\r\nGiardia is a cosmopolitan enteric protozoan parasite that infects various vertebrate hosts, including mammals [1]. An estimated 280 million symptomatic human cases of giardiasis occur w… [+51193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Precedence Research",
@@ -247,6 +351,19 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
       "publishedAt": "2025-04-24T14:00:00Z",
       "content": "Ottawa, April 24, 2025 (GLOBE NEWSWIRE) -- The vertical form-fill-seal (VFFS) machines market size to record USD 2.97 billion in 2025 and is projected to grow beyond USD 5.32 billion by 2034, a study… [+16814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kareem Hatam-Nahavandi, Ehsan Ahmadpour, Milad Badri, Aida Vafae Eslahi, Davood Anvari, David Carmena, Lihua Xiao",
+      "title": "Global prevalence of Giardia infection in nonhuman mammalian hosts: A systematic review and meta-analysis of five million animals",
+      "description": "Author summary Giardia is a ubiquitous protozoan parasite that causes gastrointestinal illness, known as giardiasis, in both humans and animals. To understand how common this infection is among nonhuman mammals worldwide, we reviewed studies published from 19…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013021",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013021.g006&size=inline",
+      "publishedAt": "2025-04-24T14:00:00Z",
+      "content": "Introduction\r\nGiardia is a cosmopolitan enteric protozoan parasite that infects various vertebrate hosts, including mammals [1]. An estimated 280 million symptomatic human cases of giardiasis occur w… [+51193 chars]"
     },
     {
       "source": {
@@ -372,7 +489,7 @@
       },
       "author": "S.D. Wells",
       "title": "GOT ADULTERATED MILK? Synthetic âmilkâ products contain SHOCKING ingredients you wonât believe",
-      "description": "Got synthetic milk? What is that white stuff you and your kids are drinking? Is it contaminated with adulterated chemicals, byproducts and fungicide? Does this translate to all things conventional dairy being “fake” and toxic, including ice cream, sour cream,…",
+      "description": "Got synthetic milk? What is that white stuff you and your kids are drinking? Is it contaminated with adulterated chemicals, byproducts and fungicide? Does this translate to all things conventional dairy being “fake” and toxic, including ice cream, sour cream,���",
       "url": "https://www.naturalnews.com/2025-04-24-synthetic-milk-products-contain-shocking-ingredients.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Woman-Buy-Milk-Supermarket-Label-Ingredients.jpg",
       "publishedAt": "2025-04-24T06:00:00Z",
@@ -1111,19 +1228,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "HRS Editors",
-      "title": "Arsenic in Brown Rice? Here’s how you can keep enjoying this nutritious grain",
-      "description": "Brown rice contains 40 percent more inorganic arsenic (a toxin linked to various diseases) than white rice due to its unprocessed bran layer, a study reveals. Infants and young children face disproportionate risks because they consume more rice relative to th…",
-      "url": "https://www.naturalnews.com/2025-04-22-how-to-avoid-arsenic-in-brown-rice.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Spoon-Brown-Rice.jpg",
-      "publishedAt": "2025-04-22T06:00:00Z",
-      "content": "<ul><li>Brown rice contains 40 percent more inorganic arsenic (a toxin linked to various diseases) than white rice due to its unprocessed bran layer, a study reveals.</li><li>Infants and young childr… [+9309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "S.D. Wells",
       "title": "âToxic cocktailâ: study finds almost 200 pesticides in European homes",
       "description": "Pesticides are a worldwide health problem, destroying environments, animals’ lives and human health as well. Most people think this is an “outdoor” problem, but now science and research reveal these contaminants are being tracked into the average home at alar…",
@@ -1131,6 +1235,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Pesticide-Agriculture-Apple-Apricot-Care-Environment-Equipment.jpg",
       "publishedAt": "2025-04-22T06:00:00Z",
       "content": "Pesticides are a worldwide health problem, destroying environments, animals' lives and human health as well. Most people think this is an outdoor problem, but now science and research reveal these co… [+3773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "HRS Editors",
+      "title": "Arsenic in Brown Rice? Here’s how you can keep enjoying this nutritious grain",
+      "description": "Brown rice contains 40 percent more inorganic arsenic (a toxin linked to various diseases) than white rice due to its unprocessed bran layer, a study reveals. Infants and young children face disproportionate risks because they consume more rice relative to th…",
+      "url": "https://www.naturalnews.com/2025-04-22-how-to-avoid-arsenic-in-brown-rice.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Spoon-Brown-Rice.jpg",
+      "publishedAt": "2025-04-22T06:00:00Z",
+      "content": "<ul><li>Brown rice contains 40 percent more inorganic arsenic (a toxin linked to various diseases) than white rice due to its unprocessed bran layer, a study reveals.</li><li>Infants and young childr… [+9309 chars]"
     },
     {
       "source": {
@@ -1157,123 +1274,6 @@
       "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/04/1280/720/pork-carnitas-getty.jpg?ve=1&tl=1",
       "publishedAt": "2025-04-21T23:49:06Z",
       "content": "WASHINGTON - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) has issued a public health alert for pork carnitas products that may be contaminated with foreign material,… [+1979 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Chela Williams and Bridget McArthur",
-      "title": "Ratepayers 'grumpy' and 'disgusted' as FOGO efforts go to waste",
-      "description": "Organic waste in several WA shires is going straight to landfill despite the tip tasked with processing it receiving significant funding to deal with FOGO.",
-      "url": "https://www.abc.net.au/news/2025-04-22/ratepayers-angry-fogo-organics-waste-south-west-wa/105188062",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2554073e27fd4e0cd52461af145de7ff?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=191&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-04-21T23:01:50Z",
-      "content": "Residents in Western Australia's South West are disappointed to learn their efforts to sort food scraps and garden trimmings from general rubbish are going to waste.\r\nBunbury Harvey Regional Council … [+4842 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Taylor Leamey",
-      "title": "Eating These 9 Foods? You Might Be Swallowing Microplastics",
-      "description": "It's not just seafood anymore. Microplastics are showing up in snacks, sweets and even vegetables.",
-      "url": "https://www.cnet.com/health/nutrition/eating-these-9-foods-you-might-be-swallowing-microplastics/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-04-21T23:00:03Z",
-      "content": "Think you're not eating microplastics? Think again. Researchers at UCLA have uncovered something unsettling: microplastics are released directly into your mouth every time you chew gum. In a new stud… [+10272 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GMA"
-      },
-      "author": "Shafiq Najib",
-      "title": "Public health alert issued for pork carnitas products over possible metal contamination",
-      "description": "Public health alert issued for pork carnitas products over possible metal contaminationgoodmorningamerica.com",
-      "url": "https://www.goodmorningamerica.com/food/story/public-health-alert-issued-pork-carnitas-products-metal-121028981",
-      "urlToImage": "https://i.abcnewsfe.com/a/459ed2ad-7bb3-44c8-ac89-1b43a187b019/cargill-pork-carnitas-ht-jef-250421_1745262122816_hpMain_16x9.jpg?w=992",
-      "publishedAt": "2025-04-21T22:23:30Z",
-      "content": "A public health alert has been issued for pork carnitas products that may be contaminated with metal fragments, the U.S. Department of Agriculture's Food Safety and Inspection Service announced Satur… [+2101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Allrecipes.com"
-      },
-      "author": "Courtney Kassel",
-      "title": "USDA Announces Health Alert for Pork Sold at Aldi Due to Potential Metal Contamination",
-      "description": "The USDA's Food Safety and Inspection Service (FSIS) issued a public health alert for pork carnitas sold at Aldi stores nationwide after the products were found to potentially contain pieces of metal.",
-      "url": "https://www.allrecipes.com/usda-health-alert-aldi-pork-april-2025-11718785",
-      "urlToImage": "https://www.allrecipes.com/thmb/g8D5BKBsz2hZLSyEZVO9rdik84M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-aldi-health-alert-getty-2x1-6fa4b5d265564654827775914eb00ee6.jpg",
-      "publishedAt": "2025-04-21T19:55:14Z",
-      "content": "The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) has issued a public health alert for pork carnitas after they were found to be potentially contaminated with foreign mat… [+1380 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan",
-      "description": "Researchers spotted a new North Korea-linked group Kimsuky ‘s campaign, exploiting a patched Microsoft Remote Desktop Services flaw to gain initial access. While investigating a security breach, the AhnLab SEcurity intelligence Center (ASEC) researchers disco…",
-      "url": "https://securityaffairs.com/176756/apt/kimsuky-apt-exploited-bluekeep-rdp-flaw-in-attacks-against-south-korea-and-japan.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-37.png",
-      "publishedAt": "2025-04-21T18:25:20Z",
-      "content": "Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan\r\n | New sophisticate malware SuperCard X targets Androids via NFC relay attacks\r\n | Russia-linked APT29 targets Europe… [+157275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Alex Portée",
-      "title": "Pork product sold at Aldi may have metal contamination: What to know",
-      "description": "A public health alert for pork carnitas from Cargill Meat Solutions sold at Aldi has been issued due to potential metal contamination.",
-      "url": "https://www.today.com/food/recall/pork-product-aldi-public-health-alert-rcna202162",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-04/recalled-pork-carnitas-mc-250421-2c67b2.jpg",
-      "publishedAt": "2025-04-21T17:54:31Z",
-      "content": "It would be wise for Taco Tuesday enthusiasts to check their ingredients, as their next meal could contain an unwanted crunch.\r\nOn April 19, the U.S. Department of Agricultures Food Safety and Inspec… [+2073 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Why your vitamins might be losing potency",
-      "description": "Insights into the lifespan of supplements and how proper storage can maximize potency The vitamin essentials your body needs Vitamins serve as fundamental building blocks for bodily functions, supporting everything from immune health to energy production. Our…",
-      "url": "https://rollingout.com/2025/04/21/your-vitamins-might-be-losing-potency/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/07/shutterstock_2178396949.jpg",
-      "publishedAt": "2025-04-21T17:41:58Z",
-      "content": "Insights into the lifespan of supplements and how proper storage can maximize potency\r\nThe vitamin essentials your body needs\r\nVitamins serve as fundamental building blocks for bodily functions, supp… [+9316 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Feed",
-      "title": "Beware! USDA issues health alert against Alsi Pork carnitas for possible metal contamination risk",
-      "description": "The USDA's Food Safety and Inspection Service has issued a public health alert after pork carnitas sold at Aldi stores nationwide were found to possibly contain pieces of metal. The affected product, produced in early April 2025, is no longer in stores, but c…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/beware-usda-issues-health-alert-against-alsi-pork-carnitas-for-possible-metal-contamination-risk/articleshow/120493466.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-120493653,width-1200,height-630,imgsize-6540,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-04-21T17:36:22Z",
-      "content": "The U Department of Agriculture's Food Safety and Inspection Service (FSIS) has issued a public health alert regarding a pork product sold at Aldi grocery stores nationwide. The alert cautions the pu… [+3518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Pork products sold at Aldi spark health alert over possible metal contamination",
-      "description": "The affected products were produced between April 1 and April 2",
-      "url": "https://www.the-independent.com/life-style/pork-public-health-alert-aldi-metal-b2736831.html",
-      "urlToImage": "https://static.the-independent.com/2025/04/21/16/20/pork-carnitas.jpeg?trim=49,0,49,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-21T16:51:00Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3609 chars]"
     }
   ],
   "totalResults": 98,
