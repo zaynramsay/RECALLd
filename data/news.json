@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-04-26T06:30:25.931Z",
+  "lastUpdated": "2025-04-26T12:41:59.666Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Prevention.com"
+      },
+      "author": "Kayla Blanton",
+      "title": "FDA: Rolled Oats Recalled Over Contamination Concerns",
+      "description": "The FDA is recalling rolled oats due to potential plastic contamination. The traditional and quick rolled oats were sold in bulk. Here, a list of affected lots.",
+      "url": "https://www.prevention.com/health/a64578292/grain-millers-rolled-oats-recall-fda/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/woman-shopping-for-cereals-in-supermarket-royalty-free-image-1745510694.pjpeg?crop=1.00xw:0.752xh;0,0.125xh&resize=1200:*",
+      "publishedAt": "2025-04-25T11:33:14Z",
+      "content": "<ul><li>Grain Millers oats sold in bulk were recalled due to potential foreign material contamination.</li><li>The recall was made a Class II by the U.S. Food and Drug Administration.</li><li>See bel… [+2598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Larry Olmsted, Senior Contributor, \n Larry Olmsted, Senior Contributor\n https://www.forbes.com/sites/larryolmsted/",
+      "title": "Eat Better Food: Some Of The Best Gourmet Subscriptions For Foodies",
+      "description": "In uncertain times, why not lock in a guaranteed supply of the world's best foods at a set price, then kick back and enjoy delicious meals, wine and cooking.",
+      "url": "https://www.forbes.com/sites/larryolmsted/2025/04/25/eat-better-food-some-of-the-best-gourmet-subscriptions-for-foodies/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a8d178c4e872fed5b53fb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-25T11:00:00Z",
+      "content": "Seafood is a healthy and delicious part of the diet, but it is even better when it is wild-caught ... More seafood from Alaskastraight from the dock to your door every month.\r\nWils Akaskan Company\r\nM… [+20932 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Operation SyncHole: Lazarus APT targets supply chains in South Korea",
+      "description": "The North Korea-linked Lazarus Group targeted at least six firms in South Korea in a cyber espionage campaign called Operation SyncHole. Kaspersky researchers reported that the North Korea-linked APT group Lazarus targeted at least six firms in South Korea in…",
+      "url": "https://securityaffairs.com/176964/apt/operation-synchole-lazarus-apt-targets-supply-chains-in-south-korea.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-47.png",
+      "publishedAt": "2025-04-25T10:49:11Z",
+      "content": "Operation SyncHole: Lazarus APT targets supply chains in South Korea\r\n | Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita\r\n | Yale New Haven He… [+158252 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "decanter.com"
+      },
+      "author": "Chris Mercer",
+      "title": "Traces of ‘forever chemical’ TFA found in European wines",
+      "description": "Tests on European wines have found traces of 'forever chemical' TFA, said Pesticide Action Network Europe, as the compound faces growing regulatory scrutiny",
+      "url": "https://www.decanter.com/wine-news/traces-of-forever-chemical-tfa-found-in-european-wines-555408/",
+      "urlToImage": "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/34/2025/04/Vines-GettyImages-1124405456.jpg",
+      "publishedAt": "2025-04-25T07:47:45Z",
+      "content": "A study on nearly 50 European wines from several countries found many bottles contained traces of ‘forever chemical’ compound TFA, or trifluoroacetic acid, said non-profit group Pesticide Action Netw… [+2725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita",
+      "description": "The Interlock ransomware gang claimed responsibility for the attack on the leading kidney dialysis company DaVita and leaked alleged stolen data. DaVita Inc. provides kidney dialysis services through a network of 2,675 outpatient centers in the United States,…",
+      "url": "https://securityaffairs.com/176946/cyber-crime/interlock-ransomware-gang-started-leaking-data-allegedly-stolen-from-leading-kidney-dialysis-firm-davita.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-45-1024x425.png",
+      "publishedAt": "2025-04-25T07:13:10Z",
+      "content": "Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita\r\n | Yale New Haven Health (YNHHS) data breach impacted 5.5 million patients\r\n | Crooks exploit… [+158179 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -597,7 +662,7 @@
       "url": "https://securityaffairs.com/176829/cyber-crime/chinese-cybercriminals-released-z-nfc-tool-for-payment-fraud.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/NFC-2.jpg",
       "publishedAt": "2025-04-23T07:44:57Z",
-      "content": "Chinese Cybercriminals Released Z-NFC Tool for Payment Fraud\r\n | Millions of SK Telecom customers are potentially at risk following USIM data compromise\r\n | Japan s FSA warns of unauthorized trades v�� [+157532 chars]"
+      "content": "Chinese Cybercriminals Released Z-NFC Tool for Payment Fraud\r\n | Millions of SK Telecom customers are potentially at risk following USIM data compromise\r\n | Japan s FSA warns of unauthorized trades v… [+157532 chars]"
     },
     {
       "source": {
@@ -1209,60 +1274,8 @@
       "urlToImage": "https://static.the-independent.com/2025/04/21/16/20/pork-carnitas.jpeg?trim=49,0,49,0&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-04-21T16:51:00Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Dechlorination Chemical Market Size to Lead USD 20.58 Bn by 2034, says Towards chem and Materials Consultants",
-      "description": "The global dechlorination chemical market size stood at USD 14.66 billion in 2024 and is predicted to exceed USD 20.58 billion by 2034, experiencing a CAGR of 3.45% from 2024 to 2034. The global dechlorination chemical market size stood at USD 14.66 billion i…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/21/3064820/0/en/Dechlorination-Chemical-Market-Size-to-Lead-USD-20-58-Bn-by-2034-says-Towards-chem-and-Materials-Consultants.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-21T16:16:00Z",
-      "content": "Ottawa, April 21, 2025 (GLOBE NEWSWIRE) -- According to a new report, the global dechlorination chemical market\r\n size to record USD 15.17 billion in 2025 and is projected to grow beyond USD 20.58 bi… [+16679 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Meal"
-      },
-      "author": "Bobby Lewis",
-      "title": "5 Major Butter Recalls That Swept Across The US",
-      "description": "When a product gets recalled, it puts everyone who uses it on the edge of their seats. These are five major butter recalls that swept across the U.S.",
-      "url": "https://www.thedailymeal.com/1835149/major-butter-recalls-us/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RIl6_6.BBJwxEz9fPCnjxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/the_daily_meal_185/50cbd86c53f8d8119dc6a7d2ee9fc454",
-      "publishedAt": "2025-04-21T16:15:00Z",
-      "content": "Butter's versatility as an ingredient, topping, and cooking fat makes it an essential part of most kitchens. Its deliciously creamy consistency made \"butter\" a byword for anything similarly rich and … [+6510 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Bishwa Bhaskar  Choudhary , Awnindra Kr.  Singh & Pankaj  Kaushal",
-      "title": "Wilting fodder seeds sector needs attention",
-      "description": "A fodder seed hub can coordinate production, processing, and distribution. It can promote better seed replacement",
-      "url": "https://www.thehindubusinessline.com/opinion/wilting-fodder-seeds-sector-needs-attention/article69475629.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/1dpmom/article69475636.ece/alternates/LANDSCAPE_1200/11hyngg_cartload%20of%20hay%2001.jpg",
-      "publishedAt": "2025-04-21T15:49:42Z",
-      "content": "Indias adequacy in food production has largely been attributed to the development of improved seeds for different crops, particularly wheat and rice, their transfer to farmers, and efficient coordina… [+4075 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "United States Food Allergen Testing Market Report and Company Analysis 2025-2033 Featuring Eurofins Scientific, SGS, Bureau Veritas, Intertek, Romer Labs, Microbac, Merieux NutriSciences, Crystal Chem",
-      "description": "Rising consumer awareness, stringent food safety laws, the increasing incidence of food allergies, and improvements in testing technology are the primary drivers of the market's notable expansion. A favorable future for the market is also being created by imp…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/21/3064760/28124/en/United-States-Food-Allergen-Testing-Market-Report-and-Company-Analysis-2025-2033-Featuring-Eurofins-Scientific-SGS-Bureau-Veritas-Intertek-Romer-Labs-Microbac-Merieux-NutriSciences.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-04-21T14:53:00Z",
-      "content": "Dublin, April 21, 2025 (GLOBE NEWSWIRE) -- The \"United States Food Allergen Testing Market Size and Share Analysis - Growth Trends and Forecast Report 2025-2033\" report has been added to ResearchAndM… [+8184 chars]"
     }
   ],
-  "totalResults": 97,
+  "totalResults": 98,
   "filteredCount": 0
 }
