@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-04-26T01:50:48.730Z",
+  "lastUpdated": "2025-04-26T06:30:25.931Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Thefreedictionary.com"
+      },
+      "author": null,
+      "title": "Radiocarbon Dating",
+      "description": "Radiocarbon dating is a method for determining the age of carbonaceous materials—especially ancient archaeological specimens—that relies on the presence of a naturally occurring isotope called carbon-14. After an organism dies, the amount of carbon-14 in its …",
+      "url": "https://encyclopedia.thefreedictionary.com/carbon+dating",
+      "urlToImage": "http://img.tfd.com/TFDlogo1200x1200.png",
+      "publishedAt": "2025-04-25T04:06:35Z",
+      "content": "Radiocarbon dating (also referred to as carbon dating or carbon-14 dating) is a method for determining the age of an object containing organic material by using the properties of radiocarbon, a radio… [+83486 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -147,19 +160,6 @@
     {
       "source": {
         "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Vertical Form-Fill-Seal (VFFS) Machines Market to Strike USD 5.32 Bn by 2034 | says Packaging Experts",
-      "description": "According to Towards Packaging Consultants, the vertical form-fill-seal (VFFS) machines market size stood at USD 2.78 billion in 2024 and is predicted to exceed USD 5.32 billion by 2034, experiencing a CAGR of 6.75% from 2024 to 2034. According to Towards Pac…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/24/3067591/0/en/Vertical-Form-Fill-Seal-VFFS-Machines-Market-to-Strike-USD-5-32-Bn-by-2034-says-Packaging-Experts.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-24T14:00:00Z",
-      "content": "Ottawa, April 24, 2025 (GLOBE NEWSWIRE) -- The vertical form-fill-seal (VFFS) machines market size to record USD 2.97 billion in 2025 and is projected to grow beyond USD 5.32 billion by 2034, a study… [+16814 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Plos.org"
       },
       "author": "Kareem Hatam-Nahavandi, Ehsan Ahmadpour, Milad Badri, Aida Vafae Eslahi, Davood Anvari, David Carmena, Lihua Xiao",
@@ -169,6 +169,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013021.g006&size=inline",
       "publishedAt": "2025-04-24T14:00:00Z",
       "content": "Introduction\r\nGiardia is a cosmopolitan enteric protozoan parasite that infects various vertebrate hosts, including mammals [1]. An estimated 280 million symptomatic human cases of giardiasis occur w… [+51193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Vertical Form-Fill-Seal (VFFS) Machines Market to Strike USD 5.32 Bn by 2034 | says Packaging Experts",
+      "description": "According to Towards Packaging Consultants, the vertical form-fill-seal (VFFS) machines market size stood at USD 2.78 billion in 2024 and is predicted to exceed USD 5.32 billion by 2034, experiencing a CAGR of 6.75% from 2024 to 2034. According to Towards Pac…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/24/3067591/0/en/Vertical-Form-Fill-Seal-VFFS-Machines-Market-to-Strike-USD-5-32-Bn-by-2034-says-Packaging-Experts.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-04-24T14:00:00Z",
+      "content": "Ottawa, April 24, 2025 (GLOBE NEWSWIRE) -- The vertical form-fill-seal (VFFS) machines market size to record USD 2.97 billion in 2025 and is projected to grow beyond USD 5.32 billion by 2034, a study… [+16814 chars]"
     },
     {
       "source": {
@@ -332,7 +345,7 @@
         "name": "POLITICO.eu"
       },
       "author": "Bartosz Brzeziński",
-      "title": "European wines face alarming ‘forever chemical��� contamination, new study finds",
+      "title": "European wines face alarming ‘forever chemical’ contamination, new study finds",
       "description": "From Austria to Spain, not a single wine tested came back clean, exposing the reach of ultra-persistent chemicals in Europe’s food chain.",
       "url": "https://www.politico.eu/article/europes-wine-faces-alarming-forever-chemical-contamination-new-study-finds/",
       "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/04/23/9468089-scaled.jpg",
@@ -584,7 +597,7 @@
       "url": "https://securityaffairs.com/176829/cyber-crime/chinese-cybercriminals-released-z-nfc-tool-for-payment-fraud.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/NFC-2.jpg",
       "publishedAt": "2025-04-23T07:44:57Z",
-      "content": "Chinese Cybercriminals Released Z-NFC Tool for Payment Fraud\r\n | Millions of SK Telecom customers are potentially at risk following USIM data compromise\r\n | Japan s FSA warns of unauthorized trades v… [+157532 chars]"
+      "content": "Chinese Cybercriminals Released Z-NFC Tool for Payment Fraud\r\n | Millions of SK Telecom customers are potentially at risk following USIM data compromise\r\n | Japan s FSA warns of unauthorized trades v�� [+157532 chars]"
     },
     {
       "source": {
@@ -1033,19 +1046,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "S.D. Wells",
-      "title": "âToxic cocktailâ: study finds almost 200 pesticides in European homes",
-      "description": "Pesticides are a worldwide health problem, destroying environments, animals’ lives and human health as well. Most people think this is an “outdoor” problem, but now science and research reveal these contaminants are being tracked into the average home at alar…",
-      "url": "https://www.naturalnews.com/2025-04-22-toxic-cocktail-study-finds-almost-200-pesticides-in-european-homes.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Pesticide-Agriculture-Apple-Apricot-Care-Environment-Equipment.jpg",
-      "publishedAt": "2025-04-22T06:00:00Z",
-      "content": "Pesticides are a worldwide health problem, destroying environments, animals' lives and human health as well. Most people think this is an outdoor problem, but now science and research reveal these co… [+3773 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "HRS Editors",
       "title": "Arsenic in Brown Rice? Here’s how you can keep enjoying this nutritious grain",
       "description": "Brown rice contains 40 percent more inorganic arsenic (a toxin linked to various diseases) than white rice due to its unprocessed bran layer, a study reveals. Infants and young children face disproportionate risks because they consume more rice relative to th…",
@@ -1053,6 +1053,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Spoon-Brown-Rice.jpg",
       "publishedAt": "2025-04-22T06:00:00Z",
       "content": "<ul><li>Brown rice contains 40 percent more inorganic arsenic (a toxin linked to various diseases) than white rice due to its unprocessed bran layer, a study reveals.</li><li>Infants and young childr… [+9309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "âToxic cocktailâ: study finds almost 200 pesticides in European homes",
+      "description": "Pesticides are a worldwide health problem, destroying environments, animals’ lives and human health as well. Most people think this is an “outdoor” problem, but now science and research reveal these contaminants are being tracked into the average home at alar…",
+      "url": "https://www.naturalnews.com/2025-04-22-toxic-cocktail-study-finds-almost-200-pesticides-in-european-homes.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Pesticide-Agriculture-Apple-Apricot-Care-Environment-Equipment.jpg",
+      "publishedAt": "2025-04-22T06:00:00Z",
+      "content": "Pesticides are a worldwide health problem, destroying environments, animals' lives and human health as well. Most people think this is an outdoor problem, but now science and research reveal these co… [+3773 chars]"
     },
     {
       "source": {
@@ -1248,19 +1261,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-04-21T14:53:00Z",
       "content": "Dublin, April 21, 2025 (GLOBE NEWSWIRE) -- The \"United States Food Allergen Testing Market Size and Share Analysis - Growth Trends and Forecast Report 2025-2033\" report has been added to ResearchAndM… [+8184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Anti-counterfeit Cosmetic Packaging Market Size to Strike USD 87.73 Bn by 2034",
-      "description": "The anti-counterfeit cosmetic packaging market size stood at US$ 37.06 billion in 2024 and is predicted to exceed US$ 87.73 billion by 2034, experiencing a CAGR of 9% from 2024 to 2034. The anti-counterfeit cosmetic packaging market size stood at US$ 37.06 bi…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/21/3064728/0/en/Anti-counterfeit-Cosmetic-Packaging-Market-Size-to-Strike-USD-87-73-Bn-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-21T14:00:00Z",
-      "content": "Ottawa, April 21, 2025 (GLOBE NEWSWIRE) -- The anti-counterfeit cosmetic packaging market size to record US$ 40.40 billion in 2025 and is projected to grow beyond US$ 87.73 billion by 2034, a study p… [+19986 chars]"
     }
   ],
   "totalResults": 97,
