@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-04-27T06:30:53.540Z",
+  "lastUpdated": "2025-04-27T12:42:27.183Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Askubuntu.com"
+      },
+      "author": "sasikala kanakkupillai",
+      "title": "What is FSSAI Registration? A Simple Guide for Food Businesses",
+      "description": "If you're planning to start a food-related business in India, one of the most important steps is getting your FSSAI Registration. This is not just a legal requirement, but also a mark of trust and safety for your customers. Whether you’re running a small food…",
+      "url": "https://askubuntu.com/questions/1546557/what-is-fssai-registration-a-simple-guide-for-food-businesses",
+      "urlToImage": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+      "publishedAt": "2025-04-26T11:46:18Z",
+      "content": "If you're planning to start a food-related business in India, one of the most important steps is getting your FSSAI Registration. This is not just a legal requirement, but also a mark of trust and sa… [+3718 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Sarah Bourassa",
+      "title": "If You Want To Avoid Getting Sick Before Your Flight, Experts Say You Should Stay Away From These 5 Airport Foods",
+      "description": "You'll thank yourself later.",
+      "url": "https://www.buzzfeed.com/sarahbourassa/food-to-avoid-at-airport",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y0ZcEGUNRjORh09ofc986Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/buzzfeed_articles_778/d0d21a5f7964cdeb2ed2bf20896c04c9",
+      "publishedAt": "2025-04-26T11:16:02Z",
+      "content": "Many hungry travelers turn to airport grab-and-go food before flights, but if you want to avoid getting sick before hopping on a plane, you may want to think twice about your choices.\r\nFor example, f… [+7762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STLtoday.com"
+      },
+      "author": "By Malia Mendez | Los Angeles Times",
+      "title": "Suit: Produce supplier caused St. Louis E. coli outbreak unreported by FDA",
+      "description": "Federal investigators traced the cases back to a single grower, but the Food and the Drug Administration didn't disclose the name.",
+      "url": "https://www.stltoday.com/news/local/crime-courts/article_37968a37-814e-4a09-9815-fd5d0c43ebc6.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/79/37968a37-814e-4a09-9815-fd5d0c43ebc6/680bf6d3866f9.preview.jpg?crop=333%2C333%2C83%2C0&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2025-04-26T10:50:00Z",
+      "content": "California-based produce supplier Taylor Fresh Foods is facing lawsuits from nine victims of a November E. coli outbreak that was not disclosed to the public.\r\nThe outbreak which killed one person an… [+5824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Robert English",
+      "title": "Researchers uncover alarming health risk growing inside pregnant stray cats: 'It's a flashing red warning light'",
+      "description": "\"Raises new concerns for animal and human health.\"",
+      "url": "https://www.yahoo.com/news/researchers-uncover-alarming-health-risk-101550375.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IGWW7KIDNMfEMvCUnF76iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/eebfebe060ab19a69451b388056b30ae",
+      "publishedAt": "2025-04-26T10:15:50Z",
+      "content": "A recent research study from the University of Parma found that microplastics can be passed from pregnant stray cats to their fetuses in the early stages of pregnancy, according to OneArabia.\r\nWhat's… [+3635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "CEO of cybersecurity firm charged with installing malware on hospital systems",
+      "description": "Veritaco CEO Jeffrey Bowie faces charges for allegedly installing malware on hospital computers, violating Oklahoma’s Computer Crimes Act. Jeffrey Bowie, CEO of the cybersecurity firm Veritaco, is facing two counts of violating Oklahoma’s Computer Crimes Act …",
+      "url": "https://securityaffairs.com/177020/cyber-crime/ceo-of-cybersecurity-firm-charged-with-installing-malware-on-hospital-systems.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-49.png",
+      "publishedAt": "2025-04-26T07:53:27Z",
+      "content": "CEO of cybersecurity firm charged with installing malware on hospital systems\r\n | JPCERT warns of DslogdRAT malware deployed in Ivanti Connect Secure\r\n | SAP NetWeaver zero-day allegedly exploited by… [+158481 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -407,19 +472,6 @@
     {
       "source": {
         "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Vertical Form-Fill-Seal (VFFS) Machines Market to Strike USD 5.32 Bn by 2034 | says Packaging Experts",
-      "description": "According to Towards Packaging Consultants, the vertical form-fill-seal (VFFS) machines market size stood at USD 2.78 billion in 2024 and is predicted to exceed USD 5.32 billion by 2034, experiencing a CAGR of 6.75% from 2024 to 2034. According to Towards Pac…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/24/3067591/0/en/Vertical-Form-Fill-Seal-VFFS-Machines-Market-to-Strike-USD-5-32-Bn-by-2034-says-Packaging-Experts.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-24T14:00:00Z",
-      "content": "Ottawa, April 24, 2025 (GLOBE NEWSWIRE) -- The vertical form-fill-seal (VFFS) machines market size to record USD 2.97 billion in 2025 and is projected to grow beyond USD 5.32 billion by 2034, a study… [+16814 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Plos.org"
       },
       "author": "Kareem Hatam-Nahavandi, Ehsan Ahmadpour, Milad Badri, Aida Vafae Eslahi, Davood Anvari, David Carmena, Lihua Xiao",
@@ -429,6 +481,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013021.g006&size=inline",
       "publishedAt": "2025-04-24T14:00:00Z",
       "content": "Introduction\r\nGiardia is a cosmopolitan enteric protozoan parasite that infects various vertebrate hosts, including mammals [1]. An estimated 280 million symptomatic human cases of giardiasis occur w… [+51193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Vertical Form-Fill-Seal (VFFS) Machines Market to Strike USD 5.32 Bn by 2034 | says Packaging Experts",
+      "description": "According to Towards Packaging Consultants, the vertical form-fill-seal (VFFS) machines market size stood at USD 2.78 billion in 2024 and is predicted to exceed USD 5.32 billion by 2034, experiencing a CAGR of 6.75% from 2024 to 2034. According to Towards Pac…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/24/3067591/0/en/Vertical-Form-Fill-Seal-VFFS-Machines-Market-to-Strike-USD-5-32-Bn-by-2034-says-Packaging-Experts.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-04-24T14:00:00Z",
+      "content": "Ottawa, April 24, 2025 (GLOBE NEWSWIRE) -- The vertical form-fill-seal (VFFS) machines market size to record USD 2.97 billion in 2025 and is projected to grow beyond USD 5.32 billion by 2034, a study… [+16814 chars]"
     },
     {
       "source": {
@@ -1222,71 +1287,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/oilspill.jpg",
       "publishedAt": "2025-04-22T13:00:03Z",
       "content": "Using spill-treating agents to clean up oil spills does not significantly hinder naturally occurring oil biodegradation, according to a new study. The research, published in Applied and Environmental… [+4248 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "fastcompany.com",
-      "title": "Mushrooms sold at retailers nationwide are being recalled due to Listeria contamination fears",
-      "description": "The U.S. Food and Drug Administration (FDA) has published a recall notice that warns consumers to dispose of a certain brand of mushrooms, which have the potential to be contaminated with Listeria monocytogenes, a potentially deadly bacterium. Here’s what you…",
-      "url": "https://biztoc.com/x/c4bb970ad85b88a2",
-      "urlToImage": "https://biztoc.com/cdn/c4bb970ad85b88a2_s.webp",
-      "publishedAt": "2025-04-22T12:59:55Z",
-      "content": "The U.S. Food and Drug Administration (FDA) has published a recall notice that warns consumers to dispose of a certain brand of mushrooms, which have the potential to be contaminated with Listeria mo… [+143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Anna Turns, Senior Environment Editor, The Conversation, Patrick Byrne, Professor of Water Science, Liverpool John Moores University",
-      "title": "Toxic chemical pollution continues on Isle of Man as government defends Unesco conservation status",
-      "description": "Biosphere status is ‘not a hallmark of perfection’, says island administration.",
-      "url": "https://theconversation.com/toxic-chemical-pollution-continues-on-isle-of-man-as-government-defends-unesco-conservation-status-236547",
-      "urlToImage": "https://images.theconversation.com/files/639584/original/file-20241218-16-qtqlwm.jpg?ixlib=rb-4.1.0&rect=18%2C543%2C4007%2C2003&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-04-22T12:41:53Z",
-      "content": "Peel Bay on the Isle of Man. MrsBain/Shutterstock\r\nThe Isle of Man government has said it is “fully committed to environmental protection and transparency” regarding its Unesco biosphere status – des… [+15976 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "GlobeNewswire",
-      "title": "Raw Honey at Least as Safe as Pasteurized Honey",
-      "description": "Wendell Estate Honey contests the common misconception that pasteurized honey is safer than raw honey MACNUTT, Saskatchewan, April 22, 2025 (GLOBE NEWSWIRE) — “Pasteurized” has become synonymous with “food safety”. However, pasteurization of honey has never b…",
-      "url": "https://financialpost.com/globe-newswire/raw-honey-at-least-as-safe-as-pasteurized-honey",
-      "urlToImage": null,
-      "publishedAt": "2025-04-22T12:34:55Z",
-      "content": "While bacteria cannot grow in raw honey, one species of bacteria, Clostridium botulinum can avoid being completely eradicated by the potent anti-bacterial properties of raw honey by going into a hard… [+3626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Abilene city, Texas, takes systems offline following a cyberattack",
-      "description": "Abilene, Texas, shut down systems after a cyberattack caused server issues. IT staff and experts are investigating the security incident. Abilene, Texas, shut down systems after a cyberattack caused server issues. The incident occurred on April 18, 2025, emer…",
-      "url": "https://securityaffairs.com/176793/hacking/abilene-city-texas-takes-systems-offline-following-a-cyberattack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/10/bind-DNS-Server-Attacks.jpg",
-      "publishedAt": "2025-04-22T08:45:14Z",
-      "content": "Japan s FSA warns of unauthorized trades via stolen credentials from fake security firms' sites\r\n | Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan\r\n | New sophistica… [+157375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Japan ’s FSA warns of unauthorized trades via stolen credentials from fake security firms’ sites",
-      "description": "Japan ’s Financial Services Agency (FSA) warns of hundreds of millions in unauthorized trades linked to hacked brokerage accounts. Japan ’s Financial Services Agency (FSA) reported that the damage caused by unauthorized access to and transactions on internet …",
-      "url": "https://securityaffairs.com/176776/hacking/japan-s-financial-services-agency-warns-of-unauthorized-trades.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/10/japan.jpg",
-      "publishedAt": "2025-04-22T08:06:04Z",
-      "content": "Japan s FSA warns of unauthorized trades via stolen credentials from fake security firms' sites\r\n | Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan\r\n | New sophistica… [+157375 chars]"
     }
   ],
   "totalResults": 99,
