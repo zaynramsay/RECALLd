@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-28T12:57:11.277Z",
+  "lastUpdated": "2025-04-28T18:33:08.381Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Why that stomach pain might be your body’s final warning",
+      "description": "The burning, gnawing sensation that strikes in the upper abdomen often gets dismissed as ordinary indigestion or heartburn. Yet for millions of Americans, this pain signals something more serious: peptic ulcers. These painful sores develop in the lining of th…",
+      "url": "https://rollingout.com/2025/04/27/stomach-pain-might-be-your-bodys-warning/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/02/shutterstock_2216627235.jpg",
+      "publishedAt": "2025-04-27T15:49:36Z",
+      "content": "Despite their commonality, peptic ulcers remain widely misunderstood. Many people still believe these painful erosions stem primarily from stress or spicy foods. While these factors may worsen sympto… [+14711 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Storm-1977 targets education sector with password spraying, Microsoft warns",
+      "description": "Microsoft warns that threat actor Storm-1977 is behind password spraying attacks against cloud tenants in the education sector. Over the past year, Microsoft Threat Intelligence researchers observed a threat actor, tracked as Storm-1977, using AzureChecker.ex…",
+      "url": "https://securityaffairs.com/177067/hacking/storm-1977-targets-education-sector-with-password-spraying-microsoft-warns.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-51.png",
+      "publishedAt": "2025-04-27T13:12:34Z",
+      "content": "Storm-1977 targets education sector with password spraying, Microsoft warns\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 43\r\n | Security Affairs newsletter Round 521 by Pierluigi Paganini INTERNATIO… [+158768 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -468,6 +494,19 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-47.png",
       "publishedAt": "2025-04-25T10:49:11Z",
       "content": "Operation SyncHole: Lazarus APT targets supply chains in South Korea\r\n | Interlock ransomware gang started leaking data allegedly stolen from leading kidney dialysis firm DaVita\r\n | Yale New Haven He… [+158252 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The BMJ"
+      },
+      "author": "Douine, M., Lambert, Y., Plessis, L., Bardon, T., Adenis, A., Nacher, M., Suarez-Mutis, M., Vreden, S., Mathieu, O., Sanna, A.",
+      "title": "A cross-sectional study assessing mercury exposure and poisoning among workers in informal gold mines in French Guiana",
+      "description": "Objectives Informal gold mining represents a major source of mercury pollution worldwide. People involved in informal gold mining in French Guiana are mainly migrants from Brazil and represent an exposed, mobile and hard-to-reach population. This study assess…",
+      "url": "https://bmjopen.bmj.com/content/15/4/e094535",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2025-04-25T09:56:47Z",
+      "content": "Introduction\r\nMercury is one of the four main heavy metals impacting human health, along with lead, cadmium and arsenic. It has been used for thousands of years to treat dental caries and, later, syp… [+4933 chars]"
     },
     {
       "source": {
@@ -1235,45 +1274,6 @@
       "urlToImage": "https://addicted2success.com/wp-content/uploads/2025/04/How-Workplace-Toxins-Are-Quietly-Hurting-Employee-Performance-1.png",
       "publishedAt": "2025-04-22T21:00:27Z",
       "content": "Some of us may view sustainability as a buzzword. In the US, environmental risks have become a more legitimate concern than ever. Business leaders cannot afford to sideline them. It doesnt matter whe… [+6838 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Millions of SK Telecom customers are potentially at risk following USIM data compromise",
-      "description": "SK Telecom warned that threat actors accessed customer Universal Subscriber Identity Module (USIM) info through a malware attack. SK Telecom is South Korea’s largest wireless telecom company, a major player in the country’s mobile and tech landscape. It holds…",
-      "url": "https://securityaffairs.com/176802/data-breach/sk-telecom-data-breach.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-38.png",
-      "publishedAt": "2025-04-22T20:37:47Z",
-      "content": "Millions of SK Telecom customers are potentially at risk following USIM data compromise\r\n | Japan s FSA warns of unauthorized trades via stolen credentials from fake security firms' sites\r\n | Kimsuky… [+157467 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox News",
-      "title": "Public health alert issued for budget-friendly Mexican meal: ‘Should be thrown away’",
-      "description": "Officials believe that 'equipment damage' may have contaminated carnitas.",
-      "url": "https://nypost.com/2025/04/22/lifestyle/public-health-alert-issued-for-budget-friendly-mexican-meal-should-be-thrown-away/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/103113697.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-04-22T20:14:25Z",
-      "content": "The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) recently announced a public health alert over a Mexican-inspired pork product sold at Aldi supermarkets nationwide.\r\nThe… [+2194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wokv.com"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Public health alert: Pork carnitas sold at Aldi recalled for foreign material contamination",
-      "description": "The United States Department of Agriculture’s Food Safety and Inspection Service announced a public health alert concerning pork carnitas sold at Aldi stores have been recalled because the products could be contaminated with a foreign material.",
-      "url": "https://www.wokv.com/news/trending/public-health-alert-pork-carnitas-sold-aldi-recalled-foreign-material-contamination/MWFI2QDWRFHRDITSJIJVUVLIHM/",
-      "urlToImage": "https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFJW36GCCXVHXDLTILP6M4RJ7QE.jpg?auth=85f43619286fa9d1c2d1b294e734e63adee96da4ea78602da4e59e083e88a6dc&width=1200&height=630&smart=true",
-      "publishedAt": "2025-04-22T18:49:13Z",
-      "content": "The United States Department of Agricultures Food Safety and Inspection Service announced a public health alert concerning pork carnitas sold at Aldi stores have been recalled because the products co… [+932 chars]"
     }
   ],
   "totalResults": 98,
