@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-04-27T18:29:32.323Z",
+  "lastUpdated": "2025-04-28T01:58:22.755Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "More Than 170,000 Bottles of This Popular Apple Juice Were Just Recalled in 28 States - Food & Wine",
+      "description": "More Than 170,000 Bottles of This Popular Apple Juice Were Just Recalled in 28 StatesFood & Wine More than 170,000 bottles of Martinelli's Apple Juice recalled over toxic substance worryUSA Today FDA Announces Recall of Apple Juice in 28 States Due to Potenti…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=177164159",
+      "urlToImage": null,
+      "publishedAt": "2025-04-27T01:32:46Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Jonathan Limehouse, USA TODAY",
+      "title": "More than 170,000 bottles of Martinelli's Apple Juice recalled over toxic substance worry",
+      "description": "More than 7,000 cases of Martinelli's Apple Juice were recalled due to concerns of patulin contamination.",
+      "url": "https://www.usatoday.com/story/money/food/2025/04/26/martinellis-apple-juice-recall-fda/83301015007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ytxn.oEE2pGSbhsl78WdoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/usa_today_money_325/7d35ca523fc112fcc6750c6f4da84cc7",
+      "publishedAt": "2025-04-27T00:05:43Z",
+      "content": "More than 7,000 cases (over 170,000 bottles) of apple juice were voluntarily recalled by S Martinelli &amp; Company over concerns of patulin contamination, a toxic substance produced by certain molds… [+1782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox News",
+      "title": "Apple juice recalled across 28 states over fears toxic substance contaminated batch",
+      "description": "Martinelli's, famous for its glass-bottled apple juices, has begun recalling certain products, according to the Food and Drug Administration (FDA).",
+      "url": "https://nypost.com/2025/04/26/lifestyle/apple-juice-recalled-in-28-states-due-to-toxic-substance-fda-says/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/2020-view-small-round-glass-103364938.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-04-26T20:19:29Z",
+      "content": "There are some bad apples out there and they may be in your pantry.\r\nMartinelli’s, famous for its glass-bottled apple juices, has begun recalling certain products, according to the Food and Drug Admi… [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "African multinational telco giant MTN Group disclosed a data breach",
+      "description": "African multinational telecommunications company MTN Group disclosed a data breach that exposed subscribers’ personal information. MTN Group Limited is a South African multinational telecommunications company headquartered in Johannesburg. Founded in 1994, it…",
+      "url": "https://securityaffairs.com/177037/security/african-multinational-telco-giant-mtn-disclosed-a-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-50.png",
+      "publishedAt": "2025-04-26T19:13:17Z",
+      "content": "African multinational telco giant MTN Group disclosed a data breach\r\n | CEO of cybersecurity firm charged with installing malware on hospital systems\r\n | JPCERT warns of DslogdRAT malware deployed in… [+158553 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -155,7 +207,7 @@
       "url": "https://www.health.com/recall-roundup-apple-juice-coffee-creamer-11721544",
       "urlToImage": "https://www.health.com/thmb/nfgtg5eNSEAEcJdy-5rOjx_VAFE=/8000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1221124797-857cf3ae1fa3483db9b2b31a80489318.jpg",
       "publishedAt": "2025-04-25T22:06:12Z",
-      "content": "There were five major recalls this week, affecting a variety of foods and brands.\r\nMartinelli's apple juice was given the second-highest risk level for patulin contamination, and enoki mushrooms were�� [+5079 chars]"
+      "content": "There were five major recalls this week, affecting a variety of foods and brands.\r\nMartinelli's apple juice was given the second-highest risk level for patulin contamination, and enoki mushrooms were… [+5079 chars]"
     },
     {
       "source": {
@@ -1222,58 +1274,6 @@
       "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFJW36GCCXVHXDLTILP6M4RJ7QE.jpg?auth=85f43619286fa9d1c2d1b294e734e63adee96da4ea78602da4e59e083e88a6dc&width=1200&height=630&smart=true",
       "publishedAt": "2025-04-22T16:35:10Z",
       "content": "The United States Department of Agricultures Food Safety and Inspection Service announced a public health alert concerning pork carnitas sold at Aldi stores have been recalled because the products co… [+932 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Roanoke Times"
-      },
-      "author": "JENNIFER McDERMOTT Associated Press",
-      "title": "Your clothes are shedding plastic. Here's what people are doing about it this Earth Day",
-      "description": "Plastic is everywhere — yet some people might be surprised at how much they actually wear.",
-      "url": "https://roanoke.com/news/nation-world/science/article_2b22b19b-818e-5f2b-bc98-bef6e59c7af6.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/2/b2/2b22b19b-818e-5f2b-bc98-bef6e59c7af6/6807c0d666d24.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-04-22T15:48:00Z",
-      "content": "Is bottled water really \"natural\" if it's contaminated with microplastics? A series of lawsuits recently filed against six bottled water brands claim that it's deceptive to use labels like \"100 perce… [+8203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Richmond.com"
-      },
-      "author": "JENNIFER McDERMOTT Associated Press",
-      "title": "Your clothes are shedding plastic. Here's what people are doing about it this Earth Day",
-      "description": "Plastic is everywhere — yet some people might be surprised at how much they actually wear.",
-      "url": "https://richmond.com/news/nation-world/science/article_30c5d0b4-df0d-5b3e-8d4d-fcf77001dfb7.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/0c/30c5d0b4-df0d-5b3e-8d4d-fcf77001dfb7/6807c0d5380b2.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-04-22T15:48:00Z",
-      "content": "Is bottled water really \"natural\" if it's contaminated with microplastics? A series of lawsuits recently filed against six bottled water brands claim that it's deceptive to use labels like \"100 perce… [+8203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Hive"
-      },
-      "author": "Isabelle Docto",
-      "title": "Loblaws says groceries are about to get more expensive in Canada again",
-      "description": "Shoppers can expect to see grocery prices continue to rise in Canada amid U.S. President Donald Trump's tariffs, according to a new report by Loblaw Companies Limited.The retailer, which owns major grocery chains like Loblaws, No Frills and Real Canadian Supe…",
-      "url": "https://dailyhive.com/canada/tariffs-canada-loblaw-higher-grocery-prices#google_vignette",
-      "urlToImage": "https://display.blogto.com/articles/20250422-grocery-prices-canada-0.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "publishedAt": "2025-04-22T15:37:38Z",
-      "content": "Shoppers can expect to see grocery prices continue to rise in Canada amid U.S. President Donald Trump's tariffs, according to a new report by Loblaw Companies Limited.\r\nThe retailer, which owns major… [+4294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Hive"
-      },
-      "author": "Irish Mae Silvestre",
-      "title": "Canada-wide recall issued for frozen pastries due to potentially deadly pathogen",
-      "description": "A nationwide recall has been issued for several types of frozen pastries due to possible salmonella contamination.According to the Canadian Food Inspection Agency (CFIA), Importations Piu Che Dolci Inc. is recalling products under the brands Sweet Cream and D…",
-      "url": "https://dailyhive.com/toronto/recall-frozen-pastries-salmonella",
-      "urlToImage": "https://display.blogto.com/articles/20250422-frozen-pastry-recall-canada.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "publishedAt": "2025-04-22T15:28:02Z",
-      "content": "A nationwide recall has been issued for several types of frozen pastries due to possible salmonella contamination.\r\nAccording to the Canadian Food Inspection Agency (CFIA), Importations Piu Che Dolci… [+2697 chars]"
     }
   ],
   "totalResults": 98,
