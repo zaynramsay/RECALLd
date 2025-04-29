@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-04-29T01:55:52.458Z",
+  "lastUpdated": "2025-04-29T06:34:05.611Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Rye: The forgotten supergrain that can upgrade your diet",
+      "description": "Rye has been cultivated for nearly 2,000 years, thriving in cold, wet climates (e.g., Eastern Europe and Scandinavia) where other grains struggle. Packed with fiber, B vitamins (B1, B2, B3, B6, folate), minerals (iron, magnesium, zinc) and antioxidants, rye s…",
+      "url": "https://www.naturalnews.com/2025-04-28-rye-a-superfood-for-health-and-wellness.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Rye-2.jpg",
+      "publishedAt": "2025-04-28T06:00:00Z",
+      "content": "<ul><li>Rye has been cultivated for nearly 2,000 years, thriving in cold, wet climates (e.g., Eastern Europe and Scandinavia) where other grains struggle.</li><li>Packed with fiber, B vitamins (B1, B… [+6410 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ANIRUDDHA GHOSAL Associated Press, HAU DINH Associated Press",
+      "title": "The Vietnam War ended 50 years ago, but the battle with Agent Orange continues",
+      "description": "The Vietnam War ended 50 years ago but the disaster unleashed by American use of Agent Orange continues unabated",
+      "url": "https://abcnews.go.com/Health/wireStory/vietnam-war-ended-50-years-ago-battle-agent-121226428",
+      "urlToImage": "https://i.abcnewsfe.com/a/7a91c458-eed2-4dba-a07d-46a78cb1682c/wirestory_0829caefe48cc11fb88ab27982da922b_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-28T02:32:24Z",
+      "content": "DA NANG, Vietnam -- The Vietnam War ended on April 30, 1975, when the South Vietnamese capital of Saigon fell to Communist forces. But millions of people still face daily battles with its chemical le… [+8022 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -740,7 +766,7 @@
       "url": "https://securityaffairs.com/176917/cyber-crime/crooks-exploit-the-death-of-pope-francis.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/Pope-Francis.jpg",
       "publishedAt": "2025-04-24T12:11:58Z",
-      "content": "Crooks exploit the death of Pope Francis\r\n | WhatsApp introduces Advanced Chat Privacy to protect sensitive communications\r\n | Android spyware hidden in mapping software targets Russian soldiers\r\n | … [+157994 chars]"
+      "content": "Crooks exploit the death of Pope Francis\r\n | WhatsApp introduces Advanced Chat Privacy to protect sensitive communications\r\n | Android spyware hidden in mapping software targets Russian soldiers\r\n |��… [+157994 chars]"
     },
     {
       "source": {
@@ -1235,32 +1261,6 @@
       "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFJW36GCCXVHXDLTILP6M4RJ7QE.jpg?auth=85f43619286fa9d1c2d1b294e734e63adee96da4ea78602da4e59e083e88a6dc&width=1200&height=630&smart=true",
       "publishedAt": "2025-04-23T00:17:42Z",
       "content": "The United States Department of Agricultures Food Safety and Inspection Service announced a public health alert concerning pork carnitas sold at Aldi stores have been recalled because the products co… [+932 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Elifesciences.org"
-      },
-      "author": "vwtfang@hotmail.com (Cheng Sun), vwtfang@hotmail.com (Hui Shi), vwtfang@hotmail.com (Jing Chen), vwtfang@hotmail.com (Liucheng Wu), vwtfang@hotmail.com (Meichen Zhang), vwtfang@hotmail.com (Qianqian Ju), vwtfang@hotmail.com (Wenjing Sheng), vwtfang@hotmail.com (Wentao Fang), vwtfang@hotmail.com (Xiaoyu Liu)",
-      "title": "TAK1-mediated phosphorylation of PLCE1 represses PIP2 hydrolysis to impede esophageal squamous cancer metastasis",
-      "description": "TAK1 is a serine/threonine protein kinase that is a key regulator in a wide variety of cellular processes. However, the functions and mechanisms involved in cancer metastasis are still not well understood. Here, we found that TAK1 knockdown promoted esophagea…",
-      "url": "https://elifesciences.org/articles/97373",
-      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
-      "publishedAt": "2025-04-23T00:00:00Z",
-      "content": "Antibodies, inhibitors, and growth factors\r\nThe following antibodies were used: rabbit polyclonal anti-PLCE1 (#PA5-100856; Invitrogen, Carlsbad, CA, USA). Rabbit monoclonal antibodies against TAK1 (#… [+15572 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "My Patriot Supply",
-      "title": "My Patriot Supply Under Review: Most Trusted Self-Reliance Products & Emergency Preparedness Survival Supplies by MyPatriotSupply.com",
-      "description": "Trusted by Millions: My Patriot Supply Delivers Long-Term Food, Water, and Power Solutions to Help Americans Stay Safe, Secure, and Self-Reliant During Any Emergency Trusted by Millions: My Patriot Supply Delivers Long-Term Food, Water, and Power Solutions to…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/22/3066015/0/en/My-Patriot-Supply-Under-Review-Most-Trusted-Self-Reliance-Products-Emergency-Preparedness-Survival-Supplies-by-MyPatriotSupply-com.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a3277210-4b81-4b57-99ea-be47bb9ed26a",
-      "publishedAt": "2025-04-22T23:51:00Z",
-      "content": "New York City, April 22, 2025 (GLOBE NEWSWIRE) -- \r\nIntroduction\r\nWhy Emergency Preparedness Is No Longer Optional\r\nIn todays uncertain world, the need for self-reliance has become more than just a p… [+59017 chars]"
     }
   ],
   "totalResults": 97,
