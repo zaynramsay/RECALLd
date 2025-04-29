@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-04-28T18:33:08.381Z",
+  "lastUpdated": "2025-04-29T01:55:52.458Z",
   "articles": [
     {
       "source": {
@@ -693,19 +693,6 @@
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kareem Hatam-Nahavandi, Ehsan Ahmadpour, Milad Badri, Aida Vafae Eslahi, Davood Anvari, David Carmena, Lihua Xiao",
-      "title": "Global prevalence of Giardia infection in nonhuman mammalian hosts: A systematic review and meta-analysis of five million animals",
-      "description": "Author summary Giardia is a ubiquitous protozoan parasite that causes gastrointestinal illness, known as giardiasis, in both humans and animals. To understand how common this infection is among nonhuman mammals worldwide, we reviewed studies published from 19…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013021",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013021.g006&size=inline",
-      "publishedAt": "2025-04-24T14:00:00Z",
-      "content": "Introduction\r\nGiardia is a cosmopolitan enteric protozoan parasite that infects various vertebrate hosts, including mammals [1]. An estimated 280 million symptomatic human cases of giardiasis occur w… [+51193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Precedence Research",
@@ -715,6 +702,19 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
       "publishedAt": "2025-04-24T14:00:00Z",
       "content": "Ottawa, April 24, 2025 (GLOBE NEWSWIRE) -- The vertical form-fill-seal (VFFS) machines market size to record USD 2.97 billion in 2025 and is projected to grow beyond USD 5.32 billion by 2034, a study… [+16814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kareem Hatam-Nahavandi, Ehsan Ahmadpour, Milad Badri, Aida Vafae Eslahi, Davood Anvari, David Carmena, Lihua Xiao",
+      "title": "Global prevalence of Giardia infection in nonhuman mammalian hosts: A systematic review and meta-analysis of five million animals",
+      "description": "Author summary Giardia is a ubiquitous protozoan parasite that causes gastrointestinal illness, known as giardiasis, in both humans and animals. To understand how common this infection is among nonhuman mammals worldwide, we reviewed studies published from 19…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013021",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013021.g006&size=inline",
+      "publishedAt": "2025-04-24T14:00:00Z",
+      "content": "Introduction\r\nGiardia is a cosmopolitan enteric protozoan parasite that infects various vertebrate hosts, including mammals [1]. An estimated 280 million symptomatic human cases of giardiasis occur w… [+51193 chars]"
     },
     {
       "source": {
@@ -1261,21 +1261,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/a3277210-4b81-4b57-99ea-be47bb9ed26a",
       "publishedAt": "2025-04-22T23:51:00Z",
       "content": "New York City, April 22, 2025 (GLOBE NEWSWIRE) -- \r\nIntroduction\r\nWhy Emergency Preparedness Is No Longer Optional\r\nIn todays uncertain world, the need for self-reliance has become more than just a p… [+59017 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Addicted2success.com"
-      },
-      "author": "Addicted2Success Editor",
-      "title": "How Workplace Toxins Are Quietly Hurting Employee Performance",
-      "description": "Many modern organizations dabble in hazardous substances that can directly impact employee health\nThe post How Workplace Toxins Are Quietly Hurting Employee Performance appeared first on Addicted 2 Success.",
-      "url": "https://addicted2success.com/entrepreneur-profile/how-workplace-toxins-are-quietly-hurting-employee-performance/",
-      "urlToImage": "https://addicted2success.com/wp-content/uploads/2025/04/How-Workplace-Toxins-Are-Quietly-Hurting-Employee-Performance-1.png",
-      "publishedAt": "2025-04-22T21:00:27Z",
-      "content": "Some of us may view sustainability as a buzzword. In the US, environmental risks have become a more legitimate concern than ever. Business leaders cannot afford to sideline them. It doesnt matter whe… [+6838 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 97,
   "filteredCount": 0
 }
