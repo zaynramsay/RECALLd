@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-04-29T06:34:05.611Z",
+  "lastUpdated": "2025-04-29T12:51:56.447Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Pamela McElwee, Professor of Human Ecology, Rutgers University",
+      "title": "50 years later, Vietnam’s environment still bears the scars of war – and signals a dark future for Gaza and Ukraine",
+      "description": "Harmful dioxins in Agent Orange, used to strip forests of their leaves, still linger in soil. Restoration work has been slow, and upheaval at USAID may slow it more.",
+      "url": "https://theconversation.com/50-years-later-vietnams-environment-still-bears-the-scars-of-war-and-signals-a-dark-future-for-gaza-and-ukraine-254971",
+      "urlToImage": "https://images.theconversation.com/files/664083/original/file-20250425-56-g887pc.jpg?ixlib=rb-4.1.0&rect=0%2C287%2C3000%2C1495&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-04-28T12:38:07Z",
+      "content": "During the Vietnam War, the U.S. bombed and defoliated vast areas of forest and protective mangroves. AP Photo\r\nWhen the Vietnam War finally ended on April 30, 1975, it left behind a landscape scarre… [+10503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A large-scale phishing campaign targets WordPress WooCommerce users",
+      "description": "A large-scale phishing campaign targets WordPress WooCommerce users with a fake security alert urging them to download a ‘critical patch’ hiding a backdoor. Patchstack researchers uncovered a large-scale phishing campaign targeting WordPress WooCommerce users…",
+      "url": "https://securityaffairs.com/177115/hacking/a-large-scale-phishing-campaign-targets-wordpress-woocommerce-users.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-54.png",
+      "publishedAt": "2025-04-28T11:43:54Z",
+      "content": "A large-scale phishing campaign targets WordPress WooCommerce users\r\n | PoC rootkit Curing evades traditional Linux detection systems\r\n | Attackers chained Craft CMS zero-days attacks in the wild\r\n |… [+158969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Madelaine Panganiban",
+      "title": "Grain Millers Recalls 63,000 Pounds of Oats Due to Plastic Risk, FDA Says",
+      "description": "Grain Millers recalled 63,000 pounds of oats due to plastic contamination risk, according to the FDA.",
+      "url": "https://www.ibtimes.com/grain-millers-recalls-63000-pounds-oats-due-plastic-risk-fda-says-3771656",
+      "urlToImage": "https://d.ibtimes.com/en/full/4597247/grain-millers-recalls-63000-pounds-oats-due-plastic.jpg",
+      "publishedAt": "2025-04-28T10:51:36Z",
+      "content": "Grain Millers, one of the largest oat processors in North America, is recalling more than 63,000 pounds of oats because they might be contaminated with plastic, according to the Food and Drug Adminis… [+1809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theepochtimes.com"
+      },
+      "author": "Jennifer Sweenie",
+      "title": "Decoding Baby Formula: How U.S. and European Standards Compare",
+      "description": "From nutrients to labeling laws, understanding what sets U.S. and European infant formulas apart can help parents make more informed choices.",
+      "url": "https://www.theepochtimes.com/health/decoding-baby-formula-how-u-s-and-european-standards-compare-5841404",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2025/04/26/id5847969-baby-formula-1080x720.jpg",
+      "publishedAt": "2025-04-28T10:08:34Z",
+      "content": "From the moment Jesss infant son transitioned from breastfeeding to baby formula, feeding became a source of distressfor both mom and baby. Every bottle of any U.S.-made brand seemed to trigger a bou… [+14700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "PoC rootkit Curing evades traditional Linux detection systems",
+      "description": "Researchers created a PoC rootkit called Curing that uses Linux’s io_uring feature to evade traditional system call monitoring. Armo researchers have demonstrated a proof-of-concept (PoC) rootkit named Curing that relies on Linux asynchronous I/O mechanism io…",
+      "url": "https://securityaffairs.com/177098/hacking/poc-rootkit-curing-evades-traditional-linux-detection-systems.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/11/Linux-ransomware-encoder1.jpg",
+      "publishedAt": "2025-04-28T09:38:36Z",
+      "content": "PoC rootkit Curing evades traditional Linux detection systems\r\n | Attackers chained Craft CMS zero-days attacks in the wild\r\n | Storm-1977 targets education sector with password spraying, Microsoft w… [+158897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Attackers chained Craft CMS zero-days attacks in the wild",
+      "description": "Orange Cyberdefense’s CSIRT reported that threat actors exploited two vulnerabilities in Craft CMS to breach servers and steal data. Orange Cyberdefense’s CSIRT warns that threat actors chained two Craft CMS vulnerabilities in recent attacks. Orange experts d…",
+      "url": "https://securityaffairs.com/177085/hacking/attackers-chained-craft-cms-zero-days-attacks-in-the-wild.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-52.png",
+      "publishedAt": "2025-04-28T08:34:17Z",
+      "content": "Attackers chained Craft CMS zero-days attacks in the wild\r\n | Storm-1977 targets education sector with password spraying, Microsoft warns\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 43\r\n | Security… [+158831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sciencebasedmedicine.org"
+      },
+      "author": "David Gorski",
+      "title": "Hello measles, my old friend: The return of previously vanquished vaccine-preventable diseases",
+      "description": "A study published last week suggests that, if vaccine uptake continues to decline, measles will soon be endemic again in the US. It's just part of how RFK Jr. is making America sicker again.\nThe post Hello measles, my old friend: The return of previously vanq…",
+      "url": "https://sciencebasedmedicine.org/hello-measles-my-old-friend-the-return-of-previously-vanquished-vaccine-preventable-diseases/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/04/Measles.jpg",
+      "publishedAt": "2025-04-28T07:00:00Z",
+      "content": "When a country puts an antivaxxer and supporter of quackery whose worldview with respect to medicine and biomedical science is as utterly divorced from science and reality as that of longtime antivax… [+30269 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -766,7 +857,7 @@
       "url": "https://securityaffairs.com/176917/cyber-crime/crooks-exploit-the-death-of-pope-francis.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/Pope-Francis.jpg",
       "publishedAt": "2025-04-24T12:11:58Z",
-      "content": "Crooks exploit the death of Pope Francis\r\n | WhatsApp introduces Advanced Chat Privacy to protect sensitive communications\r\n | Android spyware hidden in mapping software targets Russian soldiers\r\n |��… [+157994 chars]"
+      "content": "Crooks exploit the death of Pope Francis\r\n | WhatsApp introduces Advanced Chat Privacy to protect sensitive communications\r\n | Android spyware hidden in mapping software targets Russian soldiers\r\n | … [+157994 chars]"
     },
     {
       "source": {
@@ -1170,97 +1261,6 @@
       "urlToImage": "https://ahouseinthehills.com/wp-content/uploads/2025/04/tung-oil-on-pine.png",
       "publishedAt": "2025-04-23T06:30:26Z",
       "content": "Looking to make your pine wood look better and last longer? Tung oil is a popular choice, but applying it correctly can be tricky if you’re unsure of the process.\r\nThis blog will guide you through ev… [+9258 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blogdoxbox.com"
-      },
-      "author": "admin",
-      "title": "Travel Vaccinations for the Everest Base Camp Trek",
-      "description": "1 ViewsIs your health going to be ok for the Everest Base Camp trek? You are exposed to unique environmental and health risks when trekking in the Himalayas, so getting the correct travel vaccinations is vital ahead of your trip. Vaccinations help protect aga…",
-      "url": "https://blogdoxbox.com/travel-vaccinations-for-the-everest-base-camp-trek/",
-      "urlToImage": null,
-      "publishedAt": "2025-04-23T06:05:19Z",
-      "content": "Is your health going to be ok for the Everest BaseCamp trek? You are exposed to unique environmental and health risks when trekking in the Himalayas, so getting the correct travelvaccinations is vita… [+19961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Amaranth: The ancient superfood revolutionizing modern nutrition",
-      "description": "A gluten-free pseudocereal cultivated by the Aztecs and Incas, amaranth is rich in protein, fiber and essential minerals like iron, calcium and magnesium. Amaranth’s high lysine content supports muscle repair, while its antioxidants help combat inflammation. …",
-      "url": "https://www.naturalnews.com/2025-04-23-amaranth-ancient-superfood-revolutionizing-modern-nutrition.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/amaranth-1112988_960_720.jpg",
-      "publishedAt": "2025-04-23T06:00:00Z",
-      "content": "<ul><li>A gluten-free pseudocereal cultivated by the Aztecs and Incas, amaranth is rich in protein, fiber and essential minerals like iron, calcium and magnesium.</li><li>Amaranth's high lysine conte… [+6229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Cassie B.",
-      "title": "Nationwide enoki mushroom recall highlights broader food safety concerns",
-      "description": "Harvest NYC Inc. recalls 200-gram enoki mushroom packages due to potential Listeria contamination. Recalled products were distributed between January 11 and January 31 and tested positive for Listeria in Buffalo, New York. Listeria can cause severe infections…",
-      "url": "https://www.naturalnews.com/2025-04-23-nationwide-enoki-mushroom-recall-food-safety.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Enoki-Asian-Background-Black-Closeup-Cooking-Enokitake.jpg",
-      "publishedAt": "2025-04-23T06:00:00Z",
-      "content": "<ul><li>Harvest NYC Inc. recalls 200-gram enoki mushroom packages due to potential Listeria contamination.</li><li>Recalled products were distributed between January 11 and January 31 and tested posi… [+5347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Zoey Sky",
-      "title": "Preparing for the unexpected: Tips for building an apartment emergency kit",
-      "description": "Emergency preparedness is crucial for apartment dwellers as they face unique risks such as power outages, fires, earthquakes and structural damage that can disrupt utilities. A tailored survival kit addresses these challenges while fitting into limited space.…",
-      "url": "https://www.naturalnews.com/2025-04-23-preparing-unexpected-tips-building-apartment-emergency-kit.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Emergency-Preparedness-Checklist-1.jpg",
-      "publishedAt": "2025-04-23T06:00:00Z",
-      "content": "<ul><li>Emergency preparedness is crucial for apartment dwellers as they face unique risks such as power outages, fires, earthquakes and structural damage that can disrupt utilities.</li><li>A tailor… [+9306 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Willow Tohi",
-      "title": "Legacy of danger: DDT persistence in Canadian trout reveals long-term environmental neglect",
-      "description": "Decades after its ban, DDT was found in New Brunswick’s brook trout at concentrations over ten times higher than Canada’s wildlife safety guidelines, with levels reaching up to 140 ng/g in muscle tissue. The study, published in PLOS ONE, reveals that 50% of a…",
-      "url": "https://www.naturalnews.com/2025-04-23-ddt-persistence-canadian-trout-long-term-environmental-neglect.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Trout-Fish-Swarm-School.jpg",
-      "publishedAt": "2025-04-23T06:00:00Z",
-      "content": "<ul><li>Decades after its ban, DDT was found in New Brunswicks brook trout at concentrations over ten times higher than Canadas wildlife safety guidelines, with levels reaching up to 140 ng/g in musc… [+5764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thefreedictionary.com"
-      },
-      "author": null,
-      "title": "Celiac Disease",
-      "description": "Celiac disease is a digestive disorder in which gluten—a protein found in wheat and other flours—generates an inflammatory response in the small intestine, damaging tissue and impairing nutrient absorption. A lifelong gluten-free diet is the only effective wa…",
-      "url": "https://encyclopedia.thefreedictionary.com/celiac+disease",
-      "urlToImage": "http://img.tfd.com/TFDlogo1200x1200.png",
-      "publishedAt": "2025-04-23T04:10:21Z",
-      "content": "Coeliac disease or celiac disease is a long-term autoimmune disorder that primarily affects the small intestine.[10] Classic symptoms include gastrointestinal problems such as chronic diarrhoea, abdo… [+99999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Public health alert: Pork carnitas sold at Aldi recalled for foreign material contamination",
-      "description": "The United States Department of Agriculture’s Food Safety and Inspection Service announced a public health alert concerning pork carnitas sold at Aldi stores have been recalled because the products could be contaminated with a foreign material.",
-      "url": "https://www.wsbtv.com/news/trending/public-health-alert-pork-carnitas-sold-aldi-recalled-foreign-material-contamination/MWFI2QDWRFHRDITSJIJVUVLIHM/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFJW36GCCXVHXDLTILP6M4RJ7QE.jpg?auth=85f43619286fa9d1c2d1b294e734e63adee96da4ea78602da4e59e083e88a6dc&width=1200&height=630&smart=true",
-      "publishedAt": "2025-04-23T00:17:42Z",
-      "content": "The United States Department of Agricultures Food Safety and Inspection Service announced a public health alert concerning pork carnitas sold at Aldi stores have been recalled because the products co… [+932 chars]"
     }
   ],
   "totalResults": 97,
