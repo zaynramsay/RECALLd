@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-04-30T06:33:41.125Z",
+  "lastUpdated": "2025-04-30T12:48:01.244Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Google Threat Intelligence Group (GTIG) tracked 75 actively exploited zero-day flaws in 2024",
+      "description": "Google tracked 75 zero-day flaws exploited in 2024, down from 98 in 2023, according to its Threat Intelligence Group’s latest analysis. In 2024, Google tracked 75 exploited zero-day vulnerabilities, down from 98 in 2023 but up from 63 in 2022. The researchers…",
+      "url": "https://securityaffairs.com/177180/hacking/google-threat-intelligence-group-gtig-tracked-75-actively-exploited-zero-day-flaws-in-2024.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-57.png",
+      "publishedAt": "2025-04-29T12:25:23Z",
+      "content": "Google Threat Intelligence Group (GTIG) tracked 75 actively exploited zero-day flaws in 2024\r\n | VeriSource data breach impacted 4M individuals\r\n | U.S. CISA adds Qualitia Active! Mail, Broadcom Broc… [+159451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AquaSculpt",
+      "title": "Aqua Sculpt Reviews Consumer Reports (BREAKING) Shocking Complaints And Honest Customer Reviews Reported!",
+      "description": "TAMPA, Fla., April 29, 2025 (GLOBE NEWSWIRE) -- Aqua Sculpt is a fat-burning formula that targets metabolic activity compromised due to mitochondrial inefficiency. The supplement claims to address the root cause of cellular decline, fatigue, and cognitive dys…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/29/3070174/0/en/Aqua-Sculpt-Reviews-Consumer-Reports-BREAKING-Shocking-Complaints-And-Honest-Customer-Reviews-Reported.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/712211fc-9308-4418-96ef-155dbf25f4a3",
+      "publishedAt": "2025-04-29T12:01:00Z",
+      "content": "TAMPA, Fla., April 29, 2025 (GLOBE NEWSWIRE) -- Aqua Sculpt is a fat-burning formula that targets metabolic activity compromised due to mitochondrial inefficiency. The supplement claims to address th… [+21826 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "5 Underrated Kitchen Hygiene Rules To Use A Chopping Board Safely",
+      "description": "Did you know, the chopping board in your kitchen can be the source of food contamination? Here are some safety practices you must follow.",
+      "url": "https://food.ndtv.com/how-to/5-underrated-kitchen-hygiene-rules-to-use-a-chopping-board-safely-8286153",
+      "urlToImage": "https://c.ndtvimg.com/2025-04/i0fgg1u8_chopping-board_625x300_29_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2025-04-29T10:57:10Z",
+      "content": "You might think it is just a flat surface for cutting up vegetables, but honestly, the chopping board is one of the most overlooked tools in any kitchen. What people often miss is that even the simpl… [+3978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "VeriSource data breach impacted 4M individuals",
+      "description": "VeriSource breach exposed data of 4M people in Feb 2024; stolen info includes personal details from an employee benefits services provider. VeriSource is alerting 4 million people after a February 2024 breach that exposed personal information. The data was st…",
+      "url": "https://securityaffairs.com/177172/data-breach/verisource-services-inc-data-breach.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2013/04/DataBreach.jpg",
+      "publishedAt": "2025-04-29T10:13:33Z",
+      "content": "VeriSource data breach impacted 4M individuals\r\n | U.S. CISA adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog\r\n | … [+159354 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Can Coatings Market Size to Ascend USD 816.70 Bn by 2034 | Towards Packaging Insights",
+      "description": "According to Towards Packaging, the can coatings market size stood at USD 500 billion in 2024 and is predicted to exceed USD 816.70 billion by 2034, experiencing a CAGR of 5.05% from 2024 to 2034. According to Towards Packaging, the can coatings market size s…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/29/3069886/0/en/Can-Coatings-Market-Size-to-Ascend-USD-816-70-Bn-by-2034-Towards-Packaging-Insights.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-04-29T08:00:00Z",
+      "content": "Ottawa, April 29, 2025 (GLOBE NEWSWIRE) -- The can coatings market size to record USD 525.25 billion in 2025 and is projected to grow beyond USD 816.70 billion by 2034, a study published by Towards P… [+18806 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Over 170 students affected in two food poisoning outbreaks under Indonesia’s free meal programme",
+      "description": "Cases involving food distributed under the free nutritious meal programme were also reported in various regions across Indonesia, including Cianjur, the Bombana regency in Southeast Sulawesi and Batang in Central Java.",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-free-nutritious-meal-programme-food-poisoning-cianjur-5096526",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--y4DQKR3N--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/indonesia_food_33430.jpg?itok=HNNkUe7Z",
+      "publishedAt": "2025-04-29T07:49:55Z",
+      "content": "JAKARTA: Authorities are probing two cases of food poisoning outbreaks that have affected over 170 students under Indonesia's ambitious free nutritious meal programme, the latest of at least six know… [+2422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA…",
+      "url": "https://securityaffairs.com/177161/hacking/u-s-cisa-adds-qualitia-active-mail-broadcom-brocade-fabric-os-and-commvault-web-server-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-04-29T07:17:43Z",
+      "content": "U.S. CISA adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog\r\n | The Turmoil Following BreachForums Shutdown: Confus… [+159303 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1131,125 +1222,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/675cc714-52f5-4b82-a830-0d9cbaf9c73a",
       "publishedAt": "2025-04-24T07:47:00Z",
       "content": "KEARNY, N.J., April 24, 2025 (GLOBE NEWSWIRE) -- Hi, Today, I will be sharing my honest experience with Tivano Titanium Cutting Board, A Titanium based Cutting Board that is trending in the United St… [+21441 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "PTI",
-      "title": "Tamil Nadu government prohibits production, storage and sale of mayonnaise for one year",
-      "description": "It has come to the notice that number of food business operators use raw egg for preparation of mayonnaise, improper preparation and storage facilitates contamination by microorganisms which creates public health risk",
-      "url": "https://www.thehindubusinessline.com/news/national/tamil-nadu-government-prohibits-production-storage-and-sale-of-mayonnaise-for-one-year/article69485808.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/fd1m5z/article69485836.ece/alternates/LANDSCAPE_1200/IMG_mayonnaise_2_1_R2DHBBHS.jpg",
-      "publishedAt": "2025-04-24T07:28:34Z",
-      "content": "Tamil Nadu government has prohibited the manufacture, packaging and sale of Mayonnaise prepared from raw egg throughout the state for a year owing to its high risk of food poisoning.\r\nThe ban, which … [+1133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "S.D. Wells",
-      "title": "GOT ADULTERATED MILK? Synthetic âmilkâ products contain SHOCKING ingredients you wonât believe",
-      "description": "Got synthetic milk? What is that white stuff you and your kids are drinking? Is it contaminated with adulterated chemicals, byproducts and fungicide? Does this translate to all things conventional dairy being “fake” and toxic, including ice cream, sour cream,…",
-      "url": "https://www.naturalnews.com/2025-04-24-synthetic-milk-products-contain-shocking-ingredients.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Woman-Buy-Milk-Supermarket-Label-Ingredients.jpg",
-      "publishedAt": "2025-04-24T06:00:00Z",
-      "content": "Got synthetic milk? What is that white stuff you and your kids are drinking? Is it contaminated with adulterated chemicals, byproducts and fungicide? Does this translate to all things conventional da… [+4867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Willow Tohi",
-      "title": "Big Ag exploits RFK Jr.âs organic advocacy to push unregulated GMO “biologicals”",
-      "description": "Global agribusiness giants like Bayer and Syngenta are repackaging genetically modified (GM) “biologicals” as eco-friendly solutions, capitalizing on Robert F. Kennedy Jr.’s organic farming advocacy while sidestepping safety reviews. These engineered microbes…",
-      "url": "https://www.naturalnews.com/2025-04-24-big-ag-exploits-rfkjr-organic-advocacy.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Corn-Crops-Field-Farm.jpg",
-      "publishedAt": "2025-04-24T06:00:00Z",
-      "content": "<ul><li>Global agribusiness giants like Bayer and Syngenta are repackaging genetically modified (GM) biologicals as eco-friendly solutions, capitalizing on Robert F. Kennedy Jr.s organic farming advo… [+5758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Android spyware hidden in mapping software targets Russian soldiers",
-      "description": "A new Android spyware was discovered in a fake Alpine Quest app, reportedly used by Russian soldiers for war zone planning. Doctor Web researchers uncovered a new spyware, tracked as Android.Spy.1292.origin, targeting Russian military personnel. The malicious…",
-      "url": "https://securityaffairs.com/176886/malware/android-spyware-hidden-in-mapping-software-targets-russian-soldiers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-43.png",
-      "publishedAt": "2025-04-24T05:28:53Z",
-      "content": "Android spyware hidden in mapping software targets Russian soldiers\r\n | Crypto mining campaign targets Docker environments with new evasion technique\r\n | The popular xrpl.js Ripple cryptocurrency lib… [+157867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "author": "Bartosz Brzeziński",
-      "title": "European wines face alarming ‘forever chemical’ contamination, new study finds",
-      "description": "From Austria to Spain, not a single wine tested came back clean, exposing the reach of ultra-persistent chemicals in Europe’s food chain.",
-      "url": "https://www.politico.eu/article/europes-wine-faces-alarming-forever-chemical-contamination-new-study-finds/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/04/23/9468089-scaled.jpg",
-      "publishedAt": "2025-04-24T02:29:00Z",
-      "content": "Wine production is among the heaviest users of pesticides in European agriculture, particularly fungicides, making vineyards a likely hotspot for chemical accumulation. Grapes are especially vulnerab… [+1934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Khabarhub.com"
-      },
-      "author": "Khabarhub",
-      "title": "Economic Digest: Nepal’s Business News in a Snap",
-      "description": "KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s current economic and governance landscape reflects a mix of market volatility, structural ref…",
-      "url": "https://english.khabarhub.com/2025/24/460660/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest.jpg",
-      "publishedAt": "2025-04-24T02:15:16Z",
-      "content": "KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries.\r\nNepals current economic and governance l… [+10801 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "ABC News",
-      "title": "Meat off the menu for Norwegian athletes in China over doping fears",
-      "description": "Norwegian athletes are advised against eating any kind of meat while in China due to the risk of contamination and failed dope tests ahead of two major events due in the country next month.",
-      "url": "https://www.abc.net.au/news/2025-04-24/meat-off-menu-for-norwegian-athletes-in-china-over-doping-fears/105210038",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3b76780e9c376b2ad39093353e9b1592?impolicy=wcms_watermark_news&cropH=2028&cropW=3606&xPos=0&yPos=233&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-04-24T01:00:11Z",
-      "content": "Norwegian athletes have been advised by the organisation responsible for training the country's elite competitors not to eat any type of meat while competing in China due to fears it could cause a po… [+1975 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "University of Southern California",
-      "title": "Q&A: Why planetary health is the first step to a sustainable future",
-      "description": "Andrew Lakoff studies how experts—in areas from public health to the environment to security—generate knowledge about and plan for an uncertain future. Trained as an anthropologist of science and medicine, Lakoff is a professor of sociology and anthropology a…",
-      "url": "https://phys.org/news/2025-04-qa-planetary-health-sustainable-future.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/green-earth.jpg",
-      "publishedAt": "2025-04-23T21:08:05Z",
-      "content": "Andrew Lakoff studies how expertsin areas from public health to the environment to securitygenerate knowledge about and plan for an uncertain future. Trained as an anthropologist of science and medic… [+5147 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
-      "title": "[Latest] Global Plastic Pallet Market Size/Share Worth USD 13,591 Million by 2034 at a 89% CAGR: Business Research Industry (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-      "description": "[220+ Pages Latest Report] According to a market research study published by Business Research Industry, the demand analysis of Global Plastic Pallet Market size & share revenue was valued at approximately USD 7,600 Million in 2024 and is expected to reach US…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/23/3066931/0/en/Latest-Global-Plastic-Pallet-Market-Size-Share-Worth-USD-13-591-Million-by-2034-at-a-89-CAGR-Business-Research-Industry-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
-      "publishedAt": "2025-04-23T20:30:00Z",
-      "content": "Austin, TX, USA, April 24, 2025 (GLOBE NEWSWIRE) -- Business Research Industry has published a new research report titled Plastic Pallet Market Size, Trends and Insights By Material (High-Density Pol… [+25178 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 94,
   "filteredCount": 0
 }
