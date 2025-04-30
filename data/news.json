@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-04-30T01:55:36.943Z",
+  "lastUpdated": "2025-04-30T06:33:41.125Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "Jenna Anderson",
+      "title": "FDA Suspends Key Milk Safety Program—What This Means For You",
+      "description": "The FDA has paused a quality control program for milk and dairy products. Food safety experts are concerned, but they say our milk is still safe to consume. Here's what you need to know.",
+      "url": "https://www.health.com/fda-suspends-milk-quality-testing-11721352",
+      "urlToImage": "https://www.health.com/thmb/AXBS4zvTfcfl9aaPvIrYZ7jXEBg=/7000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1493895795-fde3832f1d0f418f9d520fbf6d6d22e6.jpg",
+      "publishedAt": "2025-04-29T02:41:51Z",
+      "content": "The Food and Drug Administration has paused a quality control program for testing milk and other dairy products, Reuters reported on Monday.\r\n The media outlet obtained an internal email from the FDA… [+5166 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -372,7 +385,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Security Affairs newsletter Round 521 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. African multin��",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. African multin…",
       "url": "https://securityaffairs.com/177050/breaking-news/security-affairs-newsletter-round-521-by-pierluigi-paganini-international-edition.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
       "publishedAt": "2025-04-27T08:38:56Z",
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
       "publishedAt": "2025-04-23T20:30:00Z",
       "content": "Austin, TX, USA, April 24, 2025 (GLOBE NEWSWIRE) -- Business Research Industry has published a new research report titled Plastic Pallet Market Size, Trends and Insights By Material (High-Density Pol… [+25178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Crypto mining campaign targets Docker environments with new evasion technique",
-      "description": "New malware campaign targets Docker environments using unknown methods to secretly mine cryptocurrency, researchers warn. Researchers from Darktrace and Cado Security have spotted a malware campaign that targets Docker environments with a novel technique to m…",
-      "url": "https://securityaffairs.com/176877/malware/crypto-mining-campaign-targets-docker-environments-with-new-evasion-technique.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-41.png",
-      "publishedAt": "2025-04-23T18:15:48Z",
-      "content": "Crypto mining campaign targets Docker environments with new evasion technique\r\n | The popular xrpl.js Ripple cryptocurrency library was compromised in a supply chain attack\r\n | British retailer giant… [+157795 chars]"
     }
   ],
   "totalResults": 96,
