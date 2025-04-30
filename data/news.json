@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-04-29T18:31:42.123Z",
+  "lastUpdated": "2025-04-30T01:55:36.943Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Study Finds",
+      "title": "Scientists Create 3D-Printed Calamari With More Protein Than Real Squid",
+      "description": "In a nutshell * Scientists successfully 3D printed plant-based calamari rings using mung bean protein and microalgae, creating a seafood alternative that closely matches real squid in texture and even surpasses it in protein content. * The 10% microalgae form…",
+      "url": "https://freerepublic.com/focus/f-chat/4313880/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-04-29T01:07:02Z",
+      "content": "Skip to comments.\r\nScientists Create 3D-Printed Calamari With More Protein Than Real SquidStudy Finds ^\r\n | April 28, 2025\r\n | Poornima Vijayan and Dejian Huang, National University of Singapore\r\nPos… [+12057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "GlycoBoost",
+      "title": "GlycoBoost Under Review: Advanced True Balance Blood Sugar Support Capsules for Men & Women",
+      "description": "Explore How GlycoBoost’s Advanced Plant-Based Formula Naturally Supports Blood Sugar Balance, Energy, and Metabolic Health for Modern Wellness Needs Explore How GlycoBoost’s Advanced Plant-Based Formula Naturally Supports Blood Sugar Balance, Energy, and Meta…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/29/3069780/0/en/GlycoBoost-Under-Review-Advanced-True-Balance-Blood-Sugar-Support-Capsules-for-Men-Women.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/16c12b0d-8bd0-4e7d-b58a-6c6a48376cb9",
+      "publishedAt": "2025-04-29T00:11:00Z",
+      "content": "New York, April 28, 2025 (GLOBE NEWSWIRE) -- \r\nIn This Article, Youll Discover:\r\n<ul><li>The real causes behind modern blood sugar imbalances and why they are more common today</li><li>How GlycoBoost… [+74450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "The FDA just walked away from dairy safety testing",
+      "description": "The Food and Drug Administration recently announced a temporary suspension of its quality control program for testing milk and other dairy products. This unexpected pause comes during significant staffing transitions within the Department of Health and Human …",
+      "url": "https://rollingout.com/2025/04/28/the-fda-walked-from-dairy-safety-testing/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/07/shutterstock_2186128561.jpg",
+      "publishedAt": "2025-04-28T20:49:13Z",
+      "content": "The Food and Drug Administration recently announced a temporary suspension of its quality control program for testing milk and other dairy products. This unexpected pause comes during significant sta… [+9647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "The Turmoil Following BreachForums Shutdown: Confusion, Risks, and a New Beginning",
+      "description": "BreachForums, a major data leak marketplace, shut down on April 15 after a MyBB 0-day exploit allowed law enforcement infiltration. On April 15, BreachForums, one of the top marketplaces for stolen data, abruptly shut down, fueling widespread speculation. Rum…",
+      "url": "https://securityaffairs.com/177146/hacking/the-turmoil-following-breachforums-shutdown-confusion-risks-and-a-new-beginning.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/10/image-29.png",
+      "publishedAt": "2025-04-28T20:48:56Z",
+      "content": "The Turmoil Following BreachForums Shutdown: Confusion, Risks, and a New Beginning\r\n | Earth Kurma APT is actively targeting government and telecommunications orgs in Southeast Asia\r\n | A large-scale… [+159155 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "author": "PYMNTS",
+      "title": "Amazon-Backed Glacier Raises $16 Million for AI-Powered Recycling Robots",
+      "description": "Glacier has raised $16 million in a Series A funding round to scale its artificial intelligence (AI)-powered recycling robots across the U.S. The company’s robots are used at recycling centers in major markets like San Francisco, Los Angeles, Chicago, Detroit…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2025/amazon-backed-glacier-raises-16-million-for-ai-powered-recycling-robots/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/04/Glacier-recycling-1.jpg",
+      "publishedAt": "2025-04-28T19:55:28Z",
+      "content": "Glacier has raised $16 million in a Series A funding round to scale its artificial intelligence (AI)-powered recycling robots across the U.S.\r\nThe companys robots are used at recycling centers in maj… [+2373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Earth Kurma APT is actively targeting government and telecommunications orgs in Southeast Asia",
+      "description": "Earth Kurma APT carried out a sophisticated campaign against government and telecommunications sectors in Southeast Asia. Trend Research exposed the Earth Kurma APT campaign targeting Southeast Asia’s government and telecom sectors. Threat actors use custom m…",
+      "url": "https://securityaffairs.com/177125/apt/earth-kurma-apt-is-actively-targeting-government-and-telecommunications-orgs-in-southeast-asia.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-56.png",
+      "publishedAt": "2025-04-28T19:44:41Z",
+      "content": "Earth Kurma APT is actively targeting government and telecommunications orgs in Southeast Asia\r\n | A large-scale phishing campaign targets WordPress WooCommerce users\r\n | PoC rootkit Curing evades tr… [+159068 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -294,7 +372,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Security Affairs newsletter Round 521 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. African multin…",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. African multin��",
       "url": "https://securityaffairs.com/177050/breaking-news/security-affairs-newsletter-round-521-by-pierluigi-paganini-international-edition.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
       "publishedAt": "2025-04-27T08:38:56Z",
@@ -1170,84 +1248,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-41.png",
       "publishedAt": "2025-04-23T18:15:48Z",
       "content": "Crypto mining campaign targets Docker environments with new evasion technique\r\n | The popular xrpl.js Ripple cryptocurrency library was compromised in a supply chain attack\r\n | British retailer giant… [+157795 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Todd Karpovich",
-      "title": "What is listeria? Things to know about the bacteria and how to prevent infection.",
-      "description": "At least two listeria cases in the Baltimore area have been tied to ice cream. Learn how to prevent infection, spot symptoms and seek treatment.",
-      "url": "https://www.bostonherald.com/2025/04/23/listeria-what-to-know/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/04/US-NEWS-MED-LISTERIA-EXPLAINER-DMT.jpg?w=1024&h=611",
-      "publishedAt": "2025-04-23T17:44:10Z",
-      "content": "At least two cases of listeria have been linked to ice cream in the Baltimore metro area, prompting health and safety concerns.\r\nListeria is a bacterium that can contaminate food and cause serious, s… [+5634 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "Jenna Anderson",
-      "title": "E. Coli Outbreak in Lettuce Killed 1, Sickened Dozens—Why Didn't the FDA Say Anything?",
-      "description": "An NBC News investigation found that there was a deadly E. coli outbreak linked to romaine lettuce at the end of 2024, but the FDA never notified the public about it. Here's why the FDA didn't say anything, and what you can do to stay safe from foodborne illn…",
-      "url": "https://www.health.com/e-coli-outbreak-lettuce-fda-11718035",
-      "urlToImage": "https://www.health.com/thmb/7T8IYMoJ_VTUa2mzHqgmrlvinx8=/6720x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1143817829-f2606f04d447448db986074f94e9fd90.jpg",
-      "publishedAt": "2025-04-23T16:46:38Z",
-      "content": "A deadly E. coli outbreak linked to contaminated romaine lettuce ripped across the U.S. near the end of 2024but the Food and Drug Administration never informed the public about it.\r\nThats what a new … [+6862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Scientists have found a way to 'tattoo' tardigrades",
-      "description": "If you haven't heard of a tardigrade before, prepare to be wowed. These clumsy, eight-legged creatures, nicknamed water bears, are about half a millimeter long and can survive practically anything: freezing temperatures, near starvation, high pressure, radiat…",
-      "url": "https://www.sciencedaily.com/releases/2025/04/250423112030.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-04-23T15:20:30Z",
-      "content": "If you haven't heard of a tardigrade before, prepare to be wowed. These clumsy, eight-legged creatures, nicknamed water bears, are about half a millimeter long and can survive practically anything: f… [+3327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBC Bay Area"
-      },
-      "author": "NBC Bay Area staff",
-      "title": "Health inspectors shut down Whole Foods in Cupertino",
-      "description": "A troubled Whole Foods Market store in the South Bay has been shut down by county health inspectors over food safety violations.",
-      "url": "https://www.nbcbayarea.com/news/local/inspectors-shut-down-whole-foods/3850973/",
-      "urlToImage": "https://media.nbcbayarea.com/2025/04/Whole-Foods-shuts-down-bakery-and-deli-in-Cupertino-e1745417240297.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2025-04-23T14:26:45Z",
-      "content": "A troubled Whole Foods Market store in the South Bay has been shut down by county health inspectors over food safety violations.\r\nThe store at 20955 Stevens Creek Blvd. in Cupertino, which had parts … [+1507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Alaa H. Sewid, Joseph H. Ramos, Haley C. Dylewski, Gillian I. Castro, Doris H. D’Souza, Shigetoshi Eda",
-      "title": "Colorimetric dual DNAzyme reaction triggered by loop-mediated isothermal amplification for the visual detection of Shiga toxin-producing Escherichia coli in food matrices",
-      "description": "Shiga toxin-producing Escherichia coli (STEC) is causing outbreaks worldwide and a rapid detection method is urgently needed. Loop-mediated isothermal amplification (LAMP) has attracted attention in the development of pathogen detection methods; however, curr…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320393",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320393.g011&size=inline",
-      "publishedAt": "2025-04-23T14:00:00Z",
-      "content": "Citation: Sewid AH, Ramos JH, Dylewski HC, Castro GI, DSouza DH, Eda S (2025) Colorimetric dual DNAzyme reaction triggered by loop-mediated isothermal amplification for the visual detection of Shiga … [+47349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Food Storage Container Market Size to Culminate USD 247.29 Bn by 2034 | Expert Analysis",
-      "description": "According to Towards Packaging Experts, the food storage container market size stood at USD 160 billion in 2024 and is predicted to exceed USD 247.29 billion by 2034, experiencing a CAGR of 4.60% from 2024 to 2034. According to Towards Packaging Experts, the …",
-      "url": "https://www.globenewswire.com/news-release/2025/04/23/3066538/0/en/Food-Storage-Container-Market-Size-to-Culminate-USD-247-29-Bn-by-2034-Expert-Analysis.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-23T14:00:00Z",
-      "content": "Ottawa, April 23, 2025 (GLOBE NEWSWIRE) -- The food storage container market size to record USD 167.36 billion in 2025 and is projected to grow beyond USD 247.29 billion by 2034, a study published by… [+18729 chars]"
     }
   ],
   "totalResults": 96,
