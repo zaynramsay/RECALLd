@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-05-01T12:47:10.219Z",
+  "lastUpdated": "2025-05-01T18:32:32.506Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Black hearts at risk from common household plastics",
+      "description": "A disturbing link between common household plastics and thousands of heart disease deaths has emerged from recent research, with evidence suggesting Black communities face disproportionately higher risks. The findings reveal how chemical compounds in everyday…",
+      "url": "https://rollingout.com/2025/04/30/black-hearts-at-risk-from-house-plastics/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/01/microplastics.png",
+      "publishedAt": "2025-04-30T17:12:26Z",
+      "content": "A disturbing link between common household plastics and thousands of heart disease deaths has emerged from recent research, with evidence suggesting Black communities face disproportionately higher r… [+9877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Truthout"
+      },
+      "author": "Marjorie Cohn",
+      "title": "Vietnamese Agent Orange Victims Remain Uncompensated. Tlaib Aims to Change That.",
+      "description": "Vietnamese and US descendants of those exposed to Agent Orange continue to face diseases and congenital anomalies.",
+      "url": "https://truthout.org/articles/vietnamese-agent-orange-victims-remain-uncompensated-tlaib-aims-to-change-that/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/04/2025_0430-vietnam-tlaib.jpg",
+      "publishedAt": "2025-04-30T17:01:49Z",
+      "content": "Part of the Series\r\nToday marks 50 years since the end of the U.S. War in Vietnam, which killed an estimated 3.3 million Vietnamese people, hundreds of thousands of Cambodians, tens of thousands of L… [+12815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Liu Dilong; Zhao Weiwei",
+      "title": "Scientists develop innovative aerosol system to build asymmetric superstructures",
+      "description": "A research team has developed a novel aerosol-based emulsion system that enables the self-assembly of asymmetric nanostructures—something long considered a major challenge in materials science. The team includes researchers from the Hefei Institutes of Physic…",
+      "url": "https://phys.org/news/2025-04-scientists-aerosol-asymmetric-superstructures.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-develop-inn-1.jpg",
+      "publishedAt": "2025-04-30T16:28:03Z",
+      "content": "A research team has developed a novel aerosol-based emulsion system that enables the self-assembly of asymmetric nanostructuressomething long considered a major challenge in materials science. The te… [+2792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Monash University",
+      "title": "Experts urge caution on green nitrate fertilizer gains",
+      "description": "Monash University scientists are urging caution around recent claims of breakthroughs in green nitrate fertilizer production, warning there is more work to do before the concept is market-ready.",
+      "url": "https://phys.org/news/2025-04-experts-urge-caution-green-nitrate.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/experts-urge-caution-o-1.jpg",
+      "publishedAt": "2025-04-30T15:30:03Z",
+      "content": "Monash University scientists are urging caution around recent claims of breakthroughs in green nitrate fertilizer production, warning there is more work to do before the concept is market-ready.\r\nRes… [+3068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheBlaze"
+      },
+      "author": "Joseph Mackinnon",
+      "title": "Trump EPA takes aim at forever chemicals | Blaze Media",
+      "description": "The Trump admin appears interested in reducing chemicals in drinking water linked to cancer and developmental delays.",
+      "url": "https://www.theblaze.com/news/trump-epa-takes-aim-at-forever-chemicals",
+      "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=60061480&width=1200&height=600&coordinates=0%2C53%2C0%2C25",
+      "publishedAt": "2025-04-30T15:21:12Z",
+      "content": "The Trump administration appears serious about ridding American drinking water of \r\nper- and polyfluoroalkyl substances, also known as \"forever chemicals,\" and penalizing polluters.\r\nU.S. Environment… [+5907 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Dental Market Size Shows Strong Investment Potential with 11.84% CAGR by 2034",
+      "description": "According to Towards Healthcare insight, the global dental market size is calculated at USD 44.33 billion in 2025 and is expected to reach around USD 121.36 billion by 2034, growing at a CAGR of 11.84% for the forecasted period. According to Towards Healthcar…",
+      "url": "https://www.globenewswire.com/news-release/2025/04/30/3071521/0/en/Dental-Market-Size-Shows-Strong-Investment-Potential-with-11-84-CAGR-by-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-04-30T14:30:00Z",
+      "content": "Ottawa, April 30, 2025 (GLOBE NEWSWIRE) -- The global dental market size was valued at USD 39.64 billion in 2024 and is predicted to hit around USD 121.36 billion by 2034, a study published by Toward… [+12951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ayaka Fujishima, Kazumasa Takahashi, Mayumi Goto, Akiko Fujishima, Takeo Hirakawa, Takuya Iwasawa, Hiromitsu Shirasawa, Yukiyo Kumazawa, Yukihiro Terada",
+      "title": "Analysis of Na+ concentration patterns in trophectoderm cells of mouse blastocysts using a dual-wavelength electrolyte indicator",
+      "description": "The developmental process of the mammalian blastocyst involves the intricate interplay of cellular and molecular mechanisms, including electrolyte dynamics within the trophectoderm (TE). We hypothesized that sodium (Na+) is actively transported from the TE in…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322286",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0322286.g009&size=inline",
+      "publishedAt": "2025-04-30T14:00:00Z",
+      "content": "Abstract\r\nThe developmental process of the mammalian blastocyst involves the intricate interplay of cellular and molecular mechanisms, including electrolyte dynamics within the trophectoderm (TE). We… [+38518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "France links Russian APT28 to attacks on dozen French entities",
+      "description": "France blames Russia-linked APT28 for cyberattacks targeting or compromising a dozen French government bodies and other entities. The Russia-linked APT28 group has targeted or compromised a dozen government organizations and other French entities, the French …",
+      "url": "https://securityaffairs.com/177238/apt/france-links-russian-apt28-to-attacks-on-dozen-french-entities.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-60.png",
+      "publishedAt": "2025-04-30T13:58:30Z",
+      "content": "France links Russian APT28 to attacks on dozen French entities\r\n | Indian Court ordered to block email service Proton Mail\r\n | AirBorne flaws can lead to fully hijack Apple devices\r\n | U.S. CISA adds… [+159805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Indian Court ordered to block email service Proton Mail",
+      "description": "Indian Court ordered a nationwide block of the privacy-oriented email service Proton Mail on April 29, 2025, following a legal complaint. Proton Mail is a Swiss-based email service offering end-to-end encryption to ensure that only the sender and recipient ca…",
+      "url": "https://securityaffairs.com/177232/laws-and-regulations/indian-court-ordered-to-block-email-service-proton-mail.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/11/protonmail-DDoS.jpg",
+      "publishedAt": "2025-04-30T13:20:01Z",
+      "content": "Indian Court ordered to block email service Proton Mail\r\n | AirBorne flaws can lead to fully hijack Apple devices\r\n | U.S. CISA adds SAP NetWeaver flaw to its Known Exploited Vulnerabilities catalog\r… [+159738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foodpolitics.com"
+      },
+      "author": "Marion",
+      "title": "Bad news: USDA withdraws proposals for reducing Salmonella contamination of chicken",
+      "description": "The USDA announced last week that it is withdrawing its proposed framework for reducing Salmonella in raw poultry.  Oh great. Why? FSIS received 7,089 comments on the proposed framework…from a variety of stakeholders that included poultry and meat industry tr…",
+      "url": "https://www.foodpolitics.com/2025/04/bad-news-usda-withdraws-proposals-for-reducing-salmonella-contamination-of-chicken/",
+      "urlToImage": null,
+      "publishedAt": "2025-04-30T13:00:12Z",
+      "content": "The USDA announced last week that it is withdrawing its proposed framework for reducing Salmonella in raw poultry.  Oh great.\r\nWhy?\r\nFSIS received 7,089 comments on the proposed framework…from a vari… [+2667 chars]"
+    },
     {
       "source": {
         "id": "breitbart-news",
@@ -285,7 +415,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322234",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0322234.g006&size=inline",
       "publishedAt": "2025-04-29T14:00:00Z",
-      "content": "De novo transcriptome assembly\r\nSequencing of four libraries corresponding to the four developmental stages (Fig 1) of P. camtschaticuszoea I, zoea IV, glaucothoe, and juvenileresulted in a total of ��� [+25728 chars]"
+      "content": "De novo transcriptome assembly\r\nSequencing of four libraries corresponding to the four developmental stages (Fig 1) of P. camtschaticuszoea I, zoea IV, glaucothoe, and juvenileresulted in a total of … [+25728 chars]"
     },
     {
       "source": {
@@ -1079,136 +1209,6 @@
       "urlToImage": "https://www.health.com/thmb/nfgtg5eNSEAEcJdy-5rOjx_VAFE=/8000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1221124797-857cf3ae1fa3483db9b2b31a80489318.jpg",
       "publishedAt": "2025-04-25T22:06:12Z",
       "content": "There were five major recalls this week, affecting a variety of foods and brands.\r\nMartinelli's apple juice was given the second-highest risk level for patulin contamination, and enoki mushrooms were… [+5079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "thehill.com",
-      "title": "Apple juice distributed in 28 states recalled over potential contamination with toxic compound: FDA",
-      "description": "– More than 170,000 bottles of Martinelli’s apple juice have been recalled over potential contamination with patulin, according to the Food and Drug Administration (FDA).\nPatulin, a naturally occurring toxin classified as a “mycotoxin,” can be produced by dif…",
-      "url": "https://biztoc.com/x/cc80a54b9d5227c6",
-      "urlToImage": "https://biztoc.com/cdn/cc80a54b9d5227c6_s.webp",
-      "publishedAt": "2025-04-25T21:05:07Z",
-      "content": "More than 170,000 bottles of Martinellis apple juice have been recalled over potential contamination with patulin, according to the Food and Drug Administration (FDA).Patulin, a naturally occurring t… [+138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Esther Carlstone, Forbes Staff, \n Esther Carlstone, Forbes Staff\n https://www.forbes.com/sites/forbes-personal-shopper/people/esthercarlstone/",
-      "title": "The 8 Best Bottle Sterilizers To Save You Countless Hours Of Cleaning",
-      "description": "The best baby bottle sterilizers save parents time and thoroughly clean bottles and other baby accessories. Check out our top picks for 2025.",
-      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-bottle-sterilizer/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6809407d769dba6cf154239d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-04-25T19:19:52Z",
-      "content": "Whether youre breastfeeding, pumping, formula-feeding or combo feeding, hand-washing and boiling bottles and pump parts for what feels like hours upon hours on repeat is one of those chores every par… [+17846 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "JPCERT warns of DslogdRAT malware deployed in Ivanti Connect Secure",
-      "description": "Researchers identified a new malware, named DslogdRAT, deployed after exploiting a now-patched flaw in Ivanti Connect Secure (ICS). JPCERT/CC researchers reported that a new malware, dubbed DslogdRAT, and a web shell were deployed by exploiting a zero-day vul…",
-      "url": "https://securityaffairs.com/177002/malware/jpcert-warns-of-dslogdrat-malware-deployed-in-ivanti-connect-secure.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-48.png",
-      "publishedAt": "2025-04-25T17:56:11Z",
-      "content": "JPCERT warns of DslogdRAT malware deployed in Ivanti Connect Secure\r\n | SAP NetWeaver zero-day allegedly exploited by an initial access broker\r\n | Operation SyncHole: Lazarus APT targets supply chain… [+158399 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Advanced BioNutritionals",
-      "title": "Advanced BioNutritionals Under Review: Highly-Trusted Supplement Brand for Quality Products",
-      "description": "Explore the Doctor-Formulated, Science-Backed Supplements Trusted by Thousands—And See Why Advanced BioNutritionals Sets the Gold Standard in Wellness Transparency, Quality, and Results Explore the Doctor-Formulated, Science-Backed Supplements Trusted by Thou…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/25/3068557/0/en/Advanced-BioNutritionals-Under-Review-Highly-Trusted-Supplement-Brand-for-Quality-Products.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ff476a81-ffde-4ca9-9635-b16f19dfe25a",
-      "publishedAt": "2025-04-25T17:50:00Z",
-      "content": "New York City, April 25, 2025 (GLOBE NEWSWIRE) -- \r\nIn This Article, Youll Discover:\r\n<ul><li>The most common supplement-related health concerns people face today</li><li>Why supplement quality, form… [+42898 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yale.edu"
-      },
-      "author": null,
-      "title": "In the Midwest, Herbicide Drift Quietly Undermines Tree Health",
-      "description": "Researchers are starting to pay closer attention to the widespread damage wrought by agricultural herbicides. Drifting sprays may not kill trees, shrubs, and other nontarget plants outright, but experts believe they are making them vulnerable to insects, fung…",
-      "url": "https://e360.yale.edu/features/herbicides-trees",
-      "urlToImage": "https://yale-threesixty.transforms.svdcdn.com/production/Black-Oak-Herbicide_Flickr.jpg?w=1200&q=60&auto=format&fit=max&dm=1745604596&s=bd8169e308603e1282d242fb387d0a71",
-      "publishedAt": "2025-04-25T17:28:00Z",
-      "content": "Fifteen years ago, Roger Beadles began noticing that the leaves on his oaks didnt look right. They were small and curled. They turned yellow and spotted. In time, trees stopped producing acorns, and … [+12366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SAP NetWeaver zero-day allegedly exploited by an initial access broker",
-      "description": "A zero-day in SAP NetWeaver is potentially being exploited, putting thousands of internet-facing applications at risk. Researchers warn that a zero-day vulnerability, tracked as CVE-2025-31324 (CVSS score of 10/10), in SAP NetWeaver is potentially being explo…",
-      "url": "https://securityaffairs.com/176983/hacking/sap-netweaver-zero-day-allegedly-exploited-by-an-initial-access-broker.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/05/SAP-systems.gif",
-      "publishedAt": "2025-04-25T15:48:27Z",
-      "content": "SAP NetWeaver zero-day allegedly exploited by an initial access broker\r\n | Operation SyncHole: Lazarus APT targets supply chains in South Korea\r\n | Interlock ransomware gang started leaking data alle… [+158327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sporkful.com"
-      },
-      "author": "Shantel Holder",
-      "title": "Reheat: Jason Mantzoukas Sees Every Meal As A Threat",
-      "description": "Actor and comedian Jason Mantzoukas is known for playing characters that are overzealous, exuberant, and more than a little wacky. But these characters are the exact opposite of how Jason felt growing up — like a “boy made of glass.” Jason has a life-threaten…",
-      "url": "https://www.sporkful.com/reheat-jason-mantzoukas-sees-every-meal-as-a-threat/",
-      "urlToImage": "http://sporkful.s3.amazonaws.com/uploads/2022/04/18171517/jason-mantzoukas-crop-735x488.png",
-      "publishedAt": "2025-04-25T15:00:00Z",
-      "content": "Dan Pashman: This episode contains explicit language and mature content, and it's going to start just about as soon as the show begins, so I'm pausing here for a second. Maybe you're a parent in the … [+35096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Juice Recall Update As FDA Issues Highest Risk Warning for 12 States",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nJuice recalled over potential harmful bacteria contamination has been issued a Class I risk warning by the Food and Drug Administration (FDA).\nWalker's Wine Juice LLC of Forestville, New York, recalled its pum…",
-      "url": "https://biztoc.com/x/f6b2b04e5123e8b1",
-      "urlToImage": "https://biztoc.com/cdn/f6b2b04e5123e8b1_s.webp",
-      "publishedAt": "2025-04-25T14:16:12Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.Juice recalled over potential harmful bacteria contamination has been issued a Class I risk warning by the Food and Drug Administration (FDA).Walker's… [+145 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Juice Recall Update As FDA Issues Highest Risk Warning for 12 States",
-      "description": "Walker's Wine Juice LLC recalled its pumpkin juice in March due to possible contamination with Clostridium botulinum.",
-      "url": "https://www.newsweek.com/juice-recall-fda-issues-highest-risk-warning-walkers-wine-juice-12-states-2064121",
-      "urlToImage": "https://d.newsweek.com/en/full/2633246/juice-recall.png",
-      "publishedAt": "2025-04-25T14:12:50Z",
-      "content": "Juice recalled over potential harmful bacteria contamination has been issued a Class I risk warning by the Food and Drug Administration (FDA).\r\nWalker's Wine Juice LLC of Forestville, New York, recal… [+3360 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Oxygen Scavengers Market Size to Progress USD 4.20 Bn by 2034",
-      "description": "According to Towards Packaging Consultants, the global oxygen scavengers market size stood at USD 2.59 billion in 2024 and is predicted to exceed USD 4.20 billion by 2034, experiencing a CAGR of 5% from 2024 to 2034. According to Towards Packaging Consultants…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/25/3068378/0/en/Oxygen-Scavengers-Market-Size-to-Progress-USD-4-20-Bn-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-25T14:00:00Z",
-      "content": "Ottawa, April 25, 2025 (GLOBE NEWSWIRE) -- The global oxygen scavengers market size to record USD 2.72 billion in 2025 and is projected to grow beyond USD 4.20 billion by 2034, a study published by T… [+16247 chars]"
     }
   ],
   "totalResults": 93,
