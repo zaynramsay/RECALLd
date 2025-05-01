@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-04-30T18:32:51.035Z",
+  "lastUpdated": "2025-05-01T02:04:40.171Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds SAP NetWeaver flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SAP NetWeaver flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added SAP NetWeaver flaw, tracked as CVE-2025-31324, to its K…",
+      "url": "https://securityaffairs.com/177218/hacking/u-s-cisa-adds-sap-netweaver-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-04-30T00:05:43Z",
+      "content": "U.S. CISA adds SAP NetWeaver flaw to its Known Exploited Vulnerabilities catalog\r\n | SentinelOne warns of threat actors targeting its systems and high-value clients\r\n | Google Threat Intelligence Gro… [+159620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "How Safe Are Dryer Sheets?",
+      "description": "You probably don’t think twice before tossing a dryer sheet into your laundry. It’s just part of the routine. But here’s something you may not realize: those soft, scented sheets release hidden toxins into your home, your clothes and your body. They even dama…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/04/30/how-safe-are-dryer-sheets.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/April/FB/how-safe-are-dryer-sheets-fb.jpg",
+      "publishedAt": "2025-04-30T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Royal Society of Chemistry"
+      },
+      "author": "Navneet Kaur, Jagdev Singh, Neeta Raj Sharma, Simranpreet Kaur Natt, Anand Mohan, Tabarak Malik, Madhuri Girdhar",
+      "title": "Heavy Metal Contamination in Wastewater-Irrigated Vegetables: Assessing the Food Safety Challenges in Developing Asian Countries",
+      "description": "Environ. Sci.: Processes Impacts, 2025, Accepted ManuscriptDOI: 10.1039/D4EM00565A, Critical Review Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Navneet Kaur, Jagdev Singh, Neeta Raj Sharma…",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/em/d4em00565a",
+      "urlToImage": null,
+      "publishedAt": "2025-04-29T23:00:00Z",
+      "content": "Vegetables are crucial for human nutrition, providing essential micronutrients and beneficial compounds. Heavy metal contamination of vegetables irrigated with wastewater poses a significant public h… [+1735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Nicole Rosenthal",
+      "title": "Rats attack ritzy NYC block that’s home to doctors, professors — chewing up cars, trash bins and playgrounds: ‘Valley of the Rats’",
+      "description": "A vermin invasion has turned a ritzy Upper West Side block into “The Valley of the Rats.” Residents are said they’re afraid to venture out at night along the elite stretch — where doctors and professors live and boxing legend Floyd Mayweather owns more than a…",
+      "url": "https://nypost.com/2025/04/29/us-news/rats-attack-ritzy-nyc-block-thats-home-to-doctors-professors-chewing-up-cars-trash-bins-and-playgrounds-valley-of-the-rats/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/newspress-collage-4byrwclvh-1745873968362.jpg?quality=75&strip=all&1745859581&w=1024",
+      "publishedAt": "2025-04-29T22:24:18Z",
+      "content": "A vermin invasion has turned a ritzy Upper West Side block into “The Valley of the Rats.”\r\nResidents are said they’re afraid to venture out at night along the elite stretch — where doctors and profes… [+5562 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "The EPA says it still cares about forever chemicals, but health advocates are wary",
+      "description": "The Environmental Protection Agency (EPA) has a new plan to address “forever chemicals” once widely used in non-stick and water-proof products that have since been linked to cancer, reproductive health issues, and liver damage. The vague details the EPA has s…",
+      "url": "https://www.theverge.com/news/658244/forever-chemicals-pfas-drinking-water-standards-epa-trump",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/gettyimages-1243498521.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-29T20:47:18Z",
+      "content": "A geologist with the Illinois Environmental Protection Agency collects samples of treated Lake Michigan water in a laboratory at the water treatment plant in Wilmette, Illinois, on July 3, 2021. | Ph… [+4057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ben Cost",
+      "title": "Avoid these foods right now — the 10 ‘really risky’ items causing illness, according to Consumer Reports",
+      "description": "CR specifically examined the number of foodborne illnesses and deaths in 2024, the spread of the outbreaks and food recalls.",
+      "url": "https://nypost.com/2025/04/29/lifestyle/10-really-risky-foods-that-are-most-likely-to-cause-illness-per-consumer-reports/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/young-woman-carefully-chooses-eggs-103538271.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-04-29T19:59:50Z",
+      "content": "They’re a recipe for an abdominal apocalypse.\r\nWhile food poisoning can have many sources, certain foods can make mealtime seem like playing intestinal roulette.\r\nA new survey by Consumer Reports has… [+7211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SentinelOne warns of threat actors targeting its systems and high-value clients",
+      "description": "SentinelOne warns China-linked APT group PurpleHaze attempted reconnaissance on its systems and high-value clients. Cybersecurity firm SentinelOne warns that a China-linked APT group, tracked as PurpleHaze, attempted to conduct reconnaissance on its infrastru…",
+      "url": "https://securityaffairs.com/177205/security/sentinelone-warns-threat-actors-targeting-its-systems-and-high-value-clients.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-59.png",
+      "publishedAt": "2025-04-29T18:49:15Z",
+      "content": "SentinelOne warns of threat actors targeting its systems and high-value clients\r\n | Google Threat Intelligence Group (GTIG) tracked 75 actively exploited zero-day flaws in 2024\r\n | VeriSource data br… [+159535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehillstimes.in"
+      },
+      "author": "The Hills Times",
+      "title": "HRAEI hosts Food Safety Training Program in Guwahati",
+      "description": "HT BureauGUWAHATI, April 29: The Hotel and Restaurant Association of Eastern India (HRAEI) successfully conducted a Food Safety Training and Certification Program on Advanced Catering in Guwahati on Tuesday. The event, held at Vivanta Guwahati, brought togeth…",
+      "url": "https://thehillstimes.in/business/local-business/hraei-hosts-food-safety-training-program-in-guwahati",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/04/New-Project12-28.jpg",
+      "publishedAt": "2025-04-29T18:45:00Z",
+      "content": "HT BureauGUWAHATI, April 29: The Hotel and Restaurant Association of Eastern India (HRAEI) successfully conducted a Food Safety Training and Certification Program on Advanced Catering in Guwahati on … [+2531 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1118,110 +1222,6 @@
       "urlToImage": "https://survivalblog.com/wp-content/uploads/2022/09/Storage_Canned_Foods2.jpg",
       "publishedAt": "2025-04-24T18:58:16Z",
       "content": "Many of the articles in the SurvivalBlog discuss preparation for different survival situations. With that In mind, we all have to face the fact that we are aging and that at some point, we may decide… [+9683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ncspin.com"
-      },
-      "author": "by Peter Daniel",
-      "title": "Public health and financial risk: Why NC must reject the raw milk bill",
-      "description": "House Bill 609 may seem like a step toward agricultural freedom, but in reality, it is a risky proposition — both for consumers and farmers.",
-      "url": "https://www.ncspin.com/public-health-and-financial-risk-why-nc-must-reject-the-raw-milk-bill",
-      "urlToImage": "https://www.ncspin.com/content/images/1200x628/64c1ad63b4f93.jpg",
-      "publishedAt": "2025-04-24T18:24:30Z",
-      "content": "I’ll give the French credit for three things (and only three): wine, cheese, and Louis Pasteur. The man is directly responsible for saving millions of lives because he developed the rabies vaccine, t… [+3650 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Yale New Haven Health (YNHHS) data breach impacted 5.5 million patients",
-      "description": "Yale New Haven Health (YNHHS) announced that threat actors stole the personal data of 5.5 million patients in a cyberattack. Yale New Haven Health (YNHHS) disclosed a data breach that exposed personal information of 5.5 million patients following a cyberattac…",
-      "url": "https://securityaffairs.com/176937/data-breach/yale-new-haven-health-ynhhs-data-breach-impacted-5-5-million-patients.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/healthcare-MedicalData-breach.jpg",
-      "publishedAt": "2025-04-24T17:41:19Z",
-      "content": "Yale New Haven Health (YNHHS) data breach impacted 5.5 million patients\r\n | Crooks exploit the death of Pope Francis\r\n | WhatsApp introduces Advanced Chat Privacy to protect sensitive communications\r… [+158070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cdc.gov"
-      },
-      "author": "CDC",
-      "title": "Investigation of Lead and Chromium Exposure After Consumption of Contaminated Cinnamon-Containing Applesauce - United States, November 2023-April 2024",
-      "description": "This report describes reported cases of lead poisoning following the consumption of cinnamon-containing applesauce.",
-      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7414a2.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7414a2_LeadPoisoningAppleasuace_IMAGE_24April25_1200x675.png?_=19058",
-      "publishedAt": "2025-04-24T17:00:00Z",
-      "content": "Alyssa N. Troeschel, PhD1,*; Melanie C. Buser, MPH1,*; Andrea Winquist, MD, PhD1; Perri Ruckart, DrPH1; Michael Yeh, MD1; David Kuai, MD1; Arthur Chang, MD1; Audrey F. Pennington, PhD1; Jelonia T. Ru… [+34271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "emily.cooke@futurenet.com (Emily Cooke)",
-      "title": "Ancient DNA and modern genomes can reveal stories of past peoples, from the Iron Age to Chernobyl, geneticist says",
-      "description": "Ingrida Domarkienė, a geneticist at Vilnius University in Lithuania, discusses the exciting developments made possible by studying ancient and modern DNA.",
-      "url": "https://www.livescience.com/health/genetics/ancient-dna-and-modern-genomes-can-reveal-stories-of-past-peoples-from-the-iron-age-to-chernobyl-geneticist-says",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vW2FSxZpmycPwkuGPBsqmL.png",
-      "publishedAt": "2025-04-24T16:00:00Z",
-      "content": "Ingrida Domarkienė\r\n studies ancient DNA, weaving together fragments of genetic material from modern humans and our long-extinct human relatives to retell their stories.\r\nFrom a background in molecul… [+8547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Local3news.com"
-      },
-      "author": "Shay Patterson",
-      "title": "Cleveland Restaurant Fails Another Health Inspection",
-      "description": "Ok Maguey in Cleveland failed its health inspection again due to multiple violations, including cross-contamination, unlabeled food items, and improper food handling practices.",
-      "url": "https://www.local3news.com/local-news/cleveland-mexican-restaurant-fails-health-inspection-for-chicken-cross-contamination/article_878be70f-4f78-49a4-a6f6-db07cfa76c9e.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/8/78/878be70f-4f78-49a4-a6f6-db07cfa76c9e/67e547cecee74.preview.jpg?crop=1035%2C543%2C0%2C19",
-      "publishedAt": "2025-04-24T15:40:55Z",
-      "content": "A Cleveland restaurant has failed its health inspection again after multiple violations were discovered.\r\nOk Maguey on Paul Huff Parkway received a score of 61.\r\nInspectors found employees handling r… [+12002 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Allrecipes.com"
-      },
-      "author": "Bailey Fink",
-      "title": "Popular Costco Product Recalled for Wood Contamination",
-      "description": "Check your fridge!",
-      "url": "https://www.allrecipes.com/costco-salsa-recall-april-2025-11721163",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mp44qxqkhDK5xkGllwgx_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/all_recipes_969/720c0bc7f287fcf8d9b405e127835a66",
-      "publishedAt": "2025-04-24T15:00:00Z",
-      "content": "According to a press release, San Juan Salsa Co., the makers of a popular salsa sold at Costco stores, is recalling certain lots of multiple salsas due to potential foreign matter contamination. The … [+2328 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Jacqueline Boyd",
-      "title": "Why you should think twice before letting your dog use a communal water bowl",
-      "description": "A small effort can make a big difference in your dog’s health, Jacqueline Boyd writes",
-      "url": "https://www.the-independent.com/life-style/dog-communal-water-bowl-danger-advice-b2738877.html",
-      "urlToImage": "https://static.the-independent.com/2025/04/24/14/04/dog-bowl-communal-file.jpeg?trim=0,4,0,3&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-24T14:38:12Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kareem Hatam-Nahavandi, Ehsan Ahmadpour, Milad Badri, Aida Vafae Eslahi, Davood Anvari, David Carmena, Lihua Xiao",
-      "title": "Global prevalence of Giardia infection in nonhuman mammalian hosts: A systematic review and meta-analysis of five million animals",
-      "description": "Author summary Giardia is a ubiquitous protozoan parasite that causes gastrointestinal illness, known as giardiasis, in both humans and animals. To understand how common this infection is among nonhuman mammals worldwide, we reviewed studies published from 19…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013021",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013021.g006&size=inline",
-      "publishedAt": "2025-04-24T14:00:00Z",
-      "content": "Introduction\r\nGiardia is a cosmopolitan enteric protozoan parasite that infects various vertebrate hosts, including mammals [1]. An estimated 280 million symptomatic human cases of giardiasis occur w… [+51193 chars]"
     }
   ],
   "totalResults": 94,
