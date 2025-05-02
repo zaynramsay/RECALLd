@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Cake – Birthday Tracking</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 2.2em;
+            margin-bottom: 0.5em;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #eee;
+        }
+        
+        h2 {
+            color: #3498db;
+            font-size: 1.6em;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        h3 {
+            color: #2980b9;
+            font-size: 1.2em;
+            margin-top: 1.2em;
+        }
+        
+        p {
+            margin-bottom: 1em;
+        }
+        
+        ul {
+            padding-left: 20px;
+        }
+        
+        li {
+            margin-bottom: 0.5em;
+        }
+        
+        .summary-box {
+            background-color: #eaf7ff;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 3px;
+        }
+        
+        .summary-box h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        
+        .last-updated {
+            font-style: italic;
+            color: #7f8c8d;
+            margin-bottom: 25px;
+        }
+        
+        .section-divider {
+            height: 1px;
+            background-color: #eee;
+            margin: 30px 0;
+        }
+        
+        .footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            font-style: italic;
+            color: #7f8c8d;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Cake – Birthday Tracking</h1>
+    
+    <p class="last-updated"><em>Last updated: May 2, 2025</em></p>
+    
+    <h2>Introduction</h2>
+    
+    <p>Thank you for choosing Cake – Birthday Tracking ("the App," "we," "our," or "us"). We are committed to protecting your privacy and providing a secure user experience. This Privacy Policy explains how we collect, use, protect, and handle your information when you use our App.</p>
+    
+    <div class="summary-box">
+        <h3>Summary of Key Points</h3>
+        <ul>
+            <li><strong>Zero Data Transmission</strong>: The App operates entirely offline and does not transmit your data to any servers.</li>
+            <li><strong>On-Device Processing</strong>: All contact information is processed locally on your device.</li>
+            <li><strong>No Third-Party Sharing</strong>: Your data is never shared with third parties.</li>
+            <li><strong>No Tracking or Analytics</strong>: We do not track your usage or collect analytics.</li>
+        </ul>
+    </div>
+    
+    <h2>1. Information We Collect</h2>
+    
+    <h3>1.1 Contact Information</h3>
+    <p>With your explicit permission, the App accesses your device's contact list to extract birthday-related information. This includes:</p>
+    <ul>
+        <li>Names</li>
+        <li>Birthday dates</li>
+        <li>Contact identifiers</li>
+        <li>Optional: associated photos</li>
+    </ul>
+    
+    <h3>1.2 User Preferences</h3>
+    <p>We store your preferences for:</p>
+    <ul>
+        <li>Notification settings</li>
+        <li>Display preferences</li>
+        <li>Sorting and filtering options</li>
+        <li>Blacklisted contacts</li>
+    </ul>
+    
+    <h3>1.3 Local Storage</h3>
+    <p>The App stores the following data locally using Apple's SwiftData framework:</p>
+    <ul>
+        <li>Birthday entries</li>
+        <li>Reminder settings</li>
+        <li>Tags and categories</li>
+        <li>Custom notes</li>
+        <li>Local contact identifiers for blacklisted contacts</li>
+    </ul>
+    
+    <p><strong>Important</strong>: All data remains exclusively on your device. The App does not use encryption for stored data beyond what is provided by your device's operating system.</p>
+    
+    <h2>2. How We Use Your Information</h2>
+    
+    <h3>2.1 Contacts Access</h3>
+    <p>We use your contacts data to:</p>
+    <ul>
+        <li>Display birthday information</li>
+        <li>Create personalized birthday lists</li>
+        <li>Filter and organize birthday entries</li>
+    </ul>
+    
+    <h3>2.2 Reminders Integration</h3>
+    <p>With your permission, we use the Reminders framework to:</p>
+    <ul>
+        <li>Create birthday reminders</li>
+        <li>Manage reminder preferences</li>
+        <li>Set custom notification schedules</li>
+    </ul>
+    
+    <h3>2.3 Notifications</h3>
+    <p>When authorized, we use local notifications to:</p>
+    <ul>
+        <li>Alert you of upcoming birthdays</li>
+        <li>Send custom reminders based on your settings</li>
+        <li>Provide timely birthday information</li>
+    </ul>
+    
+    <h2>3. Data Protection and Security</h2>
+    
+    <h3>3.1 On-Device Processing</h3>
+    <p>All data processing occurs exclusively on your device. No personal information is transmitted over the internet or stored on external servers.</p>
+    
+    <h3>3.2 No Internet Communication</h3>
+    <p>The App is designed to function completely offline and does not include any networking capabilities. It does not:</p>
+    <ul>
+        <li>Connect to any servers</li>
+        <li>Transmit usage data</li>
+        <li>Upload contact information</li>
+        <li>Use cloud services for storage</li>
+    </ul>
+    
+    <h3>3.3 Third-Party Libraries</h3>
+    <p>The App incorporates the following types of third-party Swift libraries:</p>
+    <ul>
+        <li>UI enhancement libraries</li>
+        <li>Utility frameworks</li>
+        <li>Development tools</li>
+    </ul>
+    
+    <p>These libraries operate entirely within the App's sandbox and do not collect or transmit user data. We carefully select dependencies that respect user privacy.</p>
+    
+    <h2>4. Your Choices and Rights</h2>
+    
+    <h3>4.1 Permission Controls</h3>
+    <p>You maintain full control over the App's permissions:</p>
+    <ul>
+        <li>Contacts access can be granted or revoked through your device settings</li>
+        <li>Notification permissions can be adjusted at any time</li>
+        <li>Reminders access is optional and configurable</li>
+    </ul>
+    
+    <h3>4.2 Data Management</h3>
+    <p>You can manage your data directly within the App:</p>
+    <ul>
+        <li>Delete individual birthday entries</li>
+        <li>Blacklist specific contacts</li>
+        <li>Reset all preferences</li>
+        <li>Clear all stored data</li>
+    </ul>
+    
+    <h3>4.3 Data Deletion</h3>
+    <p>To completely remove your data:</p>
+    <ul>
+        <li>Use the in-App "Clear All Data" function (if available)</li>
+        <li>Uninstall the App, which will remove all locally stored information</li>
+    </ul>
+    
+    <p>Note: Blacklisted contact identifiers are retained locally to prevent unwanted re-importing unless explicitly cleared.</p>
+    
+    <h2>5. Future Features</h2>
+    
+    <h3>5.1 In-App Purchases</h3>
+    <p>The current version contains no in-app purchases. If introduced in future updates:</p>
+    <ul>
+        <li>We will provide clear information about available purchases</li>
+        <li>No payment information will be stored within the App</li>
+        <li>Transactions will be processed through Apple's secure payment system</li>
+    </ul>
+    
+    <h3>5.2 App Enhancements</h3>
+    <p>Future versions may include:</p>
+    <ul>
+        <li>Additional customization options</li>
+        <li>Enhanced reminder capabilities</li>
+        <li>Improved user interface</li>
+    </ul>
+    
+    <p>Any feature that changes our privacy practices will be reflected in an updated Privacy Policy.</p>
+    
+    <h2>6. Children's Privacy</h2>
+    
+    <p>The App is not directed at children under the age of 13. Since all data is stored locally on the device and not transmitted anywhere, parents or guardians are responsible for managing app access and potential uninstallation if concerned about their child's use of the App.</p>
+    
+    <h2>7. Changes to This Policy</h2>
+    
+    <p>We may update this Privacy Policy as we release new features or to reflect changes in legal requirements. We will notify you of any material changes through:</p>
+    <ul>
+        <li>In-App notifications (when applicable)</li>
+        <li>Update notes in the App Store</li>
+    </ul>
+    
+    <h2>8. No Contact Mechanism</h2>
+    
+    <p>The current version of the App does not include any built-in support or contact features. Since the App operates entirely offline with no data transmission, there is no mechanism or need to contact the developer regarding data-related concerns.</p>
+    
+    <p>Future updates may introduce support mechanisms if needed, which would be reflected in an updated Privacy Policy.</p>
+    
+    <h2>9. California Privacy Rights</h2>
+    
+    <p>Under California Civil Code Section 1798.83, California residents may request certain information regarding disclosure of personal information to third parties for direct marketing purposes. Since we do not share your information with third parties for marketing purposes, these provisions do not apply to our App.</p>
+    
+    <h2>10. International Users</h2>
+    
+    <p>The App is designed to comply with privacy regulations worldwide, including GDPR and CCPA requirements. As the App processes all data locally on your device without any data transfer, most jurisdictional requirements regarding data transfers do not apply.</p>
+    
+    <div class="section-divider"></div>
+    
+    <p class="footer">By using Cake – Birthday Tracking, you agree to the terms outlined in this Privacy Policy.</p>
+</body>
+</html>
