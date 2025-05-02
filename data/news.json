@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-05-01T18:32:32.506Z",
+  "lastUpdated": "2025-05-02T01:56:13.992Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "San Luis Obispo Tribune"
+      },
+      "author": "Joan Lynch",
+      "title": "SLO County residents warned to boil or purify drinking water due to bacteria",
+      "description": "Water samples collected Monday and Tuesday revealed the presence of a bacteria in drinking water that can cause stomach issues, the county Department of...",
+      "url": "https://www.sanluisobispo.com/news/local/article305441966.html",
+      "urlToImage": "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/87f29f6e466f210ac540e9b82665b118",
+      "publishedAt": "2025-05-01T00:23:21Z",
+      "content": "Update, 5:35 p.m.:\r\nA second news release from the San Luis Obispo County Department of Public Works expanded the water contamination advisory to Arroyo Grande, Grover Beach, Oceano, Avila Beach and … [+2486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Buttondown.com"
+      },
+      "author": "The Sword And the Sandwich",
+      "title": "How to Not Get Poisoned in America",
+      "description": "The minute I saw that Robert Kennedy Jr., a notorious disease-loving health crank, was going to be responsible for the nation’s health—and the health of its...",
+      "url": "https://buttondown.com/theswordandthesandwich/archive/how-to-not-get-poisoned-in-america/",
+      "urlToImage": "https://assets.buttondown.email/images/6ff6d9b1-71e7-484b-8b67-500afa68c811.jpg",
+      "publishedAt": "2025-04-30T22:40:29Z",
+      "content": "April 30, 2025\r\nThe minute I saw that Robert Kennedy Jr., a notorious disease-lovinghealth crank, was going to be responsible for the nations healthand the health of its food supplyI knew who I had t… [+25729 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Kenji Sato",
+      "title": "City's guerilla gardeners defy government health warnings",
+      "description": "The Queensland government says illegal gardeners are putting their health at risk by eating food grown on an unused plot of land in Brisbane's West End.",
+      "url": "https://www.abc.net.au/news/2025-05-01/brisbane-west-end-guerilla-gardens-defy-health-warnings/105232700",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/bafb33450a4f7005cbc6eaaa8f0789df?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=39&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-04-30T20:31:30Z",
+      "content": "Guerilla gardeners have refused to stop growing food on state land, despite warnings from the Queensland government that the soil could be contaminated.\r\nGrowing Forward, a West End community group, … [+2813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Pilgrim's Pride Corporation",
+      "title": "Pilgrim’s Pride Reports First Quarter 2025 Results with $4.5 Billion in Net Sales and Operating Income of $404.5 Million",
+      "description": "GREELEY, Colo., April 30, 2025 (GLOBE NEWSWIRE) -- Pilgrim’s Pride Corporation (NASDAQ: PPC), one of the world's leading food companies, reports its first quarter 2025 financial results.",
+      "url": "https://www.globenewswire.com/news-release/2025/04/30/3071916/17519/en/Pilgrim-s-Pride-Reports-First-Quarter-2025-Results-with-4-5-Billion-in-Net-Sales-and-Operating-Income-of-404-5-Million.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/b84ed929-ae25-4d9e-a3ab-516587c2ef23",
+      "publishedAt": "2025-04-30T20:31:00Z",
+      "content": "GREELEY, Colo., April 30, 2025 (GLOBE NEWSWIRE) -- Pilgrims Pride Corporation (NASDAQ: PPC), one of the world's leading food companies, reports its first quarter 2025 financial results.\r\nFirst Quarte… [+60985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Russia-linked group Nebulous Mantis targets NATO-related defense organizations",
+      "description": "PRODAFT researchers warn of Russia-linked APT group Nebulous Mantis targeting NATO-related defense organizations Nebulous Mantis, a Russian-speaking cyber espionage group (aka Cuba, STORM-0978, Tropical Scorpius, UNC2596), used RomCom RAT and Hancitor since 2…",
+      "url": "https://securityaffairs.com/177255/intelligence/nebulous-mantis-targets-nato-related-defense-organizations.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-61-1024x1024.png",
+      "publishedAt": "2025-04-30T20:03:44Z",
+      "content": "Russia-linked group Nebulous Mantis targets NATO-related defense organizations\r\n | France links Russian APT28 to attacks on dozen French entities\r\n | Indian Court ordered to block email service Proto… [+159888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Why you bite your tongue and when to worry",
+      "description": "That sharp pain when teeth accidentally clamp down on your tongue is a sensation most people know all too well. While occasional tongue biting during meals is a common annoyance, frequent or recurring incidents might signal something more significant than sim…",
+      "url": "https://rollingout.com/2025/04/30/why-you-bite-your-tongue-when-to-worry/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/09/shutterstock_2383334621.jpg",
+      "publishedAt": "2025-04-30T19:34:31Z",
+      "content": "That sharp pain when teeth accidentally clamp down on your tongue is a sensation most people know all too well. While occasional tongue biting during meals is a common annoyance, frequent or recurrin… [+16519 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -628,6 +706,19 @@
     {
       "source": {
         "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Food Co. Issues Allergy Alert on Undeclared Milk in Monkfish Liver - Ankimo",
+      "description": "JJWV Marketing Corporation of Santa Fe Springs, California is recalling Ankimo Monkfish Liver because it may contain undeclared milk.  People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening allergic reaction if th…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/food-co-issues-allergy-alert-undeclared-milk-monkfish-liver-ankimo",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-04-28T22:19:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nApril 28, 2025\r\nFDA Publish Date:\r\nMay 01, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential o… [+1503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Rolling Out"
       },
       "author": "Tega Egwabor",
@@ -1105,112 +1196,8 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gB95F.pyCPYEKOnQzRgltQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/chowhound_739/dc44ec39163835403a5d5ef7b39bbd93",
       "publishedAt": "2025-04-26T13:15:00Z",
       "content": "Grabbing a burger is supposed to be a satisfying experience. Unfortunately, patrons sometimes bite more than they bargained for, which leads them down the legal pipeline. Because in America, suing fo… [+16796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Askubuntu.com"
-      },
-      "author": "sasikala kanakkupillai",
-      "title": "What is FSSAI Registration? A Simple Guide for Food Businesses",
-      "description": "If you're planning to start a food-related business in India, one of the most important steps is getting your FSSAI Registration. This is not just a legal requirement, but also a mark of trust and safety for your customers. Whether you’re running a small food…",
-      "url": "https://askubuntu.com/questions/1546557/what-is-fssai-registration-a-simple-guide-for-food-businesses",
-      "urlToImage": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
-      "publishedAt": "2025-04-26T11:46:18Z",
-      "content": "If you're planning to start a food-related business in India, one of the most important steps is getting your FSSAI Registration. This is not just a legal requirement, but also a mark of trust and sa… [+3718 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Sarah Bourassa",
-      "title": "If You Want To Avoid Getting Sick Before Your Flight, Experts Say You Should Stay Away From These 5 Airport Foods",
-      "description": "You'll thank yourself later.",
-      "url": "https://www.buzzfeed.com/sarahbourassa/food-to-avoid-at-airport",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y0ZcEGUNRjORh09ofc986Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/buzzfeed_articles_778/d0d21a5f7964cdeb2ed2bf20896c04c9",
-      "publishedAt": "2025-04-26T11:16:02Z",
-      "content": "Many hungry travelers turn to airport grab-and-go food before flights, but if you want to avoid getting sick before hopping on a plane, you may want to think twice about your choices.\r\nFor example, f… [+7762 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "STLtoday.com"
-      },
-      "author": "By Malia Mendez | Los Angeles Times",
-      "title": "Suit: Produce supplier caused St. Louis E. coli outbreak unreported by FDA",
-      "description": "Federal investigators traced the cases back to a single grower, but the Food and the Drug Administration didn't disclose the name.",
-      "url": "https://www.stltoday.com/news/local/crime-courts/article_37968a37-814e-4a09-9815-fd5d0c43ebc6.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/79/37968a37-814e-4a09-9815-fd5d0c43ebc6/680bf6d3866f9.preview.jpg?crop=333%2C333%2C83%2C0&resize=200%2C200&order=crop%2Cresize",
-      "publishedAt": "2025-04-26T10:50:00Z",
-      "content": "California-based produce supplier Taylor Fresh Foods is facing lawsuits from nine victims of a November E. coli outbreak that was not disclosed to the public.\r\nThe outbreak which killed one person an… [+5824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Robert English",
-      "title": "Researchers uncover alarming health risk growing inside pregnant stray cats: 'It's a flashing red warning light'",
-      "description": "\"Raises new concerns for animal and human health.\"",
-      "url": "https://www.yahoo.com/news/researchers-uncover-alarming-health-risk-101550375.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IGWW7KIDNMfEMvCUnF76iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/eebfebe060ab19a69451b388056b30ae",
-      "publishedAt": "2025-04-26T10:15:50Z",
-      "content": "A recent research study from the University of Parma found that microplastics can be passed from pregnant stray cats to their fetuses in the early stages of pregnancy, according to OneArabia.\r\nWhat's… [+3635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "CEO of cybersecurity firm charged with installing malware on hospital systems",
-      "description": "Veritaco CEO Jeffrey Bowie faces charges for allegedly installing malware on hospital computers, violating Oklahoma’s Computer Crimes Act. Jeffrey Bowie, CEO of the cybersecurity firm Veritaco, is facing two counts of violating Oklahoma’s Computer Crimes Act …",
-      "url": "https://securityaffairs.com/177020/cyber-crime/ceo-of-cybersecurity-firm-charged-with-installing-malware-on-hospital-systems.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-49.png",
-      "publishedAt": "2025-04-26T07:53:27Z",
-      "content": "CEO of cybersecurity firm charged with installing malware on hospital systems\r\n | JPCERT warns of DslogdRAT malware deployed in Ivanti Connect Secure\r\n | SAP NetWeaver zero-day allegedly exploited by… [+158481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lhyziebongon.com"
-      },
-      "author": "Lhyzie Bongon",
-      "title": "Honor Moms with More Than a Gift: Support Their Digestive Health This Mother’s Day - Life With Lhyzie ",
-      "description": "With Mother's Day approaching, it's the best time to celebrate the women who hold our homes and hearts together. This special day honors mothers who navigate",
-      "url": "https://lhyziebongon.com/honor-moms-with-more-than-a-gift-support-their-digestive-health-this-mothers-day/",
-      "urlToImage": "https://i0.wp.com/lhyziebongon.com/wp-content/uploads/2025/04/May-PR-Image-Large.jpeg",
-      "publishedAt": "2025-04-26T05:59:57Z",
-      "content": "With Mother’s Day approaching, it’s the best time to celebrate the women who hold our homes and hearts together. This special day honors mothers who navigate lifes many demands with strength, grace, … [+4066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "7NEWS.com.au"
-      },
-      "author": "7news",
-      "title": "Concerns grow over animal-to-human transmission of deadly melioidosis bacteria",
-      "description": "Experts say the disease is a master of disguise in pets and has the potential to infect humans.",
-      "url": "https://7news.com.au/news/concerns-grow-over-animal-to-human-transmission-of-deadly-melioidosis-bacteria-c-18406630",
-      "urlToImage": "https://images.7news.com.au/publication/C-18406630/f636ecad26b77ebeb62c1e40a4465e32f5ed1e0c-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2025-04-25T22:42:02Z",
-      "content": "A rare and deadly bacteria infection is raising serious concerns for pet owners across Queensland, with fears it could spread from animals to humans.\r\nThe bacteria that causes the tropical disease me… [+6394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "Jenna Anderson",
-      "title": "Recall Roundup: Apple Juice, Coffee Creamer, and More Pulled From Shelves This Week",
-      "description": "This week saw five major food recalls due to pathogen exposure, foreign object contamination, and an undeclared allergen. Here are the products to throw away or return.",
-      "url": "https://www.health.com/recall-roundup-apple-juice-coffee-creamer-11721544",
-      "urlToImage": "https://www.health.com/thmb/nfgtg5eNSEAEcJdy-5rOjx_VAFE=/8000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1221124797-857cf3ae1fa3483db9b2b31a80489318.jpg",
-      "publishedAt": "2025-04-25T22:06:12Z",
-      "content": "There were five major recalls this week, affecting a variety of foods and brands.\r\nMartinelli's apple juice was given the second-highest risk level for patulin contamination, and enoki mushrooms were… [+5079 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 92,
   "filteredCount": 0
 }
