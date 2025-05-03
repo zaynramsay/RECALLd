@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-05-03T01:53:33.131Z",
+  "lastUpdated": "2025-05-03T06:31:01.288Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CounterPunch"
+      },
+      "author": "Nick Pemberton",
+      "title": "Trump is Trump",
+      "description": "Put simply, Trump and his hangers-on are building on long-standing American traditions and are using the normal tools of the American government to dismantle democracy. Trumpism is not a foreign importation. It is distinctly homegrown. And if the Left hopes t…",
+      "url": "https://www.counterpunch.org/2025/05/02/trump-is-trump/",
+      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/05/the-now-time-KXUKLB-_Sb0-unsplash-2-scaled.jpg",
+      "publishedAt": "2025-05-02T05:50:39Z",
+      "content": "We even see how refusal to consider Palestine undermined progressive rapper Kendrick Lamar in his rap beef with apolitical Drake. Lamar plainly stated that he identifies as an Israelite.Drake, who is… [+17579 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,19 +1196,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-54.png",
       "publishedAt": "2025-04-28T11:43:54Z",
       "content": "A large-scale phishing campaign targets WordPress WooCommerce users\r\n | PoC rootkit Curing evades traditional Linux detection systems\r\n | Attackers chained Craft CMS zero-days attacks in the wild\r\n |… [+158969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "International Business Times"
-      },
-      "author": "Madelaine Panganiban",
-      "title": "Grain Millers Recalls 63,000 Pounds of Oats Due to Plastic Risk, FDA Says",
-      "description": "Grain Millers recalled 63,000 pounds of oats due to plastic contamination risk, according to the FDA.",
-      "url": "https://www.ibtimes.com/grain-millers-recalls-63000-pounds-oats-due-plastic-risk-fda-says-3771656",
-      "urlToImage": "https://d.ibtimes.com/en/full/4597247/grain-millers-recalls-63000-pounds-oats-due-plastic.jpg",
-      "publishedAt": "2025-04-28T10:51:36Z",
-      "content": "Grain Millers, one of the largest oat processors in North America, is recalling more than 63,000 pounds of oats because they might be contaminated with plastic, according to the Food and Drug Adminis… [+1809 chars]"
     }
   ],
   "totalResults": 92,
