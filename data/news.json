@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-05-03T06:31:01.288Z",
+  "lastUpdated": "2025-05-03T12:43:27.856Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Jenn Gidman",
+      "title": "In Spots With Thriving Bird Habitats, an Alarming Decline",
+      "description": "North America has a bird problem—not too many, but perhaps too few in the not-so-distant future. New research published Thursday in the journal Science reveals that 75% of the continent's bird species are on a downward spiral, seeing their populations decline…",
+      "url": "https://www.newser.com/story/368055/in-spots-with-thriving-bird-habitats-an-alarming-decline.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1608300-12-20250502074936.jpeg",
+      "publishedAt": "2025-05-02T12:00:00Z",
+      "content": "Researchers analyzed nearly 500 different bird species in North America using the eBird online database, which serves as a landing spot for millions of bird sightings around the globe. Especially ala… [+1142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Microsoft sets all new accounts passwordless by default",
+      "description": "Microsoft announced that all new accounts will be “passwordless by default” to increase their level of security. Microsoft now makes all new accounts “passwordless by default,” enhancing protection against social engineering attacks, phishing, brute-force, an…",
+      "url": "https://securityaffairs.com/177339/security/microsoft-sets-all-new-accounts-passwordless-by-default.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-3.png",
+      "publishedAt": "2025-05-02T11:52:05Z",
+      "content": "Microsoft sets all new accounts passwordless by default\r\n | Luxury department store Harrods suffered a cyberattack\r\n | U.S. CISA adds SonicWall SMA100 and Apache HTTP Server flaws to its Known Exploi… [+160523 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Revolutionizing Food Supply Chains: The Critical Role of Food Logistics",
+      "description": "The report analyzes trends, drivers, and forecasts, including the impact of global tariffs. Discover insights on market growth and future strategies in the logistics sector. The report analyzes trends, drivers, and forecasts, including the impact of global ta…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/02/3073126/28124/en/Revolutionizing-Food-Supply-Chains-The-Critical-Role-of-Food-Logistics.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-05-02T09:39:00Z",
+      "content": "Dublin, May 02, 2025 (GLOBE NEWSWIRE) -- The \"Food Logistics - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Food Logistics was valued … [+11463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Luxury department store Harrods suffered a cyberattack",
+      "description": "Harrods confirmed a cyberattack, following similar incidents suffered by M&S and Co-op, making it the third major UK retailer targeted in one week. Luxury department store Harrods confirmed a cyberattack, threat actors attempted to gain unauthorised access to…",
+      "url": "https://securityaffairs.com/177330/cyber-crime/luxury-department-store-harrods-suffered-a-cyberattack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-2.png",
+      "publishedAt": "2025-05-02T09:26:07Z",
+      "content": "Luxury department store Harrods suffered a cyberattack\r\n | U.S. CISA adds SonicWall SMA100 and Apache HTTP Server flaws to its Known Exploited Vulnerabilities catalog\r\n | Pro-Russia hacktivist group … [+160463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Bread containing ‘glass fragments’ recalled in six states",
+      "description": "The glass fragments were found on the top of the bread",
+      "url": "https://www.the-independent.com/life-style/bread-recall-glass-fragments-fda-b2743641.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/01/13/14/iStock-155145063.jpeg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-05-02T09:21:18Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds SonicWall SMA100 and Apache HTTP Server flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SonicWall SMA100 and Apache HTTP Server flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Qualitia Active! Mail, Broad…",
+      "url": "https://securityaffairs.com/177301/hacking/u-s-cisa-adds-sonicwall-sma100-and-apache-http-server-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-05-02T07:49:40Z",
+      "content": "U.S. CISA adds SonicWall SMA100 and Apache HTTP Server flaws to its Known Exploited Vulnerabilities catalog\r\n | Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations\r\n | FBI shar… [+160404 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -359,7 +437,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Russia-linked group Nebulous Mantis targets NATO-related defense organizations",
-      "description": "PRODAFT researchers warn of Russia-linked APT group Nebulous Mantis targeting NATO-related defense organizations Nebulous Mantis, a Russian-speaking cyber espionage group (aka Cuba, STORM-0978, Tropical Scorpius, UNC2596), used RomCom RAT and Hancitor since 2…",
+      "description": "PRODAFT researchers warn of Russia-linked APT group Nebulous Mantis targeting NATO-related defense organizations Nebulous Mantis, a Russian-speaking cyber espionage group (aka Cuba, STORM-0978, Tropical Scorpius, UNC2596), used RomCom RAT and Hancitor since 2���",
       "url": "https://securityaffairs.com/177255/intelligence/nebulous-mantis-targets-nato-related-defense-organizations.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-61-1024x1024.png",
       "publishedAt": "2025-04-30T20:03:44Z",
@@ -467,7 +545,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322286",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0322286.g009&size=inline",
       "publishedAt": "2025-04-30T14:00:00Z",
-      "content": "Abstract\r\nThe developmental process of the mammalian blastocyst involves the intricate interplay of cellular and molecular mechanisms, including electrolyte dynamics within the trophectoderm (TE). We… [+38518 chars]"
+      "content": "Abstract\r\nThe developmental process of the mammalian blastocyst involves the intricate interplay of cellular and molecular mechanisms, including electrolyte dynamics within the trophectoderm (TE). We��� [+38518 chars]"
     },
     {
       "source": {
@@ -1105,99 +1183,8 @@
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/04/Vietnam_War_Anniversary_Agent_Orange_93921-1.jpg?w=1024&h=628",
       "publishedAt": "2025-04-28T16:09:20Z",
       "content": "By ANIRUDDHA GHOSAL and HAU DINH\r\nDA NANG, Vietnam (AP) The Vietnam War ended on April 30, 1975, when the South Vietnamese capital of Saigon fell to Communist forces. But millions of people still fac… [+8595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Des Moines Register"
-      },
-      "author": ", The Des Moines Register",
-      "title": "Martinelli's apple juice recall includes bottles sold in iowa",
-      "description": "An apple juice recall includes more than 170,000 bottles produced by Martinelli's. See which Iowa retailers carried the recalled juice.",
-      "url": "https://www.desmoinesregister.com/story/news/health/2025/04/28/apple-juice-recall-fda-martinellis-iowa-fareway-hyvee-target-walmart/83325957007/",
-      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2025/04/26/USAT/83302255007-getty-images-1365587152.jpg?auto=webp&crop=3499,1968,x0,y0&format=pjpg&width=1200",
-      "publishedAt": "2025-04-28T16:04:46Z",
-      "content": "More than 7,000 cases over 170,000 bottles of apple juice were voluntarily recalled by S Martinelli &amp; Company over concerns of patulin contamination, a toxic substance produced by certain molds. … [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Viola Flowers",
-      "title": "Martinelli's issues recall for more than 170,000 apple juice bottles for potentially toxic substance",
-      "description": "More than 170,000 bottles of apple juice are being voluntarily recalled by S. Martinelli & Company in 28 states for potential contamination with toxic substances, according to the U.S.",
-      "url": "https://www.nbcnews.com/health/recall/martinellis-issues-recall-170000-apple-juice-bottles-potentially-toxic-rcna203294",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250428-martinelli-apple-juice-recall-mn-1050-ab9e4e.jpg",
-      "publishedAt": "2025-04-28T15:56:55Z",
-      "content": "More than 170,000 bottles of apple juice are being voluntarily recalled by S. Martinelli &amp; Company in 28 states for potential contamination with toxic substances, according to the U.S. Food and D… [+1638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Anna Kaplan",
-      "title": "Apple juice recalled in 28 states due to toxic substance concern — what to know",
-      "description": "More than 170,000 bottles of Martinelli's apple juice have been recalled due to concerns of potential contamination with patulin, according to the FDA.",
-      "url": "https://www.today.com/food/recall/martinellis-apple-juice-recall-rcna203265",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-04/apple-juice-recall-mc-250428-944445.jpg",
-      "publishedAt": "2025-04-28T14:25:35Z",
-      "content": "More than 170,000 bottles of Martinelli's apple juice were recalled last month due to concerns of potential contamination with patulin, according to the Food and Drug Administration.\r\nS. Martinelli &… [+1769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Direct-to-Consumer Packaging Market Poised for Strong Growth by 2034",
-      "description": "According to Towards Packaging Analysts, the direct-to-consumer (DTC) packaging market is booming, poised for a revenue surge into hundreds of million from 2025 to 2034, driving a revolution in sustainable transportation. According to Towards Packaging Analys…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/28/3069340/0/en/Direct-to-Consumer-Packaging-Market-Poised-for-Strong-Growth-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-28T14:00:00Z",
-      "content": "Ottawa, April 28, 2025 (GLOBE NEWSWIRE) -- The direct-to-consumer (DTC) packaging market size is accelerating, with forecasts predicting hundreds of millions in revenue growth between 2025 and 2034, … [+18240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Frank Bergman",
-      "title": "Multiple Oncologists Warn: ‘Turbo Cancers Set to Explode’ Among Covid-Vaccinated",
-      "description": "Several leading oncologists have warned that a devastating “turbo cancer” surge is about to “explode” among people who received Covid mRNA “vaccines.”\nSome of the world’s most highly respected cancer experts are sounding the alarm over concerns of the looming…",
-      "url": "https://www.globalresearch.ca/turbo-cancers-explode-covid-vaccinated/5885494",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2023/06/5011b502-6782-46d8-8caf-586af72ab351_1000x667.jpg",
-      "publishedAt": "2025-04-28T13:35:50Z",
-      "content": "Several leading oncologists have warned that a devastating turbo cancer surge is about to explode among people who received Covid mRNA vaccines.\r\nSome of the worlds most highly respected cancer exper… [+9066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Pamela McElwee, Professor of Human Ecology, Rutgers University",
-      "title": "50 years later, Vietnam’s environment still bears the scars of war – and signals a dark future for Gaza and Ukraine",
-      "description": "Harmful dioxins in Agent Orange, used to strip forests of their leaves, still linger in soil. Restoration work has been slow, and upheaval at USAID may slow it more.",
-      "url": "https://theconversation.com/50-years-later-vietnams-environment-still-bears-the-scars-of-war-and-signals-a-dark-future-for-gaza-and-ukraine-254971",
-      "urlToImage": "https://images.theconversation.com/files/664083/original/file-20250425-56-g887pc.jpg?ixlib=rb-4.1.0&rect=0%2C287%2C3000%2C1495&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-04-28T12:38:07Z",
-      "content": "During the Vietnam War, the U.S. bombed and defoliated vast areas of forest and protective mangroves. AP Photo\r\nWhen the Vietnam War finally ended on April 30, 1975, it left behind a landscape scarre… [+10503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A large-scale phishing campaign targets WordPress WooCommerce users",
-      "description": "A large-scale phishing campaign targets WordPress WooCommerce users with a fake security alert urging them to download a ‘critical patch’ hiding a backdoor. Patchstack researchers uncovered a large-scale phishing campaign targeting WordPress WooCommerce users…",
-      "url": "https://securityaffairs.com/177115/hacking/a-large-scale-phishing-campaign-targets-wordpress-woocommerce-users.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-54.png",
-      "publishedAt": "2025-04-28T11:43:54Z",
-      "content": "A large-scale phishing campaign targets WordPress WooCommerce users\r\n | PoC rootkit Curing evades traditional Linux detection systems\r\n | Attackers chained Craft CMS zero-days attacks in the wild\r\n |… [+158969 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 91,
   "filteredCount": 0
 }
