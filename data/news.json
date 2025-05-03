@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-05-02T18:32:15.511Z",
+  "lastUpdated": "2025-05-03T01:53:33.131Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Common Medicines Contain Hidden Gluten and Soy",
+      "description": "Many people reach for medicine to ease their symptoms, only to find that it quietly makes things worse. For people with gluten or soy sensitivities, this is an ongoing risk. That’s because many widely used medications contain hidden allergens in their so-call…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/05/02/hidden-gluten-and-soy-in-medications.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/May/FB/hidden-gluten-and-soy-in-medications-fb.jpg",
+      "publishedAt": "2025-05-02T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations",
+      "description": "Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations with large-scale DDoS attacks, the country’s National Cyber Security Center (NCSC) warns. This week, several Dutch and European organizations faced large-scale DDoS attacks launched by…",
+      "url": "https://securityaffairs.com/177312/hacktivism/pro-russia-hacktivist-group-noname05716-is-targeting-dutch-organizations.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-1.png",
+      "publishedAt": "2025-05-01T23:08:33Z",
+      "content": "Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations\r\n | FBI shared a list of phishing domains associated with the LabHost PhaaS platform\r\n | Canadian electric utility Nova Scot… [+160292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sharingideas.me"
+      },
+      "author": "https://www.facebook.com/sharingideasofficial",
+      "title": "Corn Silk: 30 Health Benefits and How to Use It - sharingideas.me",
+      "description": "Corn silk, the long, glossy threads you see when you peel back the husk of an ear of corn, is often overlooked and discarded. However, this humble byproduct has been a staple in traditional medicine for centuries, offering a wide range of health benefits. Ric…",
+      "url": "https://sharingideas.me/corn-silk-30-health-benefits-and-how-to-use-it/",
+      "urlToImage": "https://sharingideas.me/wp-content/uploads/2024/10/xshare-12.webp",
+      "publishedAt": "2025-05-01T22:59:58Z",
+      "content": "Corn silk, the long, glossy threads you see when you peel back the husk of an ear of corn, is often overlooked and discarded. However, this humble byproduct has been a staple in traditional medicine … [+8324 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://d.ibtimes.com/en/full/4597247/grain-millers-recalls-63000-pounds-oats-due-plastic.jpg",
       "publishedAt": "2025-04-28T10:51:36Z",
       "content": "Grain Millers, one of the largest oat processors in North America, is recalling more than 63,000 pounds of oats because they might be contaminated with plastic, according to the Food and Drug Adminis… [+1809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theepochtimes.com"
-      },
-      "author": "Jennifer Sweenie",
-      "title": "Decoding Baby Formula: How U.S. and European Standards Compare",
-      "description": "From nutrients to labeling laws, understanding what sets U.S. and European infant formulas apart can help parents make more informed choices.",
-      "url": "https://www.theepochtimes.com/health/decoding-baby-formula-how-u-s-and-european-standards-compare-5841404",
-      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2025/04/26/id5847969-baby-formula-1080x720.jpg",
-      "publishedAt": "2025-04-28T10:08:34Z",
-      "content": "From the moment Jesss infant son transitioned from breastfeeding to baby formula, feeding became a source of distressfor both mom and baby. Every bottle of any U.S.-made brand seemed to trigger a bou… [+14700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "PoC rootkit Curing evades traditional Linux detection systems",
-      "description": "Researchers created a PoC rootkit called Curing that uses Linux’s io_uring feature to evade traditional system call monitoring. Armo researchers have demonstrated a proof-of-concept (PoC) rootkit named Curing that relies on Linux asynchronous I/O mechanism io…",
-      "url": "https://securityaffairs.com/177098/hacking/poc-rootkit-curing-evades-traditional-linux-detection-systems.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/11/Linux-ransomware-encoder1.jpg",
-      "publishedAt": "2025-04-28T09:38:36Z",
-      "content": "PoC rootkit Curing evades traditional Linux detection systems\r\n | Attackers chained Craft CMS zero-days attacks in the wild\r\n | Storm-1977 targets education sector with password spraying, Microsoft w… [+158897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Attackers chained Craft CMS zero-days attacks in the wild",
-      "description": "Orange Cyberdefense’s CSIRT reported that threat actors exploited two vulnerabilities in Craft CMS to breach servers and steal data. Orange Cyberdefense’s CSIRT warns that threat actors chained two Craft CMS vulnerabilities in recent attacks. Orange experts d…",
-      "url": "https://securityaffairs.com/177085/hacking/attackers-chained-craft-cms-zero-days-attacks-in-the-wild.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-52.png",
-      "publishedAt": "2025-04-28T08:34:17Z",
-      "content": "Attackers chained Craft CMS zero-days attacks in the wild\r\n | Storm-1977 targets education sector with password spraying, Microsoft warns\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 43\r\n | Security… [+158831 chars]"
     }
   ],
   "totalResults": 92,
