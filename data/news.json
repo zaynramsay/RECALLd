@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-05-04T06:31:39.127Z",
+  "lastUpdated": "2025-05-04T12:44:10.007Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Thebaynet.com"
+      },
+      "author": "Bay Journal - Jeremy Cox",
+      "title": "Suspected Source Identified For PFAS Contamination Near Perdue plant - The BayNet",
+      "description": "ANNAPOLIS, Md. – Investigators believe they have identified a potential source of the groundwater contamination that has threatened dozens of household water systems near a Perdue Farms soybean plant in Salisbury, MD, with “forever chemicals.” Consultants are…",
+      "url": "http://thebaynet.com/suspected-source-identified-for-pfas-contamination-near-perdue-plant/",
+      "urlToImage": "https://i0.wp.com/thebaynet.com/wp-content/uploads/2025/05/PFAS-contamination-near-Perdue-plant.jpg?fit=750%2C489&ssl=1",
+      "publishedAt": "2025-05-03T11:39:06Z",
+      "content": "ANNAPOLIS, Md. – Investigators believe they have identified a potential source of the groundwater contamination that has threatened dozens of household water systems near a Perdue Farms soybean plant… [+1547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Yii Framework and Commvault Command Center flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Yii Framework and Commvault Command Center flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Qualitia Active! Mail, Br…",
+      "url": "https://securityaffairs.com/177367/hacking/u-s-cisa-adds-yii-framework-and-commvault-command-center-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-05-03T10:11:31Z",
+      "content": "U.S. CISA adds Yii Framework and Commvault Command Center flaws to its Known Exploited Vulnerabilities catalog\r\n | Ireland's DPC fined TikTok 530M for sending EU user data to China\r\n | Microsoft sets… [+160708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Simplyrecipes.com"
+      },
+      "author": "Cheyenne Buckingham",
+      "title": "2 Food Recalls You Need to Know About This Week",
+      "description": "Plus, one kitchen appliance.",
+      "url": "https://www.simplyrecipes.com/food-recalls-you-need-to-know-about-may-11727315",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_zRNjnjT2sDN9V6..g8Oiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/simply_recipes_854/8a29ba7c1999883fd64c6b762864662d",
+      "publishedAt": "2025-05-03T10:03:00Z",
+      "content": "This weeks roundup includes a refrigerated item from Trader Joes, a shelf-stable salsa, and a defunct kitchen appliance part. Use this guide to find out what to toss or return for a refund or replace… [+4055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antaranews.com"
+      },
+      "author": "Lintang B, Tegar Nurfitra",
+      "title": "Indonesia's BGN responds to poisoning cases with stricter protocols",
+      "description": "Indonesia&#39;s National Nutrition Agency (BGN) is committed to enforcing stricter regulations for distributing meals under the Free Nutritious Meals (MBG) ...",
+      "url": "https://en.antaranews.com/news/353805/indonesias-bgn-responds-to-poisoning-cases-with-stricter-protocols",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/04/14/Program-MBG-sekolah-madrasah-aceh-140425-apls-2.jpg",
+      "publishedAt": "2025-05-03T07:10:55Z",
+      "content": "Jakarta (ANTARA) - Indonesia's National Nutrition Agency (BGN) is committed to enforcing stricter regulations for distributing meals under the Free Nutritious Meals (MBG) program, aiming to prevent f… [+1965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Standard Digital"
+      },
+      "author": "Juliet Omelo",
+      "title": "Brian Okeyo: Bungoma's youthful engineer building a green future in organic farming",
+      "description": "What started as a backyard experiment has now grown into a model of sustainable farming as he crafts organic fertiliser using leftover vegetables, eggshells, banana leaves, and fish waste.",
+      "url": "http://www.standardmedia.co.ke/business/work-life/article/2001517994/brian-okeyo-bungomas-youthful-engineer-building-a-green-future-in-organic-farming",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/TDLK5ltQZs9W0rBfjbmrEqHMKRZ9wGnRNK5UdEIu.jpg",
+      "publishedAt": "2025-05-03T07:08:04Z",
+      "content": "Brian Okeyo Demonstrationg how his home made Nawiri bio fertilizer is applied to the crops on April 22, 2025. [Juliet Omelo, Standard]\r\nIn the quiet outskirts of Bungoma town at Sinoko village, where… [+7492 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -97,19 +162,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
-      "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
-      "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003097",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003097.g006&size=inline",
-      "publishedAt": "2025-05-02T14:00:00Z",
-      "content": "Citation: Jigisha J, Ly J, Minadakis N, Freund F, Kunz L, Piechota U, et al. (2025) Population genomics and molecular epidemiology of wheat powdery mildew in Europe. PLoS Biol 23(5):\r\n e3003097.\r\nhtt… [+89558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Anastasia Galperina, Gabriele Andrea Lugli, Christian Milani, Willem M. De Vos, Marco Ventura, Anne Salonen, Bonnie Hurwitz, Alise Jany Ponsero",
       "title": "The Aggregated Gut Viral Catalogue (AVrC): A unified resource for exploring the viral diversity of the human gut",
       "description": "Author summary The human gut is home to a vast diversity of viruses which have been shown to play a crucial role in human health and disease. In order to explore the Human gut virome diversity, several research groups have mined metagenomic samples to create …",
@@ -117,6 +169,19 @@
       "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012268.g004&size=inline",
       "publishedAt": "2025-05-02T14:00:00Z",
       "content": "Abstract\r\nThe growing interest in the role of the gut virome in human health and disease, has led to several recent large-scale viral catalogue projects mining human gut metagenomes each using varied… [+41456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
+      "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
+      "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003097",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003097.g006&size=inline",
+      "publishedAt": "2025-05-02T14:00:00Z",
+      "content": "Citation: Jigisha J, Ly J, Minadakis N, Freund F, Kunz L, Piechota U, et al. (2025) Population genomics and molecular epidemiology of wheat powdery mildew in Europe. PLoS Biol 23(5):\r\n e3003097.\r\nhtt… [+89558 chars]"
     },
     {
       "source": {
@@ -1131,60 +1196,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2013/04/DataBreach.jpg",
       "publishedAt": "2025-04-29T10:13:33Z",
       "content": "VeriSource data breach impacted 4M individuals\r\n | U.S. CISA adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog\r\n | … [+159354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Can Coatings Market Size to Ascend USD 816.70 Bn by 2034 | Towards Packaging Insights",
-      "description": "According to Towards Packaging, the can coatings market size stood at USD 500 billion in 2024 and is predicted to exceed USD 816.70 billion by 2034, experiencing a CAGR of 5.05% from 2024 to 2034. According to Towards Packaging, the can coatings market size s…",
-      "url": "https://www.globenewswire.com/news-release/2025/04/29/3069886/0/en/Can-Coatings-Market-Size-to-Ascend-USD-816-70-Bn-by-2034-Towards-Packaging-Insights.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-04-29T08:00:00Z",
-      "content": "Ottawa, April 29, 2025 (GLOBE NEWSWIRE) -- The can coatings market size to record USD 525.25 billion in 2025 and is projected to grow beyond USD 816.70 billion by 2034, a study published by Towards P… [+18806 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "Over 170 students affected in two food poisoning outbreaks under Indonesia’s free meal programme",
-      "description": "Cases involving food distributed under the free nutritious meal programme were also reported in various regions across Indonesia, including Cianjur, the Bombana regency in Southeast Sulawesi and Batang in Central Java.",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-free-nutritious-meal-programme-food-poisoning-cianjur-5096526",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--y4DQKR3N--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/indonesia_food_33430.jpg?itok=HNNkUe7Z",
-      "publishedAt": "2025-04-29T07:49:55Z",
-      "content": "JAKARTA: Authorities are probing two cases of food poisoning outbreaks that have affected over 170 students under Indonesia's ambitious free nutritious meal programme, the latest of at least six know… [+2422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA…",
-      "url": "https://securityaffairs.com/177161/hacking/u-s-cisa-adds-qualitia-active-mail-broadcom-brocade-fabric-os-and-commvault-web-server-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-04-29T07:17:43Z",
-      "content": "U.S. CISA adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog\r\n | The Turmoil Following BreachForums Shutdown: Confus… [+159303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Cookson Beecher",
-      "title": "Historic earthquake in Japan still sending flood of food safety concerns",
-      "description": "It was history. On March 11, 2011, the Great East Japan Earthquake, magnitude 9.0, struck 80 miles off the Northeast Coast of Japan, generating a series of tsunami waves, some of them 40 feet high.  Racing outward from the epicentre at speeds that approached …",
-      "url": "https://www.foodsafetynews.com/2025/04/historic-earthquake-in-japan-still-sending-flood-of-food-safety-concerns/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/089/117/734/JWBKNELpyQ2J8GXqQPvbX5R93/04267ead822a009c1e4dde887a3a039963a1b65c.png",
-      "publishedAt": "2025-04-29T04:06:00Z",
-      "content": "It was history. On March 11, 2011, the Great East Japan Earthquake, magnitude 9.0, struck 80 miles off the Northeast Coast of Japan, generating a series of tsunami waves, some of them 40 feet high. \r… [+15228 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 92,
   "filteredCount": 0
 }
