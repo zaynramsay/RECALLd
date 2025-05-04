@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-05-04T02:05:39.965Z",
+  "lastUpdated": "2025-05-04T06:31:39.127Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Avocado oil: A nutrient powerhouse for health and cooking",
+      "description": "Rich in monounsaturated and polyunsaturated fats, avocado oil supports cardiovascular health. It also contains antioxidants like vitamin E, lutein and beta-sitosterol. With a high smoke point, it is ideal for frying, grilling and roasting, unlike many process…",
+      "url": "https://www.naturalnews.com/2025-05-03-avocado-oil-nutrient-powerhouse-for-health-cooking.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Avocado-Green-Slices-Seed.jpg",
+      "publishedAt": "2025-05-03T06:00:00Z",
+      "content": "<ul><li>Rich in monounsaturated and polyunsaturated fats, avocado oil supports cardiovascular health. It also contains antioxidants like vitamin E, lutein and beta-sitosterol.</li><li>With a high smo… [+7203 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -441,7 +454,7 @@
       "url": "https://securityaffairs.com/177278/security/two-sonicwall-sma100-flaws-actively-exploited-in-the-wild.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
       "publishedAt": "2025-05-01T08:31:17Z",
-      "content": "Two SonicWall SMA100 flaws actively exploited in the wild\r\n | Hive0117 group targets Russian firms with new variant of DarkWatchman malware\r\n��| Russia-linked group Nebulous Mantis targets NATO-relate… [+160032 chars]"
+      "content": "Two SonicWall SMA100 flaws actively exploited in the wild\r\n | Hive0117 group targets Russian firms with new variant of DarkWatchman malware\r\n | Russia-linked group Nebulous Mantis targets NATO-relate… [+160032 chars]"
     },
     {
       "source": {
@@ -1170,19 +1183,6 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/089/117/734/JWBKNELpyQ2J8GXqQPvbX5R93/04267ead822a009c1e4dde887a3a039963a1b65c.png",
       "publishedAt": "2025-04-29T04:06:00Z",
       "content": "It was history. On March 11, 2011, the Great East Japan Earthquake, magnitude 9.0, struck 80 miles off the Northeast Coast of Japan, generating a series of tsunami waves, some of them 40 feet high. \r… [+15228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "Jenna Anderson",
-      "title": "FDA Suspends Key Milk Safety Program—What This Means For You",
-      "description": "The FDA has paused a quality control program for milk and dairy products. Food safety experts are concerned, but they say our milk is still safe to consume. Here's what you need to know.",
-      "url": "https://www.health.com/fda-suspends-milk-quality-testing-11721352",
-      "urlToImage": "https://www.health.com/thmb/AXBS4zvTfcfl9aaPvIrYZ7jXEBg=/7000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1493895795-fde3832f1d0f418f9d520fbf6d6d22e6.jpg",
-      "publishedAt": "2025-04-29T02:41:51Z",
-      "content": "The Food and Drug Administration has paused a quality control program for testing milk and other dairy products, Reuters reported on Monday.\r\n The media outlet obtained an internal email from the FDA… [+5166 chars]"
     }
   ],
   "totalResults": 91,
