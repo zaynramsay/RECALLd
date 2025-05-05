@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-05T02:00:30.579Z",
+  "lastUpdated": "2025-05-05T06:35:01.167Z",
   "articles": [
     {
       "source": {
@@ -238,6 +238,19 @@
     {
       "source": {
         "id": null,
+        "name": "PR Newswire UK"
+      },
+      "author": null,
+      "title": "Filter Media Market Expands Amid Rising Demand in Industrial and Biomedical Applications - Key Drivers and Forecasts | Valuates Reports",
+      "description": "BANGALORE, India, May 2, 2025 /PRNewswire/ -- Filter Media Market is Segmented by Type (Masks, Respirators and Vacuum Cleaners, Fluid Power and Mobile, Indoor Air and Gas Turbines, Dust Collectors and Macrofiltration, Filter Clothing Cartridges), by Applicati…",
+      "url": "https://www.prnewswire.co.uk/news-releases/filter-media-market-expands-amid-rising-demand-in-industrial-and-biomedical-applications--key-drivers-and-forecasts--valuates-reports-302445165.html",
+      "urlToImage": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
+      "publishedAt": "2025-05-02T16:23:00Z",
+      "content": "BANGALORE, India, May 2, 2025 /PRNewswire/ -- Filter Media Market is Segmented by Type (Masks, Respirators and Vacuum Cleaners, Fluid Power and Mobile, Indoor Air and Gas Turbines, Dust Collectors an… [+12413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Twistedsifter.com"
       },
       "author": "Ben Auxier",
@@ -279,7 +292,7 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Anton��n Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
+      "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
       "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
       "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
       "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003097",
@@ -1209,19 +1222,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0322235.g002&size=inline",
       "publishedAt": "2025-04-29T14:00:00Z",
       "content": "Citation: Gebeyehu DT, East L, Wark S, Islam MS (2025) Food safety practices of individuals before and after the emergence of COVID-19: A pre- and post-comparative analysis. PLoS One 20(4):\r\n e032223… [+38728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "BEO Pharma Inc. dba BEO Pharmaceuticals Inc. - 701364 - 04/09/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/beo-pharma-inc-dba-beo-pharmaceuticals-inc-701364-04092025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-04-29T13:20:07Z",
-      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-64\r\nProduct:\r\nDrugs \r\nRecipient:\r\nBEO Pharma Inc. dba BEO Pharmaceuticals Inc.\r\n16255 Aviation Loop Dr.Brooksville, FL34606United States\r\nIssuing Off… [+19605 chars]"
     }
   ],
   "totalResults": 94,
