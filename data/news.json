@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-05T06:35:01.167Z",
+  "lastUpdated": "2025-05-05T12:49:48.183Z",
   "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Andrea Margolis",
+      "title": "Students cook ancient rice dish based on 2,000-year-old manuscript with surprisingly healthy results",
+      "description": "Students at the Yuelu Academy of Hunan University in China embarked on a project to recreate a rice dish from an ancient recipe, yielding an unusual and surprisingly healthy food result.",
+      "url": "https://www.foxnews.com/food-drink/students-cook-ancient-rice-dish-2000-year-old-manuscript-surprising-healthy-results",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/copy-of-right-inset-22.png",
+      "publishedAt": "2025-05-04T11:00:51Z",
+      "content": "A group of students recently recreated a rice dish using an ancient recipe and the results were unusual.\r\nThe challenge was undertaken by researchers at the Yuelu Academy of Hunan University in China… [+2295 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 522 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Rhysida Ransom…",
+      "url": "https://securityaffairs.com/177397/breaking-news/security-affairs-newsletter-round-522-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-05-04T10:05:53Z",
+      "content": "Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Rhysida Ransomware gang claims the hack of the Government of Peru\r\n | DragonForce group claims the theft of data … [+160935 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -279,19 +305,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Anastasia Galperina, Gabriele Andrea Lugli, Christian Milani, Willem M. De Vos, Marco Ventura, Anne Salonen, Bonnie Hurwitz, Alise Jany Ponsero",
-      "title": "The Aggregated Gut Viral Catalogue (AVrC): A unified resource for exploring the viral diversity of the human gut",
-      "description": "Author summary The human gut is home to a vast diversity of viruses which have been shown to play a crucial role in human health and disease. In order to explore the Human gut virome diversity, several research groups have mined metagenomic samples to create …",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012268",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012268.g004&size=inline",
-      "publishedAt": "2025-05-02T14:00:00Z",
-      "content": "Abstract\r\nThe growing interest in the role of the gut virome in human health and disease, has led to several recent large-scale viral catalogue projects mining human gut metagenomes each using varied… [+41456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
       "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
       "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
@@ -299,6 +312,19 @@
       "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003097.g006&size=inline",
       "publishedAt": "2025-05-02T14:00:00Z",
       "content": "Citation: Jigisha J, Ly J, Minadakis N, Freund F, Kunz L, Piechota U, et al. (2025) Population genomics and molecular epidemiology of wheat powdery mildew in Europe. PLoS Biol 23(5):\r\n e3003097.\r\nhtt… [+89558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Anastasia Galperina, Gabriele Andrea Lugli, Christian Milani, Willem M. De Vos, Marco Ventura, Anne Salonen, Bonnie Hurwitz, Alise Jany Ponsero",
+      "title": "The Aggregated Gut Viral Catalogue (AVrC): A unified resource for exploring the viral diversity of the human gut",
+      "description": "Author summary The human gut is home to a vast diversity of viruses which have been shown to play a crucial role in human health and disease. In order to explore the Human gut virome diversity, several research groups have mined metagenomic samples to create …",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012268",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012268.g004&size=inline",
+      "publishedAt": "2025-05-02T14:00:00Z",
+      "content": "Abstract\r\nThe growing interest in the role of the gut virome in human health and disease, has led to several recent large-scale viral catalogue projects mining human gut metagenomes each using varied… [+41456 chars]"
     },
     {
       "source": {
@@ -1170,60 +1196,8 @@
       "urlToImage": "https://api.time.com/wp-content/uploads/2025/04/Robert-F-Kennedy-Jr-milk.jpg?quality=85&w=1024&h=628&crop=1",
       "publishedAt": "2025-04-29T14:25:09Z",
       "content": "On April 21, The Food and Drug Administration (FDA) announced that it will be suspending its oversight of the labs that conduct safety and quality testing on the nations milk supply. The move comes a… [+7629 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Daehan Lee, Michael P. Shahandeh, Liliane Abuin, Richard Benton",
-      "title": "Comparative single-cell transcriptomic atlases of drosophilid brains suggest glial evolution during ecological adaptation",
-      "description": "How do diverse brain cells change over evolution? By comparing single-cell transcriptomic atlases from ecologically-distinct drosophilid species, this work identifies changes in the composition and gene expression patterns of different cell types, revealing h…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003120",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003120.g006&size=inline",
-      "publishedAt": "2025-04-29T14:00:00Z",
-      "content": "Citation: Lee D, Shahandeh MP, Abuin L, Benton R (2025) Comparative single-cell transcriptomic atlases of drosophilid brains suggest glial evolution during ecological adaptation. PLoS Biol 23(4):\r\n e… [+73338 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Alexey V. Boyko, Igor Yu. Dolmatov, Alexander S. Girich, Sergey I. Maslennikov",
-      "title": "Some molecular aspects of larval development in Paralithodes camtschaticus",
-      "description": "The transcriptome of the red king crab, Paralithodes camtschaticus, was sequenced at four developmental stages: zoea I, zoea IV, glaucothoe, and juveniles. Based on our RNA-seq data and paired-end reads from 112 libraries obtained by other researchers earlier…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322234",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0322234.g006&size=inline",
-      "publishedAt": "2025-04-29T14:00:00Z",
-      "content": "De novo transcriptome assembly\r\nSequencing of four libraries corresponding to the four developmental stages (Fig 1) of P. camtschaticuszoea I, zoea IV, glaucothoe, and juvenileresulted in a total of … [+25728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cheezburger.com"
-      },
-      "author": "JR Atkinson, JR Atkinson",
-      "title": "'As a mother of a child with celiac disease, I am shocked': Parents drops off 9-year-old with gluten allergy at an acquaintance's house with no food instructions, won't reimburse them for food cost",
-      "description": "Allergies are not a simple matter. If you don't have experience dealing with one, you might not know just how much goes into making sure your food is safe. You might think it's as simple as avoiding the allergen, but it's more complicated than that. You have …",
-      "url": "https://cheezburger.com/40344581/as-a-mother-of-a-child-with-celiac-disease-i-am-shocked-parents-drops-off-9-year-old-with-gluten",
-      "urlToImage": "https://i.chzbgr.com/thumb1200/40344581/hB2EEC89F/raising-kids-parenting-fail-parents-children-parenting-fails-allergy-food-allergy-babysitting",
-      "publishedAt": "2025-04-29T14:00:00Z",
-      "content": "Allergies are not a simple matter. If you don't have experience dealing with one, you might not know just how much goes into making sure your food is safe. You might think it's as simple as avoiding … [+697 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Daniel Teshome Gebeyehu, Leah East, Stuart Wark, Md Shahidul Islam",
-      "title": "Food safety practices of individuals before and after the emergence of COVID-19: A pre- and post-comparative analysis",
-      "description": "Background Recent literature highlights both beneficial and adverse effects of COVID-19 on individual food safety practices; however, the actual impact remains unverified, especially in low-resource countries. This study primarily aimed to investigate how COV…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322235",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0322235.g002&size=inline",
-      "publishedAt": "2025-04-29T14:00:00Z",
-      "content": "Citation: Gebeyehu DT, East L, Wark S, Islam MS (2025) Food safety practices of individuals before and after the emergence of COVID-19: A pre- and post-comparative analysis. PLoS One 20(4):\r\n e032223… [+38728 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 92,
   "filteredCount": 0
 }
