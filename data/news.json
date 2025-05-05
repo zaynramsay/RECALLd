@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-05T12:49:48.183Z",
+  "lastUpdated": "2025-05-05T18:30:03.308Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Malicious Go Modules designed to wipe Linux systems",
+      "description": "Researchers found 3 malicious Go modules with hidden code that can download payloads to wipe a Linux system’s main disk, making it unbootable. The malicious modules contain obfuscated code to fetch next-stage payloads that can wipe a Linux system’s primary di…",
+      "url": "https://securityaffairs.com/177411/malware/malicious-go-modules-designed-to-wipe-linux-systems.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-6.png",
+      "publishedAt": "2025-05-04T15:09:05Z",
+      "content": "Malicious Go Modules designed to wipe Linux systems\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n | Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Rhysida … [+161040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape io_uring Is Back, This Time as a Rootkit   I StealC You: Tracking the Rapid Changes To StealC Interesting WordPress Malware D…",
+      "url": "https://securityaffairs.com/177401/malware/security-affairs-malware-newsletter-round-44.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-05-04T14:18:11Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n | Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Rhysida Ransomware gang claims the hack of the Government of Per… [+160984 chars]"
+    },
     {
       "source": {
         "id": "fox-news",
@@ -305,19 +331,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
-      "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
-      "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003097",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003097.g006&size=inline",
-      "publishedAt": "2025-05-02T14:00:00Z",
-      "content": "Citation: Jigisha J, Ly J, Minadakis N, Freund F, Kunz L, Piechota U, et al. (2025) Population genomics and molecular epidemiology of wheat powdery mildew in Europe. PLoS Biol 23(5):\r\n e3003097.\r\nhtt… [+89558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Anastasia Galperina, Gabriele Andrea Lugli, Christian Milani, Willem M. De Vos, Marco Ventura, Anne Salonen, Bonnie Hurwitz, Alise Jany Ponsero",
       "title": "The Aggregated Gut Viral Catalogue (AVrC): A unified resource for exploring the viral diversity of the human gut",
       "description": "Author summary The human gut is home to a vast diversity of viruses which have been shown to play a crucial role in human health and disease. In order to explore the Human gut virome diversity, several research groups have mined metagenomic samples to create …",
@@ -325,6 +338,19 @@
       "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012268.g004&size=inline",
       "publishedAt": "2025-05-02T14:00:00Z",
       "content": "Abstract\r\nThe growing interest in the role of the gut virome in human health and disease, has led to several recent large-scale viral catalogue projects mining human gut metagenomes each using varied… [+41456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
+      "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
+      "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003097",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003097.g006&size=inline",
+      "publishedAt": "2025-05-02T14:00:00Z",
+      "content": "Citation: Jigisha J, Ly J, Minadakis N, Freund F, Kunz L, Piechota U, et al. (2025) Population genomics and molecular epidemiology of wheat powdery mildew in Europe. PLoS Biol 23(5):\r\n e3003097.\r\nhtt… [+89558 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/04/New-Project12-28.jpg",
       "publishedAt": "2025-04-29T18:45:00Z",
       "content": "HT BureauGUWAHATI, April 29: The Hotel and Restaurant Association of Eastern India (HRAEI) successfully conducted a Food Safety Training and Certification Program on Advanced Catering in Guwahati on … [+2531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Empower Clinic Services, LLC dba Empower Pharmacy - 700964 - 04/02/2025",
-      "description": "Compounding Pharmacy/Adulterated Drug Products",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/empower-clinic-services-llc-dba-empower-pharmacy-700964-04022025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-04-29T15:22:48Z",
-      "content": "Delivery Method:\r\nVia Electronic Mail - Delivery and Read Receipt Requested\r\nProduct:\r\nDrugs \r\nRecipient:\r\nEmpower Clinic Services, LLC dba Empower Pharmacy\r\n7601 N Sam Houston Pkwy W Ste 100Houston,… [+9226 chars]"
-    },
-    {
-      "source": {
-        "id": "time",
-        "name": "Time"
-      },
-      "author": "Carla Cevasco / Made by History",
-      "title": "The History of Why Raw Milk Regulation is Necessary",
-      "description": "In the 19th century, tens of thousands of babies died every year of gastroenteritis, due in part, to an unregulated milk industry.",
-      "url": "https://time.com/7280534/why-raw-milk-regulation-is-necessary/",
-      "urlToImage": "https://api.time.com/wp-content/uploads/2025/04/Robert-F-Kennedy-Jr-milk.jpg?quality=85&w=1024&h=628&crop=1",
-      "publishedAt": "2025-04-29T14:25:09Z",
-      "content": "On April 21, The Food and Drug Administration (FDA) announced that it will be suspending its oversight of the labs that conduct safety and quality testing on the nations milk supply. The move comes a… [+7629 chars]"
     }
   ],
   "totalResults": 92,
