@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-05-06T06:33:38.164Z",
+  "lastUpdated": "2025-05-06T12:51:03.871Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A hacker stole data from TeleMessage, the firm that sells modified versions of Signal to the U.S. gov",
+      "description": "A hacker stole data from TeleMessage, exposing messages from its modified Signal, WhatsApp, and other apps sold to the U.S. government. A hacker stole customer data from TeleMessage, an Israeli firm selling modified versions of popular messaging apps, such as…",
+      "url": "https://securityaffairs.com/177458/hacking/a-hacker-stole-data-from-telemessage-the-firm-that-sells-modified-versions-of-signal-to-the-u-s-gov.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-10.png",
+      "publishedAt": "2025-05-05T12:06:21Z",
+      "content": "A hacker stole data from TeleMessage, the firm that sells modified versions of Signal to the U.S. gov\r\n | Experts shared up-to-date C2 domains and other artifacts related to recent MintsLoader attack… [+161389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Drew Weisholtz",
+      "title": "EXCLUSIVE: Mike Tirico speaks out about Kentucky Derby exit after having allergic reaction",
+      "description": "Mike Tirico, who left NBC Sports’ coverage of the Kentucky Derby, talked to TODAY about what happened and how he's feeling.",
+      "url": "https://www.today.com/health/mike-tirico-kentucky-derby-nut-allergy-rcna204781",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/mike-tirico-mc-250503-c65b38.jpg",
+      "publishedAt": "2025-05-05T11:57:15Z",
+      "content": "NBC Sports Mike Tirico stepped away from coverage of the Kentucky Derby on May 3 due to a nut allergy but says hes doing well now.\r\nI feel fine. I have my coffee, watching the (TODAY) show like I do … [+2814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Experts shared up-to-date C2 domains and other artifacts related to recent MintsLoader attacks",
+      "description": "MintsLoader is a malware loader delivering the GhostWeaver RAT via a multi-stage chain using obfuscated JavaScript and PowerShell. Recorded Future researchers observed MintsLoader delivering payloads like GhostWeaver via obfuscated scripts, evading detection …",
+      "url": "https://securityaffairs.com/177448/malware/experts-shared-up-to-date-c2-domains-and-other-artifacts-related-to-recent-mintsloader-attacks.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-9.png",
+      "publishedAt": "2025-05-05T11:24:21Z",
+      "content": "Experts shared up-to-date C2 domains and other artifacts related to recent MintsLoader attacks\r\n | Sansec uncovered a supply chain attack via 21 backdoored Magento extensions\r\n | US authorities have … [+161283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inter Press Service"
+      },
+      "author": "Ed Holt",
+      "title": "Lives at Risk After Some States Withdraw From Landmine Treaty",
+      "description": "As a string of European states announce withdrawals from a global treaty banning antipersonnel landmines, campaigners are warning countless lives could be put at risk as decades of progress fighting the weapons come under threat. On April 16, Latvia’s parliam…",
+      "url": "https://www.ipsnews.net/2025/05/lives-at-risk-after-some-states-withdraw-from-landmine-treaty/",
+      "urlToImage": "https://www.ipsnews.net/Library/2025/05/ukraine_halo_6A5A6964-copy.jpg",
+      "publishedAt": "2025-05-05T10:05:42Z",
+      "content": "Active Citizens, Armed Conflicts, Asia-Pacific, Civil Society, Development &amp; Aid, Editors' Choice, Europe, Featured, Headlines, Human Rights, Humanitarian Emergencies, Peace, Sustainable Developm… [+10878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Sansec uncovered a supply chain attack via 21 backdoored Magento extensions",
+      "description": "Supply chain attack via 21 backdoored Magento extensions hit 500–1,000 e-stores, including a $40B multinational. Sansec researchers reported that multiple vendors were hacked in a coordinated supply chain attack, the experts discovered that a backdoor was hid…",
+      "url": "https://securityaffairs.com/177436/malware/sansec-uncovered-a-supply-chain-attack-via-21-backdoored-magento-extensions.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-7.png",
+      "publishedAt": "2025-05-05T07:34:37Z",
+      "content": "Sansec uncovered a supply chain attack via 21 backdoored Magento extensions\r\n | US authorities have indicted Black Kingdom ransomware admin\r\n | Malicious Go Modules designed to wipe Linux systems\r\n |… [+161184 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1113,7 +1178,7 @@
       },
       "author": "Sean Moran, Sean Moran",
       "title": "Exclusive: Lee Zeldin Details 100 Environmental Actions EPA Took to 'Power the American Comeback' Under Trump",
-      "description": "Environmental Protection Agency (EPA) Administrator Lee Zeldin detailed 100 environmental actions the agency took to \"power the American comeback\" 100 days into President Donald Trump's second term in office.\nThe post Exclusive: Lee Zeldin Details 100 Environ���",
+      "description": "Environmental Protection Agency (EPA) Administrator Lee Zeldin detailed 100 environmental actions the agency took to \"power the American comeback\" 100 days into President Donald Trump's second term in office.\nThe post Exclusive: Lee Zeldin Details 100 Environ…",
       "url": "https://www.breitbart.com/politics/2025/04/30/exclusive-epa-chief-lee-zeldin-100-environmental-actions-power-american-comeback/",
       "urlToImage": "https://media.breitbart.com/media/2025/04/Lee-Zeldin-Donald-Trump-April-8-2025-dc-getty-640x335.jpg",
       "publishedAt": "2025-04-30T12:30:44Z",
@@ -1144,60 +1209,8 @@
       "urlToImage": "https://www.yankodesign.com/images/design_news/2025/04/compact-and-stylish-japanese-cooking-tools-for-campfire-meals/10_best_japanese_cooking_camping_tools_yanko_design_02.jpg",
       "publishedAt": "2025-04-30T11:40:40Z",
       "content": "Cooking outdoors is an adventure in itselfa blend of creativity, resourcefulness, and savoring simple pleasures under the open sky. For many campers, the right gear can mean the difference between a … [+13544 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Shelley E. Kohan, Senior Contributor, \n Shelley E. Kohan, Senior Contributor\n https://www.forbes.com/sites/shelleykohan/",
-      "title": "PFAS-Free Revolution: How Consumer Demand Outpaces Regulation",
-      "description": "The battle against forever chemicals (PFAS) represents a pivotal shift in consumer-corporate dynamics. The PFAS revolution is here with consumers are leading the charge.",
-      "url": "https://www.forbes.com/sites/shelleykohan/2025/04/30/pfas-free-revolution-how-consumer-demand-outpaces-regulation/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68117e5c30d504832f83a8a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-04-30T11:00:00Z",
-      "content": "Only three labs in the country can rigorously test down to the part-per-trillion level and help ... More brands validate PFAS-free claims with real, third party validated data. (Photo by DAVID PINTEN… [+8625 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Jacqueline Boyd",
-      "title": "Expert reveals the disgusting reason why you should never let your dog drink from a shared water bowl",
-      "description": "Dangerous bacteria poses a risk to both canines and their owners",
-      "url": "https://www.the-independent.com/life-style/dog-communal-water-bowl-danger-advice-health-b2742192.html",
-      "urlToImage": "https://static.the-independent.com/2022/04/13/19/4fb72667d0c5959c2fb3601cada4dcbcY29udGVudHNlYXJjaGFwaSwxNjQ5OTQ5MTE1-2.6233512.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-04-30T10:19:29Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4174 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jeremy Diamond",
-      "title": "Gaza edges closer to famine as Israel’s total blockade nears its third month | CNN",
-      "description": "Sitting inside her fly-infested tent in Gaza City, Iman Rajab sifts clumps of flour through a sieve, over and over again.",
-      "url": "https://www.cnn.com/2025/04/30/middleeast/gaza-edges-closer-to-famine-amid-israels-total-blockade-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2212019923.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-04-30T09:50:57Z",
-      "content": "Sitting inside her fly-infested tent in Gaza City, Iman Rajab sifts clumps of flour through a sieve, over and over again.\r\nShe found the half-bag of flour in a garbage dumpster. It is crawling with p… [+5595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Observer"
-      },
-      "author": "Helena Horton",
-      "title": "Wildflowers could be absorbing toxic metals that pass on to bees, study finds",
-      "description": "While scientists are quick to reassert the importance of planting wildflowers as a food source for pollinators, they do call for urban areas to be tested for contaminants and potentially cleaned beforehand.",
-      "url": "https://www.nationalobserver.com/2025/04/30/news/toxic-metals-wildflowers-bees",
-      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/04/29/12622731023_6dbab8d1e6_h.jpg",
-      "publishedAt": "2025-04-30T09:09:05Z",
-      "content": "This story was originally published by The Guardian and appears here as part of the Climate Desk collaboration.\r\nWildflowers could be absorbing toxic metals from soil in urban areas and passing toxin… [+2840 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
