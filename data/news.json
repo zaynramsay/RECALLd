@@ -1,6 +1,149 @@
 {
-  "lastUpdated": "2025-05-07T06:34:05.419Z",
+  "lastUpdated": "2025-05-07T12:51:47.479Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Carly Cassella",
+      "title": "Does Kissing Expose You to Gluten? Scientists Investigated The Risks",
+      "description": "When someone is diagnosed with celiac disease, they have a lot of questions, but there's a common one that doctors say they get a lot: Can you kiss someone who has just eaten gluten? In recent surveys, as many as 40 percent of celiac patients say they are hes…",
+      "url": "https://www.sciencealert.com/does-kissing-expose-you-to-gluten-scientists-investigated-the-risks",
+      "urlToImage": "https://www.sciencealert.com/images/2024/10/kissy-lips.jpg",
+      "publishedAt": "2025-05-06T12:00:27Z",
+      "content": "When someone is diagnosed with celiac disease, they have a lot of questions, but there's a common one that doctors say they get a lot: Can you kiss someone who has just eaten gluten?\r\nIn recent surve… [+4111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Nut Recall Update as FDA Issues Highest Risk Warning",
+      "description": "The mislabeling of allergens is a leading cause of food recalls in the U.S., and can have serious or life-threatening implications for those with allergies.",
+      "url": "https://biztoc.com/x/c37000abcf799bbc",
+      "urlToImage": "https://biztoc.com/cdn/930/og.png",
+      "publishedAt": "2025-05-06T11:51:12Z",
+      "content": "The mislabeling of allergens is a leading cause of food recalls in the U.S., and can have serious or life-threatening implications for those with allergies.\r\nThis story appeared on newsweek.com, 2025… [+15 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Nut Recall Update as FDA Issues Highest Risk Warning",
+      "description": "The mislabeling of allergens is a leading cause of food recalls in the U.S., and can have serious or life-threatening implications for those with allergies.",
+      "url": "https://www.newsweek.com/nut-recall-update-fda-highest-risk-level-2068387",
+      "urlToImage": "https://d.newsweek.com/en/full/2639093/peanuts-recall.jpg",
+      "publishedAt": "2025-05-06T11:48:53Z",
+      "content": "The recall of a mislabeled nut product distributed in two U.S. states has been updated by the Food and Drug Administration as Class I, the most serious FDA classification, due to the risk of severe a… [+3380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Bioventus, Inc.",
+      "title": "Bioventus Reports First Quarter Financial Results",
+      "description": "DURHAM, N.C., May 06, 2025 (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS) (\"Bioventus\" or the \"Company\"), a global leader in innovations for active healing, today reported financial results for the three months ended March 29, 2025.",
+      "url": "https://www.globenewswire.com/news-release/2025/05/06/3074929/0/en/Bioventus-Reports-First-Quarter-Financial-Results.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e10db184-593a-40b5-af02-627c27583108",
+      "publishedAt": "2025-05-06T11:30:00Z",
+      "content": "<ul><li>Q1 reported revenue of $123.9 million declined 4.3%; Organic* revenue advanced 5.0%</li><li>First quarter net loss was $0.04 per share compared to a loss of $0.08 in the prior-year period</li… [+51710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Cody Cottier",
+      "title": "These Fish and Flies Are Engineered to Break Down Mercury",
+      "description": "Bacterial genes protect animals—and their predators—from harmful contamination",
+      "url": "https://www.scientificamerican.com/article/these-fish-and-flies-are-engineered-to-break-down-mercury/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/efbce1f479c68b3/original/sa0525_danio_zebrafish_advances.png?m=1746211243.138&w=1200",
+      "publishedAt": "2025-05-06T10:45:00Z",
+      "content": "For decades mercury has been settling into lakes and oceans, where it builds up relentlessly in fish and everything that eats them—humans included. This pollution, which exposes millions of people to… [+3191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Google fixed actively exploited Android flaw CVE-2025-27363",
+      "description": "Google addressed 46 Android security vulnerabilities, including one issue that has been exploited in attacks in the wild. Google’s monthly security updates for Android addressed 46 flaws, including a high-severity vulnerability, tracked as CVE-2025-27363 (CVS…",
+      "url": "https://securityaffairs.com/177514/mobile-2/google-fixed-actively-exploited-android-flaw-cve-2025-27363.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/02/Android-security.png",
+      "publishedAt": "2025-05-06T10:23:57Z",
+      "content": "Google fixed actively exploited Android flaw CVE-2025-27363\r\n | New 'Bring Your Own Installer (BYOI)' technique allows to bypass EDR\r\n | Smishing on a Massive Scale: Panda Shop Chinese Carding Syndic… [+161670 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uncannymagazine.com"
+      },
+      "author": "Caroline M. Yoachim, Uncanny Magazine",
+      "title": "Unfinished Architectures of the Human-Fae War",
+      "description": "Kestrel House  There have been portals to the Fae realm for at least as long as humans have had fairy tales, but the first one deliberately engineered by humans was opened in an abandoned amusement park thirty-five miles northeast of Antiphony. The historic e…",
+      "url": "https://www.uncannymagazine.com/?post_type=article&p=7990",
+      "urlToImage": "https://www.uncannymagazine.com/wp-content/uploads/2025/05/Issue-64-cover-base_v2-med-683x1024.png",
+      "publishedAt": "2025-05-06T10:00:50Z",
+      "content": "Kestrel House\r\n There have been portals to the Fae realm for at least as long as humans have had fairy tales, but the first one deliberately engineered by humans was opened in an abandoned amusement … [+39226 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New ‘Bring Your Own Installer (BYOI)’ technique allows to bypass EDR",
+      "description": "A new BYOI technique lets attackers bypass SentinelOne EDR, disable protection, and deploy Babuk ransomware by exploiting the agent upgrade process. Aon’s Stroz Friedberg discovered a new “Bring Your Own Installer” (BYOI)  EDR bypass technique that exploits a…",
+      "url": "https://securityaffairs.com/177494/hacking/new-bring-your-own-installer-byoi-technique-allows-to-bypass-edr.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-12.png",
+      "publishedAt": "2025-05-06T08:57:20Z",
+      "content": "New 'Bring Your Own Installer (BYOI)' technique allows to bypass EDR\r\n | Smishing on a Massive Scale: Panda Shop Chinese Carding Syndicate\r\n | Kelly Benefits December data breach impacted over 400,00… [+161606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grist"
+      },
+      "author": "Joseph Winters",
+      "title": "This commonly used plastic chemical caused 350,000 heart disease-related deaths in 1 year",
+      "description": "People in Asia are exposed to levels up to six times higher than their counterparts in the West.",
+      "url": "http://grist.org/science/plastic-chemical-dehp-phthalate-deaths-heart-disease-2018-lancet/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2025/05/Dhaka-recycling-factory.jpg?quality=75&strip=all",
+      "publishedAt": "2025-05-06T08:30:00Z",
+      "content": "More than 16,000 chemicals are used to produce plastics  and some are silently killing us.\r\nParticularly worrisome is di-2-ethylhexylphthalate, or DEHP, a chemical used to soften plastic products. Co… [+6528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Consumer Packaging Market Size to Uplift USD 969.73 Bn by 2034 | Towards Packaging Research Report",
+      "description": "According to Towards Packaging, the consumer packaging market size stood at USD 664.64 billion in 2024 and is predicted to exceed USD 969.73 billion by 2034, experiencing a CAGR of 3.85% from 2024 to 2034. According to Towards Packaging, the consumer packagin…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/06/3074766/0/en/Consumer-Packaging-Market-Size-to-Uplift-USD-969-73-Bn-by-2034-Towards-Packaging-Research-Report.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-05-06T08:30:00Z",
+      "content": "Ottawa, May 06, 2025 (GLOBE NEWSWIRE) -- The consumer packaging market size to record USD 690.23 billion in 2025 and is projected to grow beyond USD 969.73 billion by 2034, a study published by Towar… [+22150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grist"
+      },
+      "author": "Joseph Winters",
+      "title": "This commonly used plastic chemical caused 350,000 heart disease-related deaths in 1 year",
+      "description": "People in Asia are exposed to levels up to six times higher than their counterparts in the West.",
+      "url": "http://grist.org/health/plastic-chemical-dehp-phthalate-deaths-heart-disease-2018-lancet/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2025/05/Dhaka-recycling-factory.jpg?quality=75&strip=all",
+      "publishedAt": "2025-05-06T08:30:00Z",
+      "content": "More than 16,000 chemicals are used to produce plastics  and some are silently killing us.\r\nParticularly worrisome is di-2-ethylhexylphthalate, or DEHP, a chemical used to soften plastic products. Co… [+6518 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1066,149 +1209,6 @@
       "urlToImage": "https://display.blogto.com/articles/20250501-canada-recalls-0.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
       "publishedAt": "2025-05-01T14:22:22Z",
       "content": "Health Canada has issued a recall of a popular beauty cream sold across Canada due to potential contamination.\r\nIn a statement shared on Wednesday, April 30, the agency announced the recall of the Wa… [+1771 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "author": "Srishti Mitra",
-      "title": "Top 10 Adventure Essentials For The Serious Outdoor Enthusiast",
-      "description": "Top 10 Adventure Essentials For The Serious Outdoor EnthusiastVenturing into the wild is more than a hobby for true outdoor enthusiasts—it’s a lifestyle. Whether you’re scaling mountains, traversing forests, or camping under the...",
-      "url": "https://www.yankodesign.com/2025/05/01/top-10-adventure-essentials-for-the-serious-outdoor-enthusiast/",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/04/adventure-essentials-for-the-serious-outdoor-enthusiasts/top_10_adventure_essentials_yanko_design_hero.jpg",
-      "publishedAt": "2025-05-01T12:45:12Z",
-      "content": "Venturing into the wild is more than a hobby for true outdoor enthusiastsits a lifestyle. Whether youre scaling mountains, traversing forests, or camping under the stars, the right gear can make the … [+12917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Julie Kendrick",
-      "title": "We're Food Safety Lawyers — Here Are 3 Things We'd Never Eat",
-      "description": "Here are three items they steer clear of, and why you should too.",
-      "url": "https://www.huffpost.com/entry/what-food-safety-lawyers-wont-eat_l_6802655fe4b01dc12d4bba76",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68026cd61500002500cd6249.jpeg?ops=1200_630",
-      "publishedAt": "2025-05-01T11:00:35Z",
-      "content": "In 2023, two people died after contracting salmonella from precut cantaloupe. In that outbreak, 99 people across 32 states were infected, and 45 were hospitalized.\r\nConsidering all the times youve ea… [+8122 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Post"
-      },
-      "author": "Special to National Post",
-      "title": "Terror, violence and organized crime: Inside the lawless East Coast fishery",
-      "description": "How Ottawa pitted First Nations and traditional fishing communities against one another and sparked a war in Atlantic Canada.",
-      "url": "https://nationalpost.com/feature/atlantic-canada-fishing-wars",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/04/atlantic-fishery-treaty-organized-crime-lobster-elvers-eels-east-coast-commercial-wharf-st-marys.jpg",
-      "publishedAt": "2025-05-01T11:00:31Z",
-      "content": "How Ottawa pitted First Nations and traditional fishing communities against one another and sparked a war in Atlantic Canada\r\nCommercial fishermen allege a large lobster fishery outside the commercia… [+41081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Emilie Lavinia",
-      "title": "I drank kefir for a month and it made me feel like a superhuman – what’s the secret behind this gut-friendly drink?",
-      "description": "Could this fermented drink hold the key to better health?",
-      "url": "https://www.the-independent.com/health-and-fitness/what-is-kefir-b2742907.html",
-      "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-01T08:58:00Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+8675 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Two SonicWall SMA100 flaws actively exploited in the wild",
-      "description": "SonicWall confirmed that threat actors actively exploited two vulnerabilities impacting its SMA100 Secure Mobile Access (SMA) appliances. SonicWall revealed that attackers actively exploited two security vulnerabilities, tracked as CVE-2023-44221 and CVE-2024…",
-      "url": "https://securityaffairs.com/177278/security/two-sonicwall-sma100-flaws-actively-exploited-in-the-wild.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
-      "publishedAt": "2025-05-01T08:31:17Z",
-      "content": "Two SonicWall SMA100 flaws actively exploited in the wild\r\n | Hive0117 group targets Russian firms with new variant of DarkWatchman malware\r\n | Russia-linked group Nebulous Mantis targets NATO-relate… [+160032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Hive0117 group targets Russian firms with new variant of DarkWatchman malware",
-      "description": "Hive0117 targets Russian firms in multiple sectors with phishing attacks using a modified version of the DarkWatchman malware. A cybercrime group named Hive0117 is behind a fresh phishing campaign that targeted Russian organizations with a new version of the …",
-      "url": "https://securityaffairs.com/177268/cyber-crime/hive0117-targets-russian-firms-with-darkwatchman-malware.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/12/Consular-Department-of-the-Embassy-of-the-Russian-Federation.jpg",
-      "publishedAt": "2025-05-01T07:55:30Z",
-      "content": "Hive0117 group targets Russian firms with new variant of DarkWatchman malware\r\n | Russia-linked group Nebulous Mantis targets NATO-related defense organizations\r\n | France links Russian APT28 to atta… [+159970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Strawberries: A sweet superfood packed with nutrition and health benefits",
-      "description": "Strawberries are rich in vitamin C, manganese, fiber, antioxidants and essential minerals, supporting immunity, heart health and digestion. Conventionally grown strawberries frequently top the “Dirty Dozen” list for pesticide contamination, including harmful …",
-      "url": "https://www.naturalnews.com/2025-05-01-strawberries-sweet-superfood-packed-nutrition-health-benefits.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Strawberry-Fresh-Tasty-Background-Beautiful-Berry-Close.jpg",
-      "publishedAt": "2025-05-01T06:00:00Z",
-      "content": "<ul><li>Strawberries are rich in vitamin C, manganese, fiber, antioxidants and essential minerals, supporting immunity, heart health and digestion.</li><li>Conventionally grown strawberries frequentl… [+6767 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ava Grace",
-      "title": "Study: Microplastic contamination in human brains has increased 50 percent between 2016 and 2024",
-      "description": "A study in Nature Medicine reveals a 50 percent surge in microplastic contamination in human brains between 2016 and 2024, with brain tissue containing nearly 8 times more plastic than the liver or kidneys. Microplastics in dementia patients’ brains were 5x h…",
-      "url": "https://www.naturalnews.com/2025-05-01-microplastics-contamination-in-human-brains-increased-50percent.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/microplastics-1.jpeg",
-      "publishedAt": "2025-05-01T06:00:00Z",
-      "content": "<ul><li>A study in Nature Medicine reveals a 50 percent surge in microplastic contamination in human brains between 2016 and 2024, with brain tissue containing nearly 8 times more plastic than the li… [+5297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Caterer linked to norovirus outbreak in Australia",
-      "description": "More than 60 people fell sick in a food handler-related norovirus outbreak in Australia. The outbreak affected six events where attendees consumed food provided by a single catering business in the Australian Capital Territory (ACT). The infection source was …",
-      "url": "https://www.foodsafetynews.com/2025/05/caterer-linked-to-norovirus-outbreak-in-australia/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/089/344/511/9BvRDJ724zW5jX92QlAKNOd03/6713029781fca89bd8b9e9e6871dc23094f45f98.png",
-      "publishedAt": "2025-05-01T04:03:00Z",
-      "content": "More than 60 people fell sick in a food handler-related norovirus outbreak in Australia.\r\nThe outbreak affected six events where attendees consumed food provided by a single catering business in the … [+4314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "San Luis Obispo Tribune"
-      },
-      "author": "Joan Lynch",
-      "title": "SLO County residents warned to boil or purify drinking water due to bacteria",
-      "description": "Water samples collected Monday and Tuesday revealed the presence of a bacteria in drinking water that can cause stomach issues, the county Department of...",
-      "url": "https://www.sanluisobispo.com/news/local/article305441966.html",
-      "urlToImage": "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/87f29f6e466f210ac540e9b82665b118",
-      "publishedAt": "2025-05-01T00:23:21Z",
-      "content": "Update, 5:35 p.m.:\r\nA second news release from the San Luis Obispo County Department of Public Works expanded the water contamination advisory to Arroyo Grande, Grover Beach, Oceano, Avila Beach and … [+2486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Buttondown.com"
-      },
-      "author": "The Sword And the Sandwich",
-      "title": "How to Not Get Poisoned in America",
-      "description": "The minute I saw that Robert Kennedy Jr., a notorious disease-loving health crank, was going to be responsible for the nation’s health—and the health of its...",
-      "url": "https://buttondown.com/theswordandthesandwich/archive/how-to-not-get-poisoned-in-america/",
-      "urlToImage": "https://assets.buttondown.email/images/6ff6d9b1-71e7-484b-8b67-500afa68c811.jpg",
-      "publishedAt": "2025-04-30T22:40:29Z",
-      "content": "April 30, 2025\r\nThe minute I saw that Robert Kennedy Jr., a notorious disease-lovinghealth crank, was going to be responsible for the nations healthand the health of its food supplyI knew who I had t… [+25729 chars]"
     }
   ],
   "totalResults": 93,
