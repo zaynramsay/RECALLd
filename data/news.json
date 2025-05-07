@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-05-06T18:32:40.831Z",
+  "lastUpdated": "2025-05-07T01:57:39.577Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "author": "May 6, 2025",
+      "title": "Climate Change And Conflicts In The Middle East",
+      "description": "Despite the ongoing conflict in the Middle East, it is easy to overlook the impact of climate change. The regional conflicts are largely determined by classical geopolitics. However, it is important not to overlook the environmental factor that exacerbates do…",
+      "url": "https://www.hoover.org/research/climate-change-and-conflicts-middle-east",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2025-05/iStock-157683620.jpg?h=9938f560&itok=DyEbZSk6",
+      "publishedAt": "2025-05-06T00:00:00Z",
+      "content": "Despite the ongoing conflict in the Middle East, it is easy to overlook the impact of climate change. The regional conflicts are largely determined by classical geopolitics. However, it is important … [+31548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Michael Doudna",
+      "title": "Recall alert: Tomatoes distributed in Georgia recalled due to potential salmonella contamination",
+      "description": "The tomatoes were distributed between April 23 and April 28 and then packaged and sold to wholesalers and distributors in Georgia.",
+      "url": "https://www.wsbtv.com/news/local/dekalb-county/recall-alert-tomatoes-distributed-georgia-recalled-due-potential-salmonella-contamination/QNL7VGWLR5BONFU4LKOQRQ67DA/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7DRBU5IAZXJISOYKZCJ5OHHMYQ.jpg?auth=0c2b8c7d9286a159ba0bfd1cff70cb7ad66f7eb5dad2630b8ec4f6022dc4068b&width=1200&height=630&smart=true",
+      "publishedAt": "2025-05-05T22:35:45Z",
+      "content": "DEKALB COUNTY, Ga. — Tomatoes sold under the Williams Farms Repak and the H&amp;C Farms labels are being recalled because they may be contaminated with Salmonella.\r\nA separate recall involves tomatoe… [+2239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Audrey Streb",
+      "title": "Illegal Immigration Thoroughfare Left Trashed, Environmentally Damaged As Migrant Influx Subsides",
+      "description": "As illegal migrants trekked through the Darien Gap on their way to the U.S. southern border, they left behind a mess of garbage, gasoline and fecal matter.",
+      "url": "https://dailycaller.com/2025/05/05/illegal-immigration-darien-gap-trashed-environmentally-damaged-migrant-influx-subsides/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2025/05/GettyImages-2159052463-scaled-e1746469367448.jpg",
+      "publishedAt": "2025-05-05T21:53:13Z",
+      "content": "Crowds of illegal immigrants who trekked through the vast jungle region between Colombia and Panama known as the Darien Gap while making their way to the U.S. southern border left behind heaps of gar… [+6474 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -333,7 +372,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Malicious Go Modules designed to wipe Linux systems",
-      "description": "Researchers found 3 malicious Go modules with hidden code that can download payloads to wipe a Linux system’s main disk, making it unbootable. The malicious modules contain obfuscated code to fetch next-stage payloads that can wipe a Linux system’s primary di���",
+      "description": "Researchers found 3 malicious Go modules with hidden code that can download payloads to wipe a Linux system’s main disk, making it unbootable. The malicious modules contain obfuscated code to fetch next-stage payloads that can wipe a Linux system’s primary di…",
       "url": "https://securityaffairs.com/177411/malware/malicious-go-modules-designed-to-wipe-linux-systems.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-6.png",
       "publishedAt": "2025-05-04T15:09:05Z",
@@ -1170,45 +1209,6 @@
       "urlToImage": "https://rollingout.com/wp-content/uploads/2024/09/shutterstock_2383334621.jpg",
       "publishedAt": "2025-04-30T19:34:31Z",
       "content": "That sharp pain when teeth accidentally clamp down on your tongue is a sensation most people know all too well. While occasional tongue biting during meals is a common annoyance, frequent or recurrin… [+16519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Black hearts at risk from common household plastics",
-      "description": "A disturbing link between common household plastics and thousands of heart disease deaths has emerged from recent research, with evidence suggesting Black communities face disproportionately higher risks. The findings reveal how chemical compounds in everyday…",
-      "url": "https://rollingout.com/2025/04/30/black-hearts-at-risk-from-house-plastics/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/01/microplastics.png",
-      "publishedAt": "2025-04-30T17:12:26Z",
-      "content": "A disturbing link between common household plastics and thousands of heart disease deaths has emerged from recent research, with evidence suggesting Black communities face disproportionately higher r… [+9877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Truthout"
-      },
-      "author": "Marjorie Cohn",
-      "title": "Vietnamese Agent Orange Victims Remain Uncompensated. Tlaib Aims to Change That.",
-      "description": "Vietnamese and US descendants of those exposed to Agent Orange continue to face diseases and congenital anomalies.",
-      "url": "https://truthout.org/articles/vietnamese-agent-orange-victims-remain-uncompensated-tlaib-aims-to-change-that/",
-      "urlToImage": "https://truthout.org/app/uploads/2025/04/2025_0430-vietnam-tlaib.jpg",
-      "publishedAt": "2025-04-30T17:01:49Z",
-      "content": "Part of the Series\r\nToday marks 50 years since the end of the U.S. War in Vietnam, which killed an estimated 3.3 million Vietnamese people, hundreds of thousands of Cambodians, tens of thousands of L… [+12815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Liu Dilong; Zhao Weiwei",
-      "title": "Scientists develop innovative aerosol system to build asymmetric superstructures",
-      "description": "A research team has developed a novel aerosol-based emulsion system that enables the self-assembly of asymmetric nanostructures—something long considered a major challenge in materials science. The team includes researchers from the Hefei Institutes of Physic…",
-      "url": "https://phys.org/news/2025-04-scientists-aerosol-asymmetric-superstructures.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-develop-inn-1.jpg",
-      "publishedAt": "2025-04-30T16:28:03Z",
-      "content": "A research team has developed a novel aerosol-based emulsion system that enables the self-assembly of asymmetric nanostructuressomething long considered a major challenge in materials science. The te… [+2792 chars]"
     }
   ],
   "totalResults": 93,
