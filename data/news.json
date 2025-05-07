@@ -1,6 +1,149 @@
 {
-  "lastUpdated": "2025-05-07T12:51:47.479Z",
+  "lastUpdated": "2025-05-07T18:32:18.733Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Samsung MagicINFO flaw exploited days after PoC exploit publication",
+      "description": "Threat actors started exploiting a vulnerability in Samsung MagicINFO only days after a PoC exploit was published. Arctic Wolf researchers observed threat actors beginning to exploit a high-severity vulnerability, tracked as CVE-2024-7399 (CVSS score: 8.8), i…",
+      "url": "https://securityaffairs.com/177529/hacking/samsung-magicinfo-vulnerability-exploited-after-poc-publication.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/09/Samsung-logo.jpg",
+      "publishedAt": "2025-05-06T17:54:39Z",
+      "content": "Samsung MagicINFO flaw exploited days after PoC exploit publication\r\n | Experts warn of a second wave of attacks targeting SAP NetWeaver bug CVE-2025-31324\r\n | U.S. CISA adds Langflow flaw to its Kno… [+161910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Surgical Staplers Market Size to Exceed USD 11.02 Bn by 2034 | Rising Demand for Minimally Invasive Surgeries Drives Growth",
+      "description": "According to Precedence Research, the global surgical staplers market size was valued at USD 6.14 billion in 2025 and is expected to exceed USD 11.02 billion by 2034, marking a strong CAGR of 6.72% from 2025 to 2034, driven by increasing adoption of minimally…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/06/3075323/0/en/Surgical-Staplers-Market-Size-to-Exceed-USD-11-02-Bn-by-2034-Rising-Demand-for-Minimally-Invasive-Surgeries-Drives-Growth.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-05-06T15:50:00Z",
+      "content": "Ottawa, May 06, 2025 (GLOBE NEWSWIRE) -- In terms of revenue, the surgical staplers market is worth USD 6.14 billion in 2025 and is anticipated to reach around USD 6.56 billion in 2026. The market is… [+19928 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Peter Burke",
+      "title": "Baked beans inspired by popular TV series recalled for undeclared allergen",
+      "description": "A total of 4,515 cases of baked beans from a food line inspired by a popular television series have been recalled because of an undeclared allergen. Here are details.",
+      "url": "https://www.foxnews.com/food-drink/baked-beans-inspired-popular-tv-series-recalled-undeclared-allergen",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/baked-beans.jpg",
+      "publishedAt": "2025-05-06T15:24:16Z",
+      "content": "Baked beans from a food line inspired by a popular television series have been recalled because of an undeclared allergen.\r\nVietti Food Group of Nashville, Tennessee, is recalling 4,515 cases of its … [+1608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "University of Portsmouth",
+      "title": "UK falling behind international efforts as microplastics infiltrate food, bodies, and ecosystems, warn researchers",
+      "description": "The UK government must urgently draw up a comprehensive national strategy to tackle microplastic pollution or risk falling further behind international efforts to address one of the most pervasive environmental threats of our time, researchers have warned.",
+      "url": "https://phys.org/news/2025-05-uk-falling-international-efforts-microplastics.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/microplastics.jpg",
+      "publishedAt": "2025-05-06T15:24:04Z",
+      "content": "The UK government must urgently draw up a comprehensive national strategy to tackle microplastic pollution or risk falling further behind international efforts to address one of the most pervasive en… [+5685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Antaya March, Director - Global Plastics Policy Centre, University of Portsmouth, Stephanie Northen, Research Associate, Revolution Plastics, University of Portsmouth",
+      "title": "The UK is falling behind in tackling microplastic pollution – here are three ways the government can catch up",
+      "description": "Microplastics are accumulating in our food, water, air and bodies – yet UK regulations aren’t designed to reduce them.",
+      "url": "https://theconversation.com/the-uk-is-falling-behind-in-tackling-microplastic-pollution-here-are-three-ways-the-government-can-catch-up-255465",
+      "urlToImage": "https://images.theconversation.com/files/666065/original/file-20250506-56-vbx8b8.jpg?ixlib=rb-4.1.0&rect=714%2C0%2C4999%2C2499&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-05-06T15:11:55Z",
+      "content": "SIVStockStudio/Shutterstock\r\nMicroplastics – fragments of plastic smaller than 5mm – are accumulating in the environment. They’re found in soil, water, food, even in human lungs, placentas and blood.… [+5949 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Hsiao-Yu Yang, Kai-Chieh Wen, Ping-Fang Chiu, Wan-Chin Chen, Teng-Hsiang Chang, Che-Jui Chang, Wei-Hung Hsu, Shin-Chien Chen",
+      "title": "Environmental risk factors for chronic kidney disease of non-traditional causes in tropical coastal areas: A systematic review and meta-analysis",
+      "description": "Chronic Kidney Disease of Non-Traditional Etiology is a Neglected Tropical Disease Influenced by Geographic Latitude and Temperature",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013056",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013056.g005&size=inline",
+      "publishedAt": "2025-05-06T14:00:00Z",
+      "content": "Citation: Yang H-Y, Wen K-C, Chiu P-F, Chen W-C, Chang T-H, Chang C-J, et al. (2025) Environmental risk factors for chronic kidney disease of non-traditional causes in tropical coastal areas: A syste… [+35326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Quynh Huong Nguyen, Chun Heng Royce Lai, Michael J. Norris, Dixon Ng, Megha Shah, Christine Chieh-Lin Lai, David E. Isenman, Trevor F. Moraes",
+      "title": "A surface lipoprotein on Pasteurella multocida binds complement factor I to promote immune evasion",
+      "description": "Author summary Pasteurella multocida, a zoonotic pathogen, causes serious diseases in many animal species. This bacterial infection has a tremendous economic impact on the farming industry, especially for small holder farmers. Outbreaks of P. multocida infect…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012686",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012686.g007&size=inline",
+      "publishedAt": "2025-05-06T14:00:00Z",
+      "content": "Abstract\r\nPasteurella multocida is the leading cause of wound infections in humans following animals bites or scratches. This bacterium is also commonly found in the respiratory tract of many mammals… [+90083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Nida Saleem, Mushtaq Hussain Lashari, Hafiz Ishfaq Ahmad, Shazia Tahreem, Mikhlid H. Almutairi, Shakeel Ahmed",
+      "title": "Hematological changes in the blood of experimental male and female albino rats on exposure to pesticide, dimethoate",
+      "description": "Objective Evaluating pesticides’ impacts on human health, ecological balance, and agricultural production is the main focus of research on pesticides. The present study aims to investigate the hematological parameters of both genders of albino rats after expo…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321848",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321848.g004&size=inline",
+      "publishedAt": "2025-05-06T14:00:00Z",
+      "content": "Citation: Saleem N, Lashari MH, Ahmad HI, Tahreem S, H. Almutairi M, Ahmed S (2025) Hematological changes in the blood of experimental male and female albino rats on exposure to pesticide, dimethoate… [+29534 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Experts warn of a second wave of attacks targeting SAP NetWeaver bug CVE-2025-31324",
+      "description": "Threat actors launch second wave of attacks on SAP NetWeaver, exploiting webshells from a recent zero-day vulnerability. In April, ReliaQuest researchers warned that a zero-day vulnerability, tracked as CVE-2025-31324 (CVSS score of 10/10), in SAP NetWeaver i…",
+      "url": "https://securityaffairs.com/177522/hacking/experts-warn-of-a-second-wave-of-attacks-targeting-sap-netweaver-bug-cve-2025-31324.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/05/SAP-systems.gif",
+      "publishedAt": "2025-05-06T13:55:46Z",
+      "content": "Experts warn of a second wave of attacks targeting SAP NetWeaver bug CVE-2025-31324\r\n | U.S. CISA adds Langflow flaw to its Known Exploited Vulnerabilities catalog\r\n | Google fixed actively exploited… [+161838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Madelaine Panganiban",
+      "title": "Tomatoes Recalled in 14 States Over Salmonella Concerns, FDA Warns",
+      "description": "Tomatoes sold in 14 states are recalled over potential salmonella contamination, FDA warns.",
+      "url": "https://www.ibtimes.com/tomatoes-recalled-14-states-over-salmonella-concerns-fda-warns-3772615",
+      "urlToImage": "https://d.ibtimes.com/en/full/4599001/tomatoes-recalled-14-states-over-salmonella-concerns-fda-warns.jpg",
+      "publishedAt": "2025-05-06T13:17:02Z",
+      "content": "The US Food and Drug Administration (FDA) has announced a recall of tomatoes sold in 14 states due to potential salmonella contamination.\r\nThe recall involves two different brands: Ray &amp; Mascari … [+2342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Langflow flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Langflow flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Langflow flaw, tracked as CVE-2025-3248 (CVSS score of 9.8…",
+      "url": "https://securityaffairs.com/177481/hacking/u-s-cisa-adds-langflow-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-05-06T13:00:36Z",
+      "content": "U.S. CISA adds Langflow flaw to its Known Exploited Vulnerabilities catalog\r\n | Google fixed actively exploited Android flaw CVE-2025-27363\r\n | New 'Bring Your Own Installer (BYOI)' technique allows … [+161750 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -108,19 +251,6 @@
     {
       "source": {
         "id": null,
-        "name": "Grist"
-      },
-      "author": "Joseph Winters",
-      "title": "This commonly used plastic chemical caused 350,000 heart disease-related deaths in 1 year",
-      "description": "People in Asia are exposed to levels up to six times higher than their counterparts in the West.",
-      "url": "http://grist.org/science/plastic-chemical-dehp-phthalate-deaths-heart-disease-2018-lancet/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2025/05/Dhaka-recycling-factory.jpg?quality=75&strip=all",
-      "publishedAt": "2025-05-06T08:30:00Z",
-      "content": "More than 16,000 chemicals are used to produce plastics  and some are silently killing us.\r\nParticularly worrisome is di-2-ethylhexylphthalate, or DEHP, a chemical used to soften plastic products. Co… [+6528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Precedence Research",
@@ -130,6 +260,19 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
       "publishedAt": "2025-05-06T08:30:00Z",
       "content": "Ottawa, May 06, 2025 (GLOBE NEWSWIRE) -- The consumer packaging market size to record USD 690.23 billion in 2025 and is projected to grow beyond USD 969.73 billion by 2034, a study published by Towar… [+22150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grist"
+      },
+      "author": "Joseph Winters",
+      "title": "This commonly used plastic chemical caused 350,000 heart disease-related deaths in 1 year",
+      "description": "People in Asia are exposed to levels up to six times higher than their counterparts in the West.",
+      "url": "http://grist.org/science/plastic-chemical-dehp-phthalate-deaths-heart-disease-2018-lancet/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2025/05/Dhaka-recycling-factory.jpg?quality=75&strip=all",
+      "publishedAt": "2025-05-06T08:30:00Z",
+      "content": "More than 16,000 chemicals are used to produce plastics  and some are silently killing us.\r\nParticularly worrisome is di-2-ethylhexylphthalate, or DEHP, a chemical used to soften plastic products. Co… [+6528 chars]"
     },
     {
       "source": {
@@ -175,19 +318,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
-      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
-      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
-      "publishedAt": "2025-05-06T06:00:00Z",
-      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Willow Tohi",
       "title": "Midwest farmers FIGHT BACK against CO2 pipeline land grabs",
       "description": "Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and environmentalists. Summit Carbon Solutions, linked to a political figure…",
@@ -195,6 +325,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Pipeline-Gas-Construction-Oil-Environment-Supply-Industry.jpg",
       "publishedAt": "2025-05-06T06:00:00Z",
       "content": "<ul><li>Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and envi… [+6160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
+      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
+      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
+      "publishedAt": "2025-05-06T06:00:00Z",
+      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
     },
     {
       "source": {
@@ -903,19 +1046,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Anastasia Galperina, Gabriele Andrea Lugli, Christian Milani, Willem M. De Vos, Marco Ventura, Anne Salonen, Bonnie Hurwitz, Alise Jany Ponsero",
-      "title": "The Aggregated Gut Viral Catalogue (AVrC): A unified resource for exploring the viral diversity of the human gut",
-      "description": "Author summary The human gut is home to a vast diversity of viruses which have been shown to play a crucial role in human health and disease. In order to explore the Human gut virome diversity, several research groups have mined metagenomic samples to create …",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012268",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012268.g004&size=inline",
-      "publishedAt": "2025-05-02T14:00:00Z",
-      "content": "Abstract\r\nThe growing interest in the role of the gut virome in human health and disease, has led to several recent large-scale viral catalogue projects mining human gut metagenomes each using varied… [+41456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
       "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
       "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
@@ -923,6 +1053,19 @@
       "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003097.g006&size=inline",
       "publishedAt": "2025-05-02T14:00:00Z",
       "content": "Citation: Jigisha J, Ly J, Minadakis N, Freund F, Kunz L, Piechota U, et al. (2025) Population genomics and molecular epidemiology of wheat powdery mildew in Europe. PLoS Biol 23(5):\r\n e3003097.\r\nhtt… [+89558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Anastasia Galperina, Gabriele Andrea Lugli, Christian Milani, Willem M. De Vos, Marco Ventura, Anne Salonen, Bonnie Hurwitz, Alise Jany Ponsero",
+      "title": "The Aggregated Gut Viral Catalogue (AVrC): A unified resource for exploring the viral diversity of the human gut",
+      "description": "Author summary The human gut is home to a vast diversity of viruses which have been shown to play a crucial role in human health and disease. In order to explore the Human gut virome diversity, several research groups have mined metagenomic samples to create …",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012268",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012268.g004&size=inline",
+      "publishedAt": "2025-05-02T14:00:00Z",
+      "content": "Abstract\r\nThe growing interest in the role of the gut virome in human health and disease, has led to several recent large-scale viral catalogue projects mining human gut metagenomes each using varied… [+41456 chars]"
     },
     {
       "source": {
@@ -1079,138 +1222,8 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/9afd445302b9d080453c3409d650535305b455e1/hub/2022/08/07/889e798c-0bc1-4306-ba64-2358e92419b3/gettyimages-1319060028.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-05-01T18:30:03Z",
       "content": "It's laundry day, and disaster strikes: You open your washer and catch a whiff of something damp, earthy and -- is that mold? How are you supposed to get your clothes cleaned when your washer might b… [+4877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "FBI shared a list of phishing domains associated with the LabHost PhaaS platform",
-      "description": "The FBI shared 42K phishing domains tied to LabHost, a PhaaS platform shut down in April 2024, to boost awareness and help identify compromises. The FBI shared a list of 42,000 domains registered from November 2021 to Apr 2024, linked to LabHost to raise awar…",
-      "url": "https://securityaffairs.com/177293/cyber-crime/fbi-shared-a-list-of-phishing-domains-associated-with-the-labhost-phaas-platform.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-21.jpg",
-      "publishedAt": "2025-05-01T18:04:47Z",
-      "content": "FBI shared a list of phishing domains associated with the LabHost PhaaS platform\r\n | Canadian electric utility Nova Scotia Power and parent company Emera suffered a cyberattack\r\n | Two SonicWall SMA1… [+160213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SlimJaro",
-      "title": "Slimjaro Complaints Exposed: 2025 User Reviews Analyzed and Verified",
-      "description": "LAKELAND, Fla., May 01, 2025 (GLOBE NEWSWIRE) -- An independent consumer report for 2025 uncovers the truth behind Slimjaro’s weight loss claims, ingredient transparency, and real customer experiences.",
-      "url": "https://www.globenewswire.com/news-release/2025/05/01/3072708/0/en/Slimjaro-Complaints-Exposed-2025-User-Reviews-Analyzed-and-Verified.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/fc31576a-dad6-4385-aa9f-24a98d3daddb",
-      "publishedAt": "2025-05-01T17:06:00Z",
-      "content": "LAKELAND, Fla., May 01, 2025 (GLOBE NEWSWIRE) -- An independent consumer report for 2025 uncovers the truth behind Slimjaros weight loss claims, ingredient transparency, and real customer experiences… [+46873 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Arialief",
-      "title": "Arialief Under Review: Best Nutritional Support for Nerve Health & Neuropathy Relief",
-      "description": "Discover the Causes of Nerve Pain and How Arialief’s Advanced Nutritional Formula Supports Lasting Nerve Health, Comfort, and Relief Naturally. Discover the Causes of Nerve Pain and How Arialief’s Advanced Nutritional Formula Supports Lasting Nerve Health, Co…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/01/3072697/0/en/Arialief-Under-Review-Best-Nutritional-Support-for-Nerve-Health-Neuropathy-Relief.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/428ea3fc-44c8-41d6-873d-33b04bdf2969",
-      "publishedAt": "2025-05-01T16:59:00Z",
-      "content": "New York, May 01, 2025 (GLOBE NEWSWIRE) -- \r\nIn This Article, You'll Discover:\r\n<ul><li>What causes nerve pain and how it can impact your daily quality of life</li><li>Why conventional neuropathy rel… [+51431 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Lauren Leffer",
-      "title": "What was food like before the FDA?",
-      "description": "Formaldehyde, brick dust, lead, and borax once made grocery shopping a minefield.\nThe post What was food like before the FDA? appeared first on Popular Science.",
-      "url": "https://www.popsci.com/health/food-safety-before-fda/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/05/milk-inspection.png?quality=85&w=2000",
-      "publishedAt": "2025-05-01T16:30:00Z",
-      "content": "We have a tendency to romanticize the past. Think about the food your great grandparents (or even their parents) ate in childhood and you might imagine farm fresh produce, pure milled grains, and pri… [+12208 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Corin Cesaric",
-      "title": "Don't Waste Your Eggs. Food Safety Experts Explains Shelf Life",
-      "description": "This is everything you need to know about how long eggs last.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/dont-waste-your-eggs-food-safety-experts-explains-shelf-life/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/eb058b8b80a51127aa2948ff5f94ae475b9cb242/hub/2024/09/09/fe310f95-7e39-4eb2-b69a-b77d2d1de868/gettyimages-1996271988.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-01T16:22:00Z",
-      "content": "Eggs haven't been cheap lately, so you may be taking measures to ensure you never waste a single one. \r\nAccording to a previous CNET survey, 93% of Americans are worried about inflation and 77% are e… [+4915 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Canadian electric utility Nova Scotia Power and parent company Emera suffered a cyberattack",
-      "description": "Canadian electric utility Nova Scotia Power and parent company Emera are facing a cyberattack that disrupted their IT systems and networks. Nova Scotia Power Inc. is a vertically integrated electric utility serving the province of Nova Scotia, Canada. Headqua…",
-      "url": "https://securityaffairs.com/177281/hacking/canadian-electric-utility-nova-scotia-power-and-parent-company-emera-suffered-a-cyberattack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/01/uk-power-grid.jpg",
-      "publishedAt": "2025-05-01T15:52:08Z",
-      "content": "Canadian electric utility Nova Scotia Power and parent company Emera suffered a cyberattack\r\n | Two SonicWall SMA100 flaws actively exploited in the wild\r\n | Hive0117 group targets Russian firms with… [+160128 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jordan King",
-      "title": "Food Safety Author Sounds FDA Alarm—'My Hair Is Gonna Catch on Fire'",
-      "description": "Science journalist Deborah Blum is worried about what she believes is a lack of transparency in the FDA.",
-      "url": "https://www.newsweek.com/food-safety-fda-alarm-ecoli-outbreak-lettuce-deborah-blum-hair-catch-fire-2066689",
-      "urlToImage": "https://d.newsweek.com/en/full/2636720/fda-lettuce.png",
-      "publishedAt": "2025-05-01T15:17:12Z",
-      "content": "A Pulitzer Prize-winning science writer has spoken out about her worries for American food, accusing the Food and Drug Administration (FDA) of lacking transparency.\r\nDeborah Blum, who has written ext… [+4127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Bread containing ‘glass fragments’ recalled in six states",
-      "description": "The glass fragments were found on the top of the bread",
-      "url": "https://www.the-independent.com/life-style/bread-recall-glass-fragments-fda-b2743099.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/01/13/14/iStock-155145063.jpeg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-01T14:55:33Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thenewlede.org"
-      },
-      "author": "Shannon Kelleher",
-      "title": "New EPA Regulatory Changes on PFAS Spark Public Health Concerns",
-      "description": "The plans include elements that appear aimed at reversing or weakening policies pursued by the Biden administration.",
-      "url": "https://www.thenewlede.org/2025/04/epas-pfas-plans-draw-concern-in-public-health-circles/",
-      "urlToImage": "https://truthout.org/app/uploads/2025/05/2025_0501-Lee-Zeldin.jpg",
-      "publishedAt": "2025-05-01T14:42:33Z",
-      "content": "This story was originally published by The New Lede.\r\nMoves by the Trump administration to draw up a new regulatory framework for types of toxic chemicals has sparked suspicion among health advocates… [+9153 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Hive"
-      },
-      "author": "Irish Mae Silvestre",
-      "title": "Health Canada recalls $130 face cream sold at Shoppers Drug Mart",
-      "description": "Health Canada has issued a recall of a popular beauty cream sold across Canada due to potential contamination.In a statement shared on Wednesday, April 30, the agency announced the recall of the Watier Age Control Supreme Sublime Advanced Rich day cream due t…",
-      "url": "https://dailyhive.com/canada/canada-recall-health-canada-watier",
-      "urlToImage": "https://display.blogto.com/articles/20250501-canada-recalls-0.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "publishedAt": "2025-05-01T14:22:22Z",
-      "content": "Health Canada has issued a recall of a popular beauty cream sold across Canada due to potential contamination.\r\nIn a statement shared on Wednesday, April 30, the agency announced the recall of the Wa… [+1771 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 94,
   "filteredCount": 0
 }
