@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-05-07T18:32:18.733Z",
+  "lastUpdated": "2025-05-08T01:58:22.821Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Wattsupwiththat.com"
+      },
+      "author": "Guest Blogger",
+      "title": "The Renewable Energy Trap: A Warning to Nations Pursuing Blind Sustainability",
+      "description": "Nations cannot afford to fall into the renewable energy trap by embracing these technologies without considering the full spectrum of their impacts. Germany’s experience with its Energiewende shows that pushing too hard for renewables can create new environme…",
+      "url": "https://wattsupwiththat.com/2025/05/06/the-renewable-energy-trap-a-warning-to-nations-pursuing-blind-sustainability/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/05/Solar_panel_Nusantara_city.webp?fit=1024%2C512&ssl=1",
+      "publishedAt": "2025-05-07T01:00:00Z",
+      "content": "By Terry L. Headley\r\nAs the world increasingly shifts toward renewable energy, there is a growing risk that nations could fall into the “renewable energy trap.” This trap is the result of embracing a… [+11926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "Dr. Mercola",
+      "title": "Are Artificial Food Dyes Safe to Eat?",
+      "description": "More than 36,000 processed foods in the U.S. contain Red 40, a synthetic dye made from petroleum. Another 8,000 products include Red 3 — a known carcinogen that the U.S. Food and Drug Administration (FDA) acknowledged causes thyroid tumors in animals over thr…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/05/07/are-artificial-food-dyes-safe-to-eat.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/May/FB/are-artificial-food-dyes-safe-to-eat-fb.jpg",
+      "publishedAt": "2025-05-07T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Odditycentral.com"
+      },
+      "author": "Spooky",
+      "title": "Man Suffers Burns to Stomach and Esophagus After Taking Sip of Sparkling Water",
+      "description": "A 42-year-old Spanish man has been unable to ingest any food or liquids for three weeks after taking a simple sip of bottled sparkling water at a restaurant. Pablo González, a 42-year-old businessman from Salvaterra de Miño, Spain, has been hospitalized in th…",
+      "url": "https://www.odditycentral.com/news/man-suffers-burns-to-stomach-and-esophagus-after-taking-sip-of-sparkling-water.html",
+      "urlToImage": "https://www.odditycentral.com/wp-content/uploads/2025/05/sparkling-water.jpg",
+      "publishedAt": "2025-05-06T21:51:51Z",
+      "content": "A 42-year-old Spanish man has been unable to ingest any food or liquids for three weeks after taking a simple sip of bottled sparkling water at a restaurant.\r\nPablo González, a 42-year-old businessma… [+2261 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -8,7 +47,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Samsung MagicINFO flaw exploited days after PoC exploit publication",
-      "description": "Threat actors started exploiting a vulnerability in Samsung MagicINFO only days after a PoC exploit was published. Arctic Wolf researchers observed threat actors beginning to exploit a high-severity vulnerability, tracked as CVE-2024-7399 (CVSS score: 8.8), i…",
+      "description": "Threat actors started exploiting a vulnerability in Samsung MagicINFO only days after a PoC exploit was published. Arctic Wolf researchers observed threat actors beginning to exploit a high-severity vulnerability, tracked as CVE-2024-7399 (CVSS score: 8.8), i��",
       "url": "https://securityaffairs.com/177529/hacking/samsung-magicinfo-vulnerability-exploited-after-poc-publication.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/09/Samsung-logo.jpg",
       "publishedAt": "2025-05-06T17:54:39Z",
@@ -251,19 +290,6 @@
     {
       "source": {
         "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Consumer Packaging Market Size to Uplift USD 969.73 Bn by 2034 | Towards Packaging Research Report",
-      "description": "According to Towards Packaging, the consumer packaging market size stood at USD 664.64 billion in 2024 and is predicted to exceed USD 969.73 billion by 2034, experiencing a CAGR of 3.85% from 2024 to 2034. According to Towards Packaging, the consumer packagin…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/06/3074766/0/en/Consumer-Packaging-Market-Size-to-Uplift-USD-969-73-Bn-by-2034-Towards-Packaging-Research-Report.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-05-06T08:30:00Z",
-      "content": "Ottawa, May 06, 2025 (GLOBE NEWSWIRE) -- The consumer packaging market size to record USD 690.23 billion in 2025 and is projected to grow beyond USD 969.73 billion by 2034, a study published by Towar… [+22150 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Grist"
       },
       "author": "Joseph Winters",
@@ -273,6 +299,19 @@
       "urlToImage": "https://grist.org/wp-content/uploads/2025/05/Dhaka-recycling-factory.jpg?quality=75&strip=all",
       "publishedAt": "2025-05-06T08:30:00Z",
       "content": "More than 16,000 chemicals are used to produce plastics  and some are silently killing us.\r\nParticularly worrisome is di-2-ethylhexylphthalate, or DEHP, a chemical used to soften plastic products. Co… [+6528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Consumer Packaging Market Size to Uplift USD 969.73 Bn by 2034 | Towards Packaging Research Report",
+      "description": "According to Towards Packaging, the consumer packaging market size stood at USD 664.64 billion in 2024 and is predicted to exceed USD 969.73 billion by 2034, experiencing a CAGR of 3.85% from 2024 to 2034. According to Towards Packaging, the consumer packagin…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/06/3074766/0/en/Consumer-Packaging-Market-Size-to-Uplift-USD-969-73-Bn-by-2034-Towards-Packaging-Research-Report.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-05-06T08:30:00Z",
+      "content": "Ottawa, May 06, 2025 (GLOBE NEWSWIRE) -- The consumer packaging market size to record USD 690.23 billion in 2025 and is projected to grow beyond USD 969.73 billion by 2034, a study published by Towar… [+22150 chars]"
     },
     {
       "source": {
@@ -1183,45 +1222,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-1.png",
       "publishedAt": "2025-05-01T23:08:33Z",
       "content": "Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations\r\n | FBI shared a list of phishing domains associated with the LabHost PhaaS platform\r\n | Canadian electric utility Nova Scot… [+160292 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sharingideas.me"
-      },
-      "author": "https://www.facebook.com/sharingideasofficial",
-      "title": "Corn Silk: 30 Health Benefits and How to Use It - sharingideas.me",
-      "description": "Corn silk, the long, glossy threads you see when you peel back the husk of an ear of corn, is often overlooked and discarded. However, this humble byproduct has been a staple in traditional medicine for centuries, offering a wide range of health benefits. Ric…",
-      "url": "https://sharingideas.me/corn-silk-30-health-benefits-and-how-to-use-it/",
-      "urlToImage": "https://sharingideas.me/wp-content/uploads/2024/10/xshare-12.webp",
-      "publishedAt": "2025-05-01T22:59:58Z",
-      "content": "Corn silk, the long, glossy threads you see when you peel back the husk of an ear of corn, is often overlooked and discarded. However, this humble byproduct has been a staple in traditional medicine … [+8324 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "East Trading Inc., Issues Alert on Undeclared Sulfites in “Licorice Plum”",
-      "description": "East CK Trading, Inc. of Long Island City, NY, is recalling its 8-ounce packages of “Licorice Plum” food treats because they contained undeclared sulfites and unallowed color, Amaranth (E123). Consumers who have severe sensitivity to sulfites run the risk of …",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/east-trading-inc-issues-alert-undeclared-sulfites-licorice-plum",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-05-01T20:27:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nMay 01, 2025\r\nFDA Publish Date:\r\nMay 05, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential or … [+1651 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Katie Teague",
-      "title": "Does Your Washer Smell Terrible? Here's What You Should Do",
-      "description": "Dirty or moldy washing machine? There are a few easy ways to get your clothes and washing machine smelling fresh and clean again. And there's even a way to keep mold from coming back. Here's how.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/does-your-washer-smell-terrible-heres-what-you-should-do/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9afd445302b9d080453c3409d650535305b455e1/hub/2022/08/07/889e798c-0bc1-4306-ba64-2358e92419b3/gettyimages-1319060028.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-01T18:30:03Z",
-      "content": "It's laundry day, and disaster strikes: You open your washer and catch a whiff of something damp, earthy and -- is that mold? How are you supposed to get your clothes cleaned when your washer might b… [+4877 chars]"
     }
   ],
   "totalResults": 94,
