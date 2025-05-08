@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-05-08T01:58:22.821Z",
+  "lastUpdated": "2025-05-08T06:34:33.510Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "Jonan Pilet",
+      "title": "Over 100 children fall ill after dead snake reportedly found in Indian school meal",
+      "description": "More than 100 children fell ill after consuming a school lunch where a dead snake was allegedly found, prompting India’s National Human Rights Commission (NHRC) to investigate possible food safety and human rights concerns. On April 24, at Utkramit Madhya Vid…",
+      "url": "https://www.foodsafetynews.com/2025/05/over-100-children-fall-ill-after-dead-snake-reportedly-found-in-indian-school-meal/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/089/962/030/LWXrA1qRoQvEqaZn6ypMJegBj/161b4bd6bc5dd489000b9fe48e62d221fed14a1f.png",
+      "publishedAt": "2025-05-07T04:01:00Z",
+      "content": "More than 100 children fell ill after consuming a school lunch where a dead snake was allegedly found, prompting India’s National Human Rights Commission (NHRC) to investigate possible food safety an… [+3172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "FDA Advises Consumers, Tattoo Artists, and Retailers to Avoid Using or Selling Certain Sacred Tattoo Ink Products Contaminated with Microorganisms",
+      "description": "The FDA is alerting consumers, tattoo artists, and retailers of the potential for serious injury from use of tattoo inks that are contaminated with bacteria, including Pseudomonas aeruginosa.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fda-advises-consumers-tattoo-artists-and-retailers-avoid-using-or-selling-certain-sacred-tattoo-ink",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-07T04:00:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nMay 07, 2025\r\nFDA Publish Date:\r\nMay 07, 2025\r\nProduct Type:\r\nCosmetics \r\nReason for Announcement:\r\nRecall Reason Description\r\nTattoo inks that are contaminated w… [+2972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Why Your Ginger-Garlic Paste Tastes Weird (How to Fix It)",
+      "description": "We often handle and store ginger-garlic paste like amateurs, leading to spoilage, foul odour and flat flavour. If you are experiencing the same, then you are not alone.",
+      "url": "https://food.ndtv.com/how-to/why-your-ginger-garlic-paste-tastes-weird-how-to-fix-it-8350040",
+      "urlToImage": "https://c.ndtvimg.com/2025-05/r16b06kk_ginger-garlic_625x300_07_May_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2025-05-07T03:33:54Z",
+      "content": "Let's take a moment to appreciate the dynamic duo in our kitchen - no, we are not talking about any fancy smart appliance or exotic spice. In fact, it is the humble jar of ginger-garlic paste. Rightl… [+5575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox News",
+      "title": "Baked beans inspired by ‘Yellowstone’ TV series recalled for undeclared allergen",
+      "description": "Vietti Food Group of Nashville, Tennessee, is recalling 4,515 cases of its 15-ounce cans of Yellowstone Brown Sugar Molasses Baked Beans \"due to the presence of undeclared soy,\" the FDA announced.",
+      "url": "https://nypost.com/2025/05/06/us-news/baked-beans-inspired-by-yellowstone-tv-series-recalled-for-undeclared-allergen/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/103964827.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-07T02:37:15Z",
+      "content": "Baked beans from a food line inspired by a popular television series have been recalled because of an undeclared allergen.\r\nVietti Food Group of Nashville, Tennessee, is recalling 4,515 cases of its … [+1542 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -47,7 +99,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Samsung MagicINFO flaw exploited days after PoC exploit publication",
-      "description": "Threat actors started exploiting a vulnerability in Samsung MagicINFO only days after a PoC exploit was published. Arctic Wolf researchers observed threat actors beginning to exploit a high-severity vulnerability, tracked as CVE-2024-7399 (CVSS score: 8.8), i��",
+      "description": "Threat actors started exploiting a vulnerability in Samsung MagicINFO only days after a PoC exploit was published. Arctic Wolf researchers observed threat actors beginning to exploit a high-severity vulnerability, tracked as CVE-2024-7399 (CVSS score: 8.8), i…",
       "url": "https://securityaffairs.com/177529/hacking/samsung-magicinfo-vulnerability-exploited-after-poc-publication.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/09/Samsung-logo.jpg",
       "publishedAt": "2025-05-06T17:54:39Z",
@@ -357,6 +409,19 @@
         "id": null,
         "name": "Naturalnews.com"
       },
+      "author": "Ramon Tomey",
+      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
+      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti��",
+      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
+      "publishedAt": "2025-05-06T06:00:00Z",
+      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
       "author": "Willow Tohi",
       "title": "Midwest farmers FIGHT BACK against CO2 pipeline land grabs",
       "description": "Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and environmentalists. Summit Carbon Solutions, linked to a political figure…",
@@ -364,19 +429,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Pipeline-Gas-Construction-Oil-Environment-Supply-Industry.jpg",
       "publishedAt": "2025-05-06T06:00:00Z",
       "content": "<ul><li>Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and envi… [+6160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
-      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
-      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
-      "publishedAt": "2025-05-06T06:00:00Z",
-      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
     },
     {
       "source": {
@@ -1085,19 +1137,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
-      "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
-      "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003097",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003097.g006&size=inline",
-      "publishedAt": "2025-05-02T14:00:00Z",
-      "content": "Citation: Jigisha J, Ly J, Minadakis N, Freund F, Kunz L, Piechota U, et al. (2025) Population genomics and molecular epidemiology of wheat powdery mildew in Europe. PLoS Biol 23(5):\r\n e3003097.\r\nhtt… [+89558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Anastasia Galperina, Gabriele Andrea Lugli, Christian Milani, Willem M. De Vos, Marco Ventura, Anne Salonen, Bonnie Hurwitz, Alise Jany Ponsero",
       "title": "The Aggregated Gut Viral Catalogue (AVrC): A unified resource for exploring the viral diversity of the human gut",
       "description": "Author summary The human gut is home to a vast diversity of viruses which have been shown to play a crucial role in human health and disease. In order to explore the Human gut virome diversity, several research groups have mined metagenomic samples to create …",
@@ -1105,6 +1144,19 @@
       "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012268.g004&size=inline",
       "publishedAt": "2025-05-02T14:00:00Z",
       "content": "Abstract\r\nThe growing interest in the role of the gut virome in human health and disease, has led to several recent large-scale viral catalogue projects mining human gut metagenomes each using varied… [+41456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jigisha Jigisha, Jeanine Ly, Nikolaos Minadakis, Fabian Freund, Lukas Kunz, Urszula Piechota, Beyhan Akin, Virgilio Balmas, Roi Ben-David, Szilvia Bencze, Salim Bourras, Matteo Bozzoli, Otilia Cotuna, Gilles Couleaud, Mónika Cséplő, Paweł Czembor, Francesca Desiderio, Jost Dörnte, Antonín Dreiseitl, Angela Feechan, Agata Gadaleta, Kevin Gauthier, Angelica Giancaspro, Stefania L. Giove, Alain Handley-Cornillet, Amelia Hubbard, George Karaoglanidis, Steven Kildea, Emrah Koc, Žilvinas Liatukas, Marta S. Lopes, Fabio Mascher, Cathal McCabe, Thomas Miedaner, Fernando Martínez-Moreno, Charlotte F. Nellist, Sylwia Okoń, Coraline Praz, Javier Sánchez-Martín, Veronica Sărăţeanu, Philipp Schulz, Nathalie Schwartz, Daniele Seghetta, Ignacio Solís Martel, Agrita Švarta, Stefanos Testempasis, Dolors Villegas, Victoria Widrig, Fabrizio Menardo",
+      "title": "Population genomics and molecular epidemiology of wheat powdery mildew in Europe",
+      "description": "Agricultural diseases are a major threat to sustainable food production. This study of wheat powdery mildew, a disease caused by the fungus Blumeria graminis, shows that the population structure can be largely predicted by prevailing wind patterns and reveals…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003097",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003097.g006&size=inline",
+      "publishedAt": "2025-05-02T14:00:00Z",
+      "content": "Citation: Jigisha J, Ly J, Minadakis N, Freund F, Kunz L, Piechota U, et al. (2025) Population genomics and molecular epidemiology of wheat powdery mildew in Europe. PLoS Biol 23(5):\r\n e3003097.\r\nhtt… [+89558 chars]"
     },
     {
       "source": {
@@ -1170,58 +1222,6 @@
       "urlToImage": "https://static.the-independent.com/2025/05/01/13/14/iStock-155145063.jpeg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-05-02T09:21:18Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds SonicWall SMA100 and Apache HTTP Server flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SonicWall SMA100 and Apache HTTP Server flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Qualitia Active! Mail, Broad…",
-      "url": "https://securityaffairs.com/177301/hacking/u-s-cisa-adds-sonicwall-sma100-and-apache-http-server-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-05-02T07:49:40Z",
-      "content": "U.S. CISA adds SonicWall SMA100 and Apache HTTP Server flaws to its Known Exploited Vulnerabilities catalog\r\n | Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations\r\n | FBI shar… [+160404 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CounterPunch"
-      },
-      "author": "Nick Pemberton",
-      "title": "Trump is Trump",
-      "description": "Put simply, Trump and his hangers-on are building on long-standing American traditions and are using the normal tools of the American government to dismantle democracy. Trumpism is not a foreign importation. It is distinctly homegrown. And if the Left hopes t…",
-      "url": "https://www.counterpunch.org/2025/05/02/trump-is-trump/",
-      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/05/the-now-time-KXUKLB-_Sb0-unsplash-2-scaled.jpg",
-      "publishedAt": "2025-05-02T05:50:39Z",
-      "content": "We even see how refusal to consider Palestine undermined progressive rapper Kendrick Lamar in his rap beef with apolitical Drake. Lamar plainly stated that he identifies as an Israelite.Drake, who is… [+17579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Common Medicines Contain Hidden Gluten and Soy",
-      "description": "Many people reach for medicine to ease their symptoms, only to find that it quietly makes things worse. For people with gluten or soy sensitivities, this is an ongoing risk. That’s because many widely used medications contain hidden allergens in their so-call…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/05/02/hidden-gluten-and-soy-in-medications.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/May/FB/hidden-gluten-and-soy-in-medications-fb.jpg",
-      "publishedAt": "2025-05-02T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations",
-      "description": "Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations with large-scale DDoS attacks, the country’s National Cyber Security Center (NCSC) warns. This week, several Dutch and European organizations faced large-scale DDoS attacks launched by…",
-      "url": "https://securityaffairs.com/177312/hacktivism/pro-russia-hacktivist-group-noname05716-is-targeting-dutch-organizations.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-1.png",
-      "publishedAt": "2025-05-01T23:08:33Z",
-      "content": "Pro-Russia hacktivist group NoName057(16) is targeting Dutch organizations\r\n | FBI shared a list of phishing domains associated with the LabHost PhaaS platform\r\n | Canadian electric utility Nova Scot… [+160292 chars]"
     }
   ],
   "totalResults": 94,
