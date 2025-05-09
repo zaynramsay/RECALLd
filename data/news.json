@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-05-09T06:34:20.686Z",
+  "lastUpdated": "2025-05-09T12:48:20.991Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Evan Renov, Forbes Councils Member, \n Evan Renov, Forbes Councils Member\n https://www.forbes.com/councils/forbesbusinesscouncil/people/evanrenov/",
+      "title": "A Family Office Playbook For Early-Stage Startup Investments",
+      "description": "As family offices increasingly embrace early-stage investments in startups, they are redefining their role in funding innovation.",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2025/05/08/a-family-office-playbook-for-early-stage-startup-investments/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/663cd61905ce3f6dcee4ac13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-08T11:15:00Z",
+      "content": "Evan J. Renov, Cofounder &amp; Managing Partner at Arieli Group.\r\ngetty\r\nFamily offices have long been focused on preserving their families wealth, with many taking a conservative approach and invest… [+6637 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Khloe Quill",
+      "title": "Why your laundry could be making you sick and what to do about it",
+      "description": "Research finds the home washing of healthcare uniforms may spread superbugs as domestic machines fail to kill harmful bacteria, according to a new study.",
+      "url": "https://www.foxnews.com/health/your-laundry-could-making-you-sick-what-do-about-it",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/gettyimages-2165776270.jpg",
+      "publishedAt": "2025-05-08T09:00:42Z",
+      "content": "Tossing in a load of wash at home sounds ordinary and harmless.   \r\nBut healthcare professionals who wash their work uniforms at home may be unknowingly spreading superbugs, according to a new study.… [+3714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Rugile Baltrunaite",
+      "title": "“Highly Sensitive” SIL Balks After Her High Demands Get Shut Down",
+      "description": "How do you handle a demanding family member with strict dietary requirements?",
+      "url": "https://www.boredpanda.com/refuse-sister-in-law-stay-vegan-peanut-allergy/",
+      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/05/refuse-sister-in-law-stay-vegan-peanut-allergy-fb.png",
+      "publishedAt": "2025-05-08T08:38:44Z",
+      "content": "People with strict dietary requirements live a complicated life. Their enjoyment of food comes with limitations, and as someone from the outside looking in, it’s only proper to empathize with them. \r… [+3105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds GoVision device flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Qualitia Active! Mail, Broadcom Brocade Fabric OS, a…",
+      "url": "https://securityaffairs.com/177599/security/u-s-cisa-adds-govision-device-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-05-08T08:04:03Z",
+      "content": "U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog\r\n | Polish authorities arrested 4 people behind DDoS-for-hire platforms\r\n | Play ransomware affiliate leveraged zer… [+162445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Polish authorities arrested 4 people behind DDoS-for-hire platforms",
+      "description": "Polish police arrested 4 people behind DDoS-for-hire platforms used in global attacks, offering takedowns for as little as €10 via six stresser services. Polish authorities arrested 4 people linked to 6 DDoS-for-hire platforms, Cfxapi, Cfxsecurity, neostress,…",
+      "url": "https://securityaffairs.com/177590/cyber-crime/polish-police-arrested-4-people-behind-ddos-for-hire-platforms.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-14.png",
+      "publishedAt": "2025-05-08T07:22:05Z",
+      "content": "Polish authorities arrested 4 people behind DDoS-for-hire platforms\r\n | Play ransomware affiliate leveraged zero-day to deploy malware\r\n | Canary Exploit tool allows to find servers affected by Apach… [+162357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "A US or UK Hidden Hand? “How an India-Pakistan War Could Derail Central Asia’s Future”",
+      "description": "Pakistan's Prime Minister Asif contends that acting as a US operative helped prime the current India-Pakistan conflict. Does he have a point?",
+      "url": "https://www.nakedcapitalism.com/2025/05/a-us-or-uk-hidden-hand-how-an-india-pakistan-war-could-derail-central-asias-future.html",
+      "urlToImage": null,
+      "publishedAt": "2025-05-08T07:01:36Z",
+      "content": "Yves here. The India-Pakistan conflict has temporarily dropped out of the top slot in international news coverage, displaced by news that the US and UK are about to announce a tariff agreement. We’ll… [+19550 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -760,19 +838,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
-      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
-      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
-      "publishedAt": "2025-05-06T06:00:00Z",
-      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Willow Tohi",
       "title": "Midwest farmers FIGHT BACK against CO2 pipeline land grabs",
       "description": "Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and environmentalists. Summit Carbon Solutions, linked to a political figure…",
@@ -780,6 +845,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Pipeline-Gas-Construction-Oil-Environment-Supply-Industry.jpg",
       "publishedAt": "2025-05-06T06:00:00Z",
       "content": "<ul><li>Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and envi… [+6160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
+      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
+      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
+      "publishedAt": "2025-05-06T06:00:00Z",
+      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
     },
     {
       "source": {
@@ -1170,60 +1248,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
       "publishedAt": "2025-05-04T14:18:11Z",
       "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n | Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Rhysida Ransomware gang claims the hack of the Government of Per… [+160984 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Andrea Margolis",
-      "title": "Students cook ancient rice dish based on 2,000-year-old manuscript with surprisingly healthy results",
-      "description": "Students at the Yuelu Academy of Hunan University in China embarked on a project to recreate a rice dish from an ancient recipe, yielding an unusual and surprisingly healthy food result.",
-      "url": "https://www.foxnews.com/food-drink/students-cook-ancient-rice-dish-2000-year-old-manuscript-surprising-healthy-results",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/copy-of-right-inset-22.png",
-      "publishedAt": "2025-05-04T11:00:51Z",
-      "content": "A group of students recently recreated a rice dish using an ancient recipe and the results were unusual.\r\nThe challenge was undertaken by researchers at the Yuelu Academy of Hunan University in China… [+2295 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 522 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Rhysida Ransom…",
-      "url": "https://securityaffairs.com/177397/breaking-news/security-affairs-newsletter-round-522-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-05-04T10:05:53Z",
-      "content": "Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Rhysida Ransomware gang claims the hack of the Government of Peru\r\n | DragonForce group claims the theft of data … [+160935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "What’s the Real Story Behind Vaccines?",
-      "description": "Joe Rogan recently sat down with Dr. Suzanne Humphries, co-author of \"Dissolving Illusions: Disease, Vaccines, and the Forgotten History,\" one of my favorite books on vaccines.1 I previously interviewed Humphries about how vaccine science has been misrepresen…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/05/04/whats-the-real-story-behind-vaccines.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/May/FB/whats-the-real-story-behind-vaccines-fb.jpg",
-      "publishedAt": "2025-05-04T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "WOLFSON BRANDS (UK) LIMITED",
-      "title": "Best Supplements For Muscle Growth: Top Legal Bodybuilding Supplements & Anabolic Steroids For Bulking, Cutting & Strength",
-      "description": "Backed by Wolfson Brands (UK) Limited, Discover the best supplements for muscle growth, including top legal alternatives to anabolic steroids in 2025. Explore expert-recommended products for bulking, cutting, and strength gains safely and effectively. Backed …",
-      "url": "https://www.globenewswire.com/news-release/2025/05/03/3073693/0/en/Best-Supplements-For-Muscle-Growth-Top-Legal-Bodybuilding-Supplements-Anabolic-Steroids-For-Bulking-Cutting-Strength.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/3444e714-8aa5-441d-8901-500fe237aa8c",
-      "publishedAt": "2025-05-03T19:07:00Z",
-      "content": "Glasgow, May 03, 2025 (GLOBE NEWSWIRE) -- Achieving serious muscle growth demands more than just time in the gym. While consistent training and a solid nutrition plan form the foundation, supplements… [+24299 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 96,
   "filteredCount": 0
 }
