@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-05-10T01:52:58.433Z",
+  "lastUpdated": "2025-05-10T06:30:33.384Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Antiwar.com"
+      },
+      "author": "John Mac Ghlionn",
+      "title": "A Masterclass in Sanitized Cruelty",
+      "description": "In his recent piece for The Free Press, Michael Ames accuses others – journalists, NGOs, international aid agencies – of engaging in rhetorical manipulation. Yet the irony is almost unbearable: his own article is a masterclass in precisely that. Ames purports…",
+      "url": "https://original.antiwar.com/john_mac_ghlionn/2025/05/08/a-masterclass-in-sanitized-cruelty/",
+      "urlToImage": "https://original.antiwar.com/wp-content/uploads/2025/05/FireShot-Pro-Webpage-Screenshot-3290-7e2f0bb7-2095-43f5-a1e0-f2be1613a517_1024x683.webp-WEBP-Image-750-×-440-pixels-substackcdn.com_.png",
+      "publishedAt": "2025-05-09T04:00:14Z",
+      "content": "In his recent piece for The Free Press, Michael Ames accuses others journalists, NGOs, international aid agencies of engaging in rhetorical manipulation. Yet the irony is almost unbearable: his own a… [+6112 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://biztoc.com/cdn/46318b6c2c8080ea_s.webp",
       "publishedAt": "2025-05-05T01:25:57Z",
       "content": "Two brands of tomatoes have been recalled in 14 states due to possible salmonella contamination, the Food and Drug Administration said this week.Ray &amp; Mascari Inc. recalled four-count Vine Ripe t… [+150 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "US authorities have indicted Black Kingdom ransomware admin",
-      "description": "A 36-year-old Yemeni man behind Black Kingdom ransomware is indicted in the U.S. for 1,500 attacks on Microsoft Exchange servers. U.S. authorities have indicted Rami Khaled Ahmed (aka “Black Kingdom,” of Sana’a, Yemen), a 36-year-old Yemeni national, suspecte…",
-      "url": "https://securityaffairs.com/177423/cyber-crime/us-authorities-have-indicted-black-kingdom-ransomware-admin.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/Black-Kingdom.jpg",
-      "publishedAt": "2025-05-05T00:15:28Z",
-      "content": "US authorities have indicted Black Kingdom ransomware admin\r\n | Malicious Go Modules designed to wipe Linux systems\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n | Security Affairs newsletter Ro… [+161104 chars]"
     }
   ],
   "totalResults": 96,
