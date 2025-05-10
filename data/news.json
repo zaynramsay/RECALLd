@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-05-10T06:30:33.384Z",
+  "lastUpdated": "2025-05-10T12:43:08.325Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "Millions of Microplastics Are Lurking in Your Kitchen. Here's How to Get Rid of Them",
+      "description": "These simple steps can drastically reduce your exposure to microplastics while cooking and eating at home.",
+      "url": "https://www.cnet.com/health/millions-of-microplastics-are-lurking-in-your-kitchen-heres-how-to-get-rid-of-them/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-09T12:02:00Z",
+      "content": "Microplastics are everywhere -- in the air we breathe, the water we drink, the food we eat and the homes we live in. Alarming research has shown their presence in human blood, saliva and vital organs… [+8084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cybercriminal services target end-of-life routers, FBI warns",
+      "description": "The FBI warns that attackers are using end-of-life routers to deploy malware and turn them into proxies sold on 5Socks and Anyproxy networks. The FBI released a FLASH alert warning about 5Socks and Anyproxy malicious services targeting end-of-life (EOL) route…",
+      "url": "https://securityaffairs.com/177648/cyber-crime/malware-targets-end-of-life-routers.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-2.jpg",
+      "publishedAt": "2025-05-09T11:43:40Z",
+      "content": "Cybercriminal services target end-of-life routers, FBI warns\r\n | Russia-linked ColdRiver used LostKeys malware in recent attacks\r\n | SonicWall fixed SMA 100 flaws that could be chained to execute arb… [+162804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SlimJaro",
+      "title": "SlimJaro Complaints Investigated: 2025 User Reviews Tested & Verified",
+      "description": "Clinically Inspired Inflammation-Focused Supplement SlimJaro Faces Real Consumer Feedback and Scientific Scrutiny—Here’s What the Data and Verified Users Reveal in 2025 Clinically Inspired Inflammation-Focused Supplement SlimJaro Faces Real Consumer Feedback …",
+      "url": "https://www.globenewswire.com/news-release/2025/05/09/3078029/0/en/SlimJaro-Complaints-Investigated-2025-User-Reviews-Tested-Verified.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/fc31576a-dad6-4385-aa9f-24a98d3daddb",
+      "publishedAt": "2025-05-09T09:47:00Z",
+      "content": "LAKELAND, Fla., May 09, 2025 (GLOBE NEWSWIRE) -- \r\nIntroduction: The 2025 Weight Crisis Why So Many People Struggle to Slim Down\r\nIn 2025, individuals across all continents face one strikingly common… [+32095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Russia-linked ColdRiver used LostKeys malware in recent attacks",
+      "description": "Since early 2025, Russia-linked ColdRiver has used LostKeys malware to steal files in espionage attacks on Western governments and organizations. Google’s Threat Intelligence Group discovered LOSTKEYS, a new malware used by Russia-linked APT COLDRIVER, in rec…",
+      "url": "https://securityaffairs.com/177638/apt/russia-linked-coldriver-used-lostkeys-malware-in-recent-attacks.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-13.png",
+      "publishedAt": "2025-05-09T08:41:29Z",
+      "content": "Russia-linked ColdRiver used LostKeys malware in recent attacks\r\n | SonicWall fixed SMA 100 flaws that could be chained to execute arbitrary code\r\n | The LockBit ransomware site was breached, databas… [+162739 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Canada, US come together after salmonella contamination threat, recall Jumbo Pumpkin Seeds",
+      "description": "Canada and the United States have been at loggerheads for the last few months over a host of issues. But now a health scare has forced the two neighbouring countries to toe a similar line. A famous food item - Jumbo Pumpkin Seeds - sold by Ontario-based Advan…",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/canada-us-come-together-after-salmonella-contamination-threat-recall-jumbo-pumpkin-seeds/articleshow/121023267.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121023267,width-1200,height-630,imgsize-125287,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-09T07:59:38Z",
+      "content": "A major bacterial contamination threat in Canada has forced the country to order the recall of a famous brand of pumpkin seeds while a similar advisory has issued in the United States of America to. … [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SonicWall fixed SMA 100 flaws that could be chained to execute arbitrary code",
+      "description": "SonicWall addressed three SMA 100 flaws, including a potential zero-day, that could allow remote code execution if chained. SonicWall patches three SMA 100 vulnerabilities (CVE-2025-32819, CVE-2025-32820, and CVE-2025-32821), including a potential zero-day, t…",
+      "url": "https://securityaffairs.com/177626/hacking/sonicwall-fixed-sma-100-flaws-that-could-be-chained-to-execute-arbitrary-code.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
+      "publishedAt": "2025-05-09T07:50:45Z",
+      "content": "Russia-linked ColdRiver used LostKeys malware in recent attacks\r\n | SonicWall fixed SMA 100 flaws that could be chained to execute arbitrary code\r\n | The LockBit ransomware site was breached, databas… [+162739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "How Does Food Safety Work, and What Cuts Has Trump Made?",
+      "description": "Recent actions by President Donald Trump’s administration, including staff cuts at the Food and Drug Administration, have raised questions among consumers about food safety in the United States. Here is an explanation of how food safety inspection works in th…",
+      "url": "https://www.insurancejournal.com/news/national/2025/05/09/822974.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2018/06/food-safety.jpg",
+      "publishedAt": "2025-05-09T06:40:20Z",
+      "content": "Recent actions by President Donald Trump’s administration, including staff cuts at the Food and Drug Administration, have raised questions among consumers about food safety in the United States.\r\nHer… [+5818 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -389,7 +480,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323171",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323171.t008&size=inline",
       "publishedAt": "2025-05-07T14:00:00Z",
-      "content": "Abstract\r\nWaste separation is a critical strategy to address the intensifying global waste crisis. However, inclusive teaching strategies for visually impaired students remain limited. This study add… [+67115 chars]"
+      "content": "Abstract\r\nWaste separation is a critical strategy to address the intensifying global waste crisis. However, inclusive teaching strategies for visually impaired students remain limited. This study add�� [+67115 chars]"
     },
     {
       "source": {
@@ -955,19 +1046,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
-      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
-      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
-      "publishedAt": "2025-05-06T06:00:00Z",
-      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Willow Tohi",
       "title": "Midwest farmers FIGHT BACK against CO2 pipeline land grabs",
       "description": "Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and environmentalists. Summit Carbon Solutions, linked to a political figure…",
@@ -975,6 +1053,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Pipeline-Gas-Construction-Oil-Environment-Supply-Industry.jpg",
       "publishedAt": "2025-05-06T06:00:00Z",
       "content": "<ul><li>Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and envi… [+6160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
+      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
+      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
+      "publishedAt": "2025-05-06T06:00:00Z",
+      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
     },
     {
       "source": {
@@ -1131,125 +1222,8 @@
       "urlToImage": "https://media.zenfs.com/en/press-connects-press-sun-bulletin/75b6bab5b5cbc8c969c976692cc08391",
       "publishedAt": "2025-05-05T14:24:43Z",
       "content": "Out of 25 health inspections conducted in Broome County last month, three had critical violations, two had no violations, and 23 had unfixed violations remaining from previous inspections, according … [+6905 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Lindsay Lowe",
-      "title": "Tomatoes recalled in 14 states over salmonella risk: See the full list of affected products",
-      "description": "Tomatoes sold in 14 states have been recalled over concerns of possible contamination with the bacteria salmonella.",
-      "url": "https://www.today.com/health/recall/tomato-recall-2025-salmonella-rcna204783",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/recalled-tomatoes-mc-250505-a3e97b.jpg",
-      "publishedAt": "2025-05-05T13:41:21Z",
-      "content": "Tomatoes sold in 14 states have been recalled over concerns of possible contamination with the bacteria salmonella.\r\nTwo different companies have issued recalls after distributing the potentially con… [+4485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A hacker stole data from TeleMessage, the firm that sells modified versions of Signal to the U.S. gov",
-      "description": "A hacker stole data from TeleMessage, exposing messages from its modified Signal, WhatsApp, and other apps sold to the U.S. government. A hacker stole customer data from TeleMessage, an Israeli firm selling modified versions of popular messaging apps, such as…",
-      "url": "https://securityaffairs.com/177458/hacking/a-hacker-stole-data-from-telemessage-the-firm-that-sells-modified-versions-of-signal-to-the-u-s-gov.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-10.png",
-      "publishedAt": "2025-05-05T12:06:21Z",
-      "content": "A hacker stole data from TeleMessage, the firm that sells modified versions of Signal to the U.S. gov\r\n | Experts shared up-to-date C2 domains and other artifacts related to recent MintsLoader attack… [+161389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Drew Weisholtz",
-      "title": "EXCLUSIVE: Mike Tirico speaks out about Kentucky Derby exit after having allergic reaction",
-      "description": "Mike Tirico, who left NBC Sports’ coverage of the Kentucky Derby, talked to TODAY about what happened and how he's feeling.",
-      "url": "https://www.today.com/health/mike-tirico-kentucky-derby-nut-allergy-rcna204781",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/mike-tirico-mc-250503-c65b38.jpg",
-      "publishedAt": "2025-05-05T11:57:15Z",
-      "content": "NBC Sports Mike Tirico stepped away from coverage of the Kentucky Derby on May 3 due to a nut allergy but says hes doing well now.\r\nI feel fine. I have my coffee, watching the (TODAY) show like I do … [+2814 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Experts shared up-to-date C2 domains and other artifacts related to recent MintsLoader attacks",
-      "description": "MintsLoader is a malware loader delivering the GhostWeaver RAT via a multi-stage chain using obfuscated JavaScript and PowerShell. Recorded Future researchers observed MintsLoader delivering payloads like GhostWeaver via obfuscated scripts, evading detection …",
-      "url": "https://securityaffairs.com/177448/malware/experts-shared-up-to-date-c2-domains-and-other-artifacts-related-to-recent-mintsloader-attacks.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-9.png",
-      "publishedAt": "2025-05-05T11:24:21Z",
-      "content": "Experts shared up-to-date C2 domains and other artifacts related to recent MintsLoader attacks\r\n | Sansec uncovered a supply chain attack via 21 backdoored Magento extensions\r\n | US authorities have … [+161283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inter Press Service"
-      },
-      "author": "Ed Holt",
-      "title": "Lives at Risk After Some States Withdraw From Landmine Treaty",
-      "description": "As a string of European states announce withdrawals from a global treaty banning antipersonnel landmines, campaigners are warning countless lives could be put at risk as decades of progress fighting the weapons come under threat. On April 16, Latvia’s parliam…",
-      "url": "https://www.ipsnews.net/2025/05/lives-at-risk-after-some-states-withdraw-from-landmine-treaty/",
-      "urlToImage": "https://www.ipsnews.net/Library/2025/05/ukraine_halo_6A5A6964-copy.jpg",
-      "publishedAt": "2025-05-05T10:05:42Z",
-      "content": "Active Citizens, Armed Conflicts, Asia-Pacific, Civil Society, Development &amp; Aid, Editors' Choice, Europe, Featured, Headlines, Human Rights, Humanitarian Emergencies, Peace, Sustainable Developm… [+10878 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Sansec uncovered a supply chain attack via 21 backdoored Magento extensions",
-      "description": "Supply chain attack via 21 backdoored Magento extensions hit 500–1,000 e-stores, including a $40B multinational. Sansec researchers reported that multiple vendors were hacked in a coordinated supply chain attack, the experts discovered that a backdoor was hid…",
-      "url": "https://securityaffairs.com/177436/malware/sansec-uncovered-a-supply-chain-attack-via-21-backdoored-magento-extensions.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-7.png",
-      "publishedAt": "2025-05-05T07:34:37Z",
-      "content": "Sansec uncovered a supply chain attack via 21 backdoored Magento extensions\r\n | US authorities have indicted Black Kingdom ransomware admin\r\n | Malicious Go Modules designed to wipe Linux systems\r\n |… [+161184 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Why is the USFDA recalling tomatoes in 14 states? Affected brands, risks & what to do",
-      "description": "The USFDA has announced a recall of tomatoes from Ray & Mascari Inc., sold in 11 states via Gordon Food Service Stores, and Williams Farms Repack LLC, distributed to wholesalers in South Carolina, North Carolina, and Georgia, due to potential salmonella conta…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-is-the-usfda-recalling-tomatoes-in-14-states-affected-brands-risks-what-to-do/articleshow/120889989.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-120890262,width-1200,height-630,imgsize-184518,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-05-05T06:05:07Z",
-      "content": "The U.S. Food and Drug Administration (USFDA) has announced a recall of tomatoes from two different brands across 14 states due to possible salmonella contamination. While no illnesses have been repo… [+1705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Vincent Ho, Associate Professor and Clinical Academic Gastroenterologist, Western Sydney University",
-      "title": "Is it dangerous to kiss someone who’s eaten gluten if you have coeliac disease?",
-      "description": "A very small amount of gluten can be harmful to people with coeliac disease, so you may worry about cross-contamination through saliva.",
-      "url": "https://theconversation.com/is-it-dangerous-to-kiss-someone-whos-eaten-gluten-if-you-have-coeliac-disease-255721",
-      "urlToImage": "https://images.theconversation.com/files/665657/original/file-20250504-56-hndvn1.jpg?ixlib=rb-4.1.0&rect=0%2C196%2C7008%2C3504&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-05-05T05:59:49Z",
-      "content": "Lordn/Shutterstock\r\nCoeliac disease is not a food allergy or intolerance. It’s an autoimmune disease that makes the body attack the small intestine if gluten (a protein found in wheat, rye and barley… [+5574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "cbsnews.com",
-      "title": "Tomatoes recalled in 14 states due to salmonella risk, FDA says",
-      "description": "Two brands of tomatoes have been recalled in 14 states due to possible salmonella contamination, the Food and Drug Administration said this week.\nRay & Mascari Inc. recalled four-count Vine Ripe tomatoes that were sold by Gordon Food Service Stores in 11 stat…",
-      "url": "https://biztoc.com/x/46318b6c2c8080ea",
-      "urlToImage": "https://biztoc.com/cdn/46318b6c2c8080ea_s.webp",
-      "publishedAt": "2025-05-05T01:25:57Z",
-      "content": "Two brands of tomatoes have been recalled in 14 states due to possible salmonella contamination, the Food and Drug Administration said this week.Ray &amp; Mascari Inc. recalled four-count Vine Ripe t… [+150 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 94,
   "filteredCount": 0
 }
