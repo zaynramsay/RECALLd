@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-05-09T18:32:47.070Z",
+  "lastUpdated": "2025-05-10T01:52:58.433Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faizan Haidar",
+      "title": "From composting decor to e-vehicle baraats: Welcome to big, green Indian wedding",
+      "description": "Indian luxury weddings are embracing sustainability, with couples seeking eco-conscious celebrations. Boutique hotels are catering to this demand by offering composted decor, e-vehicle baraats, and locally sourced hampers. These venues are implementing practi…",
+      "url": "https://economictimes.indiatimes.com/news/india/from-composting-decor-to-e-vehicle-baraats-welcome-to-big-green-indian-wedding/articleshow/121009519.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121009526,width-1200,height-630,imgsize-68480,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-08T21:16:28Z",
+      "content": "New Delhi: Composted decor, e-vehicle baraats, and tribal-made hampers... Indian luxury weddings are becoming less fat and more green, as saving the planet becomes the latest status symbol. Boutique … [+2991 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Jumbo pumpkin seeds recalled due to salmonella risk",
+      "description": "Two pumpkin seed products from the brand Organic Traditions have been recalled.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/pumpkin-seeds-recall-salmonella-1.7530064",
+      "urlToImage": "https://i.cbc.ca/1.7530077.1746732132!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/organic-traditions-jumbo-pumpkin-seeds.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-08T19:24:53Z",
+      "content": "The Canadian Food Inspection Agency has issued a recall for jumbo pumpkin seeds from the brand Organic Traditions due to possible salmonella contamination.\r\nThe agency is warning the public not to ea… [+961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "The LockBit ransomware site was breached, database dump was leaked online",
+      "description": "Lockbit ransomware group has been compromised, attackers stole and leaked data contained in the backend infrastructure of their dark web site. Hackers compromised the dark web leak site of the LockBit ransomware gang and defaced it, posting a message and a li…",
+      "url": "https://securityaffairs.com/177619/cyber-crime/the-lockbit-ransomware-site-was-breached-database-dump-was-leaked-online.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-14.png",
+      "publishedAt": "2025-05-08T18:37:05Z",
+      "content": "The LockBit ransomware site was breached, database dump was leaked online\r\n | Cisco fixed a critical flaw in its IOS XE Wireless Controller\r\n | U.S. CISA adds GoVision device flaws to its Known Explo… [+162589 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -242,7 +281,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Play ransomware affiliate leveraged zero-day to deploy malware",
-      "description": "The Play ransomware gang exploited a high-severity Windows Common Log File System flaw in zero-day attacks to deploy malware. The Play ransomware gang has exploited a Windows Common Log File System flaw, tracked as CVE-2025-29824, in zero-day attacks to gain ��",
+      "description": "The Play ransomware gang exploited a high-severity Windows Common Log File System flaw in zero-day attacks to deploy malware. The Play ransomware gang has exploited a Windows Common Log File System flaw, tracked as CVE-2025-29824, in zero-day attacks to gain …",
       "url": "https://securityaffairs.com/177573/cyber-crime/play-ransomware-affiliate-leveraged-zero-day-to-deploy-malware.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/11/windows-zero-day.png",
       "publishedAt": "2025-05-07T18:43:23Z",
@@ -903,19 +942,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Willow Tohi",
-      "title": "Midwest farmers FIGHT BACK against CO2 pipeline land grabs",
-      "description": "Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and environmentalists. Summit Carbon Solutions, linked to a political figure…",
-      "url": "https://www.naturalnews.com/2025-05-06-farmers-fight-back-co2-pipeline-land-grabs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Pipeline-Gas-Construction-Oil-Environment-Supply-Industry.jpg",
-      "publishedAt": "2025-05-06T06:00:00Z",
-      "content": "<ul><li>Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and envi… [+6160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Ramon Tomey",
       "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
       "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
@@ -923,6 +949,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
       "publishedAt": "2025-05-06T06:00:00Z",
       "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "Midwest farmers FIGHT BACK against CO2 pipeline land grabs",
+      "description": "Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and environmentalists. Summit Carbon Solutions, linked to a political figure…",
+      "url": "https://www.naturalnews.com/2025-05-06-farmers-fight-back-co2-pipeline-land-grabs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Pipeline-Gas-Construction-Oil-Environment-Supply-Industry.jpg",
+      "publishedAt": "2025-05-06T06:00:00Z",
+      "content": "<ul><li>Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and envi… [+6160 chars]"
     },
     {
       "source": {
@@ -1209,45 +1248,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/Black-Kingdom.jpg",
       "publishedAt": "2025-05-05T00:15:28Z",
       "content": "US authorities have indicted Black Kingdom ransomware admin\r\n | Malicious Go Modules designed to wipe Linux systems\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n | Security Affairs newsletter Ro… [+161104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Connecting the Past and Present — Can Ancient Wisdom Help You Reclaim Health?",
-      "description": "For most of history, humans lived in alignment with their biological design. They ate whole foods, moved naturally throughout the day and followed the rhythms of the sun. But today's world is completely different. While technology has made life more convenien…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/05/05/connecting-past-and-present-reclaim-health.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/May/FB/connecting-past-and-present-reclaim-health-fb.jpg",
-      "publishedAt": "2025-05-05T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "local12.com",
-      "title": "Tomatoes recalled from 11 states, including Ohio, for Salmonella contamination",
-      "description": "One brand of tomatoes was recalled from 11 states, including Ohio, due to possible Salmonella contamination - a dangerous organism that can cause serious (and sometimes fatal) infections.\nThe recall was issued by Ray & Mascari Inc. through the Food and Drug A…",
-      "url": "https://biztoc.com/x/3bb4c9e6568518ca",
-      "urlToImage": "https://biztoc.com/cdn/3bb4c9e6568518ca_s.webp",
-      "publishedAt": "2025-05-04T23:35:43Z",
-      "content": "One brand of tomatoes was recalled from 11 states, including Ohio, due to possible Salmonella contamination - a dangerous organism that can cause serious (and sometimes fatal) infections.The recall w… [+153 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Lucia I Suarez Sang",
-      "title": "Tomatoes recalled in 14 states due to salmonella risk, FDA says",
-      "description": "People infected with salmonella can often experience fever, diarrhea, nausea, vomiting and abdominal pain.",
-      "url": "https://www.cbsnews.com/news/tomatoes-recalled-salmonella-risk-fda/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/05/04/1684d9a5-726a-45ff-8534-612705c988e3/thumbnail/1200x630/3e08daa14f554ff78c9adad9ab4f8481/vice-ripe.jpg?v=7c5acc180b39394767372ab4e02619ce",
-      "publishedAt": "2025-05-04T23:00:51Z",
-      "content": "Two brands of tomatoes have been recalled in 14 states due to possible salmonella contamination, the Food and Drug Administration said this week.\r\nRay &amp; Mascari Inc. recalled four-count Vine Ripe… [+1957 chars]"
     }
   ],
   "totalResults": 96,
