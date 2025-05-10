@@ -1,6 +1,149 @@
 {
-  "lastUpdated": "2025-05-10T12:43:08.325Z",
+  "lastUpdated": "2025-05-10T18:29:23.716Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A cyber attack briefly disrupted South African Airways operations",
+      "description": "A cyberattack briefly disrupted South African Airways’ website, app, and systems, but core flight operations remained unaffected. South African Airways (SAA) is the national flag carrier of South Africa, the airline is wholly owned by the South African govern…",
+      "url": "https://securityaffairs.com/177656/hacking/a-cyber-attack-briefly-disrupted-south-african-airways-operations.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-15.png",
+      "publishedAt": "2025-05-09T18:21:13Z",
+      "content": "A cyber attack briefly disrupted South African Airways operations\r\n | Cybercriminal services target end-of-life routers, FBI warns\r\n | Russia-linked ColdRiver used LostKeys malware in recent attacks\r… [+162874 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCCI Des Moines"
+      },
+      "author": "Kristen Rogers",
+      "title": "FDA approves three new natural food color additives",
+      "description": "The FDA moves to healthier food options with three natural color additives",
+      "url": "https://www.kcci.com/article/fda-natural-color-additives-2025/64728808",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwfomhb6bxiwmdj1m2i2btbkajdzyjiz-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntywd5ntb3djawng8yn3a0njc2ymdjmzg-jpg-681e3c1b71eb1.jpg?crop=1.00xw:0.846xh;0,0.154xh&resize=1200:*",
+      "publishedAt": "2025-05-09T17:56:11Z",
+      "content": "WASHINGTON —The U.S. Food and Drug Administration has approved three new color additives from natural sources that will expand the palette of available colors from natural sources for manufacturers t… [+5564 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kristen Rogers",
+      "title": "3 natural food dyes approved by FDA | CNN",
+      "description": "The US Food and Drug Administration has approved three new food dyes that come from natural sources.",
+      "url": "https://www.cnn.com/2025/05/09/health/natural-food-dyes-fda-approved-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sipausa-11-221370104-92419064.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-09T17:22:36Z",
+      "content": "See all topics\r\nSign up for CNNs Eat, But Better:  Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nThe US Food an… [+6996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Kaleigh Werner",
+      "title": "Supplement company issues urgent recall after finding potentially deadly contamination",
+      "description": "Wellness brand Optimal Carnivore finds possible salmonella contamination in one of its supplements",
+      "url": "https://www.the-independent.com/life-style/fda-recall-supplement-salmonella-b2748152.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/09/16/53/iStock-1484152323.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-05-09T16:47:34Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Metals and hormone-disrupting substances pose real threat to sustainable agriculture and water management in Europe",
+      "description": "Metals and hormone-disrupting substances such as estrogens present a genuine risk to the sustainability of agriculture and water management in Europe. This research provides new insights into the distribution, availability, and risks associated with these pol…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250509122122.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-09T16:21:22Z",
+      "content": "The current study focused on two main areas: metals in fertilised agricultural soils and oestrogens in aquatic systems, including the Scheldt estuary. In both domains, attention was paid not only to … [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Trader Joe's Food Recalled in 18 States as FDA Sets Highest Warning Level",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA company product sold by Trader Joe's, the Sesame Miso Salad with Salmon, has been recalled affecting 18 states after some packages were found to possibly contain an undeclared allergen, which the Food and Dr…",
+      "url": "https://biztoc.com/x/eb4fe215f48c5f94",
+      "urlToImage": "https://biztoc.com/cdn/eb4fe215f48c5f94_s.webp",
+      "publishedAt": "2025-05-09T14:42:12Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A company product sold by Trader Joe's, the Sesame Miso Salad with Salmon, has been recalled affecting 18 states after some packages were found to pos… [+140 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Trader Joe's Food Recalled in 18 States as FDA Sets Highest Warning Level",
+      "description": "Milk is one of the nine major food allergens that must be declared on packaging under federal labeling laws.",
+      "url": "https://www.newsweek.com/trader-joes-food-recalled-fda-warning-level-2070087",
+      "urlToImage": "https://d.newsweek.com/en/full/2641649/trader-joes-recall.jpg",
+      "publishedAt": "2025-05-09T14:34:33Z",
+      "content": "A company product sold by Trader Joe's, the Sesame Miso Salad with Salmon, has been recalled affecting 18 states after some packages were found to possibly contain an undeclared allergen, which the F… [+3663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Bhagya Galkissa-Dewage, Jared Oremo, Simon Bunde, Oscar Oluoch Akello, Naomy Onyuka, Jeremiah Ongwara, Abhilasha Shrestha, Samuel Dorevitch",
+      "title": "Monitoring SARS-CoV-2 in wastewater in Kisumu, Kenya: Association with COVID-19 case numbers",
+      "description": "While wastewater-based surveillance (WBS) has proven to be effective as an early warning system for SARS-CoV-2 monitoring in high-income countries (HICs), its feasibility in low- and middle-income countries (LMICs) is challenging due to limited sewer infrastr…",
+      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000339",
+      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000339.g003&size=inline",
+      "publishedAt": "2025-05-09T14:00:00Z",
+      "content": "Abstract\r\nWhile wastewater-based surveillance (WBS) has proven to be effective as an early warning system for SARS-CoV-2 monitoring in high-income countries (HICs), its feasibility in low- and middle… [+61805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
+      "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
+      "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323332",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
+      "publishedAt": "2025-05-09T14:00:00Z",
+      "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Muhammad Asghar, Muhammad Atiq, Muhammad Usman Ali, Ghalib Ayaz Kachelo, Nasir Ahmad Khan, Khalid Naveed, Muhammad Usman, Ahmad Nawaz, Owais Iqbal, Nasir Ahmed Rajput",
+      "title": "Investigating the biochemical variations in onion leaves due to purple blotch disease and its management through induced resistance",
+      "description": "Purple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The incidence of this disease underscores the critical need for an effectiv…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323067",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323067.g010&size=inline",
+      "publishedAt": "2025-05-09T14:00:00Z",
+      "content": "Abstract\r\nPurple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The i… [+45775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "Agrochemical Tank Market to USD 2.09 Billion by 2032, Owing to Rising Demand for Efficient and Sustainable Agrochemical Storage Solutions | SNS Insider",
+      "description": "The Agrochemical Tank Market is experiencing significant growth due to the increasing adoption of precision agriculture and the need for efficient storage solutions that ensure the safe handling of agrochemicals, thereby enhancing crop yields and promoting su…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/09/3078314/0/en/Agrochemical-Tank-Market-to-USD-2-09-Billion-by-2032-Owing-to-Rising-Demand-for-Efficient-and-Sustainable-Agrochemical-Storage-Solutions-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-05-09T13:30:00Z",
+      "content": "Austin, May 09, 2025 (GLOBE NEWSWIRE) -- The Agrochemical Tank Market\r\n Size was valued at USD 1.42 billion in 2023 and is expected to reach USD 2.09 billion by 2032, growing at a CAGR of 4.47% over … [+9006 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -480,7 +623,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323171",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323171.t008&size=inline",
       "publishedAt": "2025-05-07T14:00:00Z",
-      "content": "Abstract\r\nWaste separation is a critical strategy to address the intensifying global waste crisis. However, inclusive teaching strategies for visually impaired students remain limited. This study add�� [+67115 chars]"
+      "content": "Abstract\r\nWaste separation is a critical strategy to address the intensifying global waste crisis. However, inclusive teaching strategies for visually impaired students remain limited. This study add… [+67115 chars]"
     },
     {
       "source": {
@@ -1053,177 +1196,8 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Pipeline-Gas-Construction-Oil-Environment-Supply-Industry.jpg",
       "publishedAt": "2025-05-06T06:00:00Z",
       "content": "<ul><li>Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and envi… [+6160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "New York-based meat processing company RECALLS products due to dangerously high levels of sodium nitrite",
-      "description": "A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels. The U.S. Department of Agriculture (FSIS) announced the recall on April 29, 2025, affecti…",
-      "url": "https://www.naturalnews.com/2025-05-06-meat-products-recalled-high-levels-sodium-nitrite.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sausage-Hotdog-Meat.jpg",
-      "publishedAt": "2025-05-06T06:00:00Z",
-      "content": "<ul><li>A New York-based food company (Smith Packing, LLC) recalled nearly 19,000 pounds of ready-to-eat sausages and sliced meats due to dangerously high sodium nitrite levels.</li><li>The U.S. Depa… [+4555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hoover.org"
-      },
-      "author": "May 6, 2025",
-      "title": "Climate Change And Conflicts In The Middle East",
-      "description": "Despite the ongoing conflict in the Middle East, it is easy to overlook the impact of climate change. The regional conflicts are largely determined by classical geopolitics. However, it is important not to overlook the environmental factor that exacerbates do…",
-      "url": "https://www.hoover.org/research/climate-change-and-conflicts-middle-east",
-      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2025-05/iStock-157683620.jpg?h=9938f560&itok=DyEbZSk6",
-      "publishedAt": "2025-05-06T00:00:00Z",
-      "content": "Despite the ongoing conflict in the Middle East, it is easy to overlook the impact of climate change. The regional conflicts are largely determined by classical geopolitics. However, it is important … [+31548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Michael Doudna",
-      "title": "Recall alert: Tomatoes distributed in Georgia recalled due to potential salmonella contamination",
-      "description": "The tomatoes were distributed between April 23 and April 28 and then packaged and sold to wholesalers and distributors in Georgia.",
-      "url": "https://www.wsbtv.com/news/local/dekalb-county/recall-alert-tomatoes-distributed-georgia-recalled-due-potential-salmonella-contamination/QNL7VGWLR5BONFU4LKOQRQ67DA/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7DRBU5IAZXJISOYKZCJ5OHHMYQ.jpg?auth=0c2b8c7d9286a159ba0bfd1cff70cb7ad66f7eb5dad2630b8ec4f6022dc4068b&width=1200&height=630&smart=true",
-      "publishedAt": "2025-05-05T22:35:45Z",
-      "content": "DEKALB COUNTY, Ga. — Tomatoes sold under the Williams Farms Repak and the H&amp;C Farms labels are being recalled because they may be contaminated with Salmonella.\r\nA separate recall involves tomatoe… [+2239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "author": "Audrey Streb",
-      "title": "Illegal Immigration Thoroughfare Left Trashed, Environmentally Damaged As Migrant Influx Subsides",
-      "description": "As illegal migrants trekked through the Darien Gap on their way to the U.S. southern border, they left behind a mess of garbage, gasoline and fecal matter.",
-      "url": "https://dailycaller.com/2025/05/05/illegal-immigration-darien-gap-trashed-environmentally-damaged-migrant-influx-subsides/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2025/05/GettyImages-2159052463-scaled-e1746469367448.jpg",
-      "publishedAt": "2025-05-05T21:53:13Z",
-      "content": "Crowds of illegal immigrants who trekked through the vast jungle region between Colombia and Panama known as the Darien Gap while making their way to the U.S. southern border left behind heaps of gar… [+6474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aarp.org"
-      },
-      "author": "Aarp",
-      "title": "Tomatoes Recalled for Salmonella Risk",
-      "description": "Ray & Mascari Inc. and H&C Farms have recalled multiple units of tomatoes due to potential Salmonella contamination. See affected products.",
-      "url": "https://www.aarp.org/health/conditions-treatments/tomato-salmonella-recall-may-2025/",
-      "urlToImage": "https://aarp.widen.net/content/hhhe1kqes2/jpeg/GettyImages-147522169.jpg?crop=true&anchor=21,0&q=80&color=ffffffff&u=7xsf69&w=2005&h=1152",
-      "publishedAt": "2025-05-05T17:30:05Z",
-      "content": "This article was created with the assistance of generative AI. It was reviewed by editors before publication.\r\nRay &amp; Mascari Inc. and Williams Farms Repack LLC have recalled tomato products due t… [+2847 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Kelly Benefits December data breach impacted over 400,000 individuals",
-      "description": "Kelly Benefits has determined that the impact of the recently disclosed data breach is much bigger than initially believed. Benefits and payroll solutions firm Kelly & Associates Insurance Group, aka Kelly Benefits, announced that the impact of a recently dis…",
-      "url": "https://securityaffairs.com/177476/data-breach/kelly-benefits-december-data-breach-impacted-over-400000-individuals.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
-      "publishedAt": "2025-05-05T17:22:11Z",
-      "content": "Kelly Benefits December data breach impacted over 400,000 individuals\r\n | A hacker stole data from TeleMessage, the firm that sells modified versions of Signal to the U.S. gov\r\n | Experts shared up-t… [+161463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Arden Dier",
-      "title": "Scientists Assure Celiac Sufferers: 'Go Ahead and Kiss'",
-      "description": "Have you ever been about to smooch someone and thought, \"I wonder if this kiss will give me an allergic reaction?\" It's a real fear for some people with celiac disease, or an intolerance to gluten. But according to new research, it's not a legitimate one, at …",
-      "url": "https://www.newser.com/story/368167/scientists-assure-celiac-sufferers-go-ahead-and-kiss.html",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1608774-12-20250505123202.jpeg",
-      "publishedAt": "2025-05-05T17:10:00Z",
-      "content": "The gluten-tolerant partners were asked to first eat 10 saltine crackers. In one scenario, they waited five minutes before kissing their partners. In another, they drank four ounces of water before g… [+1194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Aayushi Singh Chauhan",
-      "title": "How To Purify Water For Drinking And Safe Usage",
-      "description": "Here's a comprehensive guide to simple and effective water purification methods you can use at home or during emergencies.",
-      "url": "https://doctor.ndtv.com/living-healthy/how-to-purify-water-for-drinking-and-safe-usage-8338095",
-      "urlToImage": "https://c.ndtvimg.com/2025-03/6f0rnv8o_drinking-water-on-an-empty-stomach_625x300_10_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
-      "publishedAt": "2025-05-05T16:34:01Z",
-      "content": "Access to clean drinking water is essential for maintaining good health and preventing waterborne diseases. Yet, millions across the world, including in parts of India, rely on sources that may be co… [+4801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Are agricultural pesticides an environmental threat?",
-      "description": "A study has demonstrated that pesticides can negatively affect non-target species living in agricultural environment. However, the effects varied greatly depending on the substance tested.",
-      "url": "https://www.sciencedaily.com/releases/2025/05/250505121750.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-05-05T16:17:50Z",
-      "content": "A University of Helsinki study demonstrated that pesticides can negatively affect non-target species living in agricultural environment. However, the effects varied greatly depending on the substance… [+2763 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSOC Charlotte"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Tomatoes recalled due to potential salmonella contamination",
-      "description": "Tomatoes sold under the Williams Farms Repak label and the H&C Farms label are being recalled because they may be contaminated with Salmonella.",
-      "url": "https://www.wsoctv.com/news/trending/recall-alert-tomatoes-recalled-due-potential-salmonella-contamination/UD56765IXFDOROE2WF5ULAEH2I/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJAPSNFGRLRGH5NQZNMIEJCDTF4.jpeg?auth=fee29ead7825693142d0bd3c59e33bf7eba3a381f6a0d43857e2c89501cccbff&width=1200&height=630&smart=true",
-      "publishedAt": "2025-05-05T16:11:11Z",
-      "content": "Tomatoes sold under the Williams Farms Repak and the H&amp;C Farms labels are being recalled because they may be contaminated with Salmonella. \r\nA separate recall involves tomatoes grown by Hanshaw &… [+2201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Tomatoes recalled due to potential salmonella contamination",
-      "description": "Tomatoes sold under the Williams Farms Repak label and the H&C Farms label are being recalled because they may be contaminated with Salmonella.",
-      "url": "https://www.wpxi.com/news/trending/recall-alert-tomatoes-recalled-due-potential-salmonella-contamination/UD56765IXFDOROE2WF5ULAEH2I/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJAPSNFGRLRGH5NQZNMIEJCDTF4.jpeg?auth=fee29ead7825693142d0bd3c59e33bf7eba3a381f6a0d43857e2c89501cccbff&width=1200&height=630&smart=true",
-      "publishedAt": "2025-05-05T16:11:03Z",
-      "content": "Tomatoes sold under the Williams Farms Repak and the H&amp;C Farms labels are being recalled because they may be contaminated with Salmonella. \r\nA separate recall involves tomatoes grown by Hanshaw &… [+2201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Caitlin Hornik",
-      "title": "Tomatoes recalled over salmonella risk",
-      "description": "Affected tomatoes were sold in 14 states",
-      "url": "https://www.the-independent.com/life-style/tomatoes-recall-salmonella-b2745059.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/05/13/47/GettyImages-2194024240.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-05T15:20:15Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2850 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Press & Sun-Bulletin"
-      },
-      "author": "USA TODAY Network",
-      "title": "Two Broome County restaurants have flawless health inspections; three marked with critical violations in April",
-      "description": "Here's a look at the results of restaurant inspections conducted in Broome County last month.",
-      "url": "https://www.pressconnects.com/story/news/local/2025/05/05/monthly-restaurant-inspections/83236914007/",
-      "urlToImage": "https://media.zenfs.com/en/press-connects-press-sun-bulletin/75b6bab5b5cbc8c969c976692cc08391",
-      "publishedAt": "2025-05-05T14:24:43Z",
-      "content": "Out of 25 health inspections conducted in Broome County last month, three had critical violations, two had no violations, and 23 had unfixed violations remaining from previous inspections, according … [+6905 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 92,
   "filteredCount": 0
 }
