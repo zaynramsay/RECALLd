@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-11T02:03:37.212Z",
+  "lastUpdated": "2025-05-11T06:31:25.534Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETimes.in",
+      "title": "Oats may actually be harmful for some: 5 types of people who should avoid them",
+      "description": "A popular health food, Oats are known for its high fibre and heart health benefits. From overnight soaked oats to oats cheela, there are a variety of ways to have this grain. However, they may not be suitable for everyone. Despite being gluten-free, oats can …",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/oats-may-actually-be-harmful-for-some-5-types-of-people-who-should-avoid-them/photostory/120971960.cms",
+      "urlToImage": "https://static.toiimg.com/photo/120971975.cms",
+      "publishedAt": "2025-05-10T04:30:00Z",
+      "content": "Oats are naturally gluten-free, but they are often processed in factories that handle wheat, barley, or rye, too. This leads to cross-contamination and can trigger severe immune responses in people w… [+439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Rohit   Pajni",
+      "title": "Why it is time to rethink the standards for the food we eat every day",
+      "description": "Everyday staples deserve the same quality scrutiny as gourmet items, highlighting the need for transparency and accountability in food sourcing.",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/why-it-is-time-to-rethink-the-standards-for-the-food-we-eat-every-day/article69562023.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/k8mlww/article69563359.ece/alternates/LANDSCAPE_1200/IMG_BL_-_23_09_2019_-_11_2_1_75DQJBH1.jpg",
+      "publishedAt": "2025-05-10T04:15:00Z",
+      "content": "Food choices have grown increasingly curated. Ingredient labels are studied, sourcing stories are celebrated, and packaging aesthetics often shape perception as much as taste. But the enthusiasm for … [+4801 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,32 +1209,6 @@
       "urlToImage": "https://www.uncannymagazine.com/wp-content/uploads/2025/05/Issue-64-cover-base_v2-med-683x1024.png",
       "publishedAt": "2025-05-06T10:00:50Z",
       "content": "Kestrel House\r\n There have been portals to the Fae realm for at least as long as humans have had fairy tales, but the first one deliberately engineered by humans was opened in an abandoned amusement … [+39226 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New ‘Bring Your Own Installer (BYOI)’ technique allows to bypass EDR",
-      "description": "A new BYOI technique lets attackers bypass SentinelOne EDR, disable protection, and deploy Babuk ransomware by exploiting the agent upgrade process. Aon’s Stroz Friedberg discovered a new “Bring Your Own Installer” (BYOI)  EDR bypass technique that exploits a…",
-      "url": "https://securityaffairs.com/177494/hacking/new-bring-your-own-installer-byoi-technique-allows-to-bypass-edr.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-12.png",
-      "publishedAt": "2025-05-06T08:57:20Z",
-      "content": "New 'Bring Your Own Installer (BYOI)' technique allows to bypass EDR\r\n | Smishing on a Massive Scale: Panda Shop Chinese Carding Syndicate\r\n | Kelly Benefits December data breach impacted over 400,00… [+161606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Joseph Winters",
-      "title": "This commonly used plastic chemical caused 350,000 heart disease-related deaths in 1 year",
-      "description": "People in Asia are exposed to levels up to six times higher than their counterparts in the West.",
-      "url": "http://grist.org/science/plastic-chemical-dehp-phthalate-deaths-heart-disease-2018-lancet/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2025/05/Dhaka-recycling-factory.jpg?quality=75&strip=all",
-      "publishedAt": "2025-05-06T08:30:00Z",
-      "content": "More than 16,000 chemicals are used to produce plastics  and some are silently killing us.\r\nParticularly worrisome is di-2-ethylhexylphthalate, or DEHP, a chemical used to soften plastic products. Co… [+6528 chars]"
     }
   ],
   "totalResults": 93,
