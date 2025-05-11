@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-05-10T18:29:23.716Z",
+  "lastUpdated": "2025-05-11T02:03:37.212Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Snopes.com"
+      },
+      "author": "Laerke Christensen",
+      "title": "USDA withdrew proposed new salmonella regulations in poultry, but that doesn't mean the bacteria will be unregulated",
+      "description": "A USDA spokesperson said its most recent performance standards, set in 2016, regarding salmonella prevalence in food continue to be enforced.",
+      "url": "https://www.snopes.com//fact-check/usda-salmonella-proposal-withdrawl/",
+      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/05/salmonella_usda_fsis_poultry.png",
+      "publishedAt": "2025-05-10T01:30:00Z",
+      "content": "Claim:\r\nThe U.S. Department of Agriculture will no longer require companies to limit salmonella bacteria in poultry products.\r\n<ul><li>In late April and early May 2025, social media users claimed tha… [+12415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Food & Wine",
+      "title": "There’s Fecal Matter in Our Drinking Water — Here's What Scientists Are Doing About It",
+      "description": "Researchers have found a new way to test for water contamination. And it's thanks to our poop. In late 2024, researchers from Chungnam National University and Gyeongsang National University published their findings on a new technique for detecting fecal conta…",
+      "url": "https://freerepublic.com/focus/f-backroom/4316019/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-05-09T21:04:51Z",
+      "content": "Skip to comments.\r\nTheres Fecal Matter in Our Drinking Water Here's What Scientists Are Doing About ItFood &amp; Wine ^\r\n | 5/8\r\n | Stacey Leasca\r\nPosted on 05/09/2025 2:04:51 PM PDT by nickcarraway\r… [+4933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Tattoo Ink Recall Sparks Warning About Infections, Permanent Scarring",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nTattoo artists and consumers are being urged to steer clear of certain Sacred Tattoo Ink products after federal testing revealed contamination with potentially dangerous bacteria.\nThe Food and Drug Administrat…",
+      "url": "https://biztoc.com/x/cc9fd8e026a0ca8d",
+      "urlToImage": "https://biztoc.com/cdn/cc9fd8e026a0ca8d_s.webp",
+      "publishedAt": "2025-05-09T20:39:35Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.Tattoo artists and consumers are being urged to steer clear of certain Sacred Tattoo Ink products after federal testing revealed contamination with po… [+141 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Skinner",
+      "title": "Tattoo Ink Recall Sparks Warning About Infections, Permanent Scarring",
+      "description": "Testing showed that two tattoo ink products revealed contamination with potentially dangerous bacteria.",
+      "url": "https://www.newsweek.com/tattoo-ink-recall-sparks-warning-infection-permanent-scarring-2070412",
+      "urlToImage": "https://d.newsweek.com/en/full/2642130/tattoo-ink-recall-permanent-scarring.jpg",
+      "publishedAt": "2025-05-09T20:32:44Z",
+      "content": "Tattoo artists and consumers are being urged to steer clear of certain Sacred Tattoo Ink products after federal testing revealed contamination with potentially dangerous bacteria.\r\nThe Food and Drug … [+3529 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": "United Nations",
+      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "description": "In Syria, the Office for the Coordination of Humanitarian Affairs reports that more than 670,000 people have been displaced since November 2024, while over 1 million people have returned to their areas of origin. Meanwhile, the UN and its partners continue to…",
+      "url": "https://press.un.org/en/2025/deb250509.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-05-09T19:21:20Z",
+      "content": "The following is a near-verbatim transcript of todays briefing by Farhan Haq, Deputy Spokesman for the Secretary-General.\r\n**Secretary-General\r\nGood afternoon, everyone.  The Secretary-General just c… [+19299 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Suzy Khimm",
+      "title": "FDA stalls in posting food safety warning letters amid staff cuts",
+      "description": "The FDA has not published more than a dozen letters that flagged hazards at food companies, including potential contamination, two sources said.",
+      "url": "https://www.nbcnews.com/health/health-news/fda-stalls-posting-food-safety-warning-letters-staff-cuts-rcna204879",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250505-fda-warning-letters-lr-a0d8ed.jpg",
+      "publishedAt": "2025-05-09T18:48:13Z",
+      "content": "A seafood company failed to follow federal safety rules to prevent potential botulism contamination. A business was hawking dietary supplements with the misleading claim that theyd cure, treat or pre… [+4027 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1131,73 +1209,8 @@
       "urlToImage": "https://grist.org/wp-content/uploads/2025/05/Dhaka-recycling-factory.jpg?quality=75&strip=all",
       "publishedAt": "2025-05-06T08:30:00Z",
       "content": "More than 16,000 chemicals are used to produce plastics  and some are silently killing us.\r\nParticularly worrisome is di-2-ethylhexylphthalate, or DEHP, a chemical used to soften plastic products. Co… [+6528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Consumer Packaging Market Size to Uplift USD 969.73 Bn by 2034 | Towards Packaging Research Report",
-      "description": "According to Towards Packaging, the consumer packaging market size stood at USD 664.64 billion in 2024 and is predicted to exceed USD 969.73 billion by 2034, experiencing a CAGR of 3.85% from 2024 to 2034. According to Towards Packaging, the consumer packagin…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/06/3074766/0/en/Consumer-Packaging-Market-Size-to-Uplift-USD-969-73-Bn-by-2034-Towards-Packaging-Research-Report.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-05-06T08:30:00Z",
-      "content": "Ottawa, May 06, 2025 (GLOBE NEWSWIRE) -- The consumer packaging market size to record USD 690.23 billion in 2025 and is projected to grow beyond USD 969.73 billion by 2034, a study published by Towar… [+22150 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Joseph Winters",
-      "title": "This commonly used plastic chemical caused 350,000 heart disease-related deaths in 1 year",
-      "description": "People in Asia are exposed to levels up to six times higher than their counterparts in the West.",
-      "url": "http://grist.org/health/plastic-chemical-dehp-phthalate-deaths-heart-disease-2018-lancet/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2025/05/Dhaka-recycling-factory.jpg?quality=75&strip=all",
-      "publishedAt": "2025-05-06T08:30:00Z",
-      "content": "More than 16,000 chemicals are used to produce plastics  and some are silently killing us.\r\nParticularly worrisome is di-2-ethylhexylphthalate, or DEHP, a chemical used to soften plastic products. Co… [+6518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Smishing on a Massive Scale: ‘Panda Shop’ Chinese Carding Syndicate",
-      "description": "Resecurity found a new smishing kit called ‘Panda Shop,’ mimicking Smishing Triad tactics with improved features and new templates. Resecurity (USA) was the first company to identify the Smishing Triad, a group of Chinese cybercriminals targeting consumers ac…",
-      "url": "https://securityaffairs.com/177502/cyber-crime/smishing-on-a-massive-scale-panda-shop-chinese-carding-syndicate.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/panda.jpg",
-      "publishedAt": "2025-05-06T06:30:10Z",
-      "content": "Smishing on a Massive Scale: Panda Shop Chinese Carding Syndicate\r\n | Kelly Benefits December data breach impacted over 400,000 individuals\r\n | A hacker stole data from TeleMessage, the firm that sel… [+161533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Farro: An ancient supergrain making a modern comeback",
-      "description": "Farro is rich in protein, fiber, B vitamins and essential minerals like magnesium, iron and zinc. Its low gluten content makes it easier to digest than modern wheat. One of the oldest cultivated grains, farro dates back over 10,000 years and was a staple in a…",
-      "url": "https://www.naturalnews.com/2025-05-06-farro-an-ancient-supergrain-making-modern-comeback.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Bulk-Foods-Herbs-Seeds-Grains-Beans-rice.jpg",
-      "publishedAt": "2025-05-06T06:00:00Z",
-      "content": "<ul><li>Farro is rich in protein, fiber, B vitamins and essential minerals like magnesium, iron and zinc. Its low gluten content makes it easier to digest than modern wheat.</li><li>One of the oldest… [+5276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Willow Tohi",
-      "title": "Midwest farmers FIGHT BACK against CO2 pipeline land grabs",
-      "description": "Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and environmentalists. Summit Carbon Solutions, linked to a political figure…",
-      "url": "https://www.naturalnews.com/2025-05-06-farmers-fight-back-co2-pipeline-land-grabs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Pipeline-Gas-Construction-Oil-Environment-Supply-Industry.jpg",
-      "publishedAt": "2025-05-06T06:00:00Z",
-      "content": "<ul><li>Private companies backed by federal subsidies are using eminent domain to seize farmland for CO2 pipeline networks, sparking fierce opposition from farmers, property rights advocates and envi… [+6160 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
