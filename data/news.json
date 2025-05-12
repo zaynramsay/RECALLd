@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-12T02:01:43.882Z",
+  "lastUpdated": "2025-05-12T06:35:45.936Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Anjali Thakur",
+      "title": "Woman Says She Found Dead Rat in Salad At US Eatery, Restaurant Denies Claim",
+      "description": "However, Ongi has strongly denied the claim, releasing security footage they say shows no evidence of contamination during meal preparation.",
+      "url": "https://www.ndtv.com/feature/woman-says-she-found-dead-rat-in-salad-at-us-eatery-restaurant-denies-claim-citing-cctv-footage-8384779",
+      "urlToImage": "https://c.ndtvimg.com/2025-04/n3466nso_salad_625x300_15_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-05-11T04:19:11Z",
+      "content": "Summary is AI generated, newsroom reviewed.\r\nA New York woman claims she found a dead rodent in her salad.\r\nHannah Rasbach reported the incident at Ongi restaurant in NYC.\r\nThe restaurant denies the … [+1687 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "Over 800 cases of bread recalled due to glass contamination: Here's everything you should know",
+      "description": "Upper Crust Bakery in Maryland has recalled over 800 cases of Ancient Grains Hoagie Roll, Multigrain Sourdough, and Whole Grain Multigrain bread due to glass contamination. The FDA classified this as a Class II recall. The affected products were distributed i…",
+      "url": "https://timesofindia.indiatimes.com/life-style/food-news/over-800-cases-of-bread-recalled-due-to-glass-contamination-heres-everything-you-should-know/articleshow/121071272.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121071272,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-168006/121071272.jpg",
+      "publishedAt": "2025-05-11T02:39:08Z",
+      "content": "More than 800 cases of bread have been recalled due to glass contamination. The firm initiated the recall after an employee discovered a piece of glass on top of a loaf of seeded bread. Three varieti… [+2417 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -292,19 +318,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
-      "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
-      "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323332",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
-      "publishedAt": "2025-05-09T14:00:00Z",
-      "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Muhammad Asghar, Muhammad Atiq, Muhammad Usman Ali, Ghalib Ayaz Kachelo, Nasir Ahmad Khan, Khalid Naveed, Muhammad Usman, Ahmad Nawaz, Owais Iqbal, Nasir Ahmed Rajput",
       "title": "Investigating the biochemical variations in onion leaves due to purple blotch disease and its management through induced resistance",
       "description": "Purple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The incidence of this disease underscores the critical need for an effectiv…",
@@ -312,6 +325,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323067.g010&size=inline",
       "publishedAt": "2025-05-09T14:00:00Z",
       "content": "Abstract\r\nPurple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The i… [+45775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
+      "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
+      "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323332",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
+      "publishedAt": "2025-05-09T14:00:00Z",
+      "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
     },
     {
       "source": {
@@ -1183,32 +1209,6 @@
       "urlToImage": "https://d.ibtimes.com/en/full/4599001/tomatoes-recalled-14-states-over-salmonella-concerns-fda-warns.jpg",
       "publishedAt": "2025-05-06T13:17:02Z",
       "content": "The US Food and Drug Administration (FDA) has announced a recall of tomatoes sold in 14 states due to potential salmonella contamination.\r\nThe recall involves two different brands: Ray &amp; Mascari … [+2342 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Langflow flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Langflow flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Langflow flaw, tracked as CVE-2025-3248 (CVSS score of 9.8…",
-      "url": "https://securityaffairs.com/177481/hacking/u-s-cisa-adds-langflow-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-05-06T13:00:36Z",
-      "content": "U.S. CISA adds Langflow flaw to its Known Exploited Vulnerabilities catalog\r\n | Google fixed actively exploited Android flaw CVE-2025-27363\r\n | New 'Bring Your Own Installer (BYOI)' technique allows … [+161750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Carly Cassella",
-      "title": "Does Kissing Expose You to Gluten? Scientists Investigated The Risks",
-      "description": "When someone is diagnosed with celiac disease, they have a lot of questions, but there's a common one that doctors say they get a lot: Can you kiss someone who has just eaten gluten? In recent surveys, as many as 40 percent of celiac patients say they are hes…",
-      "url": "https://www.sciencealert.com/does-kissing-expose-you-to-gluten-scientists-investigated-the-risks",
-      "urlToImage": "https://www.sciencealert.com/images/2024/10/kissy-lips.jpg",
-      "publishedAt": "2025-05-06T12:00:27Z",
-      "content": "When someone is diagnosed with celiac disease, they have a lot of questions, but there's a common one that doctors say they get a lot: Can you kiss someone who has just eaten gluten?\r\nIn recent surve… [+4111 chars]"
     }
   ],
   "totalResults": 93,
