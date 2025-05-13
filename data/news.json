@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-12T18:33:44.546Z",
+  "lastUpdated": "2025-05-13T01:59:09.389Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Renan Duarte",
+      "title": "Mislabeled Cookie Tragically Claims Life Of 78YO Mom After Supermarket Visit, Family Sues The Chain",
+      "description": "After some regular shopping, the woman took a bite of what she thought was an oatmeal raisin cookie. But she instantly realized it was not.",
+      "url": "https://www.boredpanda.com/tragic-cookie-mishap-led-to-elderly-womans-passing-at-popular-supermarket-chain/",
+      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/05/fb_image_6820f4745d595.png",
+      "publishedAt": "2025-05-11T19:22:56Z",
+      "content": "A small error involving a cookie was enough to bring unimaginable grief to the lives of a Washington family.\r\nPeggy Bryant’s life was tragically cut short because she took one bite of a mislabeled co… [+4528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Leigh Beadon",
+      "title": "Funniest/Most Insightful Comments Of The Week At Techdirt",
+      "description": "This week, we’ve got a double winner taking first place for both insightful and funny. It’s Strawb with a comment about Darren Beattie embracing the Twitter Files playbook: Trump: “We will stop waste, fraud and abuse in the goverment!” Beattie: ‘Starts a proj…",
+      "url": "https://www.techdirt.com/2025/05/11/funniest-most-insightful-comments-of-the-week-at-techdirt-159/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-05-11T19:00:00Z",
+      "content": "from the we-hear-you dept\r\nThis week, we’ve got a double winner taking first place for both insightful and funny. It’s Strawb with a comment about Darren Beattie embracing the Twitter Files playbook:… [+3186 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -448,19 +474,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
-      "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
-      "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323332",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
-      "publishedAt": "2025-05-09T14:00:00Z",
-      "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Muhammad Asghar, Muhammad Atiq, Muhammad Usman Ali, Ghalib Ayaz Kachelo, Nasir Ahmad Khan, Khalid Naveed, Muhammad Usman, Ahmad Nawaz, Owais Iqbal, Nasir Ahmed Rajput",
       "title": "Investigating the biochemical variations in onion leaves due to purple blotch disease and its management through induced resistance",
       "description": "Purple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The incidence of this disease underscores the critical need for an effectiv…",
@@ -468,6 +481,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323067.g010&size=inline",
       "publishedAt": "2025-05-09T14:00:00Z",
       "content": "Abstract\r\nPurple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The i… [+45775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
+      "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
+      "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323332",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
+      "publishedAt": "2025-05-09T14:00:00Z",
+      "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
     },
     {
       "source": {
@@ -654,19 +680,6 @@
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lisa Sophie Reigl, Maxson Kenneth Anyolitho, Stella Neema, Mary Amuyunzu-Nyamongo, Andrea Buhl, Jennifer Burrill, Marie Frese, Djouquou Alexise Gnahore, Eveline Hürlimann, Suzanne Lavry, Janet Masaku, Nora Monnier, Ashley Preston, Alice Sereti Sinkeet, Peter Steinmann, Alain Toh, Orkan Okan, Andrea S. Winkler, Isabelle L. Lange",
-      "title": "Socio-cultural and structural barriers influencing parents’ knowledge and access to information on schistosomiasis in children around Ugandan Lakes",
-      "description": "Author summary The studied lakeside communities in Uganda have limited knowledge about the transmission and prevention of schistosomiasis while simultaneously being aware of the significance of the disease. This study was conducted in preparation for the intr…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013050",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013050.g005&size=inline",
-      "publishedAt": "2025-05-08T14:00:00Z",
-      "content": "Citation: Reigl LS, Anyolitho MK, Neema S, Amuyunzu-Nyamongo M, Buhl A, Burrill J, et al. (2025) Socio-cultural and structural barriers influencing parents knowledge and access to information on schi… [+82415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNET"
       },
       "author": "Katie Teague",
@@ -676,6 +689,19 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/9afd445302b9d080453c3409d650535305b455e1/hub/2022/08/07/889e798c-0bc1-4306-ba64-2358e92419b3/gettyimages-1319060028.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-05-08T14:00:00Z",
       "content": "Picture this: You bring your dirty laundry to the washing machine, intending to catch up on chores, only to open it and get a smell you didn't expect. The odor of rotting wood, wet socks and damp ear… [+5098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Lisa Sophie Reigl, Maxson Kenneth Anyolitho, Stella Neema, Mary Amuyunzu-Nyamongo, Andrea Buhl, Jennifer Burrill, Marie Frese, Djouquou Alexise Gnahore, Eveline Hürlimann, Suzanne Lavry, Janet Masaku, Nora Monnier, Ashley Preston, Alice Sereti Sinkeet, Peter Steinmann, Alain Toh, Orkan Okan, Andrea S. Winkler, Isabelle L. Lange",
+      "title": "Socio-cultural and structural barriers influencing parents’ knowledge and access to information on schistosomiasis in children around Ugandan Lakes",
+      "description": "Author summary The studied lakeside communities in Uganda have limited knowledge about the transmission and prevention of schistosomiasis while simultaneously being aware of the significance of the disease. This study was conducted in preparation for the intr…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013050",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013050.g005&size=inline",
+      "publishedAt": "2025-05-08T14:00:00Z",
+      "content": "Citation: Reigl LS, Anyolitho MK, Neema S, Amuyunzu-Nyamongo M, Buhl A, Burrill J, et al. (2025) Socio-cultural and structural barriers influencing parents knowledge and access to information on schi… [+82415 chars]"
     },
     {
       "source": {
@@ -1183,32 +1209,6 @@
       "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/05/Solar_panel_Nusantara_city.webp?fit=1024%2C512&ssl=1",
       "publishedAt": "2025-05-07T01:00:00Z",
       "content": "By Terry L. Headley\r\nAs the world increasingly shifts toward renewable energy, there is a growing risk that nations could fall into the “renewable energy trap.” This trap is the result of embracing a… [+11926 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "Dr. Mercola",
-      "title": "Are Artificial Food Dyes Safe to Eat?",
-      "description": "More than 36,000 processed foods in the U.S. contain Red 40, a synthetic dye made from petroleum. Another 8,000 products include Red 3 — a known carcinogen that the U.S. Food and Drug Administration (FDA) acknowledged causes thyroid tumors in animals over thr…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/05/07/are-artificial-food-dyes-safe-to-eat.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/May/FB/are-artificial-food-dyes-safe-to-eat-fb.jpg",
-      "publishedAt": "2025-05-07T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Odditycentral.com"
-      },
-      "author": "Spooky",
-      "title": "Man Suffers Burns to Stomach and Esophagus After Taking Sip of Sparkling Water",
-      "description": "A 42-year-old Spanish man has been unable to ingest any food or liquids for three weeks after taking a simple sip of bottled sparkling water at a restaurant. Pablo González, a 42-year-old businessman from Salvaterra de Miño, Spain, has been hospitalized in th…",
-      "url": "https://www.odditycentral.com/news/man-suffers-burns-to-stomach-and-esophagus-after-taking-sip-of-sparkling-water.html",
-      "urlToImage": "https://www.odditycentral.com/wp-content/uploads/2025/05/sparkling-water.jpg",
-      "publishedAt": "2025-05-06T21:51:51Z",
-      "content": "A 42-year-old Spanish man has been unable to ingest any food or liquids for three weeks after taking a simple sip of bottled sparkling water at a restaurant.\r\nPablo González, a 42-year-old businessma… [+2261 chars]"
     }
   ],
   "totalResults": 93,
