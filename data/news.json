@@ -1,6 +1,292 @@
 {
-  "lastUpdated": "2025-05-14T12:50:05.073Z",
+  "lastUpdated": "2025-05-14T18:31:57.274Z",
   "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Fresh & Ready Foods recalls products after listeria sickens 10 people",
+      "description": "Voluntarily recall comes after listeria outbreak linked to ready-to-eat food puts 10 people in hospital, Federal officials say.",
+      "url": "https://www.cbsnews.com/news/listeria-outbreak-linked-to-prepared-foods-4/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/13/226d7b86-069e-48a2-9643-073a49b74f5a/thumbnail/1200x630/c4009c1ffa223d3f8bba4f50f57c1b07/freshandready.png?v=e61856d8e666e7ed5709adc37bb2d465",
+      "publishedAt": "2025-05-13T18:05:08Z",
+      "content": "Fresh &amp; Ready Foods is voluntarily recalling numerous products, after at least 10 people in the U.S. have been sickened in a listeria outbreak linked to its ready-to-eat food products, federal of… [+2865 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Marks and Spencer confirms data breach after April cyber attack",
+      "description": "Marks and Spencer (M&S) confirms that threat actors stole customer data in the ransomware attack that hit the company in April. In April, Marks and Spencer Group plc (M&S) announced it had been managing a cyber incident in recent days with the help of externa…",
+      "url": "https://securityaffairs.com/177784/data-breach/marks-and-spencer-confirms-data-breach-after-april-cyber-attack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-39.png",
+      "publishedAt": "2025-05-13T17:48:50Z",
+      "content": "Marks and Spencer confirms data breach after April cyber attack\r\n | Moldovan Police arrested a 45-year-old foreign man participating in ransomware attacks on Dutch companies\r\n | APT group exploited O… [+163827 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "menshealth.com"
+      },
+      "author": "Korin Miller",
+      "title": "What to Know About the Latest Food Recall",
+      "description": "Several brands of ready-to-eat foods have been recalled over listeria concerns. Here's what you need to know.",
+      "url": "https://www.menshealth.com/health/a64747377/listeria-ready-to-eat-foods/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/li-gettyimages-1400601562-6823664b3cf6b.jpeg?crop=1.00xw:0.754xh;0,0.117xh&resize=1200:*",
+      "publishedAt": "2025-05-13T16:03:00Z",
+      "content": "Hearing about yet another food recall is enough to make you never want to eat again. Unfortunately, here we are again. \r\nFresh &amp; Ready Foods has recalled several ready-to-eat foods that dont need… [+6176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStranger.com"
+      },
+      "author": "Vivian McCall",
+      "title": "Slog AM: Seattle Candidate Forum Tonight, Trump Screws Over Afghan Refugees, RFK Jr. Swims in Pee and Poop",
+      "description": "The Stranger's morning news roundup.\n \n by Vivian McCall\n \n \n \n Good morning: A cloudy day will gradually give way to the sun and it may be the last we may see of it til Sunday. Expect a high of 66.\nClimbing Accident in North Cascades: Four people were repell…",
+      "url": "https://www.thestranger.com/slog-am/2025/05/13/80055047/slog-am-seattle-candidate-forum-tonight-trump-screws-over-afghan-refugees-rfk-jr-swims-in-pee-and-poop",
+      "urlToImage": "https://media2.fdncms.com/stranger/imager/u/large/80055117/gettyimages-2213600768.webp",
+      "publishedAt": "2025-05-13T15:57:00Z",
+      "content": "Good morning: A cloudy day will gradually give way to the sun and it may be the last we may see of it til Sunday. Expect a high of 66.\r\nClimbing Accident in North Cascades: Four people were repelling… [+5592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rifters.com"
+      },
+      "author": "pavel_lishin",
+      "title": "It Awaits Your Experiments",
+      "description": "Article URL: https://www.rifters.com/crawl/?p=11511\nComments URL: https://news.ycombinator.com/item?id=43974005\nPoints: 5\n# Comments: 0",
+      "url": "https://www.rifters.com/crawl/?p=11511",
+      "urlToImage": null,
+      "publishedAt": "2025-05-13T15:27:47Z",
+      "content": "May 25\r\n UK funds a series of geoengineering experiments to “buy time” in the race against climate change. Small-scale and cautious, they say. Ecologically sound, they say. Will certainly not be used… [+43282 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Peter Burke",
+      "title": "Yogurt products sold nationwide recalled due to undeclared almonds",
+      "description": "Low-fat yogurt parfaits sold in stores nationwide have been recalled because they contain almonds that weren't listed on the label, according to the U.S. Food and Drug Administration.",
+      "url": "https://www.foxnews.com/food-drink/yogurt-products-sold-nationwide-recalled-due-undeclared-almonds",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/raspberry-strawberry-blueperry-yogurt-parfaits.jpg",
+      "publishedAt": "2025-05-13T14:41:51Z",
+      "content": "A Pennsylvania company's yogurt parfait products have been recalled due to an undeclared allergen.\r\nThe granola component in some of Knockro Inc.'s Bonya-branded low-fat yogurt parfaits \"contains alm… [+1374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Cooler recall expanded over amputation and crushing hazard",
+      "description": "130,000 coolers have been recalled after 78 reports of fingertip injuries",
+      "url": "https://www.the-independent.com/life-style/igloo-cooler-recall-amputation-hazard-b2750117.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/13/13/50/igloo-cooler.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-05-13T14:22:31Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Ariana Sweets Inc. Issues Allergy Alert on Undeclared Sesame and Wheat in AFGHANI CORN BREAD (“Doda”)",
+      "description": "May, 13, 2025, Ariana Sweets Inc. of Fremont, CA is recalling AFGHANI CORN BREAD “Doda” manufactured prior to 4/24/2025, because it may contain undeclared sesame and wheat.  People who have an allergy or severe sensitivity to sesame or wheat run the risk of s…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ariana-sweets-inc-issues-allergy-alert-undeclared-sesame-and-wheat-afghani-corn-bread-doda",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-13T14:22:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nMay 13, 2025\r\nFDA Publish Date:\r\nMay 14, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUndeclared Al… [+1355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Cian Ó Broin",
+      "title": "‘Faecal matter smeared on wall of staff sanitary facility’ – well-known north Dublin city restaurant hit with closure order",
+      "description": "Popular north Dublin city restaurant Namaste, located in Smithfield, was one of eight food businesses served with closure orders last month.",
+      "url": "https://www.independent.ie/irish-news/faecal-matter-smeared-on-wall-of-staff-sanitary-facility-well-known-north-dublin-city-restaurant-hit-with-closure-order/a1361608756.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/LT4RPERH77WZpKMicR6CXfKTlGw=/54x0:4449x2930/629x0/prod-mh-ireland/69efe89b-00f7-402c-8a30-117f48923dfa/ad451be2-1b5c-4dfc-85e7-4fe75c69b6c1/69efe89b-00f7-402c-8a30-117f48923dfa.jpg",
+      "publishedAt": "2025-05-13T14:02:56Z",
+      "content": "Popular north Dublin city restaurant Namaste, located in Smithfield, was one of eight food businesses served with closure orders last month.A report into its closure found evidence of serious inappro… [+5409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Cian Ó Broin",
+      "title": "‘Faecal matter smeared on wall of staff sanitary facility’ – well-known Dublin city restaurant hit with closure order",
+      "description": "Popular Dublin city restaurant Namaste was one of eight food businesses served with closure orders last month.",
+      "url": "https://www.independent.ie/irish-news/faecal-matter-smeared-on-wall-of-staff-sanitary-facility-well-known-dublin-city-restaurant-hit-with-closure-order/a1361608756.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/LT4RPERH77WZpKMicR6CXfKTlGw=/54x0:4449x2930/629x0/prod-mh-ireland/69efe89b-00f7-402c-8a30-117f48923dfa/ad451be2-1b5c-4dfc-85e7-4fe75c69b6c1/69efe89b-00f7-402c-8a30-117f48923dfa.jpg",
+      "publishedAt": "2025-05-13T14:02:56Z",
+      "content": "Popular Dublin city restaurant Namaste was one of eight food businesses served with closure orders last month.A report into the Smithfield business found evidence of serious inappropriate personal hy… [+5292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Janny Mucavele, Noémia Nhancupe, Gaby Ermelindo Roberto Monteiro, Regina Daniel Miambo, Lídia Gouveia, Alberto Pondja, Irina Mendes Sousa, Stephen W. Bickler, Constance A. Benson, Robert T. Schooley, Veronika Schmidt, Charlotte Ruether, Dominik Stelzle, Clarissa Prazeres da Costa, Ladino Suade, Milton L. Wainberg, Maria A. Oquendo, Andrea S. Winkler, Emilia Virginia Noormahomed, Zambézia cysticercosis working Group",
+      "title": "Cysticercosis and neurocysticercosis in people from Mocuba district, Zambézia province: A Mozambican community-based study",
+      "description": "Author summary Neurocysticercosis, a parasitic neglected tropical disease caused by the larva of Taenia solium poses a substantial public health problem in low-income countries where it strongly overlaps with epilepsy. Mozambique is no exception. A recent pil…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013083",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013083.g003&size=inline",
+      "publishedAt": "2025-05-13T14:00:00Z",
+      "content": "Citation: Mucavele J, Nhancupe N, Monteiro GER, Miambo RD, Gouveia L, Pondja A, et al. (2025) Cysticercosis and neurocysticercosis in people from Mocuba district, Zambézia province: A Mozambican comm… [+38266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Farrah Mathura, Rohanie Maharaj",
+      "title": "Assessment of consumer perspectives on the use of paper packaging in Trinidad",
+      "description": "Background Paper packaging is increasingly being used to replace single use plastics to mitigate the negative effects of plastic pollution on the environment. While many developed countries have made considerable strides in this transition, developing countri…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323456",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323456.g013&size=inline",
+      "publishedAt": "2025-05-13T14:00:00Z",
+      "content": "Citation: Mathura F, Maharaj R (2025) Assessment of consumer perspectives on the use of paper packaging in Trinidad. PLoS One 20(5):\r\n e0323456.\r\nhttps://doi.org/10.1371/journal.pone.0323456\r\nEditor:… [+44879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Annick Onimalala Raveloson, Mireille Harimalala, Beza Ramasindrazana, Romain Girod, Thomas Robert Gillespie, Diego Ayala, Adelaide Miarinjara",
+      "title": "Opportunities and challenges for plague vector control in Madagascar",
+      "description": "Plague is a rodent-borne disease transmitted to humans by the bite of fleas infected with the bacterium Yersinia pestis. Flea control is a key part of the overall plague management strategy. Insecticide-based strategies are designed to reduce or eliminate fle…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013054",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013054.g004&size=inline",
+      "publishedAt": "2025-05-13T14:00:00Z",
+      "content": "Citation: Raveloson AO, Harimalala M, Ramasindrazana B, Girod R, Gillespie TR, Ayala D, et al. (2025) Opportunities and challenges for plague vector control in Madagascar. PLoS Negl Trop Dis 19(5):\r\n… [+58455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space Daily"
+      },
+      "author": null,
+      "title": "NASA Cleanroom Microbes Reveal Survival Strategies for Space and Biotech",
+      "description": "London, UK (SPX) May 13, 2025\n\n\nResearchers from the NASA Jet Propulsion Laboratory, King Abdullah University of Science and Technology (KAUST), and institutes across India and Saudi Arabia have discovered 26 new bacterial species in the cleanrooms used to as…",
+      "url": "https://www.spacedaily.com/reports/NASA_Cleanroom_Microbes_Reveal_Survival_Strategies_for_Space_and_Biotech_999.html",
+      "urlToImage": "https://www.spxdaily.com/images-hg/nasa-johnson-cleanroom-honeybee-trident-viper-lunar-drill-hg.jpg",
+      "publishedAt": "2025-05-13T13:41:22Z",
+      "content": "NASA Cleanroom Microbes Reveal Survival Strategies for Space and Biotechby Sophie JenkinsLondon, UK (SPX) May 13, 2025\r\nResearchers from the NASA Jet Propulsion Laboratory, King Abdullah University o… [+3138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Taizhou Jingshang Cosmetics Technology Co., Ltd. - 701945 - 04/02/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/taizhou-jingshang-cosmetics-technology-co-ltd-701945-04022025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-13T13:21:05Z",
+      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-60\r\nProduct:\r\nDrugs \r\nRecipient:\r\nTaizhou Jingshang Cosmetics Technology Co., Ltd.\r\n888 South Huanzhen RoadHengie TownLuqiao QuTaizhou ShiZ… [+9610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Excelvision Fareva - 703245 - 05/07/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/excelvision-fareva-703245-05072025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-13T13:20:07Z",
+      "content": "Delivery Method:\r\nVIA EMAIL WITH READ RECEIPT\r\nReference #:\r\n320-25-70\r\nProduct:\r\nDrugs \r\nRecipient:\r\nExcelvision Fareva\r\n32 Pl. de la Gare, 1616GareLuxembourgFrance\r\nIssuing Office:\r\nCenter for Drug… [+19415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Mentha & Allied Products Private Ltd. - 700242 - 04/16/2025",
+      "description": "CGMP/Active Pharmaceutical Ingredient (API)/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/mentha-allied-products-private-ltd-700242-04162025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-13T13:20:06Z",
+      "content": "Delivery Method:\r\nVIA EMAIL WITH READ RECEIPT\r\nReference #:\r\n320-25-67\r\nProduct:\r\nDrugs \r\nRecipient:\r\nMentha &amp; Allied Products Private Ltd.\r\n16th Km Rampur-Swar RoadRampur244901Uttar PradeshIndia… [+18125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Ningbo Riway Industrial Co., Ltd. - 692870 - 04/30/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Unapproved New Drug/Misbranded/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ningbo-riway-industrial-co-ltd-692870-04302025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-13T13:20:05Z",
+      "content": "Delivery Method:\r\nVIA UPS\r\nReference #:\r\n320-25-69\r\nProduct:\r\nDrugs \r\nRecipient:\r\nNingbo Riway Industrial Co., Ltd.\r\nNo. 555 Binhai Avenue Building E1, Binhai Wanyang Creative CityBinhai New Area, Ec… [+20179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "OSRX, Inc. - 701889 - 04/23/2025",
+      "description": "Compounding Pharmacy/Adulterated Drug Products",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/osrx-inc-701889-04232025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-13T13:20:05Z",
+      "content": "Delivery Method:\r\nVia Electronic Mail - Delivery and Read Receipt Requested\r\nProduct:\r\nDrugs \r\nRecipient:\r\nOSRX, Inc. \r\n1120 Kensington AveMissoula, MT59801-5619United States\r\nIssuing Office:\r\nCenter… [+21151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Shantou S.E.Z. Baojie Industry Co., Ltd. - 703439 - 04/15/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/shantou-sez-baojie-industry-co-ltd-703439-04152025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-13T13:20:05Z",
+      "content": "Delivery Method:\r\nVIA UPS\r\nReference #:\r\n320-25-66\r\nProduct:\r\nDrugs \r\nRecipient:\r\nShantou S.E.Z. Baojie Industry Co., Ltd. \r\nSihuang Road Lugang TownChaonan QuShantou ShiGuangdong Sheng, 515144China\r… [+16626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Tailstorm Health Inc. dba Medivant Health - 703497 - 04/08/2025",
+      "description": "Compounding Pharmacy/Adulterated Drug Products",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/tailstorm-health-inc-dba-medivant-health-703497-04082025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-13T13:20:04Z",
+      "content": "Delivery Method:\r\nVia Electronic Mail - Delivery and Read Receipt Requested\r\nProduct:\r\nDrugs \r\nRecipient:\r\nTailstorm Health Inc. dba Medivant Health\r\n24416 N. 19th Avenue Suite 200Phoenix, AZ85085-14… [+18505 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Madelaine Panganiban",
+      "title": "Contaminated Ready Meals From California Plant Hospitalize 10 With Listeria",
+      "description": "A listeria outbreak linked to contaminated ready meals from Fresh & Ready Foods has hospitalized 10 people across California and Nevada.",
+      "url": "https://www.ibtimes.com/contaminated-ready-meals-california-plant-hospitalize-10-listeria-3773370",
+      "urlToImage": "https://d.ibtimes.com/en/full/4600509/contaminated-ready-meals-california-plant-hospitalize-10-listeria.jpg",
+      "publishedAt": "2025-05-13T13:11:01Z",
+      "content": "At least 10 people have been hospitalized after eating ready-to-eat meals contaminated with listeria, according to the US Food and Drug Administration (FDA).\r\nHealth officials have identified the sou… [+2244 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -949,268 +1235,8 @@
       "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000339.g003&size=inline",
       "publishedAt": "2025-05-09T14:00:00Z",
       "content": "Abstract\r\nWhile wastewater-based surveillance (WBS) has proven to be effective as an early warning system for SARS-CoV-2 monitoring in high-income countries (HICs), its feasibility in low- and middle… [+61805 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Muhammad Asghar, Muhammad Atiq, Muhammad Usman Ali, Ghalib Ayaz Kachelo, Nasir Ahmad Khan, Khalid Naveed, Muhammad Usman, Ahmad Nawaz, Owais Iqbal, Nasir Ahmed Rajput",
-      "title": "Investigating the biochemical variations in onion leaves due to purple blotch disease and its management through induced resistance",
-      "description": "Purple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The incidence of this disease underscores the critical need for an effectiv…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323067",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323067.g010&size=inline",
-      "publishedAt": "2025-05-09T14:00:00Z",
-      "content": "Abstract\r\nPurple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The i… [+45775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
-      "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
-      "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323332",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
-      "publishedAt": "2025-05-09T14:00:00Z",
-      "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Agrochemical Tank Market to USD 2.09 Billion by 2032, Owing to Rising Demand for Efficient and Sustainable Agrochemical Storage Solutions | SNS Insider",
-      "description": "The Agrochemical Tank Market is experiencing significant growth due to the increasing adoption of precision agriculture and the need for efficient storage solutions that ensure the safe handling of agrochemicals, thereby enhancing crop yields and promoting su…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/09/3078314/0/en/Agrochemical-Tank-Market-to-USD-2-09-Billion-by-2032-Owing-to-Rising-Demand-for-Efficient-and-Sustainable-Agrochemical-Storage-Solutions-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-05-09T13:30:00Z",
-      "content": "Austin, May 09, 2025 (GLOBE NEWSWIRE) -- The Agrochemical Tank Market\r\n Size was valued at USD 1.42 billion in 2023 and is expected to reach USD 2.09 billion by 2032, growing at a CAGR of 4.47% over … [+9006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Lena Borrelli",
-      "title": "Millions of Microplastics Are Lurking in Your Kitchen. Here's How to Get Rid of Them",
-      "description": "These simple steps can drastically reduce your exposure to microplastics while cooking and eating at home.",
-      "url": "https://www.cnet.com/health/millions-of-microplastics-are-lurking-in-your-kitchen-heres-how-to-get-rid-of-them/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-09T12:02:00Z",
-      "content": "Microplastics are everywhere -- in the air we breathe, the water we drink, the food we eat and the homes we live in. Alarming research has shown their presence in human blood, saliva and vital organs… [+8084 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Cybercriminal services target end-of-life routers, FBI warns",
-      "description": "The FBI warns that attackers are using end-of-life routers to deploy malware and turn them into proxies sold on 5Socks and Anyproxy networks. The FBI released a FLASH alert warning about 5Socks and Anyproxy malicious services targeting end-of-life (EOL) route…",
-      "url": "https://securityaffairs.com/177648/cyber-crime/malware-targets-end-of-life-routers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-2.jpg",
-      "publishedAt": "2025-05-09T11:43:40Z",
-      "content": "Cybercriminal services target end-of-life routers, FBI warns\r\n | Russia-linked ColdRiver used LostKeys malware in recent attacks\r\n | SonicWall fixed SMA 100 flaws that could be chained to execute arb… [+162804 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SlimJaro",
-      "title": "SlimJaro Complaints Investigated: 2025 User Reviews Tested & Verified",
-      "description": "Clinically Inspired Inflammation-Focused Supplement SlimJaro Faces Real Consumer Feedback and Scientific Scrutiny—Here’s What the Data and Verified Users Reveal in 2025 Clinically Inspired Inflammation-Focused Supplement SlimJaro Faces Real Consumer Feedback …",
-      "url": "https://www.globenewswire.com/news-release/2025/05/09/3078029/0/en/SlimJaro-Complaints-Investigated-2025-User-Reviews-Tested-Verified.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/fc31576a-dad6-4385-aa9f-24a98d3daddb",
-      "publishedAt": "2025-05-09T09:47:00Z",
-      "content": "LAKELAND, Fla., May 09, 2025 (GLOBE NEWSWIRE) -- \r\nIntroduction: The 2025 Weight Crisis Why So Many People Struggle to Slim Down\r\nIn 2025, individuals across all continents face one strikingly common… [+32095 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Russia-linked ColdRiver used LostKeys malware in recent attacks",
-      "description": "Since early 2025, Russia-linked ColdRiver has used LostKeys malware to steal files in espionage attacks on Western governments and organizations. Google’s Threat Intelligence Group discovered LOSTKEYS, a new malware used by Russia-linked APT COLDRIVER, in rec…",
-      "url": "https://securityaffairs.com/177638/apt/russia-linked-coldriver-used-lostkeys-malware-in-recent-attacks.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-13.png",
-      "publishedAt": "2025-05-09T08:41:29Z",
-      "content": "Russia-linked ColdRiver used LostKeys malware in recent attacks\r\n | SonicWall fixed SMA 100 flaws that could be chained to execute arbitrary code\r\n | The LockBit ransomware site was breached, databas… [+162739 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Canada, US come together after salmonella contamination threat, recall Jumbo Pumpkin Seeds",
-      "description": "Canada and the United States have been at loggerheads for the last few months over a host of issues. But now a health scare has forced the two neighbouring countries to toe a similar line. A famous food item - Jumbo Pumpkin Seeds - sold by Ontario-based Advan…",
-      "url": "https://economictimes.indiatimes.com/news/international/canada/canada-us-come-together-after-salmonella-contamination-threat-recall-jumbo-pumpkin-seeds/articleshow/121023267.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121023267,width-1200,height-630,imgsize-125287,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-05-09T07:59:38Z",
-      "content": "A major bacterial contamination threat in Canada has forced the country to order the recall of a famous brand of pumpkin seeds while a similar advisory has issued in the United States of America to. … [+2533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SonicWall fixed SMA 100 flaws that could be chained to execute arbitrary code",
-      "description": "SonicWall addressed three SMA 100 flaws, including a potential zero-day, that could allow remote code execution if chained. SonicWall patches three SMA 100 vulnerabilities (CVE-2025-32819, CVE-2025-32820, and CVE-2025-32821), including a potential zero-day, t…",
-      "url": "https://securityaffairs.com/177626/hacking/sonicwall-fixed-sma-100-flaws-that-could-be-chained-to-execute-arbitrary-code.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
-      "publishedAt": "2025-05-09T07:50:45Z",
-      "content": "Russia-linked ColdRiver used LostKeys malware in recent attacks\r\n | SonicWall fixed SMA 100 flaws that could be chained to execute arbitrary code\r\n | The LockBit ransomware site was breached, databas… [+162739 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insurance Journal"
-      },
-      "author": "Admin",
-      "title": "How Does Food Safety Work, and What Cuts Has Trump Made?",
-      "description": "Recent actions by President Donald Trump’s administration, including staff cuts at the Food and Drug Administration, have raised questions among consumers about food safety in the United States. Here is an explanation of how food safety inspection works in th…",
-      "url": "https://www.insurancejournal.com/news/national/2025/05/09/822974.htm",
-      "urlToImage": "https://www.insurancejournal.com/app/uploads/2018/06/food-safety.jpg",
-      "publishedAt": "2025-05-09T06:40:20Z",
-      "content": "Recent actions by President Donald Trump’s administration, including staff cuts at the Food and Drug Administration, have raised questions among consumers about food safety in the United States.\r\nHer… [+5818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Antiwar.com"
-      },
-      "author": "John Mac Ghlionn",
-      "title": "A Masterclass in Sanitized Cruelty",
-      "description": "In his recent piece for The Free Press, Michael Ames accuses others – journalists, NGOs, international aid agencies – of engaging in rhetorical manipulation. Yet the irony is almost unbearable: his own article is a masterclass in precisely that. Ames purports…",
-      "url": "https://original.antiwar.com/john_mac_ghlionn/2025/05/08/a-masterclass-in-sanitized-cruelty/",
-      "urlToImage": "https://original.antiwar.com/wp-content/uploads/2025/05/FireShot-Pro-Webpage-Screenshot-3290-7e2f0bb7-2095-43f5-a1e0-f2be1613a517_1024x683.webp-WEBP-Image-750-×-440-pixels-substackcdn.com_.png",
-      "publishedAt": "2025-05-09T04:00:14Z",
-      "content": "In his recent piece for The Free Press, Michael Ames accuses others journalists, NGOs, international aid agencies of engaging in rhetorical manipulation. Yet the irony is almost unbearable: his own a… [+6112 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Faizan Haidar",
-      "title": "From composting decor to e-vehicle baraats: Welcome to big, green Indian wedding",
-      "description": "Indian luxury weddings are embracing sustainability, with couples seeking eco-conscious celebrations. Boutique hotels are catering to this demand by offering composted decor, e-vehicle baraats, and locally sourced hampers. These venues are implementing practi…",
-      "url": "https://economictimes.indiatimes.com/news/india/from-composting-decor-to-e-vehicle-baraats-welcome-to-big-green-indian-wedding/articleshow/121009519.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121009526,width-1200,height-630,imgsize-68480,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-05-08T21:16:28Z",
-      "content": "New Delhi: Composted decor, e-vehicle baraats, and tribal-made hampers... Indian luxury weddings are becoming less fat and more green, as saving the planet becomes the latest status symbol. Boutique … [+2991 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Jumbo pumpkin seeds recalled due to salmonella risk",
-      "description": "Two pumpkin seed products from the brand Organic Traditions have been recalled.",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/pumpkin-seeds-recall-salmonella-1.7530064",
-      "urlToImage": "https://i.cbc.ca/1.7530077.1746732132!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/organic-traditions-jumbo-pumpkin-seeds.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-08T19:24:53Z",
-      "content": "The Canadian Food Inspection Agency has issued a recall for jumbo pumpkin seeds from the brand Organic Traditions due to possible salmonella contamination.\r\nThe agency is warning the public not to ea… [+961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "The LockBit ransomware site was breached, database dump was leaked online",
-      "description": "Lockbit ransomware group has been compromised, attackers stole and leaked data contained in the backend infrastructure of their dark web site. Hackers compromised the dark web leak site of the LockBit ransomware gang and defaced it, posting a message and a li…",
-      "url": "https://securityaffairs.com/177619/cyber-crime/the-lockbit-ransomware-site-was-breached-database-dump-was-leaked-online.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-14.png",
-      "publishedAt": "2025-05-08T18:37:05Z",
-      "content": "The LockBit ransomware site was breached, database dump was leaked online\r\n | Cisco fixed a critical flaw in its IOS XE Wireless Controller\r\n | U.S. CISA adds GoVision device flaws to its Known Explo… [+162589 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Purerawz",
-      "title": "Purerawz Under Review Best-in-Class Highest Quality SARMs & Peptides For Sale in USA by Pure Rawz",
-      "description": "A Comprehensive Review of PureRawz: Third-Party Tested SARMs & Peptides for Sale in the USA, Backed by Certificates of Analysis, Transparent Sourcing, and Fast U.S. Shipping A Comprehensive Review of PureRawz: Third-Party Tested SARMs & Peptides for Sale in t…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/08/3077590/0/en/Purerawz-Under-Review-Best-in-Class-Highest-Quality-SARMs-Peptides-For-Sale-in-USA-by-Pure-Rawz.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/3b753423-d8c0-49f2-b20c-44c8ba6b14fc",
-      "publishedAt": "2025-05-08T17:59:00Z",
-      "content": "New York, May 08, 2025 (GLOBE NEWSWIRE) -- \r\nIn This Article, You'll Discover:\r\n<ul><li>Why do many researchers struggle to find high-quality SARMs and peptides for sale in the USA</li><li>The most c… [+43996 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Childrenshealthdefense.org"
-      },
-      "author": "Jennifer O'brien",
-      "title": "Trump Taps Health Freedom Advocate Dr. Casey Means for Surgeon General",
-      "description": "The move came after President Donald Trump at the last minute pulled the nomination of his previous choice, Dr. Janette Nesheiwat, amid concerns about her alignment with the Make America Healthy Again agenda and allegations that she misrepresented her credent…",
-      "url": "https://childrenshealthdefense.org/defender/trump-taps-health-freedom-advocate-dr-casey-means-surgeon-general/",
-      "urlToImage": "https://childrenshealthdefense.org/wp-content/uploads/casey-means-surgeon-general-feature.jpg",
-      "publishedAt": "2025-05-08T14:02:57Z",
-      "content": "President Donald Trump on Wednesday nominated Dr. Casey Means, a holistic medicine doctor, wellness influencer and supporter of the Make America Healthy Again (MAHA) movement, to serve as surgeon gen… [+6216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Katie Teague",
-      "title": "Mold Growing in Your Washing Machine? Eliminate It With This Hack",
-      "description": "Dirty or moldy washing machine? There are a few easy ways to get your clothes and washing machine smelling fresh and clean again. And there's even a way to keep mold from coming back. Here's how.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/mold-growing-in-your-washing-machine-eliminate-it-with-this-hack/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9afd445302b9d080453c3409d650535305b455e1/hub/2022/08/07/889e798c-0bc1-4306-ba64-2358e92419b3/gettyimages-1319060028.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-08T14:00:00Z",
-      "content": "Picture this: You bring your dirty laundry to the washing machine, intending to catch up on chores, only to open it and get a smell you didn't expect. The odor of rotting wood, wet socks and damp ear… [+5098 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lisa Sophie Reigl, Maxson Kenneth Anyolitho, Stella Neema, Mary Amuyunzu-Nyamongo, Andrea Buhl, Jennifer Burrill, Marie Frese, Djouquou Alexise Gnahore, Eveline Hürlimann, Suzanne Lavry, Janet Masaku, Nora Monnier, Ashley Preston, Alice Sereti Sinkeet, Peter Steinmann, Alain Toh, Orkan Okan, Andrea S. Winkler, Isabelle L. Lange",
-      "title": "Socio-cultural and structural barriers influencing parents’ knowledge and access to information on schistosomiasis in children around Ugandan Lakes",
-      "description": "Author summary The studied lakeside communities in Uganda have limited knowledge about the transmission and prevention of schistosomiasis while simultaneously being aware of the significance of the disease. This study was conducted in preparation for the intr…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013050",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013050.g005&size=inline",
-      "publishedAt": "2025-05-08T14:00:00Z",
-      "content": "Citation: Reigl LS, Anyolitho MK, Neema S, Amuyunzu-Nyamongo M, Buhl A, Burrill J, et al. (2025) Socio-cultural and structural barriers influencing parents knowledge and access to information on schi… [+82415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Cisco fixed a critical flaw in its IOS XE Wireless Controller",
-      "description": "Cisco addressed a flaw in its IOS XE Wireless Controller that could enable an unauthenticated, remote attacker to upload arbitrary files. Cisco released software updates to address a vulnerability, tracked as CVE-2025-20188 (CVSS score 10), in IOS XE Wireless…",
-      "url": "https://securityaffairs.com/177609/security/cisco-fixed-a-critical-flaw-in-its-ios-xe-wireless-controller.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/cisco-building.jpg",
-      "publishedAt": "2025-05-08T13:13:41Z",
-      "content": "Cisco fixed a critical flaw in its IOS XE Wireless Controller\r\n | U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog\r\n | Polish authorities arrested 4 people behind D… [+162511 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Evan Renov, Forbes Councils Member, \n Evan Renov, Forbes Councils Member\n https://www.forbes.com/councils/forbesbusinesscouncil/people/evanrenov/",
-      "title": "A Family Office Playbook For Early-Stage Startup Investments",
-      "description": "As family offices increasingly embrace early-stage investments in startups, they are redefining their role in funding innovation.",
-      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2025/05/08/a-family-office-playbook-for-early-stage-startup-investments/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/663cd61905ce3f6dcee4ac13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-08T11:15:00Z",
-      "content": "Evan J. Renov, Cofounder &amp; Managing Partner at Arieli Group.\r\ngetty\r\nFamily offices have long been focused on preserving their families wealth, with many taking a conservative approach and invest… [+6637 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 95,
   "filteredCount": 0
 }
