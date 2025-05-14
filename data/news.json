@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-05-13T18:32:43.152Z",
+  "lastUpdated": "2025-05-14T01:57:33.342Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Yogurt Recall Sparks Nationwide Warning",
+      "description": "The yogurts were sold in retails stores across the country and are being recalled due to undeclared almonds.",
+      "url": "https://www.newsweek.com/yogurt-recall-sparks-nationwide-warning-2071277",
+      "urlToImage": "https://d.newsweek.com/en/full/2643208/yogurt-parfait-recall.jpg",
+      "publishedAt": "2025-05-13T00:51:36Z",
+      "content": "Yogurt parfaits from Knockroe Inc. have sparked a nationwide recall over concerns of undeclared almonds.\r\nNewsweek reached out to the company via phone Monday evening for comment and left a voicemail… [+2727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Royal Society of Chemistry"
+      },
+      "author": "Xing Liu, Zhen Liu, Qian Wu, Jinquan Liu, Xilin Xiao",
+      "title": "Application and development of signal amplification strategy in detection of antibiotic residues in food",
+      "description": "Analyst, 2025, Accepted ManuscriptDOI: 10.1039/D5AN00212E, Critical ReviewXing Liu, Zhen Liu, Qian Wu, Jinquan Liu, Xilin XiaoFood is essential for the proper functioning of the human body, and small molecule contaminants, such as antibiotics, have become a g…",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00212e",
+      "urlToImage": null,
+      "publishedAt": "2025-05-12T23:00:00Z",
+      "content": "Food is essential for the proper functioning of the human body, and small molecule contaminants, such as antibiotics, have become a growing concern due to their harmful effects on both biological sys… [+1065 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Bridget McArthur and Andrew Williams",
+      "title": "Health concerns after PFAS-contaminated compost sold to public",
+      "description": "The premise of the South West's FOGO system was simple — take food and garden waste from residents, turn it into compost and sell it back to them. But the discovery of PFAS contamination has brought the system to an end.",
+      "url": "https://www.abc.net.au/news/2025-05-13/bhrc-compost-sold-contained-pfas-environment-department/105259078",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a1fab1364eee637337fe10e4bbe31db9?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=284&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-05-12T22:57:53Z",
+      "content": "Leonard Machen had been filling his home vegetable garden with compost from a council-owned organic waste facility for years when he heard rumours it might be contaminated. \r\nBased in Dardanup, about… [+4884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Victor Nava",
+      "title": "RFK Jr. takes a dip in DC creek known for high levels of fecal bacteria and ‘infectious pathogens’",
+      "description": "RFK Jr. is seen completely submerged in the Rock Creek's fecal bacteria polluted waters in a Mother's Day photograph shared by the HHS secretary.",
+      "url": "https://nypost.com/2025/05/12/us-news/rfk-jr-takes-a-dip-in-dc-creek-known-for-high-levels-of-fecal-bacteria-and-infectious-pathogens/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/x-com-robertkennedyjr-status-1921609958631575969-104343309.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-12T22:28:40Z",
+      "content": "Health and Human Services Secretary Robert F. Kennedy Jr. took a plunge into the waters of Washington, DC’s notoriously contaminated Rock Creek where swimming is banned because of high levels of feca… [+2116 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Signal"
+      },
+      "author": "Hans von Spakovsky",
+      "title": "Tariffs—When the Supreme Court Settled the Tomato, as Well as the Bean, Question",
+      "description": "President Donald Trump has been using an old tool ignored by recent presidents to target trade abusers like China that impose significant barriers to American... Read More\nThe post Tariffs—When the Supreme Court Settled the Tomato, as Well as the Bean, Questi…",
+      "url": "https://www.dailysignal.com/2025/05/12/tariffs-when-the-supreme-court-settled-the-tomato-as-well-as-the-bean-question/",
+      "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/05/GettyImages-929341258-scaled-e1747087823770.jpg",
+      "publishedAt": "2025-05-12T22:12:44Z",
+      "content": "President Donald Trump has been using an old tool ignored by recent presidents to target trade abusers like China that impose significant barriers to American products and servicestariffs. We all wan… [+4657 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Knockro Issues Allergy Alert on Undeclared Almonds in Bonya Yogurt Parfaits",
+      "description": "Knockro Inc., PA, is recalling its Bonya-branded yogurt parfait products due to an undeclared almond. Specifically, the granola component in some of these products contains almonds, which were not listed on the label. People who have an allergy or severe sens…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/knockro-issues-allergy-alert-undeclared-almonds-bonya-yogurt-parfaits",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-12T21:11:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nMay 12, 2025\r\nFDA Publish Date:\r\nMay 12, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nYogurt/Yogurt Product\r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Des… [+1238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Taylor Leamey",
+      "title": "Ziploc Faces a Class Action Lawsuit for Undisclosed Microplastic Risk. What You Need to Know",
+      "description": "The company's misleading advertising exposed families to an undisclosed amount of microplastics without their knowledge.",
+      "url": "https://www.cnet.com/health/ziploc-faces-a-class-action-lawsuit-for-undisclosed-microplastic-risk-what-you-need-to-know/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/1cc1eab0b570bac11413d4941d170b5a1e971247/hub/2025/05/12/c072d6b1-f3e6-4bda-bb73-614cd57206ae/gettyimages-1310833061.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-12T20:58:38Z",
+      "content": "I've got a box of Ziploc bags in my cabinet, and I'm looking at them completely differently now that S.C. Johnson, the maker of Ziploc, is facing a class action lawsuit. The lawsuit says that the mar… [+4156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "King Abdullah University of Science and Technology",
+      "title": "Tough microbes found in NASA cleanrooms hold clues to space survival and biotech",
+      "description": "A new study by scientists at the NASA Jet Propulsion Laboratory and several institutes across India and Saudi Arabia has reported 26 novel bacterial species growing inside cleanrooms associated with NASA space missions. These unknown and newly described speci…",
+      "url": "https://phys.org/news/2025-05-tough-microbes-nasa-cleanrooms-clues.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/tough-microbes-found-i.jpg",
+      "publishedAt": "2025-05-12T20:24:47Z",
+      "content": "A new study by scientists at the NASA Jet Propulsion Laboratory and several institutes across India and Saudi Arabia has reported 26 novel bacterial species growing inside cleanrooms associated with … [+3707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds TeleMessage TM SGNL to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds TeleMessage TM SGNL flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a TeleMessage TM SGNL flaw, tracked as CVE-2025-4…",
+      "url": "https://securityaffairs.com/177743/hacking/u-s-cisa-adds-telemessage-tm-sgnl-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-05-12T20:09:22Z",
+      "content": "U.S. CISA adds TeleMessage TM SGNL to its Known Exploited Vulnerabilities catalog\r\n | Researchers found one-click RCE in ASUSs pre-installed software DriverHub\r\n | Threat actors use fake AI tools to … [+163479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Twistedsifter.com"
+      },
+      "author": "Kyra Piperides",
+      "title": "You’re Storing Your Half-Eaten Canned Foods Totally Wrong, With Potentially Dangerous Effects",
+      "description": "Has there ever been a better time to invest in some glass storage containers?",
+      "url": "http://twistedsifter.com/2025/05/youre-storing-your-half-eaten-canned-foods-totally-wrong-with-potentially-dangerous-effects/",
+      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/04/Tinned-Tomatoes.jpg",
+      "publishedAt": "2025-05-12T19:49:42Z",
+      "content": "Pexels\r\nFor all the preppers among you, you’ll know that one of the best ways to store food long term is either dried, or in a can.\r\nWhy? Well the process of canning our foods is done at a high heat,… [+2560 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -581,7 +711,7 @@
       "author": "United Nations",
       "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
       "description": "In Syria, the Office for the Coordination of Humanitarian Affairs reports that more than 670,000 people have been displaced since November 2024, while over 1 million people have returned to their areas of origin. Meanwhile, the UN and its partners continue to…",
-      "url": "https://press.un.org/en/2025/db250509.doc.htm",
+      "url": "https://press.un.org/en/2025/deb250509.doc.htm",
       "urlToImage": null,
       "publishedAt": "2025-05-09T19:21:20Z",
       "content": "The following is a near-verbatim transcript of todays briefing by Farhan Haq, Deputy Spokesman for the Secretary-General.\r\n**Secretary-General\r\nGood afternoon, everyone.  The Secretary-General just c… [+19299 chars]"
@@ -594,7 +724,7 @@
       "author": "United Nations",
       "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
       "description": "In Syria, the Office for the Coordination of Humanitarian Affairs reports that more than 670,000 people have been displaced since November 2024, while over 1 million people have returned to their areas of origin. Meanwhile, the UN and its partners continue to…",
-      "url": "https://press.un.org/en/2025/deb250509.doc.htm",
+      "url": "https://press.un.org/en/2025/db250509.doc.htm",
       "urlToImage": null,
       "publishedAt": "2025-05-09T19:21:20Z",
       "content": "The following is a near-verbatim transcript of todays briefing by Farhan Haq, Deputy Spokesman for the Secretary-General.\r\n**Secretary-General\r\nGood afternoon, everyone.  The Secretary-General just c… [+19299 chars]"
@@ -721,19 +851,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Muhammad Asghar, Muhammad Atiq, Muhammad Usman Ali, Ghalib Ayaz Kachelo, Nasir Ahmad Khan, Khalid Naveed, Muhammad Usman, Ahmad Nawaz, Owais Iqbal, Nasir Ahmed Rajput",
-      "title": "Investigating the biochemical variations in onion leaves due to purple blotch disease and its management through induced resistance",
-      "description": "Purple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The incidence of this disease underscores the critical need for an effectiv…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323067",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323067.g010&size=inline",
-      "publishedAt": "2025-05-09T14:00:00Z",
-      "content": "Abstract\r\nPurple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The i… [+45775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
       "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
       "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
@@ -741,6 +858,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
       "publishedAt": "2025-05-09T14:00:00Z",
       "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Muhammad Asghar, Muhammad Atiq, Muhammad Usman Ali, Ghalib Ayaz Kachelo, Nasir Ahmad Khan, Khalid Naveed, Muhammad Usman, Ahmad Nawaz, Owais Iqbal, Nasir Ahmed Rajput",
+      "title": "Investigating the biochemical variations in onion leaves due to purple blotch disease and its management through induced resistance",
+      "description": "Purple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The incidence of this disease underscores the critical need for an effectiv…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323067",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323067.g010&size=inline",
+      "publishedAt": "2025-05-09T14:00:00Z",
+      "content": "Abstract\r\nPurple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The i… [+45775 chars]"
     },
     {
       "source": {
@@ -801,7 +931,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Russia-linked ColdRiver used LostKeys malware in recent attacks",
-      "description": "Since early 2025, Russia-linked ColdRiver has used LostKeys malware to steal files in espionage attacks on Western governments and organizations. Google’s Threat Intelligence Group discovered LOSTKEYS, a new malware used by Russia-linked APT COLDRIVER, in rec���",
+      "description": "Since early 2025, Russia-linked ColdRiver has used LostKeys malware to steal files in espionage attacks on Western governments and organizations. Google’s Threat Intelligence Group discovered LOSTKEYS, a new malware used by Russia-linked APT COLDRIVER, in rec…",
       "url": "https://securityaffairs.com/177638/apt/russia-linked-coldriver-used-lostkeys-malware-in-recent-attacks.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-13.png",
       "publishedAt": "2025-05-09T08:41:29Z",
@@ -927,19 +1057,6 @@
     {
       "source": {
         "id": null,
-        "name": "CNET"
-      },
-      "author": "Katie Teague",
-      "title": "Mold Growing in Your Washing Machine? Eliminate It With This Hack",
-      "description": "Dirty or moldy washing machine? There are a few easy ways to get your clothes and washing machine smelling fresh and clean again. And there's even a way to keep mold from coming back. Here's how.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/mold-growing-in-your-washing-machine-eliminate-it-with-this-hack/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9afd445302b9d080453c3409d650535305b455e1/hub/2022/08/07/889e798c-0bc1-4306-ba64-2358e92419b3/gettyimages-1319060028.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-08T14:00:00Z",
-      "content": "Picture this: You bring your dirty laundry to the washing machine, intending to catch up on chores, only to open it and get a smell you didn't expect. The odor of rotting wood, wet socks and damp ear… [+5098 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Plos.org"
       },
       "author": "Lisa Sophie Reigl, Maxson Kenneth Anyolitho, Stella Neema, Mary Amuyunzu-Nyamongo, Andrea Buhl, Jennifer Burrill, Marie Frese, Djouquou Alexise Gnahore, Eveline Hürlimann, Suzanne Lavry, Janet Masaku, Nora Monnier, Ashley Preston, Alice Sereti Sinkeet, Peter Steinmann, Alain Toh, Orkan Okan, Andrea S. Winkler, Isabelle L. Lange",
@@ -949,6 +1066,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013050.g005&size=inline",
       "publishedAt": "2025-05-08T14:00:00Z",
       "content": "Citation: Reigl LS, Anyolitho MK, Neema S, Amuyunzu-Nyamongo M, Buhl A, Burrill J, et al. (2025) Socio-cultural and structural barriers influencing parents knowledge and access to information on schi… [+82415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katie Teague",
+      "title": "Mold Growing in Your Washing Machine? Eliminate It With This Hack",
+      "description": "Dirty or moldy washing machine? There are a few easy ways to get your clothes and washing machine smelling fresh and clean again. And there's even a way to keep mold from coming back. Here's how.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/mold-growing-in-your-washing-machine-eliminate-it-with-this-hack/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9afd445302b9d080453c3409d650535305b455e1/hub/2022/08/07/889e798c-0bc1-4306-ba64-2358e92419b3/gettyimages-1319060028.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-08T14:00:00Z",
+      "content": "Picture this: You bring your dirty laundry to the washing machine, intending to catch up on chores, only to open it and get a smell you didn't expect. The odor of rotting wood, wet socks and damp ear… [+5098 chars]"
     },
     {
       "source": {
@@ -1079,125 +1209,8 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/090/083/157/0Mn5r3E1XY0Dq2DkYWPoD9kg7/d4db37a6b247d79a0139c74f665b265ac4a7fc3d.png",
       "publishedAt": "2025-05-08T04:05:00Z",
       "content": "Researchers have highlighted the significant burden of foodborne infections in Central America and the Caribbean and called for more attention on the issue in the region.\r\nA review focused on bacteri… [+3437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Chuck Brooks, Contributor, \n Chuck Brooks, Contributor\n https://www.forbes.com/sites/cognitiveworld/people/chuckbrooks/",
-      "title": "The Rise of the Humanoid Robotic Machines Is Nearing.",
-      "description": "The rise of the humanoid robotic machines is nearing. Robotics are now revolutionizing numerous industry sectors through the integration of artificial intelligence",
-      "url": "https://www.forbes.com/sites/chuckbrooks/2025/05/07/the-rise-of-the-humanoid-robotic-machines-is-nearing/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681bc9d78f159c7293482dbe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-07T23:49:19Z",
-      "content": "Futuristic humanoid robot, computer illustration\r\ngetty\r\nThe rise of the humanoid robotic machines is nearing. Robotics is now revolutionizing numerous industry sectors through the integration of art… [+9120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FOX 13 Tampa Bay"
-      },
-      "author": "Aaron Mesmer",
-      "title": "Family of teen who battled gastrointestinal illness believe he caught it at South Tampa Japanese restaurant",
-      "description": "A teenage boy is preparing for surgery after battling a gastrointestinal illness his family believes he caught after eating food from a South Tampa Japanese restaurant, where dozens of other customers also complained about similar symptoms.",
-      "url": "https://www.fox13news.com/news/family-teen-who-battled-gastrointestinal-illness-believe-he-caught-south-tampa-japanese-restaurant",
-      "urlToImage": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2025/05/1280/720/sick-from-restaurant-2.jpg?ve=1&tl=1",
-      "publishedAt": "2025-05-07T23:22:56Z",
-      "content": "TAMPA, Fla. - A teenage boy is preparing for surgery after battling a gastrointestinal illness his family believes he caught after eating food from a South Tampa Japanese restaurant, where dozens of … [+4066 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Skinner",
-      "title": "Map Shows Where Beers Are Most Contaminated With Chemicals: Study",
-      "description": "Beers with the highest concentrations of PFAS, also known as forever chemicals, were found in two states.",
-      "url": "https://www.newsweek.com/map-beers-contaminated-pfas-chemicals-2069317",
-      "urlToImage": "https://d.newsweek.com/en/full/2640555/beer-pfas-contamination.jpg",
-      "publishedAt": "2025-05-07T21:33:38Z",
-      "content": "A new study by researchers at RTI International has found that several American beers contain measurable levels of \"forever chemicals,\" with the source traced primarily to municipal drinking water us… [+3987 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Peter Burke",
-      "title": "Snack food recalled amid undeclared presence of almonds and sesame",
-      "description": "The U.S. Food and Drug Administration said New England Village Foods has recalled its 19th Hole Snack Mix because the product may contain undeclared almonds and sesame.",
-      "url": "https://www.foxnews.com/food-drink/snack-food-recalled-amid-undeclared-presence-almonds-sesame",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/snack-mix-assortment-of-nuts.jpg",
-      "publishedAt": "2025-05-07T19:30:47Z",
-      "content": "A snack food sold in stores in the northeast has been recalled because of two undeclared allergens.\r\nNew England Village Foods is recalling all lots of 5-ounce and 10-ounce containers of its 19th Hol… [+1506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Play ransomware affiliate leveraged zero-day to deploy malware",
-      "description": "The Play ransomware gang exploited a high-severity Windows Common Log File System flaw in zero-day attacks to deploy malware. The Play ransomware gang has exploited a Windows Common Log File System flaw, tracked as CVE-2025-29824, in zero-day attacks to gain …",
-      "url": "https://securityaffairs.com/177573/cyber-crime/play-ransomware-affiliate-leveraged-zero-day-to-deploy-malware.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/11/windows-zero-day.png",
-      "publishedAt": "2025-05-07T18:43:23Z",
-      "content": "Play ransomware affiliate leveraged zero-day to deploy malware\r\n | Canary Exploit tool allows to find servers affected by Apache Parquet flaw\r\n | Unsophisticated cyber actors are targeting the U.S. E… [+162285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "James Durso",
-      "title": "How an India-Pakistan War Could Derail Central Asia’s Future",
-      "description": "If India and Pakistan spiral into war, there will be consequences for Central Asia. A war between Pakistan and India would likely have significant ripple effects on Central Asia, given the region's proximity to Afghanistan and flourishing economic ties across…",
-      "url": "https://oilprice.com/Geopolitics/Asia/How-an-India-Pakistan-War-Could-Derail-Central-Asias-Future.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-05-07_g2fga3i9t0.jpg",
-      "publishedAt": "2025-05-07T17:00:00Z",
-      "content": "India attributes the attack to…\r\nKazakhstan is considering new procurement…\r\nA full-scale trade war could…\r\nBy James Durso - May 07, 2025, 12:00 PM CDTIf India and Pakistan spiral into war, there wil… [+12218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Brittany Miller",
-      "title": "Yellowstone TV series-inspired baked beans recalled over undeclared allergen",
-      "description": "Vietti Food Group recalled 4,515 cases of their Yellowstone Brown Sugar Molasses Baked Beans",
-      "url": "https://www.the-independent.com/life-style/baked-beans-recall-yellowstone-b2746583.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/07/16/51/Yellowstone-baked-beans-recall.png?trim=16,437,52,52&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-07T16:43:32Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Lindsay Lowe",
-      "title": "Baked beans recalled in 23 states due to potential ‘life-threatening’ risk",
-      "description": "Yellowstone Brown Sugar Molasses Baked Beans are being recalled in 23 states due to the presence of an undeclared allergen: soy.",
-      "url": "https://www.today.com/food/recall/canned-beans-recall-2025-rcna205342",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/can-beans-recall-mc-2x1-250507-copy-4d0578.jpg",
-      "publishedAt": "2025-05-07T16:05:51Z",
-      "content": "One variety of Yellowstone-brand baked beans is being recalled due to the presence of an undeclared allergen: soy.\r\nThe Vietti Food Group, based in Nashville, Tennessee, announced it is recalling 4,5… [+2373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Aayushi Singh Chauhan",
-      "title": "Can Aspergillus Fungus Cause The Next Deadliest Outbreak?",
-      "description": "The World Health Organisation (WHO) has recognised Aspergillus fumigatus as a significant threat, emphasising the need for heightened awareness and preparedness.",
-      "url": "https://doctor.ndtv.com/infection/can-aspergillus-fungus-cause-the-next-deadliest-outbreak-all-you-need-to-know-8353472",
-      "urlToImage": "https://c.ndtvimg.com/2025-05/q9to3opc_can-aspergillus-fungus-cause-the-next-deadliest-outbreak_625x300_07_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
-      "publishedAt": "2025-05-07T15:00:50Z",
-      "content": "As global temperatures rise, scientists are sounding the alarm about the increasing threat posed by fungal pathogens, particularly the Aspergillus species. Recent studies indicate that climate change… [+4684 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
