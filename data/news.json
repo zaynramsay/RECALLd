@@ -1,18 +1,57 @@
 {
-  "lastUpdated": "2025-05-14T06:34:28.842Z",
+  "lastUpdated": "2025-05-14T12:50:05.073Z",
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Naturalnews.com"
+        "name": "The Conversation Africa"
       },
-      "author": "Zoey Sky",
-      "title": "The hidden dangers of iron oxides in cosmetics and personal care products",
-      "description": "Iron oxides are natural or synthetic pigments (red, yellow, black) used in cosmetics like lipstick, foundation and sunscreen. They are stable and long-lasting but may contain trace heavy metals (arsenic, lead, mercury) from mining or production. Potential hea…",
-      "url": "https://www.naturalnews.com/2025-05-13-dangers-iron-oxides-cosmetics-personal-care-products.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Lip-Stick-Red-Shades.jpg",
-      "publishedAt": "2025-05-13T06:00:00Z",
-      "content": "<ul><li>Iron oxides are natural or synthetic pigments (red, yellow, black) used in cosmetics like lipstick, foundation and sunscreen. They are stable and long-lasting but may contain trace heavy meta… [+7743 chars]"
+      "author": "Elisa Becker, Postdoctoral Researcher, Behaviour Change Interventions, University of Oxford, Natalia Lawrence, Associate Professor in Translational Medicine, University of Exeter",
+      "title": "What do bacon and faeces have in common? They can produce the same feeling of disgust",
+      "description": "Disgust is a primal emotion – and it could be the key to eating less meat.",
+      "url": "https://theconversation.com/what-do-bacon-and-faeces-have-in-common-they-can-produce-the-same-feeling-of-disgust-255194",
+      "urlToImage": "https://images.theconversation.com/files/663603/original/file-20250423-68-wqj8tf.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5301%2C2650&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-05-13T12:24:28Z",
+      "content": "Friends Stock/Shutterstock\r\nWhat do crispy bacon, a juicy beef steak, human flesh and faeces have in common? They’re all foods that trigger a powerful emotional reaction in people – disgust. And acco… [+4608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Moldovan Police arrested a 45-year-old foreign man participating in ransomware attacks on Dutch companies",
+      "description": "A 45-year-old foreign man has been arrested in Moldova for allegedly participating in ransomware attacks on Dutch companies in 2021. Moldovan police arrested a 45-year-old foreign man as a result of a joint international operation involving Moldovan and Dutch…",
+      "url": "https://securityaffairs.com/177772/cyber-crime/moldovan-police-arrested-a-45-year-old-foreign-man-participating-in-ransomware-attacks-on-dutch-companies.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-22.png",
+      "publishedAt": "2025-05-13T12:03:51Z",
+      "content": "Moldovan Police arrested a 45-year-old foreign man participating in ransomware attacks on Dutch companies\r\n | APT group exploited Output Messenger Zero-Day to target Kurdish military operating in Ira… [+163759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "APT group exploited Output Messenger Zero-Day to target Kurdish military operating in Iraq",
+      "description": "A Türkiye-linked group used an Output Messenger zero-day to spy on Kurdish military targets in Iraq, collecting user data since April 2024. Since April 2024, the threat actor Marbled Dust (aka Sea Turtle, Teal Kurma, Marbled Dust, SILICON and Cosmic Wolf) has…",
+      "url": "https://securityaffairs.com/177758/apt/apt-group-exploited-output-messenger-zero-day-to-target-kurdish-military-operating-in-iraq.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-21.png",
+      "publishedAt": "2025-05-13T10:34:00Z",
+      "content": "APT group exploited Output Messenger Zero-Day to target Kurdish military operating in Iraq\r\n | Apple released security updates to fix multiple flaws in iOS and macOS\r\n | U.S. CISA adds TeleMessage TM… [+163649 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Marni Rose McFall",
+      "title": "Walmart Products Recalled Nationwide: Full List of Items Impacted",
+      "description": "There are currently four ongoing recalls, including one with a potential Listeria contamination.",
+      "url": "https://www.newsweek.com/walmart-products-recalled-beans-celery-tortilla-chips-frozen-meals-2071371",
+      "urlToImage": "https://d.newsweek.com/en/full/2643296/walmart.jpg",
+      "publishedAt": "2025-05-13T09:21:31Z",
+      "content": "There have been four recalls of food products sold at Walmart since March 2025, according to Walmart and the U.S. Food and Drug Administration.\r\nWalmart is the world's largest retailer. According to … [+5179 chars]"
     },
     {
       "source": {
@@ -26,6 +65,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/sesame-seeds-oil-superfood.jpg",
       "publishedAt": "2025-05-13T06:00:00Z",
       "content": "<ul><li>Sesame oil has been used for over 5,000 years in Africa, the Middle East and Asia, and is prized for its rich flavor, resistance to oxidation and health benefits. It rivals extra virgin olive… [+7877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Zoey Sky",
+      "title": "The hidden dangers of iron oxides in cosmetics and personal care products",
+      "description": "Iron oxides are natural or synthetic pigments (red, yellow, black) used in cosmetics like lipstick, foundation and sunscreen. They are stable and long-lasting but may contain trace heavy metals (arsenic, lead, mercury) from mining or production. Potential hea…",
+      "url": "https://www.naturalnews.com/2025-05-13-dangers-iron-oxides-cosmetics-personal-care-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Lip-Stick-Red-Shades.jpg",
+      "publishedAt": "2025-05-13T06:00:00Z",
+      "content": "<ul><li>Iron oxides are natural or synthetic pigments (red, yellow, black) used in cosmetics like lipstick, foundation and sunscreen. They are stable and long-lasting but may contain trace heavy meta… [+7743 chars]"
     },
     {
       "source": {
@@ -337,7 +389,7 @@
       "url": "https://legalinsurrection.com/2025/05/students-sue-bryn-mawr-college-for-inadequate-gluten-free-options-virtual-class-access/",
       "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Legal-Studies.jpg",
       "publishedAt": "2025-05-12T12:00:23Z",
-      "content": "Bryn Mawr College sued for inadequate gluten-free options, virtual class access\r\nThe Philadelphia-adjacent Bryn Mawr College is the target of a lawsuit by a half dozen current and former students, wh��� [+1874 chars]"
+      "content": "Bryn Mawr College sued for inadequate gluten-free options, virtual class access\r\nThe Philadelphia-adjacent Bryn Mawr College is the target of a lawsuit by a half dozen current and former students, wh… [+1874 chars]"
     },
     {
       "source": {
@@ -903,19 +955,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
-      "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
-      "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323332",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
-      "publishedAt": "2025-05-09T14:00:00Z",
-      "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Muhammad Asghar, Muhammad Atiq, Muhammad Usman Ali, Ghalib Ayaz Kachelo, Nasir Ahmad Khan, Khalid Naveed, Muhammad Usman, Ahmad Nawaz, Owais Iqbal, Nasir Ahmed Rajput",
       "title": "Investigating the biochemical variations in onion leaves due to purple blotch disease and its management through induced resistance",
       "description": "Purple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The incidence of this disease underscores the critical need for an effectiv…",
@@ -923,6 +962,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323067.g010&size=inline",
       "publishedAt": "2025-05-09T14:00:00Z",
       "content": "Abstract\r\nPurple blotch (PB), caused by Alternaria porri (Ellis) ciferri, poses a significant threat to onion crop, resulting in major economic losses in both bulb and seed production globally. The i… [+45775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Biniyam Sahiledengle, Kingsley Emwinyore Agho, Yohannes Tekalegn, Degefa Gomora, Daniel Atlaw, Demisu Zenbaba, Fikreab Desta, Zinash Teferu, Girma Beressa, Telila Mesfin, Yordanos Sintayehu, Lillian Mwanri",
+      "title": "Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public health interventions",
+      "description": "Background Childhood undernutrition is a significant public health concern linked to poverty. Despite the persistent high burden of childhood undernutrition in Ethiopia, there is a lack of robust evidence identifying factors associated with undernutrition in …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323332",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323332.g001&size=inline",
+      "publishedAt": "2025-05-09T14:00:00Z",
+      "content": "Citation: Sahiledengle B, Agho KE, Tekalegn Y, Gomora D, Atlaw D, Zenbaba D, et al. (2025) Factors associated with childhood undernutrition in poor Ethiopian households: Implications for public healt… [+47542 chars]"
     },
     {
       "source": {
@@ -1109,19 +1161,6 @@
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lisa Sophie Reigl, Maxson Kenneth Anyolitho, Stella Neema, Mary Amuyunzu-Nyamongo, Andrea Buhl, Jennifer Burrill, Marie Frese, Djouquou Alexise Gnahore, Eveline Hürlimann, Suzanne Lavry, Janet Masaku, Nora Monnier, Ashley Preston, Alice Sereti Sinkeet, Peter Steinmann, Alain Toh, Orkan Okan, Andrea S. Winkler, Isabelle L. Lange",
-      "title": "Socio-cultural and structural barriers influencing parents’ knowledge and access to information on schistosomiasis in children around Ugandan Lakes",
-      "description": "Author summary The studied lakeside communities in Uganda have limited knowledge about the transmission and prevention of schistosomiasis while simultaneously being aware of the significance of the disease. This study was conducted in preparation for the intr…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013050",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013050.g005&size=inline",
-      "publishedAt": "2025-05-08T14:00:00Z",
-      "content": "Citation: Reigl LS, Anyolitho MK, Neema S, Amuyunzu-Nyamongo M, Buhl A, Burrill J, et al. (2025) Socio-cultural and structural barriers influencing parents knowledge and access to information on schi… [+82415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNET"
       },
       "author": "Katie Teague",
@@ -1131,6 +1170,19 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/9afd445302b9d080453c3409d650535305b455e1/hub/2022/08/07/889e798c-0bc1-4306-ba64-2358e92419b3/gettyimages-1319060028.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-05-08T14:00:00Z",
       "content": "Picture this: You bring your dirty laundry to the washing machine, intending to catch up on chores, only to open it and get a smell you didn't expect. The odor of rotting wood, wet socks and damp ear… [+5098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Lisa Sophie Reigl, Maxson Kenneth Anyolitho, Stella Neema, Mary Amuyunzu-Nyamongo, Andrea Buhl, Jennifer Burrill, Marie Frese, Djouquou Alexise Gnahore, Eveline Hürlimann, Suzanne Lavry, Janet Masaku, Nora Monnier, Ashley Preston, Alice Sereti Sinkeet, Peter Steinmann, Alain Toh, Orkan Okan, Andrea S. Winkler, Isabelle L. Lange",
+      "title": "Socio-cultural and structural barriers influencing parents’ knowledge and access to information on schistosomiasis in children around Ugandan Lakes",
+      "description": "Author summary The studied lakeside communities in Uganda have limited knowledge about the transmission and prevention of schistosomiasis while simultaneously being aware of the significance of the disease. This study was conducted in preparation for the intr…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013050",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013050.g005&size=inline",
+      "publishedAt": "2025-05-08T14:00:00Z",
+      "content": "Citation: Reigl LS, Anyolitho MK, Neema S, Amuyunzu-Nyamongo M, Buhl A, Burrill J, et al. (2025) Socio-cultural and structural barriers influencing parents knowledge and access to information on schi… [+82415 chars]"
     },
     {
       "source": {
@@ -1157,58 +1209,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/663cd61905ce3f6dcee4ac13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-05-08T11:15:00Z",
       "content": "Evan J. Renov, Cofounder &amp; Managing Partner at Arieli Group.\r\ngetty\r\nFamily offices have long been focused on preserving their families wealth, with many taking a conservative approach and invest… [+6637 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Khloe Quill",
-      "title": "Why your laundry could be making you sick and what to do about it",
-      "description": "Research finds the home washing of healthcare uniforms may spread superbugs as domestic machines fail to kill harmful bacteria, according to a new study.",
-      "url": "https://www.foxnews.com/health/your-laundry-could-making-you-sick-what-do-about-it",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/gettyimages-2165776270.jpg",
-      "publishedAt": "2025-05-08T09:00:42Z",
-      "content": "Tossing in a load of wash at home sounds ordinary and harmless.   \r\nBut healthcare professionals who wash their work uniforms at home may be unknowingly spreading superbugs, according to a new study.… [+3714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Rugile Baltrunaite",
-      "title": "“Highly Sensitive” SIL Balks After Her High Demands Get Shut Down",
-      "description": "How do you handle a demanding family member with strict dietary requirements?",
-      "url": "https://www.boredpanda.com/refuse-sister-in-law-stay-vegan-peanut-allergy/",
-      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/05/refuse-sister-in-law-stay-vegan-peanut-allergy-fb.png",
-      "publishedAt": "2025-05-08T08:38:44Z",
-      "content": "People with strict dietary requirements live a complicated life. Their enjoyment of food comes with limitations, and as someone from the outside looking in, it’s only proper to empathize with them. \r… [+3105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds GoVision device flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Qualitia Active! Mail, Broadcom Brocade Fabric OS, a…",
-      "url": "https://securityaffairs.com/177599/security/u-s-cisa-adds-govision-device-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-05-08T08:04:03Z",
-      "content": "U.S. CISA adds GoVision device flaws to its Known Exploited Vulnerabilities catalog\r\n | Polish authorities arrested 4 people behind DDoS-for-hire platforms\r\n | Play ransomware affiliate leveraged zer… [+162445 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Polish authorities arrested 4 people behind DDoS-for-hire platforms",
-      "description": "Polish police arrested 4 people behind DDoS-for-hire platforms used in global attacks, offering takedowns for as little as €10 via six stresser services. Polish authorities arrested 4 people linked to 6 DDoS-for-hire platforms, Cfxapi, Cfxsecurity, neostress,…",
-      "url": "https://securityaffairs.com/177590/cyber-crime/polish-police-arrested-4-people-behind-ddos-for-hire-platforms.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-14.png",
-      "publishedAt": "2025-05-08T07:22:05Z",
-      "content": "Polish authorities arrested 4 people behind DDoS-for-hire platforms\r\n | Play ransomware affiliate leveraged zero-day to deploy malware\r\n | Canary Exploit tool allows to find servers affected by Apach… [+162357 chars]"
     }
   ],
   "totalResults": 93,
