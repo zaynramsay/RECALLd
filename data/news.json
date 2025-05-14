@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-05-14T01:57:33.342Z",
+  "lastUpdated": "2025-05-14T06:34:28.842Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Zoey Sky",
+      "title": "The hidden dangers of iron oxides in cosmetics and personal care products",
+      "description": "Iron oxides are natural or synthetic pigments (red, yellow, black) used in cosmetics like lipstick, foundation and sunscreen. They are stable and long-lasting but may contain trace heavy metals (arsenic, lead, mercury) from mining or production. Potential hea…",
+      "url": "https://www.naturalnews.com/2025-05-13-dangers-iron-oxides-cosmetics-personal-care-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Lip-Stick-Red-Shades.jpg",
+      "publishedAt": "2025-05-13T06:00:00Z",
+      "content": "<ul><li>Iron oxides are natural or synthetic pigments (red, yellow, black) used in cosmetics like lipstick, foundation and sunscreen. They are stable and long-lasting but may contain trace heavy meta… [+7743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Sesame oil: A heart-healthy superfood worth adding to your diet",
+      "description": "Sesame oil has been used for over 5,000 years in Africa, the Middle East and Asia, and is prized for its rich flavor, resistance to oxidation and health benefits. It rivals extra virgin olive oil in terms of nutritional value. It contains 40 percent monounsat…",
+      "url": "https://www.naturalnews.com/2025-05-13-sesame-oil-a-heart-healthy-superfood.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/sesame-seeds-oil-superfood.jpg",
+      "publishedAt": "2025-05-13T06:00:00Z",
+      "content": "<ul><li>Sesame oil has been used for over 5,000 years in Africa, the Middle East and Asia, and is prized for its rich flavor, resistance to oxidation and health benefits. It rivals extra virgin olive… [+7877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Apple released security updates to fix multiple flaws in iOS and macOS",
+      "description": "Apple released security updates to address easily exploitable vulnerabilities impacting iOS and macOS devices. Apple released urgent iOS and macOS security updates to patch critical flaws that could allow attackers to execute malicious code just by opening a …",
+      "url": "https://securityaffairs.com/177748/security/apple-released-security-updates-to-fix-multiple-flaws-in-ios-and-macos.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
+      "publishedAt": "2025-05-13T05:32:41Z",
+      "content": "Apple released security updates to fix multiple flaws in iOS and macOS\r\n | U.S. CISA adds TeleMessage TM SGNL to its Known Exploited Vulnerabilities catalog\r\n | Researchers found one-click RCE in ASU… [+163554 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Designboom"
+      },
+      "author": "matthew burgos I designboom",
+      "title": "3D printed salmon, pasta and dessert: inside the future of food with software-made meals",
+      "description": "in our deep dive, we look into the limitations of the current design software as well as using food waste as ingredients and other new technologies to make meals.\nThe post 3D printed salmon, pasta and dessert: inside the future of food with software-made meal…",
+      "url": "https://www.designboom.com/technology/3d-printed-salmon-pasta-dessert-future-food-software-controlled-meals-deep-dive-05-13-2025/",
+      "urlToImage": "https://www.designboom.com/twitterimages/uploads/2025/05/3D-printed-salmon-pasta-dessert-future-food-software-made-meals-deep-dive-designboom-fb.jpg",
+      "publishedAt": "2025-05-13T03:10:12Z",
+      "content": "3D printed food as the future of gastronomic industry\r\n3D printedfood like salmon, meat, pasta, and dessert can take over the future of the gastronomic industry as software-controlled meals. At first… [+12193 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -285,7 +337,7 @@
       "url": "https://legalinsurrection.com/2025/05/students-sue-bryn-mawr-college-for-inadequate-gluten-free-options-virtual-class-access/",
       "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Legal-Studies.jpg",
       "publishedAt": "2025-05-12T12:00:23Z",
-      "content": "Bryn Mawr College sued for inadequate gluten-free options, virtual class access\r\nThe Philadelphia-adjacent Bryn Mawr College is the target of a lawsuit by a half dozen current and former students, wh… [+1874 chars]"
+      "content": "Bryn Mawr College sued for inadequate gluten-free options, virtual class access\r\nThe Philadelphia-adjacent Bryn Mawr College is the target of a lawsuit by a half dozen current and former students, wh��� [+1874 chars]"
     },
     {
       "source": {
@@ -1157,58 +1209,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-14.png",
       "publishedAt": "2025-05-08T07:22:05Z",
       "content": "Polish authorities arrested 4 people behind DDoS-for-hire platforms\r\n | Play ransomware affiliate leveraged zero-day to deploy malware\r\n | Canary Exploit tool allows to find servers affected by Apach… [+162357 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Yves Smith",
-      "title": "A US or UK Hidden Hand? “How an India-Pakistan War Could Derail Central Asia’s Future”",
-      "description": "Pakistan's Prime Minister Asif contends that acting as a US operative helped prime the current India-Pakistan conflict. Does he have a point?",
-      "url": "https://www.nakedcapitalism.com/2025/05/a-us-or-uk-hidden-hand-how-an-india-pakistan-war-could-derail-central-asias-future.html",
-      "urlToImage": null,
-      "publishedAt": "2025-05-08T07:01:36Z",
-      "content": "Yves here. The India-Pakistan conflict has temporarily dropped out of the top slot in international news coverage, displaced by news that the US and UK are about to announce a tariff agreement. We’ll… [+19550 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Bulgur: An ancient grain that supports a healthy heart and digestion",
-      "description": "Bulgur is high in fiber, plant-based protein and essential minerals like magnesium, iron and manganese. It supports heart health, digestion and blood sugar control. A 4,000-year-old staple from Mesopotamia, bulgur is valued for its long shelf life, energy den…",
-      "url": "https://www.naturalnews.com/2025-05-08-bulgur-ancient-grain-supports-healthy-heart-digestion.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Raw-bulgur-in-wooden-bowl-1.jpg",
-      "publishedAt": "2025-05-08T06:00:00Z",
-      "content": "<ul><li>Bulgur is high in fiber, plant-based protein and essential minerals like magnesium, iron and manganese. It supports heart health, digestion and blood sugar control.</li><li>A 4,000-year-old s… [+6417 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AquaSculpt",
-      "title": "Aqua Sculpt 2025 Reviews: Pills Complaints Or Is Aqua Sculpt Legit?",
-      "description": "Read honest Aqua Sculpt reviews and consumer reports (2025). Discover if Aqua Sculpt pills for weight loss ( ice water hack) are legit or have complaints. Read honest Aqua Sculpt reviews and consumer reports (2025). Discover if Aqua Sculpt pills for weight lo…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/08/3076808/0/en/Aqua-Sculpt-2025-Reviews-Pills-Complaints-Or-Is-Aqua-Sculpt-Legit.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/712211fc-9308-4418-96ef-155dbf25f4a3",
-      "publishedAt": "2025-05-08T05:17:00Z",
-      "content": "AURORA, Colo., May 08, 2025 (GLOBE NEWSWIRE) -- Introduction: The 2025 Weight-Loss Paradox Why Millions Are Fighting a Losing Battle Against Weight Gain\r\nIn 2025, a quiet health crisis is spreading w… [+44223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Regional foodborne disease findings prompt calls for action",
-      "description": "Researchers have highlighted the significant burden of foodborne infections in Central America and the Caribbean and called for more attention on the issue in the region. A review focused on bacterial foodborne diseases in Central America and the Caribbean (C…",
-      "url": "https://www.foodsafetynews.com/2025/05/regional-foodborne-disease-findings-prompt-calls-for-action/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/090/083/157/0Mn5r3E1XY0Dq2DkYWPoD9kg7/d4db37a6b247d79a0139c74f665b265ac4a7fc3d.png",
-      "publishedAt": "2025-05-08T04:05:00Z",
-      "content": "Researchers have highlighted the significant burden of foodborne infections in Central America and the Caribbean and called for more attention on the issue in the region.\r\nA review focused on bacteri… [+3437 chars]"
     }
   ],
   "totalResults": 93,
