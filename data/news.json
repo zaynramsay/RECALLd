@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-05-16T18:32:58.106Z",
+  "lastUpdated": "2025-05-17T01:55:25.616Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "KRDO"
+      },
+      "author": "Bart Bedsole",
+      "title": "Several popular steakhouses in Colorado Springs fail health inspections",
+      "description": "Several popular steakhouses in Colorado Springs fail health inspectionskrdo.com",
+      "url": "https://krdo.com/news/2025/05/15/several-popular-steakhouses-in-colorado-springs-fail-health-inspections/",
+      "urlToImage": "https://krdo.b-cdn.net/2025/05/Untitled-design-2025-05-15T165236.504.jpg",
+      "publishedAt": "2025-05-15T22:52:35Z",
+      "content": "The (unfortunate) star of this week's Restaurant Roundup is the Cowboy Star, an upscale steakhouse and butcher shop inside the University Village shopping center along North Nevada in Colorado Spring… [+5576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Nova Scotia Power discloses data breach after March security incident",
+      "description": "Nova Scotia Power confirmed a data breach involving the theft of sensitive customer data after the April cybersecurity incident. Nova Scotia Power Inc. is a vertically integrated electric utility serving the province of Nova Scotia, Canada. Headquartered in H…",
+      "url": "https://securityaffairs.com/177887/cyber-crime/nova-scotia-power-discloses-data-breach-after-march-security-incident.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/01/uk-power-grid.jpg",
+      "publishedAt": "2025-05-15T20:57:06Z",
+      "content": "Nova Scotia Power discloses data breach after March security incident\r\n | Coinbase disclosed a data breach after an extortion attempt\r\n | U.S. CISA adds a Fortinet flaw to its Known Exploited Vulnera… [+164510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Ariana Brockington",
+      "title": "Publix recalls GreenWise baby food pouches for potential contamination",
+      "description": "Publix has issued a recall for GreenWise Pear, Kiwi, Spinach & Pea Baby Food pouches. The grocer did so due to the potential of their being contaminated with lead.",
+      "url": "https://www.today.com/health/recall/publix-greenwise-baby-food-recall-rcna207109",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/recalled-baby-food-te-250515-fe4618.jpg",
+      "publishedAt": "2025-05-15T20:09:05Z",
+      "content": "Publix has issued a recall for GreenWise Pear, Kiwi, Spinach &amp; Pea Baby Food pouches, the supermarket chain announced May 13. \r\nThe grocer confirmed that the baby food pouches, which are produced… [+2501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Diana Bruk",
+      "title": "Living at Mar-a-Lago puts Trump at risk for this major health issue, according to a new study",
+      "description": "A new study suggests Donald Trump's love of golf and Florida residence may be putting him at risk of an unexpected health condition.",
+      "url": "https://nypost.com/2025/05/15/health/living-at-mar-a-lago-puts-trump-at-risk-for-major-health-issue-study/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/2022-palm-beach-florida-trumps-104560542.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-15T19:09:46Z",
+      "content": "President Trump’s most recent annual physical revealed he’s in excellent health, going so far as to point to his frequent victories in golf events as evidence.\r\nBut a new study published in JAMA Netw… [+2966 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -97,19 +149,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
-      "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
-      "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324083",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
       "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
       "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
@@ -117,6 +156,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
       "publishedAt": "2025-05-15T14:00:00Z",
       "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
+      "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
+      "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324083",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
+      "publishedAt": "2025-05-15T14:00:00Z",
+      "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
     },
     {
       "source": {
@@ -708,13 +760,13 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Zoey Sky",
-      "title": "28 Underrated prepping items that could save your life in an emergency",
-      "description": "In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make survival easier, safer and more efficient. Aluminum foil can be used for co…",
-      "url": "https://www.naturalnews.com/2025-05-14-28-underrated-prepping-items-save-life-emergency.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/safety-pins-sewing-thread-1.jpg",
+      "author": "Cassie B.",
+      "title": "Brushing with poison: Study finds toxic heavy metals in 90% of toothpaste brands, including those for children",
+      "description": "A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks. Independent testing by Lead Safe Mama found major brands like Crest, Colgate, and Tom’…",
+      "url": "https://www.naturalnews.com/2025-05-14-toxic-heavy-metals-toothpaste-brands-children.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Toothpaste-Toothbrush-Dental-Hygiene.jpg",
       "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make surviva… [+8649 chars]"
+      "content": "<ul><li>A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks.</li><li>Independen… [+5294 chars]"
     },
     {
       "source": {
@@ -734,13 +786,13 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Cassie B.",
-      "title": "Brushing with poison: Study finds toxic heavy metals in 90% of toothpaste brands, including those for children",
-      "description": "A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks. Independent testing by Lead Safe Mama found major brands like Crest, Colgate, and Tom’…",
-      "url": "https://www.naturalnews.com/2025-05-14-toxic-heavy-metals-toothpaste-brands-children.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Toothpaste-Toothbrush-Dental-Hygiene.jpg",
+      "author": "Zoey Sky",
+      "title": "28 Underrated prepping items that could save your life in an emergency",
+      "description": "In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make survival easier, safer and more efficient. Aluminum foil can be used for co…",
+      "url": "https://www.naturalnews.com/2025-05-14-28-underrated-prepping-items-save-life-emergency.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/safety-pins-sewing-thread-1.jpg",
       "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks.</li><li>Independen… [+5294 chars]"
+      "content": "<ul><li>In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make surviva… [+8649 chars]"
     },
     {
       "source": {
@@ -955,19 +1007,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Janny Mucavele, Noémia Nhancupe, Gaby Ermelindo Roberto Monteiro, Regina Daniel Miambo, Lídia Gouveia, Alberto Pondja, Irina Mendes Sousa, Stephen W. Bickler, Constance A. Benson, Robert T. Schooley, Veronika Schmidt, Charlotte Ruether, Dominik Stelzle, Clarissa Prazeres da Costa, Ladino Suade, Milton L. Wainberg, Maria A. Oquendo, Andrea S. Winkler, Emilia Virginia Noormahomed, Zambézia cysticercosis working Group",
-      "title": "Cysticercosis and neurocysticercosis in people from Mocuba district, Zambézia province: A Mozambican community-based study",
-      "description": "Author summary Neurocysticercosis, a parasitic neglected tropical disease caused by the larva of Taenia solium poses a substantial public health problem in low-income countries where it strongly overlaps with epilepsy. Mozambique is no exception. A recent pil…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013083",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013083.g003&size=inline",
-      "publishedAt": "2025-05-13T14:00:00Z",
-      "content": "Citation: Mucavele J, Nhancupe N, Monteiro GER, Miambo RD, Gouveia L, Pondja A, et al. (2025) Cysticercosis and neurocysticercosis in people from Mocuba district, Zambézia province: A Mozambican comm… [+38266 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Farrah Mathura, Rohanie Maharaj",
       "title": "Assessment of consumer perspectives on the use of paper packaging in Trinidad",
       "description": "Background Paper packaging is increasingly being used to replace single use plastics to mitigate the negative effects of plastic pollution on the environment. While many developed countries have made considerable strides in this transition, developing countri…",
@@ -975,6 +1014,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323456.g013&size=inline",
       "publishedAt": "2025-05-13T14:00:00Z",
       "content": "Citation: Mathura F, Maharaj R (2025) Assessment of consumer perspectives on the use of paper packaging in Trinidad. PLoS One 20(5):\r\n e0323456.\r\nhttps://doi.org/10.1371/journal.pone.0323456\r\nEditor:… [+44879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Janny Mucavele, Noémia Nhancupe, Gaby Ermelindo Roberto Monteiro, Regina Daniel Miambo, Lídia Gouveia, Alberto Pondja, Irina Mendes Sousa, Stephen W. Bickler, Constance A. Benson, Robert T. Schooley, Veronika Schmidt, Charlotte Ruether, Dominik Stelzle, Clarissa Prazeres da Costa, Ladino Suade, Milton L. Wainberg, Maria A. Oquendo, Andrea S. Winkler, Emilia Virginia Noormahomed, Zambézia cysticercosis working Group",
+      "title": "Cysticercosis and neurocysticercosis in people from Mocuba district, Zambézia province: A Mozambican community-based study",
+      "description": "Author summary Neurocysticercosis, a parasitic neglected tropical disease caused by the larva of Taenia solium poses a substantial public health problem in low-income countries where it strongly overlaps with epilepsy. Mozambique is no exception. A recent pil…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013083",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013083.g003&size=inline",
+      "publishedAt": "2025-05-13T14:00:00Z",
+      "content": "Citation: Mucavele J, Nhancupe N, Monteiro GER, Miambo RD, Gouveia L, Pondja A, et al. (2025) Cysticercosis and neurocysticercosis in people from Mocuba district, Zambézia province: A Mozambican comm… [+38266 chars]"
     },
     {
       "source": {
@@ -1183,58 +1235,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/sesame-seeds-oil-superfood.jpg",
       "publishedAt": "2025-05-13T06:00:00Z",
       "content": "<ul><li>Sesame oil has been used for over 5,000 years in Africa, the Middle East and Asia, and is prized for its rich flavor, resistance to oxidation and health benefits. It rivals extra virgin olive… [+7877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Apple released security updates to fix multiple flaws in iOS and macOS",
-      "description": "Apple released security updates to address easily exploitable vulnerabilities impacting iOS and macOS devices. Apple released urgent iOS and macOS security updates to patch critical flaws that could allow attackers to execute malicious code just by opening a …",
-      "url": "https://securityaffairs.com/177748/security/apple-released-security-updates-to-fix-multiple-flaws-in-ios-and-macos.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
-      "publishedAt": "2025-05-13T05:32:41Z",
-      "content": "Apple released security updates to fix multiple flaws in iOS and macOS\r\n | U.S. CISA adds TeleMessage TM SGNL to its Known Exploited Vulnerabilities catalog\r\n | Researchers found one-click RCE in ASU… [+163554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Designboom"
-      },
-      "author": "matthew burgos I designboom",
-      "title": "3D printed salmon, pasta and dessert: inside the future of food with software-made meals",
-      "description": "in our deep dive, we look into the limitations of the current design software as well as using food waste as ingredients and other new technologies to make meals.\nThe post 3D printed salmon, pasta and dessert: inside the future of food with software-made meal…",
-      "url": "https://www.designboom.com/technology/3d-printed-salmon-pasta-dessert-future-food-software-controlled-meals-deep-dive-05-13-2025/",
-      "urlToImage": "https://www.designboom.com/twitterimages/uploads/2025/05/3D-printed-salmon-pasta-dessert-future-food-software-made-meals-deep-dive-designboom-fb.jpg",
-      "publishedAt": "2025-05-13T03:10:12Z",
-      "content": "3D printed food as the future of gastronomic industry\r\n3D printedfood like salmon, meat, pasta, and dessert can take over the future of the gastronomic industry as software-controlled meals. At first… [+12193 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Yogurt Recall Sparks Nationwide Warning",
-      "description": "The yogurts were sold in retails stores across the country and are being recalled due to undeclared almonds.",
-      "url": "https://www.newsweek.com/yogurt-recall-sparks-nationwide-warning-2071277",
-      "urlToImage": "https://d.newsweek.com/en/full/2643208/yogurt-parfait-recall.jpg",
-      "publishedAt": "2025-05-13T00:51:36Z",
-      "content": "Yogurt parfaits from Knockroe Inc. have sparked a nationwide recall over concerns of undeclared almonds.\r\nNewsweek reached out to the company via phone Monday evening for comment and left a voicemail… [+2727 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Royal Society of Chemistry"
-      },
-      "author": "Xing Liu, Zhen Liu, Qian Wu, Jinquan Liu, Xilin Xiao",
-      "title": "Application and development of signal amplification strategy in detection of antibiotic residues in food",
-      "description": "Analyst, 2025, Accepted ManuscriptDOI: 10.1039/D5AN00212E, Critical ReviewXing Liu, Zhen Liu, Qian Wu, Jinquan Liu, Xilin XiaoFood is essential for the proper functioning of the human body, and small molecule contaminants, such as antibiotics, have become a g…",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00212e",
-      "urlToImage": null,
-      "publishedAt": "2025-05-12T23:00:00Z",
-      "content": "Food is essential for the proper functioning of the human body, and small molecule contaminants, such as antibiotics, have become a growing concern due to their harmful effects on both biological sys… [+1065 chars]"
     }
   ],
   "totalResults": 95,
