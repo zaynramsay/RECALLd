@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-05-18T02:05:09.382Z",
+  "lastUpdated": "2025-05-18T06:32:38.545Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Peanut oil: A superfood source of healthy fats to support your heart",
+      "description": "Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and minerals, it contains vitamin E. Its high smoke point makes it ideal for…",
+      "url": "https://www.naturalnews.com/2025-05-17-peanut-oil-superfood-source-of-healthy-fats.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Peanut-Oil-2.jpg",
+      "publishedAt": "2025-05-17T06:00:00Z",
+      "content": "<ul><li>Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and mine… [+7063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Consumer Reports finds high levels of LEAD in cassava products",
+      "description": "An investigation by Consumer Reports found dangerously high lead levels in cassava-based foods, with some products exceeding safety thresholds by over 2,000 percent. Chronic exposure to lead in cassava poses serious risks, especially for children (linked to n…",
+      "url": "https://www.naturalnews.com/2025-05-17-consumer-reports-high-levels-lead-cassava-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Cassava.jpg",
+      "publishedAt": "2025-05-17T06:00:00Z",
+      "content": "<ul><li>An investigation by Consumer Reports found dangerously high lead levels in cassava-based foods, with some products exceeding safety thresholds by over 2,000 percent.</li><li>Chronic exposure … [+4838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "Jenna Anderson",
+      "title": "Recall Roundup: Eye Drops, Ice Cream, and More Pulled From Shelves This Week",
+      "description": "The week of May 12 saw four major recalls over a range of issues, including undeclared allergens and Listeria concerns. Check for these products.",
+      "url": "https://www.health.com/recall-roundup-eye-drops-ice-cream-11736344",
+      "urlToImage": "https://www.health.com/thmb/NTaUPEQu4D_Yx3N4EfvfhNvMxSQ=/5375x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1265272573-bc893ffc846d407ca17842283df44b9d.jpg",
+      "publishedAt": "2025-05-17T05:05:27Z",
+      "content": "Check your kitchen and medicine cabinet for the products impacted by four major recalls this week (May 1218).\r\nThe items were pulled from shelves due to potential health and safety risks, including L… [+4161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Tivano",
+      "title": "Tivano Cutting Board Complaints Investigated: Shocking Reviews Reveal Hidden Truth!",
+      "description": "Uncover the Real Story Behind the Viral Titanium Cutting Board—From Bacteria Resistance to Knife Preservation and Return Policy Red Flags Uncover the Real Story Behind the Viral Titanium Cutting Board—From Bacteria Resistance to Knife Preservation and Return …",
+      "url": "https://www.globenewswire.com/news-release/2025/05/17/3083457/0/en/Tivano-Cutting-Board-Complaints-Investigated-Shocking-Reviews-Reveal-Hidden-Truth.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/571d5788-f0d1-4258-a910-c740732b1e01",
+      "publishedAt": "2025-05-17T03:40:00Z",
+      "content": "Sacramento, May 16, 2025 (GLOBE NEWSWIRE) -- \r\nIn This Article, Youll Discover:\r\n<ul><li>The most common Tivano Cutting Board complaints revealed by verified customer reviews</li><li>How the Titanium… [+40474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Ice Cream, Frozen Yogurt Recall Includes 22 Products, Over 17,000 Tubs",
+      "description": "Potential contamination with plastic material has prompted Wells Enterprises, also known as Wells Dairy, to voluntarily recall 22 ice cream and frozen yogurt products.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/05/16/ice-cream-frozen-yogurt-recall-includes-22-products-over-17000-tubs/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6827fd3a839febc90d7a36eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-17T03:17:02Z",
+      "content": "Rocky road ice cream from Wells Dairy is included in the recall. But accidentally ingesting the ice ... More cream won't necessarily mean a rocky road for you. (Photo: Getty)\r\ngetty\r\nLife in plastic … [+5098 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -435,19 +500,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
-      "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
-      "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323576",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
       "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
       "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
@@ -455,6 +507,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
       "publishedAt": "2025-05-15T14:00:00Z",
       "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
+      "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
+      "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323576",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
+      "publishedAt": "2025-05-15T14:00:00Z",
+      "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
     },
     {
       "source": {
@@ -519,7 +584,7 @@
       "url": "https://dailyhive.com/canada/loblaw-tariff-impacted-products-canada",
       "urlToImage": "https://display.blogto.com/articles/20250515-loblaws-canada.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
       "publishedAt": "2025-05-15T12:25:54Z",
-      "content": "Loblaws is warning shoppers to brace their wallets for more tariff-impacted products to hit shelves in Canada in the coming weeks.\r\nThe grocery giant's CEO, Per Bank, shared a post on LinkedIn on Tue… [+2895 chars]"
+      "content": "Loblaws is warning shoppers to brace their wallets for more tariff-impacted products to hit shelves in Canada in the coming weeks.\r\nThe grocery giant's CEO, Per Bank, shared a post on LinkedIn on Tue�� [+2895 chars]"
     },
     {
       "source": {
@@ -1046,13 +1111,13 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Cassie B.",
-      "title": "Brushing with poison: Study finds toxic heavy metals in 90% of toothpaste brands, including those for children",
-      "description": "A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks. Independent testing by Lead Safe Mama found major brands like Crest, Colgate, and Tom’…",
-      "url": "https://www.naturalnews.com/2025-05-14-toxic-heavy-metals-toothpaste-brands-children.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Toothpaste-Toothbrush-Dental-Hygiene.jpg",
+      "author": "Zoey Sky",
+      "title": "28 Underrated prepping items that could save your life in an emergency",
+      "description": "In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make survival easier, safer and more efficient. Aluminum foil can be used for co…",
+      "url": "https://www.naturalnews.com/2025-05-14-28-underrated-prepping-items-save-life-emergency.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/safety-pins-sewing-thread-1.jpg",
       "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks.</li><li>Independen… [+5294 chars]"
+      "content": "<ul><li>In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make surviva… [+8649 chars]"
     },
     {
       "source": {
@@ -1072,13 +1137,13 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Zoey Sky",
-      "title": "28 Underrated prepping items that could save your life in an emergency",
-      "description": "In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make survival easier, safer and more efficient. Aluminum foil can be used for co…",
-      "url": "https://www.naturalnews.com/2025-05-14-28-underrated-prepping-items-save-life-emergency.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/safety-pins-sewing-thread-1.jpg",
+      "author": "Cassie B.",
+      "title": "Brushing with poison: Study finds toxic heavy metals in 90% of toothpaste brands, including those for children",
+      "description": "A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks. Independent testing by Lead Safe Mama found major brands like Crest, Colgate, and Tom’…",
+      "url": "https://www.naturalnews.com/2025-05-14-toxic-heavy-metals-toothpaste-brands-children.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Toothpaste-Toothbrush-Dental-Hygiene.jpg",
       "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make surviva… [+8649 chars]"
+      "content": "<ul><li>A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks.</li><li>Independen… [+5294 chars]"
     },
     {
       "source": {
@@ -1130,7 +1195,7 @@
       "url": "https://www.globenewswire.com/news-release/2025/05/13/3080688/0/en/MeiraGTx-Announces-the-Presentation-of-Four-Posters-at-the-American-Society-of-Gene-and-Cell-Therapy-ASGCT-2025-Annual-Meeting.html",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/6b45b8d0-975e-494b-8a46-b88360aa1791",
       "publishedAt": "2025-05-13T20:30:00Z",
-      "content": "LONDON and NEW YORK, May 13, 2025 (GLOBE NEWSWIRE) -- MeiraGTx Holdings plc��(Nasdaq: MGTX), a vertically integrated, clinical stage genetic medicines company, today announced the Company will exhibit… [+20093 chars]"
+      "content": "LONDON and NEW YORK, May 13, 2025 (GLOBE NEWSWIRE) -- MeiraGTx Holdings plc (Nasdaq: MGTX), a vertically integrated, clinical stage genetic medicines company, today announced the Company will exhibit… [+20093 chars]"
     },
     {
       "source": {
@@ -1183,60 +1248,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-39.png",
       "publishedAt": "2025-05-13T17:48:50Z",
       "content": "Marks and Spencer confirms data breach after April cyber attack\r\n | Moldovan Police arrested a 45-year-old foreign man participating in ransomware attacks on Dutch companies\r\n | APT group exploited O… [+163827 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "menshealth.com"
-      },
-      "author": "Korin Miller",
-      "title": "What to Know About the Latest Food Recall",
-      "description": "Several brands of ready-to-eat foods have been recalled over listeria concerns. Here's what you need to know.",
-      "url": "https://www.menshealth.com/health/a64747377/listeria-ready-to-eat-foods/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/li-gettyimages-1400601562-6823664b3cf6b.jpeg?crop=1.00xw:0.754xh;0,0.117xh&resize=1200:*",
-      "publishedAt": "2025-05-13T16:03:00Z",
-      "content": "Hearing about yet another food recall is enough to make you never want to eat again. Unfortunately, here we are again. \r\nFresh &amp; Ready Foods has recalled several ready-to-eat foods that dont need… [+6176 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStranger.com"
-      },
-      "author": "Vivian McCall",
-      "title": "Slog AM: Seattle Candidate Forum Tonight, Trump Screws Over Afghan Refugees, RFK Jr. Swims in Pee and Poop",
-      "description": "The Stranger's morning news roundup.\n \n by Vivian McCall\n \n \n \n Good morning: A cloudy day will gradually give way to the sun and it may be the last we may see of it til Sunday. Expect a high of 66.\nClimbing Accident in North Cascades: Four people were repell…",
-      "url": "https://www.thestranger.com/slog-am/2025/05/13/80055047/slog-am-seattle-candidate-forum-tonight-trump-screws-over-afghan-refugees-rfk-jr-swims-in-pee-and-poop",
-      "urlToImage": "https://media2.fdncms.com/stranger/imager/u/large/80055117/gettyimages-2213600768.webp",
-      "publishedAt": "2025-05-13T15:57:00Z",
-      "content": "Good morning: A cloudy day will gradually give way to the sun and it may be the last we may see of it til Sunday. Expect a high of 66.\r\nClimbing Accident in North Cascades: Four people were repelling… [+5592 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rifters.com"
-      },
-      "author": "pavel_lishin",
-      "title": "It Awaits Your Experiments",
-      "description": "Article URL: https://www.rifters.com/crawl/?p=11511\nComments URL: https://news.ycombinator.com/item?id=43974005\nPoints: 5\n# Comments: 0",
-      "url": "https://www.rifters.com/crawl/?p=11511",
-      "urlToImage": null,
-      "publishedAt": "2025-05-13T15:27:47Z",
-      "content": "May 25\r\n UK funds a series of geoengineering experiments to “buy time” in the race against climate change. Small-scale and cautious, they say. Ecologically sound, they say. Will certainly not be used… [+43282 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Peter Burke",
-      "title": "Yogurt products sold nationwide recalled due to undeclared almonds",
-      "description": "Low-fat yogurt parfaits sold in stores nationwide have been recalled because they contain almonds that weren't listed on the label, according to the U.S. Food and Drug Administration.",
-      "url": "https://www.foxnews.com/food-drink/yogurt-products-sold-nationwide-recalled-due-undeclared-almonds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/raspberry-strawberry-blueperry-yogurt-parfaits.jpg",
-      "publishedAt": "2025-05-13T14:41:51Z",
-      "content": "A Pennsylvania company's yogurt parfait products have been recalled due to an undeclared allergen.\r\nThe granola component in some of Knockro Inc.'s Bonya-branded low-fat yogurt parfaits \"contains alm… [+1374 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 96,
   "filteredCount": 3
 }
