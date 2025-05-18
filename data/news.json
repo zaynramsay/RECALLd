@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-18T12:44:50.297Z",
+  "lastUpdated": "2025-05-18T18:30:53.774Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "US Government officials targeted with texts and AI-generated deepfake voice messages impersonating senior U.S. officials",
+      "description": "FBI warns ex-officials are targeted with deepfake texts and AI voice messages impersonating senior U.S. officials. The FBI warns that ex-government officials are being targeted with texts and AI-generated deepfake voice messages impersonating senior U.S. offi…",
+      "url": "https://securityaffairs.com/177987/cyber-crime/us-government-officials-targeted-texts-and-ai-generated-deepfake.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/02/deepfake.jpg",
+      "publishedAt": "2025-05-17T16:39:03Z",
+      "content": "US Government officials targeted with texts and AI-generated deepfake voice messages impersonating senior U.S. officials\r\n | Shields up US retailers. Scattered Spider threat actors can target them\r\n … [+165210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Shields up US retailers. Scattered Spider threat actors can target them",
+      "description": "Google warns that the cybercrime group Scattered Spider behind UK retailer attacks is now targeting U.S. companies, shifting their focus across the Atlantic. The financially motivated group UNC3944 (also known as Scattered Spider, 0ktapus) is known for social…",
+      "url": "https://securityaffairs.com/177974/cyber-crime/shields-up-us-retailers-scattered-spider-threat-actors.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-39.png",
+      "publishedAt": "2025-05-17T13:36:18Z",
+      "content": "Shields up US retailers. Scattered Spider threat actors can target them\r\n | U.S. CISA adds Google Chromium, DrayTek routers, and SAP NetWeaver flaws to its Known Exploited Vulnerabilities catalog\r\n |… [+165085 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -565,19 +591,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
-      "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
-      "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324083",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
       "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
       "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
@@ -585,6 +598,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
       "publishedAt": "2025-05-15T14:00:00Z",
       "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
+      "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
+      "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324083",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
+      "publishedAt": "2025-05-15T14:00:00Z",
+      "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
     },
     {
       "source": {
@@ -1176,13 +1202,13 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Zoey Sky",
-      "title": "28 Underrated prepping items that could save your life in an emergency",
-      "description": "In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make survival easier, safer and more efficient. Aluminum foil can be used for co…",
-      "url": "https://www.naturalnews.com/2025-05-14-28-underrated-prepping-items-save-life-emergency.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/safety-pins-sewing-thread-1.jpg",
+      "author": "Cassie B.",
+      "title": "Brushing with poison: Study finds toxic heavy metals in 90% of toothpaste brands, including those for children",
+      "description": "A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks. Independent testing by Lead Safe Mama found major brands like Crest, Colgate, and Tom’…",
+      "url": "https://www.naturalnews.com/2025-05-14-toxic-heavy-metals-toothpaste-brands-children.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Toothpaste-Toothbrush-Dental-Hygiene.jpg",
       "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make surviva… [+8649 chars]"
+      "content": "<ul><li>A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks.</li><li>Independen… [+5294 chars]"
     },
     {
       "source": {
@@ -1202,13 +1228,13 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Cassie B.",
-      "title": "Brushing with poison: Study finds toxic heavy metals in 90% of toothpaste brands, including those for children",
-      "description": "A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks. Independent testing by Lead Safe Mama found major brands like Crest, Colgate, and Tom’…",
-      "url": "https://www.naturalnews.com/2025-05-14-toxic-heavy-metals-toothpaste-brands-children.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Toothpaste-Toothbrush-Dental-Hygiene.jpg",
+      "author": "Zoey Sky",
+      "title": "28 Underrated prepping items that could save your life in an emergency",
+      "description": "In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make survival easier, safer and more efficient. Aluminum foil can be used for co…",
+      "url": "https://www.naturalnews.com/2025-05-14-28-underrated-prepping-items-save-life-emergency.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/safety-pins-sewing-thread-1.jpg",
       "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks.</li><li>Independen… [+5294 chars]"
+      "content": "<ul><li>In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make surviva… [+8649 chars]"
     },
     {
       "source": {
@@ -1222,32 +1248,6 @@
       "urlToImage": "https://static.the-independent.com/2025/05/13/13/50/igloo-cooler.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-05-14T04:32:16Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4142 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foodpoisonjournal.com"
-      },
-      "author": "Drew Falkenstein",
-      "title": "Aladdin Salmonella Outbreak hits 89 – what we all need to know about Salmonella",
-      "description": "ABC 10 San Diego report that at least 89 have been sickened with Salmonella after eating at the popular Aladdin Restaurant in Claremont. What the victims and the restaurant need to know about Salmonella. What you need to know About Salmonella during an Outbre…",
-      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/aladdin-salmonella-outbreak-hits-89-what-we-all-need-to-know-about-salmonella/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/090/633/549/aMBJ5DWdLYP0LxklYXRNjrp4Z/99a2cbe700761ad2c249dd000bb6909e11689288.png",
-      "publishedAt": "2025-05-14T03:20:49Z",
-      "content": "ABC 10 San Diego reports that at least 89 have been sickened with Salmonella after eating at the popular Aladdin Restaurant in Claremont.\r\nWhat the victims and the restaurant need to know about Salmo… [+9686 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "NatureMills US Inc. Issues Allergy Alert on Undeclared Wheat, Milk, and Sesame in Rice Mixes, Soups, Spice Mixes, Porridge Mix, Papads and Vadam Products",
-      "description": "NatureMills US Inc., based in Prosper, Texas, is recalling select products that were sold between December 1, 2023, and May 10, 2025, due to undeclared allergens: Wheat, Milk, and Sesame. People who have an allergy or severe sensitivity to these allergens run…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naturemills-us-inc-issues-allergy-alert-undeclared-wheat-milk-and-sesame-rice-mixes-soups-spice",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-05-13T23:50:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nMay 13, 2025\r\nFDA Publish Date:\r\nMay 13, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUndeclared Al… [+4795 chars]"
     }
   ],
   "totalResults": 96,
