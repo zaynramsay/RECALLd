@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-19T02:04:03.153Z",
+  "lastUpdated": "2025-05-19T06:35:44.273Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "US company warns about plastic contamination in ice creams and frozen yogurt. Check affected brands and states",
+      "description": "Wells Enterprises has voluntarily recalled approximately 18,000 units of Blue Bunny and Halo Top ice cream and frozen yogurt due to potential plastic contamination. The recall, classified as Class II by the FDA, affects 22 flavors in 3-gallon containers distr…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-company-warns-about-plastic-contamination-in-ice-creams-and-frozen-yogurt-check-affected-brands-and-states/articleshow/121245111.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121245257,width-1200,height-630,imgsize-22184,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-18T04:50:39Z",
+      "content": "Wells Enterprises has initiated a recall affecting approximately 18,000 units of ice cream and frozen yogurt containers, following concerns about potential plastic contamination in their products. Th… [+2137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "nbcnews.com",
+      "title": "Nearly 18,000 containers of ice cream recalled for potential plastic contamination",
+      "description": "Wells Enterprises, the company that produces the Blue Bunny and Halo Top ice cream brands, has recalled nearly 18,000 containers of ice cream and frozen yogurt due to batches possibly containing pieces of plastic.\nThe Iowa-based company issued the voluntary r…",
+      "url": "https://biztoc.com/x/92be5b76c0f4335f",
+      "urlToImage": "https://biztoc.com/cdn/92be5b76c0f4335f_s.webp",
+      "publishedAt": "2025-05-18T02:04:43Z",
+      "content": "Wells Enterprises, the company that produces the Blue Bunny and Halo Top ice cream brands, has recalled nearly 18,000 containers of ice cream and frozen yogurt due to batches possibly containing piec… [+151 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -151,7 +177,7 @@
       },
       "author": "Laura Harris",
       "title": "Peanut oil: A superfood source of healthy fats to support your heart",
-      "description": "Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and minerals, it contains vitamin E. Its high smoke point makes it ideal for���",
+      "description": "Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and minerals, it contains vitamin E. Its high smoke point makes it ideal for…",
       "url": "https://www.naturalnews.com/2025-05-17-peanut-oil-superfood-source-of-healthy-fats.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Peanut-Oil-2.jpg",
       "publishedAt": "2025-05-17T06:00:00Z",
@@ -402,7 +428,7 @@
       "url": "https://www.gov.uk/guidance/apply-for-an-individual-licence-to-kill-take-or-disturb-wild-birds-a08-or-a09",
       "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
       "publishedAt": "2025-05-16T13:34:06Z",
-      "content": "You must act under a licence from Natural England to control wild birds by killing, taking or disturbing them.\r\nIf the birds you want to control, or the required methods of control, are not covered b… [+15702 chars]"
+      "content": "You must act under a licence from Natural England to control wild birds by killing, taking or disturbing them.\r\nIf the birds you want to control, or the required methods of control, are not covered b�� [+15702 chars]"
     },
     {
       "source": {
@@ -656,19 +682,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
-      "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
-      "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324083",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
       "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
       "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
@@ -676,6 +689,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
       "publishedAt": "2025-05-15T14:00:00Z",
       "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
+      "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
+      "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324083",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
+      "publishedAt": "2025-05-15T14:00:00Z",
+      "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
     },
     {
       "source": {
@@ -714,7 +740,7 @@
       "url": "https://www.globenewswire.com/news-release/2025/05/15/3082285/0/en/Infection-Control-Surveillance-Solutions-Market-Set-to-Surpass-Valuation-of-US-3-090-18-Million-By-2033-Astute-Analytica.html",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
       "publishedAt": "2025-05-15T13:30:00Z",
-      "content": "Chicago, May 15, 2025 (GLOBE NEWSWIRE) -- The global infection control surveillance solutions market was valued at US$ 838.67 million in 2024 and is expected to reach US$ 3,090.18 million by 2033 at �� [+16263 chars]"
+      "content": "Chicago, May 15, 2025 (GLOBE NEWSWIRE) -- The global infection control surveillance solutions market was valued at US$ 838.67 million in 2024 and is expected to reach US$ 3,090.18 million by 2033 at … [+16263 chars]"
     },
     {
       "source": {
@@ -1209,32 +1235,6 @@
       "urlToImage": "https://static.the-independent.com/2025/05/13/13/50/igloo-cooler.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-05-14T10:30:05Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4142 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Microsoft Patch Tuesday security updates for May 2025 fixed 5 actively exploited zero-days",
-      "description": "Microsoft Patch Tuesday security updates for May 2025 addressed 75 security flaws across multiple products, including five zero-day flaws. Microsoft Patch Tuesday security updates addressed 75 security vulnerabilities in Windows and Windows Components, Office…",
-      "url": "https://securityaffairs.com/177839/hacking/microsoft-patch-tuesday-security-updates-for-may-2025-fixed-5-actively-exploited-zero-days.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/12/Microsoft-Patch-Tuesday-Exchange-server.png",
-      "publishedAt": "2025-05-14T10:08:32Z",
-      "content": "Microsoft Patch Tuesday security updates for May 2025 fixed 5 actively exploited zero-days\r\n | Fortinet fixed actively exploited FortiVoice zero-day\r\n | How Interlock Ransomware Affects the Defense I… [+164058 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Tomatoes Recalled in 14 States as FDA Sets Highest Risk Level",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nTwo separate recalls have been classified as Class I, the most serious warning level, by the Food and Drug Administration (FDA) because of potential salmonella contamination in raw tomato products distributed …",
-      "url": "https://biztoc.com/x/64c4bea99a9fb349",
-      "urlToImage": "https://biztoc.com/cdn/64c4bea99a9fb349_s.webp",
-      "publishedAt": "2025-05-14T09:36:45Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.Two separate recalls have been classified as Class I, the most serious warning level, by the Food and Drug Administration (FDA) because of potential s… [+137 chars]"
     }
   ],
   "totalResults": 95,
