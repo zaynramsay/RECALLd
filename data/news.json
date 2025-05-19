@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-05-19T06:35:44.273Z",
+  "lastUpdated": "2025-05-19T12:51:55.833Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "These are the 10 riskiest foods right now that can lead to health crisis",
+      "description": "The US experienced a 41% surge in food recalls, with deli meats, cucumbers, and raw dairy identified as high-risk. Outbreaks of Listeria, Salmonella, and E. coli were linked to various foods, causing illnesses, hospitalizations, and deaths. Proper food handli…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/these-are-the-10-riskiest-foods-right-now-that-can-lead-to-health-crisis/articleshow/121249738.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121249768,width-1200,height-630,imgsize-175898,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-18T12:33:23Z",
+      "content": "The United States experienced a significant surge in foodborne illnesses, with a 41 percent increase in recalls compared to the previous year, according to the US Public Interest Research Group (US P… [+4395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 45",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape PupkinStealer : A .NET-Based Info-Stealer  Interlock ransomware evolving under the radar  Technical Analysis of TransferLoade…",
+      "url": "https://securityaffairs.com/178024/malware/security-affairs-malware-newsletter-round-45-2.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-05-18T11:54:10Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 45\r\n | Security Affairs newsletter Round 524 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Experts found rogue devices, including hidden cellular radios, i… [+165459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 524 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. US Government …",
+      "url": "https://securityaffairs.com/178018/breaking-news/security-affairs-newsletter-round-524-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-05-18T11:36:45Z",
+      "content": "Security Affairs newsletter Round 524 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Experts found rogue devices, including hidden cellular radios, in Chinese-made power inverters used worldwide\r\n |… [+165410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SlashGear"
+      },
+      "author": "Mark Cowley",
+      "title": "How Silent Light Switches Work (And Why They're Illegal In The US)",
+      "description": "Silent light switches used mercury, which is a toxic chemical that can harm humans and the environment — which is why they were phased out in 1991.",
+      "url": "https://www.slashgear.com/1859581/silent-light-switch-why-illegal-america-explained/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/how-silent-light-switches-work-and-why-theyre-illegal-in-the-us/l-intro-1747215134.jpg",
+      "publishedAt": "2025-05-18T10:20:58Z",
+      "content": "Household light switches aren't the only types of switches that have previously used mercury. Older cars used mercury in both light switches and ABS sensors, and states such as California have specif… [+1212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Experts found rogue devices, including hidden cellular radios, in Chinese-made power inverters used worldwide",
+      "description": "Chinese “kill switches” found in Chinese-made power inverters in US solar farm equipment that could let Beijing remotely disable power grids in a conflict. Investigators found “kill switches” in Chinese-made power inverters in US solar farm equipment. These h…",
+      "url": "https://securityaffairs.com/178005/hacking/rogue-devices-in-chinese-made-power-inverters-used-worldwide.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-25-1024x576.png",
+      "publishedAt": "2025-05-18T08:52:26Z",
+      "content": "Experts found rogue devices, including hidden cellular radios, in Chinese-made power inverters used worldwide\r\n | US Government officials targeted with texts and AI-generated deepfake voice messages … [+165324 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -428,7 +493,7 @@
       "url": "https://www.gov.uk/guidance/apply-for-an-individual-licence-to-kill-take-or-disturb-wild-birds-a08-or-a09",
       "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
       "publishedAt": "2025-05-16T13:34:06Z",
-      "content": "You must act under a licence from Natural England to control wild birds by killing, taking or disturbing them.\r\nIf the birds you want to control, or the required methods of control, are not covered b�� [+15702 chars]"
+      "content": "You must act under a licence from Natural England to control wild birds by killing, taking or disturbing them.\r\nIf the birds you want to control, or the required methods of control, are not covered b… [+15702 chars]"
     },
     {
       "source": {
@@ -682,19 +747,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
-      "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
-      "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323576",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
       "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
       "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
@@ -702,6 +754,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
       "publishedAt": "2025-05-15T14:00:00Z",
       "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
+      "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
+      "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323576",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
+      "publishedAt": "2025-05-15T14:00:00Z",
+      "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
     },
     {
       "source": {
@@ -1157,86 +1222,8 @@
       "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/05/Texas-PFAS-Bill.jpg",
       "publishedAt": "2025-05-14T14:48:20Z",
       "content": "A bill aimed at limiting the spread of toxic chemicals on Texas farmland has hit a political wall missing a key deadline that decreases its likelihood of passage this session.\r\nHouse Bill 1674, intro… [+9833 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Fill Finish Manufacturing Business Report 2025: Global Market to Surpass $20 Billion by 2030 - Rising Demand for Biologics and Vaccines, Growing Trend Toward Robotic Automation and Closed-systems",
-      "description": "Understand the significant growth trajectory of the Consumables segment, which is expected to reach US$13.7 Billion by 2030 with a CAGR of a 9.9%. The Instruments segment is also set to grow at 6.3% CAGR over the analysis period. Gain insights into the U.S. m…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/14/3081331/28124/en/Fill-Finish-Manufacturing-Business-Report-2025-Global-Market-to-Surpass-20-Billion-by-2030-Rising-Demand-for-Biologics-and-Vaccines-Growing-Trend-Toward-Robotic-Automation-and-Clos.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-05-14T14:47:00Z",
-      "content": "Dublin, May 14, 2025 (GLOBE NEWSWIRE) -- The \"Fill Finish Manufacturing - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Fill Fin… [+7939 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Joseline Sofía Ocaña-Cabrera, Sarah Martin-Solano, Jorge Ron-Román, Jose Rivas, Mutien-Marie Garigliany, Claude Saegerman",
-      "title": "Pot-pollen DNA barcoding as a tool to determine the diversity of plant species visited by Ecuadorian stingless bees",
-      "description": "Identifying the main species of plants from where Ecuadorian stingless bees collect pollen is one of the key objectives of management and conservation improvement for these insects. This study aims to determine the botanical origin of pot-pollen using two bar…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323306",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323306.g005&size=inline",
-      "publishedAt": "2025-05-14T14:00:00Z",
-      "content": "Abstract\r\nIdentifying the main species of plants from where Ecuadorian stingless bees collect pollen is one of the key objectives of management and conservation improvement for these insects. This st… [+58228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Hamida Khanom, Chandan Nath, Philip P. Mshelbwala, Md Ridoan Pasha, Ricardo Soares Magalhaes, John I. Alawneh, Mohammad Mahmudul Hassan",
-      "title": "Epidemiology and molecular characterisation of multidrug-resistant Escherichia coli isolated from chicken meat",
-      "description": "Ensuring the safety of poultry products is critical for public health, particularly due to the rising concern of antimicrobial resistance (AMR) in foodborne pathogens. This study aimed to investigate the prevalence and antimicrobial resistance (AMR) patterns …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323909",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323909.g003&size=inline",
-      "publishedAt": "2025-05-14T14:00:00Z",
-      "content": "Abstract\r\nEnsuring the safety of poultry products is critical for public health, particularly due to the rising concern of antimicrobial resistance (AMR) in foodborne pathogens. This study aimed to i… [+39073 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insurance Journal"
-      },
-      "author": "admin",
-      "title": "New Jersey Announces $450 Million PFAS Settlement With 3M Days Before Start of Trial",
-      "description": "New Jersey officials announced a landmark settlement of up to $450 million with 3M Company to resolve the state’s lawsuits and address damage to the state’s water and other natural resources from dangerous chemicals. New Jersey Attorney General Matthew J. …",
-      "url": "https://www.insurancejournal.com/news/east/2025/05/14/823648.htm",
-      "urlToImage": "https://www.insurancejournal.com/app/uploads/2024/10/PFAS-scaled.jpg",
-      "publishedAt": "2025-05-14T13:42:07Z",
-      "content": "New Jersey officials announced a landmark settlement of up to $450 million with 3M Company to resolve the state’s lawsuits and address damage to the state’s water and other natural resources from dan… [+6337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "International Business Times"
-      },
-      "author": "Madelaine Panganiban",
-      "title": "Over 75,000 Cases of Eye Drops Recalled Nationwide Over Sterility Concerns",
-      "description": "Over 75,000 cases of eye drops have been recalled due to sterility concerns, urging consumers to stop using affected products immediately.",
-      "url": "https://www.ibtimes.com/over-75000-cases-eye-drops-recalled-nationwide-over-sterility-concerns-3773523",
-      "urlToImage": "https://d.ibtimes.com/en/full/4600776/over-75000-cases-eye-drops-recalled-nationwide-over-sterility.jpg",
-      "publishedAt": "2025-05-14T13:01:38Z",
-      "content": "A major recall has been issued for over 75,000 cases of eye drop solutions sold nationwide after a safety concern was raised about the sterility of the products.\r\nThe recall affects several ophthalmi… [+2698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Cooler recall expanded over amputation and crushing hazard",
-      "description": "130,000 coolers have been recalled after 78 reports of fingertip injuries",
-      "url": "https://www.the-independent.com/life-style/igloo-90-qt-cooler-recalled-amputation-costco-target-b2750743.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/13/13/50/igloo-cooler.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-14T10:30:05Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4142 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 3
 }
