@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-19T12:51:55.833Z",
+  "lastUpdated": "2025-05-19T18:34:07.123Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "nytimes.com",
+      "title": "Publix Recalls Baby Food Pouches Over Lead Contamination Concerns",
+      "description": "Publix voluntarily recalled GreenWise Pear, Kiwi, Spinach & Pea Baby Food pouches after a routine sampling raised concerns over possible lead contamination.",
+      "url": "https://biztoc.com/x/890a25795633faad",
+      "urlToImage": "https://biztoc.com/cdn/890a25795633faad_s.webp",
+      "publishedAt": "2025-05-18T18:23:13Z",
+      "content": "Publix voluntarily recalled GreenWise Pear, Kiwi, Spinach &amp; Pea Baby Food pouches after a routine sampling raised concerns over possible lead contamination.\r\nThis story appeared on nytimes.com, 2… [+18 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Stefanie Waldek",
+      "title": "Not-so-clean rooms: Scientists discover 26 new microbe species in NASA spacecraft facility",
+      "description": "Scientists have discovered 26 previously unknown bacterial species in the clean rooms that were used to prep NASA's Phoenix Mars lander for its 2007 launch.",
+      "url": "https://www.space.com/space-exploration/search-for-life/not-so-clean-rooms-scientists-discover-26-new-microbe-species-in-nasa-spacecraft-facility",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gxAVf3yqLQzf9pRdr6kRSb.jpg",
+      "publishedAt": "2025-05-18T13:00:00Z",
+      "content": "Life, as they say, finds a way — even in the most sterile places on Earth.\r\nScientists from NASA's Jet Propulsion Laboratory\r\n (JPL) in Southern California, along with researchers in India and Saudi … [+3102 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1196,32 +1222,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-jlgziiq7p-1747238086463.jpg?quality=75&strip=all&1747223790&w=1024",
       "publishedAt": "2025-05-14T15:57:08Z",
       "content": "Health and Human Services Secretary Robert F. Kennedy Jr. is waging war on autism and experts say its both unscientific and stigmatizing.\r\nThe newly appointed HHS Secretary said autism “destroys” chi… [+9603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Dry spell leaves Scottish rivers on low level alert",
-      "description": "The UK is heading towards its driest spring for more than 130 years, with parts of Scotland facing water scarcity.",
-      "url": "https://www.bbc.com/news/articles/czx0d91de2wo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2836/live/b4df9340-30cf-11f0-b5da-71555b1343d7.jpg",
-      "publishedAt": "2025-05-14T15:24:03Z",
-      "content": "James Delaney\r\nRiver levels in 23 areas across Scotland have fallen during the recent spell of dry weather\r\nMore than half of Scotland's rivers have been placed under a low water alert following a lo… [+3793 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insurance Journal"
-      },
-      "author": "Admin",
-      "title": "Texas Bill That Limits Spread of ‘Forever Chemicals’ Misses Key Deadline",
-      "description": "A bill aimed at limiting the spread of toxic chemicals on Texas farmland has hit a political wall — missing a key deadline that decreases its likelihood of passage this session. House Bill 1674, introduced by Rep. Helen Kerwin, R-Cleburne, …",
-      "url": "https://www.insurancejournal.com/news/southcentral/2025/05/14/823681.htm",
-      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/05/Texas-PFAS-Bill.jpg",
-      "publishedAt": "2025-05-14T14:48:20Z",
-      "content": "A bill aimed at limiting the spread of toxic chemicals on Texas farmland has hit a political wall missing a key deadline that decreases its likelihood of passage this session.\r\nHouse Bill 1674, intro… [+9833 chars]"
     }
   ],
   "totalResults": 94,
