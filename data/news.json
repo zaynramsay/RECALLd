@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-05-18T18:30:53.774Z",
+  "lastUpdated": "2025-05-19T02:04:03.153Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Issam AHMED",
+      "title": "The US Towns That Took On 'Forever Chemical' Giants -- And Won",
+      "description": "No corner of Earth is untouched.",
+      "url": "https://www.ibtimes.com/us-towns-that-took-forever-chemical-giants-won-3773860",
+      "urlToImage": "https://d.ibtimes.com/en/full/4601452/investigative-journalist-mariah-blake-recounts-how-people-parkersburg-west-virginia-hoosick.jpg",
+      "publishedAt": "2025-05-18T01:51:21Z",
+      "content": "No corner of Earth is untouched. From Tibet to Antarctica, so-called \"forever chemicals\" have seeped into the blood of nearly every living creature.\r\nTainting food, water and wildlife, these toxic su… [+4365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "Issam AHMED",
+      "title": "The US Towns That Took On 'Forever Chemical' Giants -- And Won",
+      "description": "No corner of Earth is untouched.",
+      "url": "https://www.ibtimes.com.au/us-towns-that-took-forever-chemical-giants-won-1858913",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1882028/investigative-journalist-mariah-blake-recounts-how-people-parkersburg-west-virginia-hoosick.jpg",
+      "publishedAt": "2025-05-18T01:51:11Z",
+      "content": "No corner of Earth is untouched. From Tibet to Antarctica, so-called \"forever chemicals\" have seeped into the blood of nearly every living creature.\r\nTainting food, water and wildlife, these toxic su… [+4365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "AFP",
+      "title": "The US towns that took on ‘forever chemical’ giants — and won",
+      "description": "No corner of Earth is untouched. From Tibet to Antarctica, so-called “forever chemicals” have seeped into the blood of nearly every living creature. Tainting food, water and wildlife, these toxic substances have been linked to ailments ranging from birth defe…",
+      "url": "https://www.digitaljournal.com/world/the-us-towns-that-took-on-forever-chemical-giants-and-won/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/05/42921ec8228ddff42dcd7763c1933483ac85b943.jpg",
+      "publishedAt": "2025-05-18T01:47:34Z",
+      "content": "Mariah Blake, author of \"They Poisoned the World: Life and Death in the Age of Forever Chemicals\" speaks at Vroman's Bookstore in Pasadena, California - Copyright AFP Robyn Beck\r\nNo corner of Earth i… [+4589 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Viola Flowers",
+      "title": "Nearly 18,000 containers of ice cream recalled for potential plastic contamination",
+      "description": "Wells Enterprises, the company that produces Blue Bunny and Halo Top ice cream, has recalled nearly 18,000 containers of ice cream and frozen yogurt due to batches possibly containing pieces of plastic.",
+      "url": "https://www.nbcnews.com/news/us-news/ice-cream-recalled-plastic-rcna207471",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250517-ice-cream-ch-1613-0dad1e.jpg",
+      "publishedAt": "2025-05-17T21:39:27Z",
+      "content": "Wells Enterprises, the company that produces Blue Bunny and Halo Top ice cream, has recalled nearly 18,000 containers of ice cream and frozen yogurt due to batches possibly containing pieces of plast… [+813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Tom Murray",
+      "title": "US grocery chain recalls baby food pouches due to possible lead contamination",
+      "description": "There is no safe level of exposure to lead for children, according to the U.S. Centers for Disease Control and Prevention",
+      "url": "https://www.the-independent.com/life-style/publix-baby-food-pouch-recall-lead-b2753032.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/17/19/56/Publix-baby-food-recall.jpeg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-05-17T20:03:03Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3081 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -86,7 +151,7 @@
       },
       "author": "Laura Harris",
       "title": "Peanut oil: A superfood source of healthy fats to support your heart",
-      "description": "Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and minerals, it contains vitamin E. Its high smoke point makes it ideal for…",
+      "description": "Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and minerals, it contains vitamin E. Its high smoke point makes it ideal for���",
       "url": "https://www.naturalnews.com/2025-05-17-peanut-oil-superfood-source-of-healthy-fats.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Peanut-Oil-2.jpg",
       "publishedAt": "2025-05-17T06:00:00Z",
@@ -591,19 +656,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
-      "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
-      "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323576",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
       "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
       "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
@@ -611,6 +663,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
       "publishedAt": "2025-05-15T14:00:00Z",
       "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
+      "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
+      "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323576",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
+      "publishedAt": "2025-05-15T14:00:00Z",
+      "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
     },
     {
       "source": {
@@ -649,7 +714,7 @@
       "url": "https://www.globenewswire.com/news-release/2025/05/15/3082285/0/en/Infection-Control-Surveillance-Solutions-Market-Set-to-Surpass-Valuation-of-US-3-090-18-Million-By-2033-Astute-Analytica.html",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
       "publishedAt": "2025-05-15T13:30:00Z",
-      "content": "Chicago, May 15, 2025 (GLOBE NEWSWIRE) -- The global infection control surveillance solutions market was valued at US$ 838.67 million in 2024 and is expected to reach US$ 3,090.18 million by 2033 at … [+16263 chars]"
+      "content": "Chicago, May 15, 2025 (GLOBE NEWSWIRE) -- The global infection control surveillance solutions market was valued at US$ 838.67 million in 2024 and is expected to reach US$ 3,090.18 million by 2033 at �� [+16263 chars]"
     },
     {
       "source": {
@@ -1170,86 +1235,8 @@
       "urlToImage": "https://biztoc.com/cdn/64c4bea99a9fb349_s.webp",
       "publishedAt": "2025-05-14T09:36:45Z",
       "content": "Voice is AI-generated. Inconsistencies may occur.Two separate recalls have been classified as Class I, the most serious warning level, by the Food and Drug Administration (FDA) because of potential s… [+137 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Tomatoes Recalled in 14 States as FDA Sets Highest Risk Level",
-      "description": "Healthy persons infected with salmonella often experience fever, diarrhea, nausea, vomiting and abdominal pain.",
-      "url": "https://www.newsweek.com/tomatoes-recalled-14-states-fda-sets-highest-risk-level-2071932",
-      "urlToImage": "https://d.newsweek.com/en/full/2644071/tomato.jpg",
-      "publishedAt": "2025-05-14T09:33:58Z",
-      "content": "Two separate recalls have been classified as Class I, the most serious warning level, by the Food and Drug Administration (FDA) because of potential salmonella contamination in raw tomato products di… [+3746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Fortinet fixed actively exploited FortiVoice zero-day",
-      "description": "Fortinet fixed a critical remote code execution zero-day vulnerability actively exploited in attacks targeting FortiVoice enterprise phone systems. Fortinet released security updates to address a critical remote code execution zero-day, tracked as CVE-2025-32…",
-      "url": "https://securityaffairs.com/177800/security/fortinet-fixed-actively-exploited-fortivoice-zero-day.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg",
-      "publishedAt": "2025-05-14T08:00:36Z",
-      "content": "Fortinet fixed actively exploited FortiVoice zero-day\r\n | How Interlock Ransomware Affects the Defense Industrial Base Supply Chain\r\n | Marks and Spencer confirms data breach after April cyber attack… [+163963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Cassie B.",
-      "title": "Brushing with poison: Study finds toxic heavy metals in 90% of toothpaste brands, including those for children",
-      "description": "A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks. Independent testing by Lead Safe Mama found major brands like Crest, Colgate, and Tom’…",
-      "url": "https://www.naturalnews.com/2025-05-14-toxic-heavy-metals-toothpaste-brands-children.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Toothpaste-Toothbrush-Dental-Hygiene.jpg",
-      "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>A new investigation reveals 90% of popular toothpaste brands contain dangerous levels of heavy metals like lead, arsenic, mercury, and cadmium, posing serious health risks.</li><li>Independen… [+5294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Nationwide listeria outbreak linked to recalled sandwiches sparks public health alert",
-      "description": "A Listeria outbreak tied to contaminated ready-to-eat foods from California-based Fresh & Ready Foods has triggered a recall of 86 products, including sandwiches, snack boxes and pasta dishes sold under multiple brand names. The outbreak has hospitalized 10 p…",
-      "url": "https://www.naturalnews.com/2025-05-14-nationwide-listeria-outbreak-sandwiches-sparks-health-alert.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Sandwich-Food-Hungry.jpg",
-      "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>A Listeria outbreak tied to contaminated ready-to-eat foods from California-based Fresh &amp; Ready Foods has triggered a recall of 86 products, including sandwiches, snack boxes and pasta di… [+4886 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Zoey Sky",
-      "title": "28 Underrated prepping items that could save your life in an emergency",
-      "description": "In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make survival easier, safer and more efficient. Aluminum foil can be used for co…",
-      "url": "https://www.naturalnews.com/2025-05-14-28-underrated-prepping-items-save-life-emergency.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/safety-pins-sewing-thread-1.jpg",
-      "publishedAt": "2025-05-14T06:00:00Z",
-      "content": "<ul><li>In a crisis, having the right supplies can mean the difference between struggling and thriving. While most preppers focus on basics like food and water, some underrated items can make surviva… [+8649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Cooler recall expanded over amputation and crushing hazard",
-      "description": "130,000 coolers have been recalled after 78 reports of fingertip injuries",
-      "url": "https://www.the-independent.com/life-style/igloo-cooler-recalled-amputation-costco-target-b2750557.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/13/13/50/igloo-cooler.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-14T04:32:16Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4142 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 95,
   "filteredCount": 3
 }
