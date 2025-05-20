@@ -1,6 +1,240 @@
 {
-  "lastUpdated": "2025-05-20T12:51:51.679Z",
+  "lastUpdated": "2025-05-20T18:34:34.407Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Mozilla fixed zero-days recently demonstrated at Pwn2Own Berlin 2025",
+      "description": "Mozilla addressed two critical Firefox vulnerabilities that could be potentially exploited to access sensitive data or achieve code execution. Mozilla released security updates to fix two critical vulnerabilities in the Firefox browser that could be potential…",
+      "url": "https://securityaffairs.com/178064/security/mozilla-fixed-zero-days-demonstrated-at-pwn2own-berlin-2025.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/08/mozilla-firefox.png",
+      "publishedAt": "2025-05-19T18:31:19Z",
+      "content": "Mozilla fixed zero-days recently demonstrated at Pwn2Own Berlin 2025\r\n | Japan passed a law allowing preemptive offensive cyber actions\r\n | James Comey is under investigation by Secret Service for a … [+165752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PopCrush"
+      },
+      "author": "Ryan Reichard",
+      "title": "Tattoo Ink Contaminated With Scary Bacteria Recalled",
+      "description": "The FDA has recalled two kinds of tattoo ink that may be contaminated with a bacteria that can cause adverse health issues. Here's what we know about the recall.",
+      "url": "https://popcrush.com/tattoo-ink-bacteria-recall/",
+      "urlToImage": "https://townsquare.media/site/252/files/2025/05/attachment-Tattoo-ink-recall.jpg?w=1200&q=75&format=natural",
+      "publishedAt": "2025-05-19T18:00:58Z",
+      "content": "Put down that needle! A certain brand of tattoo ink has been recalled due to potential bacterial contamination.\r\nOn May 7, the Food and Drug Administration (FDA) issued a recall warning consumers as … [+1490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "26 Unidentified Bacterial Species Detected in NASA Cleanroom",
+      "description": "Seven of the new strains were cultured during the assembly of the Phoenix mission that landed on the surface of Mars.",
+      "url": "https://gizmodo.com/26-unidentified-bacterial-species-detected-in-nasa-cleanroom-2000603987",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/05/james-webb-clean-room.jpg",
+      "publishedAt": "2025-05-19T16:35:50Z",
+      "content": "In space travel, it can often be the tiniest things that ruin a big mission. That’s why attention to detail is key, particularly inside a cleanroom where spacecraft are put together and prepped for t… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Truthout"
+      },
+      "author": "C.J. Polychroniou",
+      "title": "A Fraction of What We Pay in Fossil Fuel Subsidies Could Fund a Just Transition",
+      "description": "Phasing out fossil fuel subsidies must be tied to new subsidies that raise living standards for working and poor people.",
+      "url": "https://truthout.org/articles/a-fraction-of-what-we-pay-in-fossil-fuel-subsidies-could-fund-a-just-transition/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/05/GettyImages-1229300931-scaled.jpg",
+      "publishedAt": "2025-05-19T16:06:33Z",
+      "content": "The bad news on climate change is plentiful. For one, there is no sign of a decline in global carbon dioxide emissions and the Earth is getting hotter faster than ever before, despite constant pledge… [+17582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ie.edu"
+      },
+      "author": "Jesse",
+      "title": "Nursing Home Food Menus: Nourishing Lives, One Meal at a Time",
+      "description": "The Foundation: Nutritional Needs of an Aging Population Age-Related Changes As people age, their bodies undergo several physiological changes that […]\nThe post Nursing Home Food Menus: Nourishing Lives, One Meal at a Time appeared first on Things You Ought t…",
+      "url": "https://entrepreneurship.blogs.ie.edu/nursing-home-food-menus-nourishing-lives-one-meal-at-a-time/",
+      "urlToImage": null,
+      "publishedAt": "2025-05-19T15:50:39Z",
+      "content": "The Foundation: Nutritional Needs of an Aging Population\r\nAge-Related Changes\r\nAs people age, their bodies undergo several physiological changes that directly influence their nutritional requirements… [+9099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ariel Zilber",
+      "title": "Nearly 18K containers of ice cream recalled over plastic contamination concern",
+      "description": "The recall, which started in late April and was made official by the FDA in mid-May, affects 22 different kinds of 3-gallon tubs.",
+      "url": "https://nypost.com/2025/05/19/business/nearly-18k-containers-of-ice-cream-recalled-over-plastic-contamination-concern/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/104875783.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-19T15:02:43Z",
+      "content": "If youve recently stocked up on bulk ice cream, you might want to check your freezer.\r\nWells Enterprises is recalling more than 18,000 tubs of its ice cream after discovering some batches may contain… [+2406 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "SYLVIE CORBET Associated Press",
+      "title": "Inquiry says French government covered up Nestle's illegal treatment of bottled water",
+      "description": "A French Senate inquiry commission says the government of President Emmanuel Macron covered up decisions over the illegal treatment of mineral water by food industry giant Nestle",
+      "url": "https://abcnews.go.com/International/wireStory/inquiry-frances-government-covered-nestles-illegal-treatment-bottled-121952118",
+      "urlToImage": "https://i.abcnewsfe.com/a/a27c4b22-be69-40b6-9d79-d7c0bca0852b/wirestory_ec05af578d705a6f06d5df99ae1e85c8_16x9.jpg?w=1600",
+      "publishedAt": "2025-05-19T14:54:14Z",
+      "content": "PARIS -- The government of French President Emmanuel Macron covered up decisions over the illegal treatment of mineral water by food industry giant Nestle, including the world-famous Perrier brand, a… [+2653 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "The Associated Press",
+      "title": "An inquiry says France’s government covered up Nestle’s illegal treatment of bottled water",
+      "description": "PARIS (AP) — The government of French President Emmanuel Macron covered up decisions over the illegal treatment of mineral water by food industry giant Nestle, including the world-famous Perrier brand, a Senate inquiry commission said Monday. Its report focus…",
+      "url": "https://financialpost.com/pmn/an-inquiry-says-frances-government-covered-up-nestles-illegal-treatment-of-bottled-water",
+      "urlToImage": null,
+      "publishedAt": "2025-05-19T14:42:21Z",
+      "content": "PARIS (AP) The government of French President Emmanuel Macron covered up decisions over the illegal treatment of mineral water by food industry giant Nestle, including the world-famous Perrier brand,… [+4936 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ambreen Latif, Hazrat Ali, Muhammad Bilal Khan Niazi, Zaib Jahan, Noor Hassan, Iqra Latif Ghuman, Abdul Tawab, Anam Saqib, Muhammad Hamid Rashid",
+      "title": "Process evaluation for enhanced production of aflatoxin-free citric acid by food-grade Aspergillus niger",
+      "description": "Aspergillus niger is considered as the main horsepower for the production of 90% of citric acid worldwide. Citric acid is produced under submerged fermentation and the process yield depends on A. niger and the process parameters. The current research work was…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321972",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321972.g012&size=inline",
+      "publishedAt": "2025-05-19T14:00:00Z",
+      "content": "Abstract\r\nAspergillus niger is considered as the main horsepower for the production of 90% of citric acid worldwide. Citric acid is produced under submerged fermentation and the process yield depends… [+32814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Margaret V. Becker, Anastasia Accoti, Angel Elma I. Abu, Julia Vulcan, Massamba Sylla, Kamil Khanipov, Laura B. Dickson",
+      "title": "Reduced microbe abundance in an urban larval development container increases Aedes aegypti susceptibility to Zika virus",
+      "description": "Author summary Aedes aegypti mosquitoes, which spread viruses like dengue and Zika, inhabit different environments within Africa. Ancestral forms of Ae. aegypti occupy forested habitats, while domesticated forms of Ae. aegypti have adapted to thrive in urban …",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013154",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013154.g006&size=inline",
+      "publishedAt": "2025-05-19T14:00:00Z",
+      "content": "Citation: Becker MV, Accoti A, Abu AEI, Vulcan J, Sylla M, Khanipov K, et al. (2025) Reduced microbe abundance in an urban larval development container increases Aedes aegypti susceptibility to Zika … [+78504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Naeem Ahammed Ibrahim Fahim, Md. Liton Rana, Md Abdullah Evna Hasan, Samia Salam, Rony Ibne Masud, Nazmul Huda, Sukumar Saha, Md. Tanvir Rahman",
+      "title": "Biofilms and antibiotic resistance profile of Enterococcus faecalis in selected dairy cattle farm environments in Bangladesh",
+      "description": "Enterococci are opportunistic zoonotic pathogens. Dairy cattle and farm environments are considered important sources of Enterococcus spp. Here, we detected biofilm-forming Enterococcus faecalis circulating in dairy cattle and farm environments, followed by t…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323667",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323667.g003&size=inline",
+      "publishedAt": "2025-05-19T14:00:00Z",
+      "content": "Abstract\r\nEnterococci are opportunistic zoonotic pathogens. Dairy cattle and farm environments are considered important sources of Enterococcus spp. Here, we detected biofilm-forming Enterococcus fae… [+47384 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Soo Kim",
+      "title": "Woman Tells Cabin Crew About Peanut Allergy—No One Prepared for Response",
+      "description": "Social media users were divided over the viral clip, with some saying the woman's request was \"unreasonable,\" while others were sympathetic about her allergy.",
+      "url": "https://www.newsweek.com/plane-passenger-peanut-allergy-cabin-crew-response-tiktok-viral-2074075",
+      "urlToImage": "https://d.newsweek.com/en/full/2647183/flight-attendant-speaking-passengers-plane.jpg",
+      "publishedAt": "2025-05-19T13:56:22Z",
+      "content": "A video about a plane cabin crew member's attentive response to a passenger with a peanut allergy has gone viral on TikTok.\r\nThe clip was posted by the passenger, @behindtheallergy, and has amassed o… [+7202 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Developing countries unfairly blamed? Vancouver, one of the world's most beautiful cities known for its natural beauty, has a human waste problem on its sidewalks",
+      "description": "Vancouver’s human waste crisis is getting so bad that businesses are hiring “poop fairies” to clean sidewalks. The city’s feces removal program isn’t fast enough, leaving streets dirty and businesses struggling. From the Downtown Eastside to Gastown, both hum…",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/developing-countries-unfairly-blamed-vancouver-one-of-the-worlds-most-beautiful-cities-known-for-its-natural-beauty-has-a-human-waste-problem-on-its-sidewalks/articleshow/121270467.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121270721,width-1200,height-630,imgsize-219742,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-19T13:46:14Z",
+      "content": "Vancouvers human waste crisis worsens as poop fairies clean up the streets- Vancouvers human waste crisis is no longer just a Downtown Eastside problem its spread across city sidewalks, forcing busin… [+5438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ie.edu"
+      },
+      "author": "Jesse",
+      "title": "Nut-Free Chocolate Advent Calendars: Delightful Treats for Every December Day",
+      "description": "Understanding the Importance of Safety The Severity of Nut Allergies The twinkling lights, the crisp air, the anticipation of Christmas […]\nThe post Nut-Free Chocolate Advent Calendars: Delightful Treats for Every December Day appeared first on Things You Oug…",
+      "url": "https://entrepreneurship.blogs.ie.edu/nut-free-chocolate-advent-calendars-delightful-treats-for-every-december-day/",
+      "urlToImage": null,
+      "publishedAt": "2025-05-19T13:35:24Z",
+      "content": "Understanding the Importance of Safety\r\nThe Severity of Nut Allergies\r\nThe twinkling lights, the crisp air, the anticipation of Christmas the holiday season holds a special magic for people of all ag… [+12188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "The Insight Partners",
+      "title": "Digital PCR and Real-Time PCR Market Size Worth USD 17.54 billion by 2031 at 9.1% CAGR | The Insight Partners",
+      "description": "The report carries an in-depth analysis of market trends, key players, and future opportunities. The digital PCR and real-time PCR market study focuses on an array of products and technologies that are expected to fuel the demand in the coming years. The repo…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/19/3084104/0/en/Digital-PCR-and-Real-Time-PCR-Market-Size-Worth-USD-17-54-billion-by-2031-at-9-1-CAGR-The-Insight-Partners.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/efd8c9da-ac10-487a-a083-ec8f33cad35e",
+      "publishedAt": "2025-05-19T13:33:00Z",
+      "content": "US &amp; Canada, May 19, 2025 (GLOBE NEWSWIRE) -- According to a new comprehensive report from The Insight Partners, the global digital PCR and real-time PCR market is witnessing substantial growth w… [+9928 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Baked Bean Recall Update as FDA Sets Highest Risk Level",
+      "description": "Nearly 4,500 cases were pulled from shelves in 23 states after it was found that the affected cans had been mislabeled.",
+      "url": "https://www.newsweek.com/baked-bean-recall-update-fda-highest-risk-level-2073963",
+      "urlToImage": "https://d.newsweek.com/en/full/2647023/baked-beans-recall.jpg",
+      "publishedAt": "2025-05-19T13:24:12Z",
+      "content": "The Food and Drug Administration (FDA) has issued a Class I recall—the highest risk level—for Yellowstone Brown Sugar Molasses Baked Beans.\r\nVietti Food Group of Nashville recalled 4,515 cases from s… [+3355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Japan passed a law allowing preemptive offensive cyber actions",
+      "description": "Japan passed a law allowing preemptive offensive cyber actions, shifting from its pacifist stance to bolster defenses like major Western powers. Japan has enacted the Active Cyberdefense Law, allowing preemptive offensive cyber operations to counter threats b…",
+      "url": "https://securityaffairs.com/178056/laws-and-regulations/japan-passed-a-law-allowing-preemptive-offensive-cyber-actions.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/10/japan.jpg",
+      "publishedAt": "2025-05-19T13:20:05Z",
+      "content": "Japan passed a law allowing preemptive offensive cyber actions\r\n | James Comey is under investigation by Secret Service for a seashell photo showing 8647\r\n | Pwn2Own Berlin 2025: total prize money re… [+165679 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Survey finds hazardous chemicals in garments, surface water of five rivers near textile hubs",
+      "description": "A recent report by Toxics Link reveals the presence of hormone-disrupting chemicals in Indian textiles and river water. The study found nonylphenol ethoxylates (NPEs) in garments, especially innerwear and children's clothing, sourced from major textile hubs. …",
+      "url": "https://economictimes.indiatimes.com/news/india/survey-finds-hazardous-chemicals-in-garments-surface-water-of-five-rivers-near-textile-hubs/articleshow/121270657.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121270663,width-1200,height-630,imgsize-382878,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-19T12:54:16Z",
+      "content": "A new report by an NGO has revealed the presence of hazardous hormone-disrupting chemicals in garments sold across India, including innerwear, as well as on surface water of five rivers near textile … [+2527 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -487,19 +721,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Peanut oil: A superfood source of healthy fats to support your heart",
-      "description": "Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and minerals, it contains vitamin E. Its high smoke point makes it ideal for…",
-      "url": "https://www.naturalnews.com/2025-05-17-peanut-oil-superfood-source-of-healthy-fats.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Peanut-Oil-2.jpg",
-      "publishedAt": "2025-05-17T06:00:00Z",
-      "content": "<ul><li>Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and mine… [+7063 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Ramon Tomey",
       "title": "Consumer Reports finds high levels of LEAD in cassava products",
       "description": "An investigation by Consumer Reports found dangerously high lead levels in cassava-based foods, with some products exceeding safety thresholds by over 2,000 percent. Chronic exposure to lead in cassava poses serious risks, especially for children (linked to n…",
@@ -507,6 +728,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Cassava.jpg",
       "publishedAt": "2025-05-17T06:00:00Z",
       "content": "<ul><li>An investigation by Consumer Reports found dangerously high lead levels in cassava-based foods, with some products exceeding safety thresholds by over 2,000 percent.</li><li>Chronic exposure … [+4838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Peanut oil: A superfood source of healthy fats to support your heart",
+      "description": "Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and minerals, it contains vitamin E. Its high smoke point makes it ideal for…",
+      "url": "https://www.naturalnews.com/2025-05-17-peanut-oil-superfood-source-of-healthy-fats.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Peanut-Oil-2.jpg",
+      "publishedAt": "2025-05-17T06:00:00Z",
+      "content": "<ul><li>Peanut oil is low in saturated fats and high in monounsaturated and polyunsaturated fats, providing 120 calories per tablespoon. Although not an abundant source of essential vitamins and mine… [+7063 chars]"
     },
     {
       "source": {
@@ -1014,229 +1248,8 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
       "publishedAt": "2025-05-15T14:00:00Z",
       "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Luis Lozano-Aguirre, Josefina Duran-Bedolla, Juan Téllez-Sosa, Cindy Fabiola Hernández-Pérez, Ismael Hernández-Lucas, Humberto Barrios-Camacho",
-      "title": "Genomic insights into the serovar prevalence, antimicrobial resistance gene, and genetic diversity of Salmonella enterica in Mexico",
-      "description": "The research aims to provide insights into the sources of contamination, prevalence of common serovars, determination of sequence types, prediction of genes associated with antimicrobial resistance, and phylogenetic analysis to evaluate genetic diversity and …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323872",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323872.g005&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "Abstract\r\nThe research aims to provide insights into the sources of contamination, prevalence of common serovars, determination of sequence types, prediction of genes associated with antimicrobial re… [+44939 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Nanna Lond Skov Frisk, Malene Møller Jørgensen, Rikke Bæk, Amila Iriskic Atic, Thorsten Rejkjær Brodersen, Sisse Rye Ostrowski, Margit Hørup Larsen, Dorthe Posselt, Estrid Høgdall, Claus Høgdall, Ole Birger Vesterager Pedersen, Louise Torp Dalgaard",
-      "title": "Characterization of small extracellular vesicles from ovarian cancer patients and pre-diagnostic patient samples: Evidence from the Danish blood donor study",
-      "description": "Aim Ovarian cancer (OC) is the leading cause of gynecological cancer deaths. Current biomarkers of OC are not specific or sensitive enough. Extracellular vesicles (EVs), EV surface proteins and their cargo microRNA (miRNA) show potential as biomarkers. This s…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323529",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323529.g006&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "Abstract\r\nAim\r\nOvarian cancer (OC) is the leading cause of gynecological cancer deaths. Current biomarkers of OC are not specific or sensitive enough. Extracellular vesicles (EVs), EV surface protein… [+51039 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Infection Control Surveillance Solutions Market Set to Surpass Valuation of US$ 3,090.18 Million By 2033 | Astute Analytica",
-      "description": "The infection control surveillance solutions market thrives on tightening regulatory mandates and rising HAIs, with AI, IoT, and UV-C robotics driving precision. Demand surges across healthcare, food, and transportation amid labor shortages and climate-driven…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/15/3082285/0/en/Infection-Control-Surveillance-Solutions-Market-Set-to-Surpass-Valuation-of-US-3-090-18-Million-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-05-15T13:30:00Z",
-      "content": "Chicago, May 15, 2025 (GLOBE NEWSWIRE) -- The global infection control surveillance solutions market was valued at US$ 838.67 million in 2024 and is expected to reach US$ 3,090.18 million by 2033 at … [+16263 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Ice Cream Recalled Nationwide: Full List of Products Affected",
-      "description": "The recall involves potential contamination with hard plastic, which poses a risk of dental injury or choking if consumed.",
-      "url": "https://www.newsweek.com/ice-cream-recalled-nationwide-products-affected-2072579",
-      "urlToImage": "https://d.newsweek.com/en/full/2645042/ice-cream.jpg",
-      "publishedAt": "2025-05-15T13:00:56Z",
-      "content": "Wells Enterprises, also known as Wells Dairy, has issued a voluntary recall of 22 varieties of ice cream and frozen yogurt products distributed to more than 100 facilities across the U.S., citing the… [+3754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Hive"
-      },
-      "author": "Isabelle Docto",
-      "title": "Loblaws alerts customers that its grocery prices are about to spike soon",
-      "description": "Loblaws is warning shoppers to brace their wallets for more tariff-impacted products to hit shelves in Canada in the coming weeks.The grocery giant's CEO, Per Bank, shared a post on LinkedIn on Tuesday forecasting what store aisles will look like in the next …",
-      "url": "https://dailyhive.com/canada/loblaw-tariff-impacted-products-canada",
-      "urlToImage": "https://display.blogto.com/articles/20250515-loblaws-canada.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "publishedAt": "2025-05-15T12:25:54Z",
-      "content": "Loblaws is warning shoppers to brace their wallets for more tariff-impacted products to hit shelves in Canada in the coming weeks.\r\nThe grocery giant's CEO, Per Bank, shared a post on LinkedIn on Tue… [+2895 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Dot"
-      },
-      "author": "Laiken Neumann",
-      "title": "“I don’t pay for my chicken anymore”: Woman says she reports Perdue when her chicken doesn’t match the weight on the label. She gets a refund every time",
-      "description": "This woman claims she has a hack to get her chicken free nearly every time. It all has to do with the weight. \n\n\n\"I don't pay for my chicken anymore,\" she says in a viral TikTok. \"And I'm gonna tell you how you can get yours for free, too.\"\n\n\nAmanda (@amandah…",
-      "url": "https://www.dailydot.com/news/chicken-weight-perdue-farms-refund/",
-      "urlToImage": "https://uploads.dailydot.com/2025/05/chicken_dont_pay_tik_tok.png?auto=compress&fit=scale&fm=png&w=2000&h=1000",
-      "publishedAt": "2025-05-15T12:00:00Z",
-      "content": "This woman claims she has a hack to get her chicken free nearly every time. It all has to do with the weight. \r\nI dont pay for my chicken anymore, she says in a viral TikTok. And Im gonna tell you ho… [+3312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Alyssa Ochs",
-      "title": "Scientists discover unexpected factor that could increase cancer risk in children: 'Cancer could potentially be influenced by events in early life'",
-      "description": "\"Sustained investment in this type of research will be critical in the global effort to prevent and treat cancer before it’s too late.\"",
-      "url": "https://www.yahoo.com/news/scientists-discover-unexpected-factor-could-094500823.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q74bJBmnwYKA01xLrMZKNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/e739be568d42738177deb15f25a3a0ff",
-      "publishedAt": "2025-05-15T09:45:00Z",
-      "content": "Researchers have discovered that childhood exposure to a bacterial toxin may lead to early-onset colorectal cancer.\r\nOnce considered a disease primarily affecting adults over 50, higher rates of this… [+4064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Nerve Renew",
-      "title": "Nerve Renew Reviews Side Effects (INVESTIGATED) What You Need to Know About This Neuropathy Relief Supplement",
-      "description": "LOS ANGELES, May 15, 2025 (GLOBE NEWSWIRE) -- Nerve Renew is considered one of the most effective natural remedies for relieving nerve pain. As we age, the neurons that make up our nervous system can become damaged and stop functioning as they should. For mor…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/15/3081875/0/en/Nerve-Renew-Reviews-Side-Effects-INVESTIGATED-What-You-Need-to-Know-About-This-Neuropathy-Relief-Supplement.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f01df09a-f1b3-48ba-ab3c-f44d9a85f532",
-      "publishedAt": "2025-05-15T09:21:00Z",
-      "content": "LOS ANGELES, May 15, 2025 (GLOBE NEWSWIRE) -- Nerve Renew is considered one of the most effective natural remedies for relieving nerve pain. As we age, the neurons that make up our nervous system can… [+19136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "UN aid office denounces attacks on Gaza hospital",
-      "description": "The UN humanitarian affairs office, OCHA, underlined the need to protect civilians and healthcare facilities in the Gaza Strip in a renewed appeal on Wednesday.",
-      "url": "https://www.globalsecurity.org/military/library/news/2025/05/mil-250514-unnews03.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-05-15T09:16:23Z",
-      "content": "14 May 2025 - The UN humanitarian affairs office, OCHA, underlined the need to protect civilians and healthcare facilities in the Gaza Strip in a renewed appeal on Wednesday. \r\nOCHA reported that hos… [+2902 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds a Fortinet flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Fortinet vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Fortinet Multiple Products Stack-Based Buffer Ove…",
-      "url": "https://securityaffairs.com/177862/hacking/u-s-cisa-adds-a-fortinet-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-05-15T09:07:07Z",
-      "content": "U.S. CISA adds a Fortinet flaw to its Known Exploited Vulnerabilities catalog\r\n | Kosovo authorities extradited admin of the cybercrime marketplace BlackDB.cc\r\n | U.S. CISA adds Microsoft Windows fla… [+164372 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Sandee Lamotte",
-      "title": "Dangerously high levels of arsenic and cadmium found in store-bought rice, report finds",
-      "description": "One in four rice samples from more than 100 different store brands contained dangerous levels of arsenic, a new investigation found. Here’s what to do.",
-      "url": "https://www.cnn.com/2025/05/15/health/arsenic-cadmium-rice-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1141317711.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-05-15T09:00:50Z",
-      "content": "Samples of store-bought rice from more than 100 different brands purchased in the United States contained dangerously high levels of arsenic and cadmium, according to a new report released exclusivel… [+10257 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Kosovo authorities extradited admin of the cybercrime marketplace BlackDB.cc",
-      "description": "Kosovar citizen extradited to the US for running the cybercrime marketplace BlackDB.cc appeared in federal court facing related charges. Kosovo citizen Liridon Masurica (33) of Gjilan, was extradited to the US for running the cybercrime marketplace BlackDB.cc…",
-      "url": "https://securityaffairs.com/177870/cyber-crime/kosovo-authorities-extradited-admin-of-the-cybercrime-marketplace-blackdb-cc.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
-      "publishedAt": "2025-05-15T07:56:52Z",
-      "content": "Kosovo authorities extradited admin of the cybercrime marketplace BlackDB.cc\r\n | U.S. CISA adds Microsoft Windows flaws to its Known Exploited Vulnerabilities catalog\r\n | Ivanti fixed two EPMM flaws … [+164290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Jacob Thomas",
-      "title": "“Breaking the Chains” on BrightU: Transforming Galt’s Landing and how to protect yourself from toxic threats and government deception",
-      "description": "In episode 9 of “Breaking the Chains: Decentralize Your Life,” Todd Pitner visits Galt’s Landing, a 42-acre permaculture food forest in Florida, showcasing how Jim Gale transformed barren land into a self-sustaining ecosystem with 280+ food plants, livestock …",
-      "url": "https://www.naturalnews.com/2025-05-15-galts-landing-toxic-threats-and-government-deception.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Farmer-hands-planting-to-soil-tomato-seedling-in-the-vegetable-garden-1.jpeg",
-      "publishedAt": "2025-05-15T06:00:00Z",
-      "content": "<ul><li>In episode 9 of \"Breaking the Chains: Decentralize Your Life,\" Todd Pitner visits Galt's Landing, a 42-acre permaculture food forest in Florida, showcasing how Jim Gale transformed barren lan… [+4972 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The BMJ"
-      },
-      "author": "Yang, Z., Liu, Z., Zhu, Q., Chen, W., Xue, Q., Zhang, Y., Feng, X. L., Jiang, B.",
-      "title": "Disposal practices of unwanted household medications in China: a cross-sectional study",
-      "description": "Objectives This study aimed to understand disposal practices of unwanted medications in Chinese households and examine associations between influencing factors and these disposal practices.\n\nDesign A nationwide cross-sectional study conducted between 11 Octob…",
-      "url": "https://bmjopen.bmj.com/content/15/5/e088086",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2025-05-15T04:40:57Z",
-      "content": "Background\r\nAs the global economy and health industries continue to advance rapidly, drug utilisation patterns have undergone significant transformations, leading to an augmentation in drug purchases… [+7796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Eye care products recalled nationwide as customers warned to stop use ‘immediately’",
-      "description": "More than 1.8 million cartons of eye care solutions were affected by the recall",
-      "url": "https://www.the-independent.com/life-style/eye-care-product-recall-fda-audit-b2751329.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/12/13/26/iStock-483720785-(1).jpeg?trim=136,0,487,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-15T04:35:19Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3588 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Charisma Madarang",
-      "title": "Trump Admin Plans to Delay, Eliminate Limits on ‘Forever Chemicals’ in U.S. Drinking Water",
-      "description": "PFAS are linked with cancer, fertility issues, and developmental delays in children — yet the E.P.A. has moved to weaken regulations designed to protect Americans",
-      "url": "http://www.rollingstone.com/politics/politics-news/trump-epa-forever-chemicals-pfas-drinking-water-1235339967/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/05/epa-forever-chemicals-water-trump.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2025-05-15T04:25:33Z",
-      "content": "The Trump administration announced on Wednesday that it plans to eliminate and postpone rules aimed at reducing “forever chemicals” contaminating drinking water across the country. \r\nAccording to the… [+2808 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Alka Water DIY",
-      "title": "Alka Water DIY Under Review: The At-Home Do It Yourself Alkaline Water Guide",
-      "description": "Discover the Eco-Friendly, Budget-Smart Guide to Making High-pH Alkaline Water at Home—No Machines, No Bottles, Just Clean, Functional Hydration Discover the Eco-Friendly, Budget-Smart Guide to Making High-pH Alkaline Water at Home—No Machines, No Bottles, Ju…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/15/3081735/0/en/Alka-Water-DIY-Under-Review-The-At-Home-Do-It-Yourself-Alkaline-Water-Guide.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/69c149b5-f4a1-4a98-a8fb-6ce72438eac1",
-      "publishedAt": "2025-05-15T00:51:00Z",
-      "content": "San Diego, May 14, 2025 (GLOBE NEWSWIRE) -- \r\nIn This Article, You'll Discover:\r\n<ul><li>Why many individuals are unknowingly experiencing hydration-related discomfort from acidic or mineral-depleted… [+48577 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 96,
   "filteredCount": 1
 }
