@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-19T18:34:07.123Z",
+  "lastUpdated": "2025-05-20T01:59:48.001Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mashed.com"
+      },
+      "author": "Eva Remijan-Toba",
+      "title": "Biggest Chicken Pot Pie Recalls In The US",
+      "description": "Chicken pot pie has been a grocery store staple for decades but it's not been immune to recalls. These recalls impacted shoppers and brands in a big way.",
+      "url": "https://www.mashed.com/1858783/biggest-chicken-pot-pie-recalls-us/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1_LOEYjB7y760pihGyPy_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mashed_603/2b803c1b9e483cd2f48c0eb69c40d475",
+      "publishedAt": "2025-05-18T19:30:00Z",
+      "content": "Chicken pot pie is often a comforting dinnertime staple warm, savory, and satisfying, whether served fresh or pulled from the freezer. With roots tracing back to ancient Rome, this creamy, vegetable-… [+10164 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "The hidden threat lurking in your kitchen sponge",
+      "description": "The kitchen sponge represents one of the most humble yet ubiquitous tools in modern homes. Used daily for washing dishes, wiping counters, and general cleaning, these porous cleaning aids rarely receive much thought beyond occasional replacement. Yet growing …",
+      "url": "https://rollingout.com/2025/05/18/threat-lurking-in-your-kitchen-sponge/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/05/shutterstock_1936001296-scaled.jpg",
+      "publishedAt": "2025-05-18T19:20:47Z",
+      "content": "The kitchen sponge represents one of the most humble yet ubiquitous tools in modern homes. Used daily for washing dishes, wiping counters, and general cleaning, these porous cleaning aids rarely rece… [+17946 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -773,19 +799,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
-      "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
-      "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324083",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
-      "publishedAt": "2025-05-15T14:00:00Z",
-      "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Aleksandra Giza, Paweł Hermanowicz, Rafał Ważny, Agnieszka Domka, Piotr Rozpądek, Justyna Łabuz",
       "title": "Effect of UV-A on endophyte colonisation of Arabidopsis thaliana",
       "description": "UV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350–400 nm range (UV-A1 waveband) on the plant interactions with fungal endophytes belonging to different …",
@@ -793,6 +806,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323576.g007&size=inline",
       "publishedAt": "2025-05-15T14:00:00Z",
       "content": "Abstract\r\nUV-A, an important part of sunlight radiation, is typically absent in experiments on plant-endophyte interactions. We examined the impact of UV-A in the 350400nm range (UV-A1 waveband) on t… [+90046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "S. Hidad, S.C. de Greeff, F. de Haan, R. Schilperoort, G.L. Leusink, A. Timen, H. Schmitt",
+      "title": "An observational study protocol on wastewater measurements and diaper culture to estimate antimicrobial resistance in long-term care facilities for people with intellectual disabilities: The GIRAF-MIC study protocol",
+      "description": "Introduction Antimicrobial resistance (AMR) has become one of the leading global health threats. It is critical to understand the burden of AMR, particularly among vulnerable populations such as people with intellectual disabilities residing in long-term care…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324083",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324083.g003&size=inline",
+      "publishedAt": "2025-05-15T14:00:00Z",
+      "content": "2.1 Study design, recruitment and inclusion of care facilities\r\nData will be collected cross-sectionally using three study instruments, namely: 1) passive samplers for wastewater sample measurements,… [+17772 chars]"
     },
     {
       "source": {
@@ -1209,21 +1235,8 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/06d3d8801543581ea9526fa45565e7bf8c9ecc42/hub/2024/06/03/ae87a4e6-55d8-45e3-b422-ccfe62e9ce0b/otc-eye-drops.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-05-14T16:23:03Z",
       "content": "The Food and Drug Administration recently announced that testing firm BRS Analytical Service recalled over 75,000 cases of AvKare eye drop solution due to Current Good Manufacturing Practice (cGMP) d… [+11112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Rikki Schlott",
-      "title": "RFK Jr.’s stat on autism was right, his debunked theories are wrong and will waste billions: doctors",
-      "description": "“Those of us who are professionals in the field did a collective eye roll,\" one expert said of RFK's recent statements.",
-      "url": "https://nypost.com/2025/05/14/health/rfk-jrs-stat-on-autism-was-right-his-theories-are-wrong-doctors/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-jlgziiq7p-1747238086463.jpg?quality=75&strip=all&1747223790&w=1024",
-      "publishedAt": "2025-05-14T15:57:08Z",
-      "content": "Health and Human Services Secretary Robert F. Kennedy Jr. is waging war on autism and experts say its both unscientific and stigmatizing.\r\nThe newly appointed HHS Secretary said autism “destroys” chi… [+9603 chars]"
     }
   ],
-  "totalResults": 94,
-  "filteredCount": 3
+  "totalResults": 95,
+  "filteredCount": 2
 }
