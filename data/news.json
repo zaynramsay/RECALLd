@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-05-23T06:34:18.574Z",
+  "lastUpdated": "2025-05-23T12:49:26.856Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "KPBS"
+      },
+      "author": "Andrew Dyer, Brooke Ruth, Debbie Cruz",
+      "title": "White actress denied Black roles sues library alleging discrimination",
+      "description": "A KPBS analysis finds the new proposed ADU rules in San Diego would make it significantly more difficult to build in the city’s whitest and wealthiest neighborhoods. Then, find out which issue UC San Diego researchers say has broad support among Republican an…",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/white-actress-denied-black-roles-sues-library-alleging-discrimination",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/812eb3e/2147483647/strip/true/crop/1400x735+0+333/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fimg%2Fpodcasts%2F2020%2Fpodcast_1400-SDNewsNow.jpg",
+      "publishedAt": "2025-05-22T12:00:00Z",
+      "content": "Good Morning, Im Debbie Cruz.its Thursday, May 22nd.\r\nA proposed city policy makes it harder to build ADUs in the citys whitest and wealthiest neighborhoods.\r\nMore on that next. But first... the head… [+12871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Review of Books"
+      },
+      "author": "Dawn Marie Paley",
+      "title": "A Shelter or a Prison?",
+      "description": "There’s a severe shortage of public treatment options in Mexico for people who use drugs and wish to stop. Small, clandestine private clinics fill the gap.",
+      "url": "https://www.nybooks.com/articles/2025/06/12/a-shelter-or-a-prison-anexos-drug-treatment-mexico/",
+      "urlToImage": "https://www.nybooks.com/wp-content/uploads/2025/05/paley_1-061225-900.jpg",
+      "publishedAt": "2025-05-22T12:00:00Z",
+      "content": "When Angela Garcia, an anthropologist and professor at Stanford University, arrived in Mexico City in 2011 to begin research for her second book, the war on drugs in Mexico had been in full swing for… [+19870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Law enforcement dismantled the infrastructure behind Lumma Stealer MaaS",
+      "description": "Microsoft found 394,000 Windows systems talking to Lumma stealer controllers, a victim pool that included global manufacturers. A US court order, with Europol and Japan’s JC3 dismantled the Lumma Stealer malware operation, seizing 2,300 domains used for comma…",
+      "url": "https://securityaffairs.com/178176/cyber-crime/law-enforcement-dismantled-the-infrastructure-behind-lumma-stealer-maas.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-33.png",
+      "publishedAt": "2025-05-22T09:30:40Z",
+      "content": "Law enforcement dismantled the infrastructure behind Lumma Stealer MaaS\r\n | Russia-linked APT28 targets western logistics entities and technology firms\r\n | A cyberattack was responsible for the week-… [+166671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "U.S.Tissue Paper Market to Hit USD 20.81 Billion by 2030: Eco-Friendly Products Drive Sustainable Growth",
+      "description": "The U.S. tissue paper market is poised for growth due to rising hygiene awareness, eco-friendly product demand, and e-commerce expansion. Key opportunities lie in offering sustainable, recycled options, leveraging private labels, enhancing product quality, an…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/22/3086358/28124/en/U-S-Tissue-Paper-Market-to-Hit-USD-20-81-Billion-by-2030-Eco-Friendly-Products-Drive-Sustainable-Growth.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-05-22T08:14:00Z",
+      "content": "Dublin, May 22, 2025 (GLOBE NEWSWIRE) -- The \"United States Tissue Paper Market by Region, Competition, Forecast &amp; Opportunities, 2020-2030F\" has been added to ResearchAndMarkets.com's offering.\r… [+5516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Russia-linked APT28 targets western logistics entities and technology firms",
+      "description": "CISA warns Russia-linked group APT28 is targeting Western logistics and tech firms aiding Ukraine, posing an elevated threat to supply chains Russia-linked cyberespionage group APT28 intensifies its operations against Western logistics and technology companie…",
+      "url": "https://securityaffairs.com/178165/apt/russia-linked-apt28-targets-western-logistics-entities-and-technology-firms.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-32.png",
+      "publishedAt": "2025-05-22T06:36:27Z",
+      "content": "Russia-linked APT28 targets western logistics entities and technology firms\r\n | A cyberattack was responsible for the week-long outage affecting Cellcom wireless network\r\n | Coinbase data breach impa… [+166595 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -363,7 +428,7 @@
       "url": "https://entrepreneurship.blogs.ie.edu/does-home-heating-oil-go-bad-a-comprehensive-guide/",
       "urlToImage": null,
       "publishedAt": "2025-05-21T09:27:05Z",
-      "content": "Understanding Home Heating Oil\r\nWhat is Home Heating Oil?\r\nHome heating oil, also known as fuel oil or No. 2 fuel oil, is a refined petroleum product primarily used in furnaces and boilers to generat�� [+11201 chars]"
+      "content": "Understanding Home Heating Oil\r\nWhat is Home Heating Oil?\r\nHome heating oil, also known as fuel oil or No. 2 fuel oil, is a refined petroleum product primarily used in furnaces and boilers to generat… [+11201 chars]"
     },
     {
       "source": {
@@ -402,7 +467,7 @@
       "url": "https://securityaffairs.com/178131/uncategorized/a-openpgp-js-flaw-lets-attackers-spoof-message-signatures.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-30.png",
       "publishedAt": "2025-05-21T08:46:15Z",
-      "content": "A critical flaw in OpenPGP.js lets attackers spoof message signatures\r\n | SK Telecom revealed that malware breach began in 2022\r\n | 4G Calling (VoLTE) flaw allowed to locate any O2 customer with a ph… [+166195 chars]"
+      "content": "A critical flaw in OpenPGP.js lets attackers spoof message signatures\r\n | SK Telecom revealed that malware breach began in 2022\r\n | 4G Calling (VoLTE) flaw allowed to locate any O2 customer with a ph�� [+166195 chars]"
     },
     {
       "source": {
@@ -1196,86 +1261,8 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321972.g012&size=inline",
       "publishedAt": "2025-05-19T14:00:00Z",
       "content": "Abstract\r\nAspergillus niger is considered as the main horsepower for the production of 90% of citric acid worldwide. Citric acid is produced under submerged fermentation and the process yield depends… [+32814 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Margaret V. Becker, Anastasia Accoti, Angel Elma I. Abu, Julia Vulcan, Massamba Sylla, Kamil Khanipov, Laura B. Dickson",
-      "title": "Reduced microbe abundance in an urban larval development container increases Aedes aegypti susceptibility to Zika virus",
-      "description": "Author summary Aedes aegypti mosquitoes, which spread viruses like dengue and Zika, inhabit different environments within Africa. Ancestral forms of Ae. aegypti occupy forested habitats, while domesticated forms of Ae. aegypti have adapted to thrive in urban …",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013154",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013154.g006&size=inline",
-      "publishedAt": "2025-05-19T14:00:00Z",
-      "content": "Citation: Becker MV, Accoti A, Abu AEI, Vulcan J, Sylla M, Khanipov K, et al. (2025) Reduced microbe abundance in an urban larval development container increases Aedes aegypti susceptibility to Zika … [+78504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Naeem Ahammed Ibrahim Fahim, Md. Liton Rana, Md Abdullah Evna Hasan, Samia Salam, Rony Ibne Masud, Nazmul Huda, Sukumar Saha, Md. Tanvir Rahman",
-      "title": "Biofilms and antibiotic resistance profile of Enterococcus faecalis in selected dairy cattle farm environments in Bangladesh",
-      "description": "Enterococci are opportunistic zoonotic pathogens. Dairy cattle and farm environments are considered important sources of Enterococcus spp. Here, we detected biofilm-forming Enterococcus faecalis circulating in dairy cattle and farm environments, followed by t…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323667",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323667.g003&size=inline",
-      "publishedAt": "2025-05-19T14:00:00Z",
-      "content": "Abstract\r\nEnterococci are opportunistic zoonotic pathogens. Dairy cattle and farm environments are considered important sources of Enterococcus spp. Here, we detected biofilm-forming Enterococcus fae… [+47384 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Soo Kim",
-      "title": "Woman Tells Cabin Crew About Peanut Allergy—No One Prepared for Response",
-      "description": "Social media users were divided over the viral clip, with some saying the woman's request was \"unreasonable,\" while others were sympathetic about her allergy.",
-      "url": "https://www.newsweek.com/plane-passenger-peanut-allergy-cabin-crew-response-tiktok-viral-2074075",
-      "urlToImage": "https://d.newsweek.com/en/full/2647183/flight-attendant-speaking-passengers-plane.jpg",
-      "publishedAt": "2025-05-19T13:56:22Z",
-      "content": "A video about a plane cabin crew member's attentive response to a passenger with a peanut allergy has gone viral on TikTok.\r\nThe clip was posted by the passenger, @behindtheallergy, and has amassed o… [+7202 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Developing countries unfairly blamed? Vancouver, one of the world's most beautiful cities known for its natural beauty, has a human waste problem on its sidewalks",
-      "description": "Vancouver’s human waste crisis is getting so bad that businesses are hiring “poop fairies” to clean sidewalks. The city’s feces removal program isn’t fast enough, leaving streets dirty and businesses struggling. From the Downtown Eastside to Gastown, both hum…",
-      "url": "https://economictimes.indiatimes.com/news/international/canada/developing-countries-unfairly-blamed-vancouver-one-of-the-worlds-most-beautiful-cities-known-for-its-natural-beauty-has-a-human-waste-problem-on-its-sidewalks/articleshow/121270467.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121270721,width-1200,height-630,imgsize-219742,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-05-19T13:46:14Z",
-      "content": "Vancouvers human waste crisis worsens as poop fairies clean up the streets- Vancouvers human waste crisis is no longer just a Downtown Eastside problem its spread across city sidewalks, forcing busin… [+5438 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Nut-Free Chocolate Advent Calendars: Delightful Treats for Every December Day",
-      "description": "Understanding the Importance of Safety The Severity of Nut Allergies The twinkling lights, the crisp air, the anticipation of Christmas […]\nThe post Nut-Free Chocolate Advent Calendars: Delightful Treats for Every December Day appeared first on Things You Oug…",
-      "url": "https://entrepreneurship.blogs.ie.edu/nut-free-chocolate-advent-calendars-delightful-treats-for-every-december-day/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-19T13:35:24Z",
-      "content": "Understanding the Importance of Safety\r\nThe Severity of Nut Allergies\r\nThe twinkling lights, the crisp air, the anticipation of Christmas the holiday season holds a special magic for people of all ag… [+12188 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "The Insight Partners",
-      "title": "Digital PCR and Real-Time PCR Market Size Worth USD 17.54 billion by 2031 at 9.1% CAGR | The Insight Partners",
-      "description": "The report carries an in-depth analysis of market trends, key players, and future opportunities. The digital PCR and real-time PCR market study focuses on an array of products and technologies that are expected to fuel the demand in the coming years. The repo…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/19/3084104/0/en/Digital-PCR-and-Real-Time-PCR-Market-Size-Worth-USD-17-54-billion-by-2031-at-9-1-CAGR-The-Insight-Partners.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/efd8c9da-ac10-487a-a083-ec8f33cad35e",
-      "publishedAt": "2025-05-19T13:33:00Z",
-      "content": "US &amp; Canada, May 19, 2025 (GLOBE NEWSWIRE) -- According to a new comprehensive report from The Insight Partners, the global digital PCR and real-time PCR market is witnessing substantial growth w… [+9928 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 97,
   "filteredCount": 0
 }
