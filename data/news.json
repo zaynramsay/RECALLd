@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-05-24T01:54:27.347Z",
+  "lastUpdated": "2025-05-24T06:31:14.049Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Chinese threat actors exploited Trimble Cityworks flaw to breach U.S. local government networks",
+      "description": "A Chinese threat actor, tracked as UAT-6382, exploited a patched Trimble Cityworks flaw to deploy Cobalt Strike and VShell. Cisco Talos researchers attribute the exploitation of the CVE-2025-0994 in Trimble Cityworks to Chinese-speaking threat actor UAT-6382,…",
+      "url": "https://securityaffairs.com/178203/hacking/chinese-threat-actors-exploited-trimble-cityworks-flaw-to-breach-u-s-local-government-networks.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+      "publishedAt": "2025-05-23T06:27:41Z",
+      "content": "Chinese threat actors exploited Trimble Cityworks flaw to breach U.S. local government networks\r\n | U.S. CISA adds a Samsung MagicINFO 9 Server flaw to its Known Exploited Vulnerabilities catalog\r\n |… [+166933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Synthetic chemicals in ultra-processed foods contribute to serious health issues, study finds",
+      "description": "Synthetic chemicals from packaging, additives and processing equipment in ultra-processed foods contribute to chronic diseases, such as obesity and heart disease, beyond what nutritional labels indicate. A Nature Medicine review highlights microplastics, PFAS…",
+      "url": "https://www.naturalnews.com/2025-05-23-study-synthetic-chemicals-upfs-contribute-health-issues.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Woman-Grocery-Shopping.jpg",
+      "publishedAt": "2025-05-23T06:00:00Z",
+      "content": "<ul><li>Synthetic chemicals from packaging, additives and processing equipment in ultra-processed foods contribute to chronic diseases, such as obesity and heart disease, beyond what nutritional labe… [+4886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Memorial Day food safety: Keep your cookout safe",
+      "description": "For Memorial Day weekend, millions of Americans will fire up grills and gather outdoors to honor fallen heroes. But with warm May temperatures, food safety is critical to prevent foodborne illnesses. The U.S. Department of Agriculture’s Food Safety and Inspec…",
+      "url": "https://www.foodsafetynews.com/?p=249584",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/091/575/831/g4ZpR2ONeYJ5rk5mQEqvo9WBA/236237fb38bd3a2a1c08fe76384c91532052ed88.png",
+      "publishedAt": "2025-05-23T04:01:00Z",
+      "content": "For Memorial Day weekend, millions of Americans will fire up grills and gather outdoors to honor fallen heroes. But with warm May temperatures, food safety is critical to prevent foodborne illnesses.… [+2139 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Erika Edwards",
+      "title": "Food dyes, sick kids and a dip in contaminated water: RFK Jr. weighs in on his first 100 days",
+      "description": "Health Secretary Robert F. Kennedy Jr. told NBC News that the Trump administration is simplifying the dietary guidelines meant to advise Americans on healthy eating.",
+      "url": "https://www.nbcnews.com/health/health-news/rfk-jr-chemicals-sick-kids-swim-contaminated-water-rcna208576",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250522-Robert-F-Kennedy-Jr-ew-510p-d77db7.jpg",
+      "publishedAt": "2025-05-23T02:23:27Z",
+      "content": "As the Trump administration pushes for deep cuts in federal health agencies, Robert F Kennedy Jr. has produced a 72-page summary on the environmental toxins, chemicals and ultraprocessed foods he sai… [+5528 chars]"
+    },
     {
       "source": {
         "id": "national-geographic",
@@ -1209,58 +1261,6 @@
       "urlToImage": null,
       "publishedAt": "2025-05-20T05:47:35Z",
       "content": "When a plumbing disaster strikes, it’s a disruptive and stressful experience. From burst pipes flooding your home to a toilet that simply won’t stop running, plumbing emergencies demand immediate att… [+12356 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Pizza Shrink Wrap Machine: The Ultimate Guide to Packaging Freshness and Profitability",
-      "description": "Understanding the Power of the Pizza Shrink Wrap Machine What it Is and How it Works Packaging plays a pivotal […]\nThe post Pizza Shrink Wrap Machine: The Ultimate Guide to Packaging Freshness and Profitability appeared first on Things You Ought to Know.",
-      "url": "https://entrepreneurship.blogs.ie.edu/pizza-shrink-wrap-machine-the-ultimate-guide-to-packaging-freshness-and-profitability/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-20T04:36:55Z",
-      "content": "Understanding the Power of the Pizza Shrink Wrap Machine\r\nWhat it Is and How it Works\r\nPackaging plays a pivotal role in the pizza industry, acting as the first line of defense against environmental … [+12911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "the-independent.com",
-      "title": "US grocery chain recalls baby food pouches due to possible lead contamination",
-      "description": "Publix, a nationwide supermarket chain, has issued a voluntary recall of baby food over potential lead contamination.\nThe popular grocery store announced this week that pouches of its GreenWise Pear, Kiwi, Spinach & Pea Baby Food were being pulled from shelve…",
-      "url": "https://biztoc.com/x/14e5cfb75dc095a8",
-      "urlToImage": "https://biztoc.com/cdn/14e5cfb75dc095a8_s.webp",
-      "publishedAt": "2025-05-20T02:41:19Z",
-      "content": "Publix, a nationwide supermarket chain, has issued a voluntary recall of baby food over potential lead contamination.The popular grocery store announced this week that pouches of its GreenWise Pear, … [+159 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Japan Today"
-      },
-      "author": null,
-      "title": "Inquiry says France's government covered up Nestle's illegal treatment of bottled water",
-      "description": "The government of French President Emmanuel Macron covered up decisions over the illegal treatment of mineral water by food industry giant Nestle, including the world-famous Perrier brand, a Senate inquiry commission said Monday. Its report focused on Nestle'…",
-      "url": "https://japantoday.com/category/world/an-inquiry-says-france%27s-government-covered-up-nestle%27s-illegal-treatment-of-bottled-water",
-      "urlToImage": null,
-      "publishedAt": "2025-05-20T01:31:12Z",
-      "content": "The government of French President Emmanuel Macron covered up decisions over the illegal treatment of mineral water by food industry giant Nestle, including the world-famous Perrier brand, a Senate i… [+2799 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Nut-Free Candy Melts: Delicious Treats for Everyone!",
-      "description": "Understanding the Nut-Free Landscape The Importance of Label Reading Candy melts have become a beloved staple in the world of […]\nThe post Nut-Free Candy Melts: Delicious Treats for Everyone! appeared first on Things You Ought to Know.",
-      "url": "https://entrepreneurship.blogs.ie.edu/nut-free-candy-melts-delicious-treats-for-everyone/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-19T23:40:56Z",
-      "content": "Understanding the Nut-Free Landscape\r\nThe Importance of Label Reading\r\nCandy melts have become a beloved staple in the world of baking and confectionary, offering a vibrant palette of colors and flav… [+11526 chars]"
     }
   ],
   "totalResults": 97,
