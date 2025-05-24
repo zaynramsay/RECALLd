@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-05-23T18:31:55.391Z",
+  "lastUpdated": "2025-05-24T01:54:27.347Z",
   "articles": [
+    {
+      "source": {
+        "id": "national-geographic",
+        "name": "National Geographic"
+      },
+      "author": "Keren Landman",
+      "title": "Why cancer rates are rising in young women—and what to do about it",
+      "description": "A recent report found that women account for two-thirds of all cancers diagnosed in people under 50. But it's not all bad news.",
+      "url": "https://www.nationalgeographic.com/health/article/cancer-rates-young-women",
+      "urlToImage": "https://i.natgeofe.com/n/d0d8affa-f888-48f6-93ce-790476968cf6/C0558594-Metastatic_breast_cancer_PET_scan-Edit_16x9.jpg?w=1200",
+      "publishedAt": "2025-05-23T00:00:00Z",
+      "content": "Another possible contributor to rising cancer rates: Environmental contaminants. Terry oversees research on associations between a range of air, food, and water pollutants and breast cancer. While as… [+1666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foodpoisonjournal.com"
+      },
+      "author": "Bruce Clark",
+      "title": "Here come all the Cucumber Salmonella Recalls",
+      "description": "Sushi: Supreme Service Solutions LLC. (dba Supreme Produce) is assisting in a Kroger Store recall for items purchased from Bedner Growers Inc.(purchased from Kroger and its affiliates ) due to possible contamination with Salmonella, an organism which can caus…",
+      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/here-come-all-the-cucumber-salmonella-recalls/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/091/563/011/9BvRDJ724zW4Bma56lAKNOd03/1a71f23eb98e86b1777b00b7780ecedfe7afc760.png",
+      "publishedAt": "2025-05-22T23:23:23Z",
+      "content": "Sushi: Supreme Service Solutions LLC. (dba Supreme Produce) is assisting in a Kroger Store recall for items purchased from Bedner Growers Inc.(purchased from Kroger and its affiliates ) due to possib… [+9836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Sysco Corporation",
+      "title": "The Coastal Companies Issues Voluntary Recall on Items With Fresh Start Cucumbers Due to the Potential for Salmonella Contamination",
+      "description": "LAUREL, Md., May 22, 2025 (GLOBE NEWSWIRE) -- The Coastal Companies is issuing a voluntary recall of 17 products that were produced from cucumbers grown by Bedner Growers, Inc. and distributed by Fresh Start Produce Sales, Inc. due to the potential for Salmon…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/22/3087194/2867/en/The-Coastal-Companies-Issues-Voluntary-Recall-on-Items-With-Fresh-Start-Cucumbers-Due-to-the-Potential-for-Salmonella-Contamination.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ab6fc5a9-c710-42c9-aab5-f8789b19559d",
+      "publishedAt": "2025-05-22T22:29:00Z",
+      "content": "LAUREL, Md., May 22, 2025 (GLOBE NEWSWIRE) -- The Coastal Companies is issuing a voluntary recall of 17 products that were produced from cucumbers grown by Bedner Growers, Inc. and distributed by Fre… [+6402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds a Samsung MagicINFO 9 Server flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Samsung MagicINFO 9 Server vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Samsung MagicINFO 9 Server vu…",
+      "url": "https://securityaffairs.com/178194/hacking/cisa-adds-a-samsung-magicinfo-9-server-flaw-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-05-22T22:09:44Z",
+      "content": "U.S. CISA adds a Samsung MagicINFO 9 Server flaw to its Known Exploited Vulnerabilities catalog\r\n | New Signal update stops Windows from capturing user chats\r\n | Law enforcement dismantled the infras… [+166833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Albertsons Companies Voluntarily Recalls Three Store-Made Deli Items Containing Recalled Cucumber Supplied by Fresh Creative Foods Due to Possible Salmonella Contamination",
+      "description": "Following a recall initiated by Fresh Creative Foods, a division of Reser’s Fine Foods, Inc., Albertsons Companies has voluntarily recalled three store-made deli items, supplied by Fresh Creative Foods, due to possible Salmonella contamination and in associat…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-voluntarily-recalls-three-store-made-deli-items-containing-recalled-cucumber",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-22T21:05:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nMay 22, 2025\r\nFDA Publish Date:\r\nMay 23, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Description\r\nCompa… [+2618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bangkok Post"
+      },
+      "author": "Editorial",
+      "title": "Toxic rivers need help",
+      "description": "The government's reaction to heavy metal contamination in transboundary rivers in Chiang Mai and Chiang Rai provinces has left local villagers in despair. Almost three months after heavy metal contamination was recently detected in such rivers, our officials …",
+      "url": "https://www.bangkokpost.com/opinion/opinion/3032141/toxic-rivers-need-help",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20250523/c1_3032141_250523060152_700.jpg",
+      "publishedAt": "2025-05-22T20:30:00Z",
+      "content": "The government's reaction to heavy metal contamination in transboundary rivers in Chiang Mai and Chiang Rai provinces has left local villagers in despair. Almost three months after heavy metal contam… [+3036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Richmond.com"
+      },
+      "author": "MEREDITH LINDEMON Richmond Times-Dispatch",
+      "title": "Ukrop's Market recalls product due to salmonella concerns",
+      "description": "Ukrop’s Homestyle Foods (2001 Maywill St., Ste. 100) announced today that it is recalling three of its products in reaction to the Bedner Growers’ recall of cucumbers due to its potential to be contaminated with Salmonella.",
+      "url": "https://richmond.com/life-entertainment/local/food-drink/article_79225a24-9e79-4a15-be33-55ab1b3fc0aa.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/7/92/79225a24-9e79-4a15-be33-55ab1b3fc0aa/682f79c436596.preview.jpg?crop=211%2C211%2C0%2C19&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2025-05-22T19:20:00Z",
+      "content": "Ukrops Homestyle Foods announced that it is recalling three of its products in response to a cucumber recall by Bedner Growers, due to potential salmonella contamination.\r\nExterior of the Ukrops stor… [+4297 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,97 +1261,6 @@
       "urlToImage": null,
       "publishedAt": "2025-05-19T23:40:56Z",
       "content": "Understanding the Nut-Free Landscape\r\nThe Importance of Label Reading\r\nCandy melts have become a beloved staple in the world of baking and confectionary, offering a vibrant palette of colors and flav… [+11526 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Ameliorate Digital Consultancy Pvt Ltd",
-      "title": "Rotary Weight Filler Market to Reach USD 2.0 Billion by 2034, Growing at 7% CAGR | Exactitude Consultancy",
-      "description": "Luton, Bedfordshire, United Kingdom, May 19, 2025 (GLOBE NEWSWIRE) -- The global rotary weight filler market is experiencing steady growth, driven by demand for automated, high‐precision packaging equipment across food & beverage, pharmaceutical, and chemical…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/19/3084475/0/en/Rotary-Weight-Filler-Market-to-Reach-USD-2-0-Billion-by-2034-Growing-at-7-CAGR-Exactitude-Consultancy.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a576ded2-f738-4a7c-bbf9-189ed83b2265",
-      "publishedAt": "2025-05-19T23:30:00Z",
-      "content": "Luton, Bedfordshire, United Kingdom, May 19, 2025 (GLOBE NEWSWIRE) -- The global rotary weight filler market is experiencing steady growth, driven by demand for automated, highprecision packaging equ… [+28313 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
-      "title": "[Latest] Global Sustainable Pharmaceutical Packaging Market Size/Share Worth USD 343.01 Billion by 2034 at a 15.13% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT)",
-      "description": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Sustainable Pharmaceutical Packaging Market size & share revenue was valued at approximately USD 85.86 Billion in 2024 and is ex…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/19/3084469/0/en/Latest-Global-Sustainable-Pharmaceutical-Packaging-Market-Size-Share-Worth-USD-343-01-Billion-by-2034-at-a-15-13-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
-      "publishedAt": "2025-05-19T22:30:00Z",
-      "content": "Austin, TX, USa, May 20, 2025 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled Sustainable Pharmaceutical Packaging Market Size, Trends and Insights By Material (… [+28479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Black-Crowned Night Heron in Flight: A Majestic Sight in the Sky",
-      "description": "The Essence of Flight: A Natural Marvel Taking to the Skies The still water reflects a sliver of moon, and […]\nThe post Black-Crowned Night Heron in Flight: A Majestic Sight in the Sky appeared first on Things You Ought to Know.",
-      "url": "https://entrepreneurship.blogs.ie.edu/black-crowned-night-heron-in-flight-a-majestic-sight-in-the-sky/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-19T22:10:16Z",
-      "content": "The Essence of Flight: A Natural Marvel\r\nTaking to the Skies\r\nThe still water reflects a sliver of moon, and the air hums with the rustle of reeds. As dusk deepens, a creature emerges from the shadow… [+9063 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Corina Jordan",
-      "title": "Duck debate: Are mallards a threat to freshwater quality and farming? - Corina Jordan",
-      "description": "Opinion: Dr Jacqueline Rowarth's recent op-ed on mallards only tells part of the story.",
-      "url": "https://www.nzherald.co.nz/the-country/news/duck-debate-are-mallards-a-threat-to-freshwater-quality-and-farming-corina-jordan/UGDMFTEFBZGX5BUHBXNNB5E4FY/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/6H7BYBCZ3VGHVJ5Y3JXNO6FT54.jpg?auth=ce7484b41cd151b6a8fd1c35c31d469124a2a488feed1b9681ed11479520b2d5&width=1200&height=675&quality=70&focal=2426%2C769&smart=false",
-      "publishedAt": "2025-05-19T21:30:00Z",
-      "content": "Its about far more than the hunt, its about time with friends and family in the maimai and bringing home wild food to share. \r\nThis connection to land, tradition, and food is part of our national ide… [+3577 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "nytimes.com",
-      "title": "Publix Recalls Baby Food Pouches Over Lead Contamination Concerns",
-      "description": "",
-      "url": "https://biztoc.com/x/ed57cc82c61d3bd6",
-      "urlToImage": "https://biztoc.com/cdn/934/og.png",
-      "publishedAt": "2025-05-19T21:08:52Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Moodys downgrade US credit rating? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will JPMorgan's new Bitcoi… [+968 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "Debora Ely, Ana Mano",
-      "title": "Genetic test to reveal whether Brazil's bird flu case is linked to zoo deaths",
-      "description": "MONTENEGRO, Brazil (Reuters) -Brazilian authorities hope to determine by Tuesday whether a confirmed outbreak of highly pathogenic avian influenza among wild birds in a zoo in the southern state of Rio Grande do Sul is connected with the country's first bird …",
-      "url": "https://www.thestar.com.my/news/world/2025/05/20/genetic-test-to-reveal-whether-brazil039s-bird-flu-case-is-linked-to-zoo-deaths",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/05/20/3323909.jpg",
-      "publishedAt": "2025-05-19T19:28:00Z",
-      "content": "FILE PHOTO: A drone view shows an excavator moving earth next to a hole in the ground at a poultry farm, after Brazil confirmed its first outbreak of bird flu on Friday, triggering protocols for a co… [+2072 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Feed",
-      "title": "Beware! Food-borne illnesses in US at surge: These 10 items are ‘riskiest’ foods of 2024",
-      "description": "Food-borne illnesses have seen an alarming rise in the United States than in 2023 and the number of hospitalisations have also doubled. A US-based non-profit released their annual list of top 10 riskiest food items and here are the ones that were named in thi…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/beware-food-borne-illnesses-in-us-at-surge-these-10-items-are-riskiest-foods-of-2024/articleshow/121276254.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121276259,width-1200,height-630,imgsize-108528,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-05-19T19:14:40Z",
-      "content": "A concerning spike in food-related illnesses has been recorded with a 41 per cent rise in outbreaks compared to the previous year, a United States study stated. It was conducted by the US Public Inte… [+4931 chars]"
     }
   ],
   "totalResults": 97,
