@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-05-25T02:07:51.323Z",
+  "lastUpdated": "2025-05-25T06:31:59.438Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Raw milk recalled in Northern Ireland following contamination with deadly E. coli strain",
+      "description": "Kenneth Hanna’s Farm Shop in Northern Ireland recalled all batches of its raw cow’s milk (Ken’s Raw Jersey Milk) due to potential contamination with Shiga toxin-producing E. coli (STEC), a dangerous pathogen. STEC infection can cause severe symptoms like bloo…",
+      "url": "https://www.naturalnews.com/2025-05-24-raw-milk-recalled-contamination-e-coli-strain.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/milk.png",
+      "publishedAt": "2025-05-24T06:00:00Z",
+      "content": "<ul><li>Kenneth Hanna's Farm Shop in Northern Ireland recalled all batches of its raw cow's milk (Ken's Raw Jersey Milk) due to potential contamination with Shiga toxin-producing E. coli (STEC), a da… [+4312 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -502,7 +515,7 @@
       },
       "author": "FDA",
       "title": "Walmart Inc. Recalls Marketside Fresh Cut Cucumber Slices in Select Texas Stores Because of Possible Health Risk",
-      "description": "BENTONVILLE, Ark. May 22nd, 2025 Walmart Inc. is voluntarily recalling Marketside Fresh Cut Cucumber Slices, produced in select stores located in Texas, because of the potential for Salmonella contamination. The recall was initiated because this product may c��",
+      "description": "BENTONVILLE, Ark. May 22nd, 2025 Walmart Inc. is voluntarily recalling Marketside Fresh Cut Cucumber Slices, produced in select stores located in Texas, because of the potential for Salmonella contamination. The recall was initiated because this product may c…",
       "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-select-texas-stores-because-possible-health",
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-05-22T14:30:00Z",
@@ -1235,34 +1248,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/12/ss7-cellphone-tracking.jpeg",
       "publishedAt": "2025-05-20T18:34:00Z",
       "content": "4G Calling (VoLTE) flaw allowed to locate any O2 customer with a phone call\r\n | China-linked UnsolicitedBooker APT used new backdoor MarsSnake in recent attacks\r\n | UKs Legal Aid Agency discloses a d… [+166063 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Dot"
-      },
-      "author": "Rebekah Harding",
-      "title": "“Just blatant”: Multi-state investigation shows Kroger routinely overcharging",
-      "description": "An investigation into several Kroger-owned grocery stores found that the brand may be overcharging customers using a sneaky mislabeling tactic.\n\n\nIs Kroger mislabeling items to overcharge customers?\n\n\nAccording to the Guardian, which partnered with Consumer R…",
-      "url": "https://www.dailydot.com/news/kroger-overcharging-investigation/",
-      "urlToImage": "https://uploads.dailydot.com/2025/05/Kroger_Routinely_Overcharging_Customers_Investigation_.png?auto=compress&fm=png&w=2000&h=1000",
-      "publishedAt": "2025-05-20T18:00:00Z",
-      "content": "An investigation into several Kroger-owned grocery stores found that the brand may be overcharging customers using a sneaky mislabeling tactic.\r\nAccording to the Guardian, which partnered with Consum… [+1764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quincycompressor.com"
-      },
-      "author": "Ashley Gates for Quincy Compressor",
-      "title": "What are the environmental benefits of using oil-free compressors?",
-      "description": "Quincy Compressor explains the environmental benefits of using oil-free compressors compared to the traditional models.",
-      "url": "https://www.quincycompressor.com/blog/what-are-the-environmental-benefits-of-oil-free-compressors/",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/1e/c1ef3e99-878d-5882-9741-f119d5db2403/682ccdce19693.image.jpg?crop=1010%2C530%2C0%2C94",
-      "publishedAt": "2025-05-20T17:30:00Z",
-      "content": "Ashley Gates for Quincy Compressor\r\nWhat are the environmental benefits of using oil-free compressors?\r\nAir compressors are machines that take in air from the environment and compress it to a higher … [+14137 chars]"
     }
   ],
-  "totalResults": 97,
+  "totalResults": 96,
   "filteredCount": 0
 }
