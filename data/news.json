@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-05-25T06:31:59.438Z",
+  "lastUpdated": "2025-05-25T12:45:13.362Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Leader of Qakbot cybercrime network indicted in U.S. crackdown",
+      "description": "The U.S. indicted Russian Rustam Gallyamov for leading the Qakbot botnet, which infected 700K+ devices and was used in ransomware attacks. The U.S. authorities have indicted Russian national Rustam Gallyamov, the leader of the Qakbot operation, which infected…",
+      "url": "https://securityaffairs.com/178232/uncategorized/leader-of-qakbot-cybercrime-network-indicted-in-u-s-crackdown.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
+      "publishedAt": "2025-05-24T10:39:54Z",
+      "content": "Operation RapTor led to the arrest of 270 dark web vendors and buyers\r\n | Chinese threat actors exploited Trimble Cityworks flaw to breach U.S. local government networks\r\n | U.S. CISA adds a Samsung … [+167007 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MBjFTvu8iZXU2Jj98XLMYJ.png",
       "publishedAt": "2025-05-20T19:59:41Z",
       "content": "Want proof that Google really has gone all-in on AI? Then look no further than today's Google I/O 2025 keynote.\r\nForget Android, Pixel devices, Google Photos, Maps and all the other Google staples – … [+12144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "4G Calling (VoLTE) flaw allowed to locate any O2 customer with a phone call",
-      "description": "A flaw in O2 4G Calling (VoLTE) leaked user location data via network responses due to improper IMS standard implementation. A flaw in 4G Calling (VoLTE) service of the UK telecom O2 exposed user location data through network responses due to flaws in the IMS…",
-      "url": "https://securityaffairs.com/178114/hacking/4g-calling-volte-flaw-allowed-to-locate-any-o2-customer-with-a-phone-call.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/12/ss7-cellphone-tracking.jpeg",
-      "publishedAt": "2025-05-20T18:34:00Z",
-      "content": "4G Calling (VoLTE) flaw allowed to locate any O2 customer with a phone call\r\n | China-linked UnsolicitedBooker APT used new backdoor MarsSnake in recent attacks\r\n | UKs Legal Aid Agency discloses a d… [+166063 chars]"
     }
   ],
   "totalResults": 96,
