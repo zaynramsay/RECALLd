@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-05-26T02:02:35.910Z",
+  "lastUpdated": "2025-05-26T06:36:12.580Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Japan Times"
+      },
+      "author": "Tomoko Otake",
+      "title": "Are microplastics hurting our fertility?",
+      "description": "While a lot remains unknown about how microplastics affect our health, scientists in Japan and around the world broadly agree there's an urgent need to reduce plastic production.",
+      "url": "https://www.japantimes.co.jp/environment/2025/05/25/sustainability/microplastics-fertility-concerns/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/05/25/471103.jpg?v=3.1",
+      "publishedAt": "2025-05-25T04:16:00Z",
+      "content": "In February, Italian researchers announced what they claimed to be a world-first discovery: microplastic particles were found in the ovarian follicular fluid of women undergoing infertility treatment… [+12046 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -355,6 +368,19 @@
     {
       "source": {
         "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
+      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
+      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "publishedAt": "2025-05-23T14:00:00Z",
+      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Verified Market Research",
@@ -370,13 +396,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
-      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
-      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
+      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
+      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -390,19 +416,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
       "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
-      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
-      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -532,7 +545,7 @@
       "url": "https://www.nbcnews.com/health/health-news/rfk-jr-chemicals-sick-kids-swim-contaminated-water-rcna208576",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250522-Robert-F-Kennedy-Jr-ew-510p-d77db7.jpg",
       "publishedAt": "2025-05-23T02:23:27Z",
-      "content": "As the Trump administration pushes for deep cuts in federal health agencies, Robert F Kennedy Jr. has produced a 72-page summary on the environmental toxins, chemicals and ultraprocessed foods he sai… [+5528 chars]"
+      "content": "As the Trump administration pushes for deep cuts in federal health agencies, Robert F Kennedy Jr. has produced a 72-page summary on the environmental toxins, chemicals and ultraprocessed foods he sai��� [+5528 chars]"
     },
     {
       "source": {
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/aduro-clean-technologies-inc-logo-1200x675.png?v=20250116074236&w=240&h=240&zc=2",
       "publishedAt": "2025-05-21T06:46:51Z",
       "content": "Balchem (NASDAQ:BCPC – Get Free Report) and Aduro Clean Technologies (NASDAQ:ADUR – Get Free Report) are both basic materials companies, but which is the superior business? We will compare the two bu… [+5028 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bangkok Post"
-      },
-      "author": "Apinya Wipatayotin",
-      "title": "Unsafe heavy-metal levels in 3 northernmost rivers",
-      "description": "Unsafe heavy-metal levels have been detected in the Kok, Mekong and Sai rivers in the northernmost provinces of Chiang Mai and Chiang Rai.",
-      "url": "https://www.bangkokpost.com/thailand/general/3030925/unsafe-heavy-metal-levels-in-3-northernmost-rivers",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20250521/c1_3030925_700.jpg",
-      "publishedAt": "2025-05-21T06:13:00Z",
-      "content": "Unsafe heavy-metal levels have been detected in the Kok, Mekong and Sai rivers in the northernmost provinces of Chiang Mai and Chiang Rai. \r\nThe pollution is believed to have come from outside Thaila… [+1582 chars]"
     }
   ],
   "totalResults": 96,
