@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-05-26T12:49:07.520Z",
+  "lastUpdated": "2025-05-26T18:32:14.586Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "NASA acidentally discovers super bacteria that could survive on Mars",
+      "description": "In a surprising discovery, NASA scientists found 26 new bacterial species in a JPL clean room, raising concerns about planetary contamination. These resilient microbes, resistant to radiation and toxins, evolved despite rigorous sterilization. While posing a …",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/nasa-acidentally-discovers-super-bacteria-that-could-survive-on-mars/articleshow/121397195.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121397364,width-1200,height-630,imgsize-26350,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-25T17:36:38Z",
+      "content": "In an unexpected twist, NASA scientists have discovered 26 previously unknown species of bacteriaright inside one of the cleanest places on Earth. The find, made at NASAs Jet Propulsion Laboratory (J… [+3238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Inga Parkel",
+      "title": "FDA recalls oysters due to potential norovirus contamination ahead of Memorial Day",
+      "description": "Diners are advised against eating frozen, raw or half-shell oysters imported from the Republic of Korea",
+      "url": "https://www.the-independent.com/life-style/food-and-drink/oysters-recalled-norovirus-outbreak-fda-memorial-day-b2758022.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/24/21/28/Oysters.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-05-25T16:18:00Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 46",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Sarcoma Ransomware Unveiled: Anatomy of a Double Extortion Gang RVTools Bumblebee Malware Attack – How a Trusted IT Tool Beca…",
+      "url": "https://securityaffairs.com/178265/breaking-news/security-affairs-malware-newsletter-round-46.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-05-25T13:30:13Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 46\r\n | Security Affairs newsletter Round 525 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Operation ENDGAME disrupted global ransomware infrastructure\r\n |… [+167266 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -407,6 +446,19 @@
     {
       "source": {
         "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
+      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
+      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "publishedAt": "2025-05-23T14:00:00Z",
+      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Verified Market Research",
@@ -422,13 +474,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
-      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
-      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
+      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
+      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -442,19 +494,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
       "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
-      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
-      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -1196,45 +1235,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-05-21T10:13:59Z",
       "content": "U.S. CISA adds Ivanti EPMM, MDaemon Email Server, Srimax Output Messenger, Zimbra Collaboration, and ZKTeco BioTime flaws to its Known Exploited Vulnerabilities catalog\r\n | A critical flaw in OpenPGP… [+166368 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Croissants Recalled in Two States",
-      "description": "Wheat allergies can result in severe, sometimes life-threatening, allergic reactions, particularly for consumers with wheat allergy or celiac disease.",
-      "url": "https://www.newsweek.com/croissants-recalled-two-states-2075072",
-      "urlToImage": "https://d.newsweek.com/en/full/2648646/croissant-recall.png",
-      "publishedAt": "2025-05-21T10:11:39Z",
-      "content": "Madeline's Pâtisserie, an Ohio-based bakery, has recalled a batch of its croissants and croissant buns distributed in Michigan and Ohio after discovering a labeling error, meaning the products did no… [+2999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Does Home Heating Oil Go Bad? A Comprehensive Guide",
-      "description": "Understanding Home Heating Oil What is Home Heating Oil? Home heating oil, also known as fuel oil or No. 2 […]\nThe post Does Home Heating Oil Go Bad? A Comprehensive Guide appeared first on Things You Ought to Know.",
-      "url": "https://entrepreneurship.blogs.ie.edu/does-home-heating-oil-go-bad-a-comprehensive-guide/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-21T09:27:05Z",
-      "content": "Understanding Home Heating Oil\r\nWhat is Home Heating Oil?\r\nHome heating oil, also known as fuel oil or No. 2 fuel oil, is a refined petroleum product primarily used in furnaces and boilers to generat… [+11201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Your Complete Guide to City of Corning Garbage Pickup",
-      "description": "Understanding Corning’s Waste Management Services The City of Corning garbage pickup program is designed to provide a comprehensive approach to […]\nThe post Your Complete Guide to City of Corning Garbage Pickup appeared first on Things You Ought to Know.",
-      "url": "https://entrepreneurship.blogs.ie.edu/your-complete-guide-to-city-of-corning-garbage-pickup/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-21T08:57:57Z",
-      "content": "Understanding Cornings Waste Management Services\r\nThe City of Corning garbage pickup program is designed to provide a comprehensive approach to waste disposal for all residents. The service aims not … [+12193 chars]"
     }
   ],
   "totalResults": 95,
