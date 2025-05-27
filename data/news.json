@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-26T18:32:14.586Z",
+  "lastUpdated": "2025-05-27T01:57:48.079Z",
   "articles": [
     {
       "source": {
@@ -446,19 +446,6 @@
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
-      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
-      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Verified Market Research",
@@ -474,13 +461,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
-      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
-      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
+      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
+      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
+      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
+      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
     },
     {
       "source": {
@@ -494,6 +481,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
       "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
+      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
+      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
+      "publishedAt": "2025-05-23T14:00:00Z",
+      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
