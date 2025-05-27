@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-05-27T06:34:46.631Z",
+  "lastUpdated": "2025-05-27T12:51:53.533Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China-linked APT UNC5221 started exploiting Ivanti EPMM flaws shortly after their disclosure",
+      "description": "China-linked APT exploit Ivanti EPMM flaws to target critical sectors across Europe, North America, and Asia-Pacific, according to EclecticIQ. Researchers from EclecticIQ observed a China-linked APT group that chained two Ivanti EPMM flaws, tracked as CVE-202…",
+      "url": "https://securityaffairs.com/178285/apt/china-linked-apt-unc5221-started-exploiting-ivanti-epmm-flaws-shortly-after-their-disclosure.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-37.png",
+      "publishedAt": "2025-05-26T11:31:50Z",
+      "content": "China-linked APT UNC5221 started exploiting Ivanti EPMM flaws shortly after their disclosure\r\n | Fake software activation videos on TikTok spread Vidar, StealC\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER… [+167430 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Taylor Tobin",
+      "title": "The 1 Thing That'll Wash Pesticides Off Fruits And Vegetables",
+      "description": "Complicated washes are trending on TikTok. But are they even necessary?View Entire Post ›",
+      "url": "https://www.buzzfeed.com/taylortobin/how-to-wash-pesticides-off-fruits-and-vegeatbles-7517545-sc",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-08/16/20/enhanced/0974b0c4188e/original-1575-1692216677-10.jpg?crop=800:533;0,0&resize=1250:830",
+      "publishedAt": "2025-05-26T10:31:02Z",
+      "content": "In addition to removing leftover bits of soil and errant garden bugs from delicious summer fruits and vegetables, many of us want to make sure that were clearing away residual pesticides, too. TikTok… [+3321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Conor Gallagher",
+      "title": "Wastewater Plants Could Protect Against PFAS Pollution",
+      "description": "Sewage treatment plants have the power to help reduce people’s exposure to PFAS. It’s time they start using it.",
+      "url": "https://www.nakedcapitalism.com/2025/05/wastewater-plants-could-protect-against-pfas-pollution.html",
+      "urlToImage": null,
+      "publishedAt": "2025-05-26T09:00:52Z",
+      "content": "Conor here: A common sense solution that the US is of course not only not pursuing, but moving further away from. And unfortunately this is another issue where RFK Jr. has been on the right track, bu… [+7648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Fake software activation videos on TikTok spread Vidar, StealC",
+      "description": "Crooks use TikTok videos with fake tips to trick users into running commands that install Vidar and StealC malware in ClickFix attacks. Cybercriminals leverage AI-generated TikTok videos in ClickFix attacks to spread Vidar and StealC malware, reports Trend Mi…",
+      "url": "https://securityaffairs.com/178269/cyber-crime/fake-software-activation-videos-on-tiktok-spread-vidar-stealc.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-36.png",
+      "publishedAt": "2025-05-26T08:12:30Z",
+      "content": "Fake software activation videos on TikTok spread Vidar, StealC\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 46\r\n | Security Affairs newsletter Round 525 by Pierluigi Paganini INTERNATIONAL EDITION\r\n… [+167333 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -281,7 +333,7 @@
       },
       "author": "FDA",
       "title": "Spectrum Brands Pet LLC Recalls a Single Lot of Tetra Reptomin Reptile Food for Aquatic Turtles Because of Possible Salmonella Health Risk",
-      "description": "Spectrum Brands Pet LLC (“SPG”) is voluntarily recalling its Tetra ReptoMin 3-In-1 SELECT-A-FOOD reptile food product intended for aquatic turtles due to potential contamination with Salmonella. The product is packaged in a plastic, 1.56oz container with a gr…",
+      "description": "Spectrum Brands Pet LLC (“SPG”) is voluntarily recalling its Tetra ReptoMin 3-In-1 SELECT-A-FOOD reptile food product intended for aquatic turtles due to potential contamination with Salmonella. The product is packaged in a plastic, 1.56oz container with a gr��",
       "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/spectrum-brands-pet-llc-recalls-single-lot-tetra-reptomin-reptile-food-aquatic-turtles-because",
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-05-24T00:01:00Z",
@@ -385,7 +437,7 @@
       },
       "author": "The Associated Press",
       "title": "Publix recalls baby food pouches after testing finds elevated levels of lead",
-      "description": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. Publix recalled 4-ounce Greenwise Pear, Kiwi, Spinach & Pea Baby Food po…",
+      "description": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. Publix recalled 4-ounce Greenwise Pear, Kiwi, Spinach & Pea Baby Food po���",
       "url": "https://financialpost.com/pmn/publix-recalls-baby-food-pouches-after-testing-finds-elevated-levels-of-lead",
       "urlToImage": null,
       "publishedAt": "2025-05-23T18:14:40Z",
@@ -446,6 +498,19 @@
     {
       "source": {
         "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
+      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
+      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "publishedAt": "2025-05-23T14:00:00Z",
+      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Verified Market Research",
@@ -461,13 +526,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
-      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
-      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
+      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
+      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -481,19 +546,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
       "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
-      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
-      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -1170,73 +1222,8 @@
       "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/05/21/FotoGrid_20250521_141707965.jpg",
       "publishedAt": "2025-05-21T13:04:32Z",
       "content": "Jakarta (ANTARA) - The National Nutrition Agency (BGN) decided to shorten the time window between the production and distribution of food served under the Free Nutritious Meals (MBG) program to preve… [+1884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Medical Bioreactor Market is Set to Reach Valuation of US$ 7.04 Billion By 2033 | Astute Analytica",
-      "description": "Medical bioreactor market is growing due to rising demand for biopharmaceuticals, advancements in cell culture technologies, increasing R&D investments, and expanding applications in regenerative medicine, vaccines, and monoclonal antibody production globally…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/21/3085720/0/en/Medical-Bioreactor-Market-is-Set-to-Reach-Valuation-of-US-7-04-Billion-By-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-05-21T12:30:00Z",
-      "content": "Chicago, May 21, 2025 (GLOBE NEWSWIRE) -- The global medical bioreactor market was valued at US$ 4.31 billion in 2024 and is expected to reach US$ 7.04 billion by 2033, growing at a CAGR of 5.80% dur… [+17724 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Demilked.com"
-      },
-      "author": "Shanilou Perera",
-      "title": "Ex-Workers Expose 35 Shady Secrets Companies Don’t Want The Public To Know",
-      "description": "People expose dirty company secrets they can finally talk about now they don’t work there anymore.\nThe post Ex-Workers Expose 35 Shady Secrets Companies Don’t Want The Public To Know appeared first on DeMilked.",
-      "url": "https://www.demilked.com/dirty-company-secrets/",
-      "urlToImage": "https://static.demilked.com/wp-content/uploads/2025/05/dirty-company-secrets.png",
-      "publishedAt": "2025-05-21T12:29:25Z",
-      "content": "After working in any given company for a year or two, you learn a little something about the inner workings of that organisation. Secrets that management would otherwise withhold from their customers… [+18103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "New Grains Gluten Free Bakery Issues Allergy Alert on Undeclared Eggs, Tree Nuts, Soy, and Milk in Bakery Products",
-      "description": "May 21, 2025 — Spanish Fork, Utah — New Grains Gluten Free Bakery is recalling a variety of products, including breads, bagels, cookies, and croutons, because they may contain undeclared eggs, tree nuts, soy, and milk. People who have an allergy or severe sen…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/new-grains-gluten-free-bakery-issues-allergy-alert-undeclared-eggs-tree-nuts-soy-and-milk-bakery",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-05-21T12:12:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nMay 21, 2025\r\nFDA Publish Date:\r\nMay 22, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUndeclared Al… [+2768 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "US Recalls Cucumbers Linked To Salmonella Outbreak, 26 Cases So Far",
-      "description": "The US FDA has advised against eating, selling or serving the recalled cucumbers as an investigation continues into a multi-state salmonella outbreak.",
-      "url": "https://food.ndtv.com/news/us-recalls-cucumbers-linked-to-salmonella-outbreak-26-cases-so-far-8470431",
-      "urlToImage": "https://c.ndtvimg.com/2025-03/q07ah868_cucumber-benefits_625x300_20_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
-      "publishedAt": "2025-05-21T10:27:35Z",
-      "content": "Cucumbers are being recalled across the United States amid a salmonella outbreak, according to the US Food and Drug Administration (FDA). Salmonella are bacteria that can cause illness within 12 to 7… [+2175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Ivanti EPMM, MDaemon Email Server, Srimax Output Messenger, Zimbra Collaboration, and ZKTeco BioTime flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Ivanti EPMM, MDaemon Email Server, Srimax Output Messenger, Zimbra Collaboration, and ZKTeco BioTime flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastruct…",
-      "url": "https://securityaffairs.com/178140/security/u-s-cisa-adds-ivanti-epmm-mdaemon-email-server-srimax-output-messenger-zimbra-collaboration-and-zkteco-biotime-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-05-21T10:13:59Z",
-      "content": "U.S. CISA adds Ivanti EPMM, MDaemon Email Server, Srimax Output Messenger, Zimbra Collaboration, and ZKTeco BioTime flaws to its Known Exploited Vulnerabilities catalog\r\n | A critical flaw in OpenPGP… [+166368 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 0
 }
