@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-05-27T18:33:02.545Z",
+  "lastUpdated": "2025-05-28T01:59:57.365Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Adeola Adeosun",
+      "title": "Albertsons Recall in 11 States and DC as Salmonella Warning Issued",
+      "description": "Grocery chain recalls Greek salads in 11 states due to a Salmonella outbreak linked to Florida cucumbers that sickened 26 people.",
+      "url": "https://www.newsweek.com/albertsons-recall-issued-11-states-dc-salmonella-warning-2077213",
+      "urlToImage": "https://d.newsweek.com/en/full/2651777/albertsons.jpg",
+      "publishedAt": "2025-05-26T21:58:23Z",
+      "content": "Albertsons Companies has voluntarily recalled three store-made deli items across 11 states and Washington D.C. due to potential Salmonella contamination linked to an ongoing outbreak that has sickene… [+4816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lawyersgunsmoneyblog.com"
+      },
+      "author": "Scott Lemieux",
+      "title": "FDA did not inform public about E. coli outbreak that made dozens of people sick",
+      "description": "This is your government under Trump and Elon: Colton George felt sick. The 9-year-old Indiana boy told his parents his stomach hurt. He kept running to the bathroom and felt too ill to finish a basketball game. Days later, he lay in a hospital bed, fighting f…",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/05/fda-did-not-inform-public-about-e-coli-outbreak-that-made-dozens-of-people-sick",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/05/Logo_of_the_United_States_Food_and_Drug_Administration.svg_.png",
+      "publishedAt": "2025-05-26T21:51:59Z",
+      "content": "Colton George felt sick. The 9-year-old Indiana boy told his parents his stomach hurt. He kept running to the bathroom and felt too ill to finish a basketball game.\r\nDays later, he lay in a hospital … [+1318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Memeorandum.com"
+      },
+      "author": null,
+      "title": "E. coli outbreak sickened more than 80 people, but details didn't surface (Stephanie Armour/Washington Post)",
+      "description": "Stephanie Armour / Washington Post:\nE. coli outbreak sickened more than 80 people, but details didn't surface  —  Food safety inspections are being scaled back and the public was not notified after an investigation into E. coli contamination.  —  Colton Georg…",
+      "url": "https://www.memeorandum.com/250526/p38",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JSNPADLZONLOJGKAPHSNMCPNIQ.jpeg&w=1440",
+      "publishedAt": "2025-05-26T21:20:00Z",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Tom Murray",
+      "title": "Aldi salmon recalled over potentially ‘life-threatening’ risk. Here’s what to know",
+      "description": "Three U.S. states are affected by the recall",
+      "url": "https://www.the-independent.com/life-style/aldi-salmon-seafood-recall-allergen-b2758111.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/26/20/19/aldi-salmon-recalled.png?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-05-26T21:01:22Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Liberty Nation",
+      "title": "Harmless Snacks or Depression Fuel? Microplastics Found in Junk Food",
+      "description": "We all know junk food is bad – but a new study shows just how toxic it really is.Recent articles have converged to paint a horrifying picture of Americans’ increasingly ultra-processed diets and likely brain damage from the microplastics that saturate many fo…",
+      "url": "https://freerepublic.com/focus/f-chat/4319219/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-05-26T20:58:33Z",
+      "content": "Skip to comments.\r\nHarmless Snacks or Depression Fuel? Microplastics Found in Junk FoodLiberty Nation ^\r\n | May 26, 2025\r\n | John Klar\r\nPosted on 05/26/2025 1:58:33 PM PDT by E. Pluribus Unum\r\nWe all… [+3013 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Marlboro-Chesterfield Pathology data breach impacted 235,911 individuals",
+      "description": "SafePay ransomware hit Marlboro-Chesterfield Pathology, stealing personal data of 235,000 people in a major breach. SafePay ransomware hit Marlboro-Chesterfield Pathology, stealing personal data of 235,000 people in a major breach at the North Carolina-based …",
+      "url": "https://securityaffairs.com/178295/data-breach/marlboro-chesterfield-pathology-data-breach-impacted-235911-individuals.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-38.png",
+      "publishedAt": "2025-05-26T18:47:59Z",
+      "content": "Marlboro-Chesterfield Pathology data breach impacted 235,911 individuals\r\n | China-linked APT UNC5221 started exploiting Ivanti EPMM flaws shortly after their disclosure\r\n | Fake software activation … [+167507 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -524,19 +602,6 @@
     {
       "source": {
         "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
-      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
-      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Verified Market Research",
@@ -552,13 +617,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
-      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
-      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
+      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
+      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
+      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
+      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
     },
     {
       "source": {
@@ -572,6 +637,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
       "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
+      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
+      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
+      "publishedAt": "2025-05-23T14:00:00Z",
+      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -793,6 +871,19 @@
       "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/7/92/79225a24-9e79-4a15-be33-55ab1b3fc0aa/682f79c436596.preview.jpg?crop=211%2C211%2C0%2C19&resize=200%2C200&order=crop%2Cresize",
       "publishedAt": "2025-05-22T19:20:00Z",
       "content": "Ukrops Homestyle Foods announced that it is recalling three of its products in response to a cucumber recall by Bedner Growers, due to potential salmonella contamination.\r\nExterior of the Ukrops stor… [+4297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "The Coastal Companies Issues Voluntary Recall on Items with Fresh Start Cucumbers Due to the Potential for Salmonella Contamination",
+      "description": "The Coastal Companies is issuing a voluntary recall of 17 products that were produced from cucumbers grown by Bedner Growers, Inc. and distributed by Fresh Start Produce Sales, Inc. due to the potential for Salmonella contamination. These products were distri…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/coastal-companies-issues-voluntary-recall-items-fresh-start-cucumbers-due-potential-salmonella",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-22T18:18:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nMay 22, 2025\r\nFDA Publish Date:\r\nMay 27, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Description\r\nPoten… [+4741 chars]"
     },
     {
       "source": {
@@ -1131,97 +1222,6 @@
       "urlToImage": null,
       "publishedAt": "2025-05-21T16:15:33Z",
       "content": "Understanding Dairy-Free Thanksgiving\r\nWhat Defines Dairy-Free?\r\nThanksgiving is a time for warmth, gratitude, and, of course, a delicious feast. It’s a cherished holiday centered around gathering wi… [+9709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Any Fruit That Is Infected Is Also Rotten",
-      "description": "Understanding Fruit Infection Definition of Infection The allure of a perfectly ripe piece of fruit is undeniable. From the vibrant […]\nThe post Any Fruit That Is Infected Is Also Rotten appeared first on Things You Ought to Know.",
-      "url": "https://entrepreneurship.blogs.ie.edu/any-fruit-that-is-infected-is-also-rotten/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-21T16:09:27Z",
-      "content": "Understanding Fruit Infection\r\nDefinition of Infection\r\nThe allure of a perfectly ripe piece of fruit is undeniable. From the vibrant colors to the enticing aromas, fruits are a feast for the senses.… [+10553 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Dangerous cucumbers spark nationwide health crisis",
-      "description": "What begins as a simple salad ingredient could end with a trip to the emergency room. A major cucumber recall has been announced  by the FDA as a serious salmonella outbreak spreads across the country. Health officials are urging consumers to take immediate a…",
-      "url": "https://rollingout.com/2025/05/21/dangerous-cucumbers-spark-nation-health/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/05/shutterstock_2482485751-scaled.jpg",
-      "publishedAt": "2025-05-21T15:50:30Z",
-      "content": "What begins as a simple salad ingredient could end with a trip to the emergency room. A major cucumber recall has been announced  by the FDA as a serious salmonella outbreak spreads across the countr… [+13363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Harry Baker",
-      "title": "Never-before-seen 'extreme' microbes surrounded NASA robot before it was sent to Mars 18 years ago, new study reveals",
-      "description": "DNA analysis has revealed that 26 novel species of \"extremophile\" bacteria were lurking in a clean room that housed NASA's Phoenix lander before it was launched to Mars in 2007. The hardy microbes might be capable of surviving in space.",
-      "url": "https://www.livescience.com/space/space-exploration/never-before-seen-extreme-microbes-surrounded-nasa-robot-before-it-was-sent-to-mars-18-years-ago-new-study-reveals",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zyZo6iLvccLYAR3TrqhGmX.jpg",
-      "publishedAt": "2025-05-21T15:04:24Z",
-      "content": "Dozens of never-before-seen species of \"extremophile\" bacteria were hiding in a NASA clean room used to quarantine a Mars lander before it was successfully launched to the Red Planet more than 17 yea… [+4017 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Sausage Recall in 3 States As Listeria Warning Issued",
-      "description": "Listeriosis can cause fever, muscle aches, headaches, stiff neck, confusion, loss of balance and convulsions, diarrhea and other gastrointestinal symptoms.",
-      "url": "https://www.newsweek.com/sausage-recall-3-states-listeria-warning-2075178",
-      "urlToImage": "https://d.newsweek.com/en/full/2648829/sausage-recall.jpg",
-      "publishedAt": "2025-05-21T14:40:18Z",
-      "content": "A Louisiana-based meat processor is recalling around 100 pounds of sausage products because of potential listeria contamination.\r\nBourgeois Smokehouse, located in Thibodaux, Louisiana, announced the … [+3245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Xi Feng, Xiaoman Wang, Shouhong Guang, Shanshan Pang, Haiqing Tang",
-      "title": "Inhibition of the nucleolar RNA exosome facilitates adaptation to starvation",
-      "description": "Cells reallocate their limited energy for cellular maintenance in response to nutrient scarcity at the expense of other processes, but how this trade-off is achieved remains unknown. These authors show that the nucleolar RNA exosome surveillance mechanism can…",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003190",
-      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003190.g007&size=inline",
-      "publishedAt": "2025-05-21T14:00:00Z",
-      "content": "Citation: Feng X, Wang X, Guang S, Pang S, Tang H (2025) Inhibition of the nucleolar RNA exosome facilitates adaptation to starvation. PLoS Biol 23(5):\r\n e3003190.\r\nhttps://doi.org/10.1371/journal.pb… [+65743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Inaliguyau R. T. Lutschini, Kate R. Ballard, Tianfang Wang, Scott F. Cummins",
-      "title": "Acetylcholinesterase-like proteins are a major component of reproductive trail mucus in the invasive pest land snail, Theba pisana",
-      "description": "Invasive invertebrate pests have become a major threat to food security as global populations increase. Pesticides, often containing organophosphates, have long been used as agents for providing immediate short-term recovery, yet are often broad-spectrum, lea…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323380",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323380.g004&size=inline",
-      "publishedAt": "2025-05-21T14:00:00Z",
-      "content": "Abstract\r\nInvasive invertebrate pests have become a major threat to food security as global populations increase. Pesticides, often containing organophosphates, have long been used as agents for prov… [+52867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Coinbase data breach impacted 69,461 individuals",
-      "description": "Cryptocurrency exchange Coinbase announced that the recent data breach exposed data belonging to 69,461 individuals. Coinbase disclosed that a data breach impacted 69,461 individuals after overseas support staff improperly accessed customer and corporate data…",
-      "url": "https://securityaffairs.com/178151/data-breach/coinbase-data-breach-impacted-69461-individuals.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/10/coinbase.jpg",
-      "publishedAt": "2025-05-21T13:36:00Z",
-      "content": "Coinbase data breach impacted 69,461 individuals\r\n | U.S. CISA adds Ivanti EPMM, MDaemon Email Server, Srimax Output Messenger, Zimbra Collaboration, and ZKTeco BioTime flaws to its Known Exploited V… [+166421 chars]"
     }
   ],
   "totalResults": 94,
