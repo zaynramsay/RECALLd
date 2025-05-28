@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-05-28T06:34:42.017Z",
+  "lastUpdated": "2025-05-28T12:51:37.321Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Nutritionfacts.org"
+      },
+      "author": "Michael Greger M.D. FACLM",
+      "title": "Food Safety and Cultivated Meat",
+      "description": "What are the direct health implications of making clean meat—that is, meat without animals? In a 1932 article in Popular Mechanics entitled “Fifty Years Hence,” […]",
+      "url": "https://nutritionfacts.org/blog/food-safety-and-cultivated-meat/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/05/8-1200x675.jpg",
+      "publishedAt": "2025-05-27T12:00:45Z",
+      "content": "What are the direct health implications of making clean meatthat is, meat without animals?\r\nIn a 1932 article in Popular Mechanicsentitled Fifty Years Hence, Winston Churchill predicted that we would… [+4056 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Gretchen Eichenberg",
+      "title": "Deli meat, cucumbers top list of 'really risky foods' you might have in the fridge",
+      "description": "A 41% rise in food recalls in 2024 highlights the risk of salmonella, E. coli and listeria in common foods such as deli meats, cucumbers, raw milk and eggs, says Consumer Reports.",
+      "url": "https://www.foxnews.com/food-drink/deli-meat-cucumbers-top-list-risky-foods-you-might-have-fridge",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/iStock-855898984.jpg",
+      "publishedAt": "2025-05-27T11:00:00Z",
+      "content": "Cucumbers, deli meat and eggs are just a few of the everyday grocery items that made a list from Consumer Reports of \"10 Really Risky Foods Right Now.\"\r\nIt's based on the number of illnesses and deat… [+8237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Saudi Arabia $308.69 Mn Plastic Recycling Market Trends, Competition, Forecast and Opportunities, 2020-2024 & 2025-2030",
+      "description": "Saudi Arabia's plastic recycling market thrives on government sustainability policies and industry growth in packaging and consumer goods. New recycling technologies and large-scale facilities drive demand for recycled plastics, though challenges remain in wa…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/27/3088375/28124/en/Saudi-Arabia-308-69-Mn-Plastic-Recycling-Market-Trends-Competition-Forecast-and-Opportunities-2020-2024-2025-2030.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-05-27T08:08:00Z",
+      "content": "Dublin, May 27, 2025 (GLOBE NEWSWIRE) -- The \"Saudi Arabia Plastic Recycling Market, By Region, Competition, Forecast and Opportunities, 2020-2030F\" has been added to ResearchAndMarkets.com's offerin… [+11483 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Nova Scotia Power confirms it was hit by ransomware attack but hasn’t paid the ransom",
+      "description": "Nova Scotia Power confirms it was hit by a ransomware attack but hasn’t paid the ransom, nearly a month after first disclosing the cyberattack. Nova Scotia Power confirmed it was hit by a ransomware attack nearly a month after disclosing a cyber incident. The…",
+      "url": "https://securityaffairs.com/178323/data-breach/nova-scotia-power-confirms-it-was-hit-by-ransomware-but-hasnt-paid-the-ransom.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/01/uk-power-grid.jpg",
+      "publishedAt": "2025-05-27T07:02:35Z",
+      "content": "Nova Scotia Power confirms it was hit by ransomware attack but hasn't paid the ransom\r\n | Crooks stole over $200 million from crypto exchange Cetus Protocol\r\n | Marlboro-Chesterfield Pathology data b… [+167668 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -26,6 +78,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Chemical-Hazard-Protection-Radiation-Reactor-Accident-Air.jpg",
       "publishedAt": "2025-05-27T06:00:00Z",
       "content": "<ul><li>In Episode 10 of \"Breaking the Chains: Decentralize Your Life,\" Mike Adams and Kristen Meghan exposed flaws in official responses to crises like the East Palestine train derailment, where res… [+4866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Kevin Hughes",
+      "title": "Health Ranger Report: David Steinman discusses the dangers of CHEMICAL TOXINS",
+      "description": "Mike Adams and David Steinman discussed the severe health risks posed by pervasive toxins (e.g., DDT, PCBs, phthalates) in food, water and consumer products, emphasizing their links to cancer, developmental issues and cognitive impairments — especially in chi…",
+      "url": "https://www.naturalnews.com/2025-05-27-david-steinman-discusses-dangers-of-chemical-toxins.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Danger-Sign-Hazardous-Chemicals-1.jpg",
+      "publishedAt": "2025-05-27T06:00:00Z",
+      "content": "<ul><li>Mike Adams and David Steinman discussed the severe health risks posed by pervasive toxins (e.g., DDT, PCBs, phthalates) in food, water and consumer products, emphasizing their links to cancer… [+6707 chars]"
     },
     {
       "source": {
@@ -654,6 +719,19 @@
     {
       "source": {
         "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
+      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
+      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "publishedAt": "2025-05-23T14:00:00Z",
+      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Verified Market Research",
@@ -669,13 +747,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
-      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
-      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
+      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
+      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -689,19 +767,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
       "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
-      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
-      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -1157,71 +1222,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Jasmine-Rice-In-Bowl-And-Sack-On-Wooden-Table.jpg",
       "publishedAt": "2025-05-22T06:00:00Z",
       "content": "<ul><li>A study by Healthy Babies, Bright Futures (HBBF) found arsenic in all 145 tested rice samples (both U.S. and imported brands), with one in four exceeding the FDA's 100 ppb limit for infant ri… [+5075 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Dr. Joseph Mercola",
-      "title": "Study Confirms Birds Are Breathing in Microplastics — Are You Inhaling Them Too?",
-      "description": "Microplastics are tiny plastic particles less than 5 millimeters in size, found everywhere in the environment, and capable of accumulating in human and animal lung tissues\nA 2025 study found microplastic particles in every lung sample from 51 bird species, …\n…",
-      "url": "https://www.globalresearch.ca/study-confirms-birds-breathing-microplastics/5887451",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/05/microplastic-birds.jpeg",
-      "publishedAt": "2025-05-22T02:24:14Z",
-      "content": "Microplastics are tiny plastic particles less than 5 millimeters in size, found everywhere in the environment, and capable of accumulating in human and animal lung tissues\r\nA 2025 study found micropl… [+19651 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KPBS"
-      },
-      "author": "Heidi de Marco",
-      "title": "El Cajon skilled nursing facility kitchen temporarily shut down for ‘major’ health violations",
-      "description": "County inspectors found a vermin infestation and other violations at San Diego Post Acute Center, prompting a temporary closure of its kitchen.",
-      "url": "https://www.kpbs.org/news/health/2025/05/21/el-cajon-skilled-nursing-facility-kitchen-temporarily-shut-down-for-major-health-violations",
-      "urlToImage": "https://cdn.kpbs.org/dims4/default/b04fc3d/2147483647/strip/true/crop/2891x1518+6+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fbf%2Fa0%2Fe60418e94b73a58450a88c9a6dbf%2Fsan-diego-post-acute-center.jpg",
-      "publishedAt": "2025-05-22T00:49:35Z",
-      "content": "San Diego County health inspectors found multiple health violations\r\n during a routine inspection of the kitchen at San Diego Post Acute Center\r\n in El Cajon on May 14. The inspector required the fac… [+2302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Understanding 3-Way Plug Valves: Function, Types, and Applications",
-      "description": "The Core Mechanics of Three-Way Plug Valves Imagine a complex network of pipes, tubes, and vessels, carrying precious fluids essential […]\nThe post Understanding 3-Way Plug Valves: Function, Types, and Applications appeared first on Things You Ought to Know.",
-      "url": "https://entrepreneurship.blogs.ie.edu/understanding-3-way-plug-valves-function-types-and-applications/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-22T00:37:39Z",
-      "content": "The Core Mechanics of Three-Way Plug Valves\r\nImagine a complex network of pipes, tubes, and vessels, carrying precious fluids essential for a myriad of processes. Whether it’s oil flowing through pip… [+14884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ie.edu"
-      },
-      "author": "Jesse",
-      "title": "Champion Air Compressor Parts Diagram: A Comprehensive Guide",
-      "description": "Understanding the Importance of a Parts Diagram The Value of Exploded Views The hum of a Champion air compressor is […]\nThe post Champion Air Compressor Parts Diagram: A Comprehensive Guide appeared first on Things You Ought to Know.",
-      "url": "https://entrepreneurship.blogs.ie.edu/champion-air-compressor-parts-diagram-a-comprehensive-guide/",
-      "urlToImage": null,
-      "publishedAt": "2025-05-21T22:17:31Z",
-      "content": "Understanding the Importance of a Parts Diagram\r\nThe Value of Exploded Views\r\nThe hum of a Champion air compressor is a familiar sound in workshops, garages, and construction sites across the globe. … [+15014 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "The Associated Press",
-      "title": "The top 9 grilling mistakes and how to fix them",
-      "description": "Print this list and refer to it the next time you get ready to grill.",
-      "url": "https://www.denverpost.com/2025/05/21/grilling-mistakes/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/Food_Grilling_Mistakes_43238-1.jpg?w=1024&h=740",
-      "publishedAt": "2025-05-21T22:09:08Z",
-      "content": "By ELIZABETH KARMEL, Associated Press\r\nI love to grill, and barbecue, and I have devoted my career to outdoor cooking for more than two decades. In that time, Ive seen a lot of mistakes, and people t… [+5683 chars]"
     }
   ],
   "totalResults": 94,
