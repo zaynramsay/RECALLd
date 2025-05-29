@@ -1,6 +1,149 @@
 {
-  "lastUpdated": "2025-05-29T12:50:20.427Z",
+  "lastUpdated": "2025-05-29T18:34:14.222Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Monica Mercuri, Contributor, \n Monica Mercuri, Contributor\n https://www.forbes.com/sites/monicamercuri/",
+      "title": "Was James Lewis The Tylenol Killer? The Chilling True Story Behind Netflix’s Docuseries",
+      "description": "Was James Lewis the Tylenol Killer who laced capsules with cyanide in the 1980s? Here's what to know about the infamous case featured in Netflix’s \"Cold Case\" docuseries.",
+      "url": "https://www.forbes.com/sites/monicamercuri/2025/05/28/was-james-lewis-the-tylenol-killer-the-chilling-true-story-behind-netflixs-docuseries/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/683747996a9e279782ceea59/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-28T17:52:06Z",
+      "content": "Cold Case: The Tylenol Murders\r\nCourtesy of Netflix\r\nFour decades after the Tylenol murders caused mass panic in Chicago and across the country, Netflixs new docuseries Cold Case: The Tylenol Murders… [+11732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Czech Republic accuses China’s APT31 of a cyberattack on its Foreign Ministry",
+      "description": "The Czech government condemned China after linking cyber espionage group APT31 to a cyberattack on its critical infrastructure. The Czech government strongly condemned China after the cyber espionage group APT31 was linked to a cyberattack targeting the natio…",
+      "url": "https://securityaffairs.com/178399/apt/czech-republic-accuses-chinas-apt31-of-a-cyberattack-on-its-foreign-ministrys-unclassified-network.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+      "publishedAt": "2025-05-28T17:49:45Z",
+      "content": "Czech Republic accuses China's APT31 of a cyberattack on its Foreign Ministry\r\n | New PumaBot targets Linux IoT surveillance devices\r\n | App Store Security: Apple stops $2B in fraud in 2024 alone, $9… [+168191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Richmond.com"
+      },
+      "author": "DAVE RESS Richmond Times-Dispatch",
+      "title": "Dem lawmakers urge state action after U.S. food safety cuts",
+      "description": "Del. Mark Sickles, D-Fairfax and Sen. Ghazala Hashmi, D-Chesterfield, said the state must review its laws, regulations and guidelines to make sure there is sufficient oversight.",
+      "url": "https://richmond.com/news/state-regional/government-politics/article_0852e9f2-adc3-4505-af6e-38d3653aa2bc.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/85/0852e9f2-adc3-4505-af6e-38d3653aa2bc/68372f2f0a6cf.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-28T17:22:00Z",
+      "content": "It's time to take a hard look at what's been some obscure parts of state government now that the Trump administration has been cutting food safety oversight, the two chairs of the General Assembly's … [+4576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "ANNABELLE LAWRENCE",
+      "title": "Mind your habits when it comes to microplastics",
+      "description": "IPOH: With growing concerns over microplastics contamination, more are becoming cautious about their food and how they store it. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/05/29/mind-your-habits-when-it-comes-to-microplastics",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/05/29/3340092.jpeg",
+      "publishedAt": "2025-05-28T16:00:00Z",
+      "content": "IPOH: With growing concerns over microplastics contamination, more are becoming cautious about their food and how they store it.\r\nIntern S. Sarviny, 23, said she was becoming mindful of her food inta… [+1445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Ameliorate Digital Consultancy Pvt Ltd",
+      "title": "Pharmaceutical Activated Carbon Market to Double by 2034, Reaching $2.4 Billion with 7.5% CAGR | Exactitude Consultancy",
+      "description": "Pharmaceutical Activated Carbon Market Outlook: 2025 to 2034 Pharmaceutical Activated Carbon Market Outlook: 2025 to 2034",
+      "url": "https://www.globenewswire.com/news-release/2025/05/28/3089708/0/en/Pharmaceutical-Activated-Carbon-Market-to-Double-by-2034-Reaching-2-4-Billion-with-7-5-CAGR-Exactitude-Consultancy.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a576ded2-f738-4a7c-bbf9-189ed83b2265",
+      "publishedAt": "2025-05-28T14:04:00Z",
+      "content": "Luton, Bedfordshire, United Kingdom, May 28, 2025 (GLOBE NEWSWIRE) -- Market Overview\r\nThe pharmaceutical activated carbon market is valued at approximately $1.2 billion in 2024, with expectations to… [+25042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New PumaBot targets Linux IoT surveillance devices",
+      "description": "PumaBot targets Linux IoT devices, using SSH brute-force attacks to steal credentials, spread malware, and mine crypto. Darktrace researchers discovered a new botnet called PumaBot targets Linux-based IoT devices, using SSH brute-force attacks to steal creden…",
+      "url": "https://securityaffairs.com/178386/malware/pumabot-targets-linux-iot-devices.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-42.png",
+      "publishedAt": "2025-05-28T14:01:56Z",
+      "content": "New PumaBot targets Linux IoT surveillance devices\r\n | App Store Security: Apple stops $2B in fraud in 2024 alone, $9B over 5 years\r\n | Crooks use a fake antivirus site to spread Venom RAT and a mix … [+168109 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
+      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
+      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
+      "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
+      "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323497",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yutaro Miyairi, Yuichi Kimura, Koji Masuda, Hidehiko Uchiyama",
+      "title": "Behavioral responses of domestic cats to human odor",
+      "description": "People all around the world live with cats and cats engage in many social behaviors toward their owners. Olfaction is one of the most important sensory abilities in cats, yet its role in recognizing humans remains unclear. In this study, we assessed the role …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324016",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324016.g006&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Abstract\r\nPeople all around the world live with cats and cats engage in many social behaviors toward their owners. Olfaction is one of the most important sensory abilities in cats, yet its role in re… [+27928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "10 toxic foods that doubled illness rates in 2024",
+      "description": "As we move through 2025, the devastating food safety crisis of 2024 continues to cast a long shadow over American kitchens and grocery stores. Last year’s alarming surge in foodborne illnesses doubled hospitalization rates and forever changed how millions of …",
+      "url": "https://rollingout.com/2025/05/28/foods-that-doubled-illness-rates-in-2024/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/05/shutterstock_2214081349-scaled.jpg",
+      "publishedAt": "2025-05-28T13:29:44Z",
+      "content": "As we move through 2025, the devastating food safety crisis of 2024 continues to cast a long shadow over American kitchens and grocery stores. Last year’s alarming surge in foodborne illnesses double… [+11291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "App Store Security: Apple stops $2B in fraud in 2024 alone, $9B over 5 years",
+      "description": "Apple blocked over $9B in fraud in 5 years, including $2B in 2024, stopping scams from deceptive apps to fake payment schemes on the App Store. In the past five years alone, Apple says it has blocked over $9 billion in fraudulent transactions, more than $2 bi…",
+      "url": "https://securityaffairs.com/178376/mobile-2/app-store-security-apple-stops-2b-in-fraud-in-2024-alone-9b-over-5-years.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-41.png",
+      "publishedAt": "2025-05-28T13:06:47Z",
+      "content": "App Store Security: Apple stops $2B in fraud in 2024 alone, $9B over 5 years\r\n | Crooks use a fake antivirus site to spread Venom RAT and a mix of malware\r\n | Iranian Man pleaded guilty to role in Ro… [+168054 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1066,138 +1209,8 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
       "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Ameliorate Digital Consultancy Pvt Ltd",
-      "title": "Hydrogen Peroxide Airborne Surface Disinfection Market to Reach US$ 3.8 Billion by 2034, Driven by Demand for Advanced Infection Control Solutions | Exactitude Consultancy",
-      "description": "Hydrogen Peroxide Airborne Surface Disinfection Market Outlook 2025-2034 Hydrogen Peroxide Airborne Surface Disinfection Market Outlook 2025-2034",
-      "url": "https://www.globenewswire.com/news-release/2025/05/23/3087516/0/en/Hydrogen-Peroxide-Airborne-Surface-Disinfection-Market-to-Reach-US-3-8-Billion-by-2034-Driven-by-Demand-for-Advanced-Infection-Control-Solutions-Exactitude-Consultancy.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a576ded2-f738-4a7c-bbf9-189ed83b2265",
-      "publishedAt": "2025-05-23T13:45:00Z",
-      "content": "Luton, Bedfordshire, United Kingdom, May 23, 2025 (GLOBE NEWSWIRE) -- The global hydrogen peroxide airborne surface disinfection market is expected to reach approximately $1.5 billion in 2024, and is… [+18987 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Yummi Sushi products sold at Kroger stores in Florida recalled for Salmonella risk",
-      "description": "Supreme Service Solutions LLC, operating as Supreme Produce, is recalling Yummi Sushi products sold at Kroger and its affiliated stores in Florida because of potential contamination with Salmonella.  Bedner Growers Inc. identified the contamination following …",
-      "url": "https://www.foodsafetynews.com/2025/05/yummi-sushi-products-sold-at-kroger-stores-in-florida-recalled-for-salmonella-risk/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/091/622/213/0Mn5r3E1XY0DJPvqYWPoD9kg7/d672ca1213d4b5ba4fd34a884af934b66e0663a6.png",
-      "publishedAt": "2025-05-23T13:26:01Z",
-      "content": "Supreme Service Solutions LLC, operating as Supreme Produce, is recalling Yummi Sushi products sold at Kroger and its affiliated stores in Florida because of potential contamination with Salmonella. … [+2699 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Taylor Leamey",
-      "title": "Top 10 Foods Contaminated With Microplastics. Here's How to Avoid Them",
-      "description": "Munching on lunch? You might be getting a mouthful of microplastics with each bite.",
-      "url": "https://www.cnet.com/health/nutrition/top-10-foods-contaminated-with-microplastics-heres-how-to-avoid-them/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-05-23T13:00:03Z",
-      "content": "Microplastics have just been found to be in our chewing gum. Researchers at UCLA discovered that microplastics are released directly into our mouths every time we chew gum. In a new study published i… [+10328 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "McKenzie Beard",
-      "title": "Grill, interrupted: These classic food safety mistakes could spoil your holiday weekend",
-      "description": "Memorial Day is almost here — and that means it's time to grill, chill and fill your plate.",
-      "url": "https://nypost.com/2025/05/23/health/avoid-these-memorial-day-weekend-classic-food-safety-mistakes/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-85e4f30p0-1747944081035.jpg?quality=75&strip=all&1747944520&w=1024",
-      "publishedAt": "2025-05-23T12:00:00Z",
-      "content": "Memorial Day is almost here and that means it’s time to grill, chill and fill your plate.\r\nBut while youre flipping burgers and cracking cold ones, dont forget: food poisoning loves a good outdoor pa… [+6660 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Vivian Chung",
-      "title": "6 Red Flags Your Gelato Isn't Legit, According To Experts",
-      "description": "Just because it's colorful and towering in the display case, that doesn't mean it's good. In fact, it may mean the opposite.",
-      "url": "https://www.huffpost.com/entry/how-to-tell-difference-between-gelato_l_68274375e4b0f10918e31c09",
-      "urlToImage": "https://img.huffingtonpost.com/asset/682783bb1a000024003bc5fb.jpeg?ops=1200_630",
-      "publishedAt": "2025-05-23T11:00:30Z",
-      "content": "If it's towering much higher than this and piled with too many ingredients, watch out.\r\nWe love a sweet treat as much as anyone, but that picture-perfect gelato display might be more style than subst… [+8051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Operation RapTor led to the arrest of 270 dark web vendors and buyers",
-      "description": "Law enforcement operation codenamed ‘Operation RapTor’ led to the arrest of 270 dark web vendors and buyers across 10 countries. Police arrested 270 suspects following an international law enforcement action codenamed ‘Operation RapTor’ that targeted dark web…",
-      "url": "https://securityaffairs.com/178221/deep-web/operation-raptor-arrest-270-dark-web-vendors-and-buyers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-34.png",
-      "publishedAt": "2025-05-23T09:39:34Z",
-      "content": "Operation RapTor led to the arrest of 270 dark web vendors and buyers\r\n | Chinese threat actors exploited Trimble Cityworks flaw to breach U.S. local government networks\r\n | U.S. CISA adds a Samsung … [+167007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Chinese threat actors exploited Trimble Cityworks flaw to breach U.S. local government networks",
-      "description": "A Chinese threat actor, tracked as UAT-6382, exploited a patched Trimble Cityworks flaw to deploy Cobalt Strike and VShell. Cisco Talos researchers attribute the exploitation of the CVE-2025-0994 in Trimble Cityworks to Chinese-speaking threat actor UAT-6382,…",
-      "url": "https://securityaffairs.com/178203/hacking/chinese-threat-actors-exploited-trimble-cityworks-flaw-to-breach-u-s-local-government-networks.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
-      "publishedAt": "2025-05-23T06:27:41Z",
-      "content": "Chinese threat actors exploited Trimble Cityworks flaw to breach U.S. local government networks\r\n | U.S. CISA adds a Samsung MagicINFO 9 Server flaw to its Known Exploited Vulnerabilities catalog\r\n |… [+166933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Synthetic chemicals in ultra-processed foods contribute to serious health issues, study finds",
-      "description": "Synthetic chemicals from packaging, additives and processing equipment in ultra-processed foods contribute to chronic diseases, such as obesity and heart disease, beyond what nutritional labels indicate. A Nature Medicine review highlights microplastics, PFAS…",
-      "url": "https://www.naturalnews.com/2025-05-23-study-synthetic-chemicals-upfs-contribute-health-issues.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Woman-Grocery-Shopping.jpg",
-      "publishedAt": "2025-05-23T06:00:00Z",
-      "content": "<ul><li>Synthetic chemicals from packaging, additives and processing equipment in ultra-processed foods contribute to chronic diseases, such as obesity and heart disease, beyond what nutritional labe… [+4886 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Memorial Day food safety: Keep your cookout safe",
-      "description": "For Memorial Day weekend, millions of Americans will fire up grills and gather outdoors to honor fallen heroes. But with warm May temperatures, food safety is critical to prevent foodborne illnesses. The U.S. Department of Agriculture’s Food Safety and Inspec…",
-      "url": "https://www.foodsafetynews.com/?p=249584",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/091/575/831/g4ZpR2ONeYJ5rk5mQEqvo9WBA/236237fb38bd3a2a1c08fe76384c91532052ed88.png",
-      "publishedAt": "2025-05-23T04:01:00Z",
-      "content": "For Memorial Day weekend, millions of Americans will fire up grills and gather outdoors to honor fallen heroes. But with warm May temperatures, food safety is critical to prevent foodborne illnesses.… [+2139 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Erika Edwards",
-      "title": "Food dyes, sick kids and a dip in contaminated water: RFK Jr. weighs in on his first 100 days",
-      "description": "Health Secretary Robert F. Kennedy Jr. told NBC News that the Trump administration is simplifying the dietary guidelines meant to advise Americans on healthy eating.",
-      "url": "https://www.nbcnews.com/health/health-news/rfk-jr-chemicals-sick-kids-swim-contaminated-water-rcna208576",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250522-Robert-F-Kennedy-Jr-ew-510p-d77db7.jpg",
-      "publishedAt": "2025-05-23T02:23:27Z",
-      "content": "As the Trump administration pushes for deep cuts in federal health agencies, Robert F Kennedy Jr. has produced a 72-page summary on the environmental toxins, chemicals and ultraprocessed foods he sai… [+5528 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
