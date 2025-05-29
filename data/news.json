@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-05-29T01:59:42.921Z",
+  "lastUpdated": "2025-05-29T06:35:22.624Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Cassie B.",
+      "title": "Toxicologist reveals four simple ways to slash microplastics in your drinking water",
+      "description": "Microplastics from water, food, and air are linked to serious health risks like heart disease and cancer, yet most people are unaware of their widespread presence. Bottled water is a major source of microplastics, with research showing filtered tap water can …",
+      "url": "https://www.naturalnews.com/2025-05-28-toxicologist-ways-slash-microplastics-water.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Water-Woman-Glass-Kitchen-Happy-Portrait-Adult.jpg",
+      "publishedAt": "2025-05-28T06:00:00Z",
+      "content": "<ul><li>Microplastics from water, food, and air are linked to serious health risks like heart disease and cancer, yet most people are unaware of their widespread presence.</li><li>Bottled water is a … [+5000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "BEYOND BURGERS: How drought, dependency and politics are crippling the American beef industry",
+      "description": "Ground beef hits record $5.80/lb as U.S. cattle numbers hit 73-year low. USDA reports reveal feedlot cattle at 2020 lows and cold storage beef down 50% since 2014. Drought, trade restrictions and synthetic farming practices fuel cattle crisis. Tyson Foods shi…",
+      "url": "https://www.naturalnews.com/2025-05-28-drought-dependency-politics-crippling-american-beef-industry.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Cow-Cattle-Livestock-Farm-Sunset.jpg",
+      "publishedAt": "2025-05-28T06:00:00Z",
+      "content": "<ul><li>Ground beef hits record $5.80/lb as U.S. cattle numbers hit 73-year low.</li><li>USDA reports reveal feedlot cattle at 2020 lows and cold storage beef down 50% since 2014.</li><li>Drought, tr… [+5452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Charisma Madarang",
+      "title": "Why Are Health Influencers Drinking Raw Milk and Honey Shots at the White House?",
+      "description": "Health influencers flocked to Trump's White House last week for a press event celebrating the release of a report by RFK Jr.'s MAHA commission.",
+      "url": "http://www.rollingstone.com/politics/politics-news/raw-milk-honey-maha-report-white-house-influencers-1235349031/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/05/raw-milk-white-house.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2025-05-28T03:51:05Z",
+      "content": "Health influencers flocked to the White House last week for a press event celebrating the release of a report by Donald Trump‘s “Make America Healthy Again” or “MAHA” commission, chaired by Health Se… [+4690 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -849,6 +888,19 @@
     {
       "source": {
         "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
+      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
+      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "publishedAt": "2025-05-23T14:00:00Z",
+      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "Verified Market Research",
@@ -864,13 +916,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
-      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
-      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
+      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
+      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
+      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
+      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -884,19 +936,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
       "publishedAt": "2025-05-23T14:00:00Z",
       "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
-      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
-      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
     },
     {
       "source": {
@@ -1183,45 +1222,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/105093454.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-05-22T15:05:29Z",
       "content": "The FDA and CDC are investigating a cucumber recall linked to a nationwide salmonella outbreak that sickening at least 26 individuals, the agencies said this week.\r\nCucumbers grown by Bedner Growers … [+2178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Walmart Inc. Recalls Marketside Fresh Cut Cucumber Slices in Select Texas Stores Because of Possible Health Risk",
-      "description": "BENTONVILLE, Ark. May 22nd, 2025 Walmart Inc. is voluntarily recalling Marketside Fresh Cut Cucumber Slices, produced in select stores located in Texas, because of the potential for Salmonella contamination. The recall was initiated because this product may c…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/walmart-inc-recalls-marketside-fresh-cut-cucumber-slices-select-texas-stores-because-possible-health",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-05-22T14:30:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nMay 22, 2025\r\nFDA Publish Date:\r\nMay 23, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Description\r\nCompa… [+2911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New Signal update stops Windows from capturing user chats",
-      "description": "Signal implements new screen security on Windows 11, blocking screenshots by default to protect user privacy from Microsoft’s Recall feature. A Signal update for the Windows app prevents the system from capturing screenshots by default. The feature protects u…",
-      "url": "https://securityaffairs.com/178187/digital-id/new-signal-update-stops-windows-from-capturing-user-chats.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/08/signal-app.png",
-      "publishedAt": "2025-05-22T14:18:01Z",
-      "content": "New Signal update stops Windows from capturing user chats\r\n | Law enforcement dismantled the infrastructure behind Lumma Stealer MaaS\r\n | Russia-linked APT28 targets western logistics entities and te… [+166733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Mikayla C. Olson, Linley R. Pierce, Robert C. Orchard",
-      "title": "Development of a replication competent murine norovirus reporter system",
-      "description": "Author summary Colloquially known as “the stomach bug,” human norovirus is a leading cause of foodborne illness worldwide. Despite its prevalence, there are no approved therapeutics or vaccines against norovirus owing to the challenges in cultivation of the v…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012834",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012834.g003&size=inline",
-      "publishedAt": "2025-05-22T14:00:00Z",
-      "content": "Citation: Olson MC, Pierce LR, Orchard RC (2025) Development of a replication competent murine norovirus reporter system. PLoS Pathog 21(5):\r\n e1012834.\r\nhttps://doi.org/10.1371/journal.ppat.1012834\r… [+23341 chars]"
     }
   ],
   "totalResults": 94,
