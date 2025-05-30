@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-05-29T18:34:14.222Z",
+  "lastUpdated": "2025-05-30T01:57:15.825Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "BY RENEE GARFINKEL",
+      "title": "How we are being played by enemies, politicians, and ourselves",
+      "description": "The psychological warfare waged by our enemies is obvious, but the manipulation and gaslighting done within the Israeli government and society are no less dangerous.",
+      "url": "https://www.jpost.com/opinion/article-855736",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/657727",
+      "publishedAt": "2025-05-28T22:54:12Z",
+      "content": "Psychological warfare isn’t always loud or obvious. Sometimes, it hides in plain sight, cloaked in compassion, urgency, or even religious devotion. It can look like journalism. It can sound like conc… [+4380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pleated-jeans.com"
+      },
+      "author": "Mike",
+      "title": "40 Chefs Share Pro Cooking Tips Anyone Can Incorporate Into Their Own Kitchen",
+      "description": "In the bustling digital kitchen of Reddit, a thread has emerged as a goldmine for culinary enthusiasts seeking to elevate their home cooking. This online gathering of good cooks and novices alike has cooked up a feast of invaluable tips, from secret ingredien…",
+      "url": "https://pleated-jeans.com/2025/05/28/chefs-share-pro-cooking-tips/",
+      "urlToImage": "https://pleated-jeans.com/wp-content/uploads/2024/02/Untitled-1-27.jpg",
+      "publishedAt": "2025-05-28T22:09:07Z",
+      "content": "In the bustling digital kitchen of Reddit, a thread has emerged as a goldmine for culinary enthusiasts seeking to elevate their home cooking. This online gathering of good cooks and novices alike has… [+12823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Kirk Siegler",
+      "title": "A reality check about L.A.'s wildfire cleanup",
+      "description": "LA Mayor Karen Bass says her city is recovering faster than after any other wildfire in modern California history. But experts caution against cleaning up too fast given the risks of toxic debris.",
+      "url": "https://www.npr.org/2025/05/28/nx-s1-5403841/a-reality-check-about-l-a-s-wildfire-cleanup",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-05-28T22:05:51Z",
+      "content": "ARI SHAPIRO, HOST: \r\n Los Angeles is approaching the five-month mark since January's deadly wildfires, and federal clean-up crews are months ahead of schedule removing burned debris from thousands of… [+5544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yale.edu"
+      },
+      "author": "news@yale.edu (Yale News)",
+      "title": "Why the FDA recalled six popular acne products",
+      "description": "Guided by Yale expertise, federal regulators in March announced recalls of several acne products due to high levels of the cancer-causing chemical&nbsp;benzene.",
+      "url": "https://medicine.yale.edu/news-article/why-the-fda-recalled-six-popular-acne-products/",
+      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/afe801b1-56cb-4c1d-b485-51f68b7bd8d7",
+      "publishedAt": "2025-05-28T18:42:16Z",
+      "content": "In March, the U.S. Food and Drug Administration (FDA) announced voluntary recalls of several popular acne products due to contamination with benzene, a known cancer-causing chemical.\r\nThe FDA was pro… [+12724 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -84,19 +136,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
-      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
-      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
-      "publishedAt": "2025-05-28T14:00:00Z",
-      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
       "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
       "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
@@ -104,6 +143,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
       "publishedAt": "2025-05-28T14:00:00Z",
       "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
+      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
+      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
     },
     {
       "source": {
@@ -584,7 +636,7 @@
       "url": "https://www.memeorandum.com/250526/p38",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JSNPADLZONLOJGKAPHSNMCPNIQ.jpeg&w=1440",
       "publishedAt": "2025-05-26T21:20:00Z",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out�� [+72 chars]"
     },
     {
       "source": {
@@ -1157,58 +1209,6 @@
       "urlToImage": "https://mma.prnewswire.com/media/2684869/The_Research_Insights_Logo.jpg?p=facebook",
       "publishedAt": "2025-05-23T14:30:00Z",
       "content": "CHICAGO, May 23, 2025 /PRNewswire/ -- The global green packaging market size is projected to be valued at USD 365.46 billion by 2025 and reach USD 503.43 billion by 2030, growing at a CAGR of 6.6% ac… [+15726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kiera Middel, Hailey Strydhorst, Hannah McKenzie, Chunu Mainali, Darcy R. Visscher",
-      "title": "Social context influences Toxoplasma gondii and Trichinella spp. infection in Alberta free-roaming wild pigs (Sus scrofa)",
-      "description": "The increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is caused by the parasitic nematode Trichinella spp. and can manifest clinical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324617",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324617.g002&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nThe increasing spread of wild pigs across Canada is concerning due to their potential role as reservoirs for zoonotic diseases, including trichinosis and toxoplasmosis. Trichinosis is cause… [+44846 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Verified Market Research",
-      "title": "Hydrogen Peroxide Market is expected to generate a revenue of USD 2.92 Billion by 2032, Globally, at 6.50% CAGR: Verified Market Research®",
-      "description": "The Hydrogen Peroxide Market presents strong growth opportunities driven by eco-conscious demand from pulp & paper, wastewater treatment, and healthcare sectors. However, safety, storage, and regulatory challenges must be strategically managed. Asia-Pacific o…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/23/3087535/0/en/Hydrogen-Peroxide-Market-is-expected-to-generate-a-revenue-of-USD-2-92-Billion-by-2032-Globally-at-6-50-CAGR-Verified-Market-Research.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/707830b6-cf87-43db-be66-c125971e42be",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Lewes, Delaware, May 23, 2025 (GLOBE NEWSWIRE) -- The Global Hydrogen Peroxide Market Size is projected to grow at a CAGR of 6.50% from 2026 to 2032, according to a new report published by Verified M… [+13195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Matthew M. Dougherty, Andrew MacDonald, Geneva York, David M. Post",
-      "title": "Monitoring a keystone species (Alosa pseudoharengus) with environmental effects: A comparison with direct capture and environmental DNA",
-      "description": "Keystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populations when facing decline, and to limit their spread as invasive specie…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324385",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324385.g007&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "Abstract\r\nKeystone species are important drivers of ecological processes. Their ecological importance makes them prime candidates for biological monitoring, both to preserve and restore their populat… [+63022 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Mai Dinh Thanh, Gemma Agustí, Anneluise Mader, Francesc Codony",
-      "title": "Optimization of the viability PCR for accurate detection of Staphylococcus aureus in food samples",
-      "description": "Staphylococcus (S.) aureus is a prominent foodborne pathogen that can cause food poisoning due to its staphylococcal toxins. Controlling the viable levels of S. aureus is crucial for ensuring food safety. The detection of S. aureus during routine quality cont…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324819",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324819.g003&size=inline",
-      "publishedAt": "2025-05-23T14:00:00Z",
-      "content": "4.1. vPCR protocol improvement\r\nvPCR is theoretically a rapid, sensitive, and reliable method for detecting viable cells by excluding membrane-compromised cells (a conservative definition of dead cel… [+19881 chars]"
     }
   ],
   "totalResults": 93,
