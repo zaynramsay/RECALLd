@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-05-30T06:34:12.219Z",
+  "lastUpdated": "2025-05-30T12:50:32.688Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Haribo recalls bags of sweets in Netherlands after cannabis found",
+      "description": "The confectionary company says it is working with the police after several people report feeling ill.",
+      "url": "https://www.bbc.com/news/articles/c5yx2lynznpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/02af/live/3944f7e0-3c8a-11f0-bd8d-df41784e9c1e.jpg",
+      "publishedAt": "2025-05-29T12:41:40Z",
+      "content": "Haribo is recalling packets of sweets in the Netherlands after some were found to contain traces of cannabis.\r\nSeveral people, including multiple members of one family, reported feeling unwell after … [+1256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China-linked APT41 used Google Calendar as C2 to control its TOUGHPROGRESS malware",
+      "description": "Google says China-linked group APT41 controlled malware via Google Calendar to target governments through a hacked site. Google warns that China-linked APT41 used TOUGHPROGRESS malware with Google Calendar as C2, targeting various government entities via a co…",
+      "url": "https://securityaffairs.com/178424/apt/china-linked-apt41-used-google-calendar-as-c2-to-control-its-toughprogress-malware.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-44.png",
+      "publishedAt": "2025-05-29T11:17:13Z",
+      "content": "China-linked APT41 used Google Calendar as C2 to control its TOUGHPROGRESS malware\r\n | New AyySSHush botnet compromised over 9,000 ASUS routers, adding a persistent SSH backdoor.\r\n | Czech Republic a… [+168374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joey Skladany",
+      "title": "Stop Reheating Your Food in Takeout Containers. Here's Why",
+      "description": "Certain takeout containers are unsafe to be microwaved and could be causing you harm.",
+      "url": "https://www.cnet.com/home/stop-reheating-food-in-takeout-containers-heres-why/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ba5e4d6491851ae04d7ea70e5127bc5ed582b30e/hub/2025/05/29/11568557-dbff-4fe5-8a37-7ebb789824c9/gettyimages-1406993092.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-29T11:12:00Z",
+      "content": "When hunger and laziness coalesce, reheating last night's takeout or the leftover pasta you took home from a restaurant in the microwave seems like the best idea. But if you don't do it properly, you… [+6322 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "a2 Light Milk (2L) pulled out of WA supermarkets due to Listeria contamination concerns",
+      "description": "Attention Western Australian consumers. A recall has been issued for a2 Light Milk due to potential Listeria contamination. The affected product is the 2L size with a specific use-by date. It was sold at Woolworths, Aldi, and Coles. Consumers are advised to r…",
+      "url": "https://economictimes.indiatimes.com/news/international/new-zealand/a2-light-milk-2l-pulled-out-of-wa-supermarkets-due-to-listeria-contamination-concerns/articleshow/121488809.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121488972,width-1200,height-630,imgsize-94528,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-29T10:50:30Z",
+      "content": "Western Australian consumers are urgently advised to check their fridge after The a2 Milk Company (Australia) Pty Ltd issued the popular a2 Light Milk (2L) for recall because of concerns of Listeria … [+2195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Tomato Recall Update as FDA Issues Highest Warning Level",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nThe Food and Drug Administration (FDA) has issued its highest risk level for a tomato recall involving potential salmonella contamination.\nWilliams Farms Repack LLC initiated the recall on April 29 after South…",
+      "url": "https://biztoc.com/x/9e718afab511a5ea",
+      "urlToImage": "https://biztoc.com/cdn/9e718afab511a5ea_s.webp",
+      "publishedAt": "2025-05-29T10:25:19Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.The Food and Drug Administration (FDA) has issued its highest risk level for a tomato recall involving potential salmonella contamination.Williams Far… [+140 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Tomato Recall Update as FDA Issues Highest Warning Level",
+      "description": "The Centers for Disease Control and Prevention has estimated that salmonella causes about 420 deaths annually in the U.S.",
+      "url": "https://www.newsweek.com/tomato-recall-update-fda-issues-highest-warning-level-2078344",
+      "urlToImage": "https://d.newsweek.com/en/full/2653216/tomato-recall.jpg",
+      "publishedAt": "2025-05-29T10:16:39Z",
+      "content": "The Food and Drug Administration (FDA) has issued its highest risk level for a tomato recall involving potential salmonella contamination.\r\nWilliams Farms Repack LLC initiated the recall on April 29 … [+3599 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Ian A. Wright, Associate Professor in Environmental Science, Western Sydney University",
+      "title": "New Australian data shows most of us have PFAS in our blood. How worried should we be?",
+      "description": "The Australian Bureau of Statistics looked at concentrations of 11 types of PFAS, or ‘forever chemicals’, in our blood. Here’s what the results show.",
+      "url": "https://theconversation.com/new-australian-data-shows-most-of-us-have-pfas-in-our-blood-how-worried-should-we-be-257648",
+      "urlToImage": "https://images.theconversation.com/files/671024/original/file-20250529-56-8x0za5.jpg?ixlib=rb-4.1.0&rect=0%2C480%2C5760%2C2880&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-05-29T09:06:15Z",
+      "content": "New Africa/Shutterstock\r\nThe Australian Bureau of Statistics (ABS) has this week released new data which tells us about the presence of per- and polyfluoroalkyl substances (PFAS) in Australians’ bodi… [+5320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Yuki Noguchi",
+      "title": "How safe is the food supply after federal cutbacks? Experts are worried",
+      "description": "As the Trump administration slashes the federal workforce, experts say cuts to the USDA, FDA and CDC have left the food supply vulnerable to outbreaks of foodborne illness.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/05/29/nx-s1-5413449/food-safety-inspection-fda-usda",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+96/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2Fef%2Fb1ef30f84b3fa484d40697f1ec35%2Fgettyimages-2165438300.jpg",
+      "publishedAt": "2025-05-29T09:00:00Z",
+      "content": "Paula Soldner inspected meat and poultry plants around southern Wisconsin for 38 years: \"I'm talking brats, hot dogs, summer sausage, pizza.\" \r\nHer Department of Agriculture job requireddaily check-u… [+5644 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Melco Resorts & Entertainment Limited",
+      "title": "Melco achieves goal of sourcing 100% cage-free eggs across its global portfolio",
+      "description": "MACAU, May 29, 2025 (GLOBE NEWSWIRE) -- Melco Resorts & Entertainment announces the Company has achieved its goal of sourcing 100% of eggs from cage-free hens by 2025 across its entire global portfolio. While committed to serving healthy and high-quality culi…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/29/3090084/0/en/Melco-achieves-goal-of-sourcing-100-cage-free-eggs-across-its-global-portfolio.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/1d4955c4-64e8-4605-93b4-acc9ac6bba35",
+      "publishedAt": "2025-05-29T08:22:00Z",
+      "content": "MACAU, May 29, 2025 (GLOBE NEWSWIRE) -- Melco Resorts &amp; Entertainment announces the Company has achieved its goal of sourcing 100% of eggs from cage-free hens by 2025 across its entire global por… [+4577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Landezine.com"
+      },
+      "author": "Urska Skerl",
+      "title": "Anette Freytag: Academia Can—and Must—Reach the Public",
+      "description": "Dr. Anette Freytag is a relentless researcher, moving between academia, activism, and public engagement. She taught at ETH Zurich, the University of Basel, and the Technical University of Innsbruck before joining Rutgers University, where she is the Professor…",
+      "url": "https://landezine.com/anette-freytag-academia-can-and-must-reach-the-public/",
+      "urlToImage": "https://landezine.com/wp-content/uploads/2025/05/DSC_3488-630x389.jpeg",
+      "publishedAt": "2025-05-29T07:48:01Z",
+      "content": "Dr. Anette Freytag is a relentless researcher, moving between academia, activism, and public engagement. She taught at ETH Zurich, the University of Basel, and the Technical University of Innsbruck b… [+19897 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1079,136 +1209,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
       "publishedAt": "2025-05-24T10:39:54Z",
       "content": "Operation RapTor led to the arrest of 270 dark web vendors and buyers\r\n | Chinese threat actors exploited Trimble Cityworks flaw to breach U.S. local government networks\r\n | U.S. CISA adds a Samsung … [+167007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Leader of Qakbot cybercrime network indicted in U.S. crackdown",
-      "description": "The U.S. indicted Russian Rustam Gallyamov for leading the Qakbot botnet, which infected 700K+ devices and was used in ransomware attacks. The U.S. authorities have indicted Russian national Rustam Gallyamov, the leader of the Qakbot operation, which infected…",
-      "url": "https://securityaffairs.com/178232/malware/leader-of-qakbot-cybercrime-network-indicted-in-u-s-crackdown.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
-      "publishedAt": "2025-05-24T10:39:54Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 46\r\n | Security Affairs newsletter Round 525 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Operation ENDGAME disrupted global ransomware infrastructure\r\n |… [+167266 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Raw milk recalled in Northern Ireland following contamination with deadly E. coli strain",
-      "description": "Kenneth Hanna’s Farm Shop in Northern Ireland recalled all batches of its raw cow’s milk (Ken’s Raw Jersey Milk) due to potential contamination with Shiga toxin-producing E. coli (STEC), a dangerous pathogen. STEC infection can cause severe symptoms like bloo…",
-      "url": "https://www.naturalnews.com/2025-05-24-raw-milk-recalled-contamination-e-coli-strain.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/milk.png",
-      "publishedAt": "2025-05-24T06:00:00Z",
-      "content": "<ul><li>Kenneth Hanna's Farm Shop in Northern Ireland recalled all batches of its raw cow's milk (Ken's Raw Jersey Milk) due to potential contamination with Shiga toxin-producing E. coli (STEC), a da… [+4312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Spectrum Brands Pet LLC Recalls a Single Lot of Tetra Reptomin Reptile Food for Aquatic Turtles Because of Possible Salmonella Health Risk",
-      "description": "Spectrum Brands Pet LLC (“SPG”) is voluntarily recalling its Tetra ReptoMin 3-In-1 SELECT-A-FOOD reptile food product intended for aquatic turtles due to potential contamination with Salmonella. The product is packaged in a plastic, 1.56oz container with a gr…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/spectrum-brands-pet-llc-recalls-single-lot-tetra-reptomin-reptile-food-aquatic-turtles-because",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-05-24T00:01:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nMay 23, 2025\r\nFDA Publish Date:\r\nMay 23, 2025\r\nProduct Type:\r\nAnimal &amp; VeterinaryFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Re… [+3219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Alex Portée",
-      "title": "Frozen Raw Oysters Distributed Across US Recalled due to Potential Norovirus Contamination",
-      "description": "Frozen raw half-shell oysters sourced from South Korea and distributed across the U.S. are being recalled for potential norovirus contamination.",
-      "url": "https://www.today.com/health/recall/oysters-norovirus-recall-may-2025-rcna208844",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/oysters-te-250523-e7dc1d.jpg",
-      "publishedAt": "2025-05-23T22:56:40Z",
-      "content": "Frozen raw half-shell oysters harvested in South Korea and distributed across the U.S. are being recalled for potential norovirus contamination, the U.S. Food and Drug Administration said in an advis… [+2615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WJXT News4JAX"
-      },
-      "author": "Jonel Aleccia",
-      "title": "Publix recalls baby food pouches after testing finds elevated levels of lead",
-      "description": "The Publix supermarket chain is recalling fruit and vegetable baby food because testing found elevated levels of lead.",
-      "url": "https://www.news4jax.com/business/2025/05/23/publix-recalls-baby-food-pouches-after-testing-finds-elevated-levels-of-lead/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TIR46NTCLFCF5ONJHJZTHBYN4Q.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2025-05-23T20:30:36Z",
-      "content": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. \r\nPublix rec… [+3297 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "JONEL ALECCIA AP health writer",
-      "title": "Publix recalls baby food pouches after testing finds elevated levels of lead",
-      "description": "The Publix supermarket chain is recalling fruit and vegetable baby food because testing found elevated levels of lead",
-      "url": "https://abcnews.go.com/Business/wireStory/publix-recalls-baby-food-pouches-after-testing-finds-122122900",
-      "urlToImage": "https://i.abcnewsfe.com/a/d9691675-d100-4184-8ab0-1b8108894f93/wirestory_db859fb7af8b5de0a2471a4f8d2e82ba_16x9.jpg?w=1600",
-      "publishedAt": "2025-05-23T19:45:55Z",
-      "content": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. \r\nPublix rec… [+3144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WFTV Orlando"
-      },
-      "author": "Jonel Aleccia",
-      "title": "Publix recalls baby food pouches after testing finds elevated levels of lead",
-      "description": "The Publix supermarket chain is recalling fruit and vegetable baby food because testing found elevated levels of lead",
-      "url": "https://www.wftv.com/news/publix-recalls-baby/VU7EYKSUXBCJDLJSFOAP3OTQVE/",
-      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FS57VGISVTWBOSERTTA64SRUGEQ.jpg?auth=6d12c1f49f759bdfd0e1c0603b74e5ee60db38f4a80ccaecc9f602c757ee6c38&width=1200&height=630&smart=true",
-      "publishedAt": "2025-05-23T19:34:58Z",
-      "content": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials.\r\nPublix reca… [+3285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPLG Local 10"
-      },
-      "author": "Jonel Aleccia",
-      "title": "Publix recalls baby food pouches after testing finds elevated levels of lead",
-      "description": "The Publix supermarket chain is recalling fruit and vegetable baby food because testing found elevated levels of lead.",
-      "url": "https://www.local10.com/business/2025/05/23/publix-recalls-baby-food-pouches-after-testing-finds-elevated-levels-of-lead/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TIR46NTCLFCF5ONJHJZTHBYN4Q.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2025-05-23T18:26:20Z",
-      "content": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. \r\nPublix rec… [+3297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Associated Press",
-      "title": "Publix recalls baby food pouches after testing finds elevated levels of lead",
-      "description": "The pouches were sold in more than 1,400 stores.",
-      "url": "https://www.bostonherald.com/2025/05/23/publix-recall-baby-food-pouches/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/05/Baby_Food-Recall_25446.jpg?w=1024&h=682",
-      "publishedAt": "2025-05-23T18:18:16Z",
-      "content": "By JONEL ALECCIA, AP Health Writer\r\nThe supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to fe… [+3207 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WKMG News 6 & ClickOrlando"
-      },
-      "author": "Jonel Aleccia",
-      "title": "Publix recalls baby food pouches after testing finds elevated levels of lead",
-      "description": "The Publix supermarket chain is recalling fruit and vegetable baby food because testing found elevated levels of lead.",
-      "url": "https://www.clickorlando.com/business/2025/05/23/publix-recalls-baby-food-pouches-after-testing-finds-elevated-levels-of-lead/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TIR46NTCLFCF5ONJHJZTHBYN4Q.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2025-05-23T18:17:01Z",
-      "content": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. \r\nPublix rec… [+3297 chars]"
     }
   ],
   "totalResults": 93,
