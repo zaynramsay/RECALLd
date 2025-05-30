@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-05-30T01:57:15.825Z",
+  "lastUpdated": "2025-05-30T06:34:12.219Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New AyySSHush botnet compromised over 9,000 ASUS routers, adding a persistent SSH backdoor.",
+      "description": "GreyNoise researchers warn of a new AyySSHush botnet compromised over 9,000 ASUS routers, adding a persistent SSH backdoor. GreyNoise discovered the AyySSHush botnet has hacked over 9,000 ASUS routers, adding a persistent SSH backdoor. “Using an AI powered ne…",
+      "url": "https://securityaffairs.com/178413/malware/new-ayysshush-botnet-compromised-over-9000-asus-routers-adding-a-persistent-ssh-backdoor.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-43.png",
+      "publishedAt": "2025-05-29T06:19:37Z",
+      "content": "New AyySSHush botnet compromised over 9,000 ASUS routers, adding a persistent SSH backdoor.\r\n | Czech Republic accuses China's APT31 of a cyberattack on its Foreign Ministry\r\n | New PumaBot targets L… [+168287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Kevin Hughes",
+      "title": "“Diet, Nutrition and Cancer”: Decades of research illuminate the path to prevention",
+      "description": "The National Research Council’s 1980 report established a connection between diet and cancer risk, emphasizing the long latency period between dietary exposures and cancer development. High fat intake (especially above 30 percent of total calories) is linked …",
+      "url": "https://www.naturalnews.com/2025-05-29-diet-nutrition-and-cancer-path-to-prevention.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Vegetable-Farmers-Market-Fruits-Diet-Nutrition-Health.jpg",
+      "publishedAt": "2025-05-29T06:00:00Z",
+      "content": "<ul><li>The National Research Councils 1980 report established a connection between diet and cancer risk, emphasizing the long latency period between dietary exposures and cancer development.</li><li… [+6120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "Are you chewing toxic gum? FDA urged to ban talc in food and drugs over cancer, inflammation links",
+      "description": "FDA experts recommend banning talc from food and drugs, citing links to cancer and chronic disease. Talc is found in 4 of 10 top U.S. drugs, including Lipitor and Synthroid, but alternatives like calcium stearate exist. Talc remains legal in food due to FDA’s…",
+      "url": "https://www.naturalnews.com/2025-05-29-fda-urged-to-ban-talc-in-food-drugs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/person_holding_chewing_gum_chewing_gum_and_IBS1.jpg",
+      "publishedAt": "2025-05-29T06:00:00Z",
+      "content": "<ul><li>FDA experts recommend banning talc from food and drugs, citing links to cancer and chronic disease.</li><li>Talc is found in 4 of 10 top U.S. drugs, including Lipitor and Synthroid, but alter… [+4865 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Apples: A nutritional powerhouse with ancient roots",
+      "description": "Apples originated in Central Asia around 6,500 B.C., with wild ancestors like Malus sieversii thriving in present-day Kazakhstan. They became a prized food among ancient Greeks and Romans, who spread them across Europe through trade and cultivation. Later, Eu…",
+      "url": "https://www.naturalnews.com/2025-05-29-apples-a-nutritional-powerhouse-with-ancient-roots.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Red-Apples-Fruits.jpg",
+      "publishedAt": "2025-05-29T06:00:00Z",
+      "content": "<ul><li>Apples originated in Central Asia around 6,500 B.C., with wild ancestors like Malus sieversii thriving in present-day Kazakhstan. They became a prized food among ancient Greeks and Romans, wh… [+7652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "EU networks identify seven emerging risks",
+      "description": "European experts identified seven emerging risks and requested information on a host of other issues as part of meetings held in 2024, according to a recent report. The European Food Safety Authority (EFSA) collected 65 emerging issues, of which seven were id…",
+      "url": "https://www.foodsafetynews.com/2025/05/eu-networks-identify-seven-emerging-risks/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/092/195/205/aMBJ5DWdLYP025BOYXRNjrp4Z/cd569ecefc797d6ddb350712c9c5ddcedb72b821.png",
+      "publishedAt": "2025-05-29T04:01:00Z",
+      "content": "European experts identified seven emerging risks and requested information on a host of other issues as part of meetings held in 2024, according to a recent report.\r\nThe European Food Safety Authorit… [+4229 chars]"
+    },
     {
       "source": {
         "id": "the-jerusalem-post",
@@ -136,19 +201,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
-      "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
-      "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323497",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
-      "publishedAt": "2025-05-28T14:00:00Z",
-      "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
       "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
       "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
@@ -156,6 +208,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
       "publishedAt": "2025-05-28T14:00:00Z",
       "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
+      "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
+      "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323497",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
     },
     {
       "source": {
@@ -636,7 +701,7 @@
       "url": "https://www.memeorandum.com/250526/p38",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JSNPADLZONLOJGKAPHSNMCPNIQ.jpeg&w=1440",
       "publishedAt": "2025-05-26T21:20:00Z",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out�� [+72 chars]"
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
     },
     {
       "source": {
@@ -1144,71 +1209,6 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TIR46NTCLFCF5ONJHJZTHBYN4Q.jpg?_a=DATAg1eAZAA0",
       "publishedAt": "2025-05-23T18:17:01Z",
       "content": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. \r\nPublix rec… [+3297 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "The Associated Press",
-      "title": "Publix recalls baby food pouches after testing finds elevated levels of lead",
-      "description": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. Publix recalled 4-ounce Greenwise Pear, Kiwi, Spinach & Pea Baby Food po…",
-      "url": "https://financialpost.com/pmn/publix-recalls-baby-food-pouches-after-testing-finds-elevated-levels-of-lead",
-      "urlToImage": null,
-      "publishedAt": "2025-05-23T18:14:40Z",
-      "content": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials.\r\nTHIS CONTEN… [+5337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Electronicintifada.net"
-      },
-      "author": "Ismael Abdel Raouf",
-      "title": "Rats reign in Gaza",
-      "description": "Expired antibiotics were the only treatment available to my cousin after a rat bit him.",
-      "url": "https://electronicintifada.net/content/rats-reign-gaza/50699",
-      "urlToImage": "https://electronicintifada.net/sites/default/files/styles/original_800w/public/2025-05/220325_gaza_osh_0010.jpg?itok=pTDdcRI5",
-      "publishedAt": "2025-05-23T18:05:58Z",
-      "content": "Ismael Abdel RaoufThe Electronic Intifada23 May 2025\r\nDisplaced Palestinians live in tents in a camp set up in a landfill in the al-Yarmouk neighborhood of Gaza City, 22 March 2025.\r\nOmar AshtawyAPA … [+4792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MMA Mania"
-      },
-      "author": "Jesse Holland",
-      "title": "C. Coli",
-      "description": "Conor McGregor on X posted a video of beer can chicken but his handling of the recipe sent social media into a tizzy, likely because of his cross contamination.",
-      "url": "https://www.mmamania.com/2025/5/23/24435935/braindead-conor-mcgregor-tries-grill-beer-can-chicken-poisons-himself-with-microplastics-instead",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/k2FvxBBhCh6MCryFYaopvxRQCtg=/0x415:634x772/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/74098590/Screenshot_2025_05_23_at_12.25.02_PM.0.png",
-      "publishedAt": "2025-05-23T16:31:09Z",
-      "content": "Conor McGregor was on social media advertising his Forged Irish Stout.\nUnlike his Irish Whiskey, which smells like a Turkish bathhouse and tastes like turpentine, Forged Irish Stout is pretty damn ta… [+1728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Washingtonian"
-      },
-      "author": "Jessica Sidman",
-      "title": "Gordon Ramsay's New Show Inspects Restaurants Undercover. We Pulled His Own Health Inspection Reports.",
-      "description": "Gordon Ramsay's New Show Inspects Restaurants Undercover. We Pulled His Own Health Inspection Reports.washingtonian.com",
-      "url": "https://www.washingtonian.com/2025/05/23/gordon-ramsays-new-show-inspects-restaurants-undercover-we-pulled-his-own-health-inspection-reports/",
-      "urlToImage": "https://www.washingtonian.com/wp-content/uploads/2023/01/GR-HK-Credit_-GRNA.jpg",
-      "publishedAt": "2025-05-23T14:57:03Z",
-      "content": "In his new show Secret Service, celebrity chef Gordon Ramsay spies on struggling restaurants with covert late-night visits, kitchen cameras, and intel from an inside mole. The first episode features … [+2601 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "author": null,
-      "title": "Green Packaging Market Growth worth $503.43 billion by 2030- Exclusive Report by The Research Insights",
-      "description": "CHICAGO, May 23, 2025 /PRNewswire/ -- The global green packaging market size is projected to be valued at USD 365.46 billion by 2025 and reach USD 503.43 billion by 2030, growing at a CAGR of 6.6% according to a new report by The Research Insights. The global…",
-      "url": "https://www.prnewswire.co.uk/news-releases/green-packaging-market-growth-worth-503-43-billion-by-2030--exclusive-report-by-the-research-insights-302464162.html",
-      "urlToImage": "https://mma.prnewswire.com/media/2684869/The_Research_Insights_Logo.jpg?p=facebook",
-      "publishedAt": "2025-05-23T14:30:00Z",
-      "content": "CHICAGO, May 23, 2025 /PRNewswire/ -- The global green packaging market size is projected to be valued at USD 365.46 billion by 2025 and reach USD 503.43 billion by 2030, growing at a CAGR of 6.6% ac… [+15726 chars]"
     }
   ],
   "totalResults": 93,
