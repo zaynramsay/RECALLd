@@ -1,6 +1,188 @@
 {
-  "lastUpdated": "2025-05-30T12:50:32.688Z",
+  "lastUpdated": "2025-05-30T18:33:23.434Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ronny Reyes",
+      "title": "Haribo issues major recall after popular gummies found to be tainted with cannabis",
+      "description": "This cola-flavored candy could have more fizz than you're expecting.",
+      "url": "https://nypost.com/2025/05/29/us-news/haribo-issues-recall-over-cola-gummies-are-tainted-with-cannabis/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/105520073.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-29T17:31:46Z",
+      "content": "This cola-flavored candy could have more fizz than you’re expecting.\r\nHaribo is investigating how one of its popular gummy products apparently became tainted with cannabis in the after several people… [+677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Lewin Day",
+      "title": "Researchers Are Slowly Finding Ways To Stem The Tide Of PFAS Contamination",
+      "description": "If you’ve been following environmental news over the past couple of decades, you’ve probably heard about PFAS – those pesky “forever chemicals” that seem to turn up everywhere from drinking …read more",
+      "url": "https://hackaday.com/2025/05/29/researchers-are-slowly-finding-ways-to-stem-the-tide-of-pfas-contamination/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2022/02/Chemistry.jpg",
+      "publishedAt": "2025-05-29T17:00:00Z",
+      "content": "If you’ve been following environmental news over the past couple of decades, you’ve probably heard about PFAS – those pesky “forever chemicals” that seem to turn up everywhere from drinking water to … [+6845 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Tchiki Davis, Ph.D.",
+      "title": "Are You Hypervigilant?",
+      "description": "Hypervigilance is often present in people who have lived through trauma or violence.",
+      "url": "https://www.psychologytoday.com/us/blog/click-here-for-happiness/202309/are-you-hypervigilant",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/taylor-deas-melesh-fkaQ-cqU4Uo-unsplash.jpg?itok=ayPFloEO",
+      "publishedAt": "2025-05-29T16:48:02Z",
+      "content": "Cowritten by Nathalie Boutros and Tchiki Davis\r\nBeing attentive to your surroundings and aware of your environment is a good thing: Knowing whats around you keeps you safe. Being alert as you walk ho… [+3289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Jon Shelton",
+      "title": "Haribo recalls cannabis-laden 'Happy Cola' candies",
+      "description": "Candy maker Haribo has issued a product recall in the Netherlands after cannabis was found in a batch of its Happy Cola gummies. Authorities are seeking to determine how the contraband got into the product.",
+      "url": "https://www.dw.com/en/haribo-recalls-cannabis-laden-happy-cola-candies/a-72724946",
+      "urlToImage": "https://static.dw.com/image/72724305_6.jpg",
+      "publishedAt": "2025-05-29T16:16:00Z",
+      "content": "German-based candy maker Haribo on Thursday recalled its Happy Cola F!ZZ sweets in the Netherlands after cannabis was found in at least three bags containing the product.\r\nThe recall only applies to … [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Jon Shelton",
+      "title": "Haribo recalls sweets in Netherlands after cannabis found",
+      "description": "Candymaker Haribo has issued a product recall in the Netherlands after cannabis was found in a batch of its Happy Cola gummies. Authorities are seeking to determine how the cannabis got into the product.",
+      "url": "https://www.dw.com/en/haribo-recalls-sweets-in-netherlands-after-cannabis-found/a-72724946",
+      "urlToImage": "https://static.dw.com/image/72724305_6.jpg",
+      "publishedAt": "2025-05-29T16:16:00Z",
+      "content": "On Thursday, the German-based candymaker Haribo recalled its Happy Cola F!ZZ sweets in the Netherlands after cannabis was found in at least three bags containing the product.\r\nThe recall only applies… [+1397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Nationwide Beef Stew Recall Over Wood Contamination Warning",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign material contamination.\nHormel Foods Corporation issued the …",
+      "url": "https://biztoc.com/x/a6e801fe17a876fa",
+      "urlToImage": "https://biztoc.com/cdn/a6e801fe17a876fa_s.webp",
+      "publishedAt": "2025-05-29T15:27:34Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign m… [+140 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Nationwide Beef Stew Recall Over Wood Contamination Warning",
+      "description": "Hormel Foods Corporation has issued a voluntary recall for approximately 256,185 pounds of its Dinty Moore Beef Stew.",
+      "url": "https://www.newsweek.com/beef-stew-nationwide-recall-wood-contamination-fsis-hormel-foods-corporation-2078444",
+      "urlToImage": "https://d.newsweek.com/en/full/2653424/food-recall.png",
+      "publishedAt": "2025-05-29T15:18:37Z",
+      "content": "A Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign material contamination.\r\nHormel Foods Corporation … [+2216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Victoria’s Secret ‘s website offline following a cyberattack",
+      "description": "Victoria’s Secret took its website offline after a cyberattack, with experts warning of rising threats against major retailers. American lingerie, clothing, and beauty retailer Victoria’s Secret took its website offline following a cyberattack. At this time, …",
+      "url": "https://securityaffairs.com/178432/hacking/victorias-secrets-website-offline-following-a-cyberattack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-46.png",
+      "publishedAt": "2025-05-29T14:51:55Z",
+      "content": "Victorias Secret 's website offline following a cyberattack\r\n | China-linked APT41 used Google Calendar as C2 to control its TOUGHPROGRESS malware\r\n | New AyySSHush botnet compromised over 9,000 ASUS… [+168438 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Alex Backus",
+      "title": "The Good Life: The Gluten Free Glow-Up",
+      "description": "Editor's note: This is a preview of The Good Life, Newsweek's weekly lifestyle newsletter.",
+      "url": "https://www.newsweek.com/good-life-gluten-free-glow-2078508",
+      "urlToImage": "https://d.newsweek.com/en/full/2636334/alpha-4.png",
+      "publishedAt": "2025-05-29T14:41:03Z",
+      "content": "The Gluten Free Glow-Up\r\nI remember the first time I walked into a Raley's to buy gluten free food. It was 15 years ago and there were maybe half a dozen items on the shelf labeled \"gluten free.\" And… [+6375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Ian A. Wright",
+      "title": "New data shows most of us have PFAS in our blood. How worried should we be?",
+      "description": "The Australian Bureau of Statistics (ABS) has this week released new data which tells us about the presence of per- and polyfluoroalkyl substances (PFAS) in Australians' bodies.",
+      "url": "https://phys.org/news/2025-05-pfas-blood.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/water-faucet.jpg",
+      "publishedAt": "2025-05-29T14:29:04Z",
+      "content": "The Australian Bureau of Statistics (ABS) has this week released new data which tells us about the presence of per- and polyfluoroalkyl substances (PFAS) in Australians' bodies.\r\nThe data comes from … [+5957 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sara  Moniuszko",
+      "title": "Hormel recalls 256,000 pounds of canned beef stew over wood fragments",
+      "description": "Hormel Foods Corporation is recalling cans of \"Dinty Moore Beef Stew\" nationwide due to potential contamination with wood fragments.",
+      "url": "https://www.cbsnews.com/news/hormel-recall-canned-beef-stew-wood-fragments/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/29/838c1526-a903-42f7-b9c0-a32bfa39b329/thumbnail/1200x630/9a94f442ae0a6de65c6409bbe76311da/gettyimages-961756080.jpg?v=0ec0a9b0c45ecf3b0dd269ffc8f350b0",
+      "publishedAt": "2025-05-29T14:19:16Z",
+      "content": "Hormel Foods Corporation is recalling over 256,000 pounds of canned beef stew nationwide due to potential contamination with wood fragments, according to federal health officials.\r\nIn a recall notice… [+1221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sarah Dickin, Linus Dagerskog, Michel Dione, Lian Thomas, Jasmine Arcilla",
+      "title": "Towards a one health approach to WASH to tackle zoonotic disease and promote health and wellbeing",
+      "description": "There is increasing awareness that exposure to animal faeces contributes to the global burden of diarrheal disease, as well as other zoonotic diseases. This recognition has prompted a re-evaluation of water, sanitation, and hygiene (WASH) interventions to add…",
+      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000376",
+      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000376.g002&size=inline",
+      "publishedAt": "2025-05-29T14:00:00Z",
+      "content": "Abstract\r\nThere is increasing awareness that exposure to animal faeces contributes to the global burden of diarrheal disease, as well as other zoonotic diseases. This recognition has prompted a re-ev… [+65788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sefa Peprah, Patrick Addo-Fordjour, Bernard Fei-Baffoe, Kwadwo Boampong, Silas Wintuma Avicor, James Damsere-Derry",
+      "title": "Effects of pesticide application on soil bacteria community structure in a cabbage-based agroecosystem in Ghana",
+      "description": "Modern sustainable agriculture often relies on pesticide application, which may unintentionally affect non-target soil microorganisms. This study assessed the effects of commonly used pesticides in cabbage cultivation on bacteria diversity, composition, and a…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323936",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323936.t007&size=inline",
+      "publishedAt": "2025-05-29T14:00:00Z",
+      "content": "Abstract\r\nModern sustainable agriculture often relies on pesticide application, which may unintentionally affect non-target soil microorganisms. This study assessed the effects of commonly used pesti… [+61998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "Metal Biocides Market Set to Hit USD 5.43 Billion by 2032, Driven by Development of Nano-Metal Biocides Creating Expansion Opportunities | SNS Insider",
+      "description": "Growing demand for antimicrobial coatings in healthcare and food sectors, alongside increasing regulatory focus on hygiene, propels the Metal Biocides market growth. Growing demand for antimicrobial coatings in healthcare and food sectors, alongside increasin…",
+      "url": "https://www.globenewswire.com/news-release/2025/05/29/3090471/0/en/Metal-Biocides-Market-Set-to-Hit-USD-5-43-Billion-by-2032-Driven-by-Development-of-Nano-Metal-Biocides-Creating-Expansion-Opportunities-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-05-29T13:45:00Z",
+      "content": "Austin, May 29, 2025 (GLOBE NEWSWIRE) -- The Metal Biocides Market\r\n Size was valued at USD 3.96 billion in 2024 and is expected to reach USD 5.43 billion by 2032, growing at a CAGR of 4.02% over the… [+8194 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1027,188 +1209,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/11/europol-terrorism-data-leak.jpg",
       "publishedAt": "2025-05-25T09:39:11Z",
       "content": "Operation ENDGAME disrupted global ransomware infrastructure\r\n | Silent Ransom Group targeting law firms, the FBI warns\r\n | Operation RapTor led to the arrest of 270 dark web vendors and buyers\r\n | C… [+167131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Inga Parkel",
-      "title": "FDA recalls oysters due to potential norovirus contamination ahead of Memorial Day",
-      "description": "Diners are advised against eating frozen, raw or half-shell oysters imported from the Republic of Korea",
-      "url": "https://www.the-independent.com/life-style/food-and-drink/oysters-recalled-norovirus-outbreak-fda-memorial-day-b2757432.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/24/21/28/Oysters.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-25T07:38:07Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Japan Times"
-      },
-      "author": "Tomoko Otake",
-      "title": "Are microplastics hurting our fertility?",
-      "description": "While a lot remains unknown about how microplastics affect our health, scientists in Japan and around the world broadly agree there's an urgent need to reduce plastic production.",
-      "url": "https://www.japantimes.co.jp/environment/2025/05/25/sustainability/microplastics-fertility-concerns/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/05/25/471103.jpg?v=3.1",
-      "publishedAt": "2025-05-25T04:16:00Z",
-      "content": "In February, Italian researchers announced what they claimed to be a world-first discovery: microplastic particles were found in the ovarian follicular fluid of women undergoing infertility treatment… [+12046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Inga Parkel",
-      "title": "FDA recalls oysters due to potential norovirus contamination ahead of Memorial Day",
-      "description": "Diners are advised against eating frozen, raw or half-shell oysters imported from the Republic of Korea",
-      "url": "https://www.the-independent.com/life-style/food-and-drink/oyster-recall-norovirus-fda-memorial-day-b2757328.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/24/21/28/Oysters.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-24T22:38:46Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston News, Weather, Sports | WHDH 7News"
-      },
-      "author": "Owen Boss",
-      "title": "State Health Officials warn of potential exposure to Hepatitis A after infection in food service worker in Provincetown",
-      "description": "BOSTON (WHDH) - The Massachusetts Department of Public Health (DPH), Barnstable County Department of Health and Environment, and the Provincetown Board of Health are alerting<a class=\"excerpt-read-more\" href=\"https://whdh.com/news/state-health-officials-warn-…",
-      "url": "https://whdh.com/news/state-health-officials-warn-of-potential-exposure-to-hepatitis-a-after-infection-in-food-service-worker-in-provincetown/",
-      "urlToImage": "https://whdh.com/wp-content/uploads/sites/3/2025/05/image-2025-05-14T122022.889.jpg?quality=60&strip=color",
-      "publishedAt": "2025-05-24T21:52:01Z",
-      "content": "BOSTON (WHDH) - The Massachusetts Department of Public Health (DPH), Barnstable County Department of Health and Environment, and the Provincetown Board of Health are alerting anyone who dined at The … [+2517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Santa Monica Seafood Voluntarily Recalls Atlantic Salmon Portions with Seafood Stuffing Due to Undeclared Soy",
-      "description": "May 24, 2025, Santa Monica Seafood of Rancho Dominguez, CA, is voluntarily recalling Atlantic Salmon Portions with Seafood Stuffing because it may contain undeclared soy. People who have an allergy or severe sensitivity to soy risk a serious or life-threateni…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/santa-monica-seafood-voluntarily-recalls-atlantic-salmon-portions-seafood-stuffing-due-undeclared",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-05-24T20:56:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nMay 24, 2025\r\nFDA Publish Date:\r\nMay 24, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUndeclared al… [+1749 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fallriverreporter.com"
-      },
-      "author": "Ken Paiva",
-      "title": "Massachusetts health officials warn of potential exposure to hepatitis A after Infection in food service worker",
-      "description": "BOSTON — The Massachusetts Department of Public Health (DPH), Barnstable County Department of Health and Environment, and the Provincetown Board of Health are alerting anyone who dined at The Red Inn at 15 Commercial Street in Provincetown between April 30 an…",
-      "url": "https://fallriverreporter.com/massachusetts-health-officials-warn-of-potential-exposure-to-hepatitis-a-after-infection-in-food-service-worker/",
-      "urlToImage": "https://fallriverreporter.com/wp-content/uploads/2025/05/The-Red-Inn-at-15-Commercial-Street-in-Provincetown.jpg",
-      "publishedAt": "2025-05-24T20:31:53Z",
-      "content": "BOSTON The Massachusetts Department of Public Health (DPH), Barnstable County Department of Health and Environment, and the Provincetown Board of Health are alerting anyone who dined at The Red Inn a… [+2309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston 25 News"
-      },
-      "author": "Boston 25 News Staff",
-      "title": "State health officials warn of possible Hepatitis A exposure in Provincetown",
-      "description": "Massachusetts health officials are cautioning people who dined at The Red Inn in Provincetown on April 30 and May 15 to contact their healthcare provider, as they may have been exposed to hepatitis A.",
-      "url": "https://www.boston25news.com/news/local/state-health-officials-warn-possible-hepatitis-exposure-provincetown/LMVGWV6UDVFKXBYFYH2B6THC7Y/",
-      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFI2WMN52YAOBT74YWCZ4JSE2JY.jpg?auth=7221811ed5833cc1652a3c191eb8086bc4e7d9950cc3e46cfc8fbf1766ba2a1f&width=1200&height=630&smart=true",
-      "publishedAt": "2025-05-24T20:01:56Z",
-      "content": "BOSTON — Massachusetts health officials are cautioning people who dined at The Red Inn in Provincetown on April 30 and May 15 to contact their healthcare provider, as they may have been exposed to he… [+1370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Joseph Winters",
-      "title": "As EPA Rolls Back Regulations on 4 PFAS, Thousands More Remain Unregulated",
-      "description": "Experts say it’s past time to regulate “forever chemicals” as a class.",
-      "url": "https://grist.org/regulation/epa-pfas-drinking-water-limits-trump-rollback/",
-      "urlToImage": "https://truthout.org/app/uploads/2025/05/GettyImages-2214524137-scaled.jpg",
-      "publishedAt": "2025-05-24T18:00:49Z",
-      "content": "This story was originally published by Grist. Sign up for Grist’s weekly newsletter here.\r\nLast week, environmental groups decried plans from the Environmental Protection Agency to rescind and recons… [+9764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Shtfplan.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Raw Milk Recalled In Northern Ireland Following Contamination With Deadly E. Coli Strain",
-      "description": "Kenneth Hanna's Farm Shop in Northern Ireland recalled all batches of its raw cow's milk (Ken's Raw Jersey Milk) due to potential contamination with Shiga toxin-producing E. coli (STEC), a dangerous pathogen.Kenneth Hanna's Farm Shop in Northern Ireland recal…",
-      "url": "https://www.shtfplan.com/health/raw-milk-recalled-in-northern-ireland-following-contamination-with-deadly-ecoli-strain",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2019/04/ecoli.jpg",
-      "publishedAt": "2025-05-24T17:00:20Z",
-      "content": "This article was originally published by Ramon Tomey at Natural News. \r\n<ul><li><ul><li>Kenneth Hanna’s Farm Shop in Northern Ireland recalled all batches of its raw cow’s milk (Ken’s Raw Jersey Milk… [+3932 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Silent Ransom Group targeting law firms, the FBI warns",
-      "description": "FBI warns Silent Ransom Group has targeted U.S. law firms for 2 years using callback phishing and social engineering extortion tactics. The FBI warns that the Silent Ransom Group, active since 2022 and also known as Luna Moth, has targeted U.S. law firms usin…",
-      "url": "https://securityaffairs.com/178239/malware/silent-ransom-group-targeting-law-firms-the-fbi-warns.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-2.jpg",
-      "publishedAt": "2025-05-24T15:39:04Z",
-      "content": "Silent Ransom Group targeting law firms, the FBI warns\r\n | Operation RapTor led to the arrest of 270 dark web vendors and buyers\r\n | Chinese threat actors exploited Trimble Cityworks flaw to breach U… [+167066 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Publix recalls baby food after testing finds elevated lead levels",
-      "description": "The Publix supermarket chain is recalling fruit and vegetable baby food because testing found elevated levels of lead.",
-      "url": "https://www.cbsnews.com/news/publix-baby-food-recall-lead-pouches/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/02/19/e15e76e8-dedc-468c-8dd1-4f70585b9bf9/thumbnail/1200x630/7f10b6a225f9f8fcc7880cfe836c99e1/about-publix-store-front-306x150.jpg?v=48f078ae8a74a1412614b0db6f935e48",
-      "publishedAt": "2025-05-24T14:59:46Z",
-      "content": "The supermarket chain Publix has recalled fruit and vegetable baby food sold in eight states because product testing found elevated levels of lead, according to federal health officials. \r\nPublix rec… [+2914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Chef’s Foundry",
-      "title": "The Chef’s Foundry P600 Knife: 10x Sharper Ceramic Blades Redefine Modern Kitchen Performance",
-      "description": "Discover Why the Razor-Sharp, Rust-Proof P600 Ceramic Knives Are Replacing Steel in Homes Nationwide – With a 30-Day Risk-Free Trial That’s Changing the Game for Home Chefs. Discover Why the Razor-Sharp, Rust-Proof P600 Ceramic Knives Are Replacing Steel in H…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/24/3087793/0/en/The-Chef-s-Foundry-P600-Knife-10x-Sharper-Ceramic-Blades-Redefine-Modern-Kitchen-Performance.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4b4cf1e4-b74f-4903-802d-2b6cbb6e8dc0",
-      "publishedAt": "2025-05-24T14:37:00Z",
-      "content": "San Francisco, May 24, 2025 (GLOBE NEWSWIRE) -- \r\nIn This Article, Youll Discover:\r\n<ul><li>Why traditional steel kitchen knives often fall short in performance, safety, and hygiene</li><li>How Chefs… [+43458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Jenn Gidman",
-      "title": "2nd Baby Food Recall in 2 Months Due to Lead Fears",
-      "description": "The Publix supermarket chain has recalled fruit and vegetable baby food sold in eight states after product testing found elevated levels of lead, according to federal health officials. Publix recalled 4-ounce GreenWise Pear, Kiwi, Spinach & Pea Baby Food pouc…",
-      "url": "https://www.newser.com/story/369194/2nd-baby-food-recall-in-2-months-due-to-lead-fears.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1612431-12-20250524083002.jpeg",
-      "publishedAt": "2025-05-24T13:30:00Z",
-      "content": "The Publix supermarket chain has recalled fruit and vegetable baby food sold in eight states after product testing found elevated levels of lead, according to federal health officials. Publix recalle… [+1730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Leader of Qakbot cybercrime network indicted in U.S. crackdown",
-      "description": "The U.S. indicted Russian Rustam Gallyamov for leading the Qakbot botnet, which infected 700K+ devices and was used in ransomware attacks. The U.S. authorities have indicted Russian national Rustam Gallyamov, the leader of the Qakbot operation, which infected…",
-      "url": "https://securityaffairs.com/178232/uncategorized/leader-of-qakbot-cybercrime-network-indicted-in-u-s-crackdown.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
-      "publishedAt": "2025-05-24T10:39:54Z",
-      "content": "Operation RapTor led to the arrest of 270 dark web vendors and buyers\r\n | Chinese threat actors exploited Trimble Cityworks flaw to breach U.S. local government networks\r\n | U.S. CISA adds a Samsung … [+167007 chars]"
     }
   ],
   "totalResults": 93,
