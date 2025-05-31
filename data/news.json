@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-05-31T12:45:40.183Z",
+  "lastUpdated": "2025-05-31T18:31:18.009Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Benjamin Adams, Contributor, \n Benjamin Adams, Contributor\n https://www.forbes.com/sites/benjaminadams/",
+      "title": "Red Mesa Aims To Rethink Hemp-Derived Cannabinoid Refining Methods",
+      "description": "While traditional methods for refining and isolating hemp-derived cannabinoids typically involve a chemical catalyst, a new method has emerged in recent months.",
+      "url": "https://www.forbes.com/sites/benjaminadams/2025/05/30/red-mesa-aims-to-rethink-hemp-derived-cannabinoid-refining-methods/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6838a07bf9fd585a512d0f12/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-30T16:05:17Z",
+      "content": "Red Mesa Science &amp; Refining's large-scale Industrial machines facilitate homogenization, ... More distillation, crystallization, liquid chromatography, and conversion processes of botanical hemp-… [+6078 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Heba Saleh in Cairo",
+      "title": "Gaza’s last hospitals battle to save patients amid severe depletion of life-saving medical items",
+      "description": "Bacteria ‘like monsters’ on overcrowded wards as doctors run out of basic supplies including antibiotics",
+      "url": "https://www.irishtimes.com/world/middle-east/2025/05/30/gazas-last-hospitals-battle-to-save-patients-amid-severe-depletion-of-life-saving-medical-items/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/MYWFEGPL6HZ5JUSBCUQIOFCPBQ.jpg?smart=true&auth=33702a5e659eefb68b2e46bfc97113d2a92d55747a18b2edd63ab6e205c97a43&width=1200&height=630",
+      "publishedAt": "2025-05-30T16:00:00Z",
+      "content": "No helium to operate MRI machines. No antibiotics to treat infected wounds.\r\nNo room in surgery for general medical conditions, and no new tyres for ambulances wrecked by driving through Gazas bombed… [+7268 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "BY RENEE GARFINKEL",
+      "title": "We are being played by our enemies, politicians, and even ourselves",
+      "description": "When enemies use psychological tactics, their motives are easier to spot.",
+      "url": "https://www.jpost.com/opinion/article-855999",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/664308",
+      "publishedAt": "2025-05-30T15:09:30Z",
+      "content": "Psychological warfare isn’t always loud or obvious. Sometimes, it hides in plain sight, cloaked in compassion, urgency, or even religious devotion. It can look like journalism. It can sound like conc… [+4488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Antonio Marín-Romero, Daniel E. Di Zeo-Sánchez, Mavys Tabraue-Chávez, Marina Villanueva-Paz, Jose M. Pinazo-Bandera, Judith Sanabria-Cabrera, Miren García-Cortés, Juan J. Díaz-Mochón, M. Isabel Lucena, Raúl J. Andrade, Camilla Stephens, Salvatore Pernagallo",
+      "title": "Short communication: miRNA122 interrogation via PCR-Free method to track liver recovery",
+      "description": "There is currently a need to investigate new biomarkers of acute liver injury (ALI) that are highly specific to the liver and capable of detecting early-stage liver damage. In this regard, circulating microRNAs (miRNAs), particularly microRNA122 (miRNA122), h…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324858",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324858.g002&size=inline",
+      "publishedAt": "2025-05-30T14:00:00Z",
+      "content": "Abstract\r\nThere is currently a need to investigate new biomarkers of acute liver injury (ALI) that are highly specific to the liver and capable of detecting early-stage liver damage. In this regard, … [+31895 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Alia Shoaib",
+      "title": "Multiple People Get Sick After Cannabis Found in Haribo",
+      "description": "A family in the Netherlands felt sick after consuming Haribo's fizzy cola bottles. Traces of cannabis were found in the product.",
+      "url": "https://www.newsweek.com/cannabis-haribo-candy-netherlands-contamination-2078904",
+      "urlToImage": "https://d.newsweek.com/en/full/2654034/haribo.jpg",
+      "publishedAt": "2025-05-30T13:35:36Z",
+      "content": "Several people reported feeling sick in the Netherlands after consuming Haribo fizzy candy that contained traces of cannabis.\r\nA batch of Haribo's Happy Cola F!ZZ was recalled after a family, includi… [+2539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kffhealthnews.org"
+      },
+      "author": null,
+      "title": "Friday, May 30, 2025",
+      "description": "Doctors moving to Canada; errors in MAHA report; Medicaid and the ACA; opioid settlement funds; autism; new covid strain; and more.",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-may-30-2025/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2025-05-30T13:31:09Z",
+      "content": "Doctors Warn New Covid Strain Could Cause Surge Due To Waning Immunity\r\nAlso, a study shows that receiving the covid vaccine provides long-term protection and does not inhibit immune response to othe… [+7650 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -194,7 +272,7 @@
       "url": "https://nypost.com/2025/05/29/us-news/haribo-issues-recall-over-cola-gummies-are-tainted-with-cannabis/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/105520073.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-05-29T17:31:46Z",
-      "content": "This cola-flavored candy could have more fizz than you’re expecting.\r\nHaribo is investigating how one of its popular gummy products apparently became tainted with cannabis in the after several people�� [+677 chars]"
+      "content": "This cola-flavored candy could have more fizz than you’re expecting.\r\nHaribo is investigating how one of its popular gummy products apparently became tainted with cannabis in the after several people… [+677 chars]"
     },
     {
       "source": {
@@ -1131,99 +1209,8 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Danger-Sign-Hazardous-Chemicals-1.jpg",
       "publishedAt": "2025-05-27T06:00:00Z",
       "content": "<ul><li>Mike Adams and David Steinman discussed the severe health risks posed by pervasive toxins (e.g., DDT, PCBs, phthalates) in food, water and consumer products, emphasizing their links to cancer… [+6707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Finn Heartley",
-      "title": "Your oat milk has a secret ingredient – Lab tests confirm whatâs really inside",
-      "description": "Chalk in oat milk: CWC Labs found calcium carbonate (ground-up chalk) in most commercial oat milk brands to enhance whiteness and creaminess, though lead/aluminum levels were within safe limits. Health concerns questioned: While calcium carbonate isn’t toxic,…",
-      "url": "https://www.naturalnews.com/2025-05-27-your-oat-milk-has-secret-ingredient.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/2025-05-27-BBN-The-healing-power.jpg",
-      "publishedAt": "2025-05-27T06:00:00Z",
-      "content": "<ul><li>Chalk in oat milk: CWC Labs found calcium carbonate (ground-up chalk) in most commercial oat milk brands to enhance whiteness and creaminess, though lead/aluminum levels were within safe limi… [+4300 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Tom Murray",
-      "title": "Aldi salmon recalled over potentially ‘life-threatening’ risk. Here’s what to know",
-      "description": "Three U.S. states are affected by the recall",
-      "url": "https://www.the-independent.com/life-style/aldi-salmon-recall-soy-santa-monica-b2758225.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/26/20/19/aldi-salmon-recalled.png?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-27T04:50:06Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3417 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Adeola Adeosun",
-      "title": "Albertsons Recall in 11 States and DC as Salmonella Warning Issued",
-      "description": "Grocery chain recalls Greek salads in 11 states due to a Salmonella outbreak linked to Florida cucumbers that sickened 26 people.",
-      "url": "https://www.newsweek.com/albertsons-recall-issued-11-states-dc-salmonella-warning-2077213",
-      "urlToImage": "https://d.newsweek.com/en/full/2651777/albertsons.jpg",
-      "publishedAt": "2025-05-26T21:58:23Z",
-      "content": "Albertsons Companies has voluntarily recalled three store-made deli items across 11 states and Washington D.C. due to potential Salmonella contamination linked to an ongoing outbreak that has sickene… [+4816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lawyersgunsmoneyblog.com"
-      },
-      "author": "Scott Lemieux",
-      "title": "FDA did not inform public about E. coli outbreak that made dozens of people sick",
-      "description": "This is your government under Trump and Elon: Colton George felt sick. The 9-year-old Indiana boy told his parents his stomach hurt. He kept running to the bathroom and felt too ill to finish a basketball game. Days later, he lay in a hospital bed, fighting f…",
-      "url": "https://www.lawyersgunsmoneyblog.com/2025/05/fda-did-not-inform-public-about-e-coli-outbreak-that-made-dozens-of-people-sick",
-      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/05/Logo_of_the_United_States_Food_and_Drug_Administration.svg_.png",
-      "publishedAt": "2025-05-26T21:51:59Z",
-      "content": "Colton George felt sick. The 9-year-old Indiana boy told his parents his stomach hurt. He kept running to the bathroom and felt too ill to finish a basketball game.\r\nDays later, he lay in a hospital … [+1318 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Memeorandum.com"
-      },
-      "author": null,
-      "title": "E. coli outbreak sickened more than 80 people, but details didn't surface (Stephanie Armour/Washington Post)",
-      "description": "Stephanie Armour / Washington Post:\nE. coli outbreak sickened more than 80 people, but details didn't surface  —  Food safety inspections are being scaled back and the public was not notified after an investigation into E. coli contamination.  —  Colton Georg…",
-      "url": "https://www.memeorandum.com/250526/p38",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JSNPADLZONLOJGKAPHSNMCPNIQ.jpeg&w=1440",
-      "publishedAt": "2025-05-26T21:20:00Z",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Tom Murray",
-      "title": "Aldi salmon recalled over potentially ‘life-threatening’ risk. Here’s what to know",
-      "description": "Three U.S. states are affected by the recall",
-      "url": "https://www.the-independent.com/life-style/aldi-salmon-seafood-recall-allergen-b2758111.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/26/20/19/aldi-salmon-recalled.png?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-26T21:01:22Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3417 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Liberty Nation",
-      "title": "Harmless Snacks or Depression Fuel? Microplastics Found in Junk Food",
-      "description": "We all know junk food is bad – but a new study shows just how toxic it really is.Recent articles have converged to paint a horrifying picture of Americans’ increasingly ultra-processed diets and likely brain damage from the microplastics that saturate many fo…",
-      "url": "https://freerepublic.com/focus/f-chat/4319219/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-05-26T20:58:33Z",
-      "content": "Skip to comments.\r\nHarmless Snacks or Depression Fuel? Microplastics Found in Junk FoodLiberty Nation ^\r\n | May 26, 2025\r\n | John Klar\r\nPosted on 05/26/2025 1:58:33 PM PDT by E. Pluribus Unum\r\nWe all… [+3013 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 93,
   "filteredCount": 0
 }
