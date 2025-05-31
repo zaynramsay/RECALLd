@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-05-31T01:56:57.422Z",
+  "lastUpdated": "2025-05-31T06:32:04.355Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Blogtrepreneur.com"
+      },
+      "author": "Rylie Holt",
+      "title": "Money-Saving Tricks for Restaurant Equipment to Last Longer",
+      "description": "Running a restaurant involves more than great recipes and customer service. Equipment downtime can slow everything down, affect food quality, and increase costs. Many restaurant owners overlook the hidden expenses that come with broken or underperforming mach…",
+      "url": "http://www.blogtrepreneur.com/money-saving-tricks-for-restaurant-equipment-to-last-longer/",
+      "urlToImage": "http://www.blogtrepreneur.com/wp-content/uploads/2016/02/blogtrepreneur-logo.png",
+      "publishedAt": "2025-05-30T04:36:01Z",
+      "content": "0 Running a restaurant involves more than great recipes and customer service. Equipment downtime can slow everything down, affect food quality, and increase costs. Many restaurant owners overlook the… [+8029 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Cason Ho",
+      "title": "Inside Alcoa's plans to expand mining in the world's only jarrah forests",
+      "description": "US aluminium giant Alcoa wants to expand mining operations in the world's only jarrah forests in Western Australia, setting the stage for a battle with environmentalists over the impact on wildlife and water quality. Here's what's at stake.",
+      "url": "https://www.abc.net.au/news/2025-05-30/battle-over-alcoa-plans-to-expand-mining-in-wa-jarrah-forests/105357762",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/918cee7cdd5c902cacd62e66ad3b1c00?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=283&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-05-30T04:18:12Z",
+      "content": "US aluminium giant Alcoa is proposing to expand its mining operations in the world's only jarrah forests in Western Australia, setting the stage for a battle with environmentalists over the impact on�� [+5901 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -565,19 +591,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
-      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
-      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
-      "publishedAt": "2025-05-28T14:00:00Z",
-      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
       "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
       "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
@@ -585,6 +598,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
       "publishedAt": "2025-05-28T14:00:00Z",
       "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
+      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
+      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
     },
     {
       "source": {
@@ -1196,32 +1222,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-36.png",
       "publishedAt": "2025-05-26T08:12:30Z",
       "content": "Fake software activation videos on TikTok spread Vidar, StealC\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 46\r\n | Security Affairs newsletter Round 525 by Pierluigi Paganini INTERNATIONAL EDITION\r\n… [+167333 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": null,
-      "title": "NASA acidentally discovers super bacteria that could survive on Mars",
-      "description": "In a surprising discovery, NASA scientists found 26 new bacterial species in a JPL clean room, raising concerns about planetary contamination. These resilient microbes, resistant to radiation and toxins, evolved despite rigorous sterilization. While posing a …",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/nasa-acidentally-discovers-super-bacteria-that-could-survive-on-mars/articleshow/121397195.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121397364,width-1200,height-630,imgsize-26350,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-05-25T17:36:38Z",
-      "content": "In an unexpected twist, NASA scientists have discovered 26 previously unknown species of bacteriaright inside one of the cleanest places on Earth. The find, made at NASAs Jet Propulsion Laboratory (J… [+3238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Inga Parkel",
-      "title": "FDA recalls oysters due to potential norovirus contamination ahead of Memorial Day",
-      "description": "Diners are advised against eating frozen, raw or half-shell oysters imported from the Republic of Korea",
-      "url": "https://www.the-independent.com/life-style/food-and-drink/oysters-recalled-norovirus-outbreak-fda-memorial-day-b2758022.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/24/21/28/Oysters.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-05-25T16:18:00Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2726 chars]"
     }
   ],
   "totalResults": 94,
