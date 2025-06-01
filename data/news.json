@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-05-31T18:31:18.009Z",
+  "lastUpdated": "2025-06-01T02:24:29.478Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Zerohedge.com"
+      },
+      "author": "Tyler Durden",
+      "title": "Overlooked Chemicals In Food May Threaten Your Health",
+      "description": "New research raises alarm over chemical migration from food packaging and processing equipment.",
+      "url": "https://www.zerohedge.com/medical/overlooked-chemicals-food-may-threaten-your-health",
+      "urlToImage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-05/image_92%28108%29.jpg?itok=X2La2GPk",
+      "publishedAt": "2025-05-31T01:45:36Z",
+      "content": "Authored by George Citroner via The Epoch Times (emphasis ours),\r\nScientists are sounding the alarm on what they call an overlooked threat to public health: synthetic chemicals from packaging and pro… [+8522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "The unexpected symptoms of OCD beyond hand-washing and light-switch rituals",
+      "description": "Disturbing thoughts and social fixations are among the many manifestations of obsessive-compulsive disorder.",
+      "url": "https://cnalifestyle.channelnewsasia.com/wellness/psych101-ocd-obsessive-compulsive-disorder-types-465571",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--W7XCzhun--/c_crop,h_1350,w_2400,x_0,y_173/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/05/27/well_ocd_symptoms_may19-0_0.jpg?itok=WZGkf0vi",
+      "publishedAt": "2025-05-30T23:27:43Z",
+      "content": "When most people think of obsessive-compulsive disorder, they may picture behaviours theyve seen on TV  like repetitive hand-washing, flicking light switches on and off and meticulously arranging sma… [+4961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cleanthesky.com"
+      },
+      "author": "Debra John —  May 30, 2025",
+      "title": "Compostable Foodservice Suppliers - Eco-Products Becomes the Zero Waste Partner for the Giants (TrendHunter.com)",
+      "description": "(TrendHunter.com) Eco-Products is now an official 'Zero Waste Partner' of the San Francisco Giants, working to make Oracle Park more sustainable. As part of the partnership, Eco-Products will provide compostable...",
+      "url": "https://www.cleanthesky.com/innovation/zero-waste-partner",
+      "urlToImage": "https://cdn.trendhunterstatic.com/thumbs/572/zero-waste-partner.jpeg",
+      "publishedAt": "2025-05-30T23:02:03Z",
+      "content": "Eco-Products is now an official 'Zero Waste Partner' of the San Francisco Giants, working to make Oracle Park more sustainable. As part of the partnership, Eco-Products will provide compostable foods… [+760 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Safety News"
+      },
+      "author": "News Desk",
+      "title": "Publix recalls baby food because of lead contamination",
+      "description": "Publix Super Markets Inc. has initiated a recall of GreenWise Pear, Kiwi, Spinach & Pea Baby Food, produced by Bowman Andros LLC and distributed to Publix grocery stores in the company’s eight-state operating area.  The product is sold in 4-ounce plastic pouc…",
+      "url": "https://www.foodsafetynews.com/2025/05/publix-recalls-baby-food-because-of-lead-contamination/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/092/385/787/VJqEKwxkyzGadLE0QNP8dj4vL/f46ce07bd1e4f6c3248bdd98977a1527df60a5e8.png",
+      "publishedAt": "2025-05-30T22:16:15Z",
+      "content": "Publix Super Markets Inc. has initiated a recall of GreenWise Pear, Kiwi, Spinach &amp; Pea Baby Food, produced by Bowman Andros LLC and distributed to Publix grocery stores in the company’s eight-st… [+1773 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Nick Mordowanec",
+      "title": "Salmonella Recall: List of Products Impacted",
+      "description": "One company's recall includes 946 cases of refrigerated deli salads containing fresh cucumbers.",
+      "url": "https://www.newsweek.com/food-recall-salmonella-salads-fda-2079206",
+      "urlToImage": "https://d.newsweek.com/en/full/2654451/fda-recall.png",
+      "publishedAt": "2025-05-30T21:28:51Z",
+      "content": "Three different companies' products have been pulled from shelves in the past four days due to concerns about salmonella contamination.\r\nWhy It Matters\r\nSalmonella causes symptoms from diarrhea and f… [+6876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Meta stopped covert operations from Iran, China, and Romania spreading propaganda",
+      "description": "Meta stopped three covert operations from Iran, China, and Romania using fake accounts to spread propaganda on social media platforms. Meta announced the disruption of three influence operations from Iran, China, and Romania using fake accounts to spread prop…",
+      "url": "https://securityaffairs.com/178456/social-networks/meta-stopped-covert-operations-from-iran-china-romania.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/04/Meta-logo.png",
+      "publishedAt": "2025-05-30T20:02:02Z",
+      "content": "Meta stopped covert operations from Iran, China, and Romania spreading propaganda\r\n | US Treasury sanctioned the firm Funnull Technology as major cyber scam facilitator\r\n | ConnectWise suffered a cyb… [+168700 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -773,19 +851,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
-      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
-      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
-      "publishedAt": "2025-05-28T14:00:00Z",
-      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
       "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
       "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
@@ -793,6 +858,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
       "publishedAt": "2025-05-28T14:00:00Z",
       "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
+      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
+      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
     },
     {
       "source": {
@@ -1118,99 +1196,8 @@
       "urlToImage": "https://insights.som.yale.edu/sites/default/files/styles/open_graph/public/2025-05/empty%20shelves%20grocery%20supply%20chain.jpg?h=a51a5cf9&itok=PMMPZpZ0",
       "publishedAt": "2025-05-27T12:55:06Z",
       "content": "Where does your company sit in the supply chain? I had never heard of it, but now Im thinking I probably eat food all the time that arrives because of your product.\r\nWe manufacture and supply stainle… [+12383 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutritionfacts.org"
-      },
-      "author": "Michael Greger M.D. FACLM",
-      "title": "Food Safety and Cultivated Meat",
-      "description": "What are the direct health implications of making clean meat—that is, meat without animals? In a 1932 article in Popular Mechanics entitled “Fifty Years Hence,” […]",
-      "url": "https://nutritionfacts.org/blog/food-safety-and-cultivated-meat/",
-      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/05/8-1200x675.jpg",
-      "publishedAt": "2025-05-27T12:00:45Z",
-      "content": "What are the direct health implications of making clean meatthat is, meat without animals?\r\nIn a 1932 article in Popular Mechanicsentitled Fifty Years Hence, Winston Churchill predicted that we would… [+4056 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Gretchen Eichenberg",
-      "title": "Deli meat, cucumbers top list of 'really risky foods' you might have in the fridge",
-      "description": "A 41% rise in food recalls in 2024 highlights the risk of salmonella, E. coli and listeria in common foods such as deli meats, cucumbers, raw milk and eggs, says Consumer Reports.",
-      "url": "https://www.foxnews.com/food-drink/deli-meat-cucumbers-top-list-risky-foods-you-might-have-fridge",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/iStock-855898984.jpg",
-      "publishedAt": "2025-05-27T11:00:00Z",
-      "content": "Cucumbers, deli meat and eggs are just a few of the everyday grocery items that made a list from Consumer Reports of \"10 Really Risky Foods Right Now.\"\r\nIt's based on the number of illnesses and deat… [+8237 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Saudi Arabia $308.69 Mn Plastic Recycling Market Trends, Competition, Forecast and Opportunities, 2020-2024 & 2025-2030",
-      "description": "Saudi Arabia's plastic recycling market thrives on government sustainability policies and industry growth in packaging and consumer goods. New recycling technologies and large-scale facilities drive demand for recycled plastics, though challenges remain in wa…",
-      "url": "https://www.globenewswire.com/news-release/2025/05/27/3088375/28124/en/Saudi-Arabia-308-69-Mn-Plastic-Recycling-Market-Trends-Competition-Forecast-and-Opportunities-2020-2024-2025-2030.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-05-27T08:08:00Z",
-      "content": "Dublin, May 27, 2025 (GLOBE NEWSWIRE) -- The \"Saudi Arabia Plastic Recycling Market, By Region, Competition, Forecast and Opportunities, 2020-2030F\" has been added to ResearchAndMarkets.com's offerin… [+11483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Nova Scotia Power confirms it was hit by ransomware attack but hasn’t paid the ransom",
-      "description": "Nova Scotia Power confirms it was hit by a ransomware attack but hasn’t paid the ransom, nearly a month after first disclosing the cyberattack. Nova Scotia Power confirmed it was hit by a ransomware attack nearly a month after disclosing a cyber incident. The…",
-      "url": "https://securityaffairs.com/178323/data-breach/nova-scotia-power-confirms-it-was-hit-by-ransomware-but-hasnt-paid-the-ransom.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/01/uk-power-grid.jpg",
-      "publishedAt": "2025-05-27T07:02:35Z",
-      "content": "Nova Scotia Power confirms it was hit by ransomware attack but hasn't paid the ransom\r\n | Crooks stole over $200 million from crypto exchange Cetus Protocol\r\n | Marlboro-Chesterfield Pathology data b… [+167668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Crooks stole over $200 million from crypto exchange Cetus Protocol",
-      "description": "Cetus Protocol reported a $223 million crypto theft and is offering to drop legal action if the stolen funds are returned. Last week, threat actors stole about $223 million from decentralized crypto exchange Cetus. The platform was paused during the investiga…",
-      "url": "https://securityaffairs.com/178312/hacking/crooks-stole-over-200m-from-cetus-protocol.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-39.png",
-      "publishedAt": "2025-05-27T06:23:21Z",
-      "content": "Crooks stole over $200 million from crypto exchange Cetus Protocol\r\n | Marlboro-Chesterfield Pathology data breach impacted 235,911 individuals\r\n | China-linked APT UNC5221 started exploiting Ivanti … [+167578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Jacob Thomas",
-      "title": "“Breaking the Chains” on BrightU: How to survive a chemical or nuclear attack without help from the government",
-      "description": "In Episode 10 of “Breaking the Chains: Decentralize Your Life,” Mike Adams and Kristen Meghan exposed flaws in official responses to crises like the East Palestine train derailment, where residents were misled about safety after a toxic chemical burn. Authori…",
-      "url": "https://www.naturalnews.com/2025-05-27-survive-chemical-nuclear-attack-without-government-help.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Chemical-Hazard-Protection-Radiation-Reactor-Accident-Air.jpg",
-      "publishedAt": "2025-05-27T06:00:00Z",
-      "content": "<ul><li>In Episode 10 of \"Breaking the Chains: Decentralize Your Life,\" Mike Adams and Kristen Meghan exposed flaws in official responses to crises like the East Palestine train derailment, where res… [+4866 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Kevin Hughes",
-      "title": "Health Ranger Report: David Steinman discusses the dangers of CHEMICAL TOXINS",
-      "description": "Mike Adams and David Steinman discussed the severe health risks posed by pervasive toxins (e.g., DDT, PCBs, phthalates) in food, water and consumer products, emphasizing their links to cancer, developmental issues and cognitive impairments — especially in chi…",
-      "url": "https://www.naturalnews.com/2025-05-27-david-steinman-discusses-dangers-of-chemical-toxins.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Danger-Sign-Hazardous-Chemicals-1.jpg",
-      "publishedAt": "2025-05-27T06:00:00Z",
-      "content": "<ul><li>Mike Adams and David Steinman discussed the severe health risks posed by pervasive toxins (e.g., DDT, PCBs, phthalates) in food, water and consumer products, emphasizing their links to cancer… [+6707 chars]"
     }
   ],
-  "totalResults": 93,
-  "filteredCount": 0
+  "totalResults": 92,
+  "filteredCount": 1
 }
