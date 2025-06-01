@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-01T12:47:08.674Z",
+  "lastUpdated": "2025-06-01T18:31:19.354Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Two Linux flaws can lead to the disclosure of sensitive data",
+      "description": "Qualys warns of two information disclosure flaws in apport and systemd-coredump, the core dump handlers in Ubuntu, Red Hat Enterprise Linux, and Fedora distros. Researchers discovered a vulnerability in Apport (Ubuntu’s core dump handler) and another bug in s…",
+      "url": "https://securityaffairs.com/178464/hacking/two-linux-flaws-can-lead-to-the-disclosure-of-sensitive-data.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/11/Linux-ransomware-encoder1.jpg",
+      "publishedAt": "2025-05-31T15:35:13Z",
+      "content": "Meta stopped covert operations from Iran, China, and Romania spreading propaganda\r\n | US Treasury sanctioned the firm Funnull Technology as major cyber scam facilitator\r\n | ConnectWise suffered a cyb… [+168700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Summer Austin",
+      "title": "How Oral Immunotherapy Cured Me Of My Peanut Allergy",
+      "description": "“I’ve been deathly allergic to being exposed to even a minuscule amount.”",
+      "url": "https://www.huffpost.com/entry/peanut-allergy-cure-oral-immunotherapy_n_68239db1e4b021b50649df1f",
+      "urlToImage": "https://img.huffingtonpost.com/asset/682cbec0160000c200c1919a.jpeg?cache=dkYOL6I6zW&ops=1200_630",
+      "publishedAt": "2025-05-31T13:00:58Z",
+      "content": "Im nervously waiting in an exam room at my doctors office to see if my body is about to enter anaphylaxis. Nurses monitor my vitals and check to see how open my breathing passages are. Technically, I… [+11741 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -467,7 +493,7 @@
       "url": "https://www.newsweek.com/beef-stew-nationwide-recall-wood-contamination-fsis-hormel-foods-corporation-2078444",
       "urlToImage": "https://d.newsweek.com/en/full/2653424/food-recall.png",
       "publishedAt": "2025-05-29T15:18:37Z",
-      "content": "A Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign material contamination.\r\nHormel Foods Corporation ��� [+2216 chars]"
+      "content": "A Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign material contamination.\r\nHormel Foods Corporation … [+2216 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/05/Ng.jpeg",
       "publishedAt": "2025-05-27T17:00:00Z",
       "content": "Vietnam is still plagued by the toxic legacy of chemical warfare.\r\nEdit\r\nAd Policy\r\nTran To Nga in Bretigny sur Orge, France on September 13, 2024.(Bastien Oheir and Hans Lucas / AFP via Getty Images… [+10493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wonderhowto.com"
-      },
-      "author": "Brady Klopfer",
-      "title": "5 New Ways to Utilize Your Cast Iron Skillet",
-      "description": "A friend asked me the other day what kitchen tool I most frequently use. I told him that, after my chef's knife, it had to be my cast-iron skillet. He was a little confused, and asked what I used it for other than pancakes and bacon. I told him this: everythi…",
-      "url": "https://food-hacks.wonderhowto.com/how-to/5-new-ways-utilize-your-cast-iron-skillet-0161678/",
-      "urlToImage": "https://assets.content.technologyadvice.com/635667775312520798_b1f01598b0.webp",
-      "publishedAt": "2025-05-27T15:22:09Z",
-      "content": "A friend asked me the other day what kitchen tool I most frequently use. I told him that, after my chef's knife, it had to be my cast-iron skillet. He was a little confused, and asked what I used it … [+2938 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Russia-linked APT Laundry Bear linked to 2024 Dutch Police attack",
-      "description": "A new Russia-linked APT group, tracked as Laundry Bear, has been linked to a Dutch police security breach in September 2024. Netherlands General Intelligence and Security Service (AIVD) and the Netherlands Defence Intelligence and Security Service (MIVD) have…",
-      "url": "https://securityaffairs.com/178338/apt/russia-linked-apt-laundry-bear-linked-to-2024-dutch-police-attack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/12/Consular-Department-of-the-Embassy-of-the-Russian-Federation.jpg",
-      "publishedAt": "2025-05-27T14:34:55Z",
-      "content": "Russia-linked APT Laundry Bear linked to 2024 Dutch Police attack\r\n | Nova Scotia Power confirms it was hit by ransomware attack but hasn't paid the ransom\r\n | Crooks stole over $200 million from cry… [+167738 chars]"
     }
   ],
   "totalResults": 92,
