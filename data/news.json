@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-01T02:24:29.478Z",
+  "lastUpdated": "2025-06-01T06:33:40.017Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Unrefined palm oil: An unfairly maligned nutrient powerhouse",
+      "description": "Unrefined red palm oil is packed with beneficial compounds like vitamin E (tocotrienols), beta-carotene and CoQ10, offering antioxidant, heart-healthy and neuroprotective benefits. Highly processed palm oil (refine or bleached) loses nutrients, while hydrogen…",
+      "url": "https://www.naturalnews.com/2025-05-31-unrefined-palm-oil-unfairly-maligned-nutrient-powerhouse.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Palm-Oil-2.jpg",
+      "publishedAt": "2025-05-31T06:00:00Z",
+      "content": "<ul><li>Unrefined red palm oil is packed with beneficial compounds like vitamin E (tocotrienols), beta-carotene and CoQ10, offering antioxidant, heart-healthy and neuroprotective benefits.</li><li>Hi… [+6684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Everything-everywhere.com"
+      },
+      "author": "Gary Arndt",
+      "title": "The History of the Hamburger",
+      "description": "Podcast Transcript One of the most popular foods around the world is the hamburger. If most people think of American foods, it is probably the first thing that comes to mind. Hamburgers are pretty simple in terms of what they are composed of and how they are …",
+      "url": "https://everything-everywhere.com/the-history-of-the-hamburger/",
+      "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-xBPGLpk/0/MxPPW9ZcRLxkrVq8tcnFN9pVW292k3jLcVcRSZmTQ/L/Untitled-L.jpg",
+      "publishedAt": "2025-05-31T05:48:45Z",
+      "content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon\r\nOne of the most popular foods around the world is the hamburger. If most people think of American foods,… [+13096 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -851,19 +877,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
-      "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
-      "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323497",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
-      "publishedAt": "2025-05-28T14:00:00Z",
-      "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
       "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
       "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
@@ -871,6 +884,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
       "publishedAt": "2025-05-28T14:00:00Z",
       "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
+      "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
+      "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323497",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324133.g004&size=inline",
       "publishedAt": "2025-05-27T14:00:00Z",
       "content": "Abstract\r\nSummer savory (Satureja hortensis L.) is a plant of the Lamiaceae family that grows in various ecological regions of the world. It is one of the medicinal-aromatic plants with huge economic… [+39302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Intercept"
-      },
-      "author": "Meghnad Bose, Lara-Nour Walton",
-      "title": "Columbia Trustee Got Sued for Securities Fraud — Then Left Her Pharma Firm Under a Cloud",
-      "description": "Shoshana Shendelman is reportedly part of a hard-line pro-Israel faction on the Columbia board of trustees.\nThe post Columbia Trustee Got Sued for Securities Fraud — Then Left Her Pharma Firm Under a Cloud appeared first on The Intercept.",
-      "url": "https://theintercept.com/2025/05/27/columbia-university-trustee-shendelman-sued-pharma/",
-      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/05/Shendelman.jpg?fit=2000%2C1000&w=1200&h=800",
-      "publishedAt": "2025-05-27T13:28:29Z",
-      "content": "For more than a year and a half, Shoshana Shendelman has been at the epicenter of one of the biggest stories in the country: the raging campus battles over Israels war on Gaza. Earlier in the year, C… [+23278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yale.edu"
-      },
-      "author": "btm25@yale.edu",
-      "title": "How Tariffs Could Empty Grocery Shelves‌‌",
-      "description": "How Tariffs Could Empty Grocery Shelves‌‌btm25@yale.edu\nTue, 05/27/2025 - 08:55\n Management in Practice\n <li>\n Todd Adams\n\n\n President, Sanitube\n\r\n\n \r\n\n</li>\n<ul><li>Politics and Policy</li>\n <li>Alumni</li>\n </ul>\n Wide\n 176373\n You’ve probably never heard o…",
-      "url": "https://insights.som.yale.edu/insights/how-tariffs-could-empty-grocery-shelves",
-      "urlToImage": "https://insights.som.yale.edu/sites/default/files/styles/open_graph/public/2025-05/empty%20shelves%20grocery%20supply%20chain.jpg?h=a51a5cf9&itok=PMMPZpZ0",
-      "publishedAt": "2025-05-27T12:55:06Z",
-      "content": "Where does your company sit in the supply chain? I had never heard of it, but now Im thinking I probably eat food all the time that arrives because of your product.\r\nWe manufacture and supply stainle… [+12383 chars]"
     }
   ],
   "totalResults": 92,
