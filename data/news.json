@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-01T06:33:40.017Z",
+  "lastUpdated": "2025-06-01T12:47:08.674Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Bill Pluecker",
+      "title": "As Federal Leaders Are Failing on PFAS, States Must Step up—Here’s How",
+      "description": "The Environmental Protection Agency is rolling back critical protections that ensure safe drinking water\r\n. These regulations help ensure that our water is free of PFAS, also known as “forever chemicals,” an especially hazardous form of industrial chemicals t…",
+      "url": "https://www.commondreams.org/opinion/maine-model-for-pfas",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=60345672&width=1200&height=600&coordinates=0%2C92%2C0%2C93",
+      "publishedAt": "2025-05-31T12:45:03Z",
+      "content": "The Environmental Protection Agency is rolling back critical protections that ensure safe drinking water\r\n. These regulations help ensure that our water is free of PFAS, also known as forever chemica… [+3939 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -454,7 +467,7 @@
       "url": "https://www.newsweek.com/beef-stew-nationwide-recall-wood-contamination-fsis-hormel-foods-corporation-2078444",
       "urlToImage": "https://d.newsweek.com/en/full/2653424/food-recall.png",
       "publishedAt": "2025-05-29T15:18:37Z",
-      "content": "A Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign material contamination.\r\nHormel Foods Corporation … [+2216 chars]"
+      "content": "A Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign material contamination.\r\nHormel Foods Corporation ��� [+2216 chars]"
     },
     {
       "source": {
@@ -1183,19 +1196,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/12/Consular-Department-of-the-Embassy-of-the-Russian-Federation.jpg",
       "publishedAt": "2025-05-27T14:34:55Z",
       "content": "Russia-linked APT Laundry Bear linked to 2024 Dutch Police attack\r\n | Nova Scotia Power confirms it was hit by ransomware attack but hasn't paid the ransom\r\n | Crooks stole over $200 million from cry… [+167738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Ayse Ozlem Tursun",
-      "title": "Impact of different harvest times on yield and quality of summer savory (Satureja hortensis L.) genotypes",
-      "description": "Summer savory (Satureja hortensis L.) is a plant of the Lamiaceae family that grows in various ecological regions of the world. It is one of the medicinal-aromatic plants with huge economic value. The objective of this study was to determine the yield and qua…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324133",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324133.g004&size=inline",
-      "publishedAt": "2025-05-27T14:00:00Z",
-      "content": "Abstract\r\nSummer savory (Satureja hortensis L.) is a plant of the Lamiaceae family that grows in various ecological regions of the world. It is one of the medicinal-aromatic plants with huge economic… [+39302 chars]"
     }
   ],
   "totalResults": 92,
