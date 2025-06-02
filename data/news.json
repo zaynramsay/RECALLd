@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-06-02T12:51:58.803Z",
+  "lastUpdated": "2025-06-02T18:34:20.730Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Clarkesworldmagazine.com"
+      },
+      "author": "A. T. Greenblatt",
+      "title": "In the Shells of Broken Things by A. T. Greenblatt",
+      "description": "Right before I decamped for Evergreen Dome, that mysterious place, I was sweating it out in my small metropolitan apartment that fall, watching the leaves dry up and drift away […]",
+      "url": "https://clarkesworldmagazine.com/greenblatt_06_25/",
+      "urlToImage": "https://clarkesworldmagazine.com/covers/cw_225_800.jpg?3",
+      "publishedAt": "2025-06-01T17:06:34Z",
+      "content": "byA. T. GreenblattRight before I decamped for Evergreen Dome, that mysterious place, I was sweating it out in my small metropolitan apartment that fall, watching the leaves dry up and drift away and … [+39223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tastingtable.com"
+      },
+      "author": "Amy Bell",
+      "title": "13 Of The Biggest Frozen Food Recalls Of All Time",
+      "description": "Some frozen food recalls have been massive - impacting millions of pounds and hundreds of lives. These are the ones that made history for all the wrong...",
+      "url": "https://www.tastingtable.com/1873206/biggest-frozen-food-recalls-all-time/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZOD4bD8RRi6svjidYA72RA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/tasting_table_543/42e632789fec2a157f7634a58c026b9d",
+      "publishedAt": "2025-06-01T14:15:00Z",
+      "content": "While you may have thought frozen foods were safer, it turns out that some of the biggest recalls of all time have been frozen food recalls. There are all kinds of things that can go wrong with froze… [+16879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Two flaws in vBulletin forum software are under attack",
+      "description": "Experts found two vulnerabilities in the vBulletin forum software, one of which is already being exploited in real-world attacks. Two critical vBulletin flaws, tracked as CVE-2025-48827 and CVE-2025-48828, enable API abuse and remote code execution. The exper…",
+      "url": "https://securityaffairs.com/178481/security/two-flaws-in-vbulletin-forum-software-are-under-attack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image.png",
+      "publishedAt": "2025-06-01T13:50:33Z",
+      "content": "Two flaws in vBulletin forum software are under attack\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 47\r\n | Security Affairs newsletter Round 526 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Meta … [+168894 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -51,7 +90,7 @@
       "url": "https://www.huffpost.com/entry/peanut-allergy-cure-oral-immunotherapy_n_68239db1e4b021b50649df1f",
       "urlToImage": "https://img.huffingtonpost.com/asset/682cbec0160000c200c1919a.jpeg?cache=dkYOL6I6zW&ops=1200_630",
       "publishedAt": "2025-05-31T13:00:58Z",
-      "content": "Im nervously waiting in an exam room at my doctors office to see if my body is about to enter anaphylaxis. Nurses monitor my vitals and check to see how open my breathing passages are. Technically, I… [+11741 chars]"
+      "content": "Im nervously waiting in an exam room at my doctors office to see if my body is about to enter anaphylaxis. Nurses monitor my vitals and check to see how open my breathing passages are. Technically, I��� [+11741 chars]"
     },
     {
       "source": {
@@ -632,7 +671,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "China-linked APT41 used Google Calendar as C2 to control its TOUGHPROGRESS malware",
-      "description": "Google says China-linked group APT41 controlled malware via Google Calendar to target governments through a hacked site. Google warns that China-linked APT41 used TOUGHPROGRESS malware with Google Calendar as C2, targeting various government entities via a co���",
+      "description": "Google says China-linked group APT41 controlled malware via Google Calendar to target governments through a hacked site. Google warns that China-linked APT41 used TOUGHPROGRESS malware with Google Calendar as C2, targeting various government entities via a co…",
       "url": "https://securityaffairs.com/178424/apt/china-linked-apt41-used-google-calendar-as-c2-to-control-its-toughprogress-malware.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-44.png",
       "publishedAt": "2025-05-29T11:17:13Z",
@@ -942,19 +981,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
-      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
-      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
-      "publishedAt": "2025-05-28T14:00:00Z",
-      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
       "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
       "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
@@ -962,6 +988,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
       "publishedAt": "2025-05-28T14:00:00Z",
       "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
+      "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
+      "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013072",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
     },
     {
       "source": {
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/05/raw-milk-white-house.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2025-05-28T03:51:05Z",
       "content": "Health influencers flocked to the White House last week for a press event celebrating the release of a report by Donald Trump‘s “Make America Healthy Again” or “MAHA” commission, chaired by Health Se… [+4690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Lower Cholesterol, Naturally and Safely — No Statins Required",
-      "description": "Your body knows how to heal. Think about it — if a poor diet and lifestyle can contribute to an unhealthy body, it stands to reason that a nutrient-rich diet and lifestyle can conversely contribute to a healthy body. That's not too hard to figure out.\n\nWhat i…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/05/28/lower-cholesterol-naturally-and-safely.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/May/FB/lower-cholesterol-naturally-and-safely-fb.jpg",
-      "publishedAt": "2025-05-28T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "DragonForce operator chained SimpleHelp flaws to target an MSP and its customers",
-      "description": "Sophos warns that a DragonForce ransomware operator chained three vulnerabilities in SimpleHelp to target a managed service provider. Sophos researchers reported that a DragonForce ransomware operator exploited three chained vulnerabilities in SimpleHelp soft…",
-      "url": "https://securityaffairs.com/178350/cyber-crime/dragonforce-operator-chained-simplehelp-flaws-to-target-an-msp.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/06/ransomware.jpg",
-      "publishedAt": "2025-05-27T21:43:41Z",
-      "content": "DragonForce operator chained SimpleHelp flaws to target an MSP and its customers\r\n | Russia-linked APT Laundry Bear linked to 2024 Dutch Police attack\r\n | Nova Scotia Power confirms it was hit by ran… [+167823 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kevinmd.com"
-      },
-      "author": "Jane Zill, LICSW",
-      "title": "Medicaid cuts are quietly fueling the diabetic kidney failure crisis",
-      "description": "We’re constantly reminded of the organ shortage and the lives lost while waiting for a kidney. Like fish unaware they swim in water, we’ve accepted the rising tide of kidney failure as natural and inevitable—but it’s not. The most urgent question goes unasked…",
-      "url": "https://kevinmd.com/2025/05/medicaid-cuts-are-quietly-fueling-the-diabetic-kidney-failure-crisis.html",
-      "urlToImage": "https://kevinmd.com/wp-content/uploads/Apr-19-2025-10_05_29-AM-1024x683.png",
-      "publishedAt": "2025-05-27T19:00:20Z",
-      "content": "We’re constantly reminded of the organ shortage and the lives lost while waiting for a kidney. Like fish unaware they swim in water, we’ve accepted the rising tide of kidney failure as natural and in… [+5301 chars]"
     }
   ],
   "totalResults": 92,
