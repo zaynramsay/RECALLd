@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-02T06:36:51.336Z",
+  "lastUpdated": "2025-06-02T12:51:58.803Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 47",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape 60 Malicious npm Packages Leak Network and Host Data in Active Malware Campaign Russia-Aligned TAG-110 Targets Tajikistan wit…",
+      "url": "https://securityaffairs.com/178474/malware/security-affairs-malware-newsletter-round-47.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-06-01T11:54:04Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 47\r\n | Security Affairs newsletter Round 526 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Meta stopped covert operations from Iran, China, and Romania spr… [+168835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 526 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Two Linu…",
+      "url": "https://securityaffairs.com/178468/breaking-news/security-affairs-newsletter-round-526-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-06-01T09:29:05Z",
+      "content": "Security Affairs newsletter Round 526 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Meta stopped covert operations from Iran, China, and Romania spreading propaganda\r\n | US Treasury sanctioned the … [+168786 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -606,7 +632,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "China-linked APT41 used Google Calendar as C2 to control its TOUGHPROGRESS malware",
-      "description": "Google says China-linked group APT41 controlled malware via Google Calendar to target governments through a hacked site. Google warns that China-linked APT41 used TOUGHPROGRESS malware with Google Calendar as C2, targeting various government entities via a co…",
+      "description": "Google says China-linked group APT41 controlled malware via Google Calendar to target governments through a hacked site. Google warns that China-linked APT41 used TOUGHPROGRESS malware with Google Calendar as C2, targeting various government entities via a co���",
       "url": "https://securityaffairs.com/178424/apt/china-linked-apt41-used-google-calendar-as-c2-to-control-its-toughprogress-malware.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-44.png",
       "publishedAt": "2025-05-29T11:17:13Z",
@@ -916,19 +942,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
-      "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
-      "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323497",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
-      "publishedAt": "2025-05-28T14:00:00Z",
-      "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Muhammad Furqan Arshad, Ibrahim Abbas, Francesca Porcu, Alessandro Ricci, Gabriella Gaglio, Emanuele Brianti, Silvia Carta, Lia Cavallo, Claudia Tamponi, Simona Gabrielli, Camila González, Cinzia Cantacessi, Antonio Scala, Antonio Varcasia",
       "title": "Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education",
       "description": "Parasitic diseases represent a substantial public health challenge worldwide. Traditional educational strategies have often fallen short in driving sustained behavioral shifts that are nonetheless essential for reducing the burden of these diseases. Edutainme…",
@@ -936,6 +949,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013072.g002&size=inline",
       "publishedAt": "2025-05-28T14:00:00Z",
       "content": "Citation: Arshad MF, Abbas I, Porcu F, Ricci A, Gaglio G, Brianti E, et al. (2025) Breaking the cycle of parasitic diseases with edutainment: The intersection of entertainment and education. PLoS Neg… [+31668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Patricio López Mendoza, Paola González, Michael V. Westbury, Daniela Saghessi, Lucio González Venanzi, Benito A. González, Juan C. Marín, Bárbara Rivera, Marta Valenzuela",
+      "title": "Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD): Evaluating the presence of llamas (Lama glama, Linnaeus 1758) in the Semiarid North of Chile before the arrival of the Inca",
+      "description": "To evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American camelids that were part of the funerary contexts of the El Olivar sit…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323497",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323497.g010&size=inline",
+      "publishedAt": "2025-05-28T14:00:00Z",
+      "content": "Abstract\r\nTo evaluate the presence of domesticated camelids in the Semiarid North of Chile (29°S) before the arrival of the Inca, we utilized a multidisciplinary approach to analyze 57 South American… [+57705 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://kevinmd.com/wp-content/uploads/Apr-19-2025-10_05_29-AM-1024x683.png",
       "publishedAt": "2025-05-27T19:00:20Z",
       "content": "We’re constantly reminded of the organ shortage and the lives lost while waiting for a kidney. Like fish unaware they swim in water, we’ve accepted the rising tide of kidney failure as natural and in… [+5301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "esquire.com"
-      },
-      "author": "Charles P. Pierce",
-      "title": "E. coli Outbreaks Are Ravaging America. The Trump Administration Doesn't Give a Damn.",
-      "description": "The FDA didn't warn the public after an outbreak late last year. In April, the same strain infected more people.",
-      "url": "https://www.esquire.com/news-politics/politics/a64893235/e-coli-outbreaks-fda-rfk-jr-hhs-trump-administration/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/the-new-us-secretary-of-health-and-human-services-robert-f-news-photo-1748364584.pjpeg?crop=1xw:0.75085xh;center,top&resize=1200:*",
-      "publishedAt": "2025-05-27T17:28:00Z",
-      "content": "Just last Friday, we noted how, under the leadership of Secretary Robert F. Kennedy Jr. with the assistance of the departed Elon Musk, the Department of Health and Human Services had pretty much aban… [+3219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thenation.com"
-      },
-      "author": "Tom Fawthrop",
-      "title": "Why Is an 83-Year-Old Vietnamese Woman Fighting Against Agent Orange and US Corporations in a French Court?",
-      "description": "Tom Fawthrop\n\n\n\nVietnam is still plagued by the toxic legacy of chemical warfare.\r\n\n\r\n\n\nThe post Why Is an 83-Year-Old Vietnamese Woman Fighting Against Agent Orange and US Corporations in a French Court? appeared first on The Nation.",
-      "url": "https://www.thenation.com/article/world/vietnam-agent-orange-warfare-reparations/",
-      "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/05/Ng.jpeg",
-      "publishedAt": "2025-05-27T17:00:00Z",
-      "content": "Vietnam is still plagued by the toxic legacy of chemical warfare.\r\nEdit\r\nAd Policy\r\nTran To Nga in Bretigny sur Orge, France on September 13, 2024.(Bastien Oheir and Hans Lucas / AFP via Getty Images… [+10493 chars]"
     }
   ],
   "totalResults": 92,
