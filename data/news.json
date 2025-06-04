@@ -1,6 +1,240 @@
 {
-  "lastUpdated": "2025-06-04T12:52:27.492Z",
+  "lastUpdated": "2025-06-04T18:34:24.306Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Diana Bruk",
+      "title": "Asian food staple great for heart health — the ‘magic’ is actually what’s grown on it, expert says",
+      "description": "It's an ancient Chinese secret.",
+      "url": "https://nypost.com/2025/06/03/health/asian-food-staple-great-for-heart-health-the-magic-is-actually-whats-grown-on-it-expert-says/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/105802209.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-06-03T18:26:43Z",
+      "content": "Rice, rice, baby. \r\nNot everyone knows that rice is a whole world that extends far beyond the white or brown on offer at your Chinese local. \r\nBut there’s one particularly healthy variety that has ma… [+3503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Wsbtv.com News Staff",
+      "title": "Tomatoes sold in Georgia recalled for salmonella contamination risk, FDA says",
+      "description": "Tomatoes sold under the Williams Farms Repak and the H&C Farms labels were recalled because they may be contaminated with salmonella.",
+      "url": "https://www.wsbtv.com/news/local/tomatoes-sold-georgia-recalled-salmonella-contamination-risk-fda-says/WD77AQQ5LZDFBNPDNIPCYNT37E/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLAVDLGNEGRANHELCVV2WNOV45U.jpeg?auth=3c4ff03e117c3d165cda62719ced74c487e9e6dc0463dabdccdb2385775bc33a&width=1200&height=630&smart=true",
+      "publishedAt": "2025-06-03T17:56:24Z",
+      "content": "ATLANTA — The U.S. Food and Drug Administration is upgrading a recall on tomatoes issued earlier this month.\r\nTomatoes sold under the Williams Farms Repak and the H&amp;C Farms labels were recalled b… [+1759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Kennedy has ordered a review of baby formula. Here’s what you should know",
+      "description": "Three-quarters of U.S. infants consume formula in the first six months of life.",
+      "url": "https://www.bostonherald.com/2025/06/03/infant-formula-review/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/06/Infant_Formula-Review_05135.jpg?w=1024&h=682",
+      "publishedAt": "2025-06-03T15:52:32Z",
+      "content": "By JONEL ALECCIA, AP Health Writer\r\nAs federal health officials vow to overhaul the U.S. food supply, theyre taking a new look at infant formula.\r\nHealth Secretary Robert F. Kennedy Jr. has directed … [+6018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inotherwords.app"
+      },
+      "author": null,
+      "title": "The Small World of English",
+      "description": "Discover how we mapped 1.5 million English words into a \n        navigable semantic network where any two words connect in 6-7 hops, enabling innovative \n        word games and linguistic exploration.",
+      "url": "https://www.inotherwords.app/linguabase/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-03T15:14:52Z",
+      "content": "Building a word game forced us to solve a measurement problem: how do you rank 40+ ways to associate any given word down to exactly 17 playable choices? We discovered that combining human-curated the… [+25785 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Lindsay Lowe, TODAY",
+      "title": "Tomato recall affecting 3 states elevated to risk of death by FDA",
+      "description": "A tomato recall due to risk of salmonella contamination in Georgia, South Carolina and North Carolina has been elevated by the FDA to risk of death.",
+      "url": "https://www.nbcnews.com/news/us-news/tomato-recall-affecting-3-states-elevated-risk-death-fda-rcna210610",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/recalled-tomatoes-mc-250505-a3e97b.jpg",
+      "publishedAt": "2025-06-03T14:22:38Z",
+      "content": "A tomato recall due to risk of salmonella contamination has been elevated by the U.S. Food and Drug Administration to its highest warning level.\r\nThe FDA marked the tomato recall affecting three stat… [+1625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTRK-TV"
+      },
+      "author": "Jonel Aleccia",
+      "title": "Kennedy has ordered a review of baby formula. Here's what you should know",
+      "description": "Health Secretary Robert F. Kennedy Jr. has directed the Food and Drug Administration to review the nutrients and other ingredients in infant formula.",
+      "url": "https://abc13.com/post/rfk-jr-kennedy-has-ordered-review-baby-formula-heres-what-should-know/16643971/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16643969_baby-baby-formula-img.jpg?w=1600",
+      "publishedAt": "2025-06-03T14:16:49Z",
+      "content": "As federal health officials vow to overhaul the U.S. food supply, they're taking a new look at infant formula.\r\nNOTE:The video is from a previous report. \r\nHealth Secretary Robert F. Kennedy Jr. has … [+6237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLS-TV"
+      },
+      "author": "Jonel Aleccia",
+      "title": "Kennedy has ordered a review of baby formula. Here's what you should know",
+      "description": "Health Secretary Robert F. Kennedy Jr. has directed the Food and Drug Administration to review the nutrients and other ingredients in infant formula.",
+      "url": "https://abc7chicago.com/post/rfk-jr-kennedy-has-ordered-review-baby-formula-heres-what-should-know/16643971/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16643969_baby-baby-formula-img.jpg?w=1600",
+      "publishedAt": "2025-06-03T14:14:24Z",
+      "content": "As federal health officials vow to overhaul the U.S. food supply, they're taking a new look at infant formula.\r\nNOTE:The video is from a previous report. \r\nHealth Secretary Robert F. Kennedy Jr. has … [+6237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Makiko Kumagai-Braesch, Ming Yao, Nils Ågren, Ahmad Karadagi, Bo-Göran Ericzon, Anna Domogatskaya",
+      "title": "Monolayer whole adherent islets: A novel tool for studying drug-induced diabetic phenotypes in vitro",
+      "description": "To understand the mechanisms of diabetes and develop novel drugs, various animal diabetes models as well as in vitro experimental systems have been established. Using isolated islets in vitro is associated with several problems: (1) discontinued blood microci…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325421",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325421.g007&size=inline",
+      "publishedAt": "2025-06-03T14:00:00Z",
+      "content": "Citation: Kumagai-Braesch M, Yao M, Ågren N, Karadagi A, Ericzon B-G, Domogatskaya A (2025) Monolayer whole adherent islets: A novel tool for studying drug-induced diabetic phenotypes in vitro. PLoS … [+56215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Chaochih Liu, Giulia Frascarelli, Adrian O. Stec, Shane Heinen, Li Lei, Skylar R. Wyant, Erik Legg, Monika Spiller, Gary J. Muehlbauer, Kevin P. Smith, Justin C. Fay, Peter L. Morrell",
+      "title": "Sodium azide mutagenesis induces a unique pattern of mutations",
+      "description": "Author summary Sodium azide is frequently used as a mutagen for experimental studies in plants. It induces primarily C → T changes. We find that these most often occur when a cytosine (C) is followed by another cytosine. In coding sequence, this results in a …",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011634",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011634.g005&size=inline",
+      "publishedAt": "2025-06-03T14:00:00Z",
+      "content": "Abstract\r\nThe nature and effect of mutations are of fundamental importance to the evolutionary process. The generation of mutations with mutagens has also played important roles in genetics. Applicat… [+70967 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scrippsnews.com"
+      },
+      "author": "Ap Via Scripps News Group",
+      "title": "RFK Jr. has ordered a review of baby formula. Here's what you should know",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. has ordered a review of baby formula. Here's what you should know.",
+      "url": "https://www.scrippsnews.com/health/rfk-jr-has-ordered-a-review-of-baby-formula-heres-what-you-should-know",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/33044b8/2147483647/strip/true/crop/5598x2939+0+397/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fe0%2Fb1%2Fd56179404c508e758a6968f328b1%2Fap25149637205135.jpg",
+      "publishedAt": "2025-06-03T13:51:09Z",
+      "content": "As federal health officials vow to overhaul the U.S. food supply, theyre taking a new look at infant formula.\r\nHealth Secretary Robert F. Kennedy Jr. has directed the Food and Drug Administration to … [+5701 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JONEL ALECCIA AP health writer",
+      "title": "Kennedy has ordered a review of baby formula. Here's what you should know",
+      "description": "Health Secretary Robert F",
+      "url": "https://abcnews.go.com/Lifestyle/wireStory/kennedy-ordered-review-baby-formula-122446415",
+      "urlToImage": "https://i.abcnewsfe.com/a/57c94dbc-f57f-4e54-b7eb-741673d1cffc/wirestory_4df7d47ed0d8bb2a16df119e16c5f96d_16x9.jpg?w=1600",
+      "publishedAt": "2025-06-03T13:26:20Z",
+      "content": "As federal health officials vow to overhaul the U.S. food supply, theyre taking a new look at infant formula.\r\nHealth Secretary Robert F. Kennedy Jr. has directed the Food and Drug Administration to … [+5738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Rechon Life Science AB - 701040 - 04/30/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/rechon-life-science-ab-701040-04302025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-03T13:20:13Z",
+      "content": "Delivery Method:\r\nVIA EMAIL WITH READ RECEIPT\r\nReference #:\r\n320-25-68\r\nProduct:\r\nDrugs \r\nRecipient:\r\nRechon Life Science AB\r\nSoldattorpsvagen 5Limhamn216 13Skane LanSweden\r\nIssuing Office:\r\nCenter f… [+20790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "CTK OTC Laboratories LLC formerly FMK LABS, Inc. - 705479 - 05/19/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ctk-otc-laboratories-llc-formerly-fmk-labs-inc-705479-05192025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-03T13:20:10Z",
+      "content": "Delivery Method:\r\nVIA UPS\r\nReference #:\r\n320-25-75\r\nProduct:\r\nDrugs \r\nRecipient:\r\nDaniel Ramirez, General Manager\r\nDylan Kim, Vice President of R&amp;D\r\nCTK OTC Laboratories LLC formerly FMK LABS, In… [+16011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Mother Earth Minerals, Inc. - 692527 - 03/28/2025",
+      "description": "Unapproved New Drugs/Misbranded",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/mother-earth-minerals-inc-692527-03282025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-03T13:20:07Z",
+      "content": "Delivery Method:\r\nVia Email\r\nProduct:\r\nDrugsFood &amp; Beverages \r\nRecipient:\r\nMother Earth Minerals, Inc.\r\n1260 S. 1200 W. Ste 3Ogden, UT84404-5412United States\r\nIssuing Office:\r\nHuman Foods Program… [+19480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Evi Labs LLC - 705846 - 05/14/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/evi-labs-llc-705846-05142025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-03T13:20:06Z",
+      "content": "Delivery Method:\r\nVIA UPS\r\nReference #:\r\n320-25-74\r\nProduct:\r\nDrugs \r\nRecipient:\r\nEvi Labs LLC\r\n9110 NW 106th StreetMedley, FL33178United States\r\nIssuing Office:\r\nCenter for Drug Evaluation and Resea… [+20807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Yiling Pharmaceutical Ltd. - 699738 - 03/27/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/yiling-pharmaceutical-ltd-699738-03272025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-03T13:20:05Z",
+      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-58\r\nProduct:\r\nDrugs \r\nRecipient:\r\nYiling Pharmaceutical Ltd. \r\nNo. 36 Zhujiang StreetShijiazhuang ShiHebei Sheng, 050035China\r\nIssuing Office:\r\nCente… [+12807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Android banking trojan Crocodilus rapidly evolves and goes global",
+      "description": "A new Android banking trojan called Crocodilus is being used in a growing number of campaigns targeting users in Europe and South America. Crocodilus is a recently discovered Android banking trojan that is quickly gaining ground. What began as small test camp…",
+      "url": "https://securityaffairs.com/178578/malware/android-banking-trojan-crocodilus-evolves-fast-and-goes-global.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-3.png",
+      "publishedAt": "2025-06-03T13:13:04Z",
+      "content": "Android banking trojan Crocodilus evolves fast and goes global\r\n | Google fixed the second actively exploited Chrome zero-day since the start of the year\r\n | Cryptojacking campaign relies on DevOps t… [+169481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Lindsay Lowe",
+      "title": "Tomato Recall Affecting 3 States Gets Highest Risk Warning From FDA",
+      "description": "A tomato recall due to risk of salmonella contamination has been designated as Class I, the U.S.",
+      "url": "https://www.today.com/health/recall/tomato-recall-salmonella-fda-2025-rcna210573",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-05/recalled-tomatoes-mc-250505-a3e97b.jpg",
+      "publishedAt": "2025-06-03T12:56:16Z",
+      "content": "A tomato recall due to risk of salmonella contamination has been designated as Class I, the U.S. Food and Drug Administration's the agencys highest warning level.\r\nThe FDA marked the tomato recall af… [+4242 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -550,6 +784,19 @@
     {
       "source": {
         "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Amneal Pharmaceutical LLC Issues a Nationwide Recall of Sulfamethoxazole / Trimethoprim Tablets, USP, 400 mg/80 mg Only, Due to Microbial Contamination",
+      "description": "Amneal Pharmaceutical LLC, is recalling three lots of Sulfamethoxazole/Trimethoprim Tablets, USP, 400 mg/80 mg to the consumer level as the tablets may exhibit black spots on the tablet surface due to microbial contamination.  The observance of black spots wa…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/amneal-pharmaceutical-llc-issues-nationwide-recall-sulfamethoxazole-trimethoprim-tablets-usp-400",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-02T04:00:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJune 02, 2025\r\nFDA Publish Date:\r\nJune 04, 2025\r\nProduct Type:\r\nMedical Devices \r\nReason for Announcement:\r\nRecall Reason Description\r\nCompany Name:\r\nAmneal Pharm… [+3597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Newsbreak.com"
       },
       "author": "S.m. Walsh",
@@ -923,307 +1170,8 @@
       "urlToImage": "https://blog.btrax.com/wp-content/uploads/2025/05/Thumbnail_JohnMatcha_1.jpg",
       "publishedAt": "2025-05-30T11:00:06Z",
       "content": "During a meeting earlier this month with Brandon Hill, CEO of btrax, our conversation shifted from sales and marketing to Japanese culture and business practices. We somehow landed on matcha, and he … [+12034 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ahouseinthehills.com"
-      },
-      "author": "Lily Morgan",
-      "title": "Improving Water Quality at Home: 7 Tips for Dealing With Hard Water and Similar Issues",
-      "description": "Water quality problems can creep up on any household, quietly causing issues with plumbing, appliances, and overall quality of life. Hard water and other common contaminants might not be obvious at first, but over time they lead to mineral build-up, stains, a…",
-      "url": "https://ahouseinthehills.com/improving-water-quality-at-home-tips-for-dealing-with-hard-water-and-similar-issues/",
-      "urlToImage": "https://ahouseinthehills.com/wp-content/uploads/2025/05/tap-791172_1280.jpg",
-      "publishedAt": "2025-05-30T10:53:43Z",
-      "content": "Water quality problems can creep up on any household, quietly causing issues with plumbing, appliances, and overall quality of life. Hard water and other common contaminants might not be obvious at f… [+5715 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Duarte  Dias",
-      "title": "Traces of cannabis found in Haribo Cola candy in the Netherlands",
-      "description": "Haribo is recalling the 1kg bags of sweets after traces of cannabis were found following a police investigation",
-      "url": "https://www.cbsnews.com/news/haribo-cola-candy-cannabis-netherlands/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/30/21a0dd10-a95a-4f68-bd40-6e31256ca30c/thumbnail/1200x630/d0d7d334f328fb0db64a09e99ef3c871/haribo-cola.jpg?v=15603985a4508c8e7bc83d8e4e73c5d0",
-      "publishedAt": "2025-05-30T10:44:47Z",
-      "content": "Haribo is recalling packs of sweets in the Netherlands after some were found to contain traces of cannabis.\r\nThe Dutch Food and Consumer Product Safety Agency (NVWA) warned any potential customers of… [+1123 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Issy Ronald",
-      "title": "Haribo recalls some products in Netherlands after cannabis found in candy | CNN Business",
-      "description": "Haribo is recalling bags of its fizzy cola bottles in the Netherlands after cannabis was found in some of them.",
-      "url": "https://www.cnn.com/2025/05/30/business/haribo-recall-netherlands-cannabis-candy-intl-scli",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-08t175550z-1931249210-rc251baulpd2-rtrmadp-3-totw-confectionery.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-05-30T10:35:20Z",
-      "content": "Haribo is recalling bags of its fizzy cola bottles in the Netherlands after cannabis was found in some of them.\r\nAuthorities began investigating when several people, including children, became unwell… [+1604 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "US Treasury sanctioned the firm Funnull Technology as major cyber scam facilitator",
-      "description": "The U.S. sanctioned Funnull Technology and Liu Lizhi for aiding romance scams that caused major crypto losses through fraud infrastructure. The U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) sanctioned Philippines-based company Funnull …",
-      "url": "https://securityaffairs.com/178450/cyber-crime/us-treasury-sanctioned-the-firm-funnull-technology.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-47.png",
-      "publishedAt": "2025-05-30T10:30:41Z",
-      "content": "US Treasury sanctioned the firm Funnull Technology as major cyber scam facilitator\r\n | ConnectWise suffered a cyberattack carried out by a sophisticated nation state actor\r\n | Victorias Secret 's web… [+168614 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "ConnectWise suffered a cyberattack carried out by a sophisticated nation state actor",
-      "description": "ConnectWise detected suspicious activity linked to a nation-state actor, impacting a small number of its ScreenConnect customers. ConnectWise revealed it had detected suspicious activity linked to an advanced nation-state actor. The company confirmed that the…",
-      "url": "https://securityaffairs.com/178442/hacking/connectwise-cyberattack-sophisticated-nation-state-actor.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/11/connectwise-logo.jpeg",
-      "publishedAt": "2025-05-30T08:02:39Z",
-      "content": "ConnectWise suffered a cyberattack carried out by a sophisticated nation state actor\r\n | Victorias Secret 's website offline following a cyberattack\r\n | China-linked APT41 used Google Calendar as C2 … [+168527 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Haribo recalls 'Happy Cola' sweets in Netherlands after cannabis found",
-      "description": "Haribo recalled its \"Happy Cola\" sweets in the Netherlands on Thursday after cannabis was discovered in the packets and several people, including children, fell ill.",
-      "url": "https://www.hurriyetdailynews.com/haribo-recalls-happy-cola-sweets-in-netherlands-after-cannabis-found-209762",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/68395c086303d2d39dad5d53.jpg",
-      "publishedAt": "2025-05-30T07:19:38Z",
-      "content": "THE HAGUE\r\nHaribo recalled its \"Happy Cola\" sweets in the Netherlands on Thursday after cannabis was discovered in the packets and several people, including children, fell ill.\r\nThe Dutch Food and Co… [+1288 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blogtrepreneur.com"
-      },
-      "author": "Rylie Holt",
-      "title": "Money-Saving Tricks for Restaurant Equipment to Last Longer",
-      "description": "Running a restaurant involves more than great recipes and customer service. Equipment downtime can slow everything down, affect food quality, and increase costs. Many restaurant owners overlook the hidden expenses that come with broken or underperforming mach…",
-      "url": "http://www.blogtrepreneur.com/money-saving-tricks-for-restaurant-equipment-to-last-longer/",
-      "urlToImage": "http://www.blogtrepreneur.com/wp-content/uploads/2016/02/blogtrepreneur-logo.png",
-      "publishedAt": "2025-05-30T04:36:01Z",
-      "content": "0 Running a restaurant involves more than great recipes and customer service. Equipment downtime can slow everything down, affect food quality, and increase costs. Many restaurant owners overlook the… [+8029 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Cason Ho",
-      "title": "Inside Alcoa's plans to expand mining in the world's only jarrah forests",
-      "description": "US aluminium giant Alcoa wants to expand mining operations in the world's only jarrah forests in Western Australia, setting the stage for a battle with environmentalists over the impact on wildlife and water quality. Here's what's at stake.",
-      "url": "https://www.abc.net.au/news/2025-05-30/battle-over-alcoa-plans-to-expand-mining-in-wa-jarrah-forests/105357762",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/918cee7cdd5c902cacd62e66ad3b1c00?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=283&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-05-30T04:18:12Z",
-      "content": "US aluminium giant Alcoa is proposing to expand its mining operations in the world's only jarrah forests in Western Australia, setting the stage for a battle with environmentalists over the impact on… [+5901 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "author": "Mary K. Pratt",
-      "title": "13 types of business risks for companies to manage",
-      "description": "Knowing the types of risks businesses commonly face and their applicability to your company is a first step toward effective risk management.",
-      "url": "https://www.techtarget.com/searchcio/feature/4-basic-types-of-business-risks-in-the-enterprise",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/disaster_recovery_a257795847.jpg",
-      "publishedAt": "2025-05-30T00:00:00Z",
-      "content": "Every business contends with risks that can affect how well it performs and, ultimately, whether it succeeds or fails. But business risks don't affect every organization in the same way. As a result,… [+17536 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Xanthe Gregory",
-      "title": "Councils warned they will wear the cost of dealing with PFAS",
-      "description": "The detection of PFAS chemicals is becoming widespread and a NSW council says it is being forced to clean up a problem it didn't create.",
-      "url": "https://www.abc.net.au/news/2025-05-30/pfas-contamination-costs-for-nsw-councils/105346286",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/11501ff7091e5b94806674de38ea299e?impolicy=wcms_watermark_news&cropH=2797&cropW=4972&xPos=0&yPos=357&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-05-29T23:02:17Z",
-      "content": "A New South Wales mayor says forcing councils to clean up PFAS contamination at landfill sites is \"completely at odds with the 'polluter pays' principle\".\r\nLast year the Belubula River, which flows t… [+3855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Daphne Ewing-Chow, Senior Contributor, \n Daphne Ewing-Chow, Senior Contributor\n https://www.forbes.com/sites/daphneewingchow/",
-      "title": "The Coolest Trends And Innovations In Produce Preservation",
-      "description": "A look at some of the most trending innovations in produce preservation, helping to curb food waste and save the planet.",
-      "url": "https://www.forbes.com/sites/daphneewingchow/2025/05/29/the-coolest-trends-and-innovations-in-produce-preservation/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6838c371392ef659611b0cdc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-29T21:49:06Z",
-      "content": "Because fruits and vegetables are among the most commonly wasted foods, often spoiling before ... More they're eaten, improving produce preservation is a critical strategy for cutting food waste and … [+9105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "mlive.com",
-      "title": "Popular canned beef stew sold nationwide recalled over possible wood contamination",
-      "description": "Approximately 256,185 pounds of canned beef stew products have been recalled by Hormel Foods Corporation over concern of possible wood contamination.\nAccording to the U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS), the recall invol…",
-      "url": "https://biztoc.com/x/637568460b334be1",
-      "urlToImage": "https://biztoc.com/cdn/948/og.png",
-      "publishedAt": "2025-05-29T21:13:52Z",
-      "content": "Approximately 256,185 pounds of canned beef stew products have been recalled by Hormel Foods Corporation over concern of possible wood contamination.According to the U.S. Department of Agricultures F… [+145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ronny Reyes",
-      "title": "Haribo issues major recall after popular gummies found to be tainted with cannabis",
-      "description": "This cola-flavored candy could have more fizz than you're expecting.",
-      "url": "https://nypost.com/2025/05/29/us-news/haribo-issues-recall-over-cola-gummies-are-tainted-with-cannabis/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/105520073.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-05-29T17:31:46Z",
-      "content": "This cola-flavored candy could have more fizz than you’re expecting.\r\nHaribo is investigating how one of its popular gummy products apparently became tainted with cannabis in the after several people… [+677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hackaday"
-      },
-      "author": "Lewin Day",
-      "title": "Researchers Are Slowly Finding Ways To Stem The Tide Of PFAS Contamination",
-      "description": "If you’ve been following environmental news over the past couple of decades, you’ve probably heard about PFAS – those pesky “forever chemicals” that seem to turn up everywhere from drinking …read more",
-      "url": "https://hackaday.com/2025/05/29/researchers-are-slowly-finding-ways-to-stem-the-tide-of-pfas-contamination/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2022/02/Chemistry.jpg",
-      "publishedAt": "2025-05-29T17:00:00Z",
-      "content": "If you’ve been following environmental news over the past couple of decades, you’ve probably heard about PFAS – those pesky “forever chemicals” that seem to turn up everywhere from drinking water to … [+6845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Psychology Today"
-      },
-      "author": "Tchiki Davis, Ph.D.",
-      "title": "Are You Hypervigilant?",
-      "description": "Hypervigilance is often present in people who have lived through trauma or violence.",
-      "url": "https://www.psychologytoday.com/us/blog/click-here-for-happiness/202309/are-you-hypervigilant",
-      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/taylor-deas-melesh-fkaQ-cqU4Uo-unsplash.jpg?itok=ayPFloEO",
-      "publishedAt": "2025-05-29T16:48:02Z",
-      "content": "Cowritten by Nathalie Boutros and Tchiki Davis\r\nBeing attentive to your surroundings and aware of your environment is a good thing: Knowing whats around you keeps you safe. Being alert as you walk ho… [+3289 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Jon Shelton",
-      "title": "Haribo recalls cannabis-laden 'Happy Cola' candies",
-      "description": "Candy maker Haribo has issued a product recall in the Netherlands after cannabis was found in a batch of its Happy Cola gummies. Authorities are seeking to determine how the contraband got into the product.",
-      "url": "https://www.dw.com/en/haribo-recalls-cannabis-laden-happy-cola-candies/a-72724946",
-      "urlToImage": "https://static.dw.com/image/72724305_6.jpg",
-      "publishedAt": "2025-05-29T16:16:00Z",
-      "content": "German-based candy maker Haribo on Thursday recalled its Happy Cola F!ZZ sweets in the Netherlands after cannabis was found in at least three bags containing the product.\r\nThe recall only applies to … [+1375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Jon Shelton",
-      "title": "Haribo recalls sweets in Netherlands after cannabis found",
-      "description": "Candymaker Haribo has issued a product recall in the Netherlands after cannabis was found in a batch of its Happy Cola gummies. Authorities are seeking to determine how the cannabis got into the product.",
-      "url": "https://www.dw.com/en/haribo-recalls-sweets-in-netherlands-after-cannabis-found/a-72724946",
-      "urlToImage": "https://static.dw.com/image/72724305_6.jpg",
-      "publishedAt": "2025-05-29T16:16:00Z",
-      "content": "On Thursday, the German-based candymaker Haribo recalled its Happy Cola F!ZZ sweets in the Netherlands after cannabis was found in at least three bags containing the product.\r\nThe recall only applies… [+1397 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Nationwide Beef Stew Recall Over Wood Contamination Warning",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nA Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign material contamination.\nHormel Foods Corporation issued the …",
-      "url": "https://biztoc.com/x/a6e801fe17a876fa",
-      "urlToImage": "https://biztoc.com/cdn/a6e801fe17a876fa_s.webp",
-      "publishedAt": "2025-05-29T15:27:34Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.A Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign m… [+140 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Nationwide Beef Stew Recall Over Wood Contamination Warning",
-      "description": "Hormel Foods Corporation has issued a voluntary recall for approximately 256,185 pounds of its Dinty Moore Beef Stew.",
-      "url": "https://www.newsweek.com/beef-stew-nationwide-recall-wood-contamination-fsis-hormel-foods-corporation-2078444",
-      "urlToImage": "https://d.newsweek.com/en/full/2653424/food-recall.png",
-      "publishedAt": "2025-05-29T15:18:37Z",
-      "content": "A Georgia-based food company has issued a voluntary recall for hundreds of thousands of pounds of canned beef stew products due to potential foreign material contamination.\r\nHormel Foods Corporation … [+2216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Victoria’s Secret ‘s website offline following a cyberattack",
-      "description": "Victoria’s Secret took its website offline after a cyberattack, with experts warning of rising threats against major retailers. American lingerie, clothing, and beauty retailer Victoria’s Secret took its website offline following a cyberattack. At this time, …",
-      "url": "https://securityaffairs.com/178432/hacking/victorias-secrets-website-offline-following-a-cyberattack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-46.png",
-      "publishedAt": "2025-05-29T14:51:55Z",
-      "content": "Victorias Secret 's website offline following a cyberattack\r\n | China-linked APT41 used Google Calendar as C2 to control its TOUGHPROGRESS malware\r\n | New AyySSHush botnet compromised over 9,000 ASUS… [+168438 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Alex Backus",
-      "title": "The Good Life: The Gluten Free Glow-Up",
-      "description": "Editor's note: This is a preview of The Good Life, Newsweek's weekly lifestyle newsletter.",
-      "url": "https://www.newsweek.com/good-life-gluten-free-glow-2078508",
-      "urlToImage": "https://d.newsweek.com/en/full/2636334/alpha-4.png",
-      "publishedAt": "2025-05-29T14:41:03Z",
-      "content": "The Gluten Free Glow-Up\r\nI remember the first time I walked into a Raley's to buy gluten free food. It was 15 years ago and there were maybe half a dozen items on the shelf labeled \"gluten free.\" And… [+6375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Ian A. Wright",
-      "title": "New data shows most of us have PFAS in our blood. How worried should we be?",
-      "description": "The Australian Bureau of Statistics (ABS) has this week released new data which tells us about the presence of per- and polyfluoroalkyl substances (PFAS) in Australians' bodies.",
-      "url": "https://phys.org/news/2025-05-pfas-blood.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/water-faucet.jpg",
-      "publishedAt": "2025-05-29T14:29:04Z",
-      "content": "The Australian Bureau of Statistics (ABS) has this week released new data which tells us about the presence of per- and polyfluoroalkyl substances (PFAS) in Australians' bodies.\r\nThe data comes from … [+5957 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Sara  Moniuszko",
-      "title": "Hormel recalls 256,000 pounds of canned beef stew over wood fragments",
-      "description": "Hormel Foods Corporation is recalling cans of \"Dinty Moore Beef Stew\" nationwide due to potential contamination with wood fragments.",
-      "url": "https://www.cbsnews.com/news/hormel-recall-canned-beef-stew-wood-fragments/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/29/838c1526-a903-42f7-b9c0-a32bfa39b329/thumbnail/1200x630/9a94f442ae0a6de65c6409bbe76311da/gettyimages-961756080.jpg?v=0ec0a9b0c45ecf3b0dd269ffc8f350b0",
-      "publishedAt": "2025-05-29T14:19:16Z",
-      "content": "Hormel Foods Corporation is recalling over 256,000 pounds of canned beef stew nationwide due to potential contamination with wood fragments, according to federal health officials.\r\nIn a recall notice… [+1221 chars]"
     }
   ],
-  "totalResults": 94,
-  "filteredCount": 1
+  "totalResults": 90,
+  "filteredCount": 2
 }
