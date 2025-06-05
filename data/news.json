@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-06-05T06:36:27.481Z",
+  "lastUpdated": "2025-06-05T12:51:37.034Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Zach Everson, Forbes Staff, \n Zach Everson, Forbes Staff\n https://www.forbes.com/sites/zacheverson/",
+      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County",
+      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper towels.",
+      "url": "https://www.forbes.com/sites/zacheverson/2025/06/04/trump-health-inspection-violations-golf-club-bedminster/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/683f97c40809e2915d767217/0x0.jpg?format=jpg&crop=3000,1689,x0,y56,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-04T12:49:30Z",
+      "content": "One of President Donald Trumps New Jersey golf clubs received a 32 out of 100 health inspection score in May, the lowest grade in Somerset County, after it was flagged for 18 violations, including al… [+4250 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Roundcube Webmail under fire: critical exploit found after a decade",
+      "description": "A critical flaw in Roundcube webmail, undetected for 10 years, allows attackers to take over systems and execute arbitrary code. A critical flaw, tracked as CVE-2025-49113 (CVSS score of 9.9) has been discovered in the Roundcube webmail software. The vulnerab…",
+      "url": "https://securityaffairs.com/178615/hacking/roundcube-webmail-under-fire-critical-exploit-found-after-a-decade.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/roundcube.jpeg",
+      "publishedAt": "2025-06-04T11:35:54Z",
+      "content": "Roundcube Webmail under fire: critical exploit found after a decade\r\n | Cartier disclosed a data breach following a cyber attack\r\n | U.S. CISA adds ASUS RT-AX55 devices, Craft CMS, and ConnectWise Sc… [+169752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Yasmine Probst and Olivia Wills",
+      "title": "The only way to know if you have coeliac disease or gluten intolerance",
+      "description": "While the two share many similar symptoms, only one can cause intestinal damage and malnutrition",
+      "url": "https://www.the-independent.com/life-style/health-and-families/coeliac-disease-symptoms-gluten-intolerance-test-b2763406.html",
+      "urlToImage": "https://static.the-independent.com/2024/11/29/10/29080850-481b97bc-7710-4142-8023-f4e0c558b5d8.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-06-04T10:05:11Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+6656 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biloxi Sun Herald"
+      },
+      "author": "Martha Sanchez",
+      "title": "FDA places import ban on Quality Seafood that Coast business says has no effect",
+      "description": "An attorney said the business only buys imports from U.S. wholesalers who have already brought seafood into the country.",
+      "url": "https://www.sunherald.com/news/business/article307710610.html",
+      "urlToImage": "https://media.zenfs.com/en/biloxi_sun_herald_mcclatchy_articles_410/6abdebda23d9f63d23e5b714ca743c18",
+      "publishedAt": "2025-06-04T10:00:00Z",
+      "content": "The Food and Drug Administration has issued an order that bans Quality Poultry and Seafood from importing seafood, or any other food, for five years after the Biloxi business pleaded guilty last summ… [+3672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Multiple Qualcomm chipsets flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Multiple Qualcomm chipsets flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added multiple Qualcomm chipsets flaws to its K…",
+      "url": "https://securityaffairs.com/178610/hacking/u-s-cisa-adds-multiple-qualcomm-chipsets-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-06-04T09:16:31Z",
+      "content": "Cartier disclosed a data breach following a cyber attack\r\n | U.S. CISA adds ASUS RT-AX55 devices, Craft CMS, and ConnectWise ScreenConnect flaws to its Known Exploited Vulnerabilities catalog\r\n | And… [+169680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Zach Everson",
+      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
+      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
+      "url": "https://www.newsbreak.com/share/4037258162263-trump-s-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspection-earned-lowest-grade-in-county?_f=app_share&pd=00ztEH5r&lang=en_US&send_time=1749062991&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q2_v2-control%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_rank_exp_25q2-v8%2Cns_foryou_recall_exp_25q2-v8&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
+      "publishedAt": "2025-06-04T08:49:30Z",
+      "content": "Ex-WH press secretary Karine Jean-Pierre claims shes no longer a Democrat while hyping memoir of broken Biden admin\r\nWASHINGTON Joe Bidens longtime White House press secretary, Karine Jean-Pierre , a… [+1136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cartier disclosed a data breach following a cyber attack",
+      "description": "Luxury-goods conglomerate Cartier disclosed a data breach that exposed customer information after a cyberattack. Cartier has disclosed a data breach following a cyberattack that compromised its systems, exposing customers’ personal information. The incident c…",
+      "url": "https://securityaffairs.com/178601/data-breach/cartier-disclosed-a-data-breach-following-a-cyber-attack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-5.png",
+      "publishedAt": "2025-06-04T07:25:02Z",
+      "content": "Cartier disclosed a data breach following a cyber attack\r\n | U.S. CISA adds ASUS RT-AX55 devices, Craft CMS, and ConnectWise ScreenConnect flaws to its Known Exploited Vulnerabilities catalog\r\n | And… [+169680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Cointelegraph by Cath Jenkin",
+      "title": "Blockchain can end the food fraud crisis, but it’s a costly battle",
+      "description": "Blockchain has already played a role in protecting consumers against food fraud, but there are lessons to be learned before it starts to truly pay off.",
+      "url": "https://cointelegraph.com/news/blockchain-end-food-fraud-crisis-costly-battle",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-03/0195d748-f876-759e-bfaa-81b2eaf0d108",
+      "publishedAt": "2025-06-04T06:48:21Z",
+      "content": "Food fraud siphons up to $50 billion from the global food industry every year and endangers public health. When deployed rigorously and realistically, blockchain could prevent this shadowy crime.\r\nTh… [+8583 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1079,125 +1183,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
       "publishedAt": "2025-06-01T09:29:05Z",
       "content": "Security Affairs newsletter Round 526 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Meta stopped covert operations from Iran, China, and Romania spreading propaganda\r\n | US Treasury sanctioned the … [+168786 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Two Linux flaws can lead to the disclosure of sensitive data",
-      "description": "Qualys warns of two information disclosure flaws in apport and systemd-coredump, the core dump handlers in Ubuntu, Red Hat Enterprise Linux, and Fedora distros. Researchers discovered a vulnerability in Apport (Ubuntu’s core dump handler) and another bug in s…",
-      "url": "https://securityaffairs.com/178464/hacking/two-linux-flaws-can-lead-to-the-disclosure-of-sensitive-data.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/11/Linux-ransomware-encoder1.jpg",
-      "publishedAt": "2025-05-31T15:35:13Z",
-      "content": "Meta stopped covert operations from Iran, China, and Romania spreading propaganda\r\n | US Treasury sanctioned the firm Funnull Technology as major cyber scam facilitator\r\n | ConnectWise suffered a cyb… [+168700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Summer Austin",
-      "title": "How Oral Immunotherapy Cured Me Of My Peanut Allergy",
-      "description": "“I’ve been deathly allergic to being exposed to even a minuscule amount.”",
-      "url": "https://www.huffpost.com/entry/peanut-allergy-cure-oral-immunotherapy_n_68239db1e4b021b50649df1f",
-      "urlToImage": "https://img.huffingtonpost.com/asset/682cbec0160000c200c1919a.jpeg?cache=dkYOL6I6zW&ops=1200_630",
-      "publishedAt": "2025-05-31T13:00:58Z",
-      "content": "Im nervously waiting in an exam room at my doctors office to see if my body is about to enter anaphylaxis. Nurses monitor my vitals and check to see how open my breathing passages are. Technically, I… [+11741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Common Dreams"
-      },
-      "author": "Bill Pluecker",
-      "title": "As Federal Leaders Are Failing on PFAS, States Must Step up—Here’s How",
-      "description": "The Environmental Protection Agency is rolling back critical protections that ensure safe drinking water\r\n. These regulations help ensure that our water is free of PFAS, also known as “forever chemicals,” an especially hazardous form of industrial chemicals t…",
-      "url": "https://www.commondreams.org/opinion/maine-model-for-pfas",
-      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=60345672&width=1200&height=600&coordinates=0%2C92%2C0%2C93",
-      "publishedAt": "2025-05-31T12:45:03Z",
-      "content": "The Environmental Protection Agency is rolling back critical protections that ensure safe drinking water\r\n. These regulations help ensure that our water is free of PFAS, also known as forever chemica… [+3939 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Unrefined palm oil: An unfairly maligned nutrient powerhouse",
-      "description": "Unrefined red palm oil is packed with beneficial compounds like vitamin E (tocotrienols), beta-carotene and CoQ10, offering antioxidant, heart-healthy and neuroprotective benefits. Highly processed palm oil (refine or bleached) loses nutrients, while hydrogen…",
-      "url": "https://www.naturalnews.com/2025-05-31-unrefined-palm-oil-unfairly-maligned-nutrient-powerhouse.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Palm-Oil-2.jpg",
-      "publishedAt": "2025-05-31T06:00:00Z",
-      "content": "<ul><li>Unrefined red palm oil is packed with beneficial compounds like vitamin E (tocotrienols), beta-carotene and CoQ10, offering antioxidant, heart-healthy and neuroprotective benefits.</li><li>Hi… [+6684 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Everything-everywhere.com"
-      },
-      "author": "Gary Arndt",
-      "title": "The History of the Hamburger",
-      "description": "Podcast Transcript One of the most popular foods around the world is the hamburger. If most people think of American foods, it is probably the first thing that comes to mind. Hamburgers are pretty simple in terms of what they are composed of and how they are …",
-      "url": "https://everything-everywhere.com/the-history-of-the-hamburger/",
-      "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-xBPGLpk/0/MxPPW9ZcRLxkrVq8tcnFN9pVW292k3jLcVcRSZmTQ/L/Untitled-L.jpg",
-      "publishedAt": "2025-05-31T05:48:45Z",
-      "content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon\r\nOne of the most popular foods around the world is the hamburger. If most people think of American foods,… [+13096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zerohedge.com"
-      },
-      "author": "Tyler Durden",
-      "title": "Overlooked Chemicals In Food May Threaten Your Health",
-      "description": "New research raises alarm over chemical migration from food packaging and processing equipment.",
-      "url": "https://www.zerohedge.com/medical/overlooked-chemicals-food-may-threaten-your-health",
-      "urlToImage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-05/image_92%28108%29.jpg?itok=X2La2GPk",
-      "publishedAt": "2025-05-31T01:45:36Z",
-      "content": "Authored by George Citroner via The Epoch Times (emphasis ours),\r\nScientists are sounding the alarm on what they call an overlooked threat to public health: synthetic chemicals from packaging and pro… [+8522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "The unexpected symptoms of OCD beyond hand-washing and light-switch rituals",
-      "description": "Disturbing thoughts and social fixations are among the many manifestations of obsessive-compulsive disorder.",
-      "url": "https://cnalifestyle.channelnewsasia.com/wellness/psych101-ocd-obsessive-compulsive-disorder-types-465571",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--W7XCzhun--/c_crop,h_1350,w_2400,x_0,y_173/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/05/27/well_ocd_symptoms_may19-0_0.jpg?itok=WZGkf0vi",
-      "publishedAt": "2025-05-30T23:27:43Z",
-      "content": "When most people think of obsessive-compulsive disorder, they may picture behaviours theyve seen on TV  like repetitive hand-washing, flicking light switches on and off and meticulously arranging sma… [+4961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cleanthesky.com"
-      },
-      "author": "Debra John —  May 30, 2025",
-      "title": "Compostable Foodservice Suppliers - Eco-Products Becomes the Zero Waste Partner for the Giants (TrendHunter.com)",
-      "description": "(TrendHunter.com) Eco-Products is now an official 'Zero Waste Partner' of the San Francisco Giants, working to make Oracle Park more sustainable. As part of the partnership, Eco-Products will provide compostable...",
-      "url": "https://www.cleanthesky.com/innovation/zero-waste-partner",
-      "urlToImage": "https://cdn.trendhunterstatic.com/thumbs/572/zero-waste-partner.jpeg",
-      "publishedAt": "2025-05-30T23:02:03Z",
-      "content": "Eco-Products is now an official 'Zero Waste Partner' of the San Francisco Giants, working to make Oracle Park more sustainable. As part of the partnership, Eco-Products will provide compostable foods… [+760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Publix recalls baby food because of lead contamination",
-      "description": "Publix Super Markets Inc. has initiated a recall of GreenWise Pear, Kiwi, Spinach & Pea Baby Food, produced by Bowman Andros LLC and distributed to Publix grocery stores in the company’s eight-state operating area.  The product is sold in 4-ounce plastic pouc…",
-      "url": "https://www.foodsafetynews.com/2025/05/publix-recalls-baby-food-because-of-lead-contamination/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/092/385/787/VJqEKwxkyzGadLE0QNP8dj4vL/f46ce07bd1e4f6c3248bdd98977a1527df60a5e8.png",
-      "publishedAt": "2025-05-30T22:16:15Z",
-      "content": "Publix Super Markets Inc. has initiated a recall of GreenWise Pear, Kiwi, Spinach &amp; Pea Baby Food, produced by Bowman Andros LLC and distributed to Publix grocery stores in the company’s eight-st… [+1773 chars]"
     }
   ],
-  "totalResults": 92,
-  "filteredCount": 2
+  "totalResults": 91,
+  "filteredCount": 1
 }
