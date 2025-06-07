@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-06-07T01:59:04.830Z",
+  "lastUpdated": "2025-06-07T06:32:43.602Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "FDA issues highest-level recall for TOMATOES contaminated with Salmonella",
+      "description": "The FDA escalated a tomato recall to its highest-risk Class I level on May 28 due to potential Salmonella contamination, warning of “serious adverse health consequences or death.” The recall affects products distributed in Georgia, North Carolina and South Ca…",
+      "url": "https://www.naturalnews.com/2025-06-06-fda-issues-highest-level-recall-tomatoes-salmonella.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Worker-in-latex-gloves-inspecting-a-red-tomato-1.jpeg",
+      "publishedAt": "2025-06-06T06:00:00Z",
+      "content": "<ul><li>The FDA escalated a tomato recall to its highest-risk Class I level on May 28 due to potential Salmonella contamination, warning of \"serious adverse health consequences or death.\" The recall … [+4646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Lemons: A zesty superfood packed with health benefits",
+      "description": "Lemons are rich in vitamin C, antioxidants and flavonoids, offering immune support, heart health benefits, detoxification and skin enhancement. Originating in Asia, lemons spread globally via trade routes, becoming a staple in medicine and cuisine. Low in cal…",
+      "url": "https://www.naturalnews.com/2025-06-06-lemons-zesty-superfood-packed-with-health-benefits.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Sliced-Whole-Lemons-Fruit.jpg",
+      "publishedAt": "2025-06-06T06:00:00Z",
+      "content": "<ul><li>Lemons are rich in vitamin C, antioxidants and flavonoids, offering immune support, heart health benefits, detoxification and skin enhancement.</li><li>Originating in Asia, lemons spread glob… [+7676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marsdaily.com"
+      },
+      "author": null,
+      "title": "Why Elon Musk sees Mars as the only long term option for humanity",
+      "description": "Los Angeles CA (SPX) Jun 05, 2025\n\nElon Musk, the visionary behind SpaceX, Tesla, and Neuralink, is known for his bold ambitions and groundbreaking innovations. Among his most daring goals is building a human settlement on Mars. For Musk, this isn't just a fu…",
+      "url": "https://www.marsdaily.com/reports/Why_Elon_Musk_sees_Mars_as_the_only_long_term_option_for_humanity_999.html",
+      "urlToImage": "https://www.spxdaily.com/images-hg/elon-musk-spacex-mars-settlers-hg.jpg",
+      "publishedAt": "2025-06-06T03:00:09Z",
+      "content": "Why Elon Musk sees Mars as the only long term option for humanityby Clarence OxfordLos Angeles CA (SPX) Jun 05, 2025\r\nElon Musk, the visionary behind SpaceX, Tesla, and Neuralink, is known for his bo… [+7635 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,45 +1261,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-04/what-to-know-wednesday-2x1-cz-250409-e3f266.jpg",
       "publishedAt": "2025-06-04T13:44:12Z",
       "content": "A tomato recall due to risk of salmonella contamination has been designated with the U.S. Food and Drug Administrations highest warning level. Plus, Jenna reveals the one thing her dad does every mor… [+1700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "MarketsandMarkets Research Pvt. Ltd.",
-      "title": "Dairy Processing Equipment Market Set for Robust Growth – User-Centric Innovations Drive Demand",
-      "description": "The global dairy processing equipment market size is projected to reach $ 14.4 billion by 2028, at a CAGR of 6.2% from 2023 to 2028 The global dairy processing equipment market size is projected to reach $ 14.4 billion by 2028, at a CAGR of 6.2% from 2023 to …",
-      "url": "https://www.globenewswire.com/news-release/2025/06/04/3093648/0/en/Dairy-Processing-Equipment-Market-Set-for-Robust-Growth-User-Centric-Innovations-Drive-Demand.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
-      "publishedAt": "2025-06-04T13:30:00Z",
-      "content": "Delray Beach, FL, June 04, 2025 (GLOBE NEWSWIRE) -- The Global Dairy Processing Equipment Market is experiencing significant growth, driven by increasing demand for dairy products, technological adva… [+2544 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "HPE fixed multiple flaws in its StoreOnce software",
-      "description": "Hewlett Packard Enterprise (HPE) addressed multiple flaws in its StoreOnce data backup and deduplication solution. HPE has released security patches for eight vulnerabilities in its StoreOnce backup solution. These issues could allow remote code execution, au…",
-      "url": "https://securityaffairs.com/178629/security/hpe-fixed-multiple-flaws-in-its-storeonce-software.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/HPE-logo.png",
-      "publishedAt": "2025-06-04T13:29:26Z",
-      "content": "HPE fixed multiple flaws in its StoreOnce software\r\n | Roundcube Webmail under fire: critical exploit found after a decade\r\n | Cartier disclosed a data breach following a cyber attack\r\n | U.S. CISA a… [+169807 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zach Everson, Forbes Staff, \n Zach Everson, Forbes Staff\n https://www.forbes.com/sites/zacheverson/",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper towels.",
-      "url": "https://www.forbes.com/sites/zacheverson/2025/06/04/trump-health-inspection-violations-golf-club-bedminster/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/683f97c40809e2915d767217/0x0.jpg?format=jpg&crop=3000,1689,x0,y56,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-04T12:49:30Z",
-      "content": "One of President Donald Trumps New Jersey golf clubs received a 32 out of 100 health inspection score in May, the lowest grade in Somerset County, after it was flagged for 18 violations, including al… [+4250 chars]"
     }
   ],
   "totalResults": 97,
