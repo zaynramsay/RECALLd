@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-06-07T06:32:43.602Z",
+  "lastUpdated": "2025-06-07T12:45:56.885Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Geoff Beattie, Professor of Psychology, Edge Hill University",
+      "title": "Why the Musk and Trump relationship is breaking down – a psychologist explains",
+      "description": "As the Musk v Trump feud steps up a level there are classic signs from a psychological point of view of why they are falling out.",
+      "url": "https://theconversation.com/why-the-musk-and-trump-relationship-is-breaking-down-a-psychologist-explains-258213",
+      "urlToImage": "https://images.theconversation.com/files/672588/original/file-20250605-62-rbfac6.jpg?ixlib=rb-4.1.0&rect=0%2C126%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-06-06T12:07:53Z",
+      "content": "It is not a good break-up. These were always two big beasts used to getting their own way. Two alpha males, if you like the evolutionary metaphor, trying to get along. And now the Donald Trump and El… [+6416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nutritionfacts.org"
+      },
+      "author": "Michael Greger M.D. FACLM",
+      "title": "Friday Favorites: Should We Be Concerned About Ochratoxin and Aflatoxin?",
+      "description": "The overall cost-benefit ratio for mycotoxins depends on which food is contaminated. Is “toxic mold syndrome” real? And what do we do about toxic mold contamination of food?",
+      "url": "https://nutritionfacts.org/video/friday-favorites-should-we-be-concerned-about-ochratoxin-and-aflatoxin/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/06/1-1200x675.jpg",
+      "publishedAt": "2025-06-06T11:50:15Z",
+      "content": "Below is an approximation of this videos audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nOchratoxin has been descr… [+7178 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Alia Shoaib",
+      "title": "Dr Pepper Recalled After Sugar Mix Up in Thousands of Cans",
+      "description": "Thousands of cases of Dr Pepper Zero Sugar have been recalled after they were mislabeled and contained the full-sugar product.",
+      "url": "https://www.newsweek.com/dr-pepper-zero-sugar-recall-thousands-cases-florida-georgia-south-carolina-fda-2081864",
+      "urlToImage": "https://d.newsweek.com/en/full/2657993/dr-pepper.jpg",
+      "publishedAt": "2025-06-06T11:49:38Z",
+      "content": "A recall has been issued for thousands of cases of Dr Pepper Zero Sugar that were mislabeled and contained the full-sugar product, according to the U.S. Food and Drug Administration (FDA).\r\nThe produ… [+2327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. Offers $10M bounty for info on RedLine malware creator and state hackers",
+      "description": "The U.S. offers up to $10M for info on state hackers linked to RedLine malware and its creator, Maxim Rudometov, tied to attacks on U.S. infrastructure. The U.S. Department of State offers a reward of up to $10 million for information nation-state actors link…",
+      "url": "https://securityaffairs.com/178712/cyber-crime/u-s-offers-10m-bounty-for-info-on-redline-malware-creator-and-state-hackers.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-8.png",
+      "publishedAt": "2025-06-06T11:12:23Z",
+      "content": "U.S. Offers $10M bounty for info on RedLine malware creator and state hackers\r\n | Play ransomware group hit 900 organizations since 2022\r\n | U.S. CISA adds Google Chromium V8 flaw to its Known Exploi… [+170317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "'It is an elephant': Ukraine's unexploded mine problem",
+      "description": "In Ukraine, overnight attacks continued into Thursday morning, resulting in 45 casualties and significant damage to civilian infrastructure, the UN has reported.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/06/ukraine-250605-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-06-06T08:41:54Z",
+      "content": "5 June 2025 - In Ukraine, overnight attacks continued into Thursday morning, resulting in 45 casualties and significant damage to civilian infrastructure, the UN has reported. \r\nThese are the results… [+3450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The BMJ"
+      },
+      "author": "Fujihara, S., Kobara, H., Imagawa, A.",
+      "title": "Is the green mark really recyclable?",
+      "description": "I read the paper by López-Muñoz et al 1 on ‘Life cycle assessment of routinely used endoscopic instruments and simple intervention to reduce our environmental impact’ with great interest. The green mark setting for parts that do not come into contact with the…",
+      "url": "https://gut.bmj.com/content/74/7/1192",
+      "urlToImage": "https://gut.bmj.com/sites/default/files/highwire/gutjnl/74/7.cover-source.jpg",
+      "publishedAt": "2025-06-06T07:45:37Z",
+      "content": "I read the paper by López-Muñoz et al1 on Life cycle assessment of routinely used endoscopic instruments and simple intervention to reduce our environmental impact with great interest. The green mark… [+4350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Play ransomware group hit 900 organizations since 2022",
+      "description": "A joint advisory from the US and Australian authorities states that Play ransomware has hit approximately 900 organizations over the past three years. A joint advisory from the Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security A…",
+      "url": "https://securityaffairs.com/178702/cyber-crime/play-ransomware-group-hit-900-organizations-since-2022.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/06/image-7.png",
+      "publishedAt": "2025-06-06T07:22:22Z",
+      "content": "Play ransomware group hit 900 organizations since 2022\r\n | U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog\r\n | New versions of Chaos RAT target Windows and Linux… [+170235 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -578,19 +669,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Cassie B.",
-      "title": "Whole Foods Market forced to pull organic ground beef nationwide after E. coli contamination discovered",
-      "description": "Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C. The USDA warns consumers to discard affected beef, sold under the “Organic Rancher” brand, with specific produc…",
-      "url": "https://www.naturalnews.com/2025-06-05-whole-foods-organic-beef-contamination.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Ground-Beef-Meat.jpg",
-      "publishedAt": "2025-06-05T06:00:00Z",
-      "content": "<ul><li>Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C.</li><li>The USDA warns consumers to discard… [+4810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "News Editors",
       "title": "MAHA movement faces uphill battle as Trump administration wages war on organic agriculture",
       "description": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helping heal the broken systems that shape our food and our future…",
@@ -598,6 +676,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Donald-Trump-Robert-F-Kennedy-Jr-Cheryl-Hines-White-House-Maga-Maha.jpg",
       "publishedAt": "2025-06-05T06:00:00Z",
       "content": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helpin… [+23118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Cassie B.",
+      "title": "Whole Foods Market forced to pull organic ground beef nationwide after E. coli contamination discovered",
+      "description": "Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C. The USDA warns consumers to discard affected beef, sold under the “Organic Rancher” brand, with specific produc…",
+      "url": "https://www.naturalnews.com/2025-06-05-whole-foods-organic-beef-contamination.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Ground-Beef-Meat.jpg",
+      "publishedAt": "2025-06-05T06:00:00Z",
+      "content": "<ul><li>Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C.</li><li>The USDA warns consumers to discard… [+4810 chars]"
     },
     {
       "source": {
@@ -1183,86 +1274,8 @@
       "urlToImage": "https://img.particlenews.com/img/id/0eNEuo_11a0lOYG00",
       "publishedAt": "2025-06-04T15:54:17Z",
       "content": "If you purchased ground beef recently, don't make your best Sunday sauce or DIY Baconator just yet, as officials are warning some product packages could present a health threat.\r\nOn Wednesday, the U.… [+1986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Zach Everson",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
-      "url": "https://www.newsbreak.com/share/4037258162263-trump-s-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspection-earned-lowest-grade-in-county?s=a2&share_destination_id=MjQyMzAxNTkzLTE3NDkwNDk5NzE2NDg%3D&pd=0GOfiD2V&hl=en_US&send_time=1749049971&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v9%2Cns_foryou_blend_exp_25q2-v7%2Cns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_rank_exp_25q2-v2",
-      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
-      "publishedAt": "2025-06-04T15:15:51Z",
-      "content": "Kentuckys entire congressional delegation asks President for major disaster declaration\r\nKentuckys federal delegation, including U.S. Senators Mitch McConnell, Rand Paul, and Representatives Hal Roge… [+400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Zach Everson",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
-      "url": "https://www.newsbreak.com/share/4037258162263-trump-s-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspection-earned-lowest-grade-in-county?s=a2&share_destination_id=NjY5NDI4ODMtMTc0OTA0OTAwNDQ5Ng%3D%3D&pd=04Wstv4o&hl=en_US&send_time=1749049004&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v1%2Cns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_recall_exp_25q2-v9",
-      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
-      "publishedAt": "2025-06-04T14:57:15Z",
-      "content": "Employee slammed for not seeing anything wrong with her inappropriate work outfit: Confused how this outfit left the house in the first place\r\nOne womans co-worker complained about her office attire,… [+1127 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Sara  Moniuszko",
-      "title": "Tomato recall affecting multiple states elevated to highest risk warning by FDA",
-      "description": "The tomatoes, recalled for potential salmonella contamination, were shipped to Georgia, North Carolina and South Carolina.",
-      "url": "https://www.cbsnews.com/news/tomato-recall-salmonella-fda/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/06/04/2b5a202f-cadc-46f0-a3c4-6857ecddba48/thumbnail/1200x630/fffa24146a43884e156baa053e54b2e2/3-williams-farm-3ct-tray.jpg?v=bf13c71e7181bf2db128edf777c4aecf",
-      "publishedAt": "2025-06-04T14:00:24Z",
-      "content": "A tomato recall affecting three southern states has been upgraded to a Class I recall, the most severe warning by the Food and Drug Administration. The recall was first announced in May over potentia… [+1741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Md. Minhazul Islam, S. M. Mahedy Hasan, Md. Rakib Hossain, Md. Palash Uddin, Md. Al Mamun",
-      "title": "Towards sustainable solutions: Effective waste classification framework via enhanced deep convolutional neural networks",
-      "description": "As industrialization and the development of smart cities progress, effective waste collection, classification, and management have become increasingly vital. Recycling processes depend on accurately identifying and restoring waste materials to their original …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324294",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324294.g023&size=inline",
-      "publishedAt": "2025-06-04T14:00:00Z",
-      "content": "1 Introduction\r\nEffective waste management poses a significant global challenge, as improper handling and disposal raise environmental, economic, and societal concerns. As emphasized by the World Ban… [+93002 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "José J. Cárcamo-Vega, Marcela Sepúlveda, Edgar Casanova-González, Sebastián Gutiérrez, Alejandro Mitrani, Elard J. Dauelsberg, Álvaro E. Aliaga, Cecilia Lemp, José Luis Ruvalcaba-Sil",
-      "title": "New insights into archaeological textiles (1000–1450AD) from the coastal region of the Atacama Desert: Preliminary evidence of a cochineal and shellfish purple dye combination",
-      "description": "A multi-instrumental and non-destructive approach was used to integrally analyze four archaeological textiles from the Pre-Columbian Playa Miller-3 funerary site (1100–1450 AD) located on the coast of the Atacama Desert. The protocol included a fiber washing …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325623",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325623.g008&size=inline",
-      "publishedAt": "2025-06-04T14:00:00Z",
-      "content": "3.1. Fiber identification\r\nFig 4A4H show microscopic images of the washed and unwashed textiles obtained with 40X magnifications. These images show anatomical features of animal threads, keratin medu… [+22109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Scott Stump, Shane Lou",
-      "title": "What to Know TODAY: FDA Gives Tomato Recall Its Highest Warning Level",
-      "description": "The FDA gives a tomato recall due to risk of salmonella contamination its highest warning level, 3 words to ease tension in a fight with a loved one, and more from TODAY for June 4, 2025.",
-      "url": "https://www.today.com/news/fda-tomato-recall-ease-tension-fight-today-news-june-4-2025-rcna210865",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-04/what-to-know-wednesday-2x1-cz-250409-e3f266.jpg",
-      "publishedAt": "2025-06-04T13:44:12Z",
-      "content": "A tomato recall due to risk of salmonella contamination has been designated with the U.S. Food and Drug Administrations highest warning level. Plus, Jenna reveals the one thing her dad does every mor… [+1700 chars]"
     }
   ],
-  "totalResults": 97,
-  "filteredCount": 1
+  "totalResults": 98,
+  "filteredCount": 0
 }
