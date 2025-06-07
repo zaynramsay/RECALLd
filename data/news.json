@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-06-07T12:45:56.885Z",
+  "lastUpdated": "2025-06-07T18:31:21.075Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Russia-linked threat actors targets Ukraine with PathWiper wiper",
+      "description": "A Russia-linked threat actor targeted a critical infrastructure organization in Ukraine with a new destructive malware dubbed PathWiper. Russia-linked threat actor targeted Ukraine’s critical infrastructure with a new wiper named PathWiper. Cisco Talos resear…",
+      "url": "https://securityaffairs.com/178726/apt/russia-linked-threat-actors-targets-ukraine-with-pathwiper-wiper.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/02/Ukraine.jpg",
+      "publishedAt": "2025-06-06T18:30:42Z",
+      "content": "Russia-linked threat actors targets Ukraine with PathWiper wiper\r\n | U.S. Offers $10M bounty for info on RedLine malware creator and state hackers\r\n | Play ransomware group hit 900 organizations sinc… [+170386 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crooksandliars.com"
+      },
+      "author": "Conover Kennard",
+      "title": "Trump’s Golf Club Flagged For Health Violations, Lowest Grade In The County",
+      "description": "Donald Trump’s New Jersey golf club in Bedminster, N.J., received a shocking 32 out of 100 health inspection score in May, the lowest grade in Somerset County, according to a Forbes report that cited public documents. \nThe appalling grade happened after the c…",
+      "url": "https://crooksandliars.com/2025/06/trump-s-golf-club-flagged-health",
+      "urlToImage": "https://crooksandliars.com/files/embeds/2025/06/65747.jpg",
+      "publishedAt": "2025-06-06T16:49:06Z",
+      "content": "Donald Trumps New Jersey golf club in Bedminster, N.J., received a shocking 32 out of 100 health inspection score in May, the lowest grade in Somerset County, according to a Forbesreport that cited p… [+2171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "This Is How Long Eggs Last in the Fridge",
+      "description": "An expert weighs in on the shelf life of eggs.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/this-is-how-long-eggs-last-in-the-fridge/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/454f63b65202d17dc67603f7bf051915e6f1a389/hub/2022/09/16/d9511990-ea04-4908-9198-faa0aeeb4c82/gettyimages-1308706741.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-06-06T16:17:00Z",
+      "content": "Although eggs have been a common kitchen staple since the dawn of time, you may not know everything about this protein-packed ingredient, including how long they last in the fridge.\r\nAccording to a C… [+4795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "BENJAMIN LEE, RAGANANTHINI VETHASALAM",
+      "title": "Keeping illness off our plates",
+      "description": "PETALING JAYA: With an average of 1.6 million people worldwide falling ill every day due to foodborne diseases, the need to focus on food safety has grown more important this World Food Safety Day. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/06/07/keeping-illness-off-our-plates",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/06/07/3354978.jpg",
+      "publishedAt": "2025-06-06T16:00:00Z",
+      "content": "PETALING JAYA: With an average of 1.6 million people worldwide falling ill every day due to foodborne diseases, the need to focus on food safety has grown more important this World Food Safety Day.\r\n… [+3405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Nikkimccannramirez",
+      "title": "Trump Golf Club Calls Piss-Poor Health Inspection a ‘Politically Motivated Attack’",
+      "description": "The Trump Bedminster Golf Club claimed their poor rating after a surprise health inspection was a \"politically motivated attack.\"",
+      "url": "http://www.rollingstone.com/politics/politics-news/trump-golf-club-health-inspection-1235357736/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/06/Trump-Bedminster-health-inspection.jpg?crop=70px%2C0px%2C1730px%2C972px&resize=1600%2C900",
+      "publishedAt": "2025-06-06T15:54:30Z",
+      "content": "President Donald Trump’s private golf club in Bedminster, New Jersey, is claiming to be the victim of a “politically motivated attack” after receiving a “conditionally satisfactory” score during a ro… [+2429 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Kroger Food Recall Update: Full List of Products Impacted",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nKroger has announced recalls of multiple products in May, citing concerns including potential salmonella contamination to manufacturing defects.\nThe products range from food to kitchen items and kids' jewelry,…",
+      "url": "https://biztoc.com/x/942e5feb2a7d8f51",
+      "urlToImage": "https://biztoc.com/cdn/942e5feb2a7d8f51_s.webp",
+      "publishedAt": "2025-06-06T14:48:23Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.Kroger has announced recalls of multiple products in May, citing concerns including potential salmonella contamination to manufacturing defects.The pr… [+146 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Alia Shoaib",
+      "title": "Kroger Food Recall Update: Full List of Products Impacted",
+      "description": "Various food, kitchen items and kids' jewelry products were recalled from Kroger stores in May.",
+      "url": "https://www.newsweek.com/kroger-food-recall-update-list-2081963",
+      "urlToImage": "https://d.newsweek.com/en/full/2658162/kroger.jpg",
+      "publishedAt": "2025-06-06T14:45:19Z",
+      "content": "Kroger has announced recalls of multiple products in May, citing concerns including potential salmonella contamination to manufacturing defects.\r\nThe products range from food to kitchen items and kid… [+2650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Rachel A. Hohn, Khalil P. Abusaba, Erin N. Bray, Scott C. Hauswirth, Byran C. Fuhrmann, Marc W. Beutel, Carl H. Lamborg, Robert P. Mason, Aurthur R. Flegal, Priya M. Ganguli",
+      "title": "Ongoing mercury contamination downstream from the former New Idria Mercury Mine: Southern diablo range of the California coast ranges",
+      "description": "California’s mining legacy continues to threaten water quality and ecosystem health throughout the state. This study focuses on mercury (Hg) releases from the former New Idria Mercury Mine, which was the second largest historic Hg producer in North America. S…",
+      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000328",
+      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000328.g007&size=inline",
+      "publishedAt": "2025-06-06T14:00:00Z",
+      "content": "Recent data compared to measurements made over 25 years ago confirm ongoing AMD (Section 5.1) and Hg (Section 5.2) discharges to San Carlos Creek.5.1. Acid mine drainage and the San Carlos Creek mixi… [+13524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Rui Li, Boris Strilic, Young-June Jin, Jingchen Shao, Yundong Peng, Lei Wang, Qi Quan, Zhiyong Wang, Johannes Graumann, J. Silvio Gutkind, Nina Wettschureck, Stefan Offermanns",
+      "title": "The tumor suppressor FAT1 controls YAP/TAZ protein degradation and tumor cell proliferation through E3 ligase MIB2",
+      "description": "FAT1 is a tumor suppressor gene encoding the protocadherin FAT1, which has been found to be mutated in different types of human cancers with the highest frequency in head and neck squamous cell carcinoma (HNSCC). However, through which mechanisms mutations of…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325535",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325535.g007&size=inline",
+      "publishedAt": "2025-06-06T14:00:00Z",
+      "content": "Citation: Li R, Strilic B, Jin Y-J, Shao J, Peng Y, Wang L, et al. (2025) The tumor suppressor FAT1 controls YAP/TAZ protein degradation and tumor cell proliferation through E3 ligase MIB2. PLoS One … [+47388 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -669,19 +786,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "News Editors",
-      "title": "MAHA movement faces uphill battle as Trump administration wages war on organic agriculture",
-      "description": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helping heal the broken systems that shape our food and our future…",
-      "url": "https://www.naturalnews.com/2025-06-05-maha-movement-faces-uphill-battle-as-trump-administration-wages-war-on-organic-agriculture.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Donald-Trump-Robert-F-Kennedy-Jr-Cheryl-Hines-White-House-Maga-Maha.jpg",
-      "publishedAt": "2025-06-05T06:00:00Z",
-      "content": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helpin… [+23118 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Cassie B.",
       "title": "Whole Foods Market forced to pull organic ground beef nationwide after E. coli contamination discovered",
       "description": "Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C. The USDA warns consumers to discard affected beef, sold under the “Organic Rancher” brand, with specific produc…",
@@ -689,6 +793,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Ground-Beef-Meat.jpg",
       "publishedAt": "2025-06-05T06:00:00Z",
       "content": "<ul><li>Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C.</li><li>The USDA warns consumers to discard… [+4810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "News Editors",
+      "title": "MAHA movement faces uphill battle as Trump administration wages war on organic agriculture",
+      "description": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helping heal the broken systems that shape our food and our future…",
+      "url": "https://www.naturalnews.com/2025-06-05-maha-movement-faces-uphill-battle-as-trump-administration-wages-war-on-organic-agriculture.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Donald-Trump-Robert-F-Kennedy-Jr-Cheryl-Hines-White-House-Maga-Maha.jpg",
+      "publishedAt": "2025-06-05T06:00:00Z",
+      "content": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helpin… [+23118 chars]"
     },
     {
       "source": {
@@ -1170,112 +1287,8 @@
       "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
       "publishedAt": "2025-06-04T17:57:24Z",
       "content": "Employee slammed for not seeing anything wrong with her inappropriate work outfit: Confused how this outfit left the house in the first place\r\nOne womans co-worker complained about her office attire,… [+1127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Zach Everson",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
-      "url": "https://www.newsbreak.com/share/4037258162263-trump-s-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspection-earned-lowest-grade-in-county?_f=app_share&pd=00UhHWCu&lang=en_US&send_time=1749058536&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v9%2Cns_foryou_blend_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_rank_exp_25q2-v3&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
-      "publishedAt": "2025-06-04T17:36:17Z",
-      "content": "Ex-WH press secretary Karine Jean-Pierre claims shes no longer a Democrat while hyping memoir of broken Biden admin\r\nWASHINGTON Joe Bidens longtime White House press secretary, Karine Jean-Pierre , a… [+1136 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "The ground beef in your fridge may be tainted with E. coli: USDA issues warning",
-      "description": "U.S. agriculture officials issued a public health alert for Organic Rancher ground beef sold at Whole Foods due to potential E. coli O157:H7 contamination. The beef, processed in the U.S. from imported meat and distributed nationwide, is no longer for sale, b…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/the-ground-beef-in-your-fridge-may-be-tainted-with-e-coli-usda-issues-warning/articleshow/121629230.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121629484,width-1200,height-630,imgsize-81208,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-06-04T17:19:32Z",
-      "content": "U.S. agriculture officials have issued a public health alert over concerns that ground beef sold at Whole Foods Market may be contaminated with E. coli O157:H7, a potentially dangerous strain of bact… [+1681 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Zach Everson",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
-      "url": "https://www.newsbreak.com/share/4037258162263-trump-s-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspection-earned-lowest-grade-in-county?_f=app_share&pd=0J5ihv1Q&lang=en_US&send_time=1749054231&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-v3%2Cns_foryou_rank_exp_25q2-v3&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
-      "publishedAt": "2025-06-04T16:24:23Z",
-      "content": "Ex-WH press secretary Karine Jean-Pierre claims shes no longer a Democrat while hyping memoir of broken Biden admin\r\nWASHINGTON Joe Bidens longtime White House press secretary, Karine Jean-Pierre , a… [+1136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Zach Everson",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
-      "url": "https://www.newsbreak.com/news/4037258162263-trumps-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspectionearned-lowest-grade-in-county?noAds=1&_f=app_share&s=a2&share_destination_id=MTc5NzI0MDgzLTE3NDkwNTM3NjM1MzU%3D",
-      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
-      "publishedAt": "2025-06-04T16:19:41Z",
-      "content": "Ex-WH press secretary Karine Jean-Pierre claims shes no longer a Democrat while hyping memoir of broken Biden admin\r\nWASHINGTON Joe Bidens longtime White House press secretary, Karine Jean-Pierre , a… [+1136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Ground beef flagged for possible E.Coli contamination",
-      "description": "The ground beef was sold at different Whole Foods Market stores nationwide",
-      "url": "https://www.the-independent.com/life-style/ground-beef-ecoli-health-alert-b2763700.html",
-      "urlToImage": "https://static.the-independent.com/2025/06/04/15/30/iStock-1341859890.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-06-04T16:15:34Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3682 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Zach Everson",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
-      "url": "https://www.newsbreak.com/share/4037258162263-trump-s-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspection-earned-lowest-grade-in-county?s=a2&share_destination_id=MjUzNDkwMDA1LTE3NDkwNTM1NDgxNjA%3D&pd=0H9cKTOf&hl=en_US&send_time=1749053548&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_rank_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-v4",
-      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
-      "publishedAt": "2025-06-04T16:12:57Z",
-      "content": "Employee slammed for not seeing anything wrong with her inappropriate work outfit: Confused how this outfit left the house in the first place\r\nOne womans co-worker complained about her office attire,… [+1127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Zach Everson",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
-      "url": "https://www.newsbreak.com/share/4037258162263-trump-s-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspection-earned-lowest-grade-in-county?_f=app_share&pd=0KBEjijd&lang=en_US&send_time=1749052666&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.18.0.43%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v3&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
-      "publishedAt": "2025-06-04T15:58:53Z",
-      "content": "Employee slammed for not seeing anything wrong with her inappropriate work outfit: Confused how this outfit left the house in the first place\r\nOne womans co-worker complained about her office attire,… [+1127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Marisa Losciale",
-      "title": "Ground Beef Gets Major Health Warning After Nationwide Distribution - NewsBreak",
-      "description": "A health alert has been issued for packages of raw ground beef that were sent to distributors in several states and Whole Foods Markets nationwide.",
-      "url": "https://www.newsbreak.com/share/4037243706547-ground-beef-gets-major-health-warning-after-nationwide-distribution?_f=app_share&amp;pd=0FqsHrks&amp;lang=en_US&amp;send_time=1749052422&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_rank_exp_25q2-v1%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/0eNEuo_11a0lOYG00",
-      "publishedAt": "2025-06-04T15:54:17Z",
-      "content": "If you purchased ground beef recently, don't make your best Sunday sauce or DIY Baconator just yet, as officials are warning some product packages could present a health threat.\r\nOn Wednesday, the U.… [+1986 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 99,
   "filteredCount": 0
 }
