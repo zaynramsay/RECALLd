@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-06-08T12:46:09.045Z",
+  "lastUpdated": "2025-06-08T18:30:50.183Z",
   "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mike Snider",
+      "title": "More cucumbers recalled for salmonella risk, FDA says",
+      "description": "A Maryland company has recalled some cucumbers and salsa made with cucumbers for potential risk of salmonella contamination.",
+      "url": "https://www.usatoday.com/story/money/2025/06/07/cucumber-recall-expanded-salmonella-risk/84088089007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/05/21/USAT/83765800007-getty-images-1482710885.jpg?crop=2887,1624,x0,y971&width=2887&height=1624&format=pjpg&auto=webp",
+      "publishedAt": "2025-06-07T18:00:30Z",
+      "content": "A Maryland food company has recalled specific salsa and cucumber products because they were made with cucumbers that are possibly contaminated with salmonella.\r\nTGD Cuts, LLC of Jessup, Maryland, is … [+3801 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Experts found 4 billion user records online, the largest known leak of Chinese personal data from a single source",
+      "description": "Over 4 billion user records were found exposed online in a massive breach, possibly linked to the surveillance of Chinese citizens. Cybersecurity researcher Bob Dyachenko and the Cybernews team discovered a massive data leak in China that exposed billions of …",
+      "url": "https://securityaffairs.com/178744/data-breach/experts-found-4-billion-user-records-online-the-largest-known-leak-of-chinese-personal-data-from-a-single-source.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-10.png",
+      "publishedAt": "2025-06-07T17:22:19Z",
+      "content": "Experts found 4 billion user records online, the largest known leak of Chinese personal data from a single source\r\n | Attackers exploit Fortinet flaws to deploy Qilin ransomware\r\n | Russia-linked thr… [+170568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Nikki Mccann Ramirez",
+      "title": "Trump Golf Club Calls Piss-Poor Health Inspection a ‘Politically Motivated Attack’ - NewsBreak",
+      "description": "President Donald Trump’s private golf club in Bedminster, New Jersey, is claiming to be the victim of a “politically motivated attack” after receiving a “c",
+      "url": "https://www.newsbreak.com/share/4040760827388-trump-golf-club-calls-piss-poor-health-inspection-a-politically-motivated-attack?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDkzMTU0NjI2MTE%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1749315462&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.22.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_rank_exp_25q2-control",
+      "urlToImage": "https://img.particlenews.com/img/id/2n5UxR_11dZ1EPC00",
+      "publishedAt": "2025-06-07T16:58:42Z",
+      "content": "President Donald Trumps private golf club in Bedminster, New Jersey, is claiming to be the victim of a politically motivated attack after receiving a conditionally satisfactory score during a routine… [+2584 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Salmonella outbreak tied to eggs makes dozens sick across 7 states",
+      "description": "The August Egg Company recalled about 1.7 million brown organic and brown cage-free egg varieties distributed to grocery stores between February and May.",
+      "url": "https://www.cbsnews.com/news/salmonella-outbreak-tied-to-eggs-makes-cdc/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/07/dca6e940-dcc4-4e4a-b99d-51a571947868/thumbnail/1200x630/df49de9d7a82d78fdf10f389e9a25676/ap25156676970821.jpg?v=8e774d26301ae5e7a27489083c0cf8b6",
+      "publishedAt": "2025-06-07T16:45:14Z",
+      "content": "A salmonella outbreak linked to a large egg recall has made dozens of people sick in seven states in the West and Midwest, federal health officials said Saturday.\r\nThe August Egg Company recalled abo… [+2307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PEOPLE"
+      },
+      "author": "Brenton Blanchet",
+      "title": "At Least 1.7 Million Eggs Have Been Recalled Across the U.S. — Here Are the States Affected",
+      "description": "The FDA announced a recall for August Egg Company products that have been sold across nine states",
+      "url": "https://people.com/at-least-1-7-million-eggs-recalled-across-us-here-are-the-states-affected-11750203",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZvOeKE_6WUwLjwvkg599Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/22f4e0aea33c83e632382dbc42a3373f",
+      "publishedAt": "2025-06-07T16:37:07Z",
+      "content": "NEED TO KNOW\r\n<ul><li>At least 1.7 million eggs have been recalled in the U.S. over potential salmonella contamination, according to the U.S. Food and Drug Administration (FDA)\r\n</li><li>The recall i… [+3173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Kelsey Kryger",
+      "title": "Shocking Levels of Heavy Metals and Pesticides Discovered in Popular Nutrition Bars, Report Finds - NewsBreak",
+      "description": "Shocking Levels of Heavy Metals and Pesticides Discovered in Popular Nutrition Bars, Report Finds - NewsBreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/4039481521438-shocking-levels-of-heavy-metals-and-pesticides-discovered-in-popular-nutrition-bars-report-finds?_f=app_share&amp;pd=0GSHqbJH&amp;lang=en_US&amp;send_time=1749310593&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.23.0.48%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q2_v2-v3%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v2%2Cns_foryou_blend_exp_25q2-v8&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/2qyaOE_11cGoyuY00",
+      "publishedAt": "2025-06-07T15:37:03Z",
+      "content": "If you grab a nutrition or snack bar between workouts, a new report might make you think twice before taking your next bite. \r\nThe Clean Label Project recently released a report revealing surprisingl… [+3365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Kelsey Kryger",
+      "title": "Shocking Levels of Heavy Metals and Pesticides Discovered in Popular Nutrition Bars, Report Finds - NewsBreak",
+      "description": "Shocking Levels of Heavy Metals and Pesticides Discovered in Popular Nutrition Bars, Report Finds - NewsBreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/4039481521438-shocking-levels-of-heavy-metals-and-pesticides-discovered-in-popular-nutrition-bars-report-finds?s=a2&amp;share_destination_id=MjAyNzU2NTQwLTE3NDkzMDkzNzY4NTk%3D&amp;pd=0DikEm7k&amp;hl=en_US&amp;send_time=1749309376&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_blend_exp_25q2-v3%2Cns_foryou_recall_exp_25q2-v7",
+      "urlToImage": "https://img.particlenews.com/img/id/2qyaOE_11cGoyuY00",
+      "publishedAt": "2025-06-07T15:17:04Z",
+      "content": "If you grab a nutrition or snack bar between workouts, a new report might make you think twice before taking your next bite. \r\nThe Clean Label Project recently released a report revealing surprisingl… [+3365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Kelsey Kryger",
+      "title": "Shocking Levels of Heavy Metals and Pesticides Discovered in Popular Nutrition Bars, Report Finds - NewsBreak",
+      "description": "Shocking Levels of Heavy Metals and Pesticides Discovered in Popular Nutrition Bars, Report Finds - NewsBreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/4039481521438-shocking-levels-of-heavy-metals-and-pesticides-discovered-in-popular-nutrition-bars-report-finds?s=a2&amp;share_destination_id=MTg5ODg3MTIxLTE3NDkzMDE0ODYyMzY%3D&amp;pd=0CqkJVML&amp;hl=en_US&amp;send_time=1749301486&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q2_v2-v6%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_rank_exp_25q2-v1%2Cns_foryou_blend_exp_25q2-v6",
+      "urlToImage": "https://img.particlenews.com/img/id/2qyaOE_11cGoyuY00",
+      "publishedAt": "2025-06-07T13:05:13Z",
+      "content": "If you grab a nutrition or snack bar between workouts, a new report might make you think twice before taking your next bite. \r\nThe Clean Label Project recently released a report revealing surprisingl… [+3365 chars]"
+    },
     {
       "source": {
         "id": "nbc-news",
@@ -929,19 +1033,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "News Editors",
-      "title": "MAHA movement faces uphill battle as Trump administration wages war on organic agriculture",
-      "description": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helping heal the broken systems that shape our food and our future…",
-      "url": "https://www.naturalnews.com/2025-06-05-maha-movement-faces-uphill-battle-as-trump-administration-wages-war-on-organic-agriculture.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Donald-Trump-Robert-F-Kennedy-Jr-Cheryl-Hines-White-House-Maga-Maha.jpg",
-      "publishedAt": "2025-06-05T06:00:00Z",
-      "content": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helpin… [+23118 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Cassie B.",
       "title": "Whole Foods Market forced to pull organic ground beef nationwide after E. coli contamination discovered",
       "description": "Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C. The USDA warns consumers to discard affected beef, sold under the “Organic Rancher” brand, with specific produc…",
@@ -949,6 +1040,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Ground-Beef-Meat.jpg",
       "publishedAt": "2025-06-05T06:00:00Z",
       "content": "<ul><li>Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C.</li><li>The USDA warns consumers to discard… [+4810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "News Editors",
+      "title": "MAHA movement faces uphill battle as Trump administration wages war on organic agriculture",
+      "description": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helping heal the broken systems that shape our food and our future…",
+      "url": "https://www.naturalnews.com/2025-06-05-maha-movement-faces-uphill-battle-as-trump-administration-wages-war-on-organic-agriculture.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Donald-Trump-Robert-F-Kennedy-Jr-Cheryl-Hines-White-House-Maga-Maha.jpg",
+      "publishedAt": "2025-06-05T06:00:00Z",
+      "content": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helpin… [+23118 chars]"
     },
     {
       "source": {
@@ -1170,125 +1274,8 @@
       "urlToImage": "https://biztoc.com/cdn/d5c131ccb1a6bb2c_s.webp",
       "publishedAt": "2025-06-05T00:12:36Z",
       "content": "The US Department of Agricultures Food Safety and Inspection Service has issued a public health alert for some raw ground beef products sold at Whole Foods Market because of a risk of E. coli contami… [+146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaite"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Bedminster Golf Course Cited for 18 Health Violations",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.",
-      "url": "https://www.mediaite.com/politics/trump/trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/07/trump-thumb.jpg",
-      "publishedAt": "2025-06-05T00:06:38Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=NjM4NTQxMzMtMTc0OTA5MDc3OTc5Ng%3D%3D&pd=04JvNNa0&hl=en_US&send_time=1749090779&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v8%2Cns_foryou_rank_exp_25q2-v1%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v3",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T00:06:08Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MjMxOTYxNzUtMTc0OTA5MDMxODM2Nw%3D%3D&pd=01ZKNrmo&hl=en_US&send_time=1749090318&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_recall_exp_25q2-v9",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T00:06:08Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1749133018&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_blend_exp_25q2-v9%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_recall_exp_25q2-v4&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T00:06:08Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?_f=app_share&pd=0KRLBBx7&lang=en_US&send_time=1749088915&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.20.1.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v9%2Cns_foryou_recall_exp_25q2-v9%2Cns_foryou_model_exp_25q2_v2-v8&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T00:06:08Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MjQyMzAxNTkzLTE3NDkwOTYzMjI1MTk%3D&pd=0GOfiD2V&hl=en_US&send_time=1749096322&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_recall_exp_25q2-v9%2Cns_foryou_blend_exp_25q2-v7",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T00:06:08Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MzE0MDIyMjkzLTE3NDkxMzUzMTUyMzA%3D&pd=0LFbXhOe&hl=en_US&send_time=1749135315&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.3.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v7",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T00:06:08Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Zach Everson",
-      "title": "Trump’s Bedminster Golf Club Flagged For 18 Health Violations In Latest Inspection—Earned Lowest Grade In County - NewsBreak",
-      "description": "The club received a score of 32 out of 100, with nine critical violations, including food contamination risks and hand-washing sinks lacking soap or paper",
-      "url": "https://www.newsbreak.com/share/4037258162263-trump-s-bedminster-golf-club-flagged-for-18-health-violations-in-latest-inspection-earned-lowest-grade-in-county?_f=app_share&pd=06rbQpAJ&lang=en_US&send_time=1749079761&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-v6%2Cns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_recall_exp_25q2-v7&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2tpg6K_11a1gCi400",
-      "publishedAt": "2025-06-04T23:30:30Z",
-      "content": "ICE Invaded Childs Birthday Party Claiming It Was a Gang Meeting\r\nIn March, the Trump administration raided what they called a Tren de Arauga gang gathering in Texas, arresting dozens of people at fi… [+1004 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Churro Recall Map as Warning Issued in 13 States",
-      "description": "The recall affects certain Aldi locations across the Southeast and Midwest United States.",
-      "url": "https://www.newsweek.com/churro-recall-map-warning-issued-13-states-2081158",
-      "urlToImage": "https://d.newsweek.com/en/full/2657040/churro-bites.jpg",
-      "publishedAt": "2025-06-04T22:06:05Z",
-      "content": "Camerican International is recalling boxes of their Aldi Brand Casa Mamita Churro Bites in certain states due to fears of undeclared milk.\r\nNewsweek reached out to the company via email Wednesday for… [+3199 chars]"
     }
   ],
-  "totalResults": 99,
+  "totalResults": 98,
   "filteredCount": 0
 }
