@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-08T02:10:19.651Z",
+  "lastUpdated": "2025-06-08T06:33:47.073Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Egg Recall Map Shows Warnings Issued to Customers in 9 States",
+      "description": "Millions of eggs have been recalled due to potential fears of salmonella across numerous states.",
+      "url": "https://www.newsweek.com/egg-recall-map-shows-warnings-issued-customers-9-states-2082254",
+      "urlToImage": "https://d.newsweek.com/en/full/2658627/eggs.jpg",
+      "publishedAt": "2025-06-07T02:23:56Z",
+      "content": "August Egg Company has issued a recall on Friday for 1,700,000 brown cage-free and certified organic brown eggs due to potential fears of salmonella.\r\nNewsweek reached out to the company after hours … [+3602 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -903,19 +916,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Cassie B.",
-      "title": "Whole Foods Market forced to pull organic ground beef nationwide after E. coli contamination discovered",
-      "description": "Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C. The USDA warns consumers to discard affected beef, sold under the “Organic Rancher” brand, with specific produc…",
-      "url": "https://www.naturalnews.com/2025-06-05-whole-foods-organic-beef-contamination.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Ground-Beef-Meat.jpg",
-      "publishedAt": "2025-06-05T06:00:00Z",
-      "content": "<ul><li>Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C.</li><li>The USDA warns consumers to discard… [+4810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "News Editors",
       "title": "MAHA movement faces uphill battle as Trump administration wages war on organic agriculture",
       "description": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helping heal the broken systems that shape our food and our future…",
@@ -923,6 +923,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Donald-Trump-Robert-F-Kennedy-Jr-Cheryl-Hines-White-House-Maga-Maha.jpg",
       "publishedAt": "2025-06-05T06:00:00Z",
       "content": "I write this as someone who has long worked across ideological divides to bring people together around shared values of health, freedom and stewardship of the land. I have dedicated my life to helpin… [+23118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Cassie B.",
+      "title": "Whole Foods Market forced to pull organic ground beef nationwide after E. coli contamination discovered",
+      "description": "Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C. The USDA warns consumers to discard affected beef, sold under the “Organic Rancher” brand, with specific produc…",
+      "url": "https://www.naturalnews.com/2025-06-05-whole-foods-organic-beef-contamination.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Ground-Beef-Meat.jpg",
+      "publishedAt": "2025-06-05T06:00:00Z",
+      "content": "<ul><li>Whole Foods recalls organic ground beef nationwide due to E. coli O157:H7 contamination found in products shipped to 27 states and Washington, D.C.</li><li>The USDA warns consumers to discard… [+4810 chars]"
     },
     {
       "source": {
@@ -1274,19 +1287,6 @@
       "urlToImage": "https://img.particlenews.com/img/id/2llHFk_11anVM7q00",
       "publishedAt": "2025-06-04T21:58:16Z",
       "content": "Trump plays golf in Bedminster, NJ, in 2022. (Shutterstock)\r\nTrump's golf club in Bedminster, New Jersey was slapped with 18 health code violations, Forbes reported on Wednesday including some truly … [+1436 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PennLive"
-      },
-      "author": "Brian Linder | Blinder@pennlive.com",
-      "title": "Eating at Donald Trump’s golf course deemed ‘unnaceptable health risk’ by health department",
-      "description": "Eating at Donald Trump’s golf course deemed ‘unnaceptable health risk’ by health departmentpennlive.com",
-      "url": "https://www.pennlive.com/news/2025/06/eating-at-donald-trumps-golf-course-deemed-unnaceptable-health-risk-by-health-dept.html",
-      "urlToImage": "https://www.pennlive.com/resizer/v2/2EOU2A4UENBPFMUYIL2SMF4KQA.jpg?auth=fcd051979f347f83e421f279a48877eae1a63ec24b2ad49aa3abf6ee9d1fa588&width=1280&quality=90",
-      "publishedAt": "2025-06-04T21:56:12Z",
-      "content": "Donald Trumps National Golf Club in Bedminster, New Jersey looks like a swell place, but the local health department says you really, really dont want to eat there.\r\nAt least the health departments r… [+1559 chars]"
     }
   ],
   "totalResults": 99,
