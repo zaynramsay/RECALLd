@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-08T06:33:47.073Z",
+  "lastUpdated": "2025-06-08T12:46:09.045Z",
   "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Suzy Khimm",
+      "title": "Salmonella outbreaks linked to cucumbers are back — and one of the same growers is connected again",
+      "description": "Salmonella outbreaks linked to cucumbers have sickened hundreds of people since last year, drawing attention to the problem of contaminated irrigation water on farms.",
+      "url": "https://www.nbcnews.com/health/recall/cucumber-recall-salmonella-outbreak-people-getting-sick-rcna210723",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250605-cucumber-salmonella-lr-d87aca.jpg",
+      "publishedAt": "2025-06-07T09:00:00Z",
+      "content": "The next week, the state health department called with a potential explanation that took her aback. I was shocked it was cucumbers, she said. How in the heck can someone get it from that?\r\nIt can tak… [+5146 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -1274,19 +1287,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2657040/churro-bites.jpg",
       "publishedAt": "2025-06-04T22:06:05Z",
       "content": "Camerican International is recalling boxes of their Aldi Brand Casa Mamita Churro Bites in certain states due to fears of undeclared milk.\r\nNewsweek reached out to the company via email Wednesday for… [+3199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Matthew Chapman",
-      "title": "Gross violations earn Trump's prized club worst health grade in county: report - NewsBreak",
-      "description": "Trump's golf club in Bedminster, New Jersey was slapped with 18 health code violations, Forbes reported on Wednesday — including some truly gross ones. Ove",
-      "url": "https://www.newsbreak.com/share/4038011591281-gross-violations-earn-trump-s-prized-club-worst-health-grade-in-county-report?_f=app_share&pd=0Hl8oh5P&lang=en_US&send_time=1749151547&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v4%2Cns_foryou_rank_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v8&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2llHFk_11anVM7q00",
-      "publishedAt": "2025-06-04T21:58:16Z",
-      "content": "Trump plays golf in Bedminster, NJ, in 2022. (Shutterstock)\r\nTrump's golf club in Bedminster, New Jersey was slapped with 18 health code violations, Forbes reported on Wednesday including some truly … [+1436 chars]"
     }
   ],
   "totalResults": 99,
