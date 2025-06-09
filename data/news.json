@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-09T12:51:44.170Z",
+  "lastUpdated": "2025-06-09T18:33:27.353Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Francesca Gariano",
+      "title": "Nearly 2 Million Dozen Eggs Recalled in 9 States Over Salmonella Risk. See List of States Affected",
+      "description": "More than 1 million dozen eggs are being recalled in 9 states due to potential salmonella contamination.",
+      "url": "https://www.today.com/health/recall/eggs-recalled-salmonella-contamination-rcna211702",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-06/brown-eggs-lp-today-main-250608-187b3d.jpg",
+      "publishedAt": "2025-06-08T16:12:33Z",
+      "content": "Nearly two million dozen eggs are being recalled due to potential salmonella contamination.\r\nThe U.S. Food and Drug Administration announced June 6 that August Egg Company, based in Hilmar, Californi… [+5844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages",
+      "description": "A supply chain attack hit NPM, threat actors compromised 16 popular Gluestack packages, affecting 950K+ weekly downloads. Researchers from Aikido Security discovered a new supply chain attack targeted NPM, compromising 16 popular Gluestack ‘react-native-aria’…",
+      "url": "https://securityaffairs.com/178772/malware/over-950k-weekly-downloads-at-risk-in-ongoing-supply-chain-attack-on-gluestack-packages.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/npm.png",
+      "publishedAt": "2025-06-08T13:35:00Z",
+      "content": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48\r\n | Security Affairs newsletter Round 527 by Pierluigi Paganin… [+170795 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,32 +1261,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6841857f35cbadfda0c37bdb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-06-05T11:58:08Z",
       "content": "Police will soon be able to use Flock Safetys AI-powered cameras for surveillance, and privacy experts are concerned.\r\nThe $7.5 billion car surveillance company already has a network of tens of thous… [+9071 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Ron Dicker",
-      "title": "Trump's Golf Club Has Too Many 'Critical' Health Violations, Teed-Off Inspector Says",
-      "description": "Trump National Golf Club in Bedminster, New Jersey, had the lowest health inspection score in its county, according to a Forbes report.",
-      "url": "https://www.huffpost.com/entry/trump-golf-club-bedminster-health-inspection_n_68415d31e4b0280f7518d727",
-      "urlToImage": "https://img.huffingtonpost.com/asset/684162671700005ea0bcd4e0.jpeg?ops=1200_630",
-      "publishedAt": "2025-06-05T11:52:41Z",
-      "content": "President Donald Trumps golf resort in Bedminster, New Jersey, landed in the rough with a 32 out of 100 health inspection score in May, Forbes reported Wednesday. The Trump National Golf Club had the… [+2938 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/mediaite-520570/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T11:43:50Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
     }
   ],
   "totalResults": 97,
