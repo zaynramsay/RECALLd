@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-06-10T06:35:32.967Z",
+  "lastUpdated": "2025-06-10T12:52:24.997Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yourmileagemayvary.com"
+      },
+      "author": "Your Mileage May Vary",
+      "title": "Trump National Golf Course Restaurant Failed Health Inspection With a Score of 32/100",
+      "description": "Remember when that Centurion Lounge failed its food inspection a couple of months ago? (don’t worry, it passed after a re-inspection.) Looks like they’re in good company – the restaurant…",
+      "url": "https://yourmileagemayvary.com/2025/06/09/trump-golf-club-restaurant-health-inspection/",
+      "urlToImage": "https://yourmileagemayvary.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-08-at-12.06.26-PM.png",
+      "publishedAt": "2025-06-09T12:13:05Z",
+      "content": "32Remember when that Centurion Lounge failed its food inspection a couple of months ago? (don’t worry, it passed after a re-inspection.) Looks like they’re in good company – the restaurant of a Trump… [+5022 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "OpenAI bans ChatGPT accounts linked to Russian, Chinese cyber ops",
+      "description": "OpenAI banned ChatGPT accounts tied to Russian and Chinese hackers using the tool for malware, social media abuse, and U.S. satellite tech research. OpenAI banned ChatGPT accounts that were used by Russian-speaking threat actors and two Chinese nation-state a…",
+      "url": "https://securityaffairs.com/178797/intelligence/openai-bans-chatgpt-accounts-linked-to-russian-chinese-cyber-ops.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/openai.png",
+      "publishedAt": "2025-06-09T11:15:09Z",
+      "content": "OpenAI bans ChatGPT accounts linked to Russian, Chinese cyber ops\r\n | New Mirai botnet targets TBK DVRs by exploiting CVE-2024-3721\r\n | BadBox 2.0 botnet infects millions of IoT devices worldwide, FB… [+171006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Egg Recall As Salmonella Outbreak Leaves 79 Sick, 21 Hospitalized",
+      "description": "The August Egg Company has initiated a voluntary recall of around 1.7 million of its eggs due to a Salmonella outbreak linked to eggs, according to the FDA and CDC.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/06/09/egg-recall-as-salmonella-outbreak-leaves-79-sick-21-hospitalized/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6846bd6f2ac1aab44deef511/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-09T10:59:06Z",
+      "content": "On June 6, the August Egg Company of Hilmar, CA, initiated a voluntary recall of around 1.7 million ... More of its eggs, according to the U.S. Food and Drug Administration. (Photo: Getty)\r\ngetty\r\nTh… [+6648 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Costco Products Recalled in Six States: Full List of Items Impacted",
+      "description": "The recalls impacted a large geographic area and involve widely consumed items, raising safety concerns among Costco's U.S. membership base.",
+      "url": "https://www.newsweek.com/costco-products-recalled-six-states-full-list-items-impacted-2082651",
+      "urlToImage": "https://d.newsweek.com/en/full/2659103/costco.jpg",
+      "publishedAt": "2025-06-09T10:03:38Z",
+      "content": "Costco has recalled potentially contaminated products including Coca-Cola's Topo Chico Mineral Water and a selection of Fresh &amp; Ready Foods' sandwiches, in six states.\r\nThe Coca-Cola recall appli… [+3888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Resilience"
+      },
+      "author": "Joseph Winters",
+      "title": "What scientists have learned from 20 years of microplastics research",
+      "description": "At the broadest level, Thompson, other scientists, and environmental advocates are supportive of measures to limit overall plastic production and ban the most problematic categories of plastic, both of which would indirectly reduce the generation of microplas…",
+      "url": "https://www.resilience.org/stories/2025-06-09/what-scientists-have-learned-from-20-years-of-microplastics-research/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2025/06/microplastics-fingertups.webp",
+      "publishedAt": "2025-06-09T09:44:56Z",
+      "content": "“This story was originally published by Grist. Sign up for Grist’s weekly newsletter here.”\r\nTwenty years ago, a team of U.K. scientists sounded the alarm on a then-underappreciated problem: the brea… [+8453 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New Mirai botnet targets TBK DVRs by exploiting CVE-2024-3721",
+      "description": "A new variant of the Mirai botnet exploits CVE-2024-3721 to target DVR systems, using a new infection method. Researchers from Russian cybersecurity firm Kaspersky discovered a new variant of the Mirai botnet that exploits a command injection vulnerability (C…",
+      "url": "https://securityaffairs.com/178779/malware/new-mirai-botnet-targets-tbk-dvrs-by-exploiting-cve-2024-3721.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-11.png",
+      "publishedAt": "2025-06-09T08:54:53Z",
+      "content": "New Mirai botnet targets TBK DVRs by exploiting CVE-2024-3721\r\n | BadBox 2.0 botnet infects millions of IoT devices worldwide, FBI warns\r\n | Over 950K weekly downloads at risk in ongoing supply chain… [+170936 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "BadBox 2.0 botnet infects millions of IoT devices worldwide, FBI warns",
+      "description": "BadBox 2.0 malware has infected millions of IoT devices globally, creating a botnet used for cyber criminal activities, the FBI warns. The FBI published a Public Service Announcement (PSA) to warn that cybercriminals are using the BADBOX 2.0 botnet to exploit…",
+      "url": "https://securityaffairs.com/178789/malware/badbox-2-0-botnet-infects-millions-of-iot-devices-worldwide-fbi-warns.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-21.jpg",
+      "publishedAt": "2025-06-09T07:34:24Z",
+      "content": "BadBox 2.0 botnet infects millions of IoT devices worldwide, FBI warns\r\n | Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n | SECURITY AFFAIRS MALWARE NEWSLET… [+170870 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -308,7 +399,20 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1749331959&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.23.0.48%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-v9%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-v6&s=i16",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=0EP8xahG&lang=en_US&send_time=1749388679&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.23.0.48%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v1%2Cns_foryou_model_exp_25q2_v2-v6%2Cns_foryou_rank_exp_25q2-v1%2Cns_foryou_blend_exp_25q2-v1&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
+      "publishedAt": "2025-06-07T20:27:59Z",
+      "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Erin Keller",
+      "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
+      "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -347,20 +451,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=0EP8xahG&lang=en_US&send_time=1749388679&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.23.0.48%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v1%2Cns_foryou_model_exp_25q2_v2-v6%2Cns_foryou_rank_exp_25q2-v1%2Cns_foryou_blend_exp_25q2-v1&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
-      "publishedAt": "2025-06-07T20:27:59Z",
-      "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Erin Keller",
-      "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
-      "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1749331959&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.23.0.48%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-v9%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-v6&s=i16",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -1170,97 +1261,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zg26bXAquHxsCENiyJ75Pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTI-/https://media.zenfs.com/en/martha_stewart_living_393/60d5f2b58a62d4b6c9e95e3d87bf1ac2",
       "publishedAt": "2025-06-05T15:52:09Z",
       "content": "Key Points\r\n<ul><li>Aldi recalled its Casa Mamita Churro Bites Filled with Chocolate Hazelnut Cream due to the presence of milk, a known allergen not listed on the products label.\r\n</li><li>The churr… [+2419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Leading Companies in the Plastic Lined Piping Market Profiled in New 2025 Report - Focus on PPG, AGRU Kunststofftechnik, Simtech Process Systems, CRANE ChemPharma & Energy, Sekisui Chemical & more",
-      "description": "The plastic lined piping market offers growth opportunities driven by increased demand for corrosion-resistant solutions in chemical and petrochemical industries, spurred by regulatory standards and the need for durable systems. Emerging economies investing i…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/05/3094569/28124/en/Leading-Companies-in-the-Plastic-Lined-Piping-Market-Profiled-in-New-2025-Report-Focus-on-PPG-AGRU-Kunststofftechnik-Simtech-Process-Systems-CRANE-ChemPharma-Energy-Sekisui-Chemica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-06-05T15:15:00Z",
-      "content": "Dublin, June 05, 2025 (GLOBE NEWSWIRE) -- The \"Plastic Lined Piping Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F\" has been added to ResearchAndMarkets.com's off… [+5719 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Avon, CT Patch"
-      },
-      "author": "Alexis Tarrazi",
-      "title": "Trump's Bedminster Golf Club Earns Lowest Health Grade In County, Slew Of Violations",
-      "description": "Overall, the club was given a \"conditionally satisfactory\" C grade following a health inspection last month, according to Forbes.",
-      "url": "https://patch.com/new-jersey/baskingridge/trumps-bedminster-golf-club-earns-lowest-health-grade-county-slew-violations",
-      "urlToImage": "https://patch.com/img/cdn20/shutterstock/22871539/20250605/091716/styles/patch_image/public/shutterstock-editorial-14050023v___05091621116.jpg",
-      "publishedAt": "2025-06-05T14:13:01Z",
-      "content": "BEDMINSTER, NJ Trump National Golf Club in Bedminster has earned the undesirable title of scoring the lowest health grade in Somerset County.\r\nThe Somerset County Department of Health conducted a foo… [+1779 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Ameliorate Digital Consultancy Pvt Ltd",
-      "title": "Nanoparticles Market is expected to reach USD 120 billion by 2034, driven by a 7.2% CAGR and expanding applications | Exactitude Consultancy",
-      "description": "Nanoparticles Market Overview 2025–2034 Nanoparticles Market Overview 2025–2034",
-      "url": "https://www.globenewswire.com/news-release/2025/06/05/3094516/0/en/Nanoparticles-Market-is-expected-to-reach-USD-120-billion-by-2034-driven-by-a-7-2-CAGR-and-expanding-applications-Exactitude-Consultancy.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a576ded2-f738-4a7c-bbf9-189ed83b2265",
-      "publishedAt": "2025-06-05T14:07:00Z",
-      "content": "Luton, Bedfordshire, United Kingdom, June 05, 2025 (GLOBE NEWSWIRE) -- The global nanoparticles market is witnessing remarkable growth, with its valuation estimated to reach approximately USD 60 bill… [+21689 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Ameliorate Digital Consultancy Pvt Ltd",
-      "title": "Synthetic Rope Market is expected to grow to USD 14.5 billion by 2034, driven by a CAGR of 5.5% | Exactitude Consultancy",
-      "description": "Synthetic Rope Market Overview 2025-2034 Synthetic Rope Market Overview 2025-2034",
-      "url": "https://www.globenewswire.com/news-release/2025/06/05/3094515/0/en/Synthetic-Rope-Market-is-expected-to-grow-to-USD-14-5-billion-by-2034-driven-by-a-CAGR-of-5-5-Exactitude-Consultancy.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a576ded2-f738-4a7c-bbf9-189ed83b2265",
-      "publishedAt": "2025-06-05T14:07:00Z",
-      "content": "Luton, Bedfordshire, United Kingdom,, June 05, 2025 (GLOBE NEWSWIRE) -- Synthetic Rope Market Overview and Forecast\r\nThe global synthetic rope market is poised for substantial growth over the next de… [+25224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Ameliorate Digital Consultancy Pvt Ltd",
-      "title": "Oilfield Chemicals Market is expected to reach USD 65 billion by 2034, driven by energy demand and sustainable innovations | Exactitude Consultancy",
-      "description": "Oilfield Chemicals Market Overview 2025-2034 Oilfield Chemicals Market Overview 2025-2034",
-      "url": "https://www.globenewswire.com/news-release/2025/06/05/3094512/0/en/Oilfield-Chemicals-Market-is-expected-to-reach-USD-65-billion-by-2034-driven-by-energy-demand-and-sustainable-innovations-Exactitude-Consultancy.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a576ded2-f738-4a7c-bbf9-189ed83b2265",
-      "publishedAt": "2025-06-05T14:05:00Z",
-      "content": "Luton, Bedfordshire, United Kingdom, June 05, 2025 (GLOBE NEWSWIRE) -- The global Oilfield Chemicals Market is entering a transformative phase, characterized by increasing energy demand, technologica… [+20798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Haotian Ma, Jinju Peng, Yang Li, Ruixue Pan, Yuner Long, Yining Zhao, Yuexia Ding, Yi Ma",
-      "title": "Antibiofilm effects of bacteriocin PCM7-4 on Listeria monocytogenes",
-      "description": "Listeria monocytogenes is a significant zoonotic pathogen capable of forming biofilms on food and other materials, representing a considerable risk to human health and animal husbandry. The use of bacteriocins as potential new antibacterial and antibiofilm re…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325109",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325109.g008&size=inline",
-      "publishedAt": "2025-06-05T14:00:00Z",
-      "content": "Abstract\r\nListeria monocytogenes is a significant zoonotic pathogen capable of forming biofilms on food and other materials, representing a considerable risk to human health and animal husbandry. The… [+34932 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Emily M. H. Woerner, Brienna L. Anderson-Coughlin, Priscila B. R. Alves, Taeilorae Levell-Young, Claire M. Barlow, Taylor Smith-Hams, Alice Volpitta, Rita Crews, Malika Brown, Marccus D. Hendricks, Rachel E. Rosenberg Goldstein",
-      "title": "Antibiotic-resistant bacteria detected in homes impacted by sewage",
-      "description": "Antibiotic-resistant (AR) bacterial infections are disproportionately experienced by Black communities in the U.S. Exposure to AR bacteria could occur when untreated sewage enters homes through sanitary sewer overflows (SSOs) or basement sewage backups (“back…",
-      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000375",
-      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000375.g003&size=inline",
-      "publishedAt": "2025-06-05T14:00:00Z",
-      "content": "Abstract\r\nAntibiotic-resistant (AR) bacterial infections are disproportionately experienced by Black communities in the U.S. Exposure to AR bacteria could occur when untreated sewage enters homes thr… [+50365 chars]"
     }
   ],
   "totalResults": 97,
