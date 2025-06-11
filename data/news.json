@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-11T02:02:37.021Z",
+  "lastUpdated": "2025-06-11T06:35:51.565Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "Salmonella outbreak sparks 1.7M egg recall amid persistent food safety concerns",
+      "description": "Salmonella outbreak linked to eggs affects seven states, with 79 reported ill and 21 hospitalized; no deaths reported. About 1.7 million eggs recalled. They were sold in nine states via Walmart, Safeway, Ralphs and other retailers. Eggs distributed Feb–May li…",
+      "url": "https://www.naturalnews.com/2025-06-10-salmonella-outbreak-sparks-egg-recall-food-safety.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Eggs-In-A-Bowl.jpg",
+      "publishedAt": "2025-06-10T06:00:00Z",
+      "content": "<ul><li>Salmonella outbreak linked to eggs affects seven states, with 79 reported ill and 21 hospitalized; no deaths reported.</li><li>About 1.7 million eggs recalled. They were sold in nine states v… [+5029 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -657,7 +670,7 @@
         "name": "New York Post"
       },
       "author": "Chris Harris",
-      "title": "Beloved NYC eatery Jacob��s Pickles shuttered over roaches, rats and sewage",
+      "title": "Beloved NYC eatery Jacob’s Pickles shuttered over roaches, rats and sewage",
       "description": "The popular eatery's location at 509 Amsterdam Avenue between 84th and 85th Streets was also cited for having an \"improper, inadequate, or unapproved\" sewage dispisal system.",
       "url": "https://nypost.com/2025/06/07/us-news/jacobs-pickles-shut-down-over-recent-health-inspection/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/newspress-collage-m04ciwukt-1749322868341.jpg?quality=75&strip=all&1749308548&w=1024",
@@ -1247,19 +1260,6 @@
       "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MjE5MDg3ODczLTE3NDkxNTY2NjQwMzI%3D&pd=0EpGlNgw&hl=en_US&send_time=1749156664&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v2%2Cns_foryou_blend_exp_25q2-v1%2Cns_foryou_rank_exp_25q2-v7%2Cns_foryou_model_exp_25q2_v2-control",
       "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
       "publishedAt": "2025-06-05T20:52:49Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?_f=app_share&pd=00fDcWsi&lang=en_US&send_time=1749156695&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_blend_exp_25q2-v6%2Cns_foryou_rank_exp_25q2-v8%2Cns_foryou_recall_exp_25q2-v2&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T20:52:02Z",
       "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
     }
   ],
