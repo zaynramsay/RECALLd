@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-06-11T12:52:20.266Z",
+  "lastUpdated": "2025-06-11T18:35:03.193Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SAP June 2025 Security Patch Day fixed critical NetWeaver bug",
+      "description": "SAP fixed a critical NetWeaver flaw that let attackers bypass authorization and escalate privileges. Patch released in June 2025 Security Patch. SAP June 2025 Security Patch addressed a critical NetWeaver vulnerability, tracked as CVE-2025-42989 (CVSS score o…",
+      "url": "https://securityaffairs.com/178851/security/sap-june-2025-security-patch-day-fixed-critical-netweaver-bug.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/05/SAP-systems.gif",
+      "publishedAt": "2025-06-10T17:31:03Z",
+      "content": "SAP June 2025 Security Patch Day fixed critical NetWeaver bug\r\n | U.S. CISA adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog\r\n | Mirai botn… [+171401 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Honey Recall Map Shows Warnings Issued to Customers in 7 States",
+      "description": "There were 2,730 units sold of each product, to various states including Colorado, Arizona, Texas, Maryland, Florida, California, and Georgia.",
+      "url": "https://www.newsweek.com/honey-recall-warnings-issued-7-states-2083326",
+      "urlToImage": "https://d.newsweek.com/en/full/2660111/honey-recall.jpg",
+      "publishedAt": "2025-06-10T14:11:22Z",
+      "content": "The Food and Drug Administration (FDA) has announced its classification of a recall of certain Comvita honey products, affecting seven states.\r\nComvita, a California-based company, recalled three of … [+2991 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ismail Gumustop, Ibrahim Genel, Ibrahim Cagri Kurt, Fatih Ortakci",
+      "title": "Comparative genomics of Lentilactobacillus buchneri reveals strain-level hyperdiversity and broad-spectrum CRISPR immunity against human and livestock gut phages",
+      "description": "This study conducted a comparative genomic investigation of 40 strains of Lentilactobacillus buchneri isolated from various environments—including fermented foods, silage, cattle rumen, and the nasopharynx—to identify species-level diversity and assess their …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325832",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325832.g009&size=inline",
+      "publishedAt": "2025-06-10T14:00:00Z",
+      "content": "Citation: Gumustop I, Genel I, Kurt IC, Ortakci F (2025) Comparative genomics of Lentilactobacillus buchneri reveals strain-level hyperdiversity and broad-spectrum CRISPR immunity against human and l… [+42514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Mary Opeyemi Adebote, Joseph Aggrey-Fynn, Paul Kojo Mensah",
+      "title": "Assessing mercury and lead pollution in the Ankobra estuary due to artisanal mining activities: Implications for water quality and aquatic life",
+      "description": "Artisanal and small-scale gold mining, “Galamsey” as it is called in Ghana, within the Ankobra estuary has impacted the water quality, fish health and other aquatic organisms. This paper presents a study investigating the concentrations of mercury and lead in…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325909",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325909.g006&size=inline",
+      "publishedAt": "2025-06-10T14:00:00Z",
+      "content": "Physicochemical parameters\r\nThe quality of water is defined by a set of general parameters, such as dissolved oxygen (DO), alkalinity, pH, hardness, conductivity, salinity, and turbidity [30]. In thi… [+14616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSOC Charlotte"
+      },
+      "author": "Cox Media Group National Content Desk",
+      "title": "Recall alert: 20.4M eggs recalled because of potential salmonella contamination",
+      "description": "Millions of dozens of eggs have been recalled because they may be contaminated with salmonella.",
+      "url": "https://www.wsoctv.com/news/trending/recall-alert-204m-eggs-recalled-because-potential-salmonella-contamination/Q3WWXKTCYNCCZAHA3UNTXLDGDM/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFDNXUCCORBBDPDIICOPVXGXJ34.jpg?auth=7cd086ac9588b8a6da972749e08cb70f96a523323e0e4e579763fcf9feccc824&width=1200&height=630&smart=true",
+      "publishedAt": "2025-06-10T13:53:14Z",
+      "content": "Millions of dozens of eggs have been recalled because they may be contaminated with salmonella. \r\nThe Food and Drug Administration announced that August Egg Company recalled 1.7 million dozen brown c… [+2389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPXI Pittsburgh"
+      },
+      "author": "Cox Media Group National Content Desk",
+      "title": "Recall alert: 20.4M eggs recalled because of potential salmonella contamination",
+      "description": "Millions of dozens of eggs have been recalled because they may be contaminated with salmonella.",
+      "url": "https://www.wpxi.com/news/trending/recall-alert-204m-eggs-recalled-because-potential-salmonella-contamination/Q3WWXKTCYNCCZAHA3UNTXLDGDM/",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFDNXUCCORBBDPDIICOPVXGXJ34.jpg?auth=7cd086ac9588b8a6da972749e08cb70f96a523323e0e4e579763fcf9feccc824&width=1200&height=630&smart=true",
+      "publishedAt": "2025-06-10T13:51:00Z",
+      "content": "Millions of dozens of eggs have been recalled because they may be contaminated with salmonella. \r\nThe Food and Drug Administration announced that August Egg Company recalled 1.7 million dozen brown c… [+2389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added RoundCube Webmail…",
+      "url": "https://securityaffairs.com/178843/hacking/u-s-cisa-adds-roundcube-erlang-erlang-flaws-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-06-10T13:34:25Z",
+      "content": "U.S. CISA adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog\r\n | Mirai botnets exploit Wazuh RCE, Akamai warned\r\n | China-linked threat actor… [+171335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Amish Origins Management, LLC - 704166 - 05/29/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amish-origins-management-llc-704166-05292025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-10T13:20:06Z",
+      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-77\r\nProduct:\r\nDrugs \r\nRecipient:\r\nAmish Origins Management, LLC\r\n1214 South Flat RoadWorland, WY82401-9539United States\r\nIssuing Office:\r\nC… [+28822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Laboratoire Druide Inc. - 705517 - 05/29/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/laboratoire-druide-inc-705517-05292025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-10T13:20:04Z",
+      "content": "Delivery Method:\r\nVIA EMAIL WITH READ RECEIPT\r\nReference #:\r\n320-25-76\r\nProduct:\r\nDrugs \r\nRecipient:\r\nLaboratoire Druide Inc.\r\n154 Oneida Ave.Pointe-ClaireQCH9R 1A8Canada\r\nIssuing Office:\r\nCenter for… [+17024 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -441,7 +558,7 @@
       "url": "https://securityaffairs.com/178772/malware/over-950k-weekly-downloads-at-risk-in-ongoing-supply-chain-attack-on-gluestack-packages.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/npm.png",
       "publishedAt": "2025-06-08T13:35:00Z",
-      "content": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48\r\n | Security Affairs newsletter Round 527 by Pierluigi Paganin… [+170795 chars]"
+      "content": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n��| SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48\r\n | Security Affairs newsletter Round 527 by Pierluigi Paganin… [+170795 chars]"
     },
     {
       "source": {
@@ -672,7 +789,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -685,7 +802,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -724,7 +841,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -737,7 +854,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -1144,123 +1261,6 @@
       "urlToImage": "https://nutritionfacts.org/app/uploads/2025/06/1-1200x675.jpg",
       "publishedAt": "2025-06-06T11:50:15Z",
       "content": "Below is an approximation of this videos audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nOchratoxin has been descr… [+7178 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Alia Shoaib",
-      "title": "Dr Pepper Recalled After Sugar Mix Up in Thousands of Cans",
-      "description": "Thousands of cases of Dr Pepper Zero Sugar have been recalled after they were mislabeled and contained the full-sugar product.",
-      "url": "https://www.newsweek.com/dr-pepper-zero-sugar-recall-thousands-cases-florida-georgia-south-carolina-fda-2081864",
-      "urlToImage": "https://d.newsweek.com/en/full/2657993/dr-pepper.jpg",
-      "publishedAt": "2025-06-06T11:49:38Z",
-      "content": "A recall has been issued for thousands of cases of Dr Pepper Zero Sugar that were mislabeled and contained the full-sugar product, according to the U.S. Food and Drug Administration (FDA).\r\nThe produ… [+2327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. Offers $10M bounty for info on RedLine malware creator and state hackers",
-      "description": "The U.S. offers up to $10M for info on state hackers linked to RedLine malware and its creator, Maxim Rudometov, tied to attacks on U.S. infrastructure. The U.S. Department of State offers a reward of up to $10 million for information nation-state actors link…",
-      "url": "https://securityaffairs.com/178712/cyber-crime/u-s-offers-10m-bounty-for-info-on-redline-malware-creator-and-state-hackers.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-8.png",
-      "publishedAt": "2025-06-06T11:12:23Z",
-      "content": "U.S. Offers $10M bounty for info on RedLine malware creator and state hackers\r\n | Play ransomware group hit 900 organizations since 2022\r\n | U.S. CISA adds Google Chromium V8 flaw to its Known Exploi… [+170317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "'It is an elephant': Ukraine's unexploded mine problem",
-      "description": "In Ukraine, overnight attacks continued into Thursday morning, resulting in 45 casualties and significant damage to civilian infrastructure, the UN has reported.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/06/ukraine-250605-unnews01.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-06-06T08:41:54Z",
-      "content": "5 June 2025 - In Ukraine, overnight attacks continued into Thursday morning, resulting in 45 casualties and significant damage to civilian infrastructure, the UN has reported. \r\nThese are the results… [+3450 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The BMJ"
-      },
-      "author": "Fujihara, S., Kobara, H., Imagawa, A.",
-      "title": "Is the green mark really recyclable?",
-      "description": "I read the paper by López-Muñoz et al 1 on ‘Life cycle assessment of routinely used endoscopic instruments and simple intervention to reduce our environmental impact’ with great interest. The green mark setting for parts that do not come into contact with the…",
-      "url": "https://gut.bmj.com/content/74/7/1192",
-      "urlToImage": "https://gut.bmj.com/sites/default/files/highwire/gutjnl/74/7.cover-source.jpg",
-      "publishedAt": "2025-06-06T07:45:37Z",
-      "content": "I read the paper by López-Muñoz et al1 on Life cycle assessment of routinely used endoscopic instruments and simple intervention to reduce our environmental impact with great interest. The green mark… [+4350 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Play ransomware group hit 900 organizations since 2022",
-      "description": "A joint advisory from the US and Australian authorities states that Play ransomware has hit approximately 900 organizations over the past three years. A joint advisory from the Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security A…",
-      "url": "https://securityaffairs.com/178702/cyber-crime/play-ransomware-group-hit-900-organizations-since-2022.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/06/image-7.png",
-      "publishedAt": "2025-06-06T07:22:22Z",
-      "content": "Play ransomware group hit 900 organizations since 2022\r\n | U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog\r\n | New versions of Chaos RAT target Windows and Linux… [+170235 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "FDA issues highest-level recall for TOMATOES contaminated with Salmonella",
-      "description": "The FDA escalated a tomato recall to its highest-risk Class I level on May 28 due to potential Salmonella contamination, warning of “serious adverse health consequences or death.” The recall affects products distributed in Georgia, North Carolina and South Ca…",
-      "url": "https://www.naturalnews.com/2025-06-06-fda-issues-highest-level-recall-tomatoes-salmonella.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Worker-in-latex-gloves-inspecting-a-red-tomato-1.jpeg",
-      "publishedAt": "2025-06-06T06:00:00Z",
-      "content": "<ul><li>The FDA escalated a tomato recall to its highest-risk Class I level on May 28 due to potential Salmonella contamination, warning of \"serious adverse health consequences or death.\" The recall … [+4646 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Lemons: A zesty superfood packed with health benefits",
-      "description": "Lemons are rich in vitamin C, antioxidants and flavonoids, offering immune support, heart health benefits, detoxification and skin enhancement. Originating in Asia, lemons spread globally via trade routes, becoming a staple in medicine and cuisine. Low in cal…",
-      "url": "https://www.naturalnews.com/2025-06-06-lemons-zesty-superfood-packed-with-health-benefits.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Sliced-Whole-Lemons-Fruit.jpg",
-      "publishedAt": "2025-06-06T06:00:00Z",
-      "content": "<ul><li>Lemons are rich in vitamin C, antioxidants and flavonoids, offering immune support, heart health benefits, detoxification and skin enhancement.</li><li>Originating in Asia, lemons spread glob… [+7676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marsdaily.com"
-      },
-      "author": null,
-      "title": "Why Elon Musk sees Mars as the only long term option for humanity",
-      "description": "Los Angeles CA (SPX) Jun 05, 2025\n\nElon Musk, the visionary behind SpaceX, Tesla, and Neuralink, is known for his bold ambitions and groundbreaking innovations. Among his most daring goals is building a human settlement on Mars. For Musk, this isn't just a fu…",
-      "url": "https://www.marsdaily.com/reports/Why_Elon_Musk_sees_Mars_as_the_only_long_term_option_for_humanity_999.html",
-      "urlToImage": "https://www.spxdaily.com/images-hg/elon-musk-spacex-mars-settlers-hg.jpg",
-      "publishedAt": "2025-06-06T03:00:09Z",
-      "content": "Why Elon Musk sees Mars as the only long term option for humanityby Clarence OxfordLos Angeles CA (SPX) Jun 05, 2025\r\nElon Musk, the visionary behind SpaceX, Tesla, and Neuralink, is known for his bo… [+7635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MTc0NjgxNTIwLTE3NDkxNzA5MDIyNTM%3D&pd=0BowdsUz&hl=en_US&send_time=1749170902&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v4",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-06T00:48:50Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
     }
   ],
   "totalResults": 97,
