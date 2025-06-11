@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-06-11T06:35:51.565Z",
+  "lastUpdated": "2025-06-11T12:52:20.266Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Nick Corbishley",
+      "title": "A New Gold Rush Is Causing (Potentially) Irreversible Damage to the Amazon Rainforest, Study Warns",
+      "description": "As the world is gripped by a new bout of gold fever that shows no sign of abating, the environmental costs are rising.",
+      "url": "https://www.nakedcapitalism.com/2025/06/a-new-wave-of-gold-fever-is-destroying-the-amazon-warns-report.html",
+      "urlToImage": "https://taschen.makaira.media/taschen/image/upload/f_webp,w_1200/v1672890894/products-live/5f8c4156950f37f00a7c247527427e4d.png",
+      "publishedAt": "2025-06-10T10:45:59Z",
+      "content": "As the world is gripped by a new bout of gold fever that shows no sign of abating, the environmental costs are rising. \r\nA few months ago, my wife and I had the fortune to catch the final day of Braz… [+18026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Mirai botnets exploit Wazuh RCE, Akamai warned",
+      "description": "Mirai botnets are exploiting CVE-2025-24016, a critical remote code execution flaw in Wazuh servers, Akamai warned. Akamai researchers warn that multiple Mirai botnets exploit the critical remote code execution vulnerability CVE-2025-24016 (CVSS score of 9.9)…",
+      "url": "https://securityaffairs.com/178830/malware/mirai-botnets-exploit-wazuh-rce-akamai-warned.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-14.png",
+      "publishedAt": "2025-06-10T10:27:45Z",
+      "content": "Mirai botnets exploit Wazuh RCE, Akamai warned\r\n | China-linked threat actor targeted +70 orgs worldwide, SentinelOne warns\r\n | DOJ moves to seize $7.74M in crypto linked to North Korean IT worker sc… [+171212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Rebekah Harding",
+      "title": "“First time I buy eggs in like 8 months”: 1.7 million eggs have been recalled over Salmonella contamination. Here’s how to know if your eggs are affected",
+      "description": "An immunologist warns shoppers about a recent Salmonella-related recall of 1.7 million eggs, sharing how they can identify affected cartons.\n\n\nWhy did the FDA recall 1.7 million eggs?\n\n\nAccording to a report by the U.S. Food and Drug Administration (FDA), Aug…",
+      "url": "https://www.dailydot.com/news/eggs-salmonella-recall/",
+      "urlToImage": "https://uploads.dailydot.com/2025/06/egg-recall-june-2025.png?auto=compress&fm=png",
+      "publishedAt": "2025-06-10T09:00:00Z",
+      "content": "An immunologist warns shoppers about a recent Salmonella-related recall of 1.7 million eggs, sharing how they can identify affected cartons.\r\nAccording to a report by the U.S. Food and Drug Administr… [+1999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Resilience"
+      },
+      "author": "Matt Simon",
+      "title": "A Poison Like No Other: Excerpt",
+      "description": "If you were to somehow instantly remove all the particles from ocean waters and sediments, they’d live on by transferring from gut to gut. Everything eats, everything gets eaten, and microplastics go along for the ride.",
+      "url": "https://www.resilience.org/stories/2025-06-10/a-poison-like-no-other-excerpt/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2025/06/960px-Snap-40-2.jpg",
+      "publishedAt": "2025-06-10T08:58:35Z",
+      "content": "Ed. note: This excerpt is taken from Pages 54 60. Chapter 2 of A Poison Like No Other, by Matt Simon, published by Island Press, and posted here with permission.\r\nEvery day, ocean life embarks on a m… [+22293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Greenpeace.org.uk"
+      },
+      "author": "Graham Thompson",
+      "title": "Water firms panicking over disposal of millions of tonnes of contaminated sewage sludge",
+      "description": "Water companies are panicking they will be left unable to dispose of millions of tonnes of sewage sludge due to tougher pollution rules, and rising concern over the contaminants sludge contains. Read the full investigation with supporting documents from Unear…",
+      "url": "https://www.greenpeace.org.uk/news/water-firms-panicking-over-disposal-of-millions-of-tonnes-of-contaminated-sewage-sludge/",
+      "urlToImage": "https://www.greenpeace.org.uk/wp-content/uploads/2024/06/sewage-outflow-scaled-1.jpeg",
+      "publishedAt": "2025-06-10T08:12:46Z",
+      "content": "Water companies are panicking they will be left unable to dispose of millions of tonnes of sewage sludge due to tougher pollution rules, and rising concern over the contaminants sludge contains.\r\nRea… [+4172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China-linked threat actor targeted +70 orgs worldwide, SentinelOne warns",
+      "description": "China-linked threat actor targeted over 70 global organizations, including governments and media, in cyber-espionage attacks from July 2024 to March 2025. In April 2025, cybersecurity firm SentinelOne warned that a China-linked threat actor, tracked as Purple…",
+      "url": "https://securityaffairs.com/178819/apt/china-linked-threat-actor-targeted-70-orgs-worldwide-sentinelone-warns.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-13.png",
+      "publishedAt": "2025-06-10T07:00:08Z",
+      "content": "China-linked threat actor targeted +70 orgs worldwide, SentinelOne warns\r\n | DOJ moves to seize $7.74M in crypto linked to North Korean IT worker scam\r\n | OpenAI bans ChatGPT accounts linked to Russi… [+171161 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -594,7 +672,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -607,7 +685,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -646,7 +724,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -659,7 +737,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -1182,84 +1260,6 @@
       "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MTc0NjgxNTIwLTE3NDkxNzA5MDIyNTM%3D&pd=0BowdsUz&hl=en_US&send_time=1749170902&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
       "publishedAt": "2025-06-06T00:48:50Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Ashleigh Fields",
-      "title": "Trump Bedminster bashes authorities after it is flagged for 18 health violations - NewsBreak",
-      "description": "Trump National Golf Club Bedminster in New Jersey is bashing local health authorities after it was flagged for 18 health violations following an early May",
-      "url": "https://www.newsbreak.com/share/4039250944758-trump-bedminster-bashes-authorities-after-it-is-flagged-for-18-health-violations?s=a2&amp;share_destination_id=MzA3ODg1MTc3LTE3NDkxNjU4NzY5OTA%3D&amp;pd=0KpqzxIY&amp;hl=en_US&amp;send_time=1749165876&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v1%2Cns_foryou_blend_exp_25q2-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/0B8kvs_11c2AqVF00",
-      "publishedAt": "2025-06-05T23:25:05Z",
-      "content": "Trump National Golf Club Bedminster in New Jersey is bashing local health authorities after it was flagged for 18 health violations following an early May inspection.\r\nThe Somerset County Department … [+1787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MzA3ODg1MTc3LTE3NDkxNjU4Mjc5OTI%3D&pd=0KpqzxIY&hl=en_US&send_time=1749165827&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v1%2Cns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v9",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T23:24:11Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Substack.com"
-      },
-      "author": "Jessica Knurick",
-      "title": "Everything This Administration Has Done to Undermine Public Health",
-      "description": "A running list of actions by the Trump administration that are actively deepening inequality, dismantling public health systems, and making Americans less healthy.",
-      "url": "https://drjessicaknurick.substack.com/p/everything-this-administration-has",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2478093a-6bc9-4ebd-a991-0c958ccf36d0_1500x999.jpeg",
-      "publishedAt": "2025-06-05T21:33:38Z",
-      "content": "Hi - I write this to cut through the noise and bring you the truth about whats happening in science and public health. If that matters to you, please consider upgrading to become a paid subscriber. E… [+7117 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Ashleigh Fields",
-      "title": "Trump Bedminster bashes authorities after it is flagged for 18 health violations - NewsBreak",
-      "description": "Trump National Golf Club Bedminster in New Jersey is bashing local health authorities after it was flagged for 18 health violations following an early May",
-      "url": "https://www.newsbreak.com/share/4039250944758-trump-bedminster-bashes-authorities-after-it-is-flagged-for-18-health-violations?s=a2&amp;share_destination_id=MzE0MDIyMjkzLTE3NDkxNTg5NjM2OTg%3D&amp;pd=0LFbXhOe&amp;hl=en_US&amp;send_time=1749158963&amp;actBtn=topBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.3.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_rank_exp_25q2-v6%2Cns_foryou_model_exp_25q2_v2-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/0B8kvs_11c2AqVF00",
-      "publishedAt": "2025-06-05T21:29:49Z",
-      "content": "Trump National Golf Club Bedminster in New Jersey is bashing local health authorities after it was flagged for 18 health violations following an early May inspection.\r\nThe Somerset County Department … [+1787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a Google Chromium V8 vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Google Chromium V8 Out-of-Bounds Read a…",
-      "url": "https://securityaffairs.com/178678/security/u-s-cisa-google-chromium-v8-flaw-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-06-05T21:03:56Z",
-      "content": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog\r\n | New versions of Chaos RAT target Windows and Linux systems\r\n | Critical flaw in Cisco ISE impacts cloud deplo… [+170176 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MjE5MDg3ODczLTE3NDkxNTY2NjQwMzI%3D&pd=0EpGlNgw&hl=en_US&send_time=1749156664&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v2%2Cns_foryou_blend_exp_25q2-v1%2Cns_foryou_rank_exp_25q2-v7%2Cns_foryou_model_exp_25q2_v2-control",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T20:52:49Z",
       "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
     }
   ],
