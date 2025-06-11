@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-06-10T18:34:32.153Z",
+  "lastUpdated": "2025-06-11T02:02:37.021Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Warning over 'dirty secret' of toxic chemicals on farmers' fields",
+      "description": "Campaigners say that farmers' fields are being contaminated by chemicals and microplastics in sewage sludge.",
+      "url": "https://www.bbc.com/news/articles/c3e5y85p488o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b52/live/8a8f0800-42c7-11f0-93dd-9f3a34381ccc.jpg",
+      "publishedAt": "2025-06-10T00:29:37Z",
+      "content": "About 3.5 million tonnes of sewage sludge, that's enough to fill nearly 900 Olympic sized swimming pools are spread of farmers fields in England and Wales each year. \r\nSuccessive governments have fai… [+10035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PEOPLE"
+      },
+      "author": "https://www.facebook.com/peoplemag",
+      "title": "Over 19,000 Cases of Dr Pepper Have Been Recalled for Containing Sugar in Cans Marked ‘Zero Sugar’",
+      "description": "The contaminated products have been shipped to three states and have a \"best by\" date of Feb. 16, 2026",
+      "url": "https://people.com/dr-pepper-recall-sugar-found-in-zero-sugar-cans-11750981",
+      "urlToImage": "https://people.com/thmb/f_HLv42LrHD48LWHGsWo4d7pumk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(954x553:956x555)/Dr-Pepper-Zero-Sugar-cans-060925-be640a89d4ae48f4b127c58329dcb9af.jpg",
+      "publishedAt": "2025-06-09T20:50:57Z",
+      "content": "<ul><li>Over 19,000 cases of Dr Pepper Zero Sugar were recalled after cans were found to contain full-sugar soda, posing health risks for those avoiding sugar</li><li>The mislabeled cans, produced in… [+2746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Chinese Academy of Sciences",
+      "title": "Soil models may improve safety of wheat amid cadmium contamination",
+      "description": "Cadmium (Cd), a toxic heavy metal, poses a growing threat to food safety through its accumulation in crops. Wheat, in particular, tends to absorb more cadmium than rice due to its higher internal transport efficiency. In China's rice–wheat rotation systems, w…",
+      "url": "https://phys.org/news/2025-06-soil-safety-wheat-cadmium-contamination.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-soil-models-improv.jpg",
+      "publishedAt": "2025-06-09T19:45:15Z",
+      "content": "Cadmium (Cd), a toxic heavy metal, poses a growing threat to food safety through its accumulation in crops. Wheat, in particular, tends to absorb more cadmium than rice due to its higher internal tra… [+4211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "DOJ moves to seize $7.74M in crypto linked to North Korean IT worker scam",
+      "description": "US seeks to seize $7.74M in crypto linked to North Korean fake IT worker schemes, per a new DOJ forfeiture complaint. The DOJ filed a civil forfeiture complaint for $7.74M in crypto tied to North Korean fake IT worker schemes linked to the indictment of North…",
+      "url": "https://securityaffairs.com/178810/cyber-crime/doj-seize-7-74m-linked-to-north-korean-it-worker-scam.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
+      "publishedAt": "2025-06-09T18:43:32Z",
+      "content": "DOJ moves to seize $7.74M in crypto linked to North Korean IT worker scam\r\n | OpenAI bans ChatGPT accounts linked to Russian, Chinese cyber ops\r\n | New Mirai botnet targets TBK DVRs by exploiting CVE… [+171084 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -605,7 +657,7 @@
         "name": "New York Post"
       },
       "author": "Chris Harris",
-      "title": "Beloved NYC eatery Jacob’s Pickles shuttered over roaches, rats and sewage",
+      "title": "Beloved NYC eatery Jacob��s Pickles shuttered over roaches, rats and sewage",
       "description": "The popular eatery's location at 509 Amsterdam Avenue between 84th and 85th Streets was also cited for having an \"improper, inadequate, or unapproved\" sewage dispisal system.",
       "url": "https://nypost.com/2025/06/07/us-news/jacobs-pickles-shut-down-over-recent-health-inspection/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/newspress-collage-m04ciwukt-1749322868341.jpg?quality=75&strip=all&1749308548&w=1024",
@@ -1209,58 +1261,6 @@
       "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
       "publishedAt": "2025-06-05T20:52:02Z",
       "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MzEwNzk3ODU5LTE3NDkxNTYyMTQ1Nzc%3D&pd=0L24ihzj&hl=en_US&send_time=1749156214&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.22.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v2%2Cns_foryou_blend_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v9",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T20:45:12Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Michael Luciano",
-      "title": "Trump Golf Course Cited for 18 Health Violations, Receives Worst Score in County - NewsBreak",
-      "description": "Bedminster's 32 out of 100 earned it the worst score out of 115 retail food establishments in Somerset County.  The post Trump Golf Course Cited for 18 Hea",
-      "url": "https://www.newsbreak.com/share/4038169922757-trump-golf-course-cited-for-18-health-violations-receives-worst-score-in-county?s=a2&share_destination_id=MjUzNDkwMDA1LTE3NDkxNTYwMTE5NzM%3D&pd=0H9cKTOf&hl=en_US&send_time=1749156011&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.21.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_rank_exp_25q2-v4",
-      "urlToImage": "https://img.particlenews.com/img/id/2pqYfw_11axYZ9s00",
-      "publishedAt": "2025-06-05T20:40:39Z",
-      "content": "AP Photo/Alex Brandon\r\nTrump National Golf Club in Bedminster has been flagged for 18 health violations.\r\nThe violations were first reported on Wednesday by Forbes, which cited an inspection report i… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New versions of Chaos RAT target Windows and Linux systems",
-      "description": "Acronis researchers reported that new Chaos RAT variants were employed in 2025 attacks against Linux and Windows systems. Acronis TRU researchers discovered new Chaos RAT variants targeting Linux and Windows in recent attacks. Originally seen in 2022, Chaos R…",
-      "url": "https://securityaffairs.com/178670/malware/new-versions-of-chaos-rat-target-windows-and-linux-systems.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-7.png",
-      "publishedAt": "2025-06-05T20:29:16Z",
-      "content": "New versions of Chaos RAT target Windows and Linux systems\r\n | Critical flaw in Cisco ISE impacts cloud deployments on AWS, Microsoft Azure, and Oracle Cloud Infrastructure\r\n | Ukraines military inte… [+170086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Ashleigh Fields",
-      "title": "Trump Bedminster bashes authorities after it is flagged for 18 health violations - NewsBreak",
-      "description": "Trump National Golf Club Bedminster in New Jersey is bashing local health authorities after it was flagged for 18 health violations following an early May",
-      "url": "https://www.newsbreak.com/share/4039250944758-trump-bedminster-bashes-authorities-after-it-is-flagged-for-18-health-violations?s=a2&amp;share_destination_id=MjE4OTk3MDExLTE3NDkxNTExODY5MTA%3D&amp;pd=0Eot7rKF&amp;hl=en_US&amp;send_time=1749151186&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.22.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_model_exp_25q2_v2-control",
-      "urlToImage": "https://img.particlenews.com/img/id/0B8kvs_11c2AqVF00",
-      "publishedAt": "2025-06-05T19:20:16Z",
-      "content": "Trump National Golf Club Bedminster in New Jersey is bashing local health authorities after it was flagged for 18 health violations following an early May inspection.\r\nThe Somerset County Department … [+1787 chars]"
     }
   ],
   "totalResults": 97,
