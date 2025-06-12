@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-06-11T18:35:03.193Z",
+  "lastUpdated": "2025-06-12T02:00:59.804Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "P. East Trading Corp Distributors Issues Alert on Uneviscerated 'Salted Smoked Split Herring’ Due to Potential Clostridium Botulinum Contamination",
+      "description": "P. East Trading Corp. of Bronx, NY is recalling Salted Smoked Split Herring because the product was found to be over 5\" in length and uneviscerated, as such having potential to be contaminated with Clostridium botulinum, a bacterium which can cause life-threa…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/p-east-trading-corp-distributors-issues-alert-uneviscerated-salted-smoked-split-herring-due",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-10T21:12:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJune 10, 2025\r\nFDA Publish Date:\r\nJune 10, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Description\r\nPot… [+4971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehillstimes.in"
+      },
+      "author": "The Hills Times",
+      "title": "Training programme on mushroom cultivation and food processing held at Manja",
+      "description": "HT Bureau DIPHU, June 10: A one-day training-cum-awareness programme on mushroom cultivation and preparation of pickles and ginger-based products was held on Tuesday at the Assam Hills Small Industries Development Corporation Ltd. (AHSIDC) Industrial Complex,…",
+      "url": "https://thehillstimes.in/assam/training-programme-on-mushroom-cultivation-and-food-processing-held-at-manja",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/06/Training-programme.jpeg",
+      "publishedAt": "2025-06-10T20:55:00Z",
+      "content": "HT Bureau\r\nDIPHU, June 10: A one-day training-cum-awareness programme on mushroom cultivation and preparation of pickles and ginger-based products was held on Tuesday at the Assam Hills Small Industr… [+2084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehillstimes.in"
+      },
+      "author": "The Hills Times",
+      "title": "Training on cotton cultivation held at Bakalia ADO Circle",
+      "description": "HT Bureau DIPHU, June 10: A one-day training programme on cotton crop cultivation, focusing on LRA 5166 and Supriya varieties, was held on Tuesday at Mirdupathar/Sunpura under the Bakalia Agriculture Development Officer (ADO) Circle. The programme was conduct…",
+      "url": "https://thehillstimes.in/assam/training-on-cotton-cultivation-held-at-bakalia-ado-circle",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/06/Training-on-cotton.jpeg",
+      "publishedAt": "2025-06-10T20:45:00Z",
+      "content": "HT Bureau\r\nDIPHU, June 10: A one-day training programme on cotton crop cultivation, focusing on LRA 5166 and Supriya varieties, was held on Tuesday at Mirdupathar/Sunpura under the Bakalia Agricultur… [+1896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports",
+      "description": "Hackers breached Texas DOT (TxDOT), stealing 300,000 crash reports with personal data from its Crash Records Information System (CRIS). Threat actors compromised the Crash Records Information System (CRIS) from the Texas Department of Transportation (TxDOT) a…",
+      "url": "https://securityaffairs.com/178861/data-breach/txdot-data-breach-exposes-300000-crash-reports.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-15.png",
+      "publishedAt": "2025-06-10T20:14:59Z",
+      "content": "Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports\r\n | SAP June 2025 Security Patch Day fixed critical NetWeaver bug\r\n | U.S. CISA adds RoundCube Webmail and Erlang … [+171490 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Vonia Vieira, Nick Sas, and Doug Dingwall",
+      "title": "'They think we're pigs': Timor-Leste's rubbish dump is making people sick",
+      "description": "Residents living just outside Dili say they're frequently ill with coughs, fevers and stomach pain. Health authorities say a neighbouring rubbish dump is to blame.",
+      "url": "https://www.abc.net.au/news/2025-06-11/timor-leste-rubbish-dump-tibar-public-health/105393920",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/22db1e0353b88b07e16252dda5f67ebb?impolicy=wcms_watermark_news&cropH=810&cropW=1440&xPos=0&yPos=136&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-06-10T18:59:18Z",
+      "content": "The smoke from burning waste gets so thick at Delfina Martin's home in Timor-Leste, she and her children struggle to breathe.\r\nBut she says it's not the only way the country's biggest rubbish dump on… [+5737 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -242,7 +307,7 @@
       },
       "author": "Chinese Academy of Sciences",
       "title": "Soil models may improve safety of wheat amid cadmium contamination",
-      "description": "Cadmium (Cd), a toxic heavy metal, poses a growing threat to food safety through its accumulation in crops. Wheat, in particular, tends to absorb more cadmium than rice due to its higher internal transport efficiency. In China's rice–wheat rotation systems, w…",
+      "description": "Cadmium (Cd), a toxic heavy metal, poses a growing threat to food safety through its accumulation in crops. Wheat, in particular, tends to absorb more cadmium than rice due to its higher internal transport efficiency. In China's rice–wheat rotation systems, w��",
       "url": "https://phys.org/news/2025-06-soil-safety-wheat-cadmium-contamination.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-soil-models-improv.jpg",
       "publishedAt": "2025-06-09T19:45:15Z",
@@ -558,7 +623,7 @@
       "url": "https://securityaffairs.com/178772/malware/over-950k-weekly-downloads-at-risk-in-ongoing-supply-chain-attack-on-gluestack-packages.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/npm.png",
       "publishedAt": "2025-06-08T13:35:00Z",
-      "content": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n��| SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48\r\n | Security Affairs newsletter Round 527 by Pierluigi Paganin… [+170795 chars]"
+      "content": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48\r\n | Security Affairs newsletter Round 527 by Pierluigi Paganin… [+170795 chars]"
     },
     {
       "source": {
@@ -789,7 +854,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -802,7 +867,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -841,7 +906,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -854,7 +919,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -1196,71 +1261,6 @@
       "urlToImage": "https://biztoc.com/cdn/942e5feb2a7d8f51_s.webp",
       "publishedAt": "2025-06-06T14:48:23Z",
       "content": "Voice is AI-generated. Inconsistencies may occur.Kroger has announced recalls of multiple products in May, citing concerns including potential salmonella contamination to manufacturing defects.The pr… [+146 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Alia Shoaib",
-      "title": "Kroger Food Recall Update: Full List of Products Impacted",
-      "description": "Various food, kitchen items and kids' jewelry products were recalled from Kroger stores in May.",
-      "url": "https://www.newsweek.com/kroger-food-recall-update-list-2081963",
-      "urlToImage": "https://d.newsweek.com/en/full/2658162/kroger.jpg",
-      "publishedAt": "2025-06-06T14:45:19Z",
-      "content": "Kroger has announced recalls of multiple products in May, citing concerns including potential salmonella contamination to manufacturing defects.\r\nThe products range from food to kitchen items and kid… [+2650 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Rachel A. Hohn, Khalil P. Abusaba, Erin N. Bray, Scott C. Hauswirth, Byran C. Fuhrmann, Marc W. Beutel, Carl H. Lamborg, Robert P. Mason, Aurthur R. Flegal, Priya M. Ganguli",
-      "title": "Ongoing mercury contamination downstream from the former New Idria Mercury Mine: Southern diablo range of the California coast ranges",
-      "description": "California’s mining legacy continues to threaten water quality and ecosystem health throughout the state. This study focuses on mercury (Hg) releases from the former New Idria Mercury Mine, which was the second largest historic Hg producer in North America. S…",
-      "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000328",
-      "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000328.g007&size=inline",
-      "publishedAt": "2025-06-06T14:00:00Z",
-      "content": "Recent data compared to measurements made over 25 years ago confirm ongoing AMD (Section 5.1) and Hg (Section 5.2) discharges to San Carlos Creek.5.1. Acid mine drainage and the San Carlos Creek mixi… [+13524 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Rui Li, Boris Strilic, Young-June Jin, Jingchen Shao, Yundong Peng, Lei Wang, Qi Quan, Zhiyong Wang, Johannes Graumann, J. Silvio Gutkind, Nina Wettschureck, Stefan Offermanns",
-      "title": "The tumor suppressor FAT1 controls YAP/TAZ protein degradation and tumor cell proliferation through E3 ligase MIB2",
-      "description": "FAT1 is a tumor suppressor gene encoding the protocadherin FAT1, which has been found to be mutated in different types of human cancers with the highest frequency in head and neck squamous cell carcinoma (HNSCC). However, through which mechanisms mutations of…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325535",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325535.g007&size=inline",
-      "publishedAt": "2025-06-06T14:00:00Z",
-      "content": "Citation: Li R, Strilic B, Jin Y-J, Shao J, Peng Y, Wang L, et al. (2025) The tumor suppressor FAT1 controls YAP/TAZ protein degradation and tumor cell proliferation through E3 ligase MIB2. PLoS One … [+47388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Geoff Beattie, Professor of Psychology, Edge Hill University",
-      "title": "Why the Musk and Trump relationship is breaking down – a psychologist explains",
-      "description": "As the Musk v Trump feud steps up a level there are classic signs from a psychological point of view of why they are falling out.",
-      "url": "https://theconversation.com/why-the-musk-and-trump-relationship-is-breaking-down-a-psychologist-explains-258213",
-      "urlToImage": "https://images.theconversation.com/files/672588/original/file-20250605-62-rbfac6.jpg?ixlib=rb-4.1.0&rect=0%2C126%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-06-06T12:07:53Z",
-      "content": "It is not a good break-up. These were always two big beasts used to getting their own way. Two alpha males, if you like the evolutionary metaphor, trying to get along. And now the Donald Trump and El… [+6416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutritionfacts.org"
-      },
-      "author": "Michael Greger M.D. FACLM",
-      "title": "Friday Favorites: Should We Be Concerned About Ochratoxin and Aflatoxin?",
-      "description": "The overall cost-benefit ratio for mycotoxins depends on which food is contaminated. Is “toxic mold syndrome” real? And what do we do about toxic mold contamination of food?",
-      "url": "https://nutritionfacts.org/video/friday-favorites-should-we-be-concerned-about-ochratoxin-and-aflatoxin/",
-      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/06/1-1200x675.jpg",
-      "publishedAt": "2025-06-06T11:50:15Z",
-      "content": "Below is an approximation of this videos audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nOchratoxin has been descr… [+7178 chars]"
     }
   ],
   "totalResults": 97,
