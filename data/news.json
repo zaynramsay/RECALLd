@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-06-12T06:36:09.075Z",
+  "lastUpdated": "2025-06-12T12:51:42.034Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Over 80,000 servers hit as Roundcube RCE bug gets rapidly exploited",
+      "description": "A critical remote code execution (RCE) vulnerability in Roundcube was exploited days after patch, impacting over 80,000 servers. Threat actors exploited a critical remote code execution (RCE) flaw in Roundcube, tracked as CVE-2025-49113, just days after the p…",
+      "url": "https://securityaffairs.com/178887/hacking/over-80000-servers-hit-as-roundcube-rce-bug-gets-rapidly-exploited.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/roundcube.jpeg",
+      "publishedAt": "2025-06-11T11:39:54Z",
+      "content": "Over 80,000 servers hit as Roundcube RCE bug gets rapidly exploited\r\n | A flaw could allow recovery of the phone number associated with any Google account\r\n | Texas Department of Transportation (TxDO… [+171649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mindbodygreen.com"
+      },
+      "author": "https://www.facebook.com/AllAmericanRestorationTM/",
+      "title": "Indoor Air Quality Goes Beyond Just Using A Filter—Here's What To Know",
+      "description": "Your HVAC might be trying to tell you something.",
+      "url": "https://www.mindbodygreen.com/articles/is-mold-hiding-in-your-vents-and-air-ducts-heres-what-to-know",
+      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/iul4y5zt6m3hs11k0.jpeg",
+      "publishedAt": "2025-06-11T10:04:00Z",
+      "content": "If youve ever caught a musty smell when the AC kicks on or wondered why your allergies flare up indoors, your HVAC system, including the air vents and ducts, might be trying to tell you something. Hi… [+15525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ahouseinthehills.com"
+      },
+      "author": "Ashley Reynolds",
+      "title": "How to Maintain a Safe Household With Proper Medical Waste Disposal",
+      "description": "In an age of increasing home-based care and self-medication, more households are dealing with medical waste than ever before. Items like needles, lancets, blood-soiled dressings, and expired medications often end up in household trash, which trash services do…",
+      "url": "https://ahouseinthehills.com/how-to-maintain-a-safe-household-with-proper-medical-waste-disposal/",
+      "urlToImage": "https://ahouseinthehills.com/wp-content/uploads/2025/06/a-photograph-of-a-heavily-overflowing-ki_2ZNAWhTkRJ-10WaGa0H8Yw_s0NCl3cqSrelLi3sTA6TJA.png",
+      "publishedAt": "2025-06-11T09:54:08Z",
+      "content": "In an age of increasing home-based care and self-medication, more households are dealing with medical waste than ever before. Items like needles, lancets, blood-soiled dressings, and expired medicati… [+7669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Green Solvents Market Research 2025-2035: Increasing Applications in Emerging Markets and Industries Driving the Market to Surpass $5.5 Billion by 2035",
+      "description": "Growth is seen across diverse applications from paints to pharmaceuticals, though challenges like high costs and limited performance exist. Emerging sectors, regional demand in Asia-Pacific, and competitive innovations boost market potential. Explore trends a…",
+      "url": "https://www.globenewswire.com/news-release/2025/06/11/3097346/28124/en/Green-Solvents-Market-Research-2025-2035-Increasing-Applications-in-Emerging-Markets-and-Industries-Driving-the-Market-to-Surpass-5-5-Billion-by-2035.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-06-11T08:48:00Z",
+      "content": "Dublin, June 11, 2025 (GLOBE NEWSWIRE) -- The \"Green Solvents Market Research Report 2025-2035\" has been added to ResearchAndMarkets.com's offering.\r\nThe Green Solvents market accounted for USD 2.2 B… [+8585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Sowmya Ramasubramanian, Sakshi Sadashiv",
+      "title": "Mint Explainer: What does Maharashtra FDA's crackdown on Zepto, Blinkit mean for quick commerce?",
+      "description": "Experts say that quick commerce platforms have scaled rapidly without proportionate investment in backend food safety protocols. When platforms fail on hygiene, stock accuracy, or seller experience, it threatens the whole model.",
+      "url": "https://www.livemint.com/companies/start-ups/explainer-fda-crackdown-on-zepto-blinkit-quick-commerce-q-commerce-food-hygeine-food-safety-11749623937374.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/11/1600x900/INDIA-QUICK-COMMERCE-GROWTH-0_1749626152393_1749626560402.JPG",
+      "publishedAt": "2025-06-11T08:13:52Z",
+      "content": "Bengaluru/New Delhi: In a major regulatory sweep, the Maharashtra Food and Drug Administration (FDA) has taken action against two major playersZepto and Blinkitfor serious lapses in food safety and h… [+7243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A flaw could allow recovery of the phone number associated with any Google account",
+      "description": "A vulnerability could allow recovery of the phone number associated with a Google account by carrying out a brute force attack. The security researcher who goes online with the moniker “brutecat” discovered that it is possible to brute force the phone number …",
+      "url": "https://securityaffairs.com/178871/hacking/a-flaw-could-allow-recovery-of-the-phone-number-associated-with-any-google-account.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/08/google-logo.png",
+      "publishedAt": "2025-06-11T07:05:44Z",
+      "content": "A flaw could allow recovery of the phone number associated with any Google account\r\n | Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports\r\n | SAP June 2025 Security … [+171577 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -906,7 +984,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -919,7 +997,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -958,7 +1036,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -971,7 +1049,7 @@
       "author": "Erin Keller",
       "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
       "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
+      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
@@ -1196,84 +1274,6 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/684351cc1900002bc52702bc.jpeg?cache=ELeF2Jzem4&ops=1200_630",
       "publishedAt": "2025-06-06T21:24:29Z",
       "content": "President Donald Trumps National Golf Club in Bedminster, New Jersey is lashing out at the local health department that gave them the lowest county inspection score in May. \r\nNever before have we wit… [+2897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Church & Dwight Co., Inc. Issues Voluntary Nationwide Recall of Zicam® Cold Remedy Nasal Swabs, Zicam® Nasal AllClear Swabs, and Orajel™ Baby Teething Swabs Due to Microbial Contamination",
-      "description": "Church & Dwight Co., Inc. is voluntarily recalling all lots within expiry of Zicam® Cold Remedy Nasal Swabs, Zicam® Nasal AllClear Swabs, and Orajel™ Baby Teething Swabs to the consumer level.",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/church-dwight-co-inc-issues-voluntary-nationwide-recall-zicamr-cold-remedy-nasal-swabs-zicamr-nasal",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-06-06T21:00:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJune 06, 2025\r\nFDA Publish Date:\r\nJune 06, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nCompany Name:\r\nChurch &amp; Dwight Co… [+2880 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WABC-TV"
-      },
-      "author": null,
-      "title": "Popular Upper West Side restaurant Jacob's Pickles shut down by NYC health department",
-      "description": "Jacob's Pickles, the popular Upper West Side eatery known for southern comfort classics, has been shut down by the New York City Department of Health.",
-      "url": "https://abc7ny.com/post/popular-upper-west-side-restaurant-jacobs-pickles-shut-down-nyc-health-department/16678127/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/14333491_2024STOCKDevelopingStoryimg.jpg?w=1600",
-      "publishedAt": "2025-06-06T20:35:11Z",
-      "content": "UPPER WEST SIDE, Manhattan (WABC) -- Jacob's Pickles, the popular Upper West Side eatery known for southern comfort classics, was shut down this week by the New York City Department of Health.\r\nThe h… [+1753 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Popular Aldi snack recalled due to potential ‘life-threatening’ allergen",
-      "description": "The recalled snack was sold at Aldi stores in 13 US states",
-      "url": "https://www.the-independent.com/life-style/aldi-churro-bites-recall-allergen-milk-b2765385.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/30/18/57/GettyImages-2213107781.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-06-06T20:10:16Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3346 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Russia-linked threat actors targets Ukraine with PathWiper wiper",
-      "description": "A Russia-linked threat actor targeted a critical infrastructure organization in Ukraine with a new destructive malware dubbed PathWiper. Russia-linked threat actor targeted Ukraine’s critical infrastructure with a new wiper named PathWiper. Cisco Talos resear…",
-      "url": "https://securityaffairs.com/178726/apt/russia-linked-threat-actors-targets-ukraine-with-pathwiper-wiper.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/02/Ukraine.jpg",
-      "publishedAt": "2025-06-06T18:30:42Z",
-      "content": "Russia-linked threat actors targets Ukraine with PathWiper wiper\r\n | U.S. Offers $10M bounty for info on RedLine malware creator and state hackers\r\n | Play ransomware group hit 900 organizations sinc… [+170386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crooksandliars.com"
-      },
-      "author": "Conover Kennard",
-      "title": "Trump’s Golf Club Flagged For Health Violations, Lowest Grade In The County",
-      "description": "Donald Trump’s New Jersey golf club in Bedminster, N.J., received a shocking 32 out of 100 health inspection score in May, the lowest grade in Somerset County, according to a Forbes report that cited public documents. \nThe appalling grade happened after the c…",
-      "url": "https://crooksandliars.com/2025/06/trump-s-golf-club-flagged-health",
-      "urlToImage": "https://crooksandliars.com/files/embeds/2025/06/65747.jpg",
-      "publishedAt": "2025-06-06T16:49:06Z",
-      "content": "Donald Trumps New Jersey golf club in Bedminster, N.J., received a shocking 32 out of 100 health inspection score in May, the lowest grade in Somerset County, according to a Forbesreport that cited p… [+2171 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Corin Cesaric",
-      "title": "This Is How Long Eggs Last in the Fridge",
-      "description": "An expert weighs in on the shelf life of eggs.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/this-is-how-long-eggs-last-in-the-fridge/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/454f63b65202d17dc67603f7bf051915e6f1a389/hub/2022/09/16/d9511990-ea04-4908-9198-faa0aeeb4c82/gettyimages-1308706741.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-06-06T16:17:00Z",
-      "content": "Although eggs have been a common kitchen staple since the dawn of time, you may not know everything about this protein-packed ingredient, including how long they last in the fridge.\r\nAccording to a C… [+4795 chars]"
     }
   ],
   "totalResults": 98,
