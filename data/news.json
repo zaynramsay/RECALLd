@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-06-13T06:35:54.830Z",
+  "lastUpdated": "2025-06-13T12:50:49.597Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SinoTrack GPS device flaws allow remote vehicle control and location tracking",
+      "description": "Two vulnerabilities in SinoTrack GPS devices can allow remote vehicle control and location tracking by attackers, US CISA warns. U.S. CISA warns of two vulnerabilities in SinoTrack GPS devices that remote attackers can exploit to access a vehicle’s device pro…",
+      "url": "https://securityaffairs.com/178922/security/sinotrack-gps-device-flaws-allow-remote-vehicle-control-and-location-tracking.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-06-12T11:45:43Z",
+      "content": "SinoTrack GPS device flaws allow remote vehicle control and location tracking\r\n | U.S. CISA adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog\r\n | Exposed eyes: 40,000 securi… [+171986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Longreads.com"
+      },
+      "author": "Longreads",
+      "title": "There’s Gold in the Hills",
+      "description": "In the wide, quiet spaces of BLM land, I heard echoes of a past we’ve buried—and a future we still might save.",
+      "url": "http://longreads.com/2025/06/12/blm-land-enduring-wild-josh-jackson/",
+      "urlToImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2025/06/Enduring-Wild-Josh-Jackson-Excerpt-1.png?fit=2400%2C1400&ssl=1",
+      "publishedAt": "2025-06-12T10:00:00Z",
+      "content": "For 15 years, Longreads has published and curated the best longform writing on the weband we wouldnt exist without dedicated readers like you. Give today and ensure that quality journalism continues … [+32538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added ASUS RT-AX55 devices, Craft CMS, and ConnectWise S…",
+      "url": "https://securityaffairs.com/178923/security/u-s-cisa-adds-wazuh-and-webdav-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-06-12T09:17:01Z",
+      "content": "U.S. CISA adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog\r\n | Exposed eyes: 40,000 security cameras vulnerable to remote hacking\r\n | Operation Secure: INTERPOL dismantles … [+171904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Exposed eyes: 40,000 security cameras vulnerable to remote hacking",
+      "description": "Over 40,000 internet-exposed security cameras worldwide are vulnerable to remote hacking, posing serious privacy and security risks. Bitsight warns that over 40,000 security cameras worldwide are exposed to remote hacking due to unsecured HTTP or RTSP (Real-T…",
+      "url": "https://securityaffairs.com/178908/iot/40000-security-cameras-remote-hacking.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-18.png",
+      "publishedAt": "2025-06-12T07:37:09Z",
+      "content": "Exposed eyes: 40,000 security cameras vulnerable to remote hacking\r\n | Operation Secure: INTERPOL dismantles 20,000+ malicious IPs in major cybercrime crackdown\r\n | Over 80,000 servers hit as Roundcu… [+171814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thechronicle.com.gh"
+      },
+      "author": "admin",
+      "title": "FDA To Vendors: Stop Selling Leftover Food",
+      "description": "The Food and Drugs Authority (FDA) on Wednesday urged street food vendors to refrain from reselling leftover food to reduce the incidence of food poisoning and promote public safety. It said the practice of repackaging leftover food for sale could expose cons…",
+      "url": "https://thechronicle.com.gh/fda-to-vendors-stop-selling-leftover-food/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2022/12/jpg_20221219_091515_0000.jpg",
+      "publishedAt": "2025-06-12T07:17:09Z",
+      "content": "The Food and Drugs Authority (FDA) on Wednesday urged street food vendors to refrain from reselling leftover food to reduce the incidence of food poisoning and promote public safety.\r\nIt said the pra… [+2839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Something more toxic than gators is hiding in the swamps",
+      "description": "Mercury contamination is surfacing as a serious concern in parts of Georgia and South Carolina, particularly in regions like the Okefenokee Swamp. University of Georgia researchers found alarmingly high levels of the neurotoxic metal in alligators, especially…",
+      "url": "https://www.sciencedaily.com/releases/2025/06/250612031558.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-06-12T07:15:58Z",
+      "content": "New research from the University of Georgia's Odum School of Ecology and Marine Extension and Georgia Sea Grant suggests there may be elevated levels of mercury in Georgia and South Carolina waters.I… [+4826 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Drug-resistant Salmonella in recalled salami sickens dozens across Canada; hidden threat in everyday meats and how to stay safe",
+      "description": "A drug-resistant Salmonella outbreak is reported in Canada. Fifty-seven people are sick after eating recalled salami. Alberta has forty-four cases and Ontario has thirteen. Seven people needed hospital care. The CFIA recalled Rea Genoa and Bona Mild Genova sa…",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/health-emergency-drug-resistant-salmonella-in-recalled-salami-sickens-dozens-across-canada-health-officials-warn-of-hidden-threat-in-everyday-meats/articleshow/121795882.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121795878,width-1200,height-630,imgsize-41364,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-12T06:40:12Z",
+      "content": "In a growing public health scare, 57 people, 44 in Alberta and 13 in Ontario, have fallen ill with a drug-resistant strain of Salmonella after eating Genoa and Genova salami recalled early this month… [+1709 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -305,19 +396,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Bell peppers: A colorful superfood for vibrant health",
-      "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
-      "url": "https://www.naturalnews.com/2025-06-11-bell-peppers-colorful-superfood-for-vibrant-health.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Pepper-Background-Bell-Bright-Bulgarian-Chilli-Close.jpg",
-      "publishedAt": "2025-06-11T06:00:00Z",
-      "content": "<ul><li>Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function.</li><li>Red peppers (fully ripened) are sweet… [+7131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Ramon Tomey",
       "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
       "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
@@ -325,6 +403,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
       "publishedAt": "2025-06-11T06:00:00Z",
       "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Bell peppers: A colorful superfood for vibrant health",
+      "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
+      "url": "https://www.naturalnews.com/2025-06-11-bell-peppers-colorful-superfood-for-vibrant-health.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Pepper-Background-Bell-Bright-Bulgarian-Chilli-Close.jpg",
+      "publishedAt": "2025-06-11T06:00:00Z",
+      "content": "<ul><li>Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function.</li><li>Red peppers (fully ripened) are sweet… [+7131 chars]"
     },
     {
       "source": {
@@ -1196,86 +1287,8 @@
       "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
       "publishedAt": "2025-06-07T20:27:59Z",
       "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Erin Keller",
-      "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
-      "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=MjQ5MTUyMDg4LTE3NDkzOTA4Mjk5MDg%3D&pd=0GrPq4Sm&hl=en_US&send_time=1749390829&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v2%2Cns_foryou_blend_exp_25q2-v4",
-      "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
-      "publishedAt": "2025-06-07T20:27:59Z",
-      "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Erin Keller",
-      "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
-      "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=05WMj7ZQ&lang=en_US&send_time=1749392489&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v3%2Cns_foryou_blend_exp_25q2-v5%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v7&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
-      "publishedAt": "2025-06-07T20:27:59Z",
-      "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Erin Keller",
-      "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
-      "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a2&share_destination_id=NTIyMDA1NzctMTc0OTQwMTMyMTM3OQ%3D%3D&pd=03X1kn8N&hl=en_US&send_time=1749401321&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
-      "publishedAt": "2025-06-07T20:27:59Z",
-      "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Erin Keller",
-      "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
-      "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1749331959&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.23.0.48%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-v9%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-v6&s=i16",
-      "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
-      "publishedAt": "2025-06-07T20:27:59Z",
-      "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Erin Keller",
-      "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
-      "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?_f=app_share&pd=02jZmatU&lang=en_US&send_time=1749379858&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.21.0.32%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-v7%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v7&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
-      "publishedAt": "2025-06-07T20:27:59Z",
-      "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Erin Keller",
-      "title": "Trump National Golf Club in Bedminster responds after receiving devastating health department grade - NewsBreak",
-      "description": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. An inspector from the Somerset Cou",
-      "url": "https://www.newsbreak.com/share/4042251642604-trump-national-golf-club-in-bedminster-responds-after-receiving-devastating-health-department-grade?s=a7&share_destination_id=Njc1MTA5NDktMTc0OTQwMjY0NzI0NQ%3D%3D&pd=04ZGgHsy&hl=en_US&send_time=1749402647&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.23.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v6%2Cns_foryou_recall_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/2zYiLi_11f3fNDn00",
-      "publishedAt": "2025-06-07T20:27:59Z",
-      "content": "The general manager of the Trump National Golf Club Bedminster claims a bad health inspection was politically motivated. \r\nAn inspector from the Somerset County Department of Health gave the private … [+2496 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 99,
   "filteredCount": 0
 }
