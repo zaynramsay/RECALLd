@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-06-14T12:46:09.986Z",
+  "lastUpdated": "2025-06-14T18:30:41.275Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Laiken Neumann",
+      "title": "“Tore my stomach up”: Former supplier alleges Popeyes sold “unsafe” chicken stored in residential garages",
+      "description": "Beloved chicken chain Popeyes is currently embroiled in a lawsuit over the supposed unsafe storage of raw chicken. It includes allegations that the meat was kept in unrefrigerated residential garages.\n\n\nPopeyes' allegedly unsafe storage of raw chicken\n\n\nADP F…",
+      "url": "https://www.dailydot.com/news/popeyes-unsafe-chicken-lawsuit/",
+      "urlToImage": "https://uploads.dailydot.com/2025/06/popeyes-lawsuit-unsafe-chicken.png?auto=compress&fit=scale&fm=png&w=2000&h=1000",
+      "publishedAt": "2025-06-13T18:00:00Z",
+      "content": "Beloved chicken chain Popeyes is currently embroiled in a lawsuit over the supposed unsafe storage of raw chicken. It includes allegations that the meat was kept in unrefrigerated residential garages… [+4163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Urgent dried fruit recall in 19 states over serious health risk",
+      "description": "The recalled product contained an undeclared allergen",
+      "url": "https://www.the-independent.com/life-style/dried-fruit-recall-food-additives-b2769789.html",
+      "urlToImage": "https://static.the-independent.com/2025/06/13/17/56/iStock-542330328.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-06-13T17:55:56Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Paraguay Suffered Data Breach: 7.4 Million Citizen Records Leaked on Dark Web",
+      "description": "Resecurity researchers found 7.4 million records containing personally identifiable information (PII) of Paraguay citizens on the dark web. Resecurity has identified 7.4 million records containing personally identifiable information (PII) of Paraguayan citize…",
+      "url": "https://securityaffairs.com/178970/data-breach/paraguay-suffered-data-breach-7-4-million-citizen-records-leaked-on-dark-web.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/Paraguay.jpg",
+      "publishedAt": "2025-06-13T17:35:37Z",
+      "content": "Paraguay Suffered Data Breach: 7.4 Million Citizen Records Leaked on Dark Web\r\n | Apple confirmed that Messages app flaw was actively exploited in the wild\r\n | Trend Micro fixes critical bugs in Apex… [+172315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SoraNews24"
+      },
+      "author": "Master Blaster",
+      "title": "Is it OK to drink bottled water after the expiration date in Japan?",
+      "description": "The answer may not surprise you but the reason will. Let’s say you’re at home, going through your disaster preparedness kit, and you find a bottle of spring water you bought a long time ago in case of emergency. Checking by the cap, you see that the expiry da…",
+      "url": "https://soranews24.com/2025/06/14/is-it-ok-to-drink-bottled-water-after-the-expiration-date-in-japan/",
+      "urlToImage": "https://soranews24.com/wp-content/uploads/sites/3/2025/06/Photo-2025-06-11-17-12-37-rotated.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2025-06-13T17:30:07Z",
+      "content": "The answer may not surprise you but the reason will.\r\nLet’s say you’re at home, going through your disaster preparedness kit, and you find a bottle of spring water you bought a long time ago in case … [+6316 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Merca20.com"
+      },
+      "author": "Bibiana Palacios",
+      "title": "Bornstein Seafoods shrimp recalled due to potential risk",
+      "description": "Bornstein Seafoods Shrimp has been recalled due to possible contamination with a bacteria that can cause serious health problems",
+      "url": "https://www.merca20.com/bornstein-seafoods-shrimp-recalled-due-to-potential-risk/",
+      "urlToImage": "https://files.merca20.com/uploads/2025/06/Bornstein-Seafoods-shrimp-recalled-due-to-potential-risk-.jpg",
+      "publishedAt": "2025-06-13T17:06:32Z",
+      "content": "The U.S. Food and Drug Administration (FDA) has announced the recall of over 44,000 pounds of Bornstein Seafoods shrimp due to potential contamination with a bacterium that can cause severe health pr… [+4608 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Theo Burman",
+      "title": "Map Shows US States Most Likely to Survive Nuclear War",
+      "description": "The map is based on a hypothetical strike that targets nuclear silo sites in Montana, North Dakota, and Nebraska.",
+      "url": "https://www.newsweek.com/us-states-survive-nuclear-war-2085128",
+      "urlToImage": "https://d.newsweek.com/en/full/2535894/nuclear-map.png",
+      "publishedAt": "2025-06-13T15:32:52Z",
+      "content": "With nuclear tensions rising due to the conflict between Israel and Iran, Newsweek has analyzed maps of what a nuclear war would look like if the U.S. were targeted.\r\nIsrael launched a wave of strike… [+3048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Thea L. Mink, Allison P. Salinger, Naomi Francis, Becky Batagol, Kerrie Burge, Noor Ilhamsyah, Losalini Malumu, Liza Marzaman, Michaela F. Prescott, Nur Intan Putri, Sheela S. Sinharoy",
+      "title": "Who participates in ‘participatory design’ of WASH infrastructure: A mixed-methods process evaluation",
+      "description": "Inclusive participation is critical for community-based water, sanitation and hygiene (WASH) interventions, especially in complex environments such as urban informal settlements. We conducted a mixed-methods, theory-driven process evaluation to evaluate parti…",
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003430",
+      "urlToImage": "https://opengraph.plos.org/doi/10.1371/journal.pgph.0003430/og_image.jpg",
+      "publishedAt": "2025-06-13T14:00:00Z",
+      "content": "Abstract\r\nInclusive participation is critical for community-based water, sanitation and hygiene (WASH) interventions, especially in complex environments such as urban informal settlements. We conduct… [+62808 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Salmon Recall Update as FDA Sets Most Serious Risk Level",
+      "description": "While it is not the most common allergy in the country, almost 2 million Americans have an allergy to soy, according to Food Allergy Research and Education.",
+      "url": "https://www.newsweek.com/salmon-recall-update-fda-sets-most-serious-risk-level-2085017",
+      "urlToImage": "https://d.newsweek.com/en/full/2662442/salmon-recall.png",
+      "publishedAt": "2025-06-13T13:22:45Z",
+      "content": "The Food and Drug Administration (FDA) has announced its classification of Santa Monica Seafood Company's recall of its \"Atlantic Salmon Portions with Seafood Stuffing\" product as the highest risk ca… [+2981 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,125 +1261,8 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012650.g005&size=inline",
       "publishedAt": "2025-06-09T14:00:00Z",
       "content": "Introduction\r\nVisceral leishmaniasis (VL) is a zoonotic disease caused by infection with Leishmania donovani (Ld) and L. infantum, and is transmitted by the female sandfly, a blood-sucking insect. In… [+49536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yourmileagemayvary.com"
-      },
-      "author": "Your Mileage May Vary",
-      "title": "Trump National Golf Course Restaurant Failed Health Inspection With a Score of 32/100",
-      "description": "Remember when that Centurion Lounge failed its food inspection a couple of months ago? (don’t worry, it passed after a re-inspection.) Looks like they’re in good company – the restaurant…",
-      "url": "https://yourmileagemayvary.com/2025/06/09/trump-golf-club-restaurant-health-inspection/",
-      "urlToImage": "https://yourmileagemayvary.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-08-at-12.06.26-PM.png",
-      "publishedAt": "2025-06-09T12:13:05Z",
-      "content": "32Remember when that Centurion Lounge failed its food inspection a couple of months ago? (don’t worry, it passed after a re-inspection.) Looks like they’re in good company – the restaurant of a Trump… [+5022 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "OpenAI bans ChatGPT accounts linked to Russian, Chinese cyber ops",
-      "description": "OpenAI banned ChatGPT accounts tied to Russian and Chinese hackers using the tool for malware, social media abuse, and U.S. satellite tech research. OpenAI banned ChatGPT accounts that were used by Russian-speaking threat actors and two Chinese nation-state a…",
-      "url": "https://securityaffairs.com/178797/intelligence/openai-bans-chatgpt-accounts-linked-to-russian-chinese-cyber-ops.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/openai.png",
-      "publishedAt": "2025-06-09T11:15:09Z",
-      "content": "OpenAI bans ChatGPT accounts linked to Russian, Chinese cyber ops\r\n | New Mirai botnet targets TBK DVRs by exploiting CVE-2024-3721\r\n | BadBox 2.0 botnet infects millions of IoT devices worldwide, FB… [+171006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Egg Recall As Salmonella Outbreak Leaves 79 Sick, 21 Hospitalized",
-      "description": "The August Egg Company has initiated a voluntary recall of around 1.7 million of its eggs due to a Salmonella outbreak linked to eggs, according to the FDA and CDC.",
-      "url": "https://www.forbes.com/sites/brucelee/2025/06/09/egg-recall-as-salmonella-outbreak-leaves-79-sick-21-hospitalized/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6846bd6f2ac1aab44deef511/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-09T10:59:06Z",
-      "content": "On June 6, the August Egg Company of Hilmar, CA, initiated a voluntary recall of around 1.7 million ... More of its eggs, according to the U.S. Food and Drug Administration. (Photo: Getty)\r\ngetty\r\nTh… [+6648 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Costco Products Recalled in Six States: Full List of Items Impacted",
-      "description": "The recalls impacted a large geographic area and involve widely consumed items, raising safety concerns among Costco's U.S. membership base.",
-      "url": "https://www.newsweek.com/costco-products-recalled-six-states-full-list-items-impacted-2082651",
-      "urlToImage": "https://d.newsweek.com/en/full/2659103/costco.jpg",
-      "publishedAt": "2025-06-09T10:03:38Z",
-      "content": "Costco has recalled potentially contaminated products including Coca-Cola's Topo Chico Mineral Water and a selection of Fresh &amp; Ready Foods' sandwiches, in six states.\r\nThe Coca-Cola recall appli… [+3888 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Resilience"
-      },
-      "author": "Joseph Winters",
-      "title": "What scientists have learned from 20 years of microplastics research",
-      "description": "At the broadest level, Thompson, other scientists, and environmental advocates are supportive of measures to limit overall plastic production and ban the most problematic categories of plastic, both of which would indirectly reduce the generation of microplas…",
-      "url": "https://www.resilience.org/stories/2025-06-09/what-scientists-have-learned-from-20-years-of-microplastics-research/",
-      "urlToImage": "https://www.resilience.org/wp-content/uploads/2025/06/microplastics-fingertups.webp",
-      "publishedAt": "2025-06-09T09:44:56Z",
-      "content": "“This story was originally published by Grist. Sign up for Grist’s weekly newsletter here.”\r\nTwenty years ago, a team of U.K. scientists sounded the alarm on a then-underappreciated problem: the brea… [+8453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New Mirai botnet targets TBK DVRs by exploiting CVE-2024-3721",
-      "description": "A new variant of the Mirai botnet exploits CVE-2024-3721 to target DVR systems, using a new infection method. Researchers from Russian cybersecurity firm Kaspersky discovered a new variant of the Mirai botnet that exploits a command injection vulnerability (C…",
-      "url": "https://securityaffairs.com/178779/malware/new-mirai-botnet-targets-tbk-dvrs-by-exploiting-cve-2024-3721.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-11.png",
-      "publishedAt": "2025-06-09T08:54:53Z",
-      "content": "New Mirai botnet targets TBK DVRs by exploiting CVE-2024-3721\r\n | BadBox 2.0 botnet infects millions of IoT devices worldwide, FBI warns\r\n | Over 950K weekly downloads at risk in ongoing supply chain… [+170936 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "BadBox 2.0 botnet infects millions of IoT devices worldwide, FBI warns",
-      "description": "BadBox 2.0 malware has infected millions of IoT devices globally, creating a botnet used for cyber criminal activities, the FBI warns. The FBI published a Public Service Announcement (PSA) to warn that cybercriminals are using the BADBOX 2.0 botnet to exploit…",
-      "url": "https://securityaffairs.com/178789/malware/badbox-2-0-botnet-infects-millions-of-iot-devices-worldwide-fbi-warns.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-21.jpg",
-      "publishedAt": "2025-06-09T07:34:24Z",
-      "content": "BadBox 2.0 botnet infects millions of IoT devices worldwide, FBI warns\r\n | Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n | SECURITY AFFAIRS MALWARE NEWSLET… [+170870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Ashish   Dobhal",
-      "title": "Ploughing through plastic — agriculture faces a growing pollution problem",
-      "description": "Silent crisis of plastic pollution in agriculture threatens soil health, food safety, and sustainable farming practices worldwide.",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/ploughing-through-plastic-agriculture-faces-a-growing-pollution-problem/article69673725.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/xckdfw/article69673777.ece/alternates/LANDSCAPE_1200/9870_10-8-2018_14-37-14_1_DSC_3332.JPG",
-      "publishedAt": "2025-06-09T06:15:52Z",
-      "content": "Across the worlds farmlands, a silent crisis is unfolding, one that rarely makes headlines but could have lasting consequences for soil health, food safety and the future of sustainable farming. Agri… [+4213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "FDA warns food processors about Listeria, allergen and sanitation violations",
-      "description": "As part of its enforcement activities, the Food and Drug Administration (FDA) sends warning letters to entities under its jurisdiction. Some letters are not posted for public view until weeks or months after they are sent. Business owners have 15 days to resp…",
-      "url": "https://www.foodsafetynews.com/?p=250012",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/093/263/768/DqR2v1kNaYM70XJe68epZrOWP/7fdcb8e5018676aa07f7d6b5ef4135e307f47677.png",
-      "publishedAt": "2025-06-09T04:03:00Z",
-      "content": "As part of its enforcement activities, the Food and Drug Administration (FDA) sends warning letters to entities under its jurisdiction. Some letters are not posted for public view until weeks or mont… [+6394 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 97,
   "filteredCount": 0
 }
