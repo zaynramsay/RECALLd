@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-06-14T06:32:29.536Z",
+  "lastUpdated": "2025-06-14T12:46:09.986Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Apple confirmed that Messages app flaw was actively exploited in the wild",
+      "description": "Apple confirmed that a security flaw in its Messages app was actively exploited in the wild to target journalists with Paragon’s Graphite spyware. Apple confirmed that a now-patched vulnerability, tracked as CVE-2025-43200, in its Messages app was actively ex…",
+      "url": "https://securityaffairs.com/178962/mobile-2/apple-confirmed-messages-app-flaw-actively-exploited.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
+      "publishedAt": "2025-06-13T10:15:49Z",
+      "content": "Apple confirmed that Messages app flaw was actively exploited in the wild\r\n | Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer\r\n | Paragon Graphite Spyware used a zero-day exploi… [+172233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jesse Pines, Contributor, \n Jesse Pines, Contributor\n https://www.forbes.com/sites/jessepines/",
+      "title": "7 Tattoo Health Risks To Consider Before Getting Inked",
+      "description": "Tattoo popularity is rising, but research shows that tattoo health risks including toxins, infections, immune issues, and even cancer. Here's what you should know.",
+      "url": "https://www.forbes.com/sites/jessepines/2025/06/13/7-tattoo-health-risks-to-consider-before-getting-inked/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/684a97fd31eff4c54698766a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-13T10:00:00Z",
+      "content": "Increasing research shows that getting tattoos carry both short and long-term health risks\r\ngetty\r\nHistorically, tattoos existed at the fringe of society. But today, tattoos are mainstream gracing th… [+6835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Global Peristaltic Pumps Market to Reach $2.38 Billion by 2030: Increasing Demand for Contamination-Free Fluid Handling",
+      "description": "The global peristaltic pumps market is forecasted to grow to USD 2.38 billion in 2030, with a CAGR of 3.9%. This growth is driven by rising demand for contamination-free fluid handling across industries like pharmaceuticals, food & beverages, and water treatm…",
+      "url": "https://www.globenewswire.com/news-release/2025/06/13/3098848/28124/en/Global-Peristaltic-Pumps-Market-to-Reach-2-38-Billion-by-2030-Increasing-Demand-for-Contamination-Free-Fluid-Handling.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-06-13T08:07:00Z",
+      "content": "Dublin, June 13, 2025 (GLOBE NEWSWIRE) -- The \"Peristaltic Pumps Market by Type, Flow Rate, End-use Industry and Region - Global Forecast to 2030\" has been added to ResearchAndMarkets.com's offering.… [+6240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer",
+      "description": "Trend Micro fixed multiple vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. Trend Micro address remote code execution and authentication bypass vulnerabilities impacting its Endpoint Encryption (TMEE) PolicySe…",
+      "url": "https://securityaffairs.com/178952/security/trend-micro-fixes-critical-bugs-in-apex-central-and-tmee-policyserver.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/10/TrendMicro.jpg",
+      "publishedAt": "2025-06-13T07:06:54Z",
+      "content": "Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer\r\n | Paragon Graphite Spyware used a zero-day exploit to hack at least two journalists' iPhones\r\n | SinoTrack GPS device flaws all… [+172155 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vivanesh Parthiban",
+      "title": "Death toll rises to 4 in Tamil Nadu’s Tenkasi old-age home; suspected food contamination under probe",
+      "description": "The death toll has risen to four in the suspected food contamination case at an old-age home near Tenkasi, with a 70-year-old woman succumbing to digestive complications. Previously, three other residents died after consuming non-vegetarian meals. Over 45 inm…",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/death-toll-rises-to-4-in-tamil-nadus-tenkasi-old-age-home-suspected-food-contamination-under-probe/articleshow/121821252.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121821231,width-1070,height-580,imgsize-1239918,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-06-13T06:43:01Z",
+      "content": "Speak it, feel it, believe it: Manifestation habits to attract what you desire"
+    },
     {
       "source": {
         "id": null,
@@ -604,19 +669,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
-      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
-      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
-      "publishedAt": "2025-06-11T06:00:00Z",
-      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Bell peppers: A colorful superfood for vibrant health",
       "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
@@ -624,6 +676,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Pepper-Background-Bell-Bright-Bulgarian-Chilli-Close.jpg",
       "publishedAt": "2025-06-11T06:00:00Z",
       "content": "<ul><li>Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function.</li><li>Red peppers (fully ripened) are sweet… [+7131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
+      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
+      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
+      "publishedAt": "2025-06-11T06:00:00Z",
+      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
     },
     {
       "source": {
@@ -697,7 +762,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports",
-      "description": "Hackers breached Texas DOT (TxDOT), stealing 300,000 crash reports with personal data from its Crash Records Information System (CRIS). Threat actors compromised the Crash Records Information System (CRIS) from the Texas Department of Transportation (TxDOT) a���",
+      "description": "Hackers breached Texas DOT (TxDOT), stealing 300,000 crash reports with personal data from its Crash Records Information System (CRIS). Threat actors compromised the Crash Records Information System (CRIS) from the Texas Department of Transportation (TxDOT) a…",
       "url": "https://securityaffairs.com/178861/data-breach/txdot-data-breach-exposes-300000-crash-reports.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-15.png",
       "publishedAt": "2025-06-10T20:14:59Z",
@@ -1209,71 +1274,6 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/093/263/768/DqR2v1kNaYM70XJe68epZrOWP/7fdcb8e5018676aa07f7d6b5ef4135e307f47677.png",
       "publishedAt": "2025-06-09T04:03:00Z",
       "content": "As part of its enforcement activities, the Food and Drug Administration (FDA) sends warning letters to entities under its jurisdiction. Some letters are not posted for public view until weeks or mont… [+6394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marlerblog.com"
-      },
-      "author": "Bill Marler",
-      "title": "All you need to know about the current Salmonella Egg Outbreak",
-      "description": "Current E. coli Salmonella Outbreak As of June 5, 2025, a total of 79 people infected with the outbreak strain of Salmonella have been reported from 7 states (Arizona 3, California 63, Kentucky 1, Nebraska 2, New Jersey 2, Nevada 4, Washington 4). Six ill peo…",
-      "url": "https://www.marlerblog.com/case-news/all-you-need-to-know-about-the-current-salmonella-egg-outbreak/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/093/259/717/OA0Ekvge5YdqOPl2zKqRLpWxX/4fc60abbad0acd49b0de03516014c6d706088d11.png",
-      "publishedAt": "2025-06-09T02:03:13Z",
-      "content": "Current E. coli Salmonella Outbreak\r\nAs of June 5, 2025, a total of 79 people infected with the outbreak strain of Salmonella have been reported from 7 states (Arizona 3, California 63, Kentucky 1, N… [+18044 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Yasmine Probst & Olivia Wills, The Conversation",
-      "title": "Gluten Intolerance vs Celiac Disease: Experts Reveal The Key Differences",
-      "description": "Around one in ten Australians say they follow a gluten-free diet.",
-      "url": "https://www.sciencealert.com/gluten-intolerance-vs-celiac-disease-experts-reveal-the-key-differences",
-      "urlToImage": "https://www.sciencealert.com/images/articles/processed/Gluten3_1024.jpg",
-      "publishedAt": "2025-06-09T02:00:22Z",
-      "content": "Around one in ten Australians say they follow a gluten-free diet.\r\nThis means eliminating common foods such as bread, pasta and noodles that contain gluten, a protein found mainly in wheat, barley an… [+5759 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fark.com"
-      },
-      "author": null,
-      "title": "Trump golf club fails health inspection and calls it \"politically motivated\". Apparently, keeping raw meat separated from prepared dishes is now \"political\" [Sick]",
-      "description": "Trump golf club fails health inspection and calls it \"politically motivated\". Apparently, keeping raw meat separated from prepared dishes is now \"political\"",
-      "url": "https://www.fark.com/comments/13699650/Trump-golf-club-fails-health-inspection-calls-it-politically-motivated-Apparently-keeping-raw-meat-separated-from-prepared-dishes-is-now-political",
-      "urlToImage": "https://usrimg-full.fark.net/9/9Y/fark_9YfTeQGPFwWkcWu0QPZ3sp4QFGc.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1750046400&Signature=1icoVyWO8PjK2LRPZPUcBJDdTmQ%3D",
-      "publishedAt": "2025-06-08T19:02:50Z",
-      "content": "Jake Havechek:The most concerning findings were improper \"separation of raw meat and raw eggs from ready-to-eat food,\" \"food protected from contamination\" and \"food contact surfaces properly cleaned.… [+251 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Francesca Gariano",
-      "title": "Nearly 2 Million Dozen Eggs Recalled in 9 States Over Salmonella Risk. See List of States Affected",
-      "description": "More than 1 million dozen eggs are being recalled in 9 states due to potential salmonella contamination.",
-      "url": "https://www.today.com/health/recall/eggs-recalled-salmonella-contamination-rcna211702",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-06/brown-eggs-lp-today-main-250608-187b3d.jpg",
-      "publishedAt": "2025-06-08T16:12:33Z",
-      "content": "Nearly two million dozen eggs are being recalled due to potential salmonella contamination.\r\nThe U.S. Food and Drug Administration announced June 6 that August Egg Company, based in Hilmar, Californi… [+5844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages",
-      "description": "A supply chain attack hit NPM, threat actors compromised 16 popular Gluestack packages, affecting 950K+ weekly downloads. Researchers from Aikido Security discovered a new supply chain attack targeted NPM, compromising 16 popular Gluestack ‘react-native-aria’…",
-      "url": "https://securityaffairs.com/178772/malware/over-950k-weekly-downloads-at-risk-in-ongoing-supply-chain-attack-on-gluestack-packages.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/npm.png",
-      "publishedAt": "2025-06-08T13:35:00Z",
-      "content": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48\r\n | Security Affairs newsletter Round 527 by Pierluigi Paganin… [+170795 chars]"
     }
   ],
   "totalResults": 98,
