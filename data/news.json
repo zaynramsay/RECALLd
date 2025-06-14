@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-06-14T01:58:01.482Z",
+  "lastUpdated": "2025-06-14T06:32:29.536Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Overdriveonline.com"
+      },
+      "author": "Matt Cole",
+      "title": "Tank washouts bring cost, time investment into focus for liquid bulk niche haulers",
+      "description": "Getting used to planning for washouts -- both the time and money involved -- is a must for most tank owner-operators. If you're jumping in anew, get ready to basically relearn how to drive, too.",
+      "url": "https://www.overdriveonline.com/business/article/15748445/tanks-washouts-and-the-big-slosh-focus-time-for-tanker-haulers",
+      "urlToImage": "https://img.overdriveonline.com/mindful/rr/workspaces/default/uploads/2025/06/bauer-5.D5lS5WwrDa.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+      "publishedAt": "2025-06-13T06:25:09Z",
+      "content": "Previously in this series:Liquid-bulk tanker niche presents both rare and common challenges for owner-ops\r\nMost trucking segments dont have to worry about regular trailer washouts. Reefer haulers cer… [+6574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Kevin Hughes",
+      "title": "Dr. Stanley Jacob and Robert Herschler examine DMSO, the controversial compound with untapped medical potential",
+      "description": "DMSO, synthesized in 1866, gained medical attention in the 1960s for its ability to penetrate biological membranes and enhance drug delivery. It shows anti-inflammatory, analgesic and bacteriostatic effects, aiding conditions like arthritis and interstitial c…",
+      "url": "https://www.naturalnews.com/2025-06-13-dr-stanley-jacob-robert-herschler-examine-dmso.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Dimethyl-Sulfoxide-DMSO-Solvent-1.jpg",
+      "publishedAt": "2025-06-13T06:00:00Z",
+      "content": "<ul><li>DMSO, synthesized in 1866, gained medical attention in the 1960s for its ability to penetrate biological membranes and enhance drug delivery. It shows anti-inflammatory, analgesic and bacteri… [+4673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Salmonella outbreak triggers recall of millions of EGGS",
+      "description": "At least 79 people across seven states were sickened (21 hospitalized) due to contaminated eggs distributed by August Egg Company. The recalled eggs included organic and cage-free varieties sold in nine states between February and May 2025. Approximately 1.7 …",
+      "url": "https://www.naturalnews.com/2025-06-13-salmonella-outbreak-triggers-recall-millions-of-eggs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Close-Up-White-Chicken-Eggs.jpg",
+      "publishedAt": "2025-06-13T06:00:00Z",
+      "content": "<ul><li>At least 79 people across seven states were sickened (21 hospitalized) due to contaminated eggs distributed by August Egg Company. The recalled eggs included organic and cage-free varieties s… [+4979 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -658,7 +697,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports",
-      "description": "Hackers breached Texas DOT (TxDOT), stealing 300,000 crash reports with personal data from its Crash Records Information System (CRIS). Threat actors compromised the Crash Records Information System (CRIS) from the Texas Department of Transportation (TxDOT) a…",
+      "description": "Hackers breached Texas DOT (TxDOT), stealing 300,000 crash reports with personal data from its Crash Records Information System (CRIS). Threat actors compromised the Crash Records Information System (CRIS) from the Texas Department of Transportation (TxDOT) a���",
       "url": "https://securityaffairs.com/178861/data-breach/txdot-data-breach-exposes-300000-crash-reports.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-15.png",
       "publishedAt": "2025-06-10T20:14:59Z",
@@ -1235,45 +1274,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/npm.png",
       "publishedAt": "2025-06-08T13:35:00Z",
       "content": "Over 950K weekly downloads at risk in ongoing supply chain attack on Gluestack packages\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48\r\n | Security Affairs newsletter Round 527 by Pierluigi Paganin… [+170795 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48",
-      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Pure Crypter Malware Analysis: 99 Problems but Detection Ain’t One Attacker exploits misconfigured AI tool to run AI-generate…",
-      "url": "https://securityaffairs.com/178766/malware/security-affairs-malware-newsletter-round-48.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "publishedAt": "2025-06-08T11:35:30Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 48\r\n | Security Affairs newsletter Round 527 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Experts found 4 billion user records online, the largest known l… [+170703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 527 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Experts …",
-      "url": "https://securityaffairs.com/178759/uncategorized/security-affairs-newsletter-round-527-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-06-08T11:20:49Z",
-      "content": "Security Affairs newsletter Round 527 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Experts found 4 billion user records online, the largest known leak of Chinese personal data from a single source… [+170654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "John Bartlett",
-      "title": "Chile's Indigenous fishermen say the salmon industry threatens their way of life",
-      "description": "Salmon farming is big business in Chile, and the U.S. is one of its largest markets. Yet the fish are not native, and fishermen say salmon are damaging ecosystems and an Indigenous way of life.",
-      "url": "https://www.npr.org/2025/06/08/nx-s1-5309752/chile-salmon-farms-indigenous",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F62%2F1f738a564b54b19bc11fe55b814b%2Fdsc01603.JPG",
-      "publishedAt": "2025-06-08T10:00:00Z",
-      "content": "PUERTO NATALES, Chile Out beyond Isla Focus, a bare island in the fjords an hour off the coast of Puerto Natales, southern Chile, the waves pick up and the Calipso rocks alarmingly from side to side.… [+6000 chars]"
     }
   ],
   "totalResults": 98,
