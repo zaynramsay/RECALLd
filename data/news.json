@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-15T02:14:33.646Z",
+  "lastUpdated": "2025-06-15T06:33:16.781Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Julie Gregson",
+      "title": "Germany tackles explosive wartime legacy at sea",
+      "description": "Unexploded WWII bombs are still regularly found across Germany. But hundreds of thousands of tons of wartime munitions also lurk off its shores. Now Berlin is stepping up moves to clean up this perilous toxic waste.",
+      "url": "https://www.dw.com/en/germany-tackles-explosive-wartime-legacy-at-sea/a-72900336",
+      "urlToImage": "https://static.dw.com/image/72899738_6.jpg",
+      "publishedAt": "2025-06-14T06:16:00Z",
+      "content": "An estimated 1.6 million metric tons of conventional munitions lie in Germany's coastal waters alone. The vast majority is located in the North Sea; the rest in the Baltic. There are also thought to … [+6210 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-soil-models-improv.jpg",
       "publishedAt": "2025-06-09T19:45:15Z",
       "content": "Cadmium (Cd), a toxic heavy metal, poses a growing threat to food safety through its accumulation in crops. Wheat, in particular, tends to absorb more cadmium than rice due to its higher internal tra… [+4211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "DOJ moves to seize $7.74M in crypto linked to North Korean IT worker scam",
-      "description": "US seeks to seize $7.74M in crypto linked to North Korean fake IT worker schemes, per a new DOJ forfeiture complaint. The DOJ filed a civil forfeiture complaint for $7.74M in crypto tied to North Korean fake IT worker schemes linked to the indictment of North…",
-      "url": "https://securityaffairs.com/178810/cyber-crime/doj-seize-7-74m-linked-to-north-korean-it-worker-scam.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
-      "publishedAt": "2025-06-09T18:43:32Z",
-      "content": "DOJ moves to seize $7.74M in crypto linked to North Korean IT worker scam\r\n | OpenAI bans ChatGPT accounts linked to Russian, Chinese cyber ops\r\n | New Mirai botnet targets TBK DVRs by exploiting CVE… [+171084 chars]"
     }
   ],
   "totalResults": 96,
