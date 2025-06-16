@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-06-16T02:06:16.976Z",
+  "lastUpdated": "2025-06-16T06:37:39.631Z",
   "articles": [
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Cesci Angell",
+      "title": "The lack of smart features made me quick to judge this Dyson purifying fan, but its impressive performance quickly turned things around",
+      "description": "The distinct lack of smart features had me holding my breath, but the all-around good performance from this Dyson purifying fan helped me to breathe easy.",
+      "url": "https://www.techradar.com/home/air-quality/dyson-purifier-cool-gen1-tp10-purifying-fan-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rvkUNhoB2xcV4ZagyyL6zF.jpg",
+      "publishedAt": "2025-06-15T06:00:00Z",
+      "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you’re buying the best. Find out more about how we test.Dyson Purifier Cool Gen1 TP10 Purify… [+17495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Talc linked to cancer and other health problems",
+      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
+      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
+      "publishedAt": "2025-06-15T06:00:00Z",
+      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mit.edu"
+      },
+      "author": "Zach Winn | MIT News",
+      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
+      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
+      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
+      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
+      "publishedAt": "2025-06-15T04:00:00Z",
+      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Shubhanshi   Chakraborty",
+      "title": "Ancient India’s agricultural calendar as a model for regenerative farming",
+      "description": "Ancient Indian agricultural wisdom connects soil, stars, and seasons, offering a sustainable approach to farming for modern times.",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/ancient-indias-agricultural-calendar-as-a-model-for-regenerative-farming/article69695620.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/83013a/article69696978.ece/alternates/LANDSCAPE_1200/IMG_iStock-923832134_2_1_0DD129FH.jpg",
+      "publishedAt": "2025-06-15T04:00:00Z",
+      "content": "Before carbon credits and climate conferences, there was the soil. And even before the soil, there existed the sky.\r\nAncient India had read the Earth and stars together, as a single text. It wrote it… [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Adeola Adeosun",
+      "title": "Vitamin Gummies Recalled Over Undeclared Peanut Allergen Risk",
+      "description": "Vita Warehouse Corp. recalled three vitamin B12 gummy brands sold at ALDI and BJ's due to potential undeclared peanut contamination.",
+      "url": "https://www.newsweek.com/vitamin-gummies-recalled-over-undeclared-peanut-allergen-risk-2085647",
+      "urlToImage": "https://d.newsweek.com/en/full/2663356/gummy-vitamins.png",
+      "publishedAt": "2025-06-15T03:35:10Z",
+      "content": "Vita Warehouse Corp. has voluntarily recalled three popular vitamin B12 gummy products due to potential undeclared peanut contamination, the U.S Food and Drug Administration (FDA) announced this week… [+4457 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,71 +1248,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-06-10T13:34:25Z",
       "content": "U.S. CISA adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog\r\n | Mirai botnets exploit Wazuh RCE, Akamai warned\r\n | China-linked threat actor… [+171335 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Amish Origins Management, LLC - 704166 - 05/29/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amish-origins-management-llc-704166-05292025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-06-10T13:20:06Z",
-      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-77\r\nProduct:\r\nDrugs \r\nRecipient:\r\nAmish Origins Management, LLC\r\n1214 South Flat RoadWorland, WY82401-9539United States\r\nIssuing Office:\r\nC… [+28822 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Laboratoire Druide Inc. - 705517 - 05/29/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/laboratoire-druide-inc-705517-05292025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-06-10T13:20:04Z",
-      "content": "Delivery Method:\r\nVIA EMAIL WITH READ RECEIPT\r\nReference #:\r\n320-25-76\r\nProduct:\r\nDrugs \r\nRecipient:\r\nLaboratoire Druide Inc.\r\n154 Oneida Ave.Pointe-ClaireQCH9R 1A8Canada\r\nIssuing Office:\r\nCenter for… [+17024 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Nick Corbishley",
-      "title": "A New Gold Rush Is Causing (Potentially) Irreversible Damage to the Amazon Rainforest, Study Warns",
-      "description": "As the world is gripped by a new bout of gold fever that shows no sign of abating, the environmental costs are rising.",
-      "url": "https://www.nakedcapitalism.com/2025/06/a-new-wave-of-gold-fever-is-destroying-the-amazon-warns-report.html",
-      "urlToImage": "https://taschen.makaira.media/taschen/image/upload/f_webp,w_1200/v1672890894/products-live/5f8c4156950f37f00a7c247527427e4d.png",
-      "publishedAt": "2025-06-10T10:45:59Z",
-      "content": "As the world is gripped by a new bout of gold fever that shows no sign of abating, the environmental costs are rising. \r\nA few months ago, my wife and I had the fortune to catch the final day of Braz… [+18026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Mirai botnets exploit Wazuh RCE, Akamai warned",
-      "description": "Mirai botnets are exploiting CVE-2025-24016, a critical remote code execution flaw in Wazuh servers, Akamai warned. Akamai researchers warn that multiple Mirai botnets exploit the critical remote code execution vulnerability CVE-2025-24016 (CVSS score of 9.9)…",
-      "url": "https://securityaffairs.com/178830/malware/mirai-botnets-exploit-wazuh-rce-akamai-warned.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-14.png",
-      "publishedAt": "2025-06-10T10:27:45Z",
-      "content": "Mirai botnets exploit Wazuh RCE, Akamai warned\r\n | China-linked threat actor targeted +70 orgs worldwide, SentinelOne warns\r\n | DOJ moves to seize $7.74M in crypto linked to North Korean IT worker sc… [+171212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Dot"
-      },
-      "author": "Rebekah Harding",
-      "title": "“First time I buy eggs in like 8 months”: 1.7 million eggs have been recalled over Salmonella contamination. Here’s how to know if your eggs are affected",
-      "description": "An immunologist warns shoppers about a recent Salmonella-related recall of 1.7 million eggs, sharing how they can identify affected cartons.\n\n\nWhy did the FDA recall 1.7 million eggs?\n\n\nAccording to a report by the U.S. Food and Drug Administration (FDA), Aug…",
-      "url": "https://www.dailydot.com/news/eggs-salmonella-recall/",
-      "urlToImage": "https://uploads.dailydot.com/2025/06/egg-recall-june-2025.png?auto=compress&fm=png",
-      "publishedAt": "2025-06-10T09:00:00Z",
-      "content": "An immunologist warns shoppers about a recent Salmonella-related recall of 1.7 million eggs, sharing how they can identify affected cartons.\r\nAccording to a report by the U.S. Food and Drug Administr… [+1999 chars]"
     }
   ],
   "totalResults": 96,
