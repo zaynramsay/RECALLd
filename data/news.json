@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-06-16T06:37:39.631Z",
+  "lastUpdated": "2025-06-16T12:53:13.886Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 49",
+      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Supply chain attack hits Gluestack NPM packages with 960K weekly downloads   Analysis of the latest Mirai wave exploiting TBK…",
+      "url": "https://securityaffairs.com/179018/security/security-affairs-malware-newsletter-round-49.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "publishedAt": "2025-06-15T11:50:55Z",
+      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 49\r\n | Security Affairs newsletter Round 528 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Palo Alto Networks fixed multiple privilege escalation flaws\r\n |… [+172656 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thekenyatimes.com"
+      },
+      "author": "Michael Owino",
+      "title": "Climate Change Linked to Rising Cancer Cases in Kenya",
+      "description": "Climate change is quietly fueling a cancer epidemic in Kenya, reshaping the nation’s health crisis and forcing urgent action.",
+      "url": "https://thekenyatimes.com/health/health-science/how-climate-change-is-fueling-a-cancer-epidemic-in-kenya/",
+      "urlToImage": "https://thekenyatimescdn-ese7d3e7ghdnbfa9.z01.azurefd.net/prodimages/uploads/2024/11/Untitled-design-2024-11-29T110959.644.png",
+      "publishedAt": "2025-06-15T09:42:57Z",
+      "content": "James Mwangi remembers the first strange mole on his shoulder a small, dark spot that he thought was just a minor issue after years of working on his maize farm in the hot sun of the Rift Valley.\r\nHo… [+6570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 528 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Palo Alt…",
+      "url": "https://securityaffairs.com/179014/breaking-news/security-affairs-newsletter-round-528-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "publishedAt": "2025-06-15T09:23:11Z",
+      "content": "Security Affairs newsletter Round 528 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Palo Alto Networks fixed multiple privilege escalation flaws\r\n | Unusual toolset used in recent Fog Ransomware at… [+172607 chars]"
+    },
     {
       "source": {
         "id": "techradar",
@@ -30,19 +69,6 @@
     {
       "source": {
         "id": null,
-        "name": "Mit.edu"
-      },
-      "author": "Zach Winn | MIT News",
-      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
-      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
-      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
-      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
-      "publishedAt": "2025-06-15T04:00:00Z",
-      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BusinessLine"
       },
       "author": "Shubhanshi   Chakraborty",
@@ -52,6 +78,19 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/83013a/article69696978.ece/alternates/LANDSCAPE_1200/IMG_iStock-923832134_2_1_0DD129FH.jpg",
       "publishedAt": "2025-06-15T04:00:00Z",
       "content": "Before carbon credits and climate conferences, there was the soil. And even before the soil, there existed the sky.\r\nAncient India had read the Earth and stars together, as a single text. It wrote it… [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mit.edu"
+      },
+      "author": "Zach Winn | MIT News",
+      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
+      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
+      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
+      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
+      "publishedAt": "2025-06-15T04:00:00Z",
+      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
     },
     {
       "source": {
@@ -273,6 +312,19 @@
       "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/06/pepcid.jpeg",
       "publishedAt": "2025-06-13T19:49:45Z",
       "content": "Pepcid (famotidine) uniquely blocks serotonin activity unlike other H2 blockers, helping interrupt chronic pain, inflammation and fatigue caused by elevated serotonin levels\r\nA 70-year-old patient’s … [+16294 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "10 unsolved mysteries in science",
+      "description": "Every spring, Quirks & Quarks features our ever-popular listener question show, where we find experts to answer your questions. But here are ten mysteries that science has yet to answer.",
+      "url": "https://www.cbc.ca/radio/quirks/10-unsolved-mysteries-in-science-1.7560543",
+      "urlToImage": "https://i.cbc.ca/1.7560583.1749827655!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/3068600.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-13T19:39:10Z",
+      "content": "Every spring, Quirks &amp; Quarks features our ever-popular listener question show, where we find experts to answer your questions.\r\nBut there remain some big questions we can't yet begin to answer.\r… [+8685 chars]"
     },
     {
       "source": {
@@ -1046,19 +1098,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
-      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
-      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
-      "publishedAt": "2025-06-11T06:00:00Z",
-      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Bell peppers: A colorful superfood for vibrant health",
       "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
@@ -1066,6 +1105,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Pepper-Background-Bell-Bright-Bulgarian-Chilli-Close.jpg",
       "publishedAt": "2025-06-11T06:00:00Z",
       "content": "<ul><li>Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function.</li><li>Red peppers (fully ripened) are sweet… [+7131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
+      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
+      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
+      "publishedAt": "2025-06-11T06:00:00Z",
+      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
     },
     {
       "source": {
@@ -1196,58 +1248,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325832.g009&size=inline",
       "publishedAt": "2025-06-10T14:00:00Z",
       "content": "Citation: Gumustop I, Genel I, Kurt IC, Ortakci F (2025) Comparative genomics of Lentilactobacillus buchneri reveals strain-level hyperdiversity and broad-spectrum CRISPR immunity against human and l… [+42514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Mary Opeyemi Adebote, Joseph Aggrey-Fynn, Paul Kojo Mensah",
-      "title": "Assessing mercury and lead pollution in the Ankobra estuary due to artisanal mining activities: Implications for water quality and aquatic life",
-      "description": "Artisanal and small-scale gold mining, “Galamsey” as it is called in Ghana, within the Ankobra estuary has impacted the water quality, fish health and other aquatic organisms. This paper presents a study investigating the concentrations of mercury and lead in…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325909",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325909.g006&size=inline",
-      "publishedAt": "2025-06-10T14:00:00Z",
-      "content": "Physicochemical parameters\r\nThe quality of water is defined by a set of general parameters, such as dissolved oxygen (DO), alkalinity, pH, hardness, conductivity, salinity, and turbidity [30]. In thi… [+14616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSOC Charlotte"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: 20.4M eggs recalled because of potential salmonella contamination",
-      "description": "Millions of dozens of eggs have been recalled because they may be contaminated with salmonella.",
-      "url": "https://www.wsoctv.com/news/trending/recall-alert-204m-eggs-recalled-because-potential-salmonella-contamination/Q3WWXKTCYNCCZAHA3UNTXLDGDM/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFDNXUCCORBBDPDIICOPVXGXJ34.jpg?auth=7cd086ac9588b8a6da972749e08cb70f96a523323e0e4e579763fcf9feccc824&width=1200&height=630&smart=true",
-      "publishedAt": "2025-06-10T13:53:14Z",
-      "content": "Millions of dozens of eggs have been recalled because they may be contaminated with salmonella. \r\nThe Food and Drug Administration announced that August Egg Company recalled 1.7 million dozen brown c… [+2389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: 20.4M eggs recalled because of potential salmonella contamination",
-      "description": "Millions of dozens of eggs have been recalled because they may be contaminated with salmonella.",
-      "url": "https://www.wpxi.com/news/trending/recall-alert-204m-eggs-recalled-because-potential-salmonella-contamination/Q3WWXKTCYNCCZAHA3UNTXLDGDM/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFDNXUCCORBBDPDIICOPVXGXJ34.jpg?auth=7cd086ac9588b8a6da972749e08cb70f96a523323e0e4e579763fcf9feccc824&width=1200&height=630&smart=true",
-      "publishedAt": "2025-06-10T13:51:00Z",
-      "content": "Millions of dozens of eggs have been recalled because they may be contaminated with salmonella. \r\nThe Food and Drug Administration announced that August Egg Company recalled 1.7 million dozen brown c… [+2389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added RoundCube Webmail…",
-      "url": "https://securityaffairs.com/178843/hacking/u-s-cisa-adds-roundcube-erlang-erlang-flaws-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-06-10T13:34:25Z",
-      "content": "U.S. CISA adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog\r\n | Mirai botnets exploit Wazuh RCE, Akamai warned\r\n | China-linked threat actor… [+171335 chars]"
     }
   ],
   "totalResults": 96,
