@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-06-16T12:53:13.886Z",
+  "lastUpdated": "2025-06-16T18:34:56.369Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "WXII12 Winston-Salem"
+      },
+      "author": "Katia Hetter",
+      "title": "Foodborne illnesses increase during the summer. A doctor explains how to keep safe",
+      "description": "Why are foodborne infections more common in the summer, and what are food safety practices that everyone should follow?",
+      "url": "https://www.wxii12.com/article/foodborne-illnesses-increase-during-the-summer/65060552",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwj0ahppemuwmdbzm2i2bw5yyzi2ctz5-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntynnkbhrodzawmxiyn25qmnliadb6ntc-jpg-684ee54885c9b.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-06-15T17:08:15Z",
+      "content": "CNN —As a salmonella outbreak linked to eggs has sickened 79 people across seven states as of June 5, a California-based company has recalled 1.7 million dozen eggs because of potential contamination… [+5832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WESH Orlando"
+      },
+      "author": "Katia Hetter",
+      "title": "Foodborne illnesses increase during the summer. A doctor explains how to keep safe",
+      "description": "Why are foodborne infections more common in the summer, and what are food safety practices that everyone should follow?",
+      "url": "https://www.wesh.com/article/foodborne-illnesses-increase-during-the-summer/65060552",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwj0ahppemuwmdbzm2i2bw5yyzi2ctz5-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntynnkbhrodzawmxiyn25qmnliadb6ntc-jpg-684ee54885c9b.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-06-15T17:08:06Z",
+      "content": "CNN —As a salmonella outbreak linked to eggs has sickened 79 people across seven states as of June 5, a California-based company has recalled 1.7 million dozen eggs because of potential contamination… [+5832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Canada’s second-largest airline WestJet is containing a cyberattack",
+      "description": "Canada’s airline WestJet has suffered a cyberattack that impactd access to some internal systems and the company app. WestJet is a Canadian airline that operates both domestic and international flights. Founded in 1996, it started as a low-cost carrier and ha…",
+      "url": "https://securityaffairs.com/179027/uncategorized/canadas-airline-westjet-is-containing-a-cyberattack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/01/canada.png",
+      "publishedAt": "2025-06-15T13:42:59Z",
+      "content": "Canadas second-largest airline WestJet is containing a cyberattack\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 49\r\n | Security Affairs newsletter Round 528 by Pierluigi Paganini INTERNATIONAL EDITI… [+172727 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -42,6 +81,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Talc linked to cancer and other health problems",
+      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
+      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
+      "publishedAt": "2025-06-15T06:00:00Z",
+      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
+    },
+    {
+      "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
@@ -56,15 +108,15 @@
     {
       "source": {
         "id": null,
-        "name": "Naturalnews.com"
+        "name": "Mit.edu"
       },
-      "author": "Olivia Cook",
-      "title": "Talc linked to cancer and other health problems",
-      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
-      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
-      "publishedAt": "2025-06-15T06:00:00Z",
-      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
+      "author": "Zach Winn | MIT News",
+      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
+      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
+      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
+      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
+      "publishedAt": "2025-06-15T04:00:00Z",
+      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
     },
     {
       "source": {
@@ -78,19 +130,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/83013a/article69696978.ece/alternates/LANDSCAPE_1200/IMG_iStock-923832134_2_1_0DD129FH.jpg",
       "publishedAt": "2025-06-15T04:00:00Z",
       "content": "Before carbon credits and climate conferences, there was the soil. And even before the soil, there existed the sky.\r\nAncient India had read the Earth and stars together, as a single text. It wrote it… [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mit.edu"
-      },
-      "author": "Zach Winn | MIT News",
-      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
-      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
-      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
-      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
-      "publishedAt": "2025-06-15T04:00:00Z",
-      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
     },
     {
       "source": {
@@ -1098,19 +1137,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Bell peppers: A colorful superfood for vibrant health",
-      "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
-      "url": "https://www.naturalnews.com/2025-06-11-bell-peppers-colorful-superfood-for-vibrant-health.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Pepper-Background-Bell-Bright-Bulgarian-Chilli-Close.jpg",
-      "publishedAt": "2025-06-11T06:00:00Z",
-      "content": "<ul><li>Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function.</li><li>Red peppers (fully ripened) are sweet… [+7131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Ramon Tomey",
       "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
       "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
@@ -1118,6 +1144,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
       "publishedAt": "2025-06-11T06:00:00Z",
       "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Bell peppers: A colorful superfood for vibrant health",
+      "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
+      "url": "https://www.naturalnews.com/2025-06-11-bell-peppers-colorful-superfood-for-vibrant-health.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Pepper-Background-Bell-Bright-Bulgarian-Chilli-Close.jpg",
+      "publishedAt": "2025-06-11T06:00:00Z",
+      "content": "<ul><li>Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function.</li><li>Red peppers (fully ripened) are sweet… [+7131 chars]"
     },
     {
       "source": {
@@ -1209,45 +1248,6 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/22db1e0353b88b07e16252dda5f67ebb?impolicy=wcms_watermark_news&cropH=810&cropW=1440&xPos=0&yPos=136&width=862&height=485&imformat=generic",
       "publishedAt": "2025-06-10T18:59:18Z",
       "content": "The smoke from burning waste gets so thick at Delfina Martin's home in Timor-Leste, she and her children struggle to breathe.\r\nBut she says it's not the only way the country's biggest rubbish dump on… [+5737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SAP June 2025 Security Patch Day fixed critical NetWeaver bug",
-      "description": "SAP fixed a critical NetWeaver flaw that let attackers bypass authorization and escalate privileges. Patch released in June 2025 Security Patch. SAP June 2025 Security Patch addressed a critical NetWeaver vulnerability, tracked as CVE-2025-42989 (CVSS score o…",
-      "url": "https://securityaffairs.com/178851/security/sap-june-2025-security-patch-day-fixed-critical-netweaver-bug.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/05/SAP-systems.gif",
-      "publishedAt": "2025-06-10T17:31:03Z",
-      "content": "SAP June 2025 Security Patch Day fixed critical NetWeaver bug\r\n | U.S. CISA adds RoundCube Webmail and Erlang Erlang/OTP SSH server flaws to its Known Exploited Vulnerabilities catalog\r\n | Mirai botn… [+171401 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Honey Recall Map Shows Warnings Issued to Customers in 7 States",
-      "description": "There were 2,730 units sold of each product, to various states including Colorado, Arizona, Texas, Maryland, Florida, California, and Georgia.",
-      "url": "https://www.newsweek.com/honey-recall-warnings-issued-7-states-2083326",
-      "urlToImage": "https://d.newsweek.com/en/full/2660111/honey-recall.jpg",
-      "publishedAt": "2025-06-10T14:11:22Z",
-      "content": "The Food and Drug Administration (FDA) has announced its classification of a recall of certain Comvita honey products, affecting seven states.\r\nComvita, a California-based company, recalled three of … [+2991 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Ismail Gumustop, Ibrahim Genel, Ibrahim Cagri Kurt, Fatih Ortakci",
-      "title": "Comparative genomics of Lentilactobacillus buchneri reveals strain-level hyperdiversity and broad-spectrum CRISPR immunity against human and livestock gut phages",
-      "description": "This study conducted a comparative genomic investigation of 40 strains of Lentilactobacillus buchneri isolated from various environments—including fermented foods, silage, cattle rumen, and the nasopharynx—to identify species-level diversity and assess their …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325832",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325832.g009&size=inline",
-      "publishedAt": "2025-06-10T14:00:00Z",
-      "content": "Citation: Gumustop I, Genel I, Kurt IC, Ortakci F (2025) Comparative genomics of Lentilactobacillus buchneri reveals strain-level hyperdiversity and broad-spectrum CRISPR immunity against human and l… [+42514 chars]"
     }
   ],
   "totalResults": 96,
