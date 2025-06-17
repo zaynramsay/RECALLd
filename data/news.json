@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-16T18:34:56.369Z",
+  "lastUpdated": "2025-06-17T02:02:54.896Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Stanford.edu"
+      },
+      "author": null,
+      "title": "Senior projects recognized with university prizes",
+      "description": "Winners of the Firestone and Golden medals and the Kennedy Prize reflect the breadth of the undergraduate experience at Stanford, with thesis and arts projects exploring topics from food sovereignty and nerve regeneration to robot learning and the cartography…",
+      "url": "https://news.stanford.edu/stories/2025/06/firestone-golden-medals-kennedy-prize",
+      "urlToImage": "https://news.stanford.edu/__data/assets/image/0025/152458/20210913NSO__N6A1396.jpg",
+      "publishedAt": "2025-06-16T00:00:00Z",
+      "content": "Forty-two students representing 31 undergraduate departmental and interdisciplinary honors programs were recently honored for outstanding research theses and creative arts projects. These students we… [+8094 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Mikayla McGuirk-Scolaro",
+      "title": "Students in PFAS 'hotspot' build app to detect contaminated groceries",
+      "description": "A group of high school students are pushing for change by creating an app prototype that can detect so-called forever chemicals in everyday items.",
+      "url": "https://www.abc.net.au/news/2025-06-16/bowral-high-schoolers-detect-pfas/105382118",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7187e1f8693de419be05e7d129129243?impolicy=wcms_watermark_news&cropH=2702&cropW=4804&xPos=0&yPos=122&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-06-15T22:20:24Z",
+      "content": "When a group of high school students learnt that elevated levels of PFAS were detected in their local river, they became worried.\r\nThe five senior students from Bowral High School in the NSW Southern… [+4386 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -81,19 +107,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "Talc linked to cancer and other health problems",
-      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
-      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
-      "publishedAt": "2025-06-15T06:00:00Z",
-      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
-    },
-    {
-      "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
@@ -108,15 +121,15 @@
     {
       "source": {
         "id": null,
-        "name": "Mit.edu"
+        "name": "Naturalnews.com"
       },
-      "author": "Zach Winn | MIT News",
-      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
-      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
-      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
-      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
-      "publishedAt": "2025-06-15T04:00:00Z",
-      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
+      "author": "Olivia Cook",
+      "title": "Talc linked to cancer and other health problems",
+      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
+      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
+      "publishedAt": "2025-06-15T06:00:00Z",
+      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
     },
     {
       "source": {
@@ -130,6 +143,19 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/83013a/article69696978.ece/alternates/LANDSCAPE_1200/IMG_iStock-923832134_2_1_0DD129FH.jpg",
       "publishedAt": "2025-06-15T04:00:00Z",
       "content": "Before carbon credits and climate conferences, there was the soil. And even before the soil, there existed the sky.\r\nAncient India had read the Earth and stars together, as a single text. It wrote it… [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mit.edu"
+      },
+      "author": "Zach Winn | MIT News",
+      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
+      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
+      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
+      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
+      "publishedAt": "2025-06-15T04:00:00Z",
+      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
     },
     {
       "source": {
@@ -1137,19 +1163,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
-      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
-      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
-      "publishedAt": "2025-06-11T06:00:00Z",
-      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Bell peppers: A colorful superfood for vibrant health",
       "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
@@ -1157,6 +1170,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Pepper-Background-Bell-Bright-Bulgarian-Chilli-Close.jpg",
       "publishedAt": "2025-06-11T06:00:00Z",
       "content": "<ul><li>Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function.</li><li>Red peppers (fully ripened) are sweet… [+7131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
+      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
+      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
+      "publishedAt": "2025-06-11T06:00:00Z",
+      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
     },
     {
       "source": {
@@ -1222,32 +1248,6 @@
       "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/06/Training-on-cotton.jpeg",
       "publishedAt": "2025-06-10T20:45:00Z",
       "content": "HT Bureau\r\nDIPHU, June 10: A one-day training programme on cotton crop cultivation, focusing on LRA 5166 and Supriya varieties, was held on Tuesday at Mirdupathar/Sunpura under the Bakalia Agricultur… [+1896 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports",
-      "description": "Hackers breached Texas DOT (TxDOT), stealing 300,000 crash reports with personal data from its Crash Records Information System (CRIS). Threat actors compromised the Crash Records Information System (CRIS) from the Texas Department of Transportation (TxDOT) a…",
-      "url": "https://securityaffairs.com/178861/data-breach/txdot-data-breach-exposes-300000-crash-reports.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-15.png",
-      "publishedAt": "2025-06-10T20:14:59Z",
-      "content": "Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports\r\n | SAP June 2025 Security Patch Day fixed critical NetWeaver bug\r\n | U.S. CISA adds RoundCube Webmail and Erlang … [+171490 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Vonia Vieira, Nick Sas, and Doug Dingwall",
-      "title": "'They think we're pigs': Timor-Leste's rubbish dump is making people sick",
-      "description": "Residents living just outside Dili say they're frequently ill with coughs, fevers and stomach pain. Health authorities say a neighbouring rubbish dump is to blame.",
-      "url": "https://www.abc.net.au/news/2025-06-11/timor-leste-rubbish-dump-tibar-public-health/105393920",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/22db1e0353b88b07e16252dda5f67ebb?impolicy=wcms_watermark_news&cropH=810&cropW=1440&xPos=0&yPos=136&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-06-10T18:59:18Z",
-      "content": "The smoke from burning waste gets so thick at Delfina Martin's home in Timor-Leste, she and her children struggle to breathe.\r\nBut she says it's not the only way the country's biggest rubbish dump on… [+5737 chars]"
     }
   ],
   "totalResults": 96,
