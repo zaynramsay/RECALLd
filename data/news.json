@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-06-17T06:35:52.486Z",
+  "lastUpdated": "2025-06-17T12:52:52.148Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New Anubis RaaS includes a wiper module",
+      "description": "Anubis RaaS now includes a wiper module, permanently deleting files. Active since Dec 2024, it launched an affiliate program in Feb 2025. Anubis is a new RaaS that combines file encryption capability with a rare “wipe mode,” permanently deleting files and pre…",
+      "url": "https://securityaffairs.com/179044/malware/anubis-raas-now-includes-a-wiper-module.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-23.png",
+      "publishedAt": "2025-06-16T11:40:59Z",
+      "content": "New Anubis RaaS includes a wiper module\r\n | New Predator spyware infrastructure revealed activity in Mozambique for the first time\r\n | Canadas second-largest airline WestJet is containing a cyberatta… [+172862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": null,
+      "title": "'Forever chemical' found in dozens of UK rivers, study finds",
+      "description": "A \"forever chemical\" that scientists worry might have an impact on reproduction has been found in all but one of 32 rivers tested across the UK, according to a study.",
+      "url": "https://news.sky.com/story/forever-chemical-found-in-dozens-of-uk-rivers-study-finds-13384466",
+      "urlToImage": "https://e3.365dm.com/25/06/1600x900/skynews-water-uk-waterways_6943401.jpg?20250616104608",
+      "publishedAt": "2025-06-16T09:30:00Z",
+      "content": "A \"forever chemical\" that scientists worry might have an impact on reproduction has been found in all but one of 32 rivers tested across the UK, according to a study.\r\nResearchers say trifluoroacetic… [+2905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "New Predator spyware infrastructure revealed activity in Mozambique for the first time",
+      "description": "Insik Group analyzed the new Predator spyware infrastructure and discovered it’s still gaining users despite U.S. sanctions since July 2023. Despite earlier declines in activity due to U.S. sanctions and public exposure, Predator spyware has resurged. Insikt …",
+      "url": "https://securityaffairs.com/179036/hacking/new-predator-spyware-infrastructure-revealed-activity-in-mozambique-for-first-time.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-22.png",
+      "publishedAt": "2025-06-16T09:27:12Z",
+      "content": "New Predator spyware infrastructure revealed activity in Mozambique for the first time\r\n | Canadas second-largest airline WestJet is containing a cyberattack\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER R… [+172818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grist"
+      },
+      "author": "Kate Yoder",
+      "title": "What warped the minds of serial killers? Lead pollution, a new book argues.",
+      "description": "Ted Bundy, the Green River Killer, and others terrorized the Pacific Northwest. \"Murderland\" asks what role polluters played.",
+      "url": "http://grist.org/culture/murderland-caroline-fraser-serial-killers-pacific-northwest-lead-pollution/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2025/06/pnw-serial-killers.jpg?quality=75&strip=all",
+      "publishedAt": "2025-06-16T08:30:00Z",
+      "content": "When Ted Bundy was a child in the 1950s, he hunted for frogs in the nearby swamps in Tacoma, Washington. The young Gary Ridgway, the future Green River Killer, grew up just a short drive north. Both … [+6258 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -120,19 +172,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "Talc linked to cancer and other health problems",
-      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
-      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
-      "publishedAt": "2025-06-15T06:00:00Z",
-      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
-    },
-    {
-      "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
@@ -147,15 +186,15 @@
     {
       "source": {
         "id": null,
-        "name": "Mit.edu"
+        "name": "Naturalnews.com"
       },
-      "author": "Zach Winn | MIT News",
-      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
-      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
-      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
-      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
-      "publishedAt": "2025-06-15T04:00:00Z",
-      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
+      "author": "Olivia Cook",
+      "title": "Talc linked to cancer and other health problems",
+      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
+      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
+      "publishedAt": "2025-06-15T06:00:00Z",
+      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
     },
     {
       "source": {
@@ -169,6 +208,19 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/83013a/article69696978.ece/alternates/LANDSCAPE_1200/IMG_iStock-923832134_2_1_0DD129FH.jpg",
       "publishedAt": "2025-06-15T04:00:00Z",
       "content": "Before carbon credits and climate conferences, there was the soil. And even before the soil, there existed the sky.\r\nAncient India had read the Earth and stars together, as a single text. It wrote it… [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mit.edu"
+      },
+      "author": "Zach Winn | MIT News",
+      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
+      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
+      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
+      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
+      "publishedAt": "2025-06-15T04:00:00Z",
+      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
     },
     {
       "source": {
@@ -554,7 +606,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer",
-      "description": "Trend Micro fixed multiple vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. Trend Micro address remote code execution and authentication bypass vulnerabilities impacting its Endpoint Encryption (TMEE) PolicySe…",
+      "description": "Trend Micro fixed multiple vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. Trend Micro address remote code execution and authentication bypass vulnerabilities impacting its Endpoint Encryption (TMEE) PolicySe���",
       "url": "https://securityaffairs.com/178952/security/trend-micro-fixes-critical-bugs-in-apex-central-and-tmee-policyserver.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/10/TrendMicro.jpg",
       "publishedAt": "2025-06-13T07:06:54Z",
@@ -1176,19 +1228,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
-      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
-      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
-      "publishedAt": "2025-06-11T06:00:00Z",
-      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Bell peppers: A colorful superfood for vibrant health",
       "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
@@ -1200,54 +1239,15 @@
     {
       "source": {
         "id": null,
-        "name": "Cdc.gov"
+        "name": "Naturalnews.com"
       },
-      "author": null,
-      "title": "Promising Effects of Duck Vaccination against Highly Pathogenic Avian Influenza, France 2023–2024",
-      "description": "Promising Effects of Duck Vaccination against Highly Pathogenic Avian Influenza, France, 2023–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/31/7/24-1445_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2025-06-11T04:00:00Z",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Highly pathogenic avian in… [+6506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "author": "AFP",
-      "title": "Toxic Thailand rivers pinned on Myanmar mines",
-      "description": "A sprawling new mine is gouged into the lush rolling hills of northeast Myanmar, where civil war has weakened the government’s already feeble writ, and pollution levels are rising downstream in Thailand. The complex is one of around a dozen extraction operati…",
-      "url": "https://www.digitaljournal.com/world/toxic-thailand-rivers-pinned-on-myanmar-mines/article",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/06/63f8c69c7cf458949f1e4a2186cf132ebcc3fea2.jpg",
-      "publishedAt": "2025-06-11T02:47:20Z",
-      "content": "Thai authorities say they have detected high arsenic levels in their waterways, which could pose a risk to aquatic life and people - Copyright AFP Manan VATSYAYANA\r\nA sprawling new mine is gouged int… [+4481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "P. East Trading Corp Distributors Issues Alert on Uneviscerated 'Salted Smoked Split Herring’ Due to Potential Clostridium Botulinum Contamination",
-      "description": "P. East Trading Corp. of Bronx, NY is recalling Salted Smoked Split Herring because the product was found to be over 5\" in length and uneviscerated, as such having potential to be contaminated with Clostridium botulinum, a bacterium which can cause life-threa…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/p-east-trading-corp-distributors-issues-alert-uneviscerated-salted-smoked-split-herring-due",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-06-10T21:12:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJune 10, 2025\r\nFDA Publish Date:\r\nJune 10, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Description\r\nPot… [+4971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thehillstimes.in"
-      },
-      "author": "The Hills Times",
-      "title": "Training programme on mushroom cultivation and food processing held at Manja",
-      "description": "HT Bureau DIPHU, June 10: A one-day training-cum-awareness programme on mushroom cultivation and preparation of pickles and ginger-based products was held on Tuesday at the Assam Hills Small Industries Development Corporation Ltd. (AHSIDC) Industrial Complex,…",
-      "url": "https://thehillstimes.in/assam/training-programme-on-mushroom-cultivation-and-food-processing-held-at-manja",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/06/Training-programme.jpeg",
-      "publishedAt": "2025-06-10T20:55:00Z",
-      "content": "HT Bureau\r\nDIPHU, June 10: A one-day training-cum-awareness programme on mushroom cultivation and preparation of pickles and ginger-based products was held on Tuesday at the Assam Hills Small Industr… [+2084 chars]"
+      "author": "Ramon Tomey",
+      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
+      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
+      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
+      "publishedAt": "2025-06-11T06:00:00Z",
+      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
     }
   ],
   "totalResults": 96,
