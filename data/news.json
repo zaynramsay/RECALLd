@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-06-17T12:52:52.148Z",
+  "lastUpdated": "2025-06-17T18:34:58.700Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Law enforcement operation shut down dark web drug marketplace Archetyp Market",
+      "description": "Europol shut down Archetyp Market, a major dark web drug marketplace, in a global operation with arrests and takedowns. An international law enforcement operation led by Europol dismantled Archetyp Market, the most enduring dark web marketplace. The marketpla…",
+      "url": "https://securityaffairs.com/179053/deep-web/europol-shut-down-archetyp-market-marketplace.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-25-1024x576.png",
+      "publishedAt": "2025-06-16T18:28:25Z",
+      "content": "Law enforcement operation shut down dark web drug marketplace Archetyp Market\r\n | New Anubis RaaS includes a wiper module\r\n | New Predator spyware infrastructure revealed activity in Mozambique for t… [+172944 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Oumaima El garraoui, Amal Loqman, Fatima-Ezahra Amouat, Said Hasnaoui, Nabila Soraa, Souad Loqman",
+      "title": "Antimicrobial resistance and molecular detection of extended-spectrum ß-lactamase (ESBL)-producing Escherichia coli in municipal wastewater in Marrakech",
+      "description": "Extended-spectrum β-lactamase-producing Escherichia coli (ESBL-EC) poses a major threat to public health. However, its environmental dissemination, especially through wastewater, remains insufficiently addressed. This paper examines the presence of ESBL-EC in…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325816",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325816.g002&size=inline",
+      "publishedAt": "2025-06-16T14:00:00Z",
+      "content": "Abstract\r\nExtended-spectrum -lactamase-producing Escherichia coli (ESBL-EC) poses a major threat to public health. However, its environmental dissemination, especially through wastewater, remains ins… [+38127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ye Wang, Mingyou Hu, Fang Wang, Juan Yu, Guojian Shao",
+      "title": "Rapid determination of sodium pentachlorophenate in bamboo and wooden cutting boards via ultrasonic-assisted liquid-liquid extraction coupled with ultra-performance liquid chromatography-high resolution mass spectrometry",
+      "description": "Sodium pentachlorophenate (PCP-Na) is a toxic preservative used in wood products, posing potential health risks through food contact materials. A rapid analytical method combining ultrasonic-assisted liquid-liquid extraction with ultra-performance liquid chro…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326129",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326129.g006&size=inline",
+      "publishedAt": "2025-06-16T14:00:00Z",
+      "content": "Abstract\r\nSodium pentachlorophenate (PCP-Na) is a toxic preservative used in wood products, posing potential health risks through food contact materials. A rapid analytical method combining ultrasoni… [+28007 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Iranians flee capital for safety as Israeli airstrikes intensify",
+      "description": "Amid escalating tensions, Tehran residents are fleeing, fearing intensified Israeli airstrikes. Warnings from the Israeli military prompted panic, despite Iranian authorities' attempts to downplay the situation. Civilians are stocking up on essentials, facing…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iranians-flee-capital-for-safety-as-israeli-airstrikes-intensify/articleshow/121887385.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121887460,width-1200,height-630,imgsize-255074,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-16T13:43:41Z",
+      "content": "Thousands of residents of the Iranian capital Tehran are fleeing their homes and stockpiling essential supplies for fear that Israel's airstrike campaign against longtime foe Iran will escalate in th… [+4742 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -172,6 +224,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Talc linked to cancer and other health problems",
+      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
+      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
+      "publishedAt": "2025-06-15T06:00:00Z",
+      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
+    },
+    {
+      "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
@@ -186,15 +251,15 @@
     {
       "source": {
         "id": null,
-        "name": "Naturalnews.com"
+        "name": "Mit.edu"
       },
-      "author": "Olivia Cook",
-      "title": "Talc linked to cancer and other health problems",
-      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
-      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
-      "publishedAt": "2025-06-15T06:00:00Z",
-      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
+      "author": "Zach Winn | MIT News",
+      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
+      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
+      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
+      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
+      "publishedAt": "2025-06-15T04:00:00Z",
+      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
     },
     {
       "source": {
@@ -208,19 +273,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/83013a/article69696978.ece/alternates/LANDSCAPE_1200/IMG_iStock-923832134_2_1_0DD129FH.jpg",
       "publishedAt": "2025-06-15T04:00:00Z",
       "content": "Before carbon credits and climate conferences, there was the soil. And even before the soil, there existed the sky.\r\nAncient India had read the Earth and stars together, as a single text. It wrote it… [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mit.edu"
-      },
-      "author": "Zach Winn | MIT News",
-      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
-      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
-      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
-      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
-      "publishedAt": "2025-06-15T04:00:00Z",
-      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
     },
     {
       "source": {
@@ -606,7 +658,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer",
-      "description": "Trend Micro fixed multiple vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. Trend Micro address remote code execution and authentication bypass vulnerabilities impacting its Endpoint Encryption (TMEE) PolicySe���",
+      "description": "Trend Micro fixed multiple vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. Trend Micro address remote code execution and authentication bypass vulnerabilities impacting its Endpoint Encryption (TMEE) PolicySe…",
       "url": "https://securityaffairs.com/178952/security/trend-micro-fixes-critical-bugs-in-apex-central-and-tmee-policyserver.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/10/TrendMicro.jpg",
       "publishedAt": "2025-06-13T07:06:54Z",
@@ -1196,58 +1248,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-06-11T08:48:00Z",
       "content": "Dublin, June 11, 2025 (GLOBE NEWSWIRE) -- The \"Green Solvents Market Research Report 2025-2035\" has been added to ResearchAndMarkets.com's offering.\r\nThe Green Solvents market accounted for USD 2.2 B… [+8585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Sowmya Ramasubramanian, Sakshi Sadashiv",
-      "title": "Mint Explainer: What does Maharashtra FDA's crackdown on Zepto, Blinkit mean for quick commerce?",
-      "description": "Experts say that quick commerce platforms have scaled rapidly without proportionate investment in backend food safety protocols. When platforms fail on hygiene, stock accuracy, or seller experience, it threatens the whole model.",
-      "url": "https://www.livemint.com/companies/start-ups/explainer-fda-crackdown-on-zepto-blinkit-quick-commerce-q-commerce-food-hygeine-food-safety-11749623937374.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/11/1600x900/INDIA-QUICK-COMMERCE-GROWTH-0_1749626152393_1749626560402.JPG",
-      "publishedAt": "2025-06-11T08:13:52Z",
-      "content": "Bengaluru/New Delhi: In a major regulatory sweep, the Maharashtra Food and Drug Administration (FDA) has taken action against two major playersZepto and Blinkitfor serious lapses in food safety and h… [+7243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "A flaw could allow recovery of the phone number associated with any Google account",
-      "description": "A vulnerability could allow recovery of the phone number associated with a Google account by carrying out a brute force attack. The security researcher who goes online with the moniker “brutecat” discovered that it is possible to brute force the phone number …",
-      "url": "https://securityaffairs.com/178871/hacking/a-flaw-could-allow-recovery-of-the-phone-number-associated-with-any-google-account.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/08/google-logo.png",
-      "publishedAt": "2025-06-11T07:05:44Z",
-      "content": "A flaw could allow recovery of the phone number associated with any Google account\r\n | Texas Department of Transportation (TxDOT) data breach exposes 300,000 crash reports\r\n | SAP June 2025 Security … [+171577 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Bell peppers: A colorful superfood for vibrant health",
-      "description": "Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function. Red peppers (fully ripened) are sweeter and more nutrient-dense than green ones. Each color offers unique flavors…",
-      "url": "https://www.naturalnews.com/2025-06-11-bell-peppers-colorful-superfood-for-vibrant-health.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Pepper-Background-Bell-Bright-Bulgarian-Chilli-Close.jpg",
-      "publishedAt": "2025-06-11T06:00:00Z",
-      "content": "<ul><li>Bell peppers are rich in vitamins C, A, B6, K1 and antioxidants like lycopene and zeaxanthin, supporting immunity, eye health and heart function.</li><li>Red peppers (fully ripened) are sweet… [+7131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Fungal contamination sparks nationwide RECALL of medicated swabs",
-      "description": "Church & Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in their cotton components. The FDA warned that compromised nasal or oral …",
-      "url": "https://www.naturalnews.com/2025-06-11-fungal-contamination-sparks-nationwide-recall-medicated-swabs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cotton-tip-applicators.jpg",
-      "publishedAt": "2025-06-11T06:00:00Z",
-      "content": "<ul><li>Church &amp; Dwight Co., Inc. recalled three swab products (Zicam Cold Remedy Nasal Swabs, Zicam Nasal AllClear Swabs, and Orajel Baby Teething Swabs) due to potential fungal contamination in… [+4669 chars]"
     }
   ],
   "totalResults": 96,
