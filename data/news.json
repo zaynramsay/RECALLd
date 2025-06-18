@@ -1,6 +1,292 @@
 {
-  "lastUpdated": "2025-06-18T12:52:33.173Z",
+  "lastUpdated": "2025-06-18T18:34:55.374Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Gummy Vitamin recall: FDA Flags B12 supplements sold on Amazon, Aldi — See which brands are affected",
+      "description": "A batch of gummy vitamins distributed through major U.S. retailers such as Amazon, Aldi, and BJ’s Wholesale Club has been voluntarily recalled, according to an announcement by Vita Warehouse Corp.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gummy-vitamin-recall-fda-flags-b12-supplements-sold-on-amazon-aldi-see-which-brands-are-affected/articleshow/121915619.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121915666,width-1200,height-630,imgsize-100340,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-17T18:13:45Z",
+      "content": "A batch of gummy vitamins sold across major U.S. retailers including Amazon, Aldi, and BJs Wholesale Club has been voluntarily recalled following the detection of a potentially dangerous undeclared a… [+3370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Wrong vitamins making your acne 10 times worse",
+      "description": "The mirror doesn’t lie, and neither does that persistent pimple that’s been camping out on your chin for what feels like forever. Despite investing in countless cleansers, serums, and treatments, your skin seems determined to stay in rebellion mode. If you’re…",
+      "url": "https://rollingout.com/2025/06/17/vitamins-making-your-acne-10-times-worse/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/06/shutterstock_2504652463-scaled.jpg",
+      "publishedAt": "2025-06-17T18:08:21Z",
+      "content": "The mirror doesn’t lie, and neither does that persistent pimple that’s been camping out on your chin for what feels like forever. Despite investing in countless cleansers, serums, and treatments, you… [+10800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Logan Deloye",
+      "title": "Contaminated Food Recalled In Texas Poses Very 'Severe' Health Risk - NewsBreak",
+      "description": "Contaminated Food Recalled In Texas Poses Very 'Severe' Health Risk - NewsBreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/4054855629096-contaminated-food-recalled-in-texas-poses-very-severe-health-risk?s=a2&amp;share_destination_id=MjMyMjEyMTgxLTE3NTAxNzkzMDE3NTg%3D&amp;pd=0FiKzlLu&amp;hl=en_US&amp;send_time=1750179301&amp;actBtn=topBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.24.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_rank_exp_25q2-v2%2Cns_foryou_blend_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v7",
+      "urlToImage": "https://img.particlenews.com/img/id/2nKnXh_11rllqoR00",
+      "publishedAt": "2025-06-17T16:55:33Z",
+      "content": "Photo: iStockphoto\r\nHofood99 recalled 200g packages of Enoki Mushrooms on Wednesday (June 11) due to a possible Listeria monocytogenes contamination.\r\nAccording to the United States Food &amp; Drug A… [+1249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ariel Zilber",
+      "title": "Breyers recalls 6,600 cases of Rocky Road ice cream over potentially life-threatening allergen",
+      "description": "June 2 recall involves 6,668 cases of Rocky Road ice cream that were mistakenly packaged as Breyers Chocolate Truffle.",
+      "url": "https://nypost.com/2025/06/17/business/breyers-recalls-6600-cases-of-rocky-road-ice-cream-over-allergen/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/hand-pulls-carton-breyers-rocky-106647793.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-06-17T15:27:17Z",
+      "content": "Unilever subsidiary Breyers has issued a nationwide recall of more than 6,600 cases of Rocky Road ice cream after a packaging error resulted in potentially dangerous allergen mislabeling, according t… [+3671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Sandwich Recall Update as FDA Issues Most Severe Risk Warning",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nThe U.S. Food and Drug Administration (FDA) has given its highest risk level, Class I, to a recall of Big Y made-to-order sandwiches linked to a potential salmonella contamination.\nNewsweek has reached out to …",
+      "url": "https://biztoc.com/x/7060abb1d4e08a73",
+      "urlToImage": "https://biztoc.com/cdn/7060abb1d4e08a73_s.webp",
+      "publishedAt": "2025-06-17T15:20:36Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.The U.S. Food and Drug Administration (FDA) has given its highest risk level, Class I, to a recall of Big Y made-to-order sandwiches linked to a poten… [+139 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Marni Rose McFall",
+      "title": "Sandwich Recall Update as FDA Issues Most Severe Risk Warning",
+      "description": "The recall level is reserved for when consuming the product could potentially cause adverse health consequences or death.",
+      "url": "https://www.newsweek.com/sandwhich-recall-bigy-update-fda-risk-salmonella-2086731",
+      "urlToImage": "https://d.newsweek.com/en/full/2664807/sandwich.jpg",
+      "publishedAt": "2025-06-17T15:11:17Z",
+      "content": "The U.S. Food and Drug Administration (FDA) has given its highest risk level, Class I, to a recall of Big Y made-to-order sandwiches linked to a potential salmonella contamination.\r\nNewsweek has reac… [+2708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Medtech Products Inc. Issues Nationwide Recall of Little Remedies® Honey Cough Syrup Due to Microbial Contamination",
+      "description": "June 17, 2025—Medtech Products Inc., a Prestige Consumer Healthcare Inc. company (“Medtech” or “Company”), is voluntarily recalling five lots of Little Remedies® Honey Cough Syrup (the “Product”) due to the presence of Bacillus cereus and loss of shelf-stabil…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/medtech-products-inc-issues-nationwide-recall-little-remediesr-honey-cough-syrup-due-microbial",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-17T15:04:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJune 17, 2025\r\nFDA Publish Date:\r\nJune 18, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Description\r\nPot… [+2885 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LADbible"
+      },
+      "author": "Anish Vij",
+      "title": "Disturbing truth behind getting a single scratch on a non-stick pan is worse than people could imagine",
+      "description": "Non-stick pans have forever chemicals and toxic PFAS, a study has found",
+      "url": "https://www.ladbible.com/news/health/non-stick-pan-scratch-study-132706-20250617",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt4208267f37ffd68b/68517031d39627338444914e/GettyImages-1783844521.jpg",
+      "publishedAt": "2025-06-17T14:49:39Z",
+      "content": "A disturbing study suggests that just a single scratch on certain types of non-stick pans could have major health implications.\r\nIn 2022, the Global Centre for Environmental Remediation published the… [+2527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "$141.46 Bn Botanical Supplements Market Opportunities and Strategies to 2034: Innovation Drives Growth, From Nutri-Tech to Skin Wellness",
+      "description": "The global botanical supplements market, valued at $61.23B in 2024, is anticipated to grow to $141.46B by 2034, driven by rising health awareness and e-commerce expansion. Key players include Nature's Bounty and GNC. Asia-Pacific leads in growth. Opportunitie…",
+      "url": "https://www.globenewswire.com/news-release/2025/06/17/3100841/28124/en/141-46-Bn-Botanical-Supplements-Market-Opportunities-and-Strategies-to-2034-Innovation-Drives-Growth-From-Nutri-Tech-to-Skin-Wellness.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-06-17T14:14:00Z",
+      "content": "Dublin, June 17, 2025 (GLOBE NEWSWIRE) -- The \"Botanical Supplements Market Opportunities and Strategies to 2034\" report has been added to ResearchAndMarkets.com's offering.\r\nThis report describes an… [+11228 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Alyce Collins",
+      "title": "Millions in Pennsylvania May Be Drinking Contaminated Water",
+      "description": "3.5 million people in Pennsylvania are served from private wells—65 percent of wells tested were found to contain 'forever chemicals.'",
+      "url": "https://www.newsweek.com/pennsylvania-water-drinking-contaminated-well-pfas-forever-chemicals-2086647",
+      "urlToImage": "https://d.newsweek.com/en/full/2664667/drinking-water.jpg",
+      "publishedAt": "2025-06-17T14:01:18Z",
+      "content": "Millions of people in Pennsylvania may be drinking water contaminated with forever chemicals.\r\nThis is the conclusion of a study from the Pennsylvania State University, which sampled water from 167 p… [+3648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Johann Ludovic Martial Happi, Aimé Roger Nzigou, Gauthier Schaal, Marie-Laure Rouget, Rolf Gael Mabicka Obame, François Le Loc’h, Jean-Daniel Mbega, Christophe Leboulanger, Patrick Mickala",
+      "title": "Characterization of mangrove mudflat sediment contamination by fecal bacteria and trace metals: A multivariate assessment in equatorial marine protected areas in Gabon, Western Central Africa",
+      "description": "Among the most productive ecosystems worldwide, mangroves contribute to global carbon sequestration and play a pivotal role for many species, including supporting the sustainable provision of intertropical fisheries resources. Despite the many essential ecosy…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326172",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326172.g008&size=inline",
+      "publishedAt": "2025-06-17T14:00:00Z",
+      "content": "Abstract\r\nAmong the most productive ecosystems worldwide, mangroves contribute to global carbon sequestration and play a pivotal role for many species, including supporting the sustainable provision … [+61202 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Zahid Hasan Khan, Shamim Ahmed, Mohammad Ashraful Amin, Md Taufiqul Islam, Faisal Ahmmed, Motaher Hossain, Muhammad Shariful Islam, Tajul Islam A. Bari, Taufiqur Rahman Bhuiyan, Firdausi Qadri, Ashraful I. Khan",
+      "title": "Determinants of incomplete immunization and factors for missed opportunities in urban Dhaka: A cross-sectional study",
+      "description": "Most vaccinations in the immunization schedule need two or more doses to elicit a protective immune response. Therefore, completion of all doses is crucial for achieving the best possible immunity. The objective of this study was to investigate the factors in…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326116",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326116.g003&size=inline",
+      "publishedAt": "2025-06-17T14:00:00Z",
+      "content": "Abstract\r\nMost vaccinations in the immunization schedule need two or more doses to elicit a protective immune response. Therefore, completion of all doses is crucial for achieving the best possible i… [+36227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Innocent Ndikumana, Geoffrey Onaga, Agnès Pinel-Galzi, Pauline Rocu, Judith Hubert, Hassan Karakacha Wéré, Antony Adego, Mariam Nyongesa Wéré, Nils Poulicard, Maxime Hebrard, Simon Dellicour, Philippe Lemey, Erik Gilbert, Marie-José Dugué, François Chevenet, Paul Bastide, Stéphane Guindon, Denis Fargette, Eugénie Hébrard",
+      "title": "Grains, trade and war in the multimodal transmission of Rice yellow mottle virus: An historical and phylogeographical retrospective",
+      "description": "Author summary Rice yellow mottle virus (RYMV) poses a major threat to rice production in Africa. We explored through a multidisciplinary approach the links between the history of rice in East Africa since the second half of the 19th century and the spread of…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013168",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013168.g006&size=inline",
+      "publishedAt": "2025-06-17T14:00:00Z",
+      "content": "Abstract\r\nRice yellow mottle virus (RYMV) is a major pathogen of rice in Africa. RYMV has a narrow host range limited to rice and a few related poaceae species. We explore the links between the sprea… [+71671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Samane Khalili, Ahmad Moieni, Naser Safaie, Mohammad Sadegh Sabet",
+      "title": "Piriformospora indica culture filtrate and cell extract induce chicoric acid production in Echinacea purpurea hairy roots",
+      "description": "Echinacea purpurea (L.) Moench, commonly known as purple coneflower, is a significant medicinal plant renowned for its therapeutic properties, which are attributed to various phytochemical compounds, including caffeic acid derivatives (CADs). Chicoric acid is…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323961",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323961.g005&size=inline",
+      "publishedAt": "2025-06-17T14:00:00Z",
+      "content": "Abstract\r\nEchinacea purpurea (L.) Moench, commonly known as purple coneflower, is a significant medicinal plant renowned for its therapeutic properties, which are attributed to various phytochemical … [+55343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Brandon Shannon, Rui Zhang, Lucas Marsh, Reed M. Johnson",
+      "title": "Adjuvants to improve efficacy of miticides in managed honey bee (Apis mellifera) colonies to control Varroa destructor",
+      "description": "Beekeepers must manage Varroa destructor mites to maintain colony health. Large-scale beekeepers often use chemical treatments (miticides) to manage this pest. Miticide resistance drives a need for compounds with alternative modes of toxic action that can be …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320037",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320037.g003&size=inline",
+      "publishedAt": "2025-06-17T14:00:00Z",
+      "content": "Abstract\r\nBeekeepers must manage Varroa destructor mites to maintain colony health. Large-scale beekeepers often use chemical treatments (miticides) to manage this pest. Miticide resistance drives a … [+62747 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Hélène Tréhard, Guillaume Lacour, Emilie Mosnier, Amandine Guidez, Yanouk Epelboin, Yassamine Lazrek, Felix Djossou, Jean Gaudart, Isabelle Dusfour, Lise Musset",
+      "title": "Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana",
+      "description": "Author summary In areas nearing malaria elimination, where only a few cases remain, these are either sporadically disseminated throughout the country or found in hotspots where epidemics are recurrent. These persisting pockets need to be thoroughly investigat…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013096",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013096.g007&size=inline",
+      "publishedAt": "2025-06-17T14:00:00Z",
+      "content": "Citation: Tréhard H, Lacour G, Mosnier E, Guidez A, Epelboin Y, Lazrek Y, et al. (2025) Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana. PLoS Negl Tr… [+50160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Study Finds",
+      "title": "Can Gluten Transfer Through Kissing? What Celiac Patients Need To Know",
+      "description": "In a nutshell * Gluten transfer through kissing is rare and generally minimal, with only 2 out of 20 kisses in the study resulting in gluten levels above the 20 ppm safety threshold for celiac patients. * Drinking a small glass of water before kissing signifi…",
+      "url": "https://freerepublic.com/focus/f-chat/4323557/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-06-17T13:40:01Z",
+      "content": "Skip to comments.\r\nCan Gluten Transfer Through Kissing? What Celiac Patients Need To KnowStudy Finds ^\r\n | June 16, 2025\r\n | Anne Lee, Columbia University\r\nPosted on 06/17/2025 6:40:01 AM PDT by Red … [+14035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Zhejiang Huahai Pharmaceutical Co., Ltd. - 707145 - 06/06/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/zhejiang-huahai-pharmaceutical-co-ltd-707145-06062025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-17T13:20:05Z",
+      "content": "Delivery Method:\r\nVIA Electronic Mail\r\n Return Receipt Requested\r\nReference #:\r\n320-25-78\r\nProduct:\r\nDrugs \r\nRecipient:\r\nZhejiang Huahai Pharmaceutical Co., Ltd.\r\nXunqiao Xin Street, Xunqiaozhen Linh… [+16492 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Kenil Healthcare Private Limited - 704786 - 06/12/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/kenil-healthcare-private-limited-704786-06122025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-06-17T13:20:05Z",
+      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-81\r\nProduct:\r\nDrugs \r\nRecipient:\r\nKenil Healthcare Private Limited\r\nPlot No. 319, Village Acharasan, Ankhol-Vamaj RoadTal-Kadi, District Me… [+19465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "First Aid Market to Reach USD 6.9 Billion by 2032 Due to Increasing Workplace Safety Regulations and Public Awareness Initiatives",
+      "description": "SNS Insider Highlights the U.S. First Aid Market's Growth from USD 1.59 Billion in 2023 to USD 2.33 Billion by 2032 Amid Mandatory Workforce Safety Compliance and Health Literacy Campaigns SNS Insider Highlights the U.S. First Aid Market's Growth from USD 1.5…",
+      "url": "https://www.globenewswire.com/news-release/2025/06/17/3100765/0/en/First-Aid-Market-to-Reach-USD-6-9-Billion-by-2032-Due-to-Increasing-Workplace-Safety-Regulations-and-Public-Awareness-Initiatives.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-06-17T13:18:00Z",
+      "content": "Austin, June 17, 2025 (GLOBE NEWSWIRE) -- First Aid Market Size &amp; Growth Analysis\r\nAccording to SNS Insider, the global First Aid Market was valued at USD 4.66 billion in 2023 and is projected to… [+9042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Apple products, and TP-Link routers flaws to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple products, and TP-Link routers flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Apple products, and TP-Link rout…",
+      "url": "https://securityaffairs.com/179086/security/u-s-cisa-adds-apple-products-and-tp-link-routers-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-06-17T13:15:31Z",
+      "content": "U.S. CISA adds Apple products, and TP-Link routers flaws to its Known Exploited Vulnerabilities catalog\r\n | Attackers target Zyxel RCE vulnerability CVE-2023-28771\r\n | India-based car-sharing company… [+173298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Newswire Editor",
+      "title": "Escalation of Israeli attacks on Iran risks causing serious radioactive contamination",
+      "description": "The Nobel Peace Prize-winning International Campaign to Abolish Nuclear Weapons, ICAN, has responded to the escalation in Israel's air strikes on Iran, including on its nuclear programme, by calling for an immediate end to attacks on nuclear facilities.ICAN's…",
+      "url": "https://www.commondreams.org/newswire/escalation-of-israeli-attacks-on-iran-risks-causing-serious-radioactive-contamination",
+      "urlToImage": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjEwMDM4OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgxMjIyMDI1N30.ErOfRE5hvYF7nWXKN4iUp2dOTKR2-o5weET2FxMgj9A/image.png?width=210",
+      "publishedAt": "2025-06-17T12:57:10Z",
+      "content": "The bill contains broader Medicaid work requirements than the House-passed legislation, expanding the ineffective and punitive mandates to low-income adults with children over the age of 14.\r\nThe Sen… [+3504 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -962,281 +1248,8 @@
       "urlToImage": "https://static.the-independent.com/2025/06/12/18/32/MixCollage-12-Jun-2025-02-35-PM-6734.jpeg?width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-06-12T19:58:51Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3386 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Three inmates dead, many hospitalised after suspected food poisoning near Tenkasi",
-      "description": "TENKASI: A suspected case of food contamination at a private home for the elderly in Sundarapandiapuram near Tenkasi has left three inmates, including.",
-      "url": "https://timesofindia.indiatimes.com/city/madurai/three-inmates-dead-many-hospitalised-after-suspected-food-poisoning-near-tenkasi/articleshow/121810010.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-121809994,width-1070,height-580,imgsize-1728309,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-06-12T18:02:19Z",
-      "content": "Top 10 techniques to increase focus and improve brain functioning"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Brittany Miller",
-      "title": "Over 44,000 pounds of shrimp recalled due to possible listeria contamination",
-      "description": "The affected shrimp was sold in either one-pound or five-pound bags",
-      "url": "https://www.the-independent.com/life-style/shrimp-recall-listeria-bornstein-seafoods-b2769055.html",
-      "urlToImage": "https://static.the-independent.com/2025/06/12/17/07/MixCollage-12-Jun-2025-01-03-PM-3690.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-06-12T17:43:51Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Vita-Warehouse Corp. Issues Allergy Alert on Undeclared Peanut Allergen in ALDI Welby®, Berkley Jensen®, and VitaGlobe™ Vitamin B12 Gummy Products",
-      "description": "June 12, 2025, Vita Warehouse Corp. is voluntarily recalling one lot of Welby® brand Vitamin B12 Energy Support gummy product 1000 mcg 140 gummies, Berkely Jensen® Vitamin B12 1000 mcg 250 Gummies, and VitaGlobe™ Vitamin B12 Extra Strength 60 Gummies due to t…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vita-warehouse-corp-issues-allergy-alert-undeclared-peanut-allergen-aldi-welbyr-berkley-jensenr-and",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-06-12T15:28:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJune 12, 2025\r\nFDA Publish Date:\r\nJune 13, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUndeclared … [+2884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "LA Daily News"
-      },
-      "author": "Leeann Weintraub",
-      "title": "How to stay healthy and informed about potential foodborne illnesses",
-      "description": "According to the FDA, symptoms of illness occur six hours to six days after eating contaminated food.",
-      "url": "https://www.dailynews.com/2025/06/12/how-to-stay-healthy-and-informed-about-potential-foodborne-illnesses/",
-      "urlToImage": "https://www.dailynews.com/wp-content/uploads/2025/06/GettyImages-1356240873.jpg?w=1024&h=682",
-      "publishedAt": "2025-06-12T14:26:32Z",
-      "content": "The egg industry has faced significant challenges recently, including egg shortages resulting from Avian flu outbreaks, rising costs and supply chain disruptions.\r\nMost recently, a major Salmonella o… [+4374 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Marni Rose McFall",
-      "title": "CVS Recall Update as Consumers Told to 'Immediately' Stop Using Products",
-      "description": "A number of sandwiches were recalled due to potential listeria.",
-      "url": "https://www.newsweek.com/cvs-prodcuts-recalled-full-list-2084545",
-      "urlToImage": "https://d.newsweek.com/en/full/2661780/cvs-pharmacy.jpg",
-      "publishedAt": "2025-06-12T14:20:03Z",
-      "content": "There are currently multiple recalls for CVS products, due to potential listeria contamination, listeria and more.\r\nNewsweek has listed products from the retailer per a post on its website, dating ba… [+4249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Jaimin Parmar, Krupal Patel, Vasantkumar Rabari, Ashish Patel, Dipak Kumar Sahoo, Jigneshkumar N. Trivedi",
-      "title": "A comparative analysis of microplastic contamination in hermit crab Clibanarius rhabdodactylus Forest, 1953, inhabiting intertidal and subtidal Coastal habitat of Gujarat state",
-      "description": "Microplastics (MPs) contamination has increased significantly due to inadequate plastic waste, leading to MPs infiltration in marine organisms. Crustaceans, especially the anomuran crabs, represented significant benthic communities in the intertidal zone. The…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325324",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325324.g011&size=inline",
-      "publishedAt": "2025-06-12T14:00:00Z",
-      "content": "1. Introduction\r\nThe extensive range of applications and insufficient management of plastic byproducts have led to widespread dispersion of plastic waste in both land-based and oceanic environments [… [+28026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "May N. Sule, Ibrahim El Lahham, Mutinta N. Munkombwe, Patricia Nasike, Anouk Gouvras, David Rollinson, Rashid Mbaziira, Comfort Kanshio, Giulio A. De Leo",
-      "title": "Schistosomiasis and water resources development in Africa: A scoping review and multi-case evaluation of associated snail control",
-      "description": "Author summary Man-made water bodies such as dams and irrigation schemes, are built to improve water supply, provide energy, and enhance food security. However, dams and irrigation schemes may lead to a dramatic increase in the prevalence of schistosomiasis (…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013180",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013180.g006&size=inline",
-      "publishedAt": "2025-06-12T14:00:00Z",
-      "content": "3.1. Characteristics of included African studies\r\nAll articles with relevant literature for 46 countries were identified and then those with data on percentage infection reported, percentage increase… [+36521 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Seven hospitalized after eating salami recalled due to possible salmonella",
-      "description": "The Public Health Agency of Canada released a notice Wednesday stating that 57 people — 44 in Alberta and 13 in Ontario — got sick after eating Rea brand Genoa salami and Bona brand Genova salami.",
-      "url": "https://www.cbc.ca/news/canada/calgary/salmonella-contamination-salami-recalled-1.7559166",
-      "urlToImage": "https://i.cbc.ca/1.7559184.1749733776!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/salmonella-salami-20250611.JPG?im=Resize%3D620",
-      "publishedAt": "2025-06-12T13:27:59Z",
-      "content": "Seven people have been hospitalized after eating salami recalled due to possible salmonella contamination.\r\nThe Public Health Agency of Canada released a notice Wednesday stating that 57 people  44 i… [+1038 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SinoTrack GPS device flaws allow remote vehicle control and location tracking",
-      "description": "Two vulnerabilities in SinoTrack GPS devices can allow remote vehicle control and location tracking by attackers, US CISA warns. U.S. CISA warns of two vulnerabilities in SinoTrack GPS devices that remote attackers can exploit to access a vehicle’s device pro…",
-      "url": "https://securityaffairs.com/178922/security/sinotrack-gps-device-flaws-allow-remote-vehicle-control-and-location-tracking.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-06-12T11:45:43Z",
-      "content": "SinoTrack GPS device flaws allow remote vehicle control and location tracking\r\n | U.S. CISA adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog\r\n | Exposed eyes: 40,000 securi… [+171986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Longreads.com"
-      },
-      "author": "Longreads",
-      "title": "There’s Gold in the Hills",
-      "description": "In the wide, quiet spaces of BLM land, I heard echoes of a past we’ve buried—and a future we still might save.",
-      "url": "http://longreads.com/2025/06/12/blm-land-enduring-wild-josh-jackson/",
-      "urlToImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2025/06/Enduring-Wild-Josh-Jackson-Excerpt-1.png?fit=2400%2C1400&ssl=1",
-      "publishedAt": "2025-06-12T10:00:00Z",
-      "content": "For 15 years, Longreads has published and curated the best longform writing on the weband we wouldnt exist without dedicated readers like you. Give today and ensure that quality journalism continues … [+32538 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added ASUS RT-AX55 devices, Craft CMS, and ConnectWise S…",
-      "url": "https://securityaffairs.com/178923/security/u-s-cisa-adds-wazuh-and-webdav-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-06-12T09:17:01Z",
-      "content": "U.S. CISA adds Wazuh, and WebDAV flaws to its Known Exploited Vulnerabilities catalog\r\n | Exposed eyes: 40,000 security cameras vulnerable to remote hacking\r\n | Operation Secure: INTERPOL dismantles … [+171904 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Exposed eyes: 40,000 security cameras vulnerable to remote hacking",
-      "description": "Over 40,000 internet-exposed security cameras worldwide are vulnerable to remote hacking, posing serious privacy and security risks. Bitsight warns that over 40,000 security cameras worldwide are exposed to remote hacking due to unsecured HTTP or RTSP (Real-T…",
-      "url": "https://securityaffairs.com/178908/iot/40000-security-cameras-remote-hacking.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-18.png",
-      "publishedAt": "2025-06-12T07:37:09Z",
-      "content": "Exposed eyes: 40,000 security cameras vulnerable to remote hacking\r\n | Operation Secure: INTERPOL dismantles 20,000+ malicious IPs in major cybercrime crackdown\r\n | Over 80,000 servers hit as Roundcu… [+171814 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thechronicle.com.gh"
-      },
-      "author": "admin",
-      "title": "FDA To Vendors: Stop Selling Leftover Food",
-      "description": "The Food and Drugs Authority (FDA) on Wednesday urged street food vendors to refrain from reselling leftover food to reduce the incidence of food poisoning and promote public safety. It said the practice of repackaging leftover food for sale could expose cons…",
-      "url": "https://thechronicle.com.gh/fda-to-vendors-stop-selling-leftover-food/",
-      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2022/12/jpg_20221219_091515_0000.jpg",
-      "publishedAt": "2025-06-12T07:17:09Z",
-      "content": "The Food and Drugs Authority (FDA) on Wednesday urged street food vendors to refrain from reselling leftover food to reduce the incidence of food poisoning and promote public safety.\r\nIt said the pra… [+2839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Something more toxic than gators is hiding in the swamps",
-      "description": "Mercury contamination is surfacing as a serious concern in parts of Georgia and South Carolina, particularly in regions like the Okefenokee Swamp. University of Georgia researchers found alarmingly high levels of the neurotoxic metal in alligators, especially…",
-      "url": "https://www.sciencedaily.com/releases/2025/06/250612031558.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2025-06-12T07:15:58Z",
-      "content": "New research from the University of Georgia's Odum School of Ecology and Marine Extension and Georgia Sea Grant suggests there may be elevated levels of mercury in Georgia and South Carolina waters.I… [+4826 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Drug-resistant Salmonella in recalled salami sickens dozens across Canada; hidden threat in everyday meats and how to stay safe",
-      "description": "A drug-resistant Salmonella outbreak is reported in Canada. Fifty-seven people are sick after eating recalled salami. Alberta has forty-four cases and Ontario has thirteen. Seven people needed hospital care. The CFIA recalled Rea Genoa and Bona Mild Genova sa…",
-      "url": "https://economictimes.indiatimes.com/news/international/canada/health-emergency-drug-resistant-salmonella-in-recalled-salami-sickens-dozens-across-canada-health-officials-warn-of-hidden-threat-in-everyday-meats/articleshow/121795882.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121795878,width-1200,height-630,imgsize-41364,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-06-12T06:40:12Z",
-      "content": "In a growing public health scare, 57 people, 44 in Alberta and 13 in Ontario, have fallen ill with a drug-resistant strain of Salmonella after eating Genoa and Genova salami recalled early this month… [+1709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Justinas Keturka",
-      "title": "Guy Feeds Girlfriend Slugs And Even Her Own Pet Snail For Months, Laughs While She Does It (Trigger Warning)",
-      "description": "How is this even real?",
-      "url": "https://www.boredpanda.com/boyfriend-secretly-put-slugs-in-girlfriend-food/",
-      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/06/boyfriend-secretly-put-slugs-in-girlfriend-food-fb.png",
-      "publishedAt": "2025-06-12T03:00:23Z",
-      "content": "While food is an essential source of nutrition and energy, even something healthy to us can turn dangerous quickly. This usually happens through intentional or unintentional contamination during the … [+4321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Why Pepcid Is the Only H2 Blocker Worth Taking",
-      "description": "A 70-year-old man lay unconscious, his body wracked with tremors, fever spiking to over 104 degrees Fahrenheit, his heart pounding at 150 beats per minute.1 Minutes earlier, he had received a common pain medication — meperidine — following a routine procedure…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/06/12/why-pepcid-the-only-h2-blocker-worth-taking.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/June/FB/why-pepcid-the-only-h2-blocker-worth-taking-fb.jpg",
-      "publishedAt": "2025-06-12T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "‘Safe’ Starch-Based Bioplastics Found to Harm Organs and Disrupt Metabolism",
-      "description": "Americans are being sold a false sense of safety when it comes to biodegradable plastics. Materials made from plant starches — often promoted as a greener, healthier choice — are now raising serious concerns for human health.\n\nThe conversation around plastic …",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/06/12/starch-based-microplastics-health-risks.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/June/FB/starch-based-microplastics-health-risks-fb.jpg",
-      "publishedAt": "2025-06-12T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Mushroom Recall Sparks Nationwide Warning to Customers",
-      "description": "Hofood99 Inc. is recalling their Enoki Mushrooms due to fears of potential listeria contamination.",
-      "url": "https://www.newsweek.com/mushroom-recall-sparks-nationwide-warning-2084295",
-      "urlToImage": "https://d.newsweek.com/en/full/2661403/enoki-mushroom.png",
-      "publishedAt": "2025-06-11T22:21:11Z",
-      "content": "Hofood99 Inc. is recalling packages of their Enoki Mushrooms due to fears the product may be contaminated with listeria.\r\nNewsweek reached out to the company via phone for additional comment on Wedne… [+3164 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thegatewaypundit.com"
-      },
-      "author": "Jim Hᴏft",
-      "title": "RFK Jr. Appoints Several Prominent Critics of COVID-19 Vaccines to Key Committee After Firing Entire Advisory Panel",
-      "description": "Health and Human Services Secretary Robert F.\nThe post RFK Jr. Appoints Several Prominent Critics of COVID-19 Vaccines to Key Committee After Firing Entire Advisory Panel appeared first on The Gateway Pundit.",
-      "url": "https://www.thegatewaypundit.com/2025/06/rfk-jr-appoints-several-prominent-critics-covid-19/",
-      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/11/cbsn-fusion-rfk-jr-testifies-before-house-subcommittee-thumbnail-2142119-640x360-1.jpg",
-      "publishedAt": "2025-06-11T22:15:50Z",
-      "content": "Health and Human Services Secretary Robert F. Kennedy Jr. announced Wednesday he has fired all 17 members of the CDC’s vaccine advisory panel and replaced them with a new slate of experts many of who… [+11403 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Operation Secure: INTERPOL dismantles 20,000+ malicious IPs in major cybercrime crackdown",
-      "description": "INTERPOL announced that a joint operation code-named Operation Secure took down 20,000+ malicious IPs/domains tied to 69 info-stealers. Between January and April 2025, INTERPOL led Operation Secure, a global effort that took down over 20,000 malicious IPs and…",
-      "url": "https://securityaffairs.com/178898/cyber-crime/operation-secure-interpol-dismantles-20000-malicious-ips-in-major-cybercrime-crackdown.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-17.png",
-      "publishedAt": "2025-06-11T21:32:49Z",
-      "content": "Operation Secure: INTERPOL dismantles 20,000+ malicious IPs in major cybercrime crackdown\r\n | Over 80,000 servers hit as Roundcube RCE bug gets rapidly exploited\r\n | A flaw could allow recovery of th… [+171743 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 96,
   "filteredCount": 1
 }
