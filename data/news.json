@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-06-18T06:36:03.126Z",
+  "lastUpdated": "2025-06-18T12:52:33.173Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Attackers target Zyxel RCE vulnerability CVE-2023-28771",
+      "description": "GreyNoise researchers have observed exploit attempts targeting the remote code execution vulnerability CVE-2023-28771 in Zyxel devices. On June 16, GreyNoise researchers detected exploit attempts targeting CVE-2023-28771 (CVSS score 9.8), a remote code execut…",
+      "url": "https://securityaffairs.com/179073/hacking/attackers-target-zyxel-rce-vulnerability-cve-2023-28771.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-27.png",
+      "publishedAt": "2025-06-17T10:34:40Z",
+      "content": "Attackers target Zyxel RCE vulnerability CVE-2023-28771\r\n | India-based car-sharing company Zoomcar suffered a data breach impacting 8.4M users\r\n | State-sponsored hackers compromised the email accou… [+173190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ProPublica"
+      },
+      "author": "by Debbie Cenziper, Megan Rose, Brandon Roberts and Irena Hwang",
+      "title": "Threat in Your Medicine Cabinet: The FDA’s Gamble on America’s Drugs",
+      "description": "by Debbie Cenziper, Megan Rose, Brandon Roberts and Irena Hwang \n \n\n \n We are still reporting. If you are a current or former FDA employee or someone in the industry with information about the agency, the safety of generic drugs, or the manufacturers that mak…",
+      "url": "https://www.propublica.org/article/fda-drug-loophole-sun-pharma",
+      "urlToImage": "https://img.assets-d.propublica.org/v5/images/import-loopholes-opener-promo_maxWidth_3000_maxHeight_3000_ppi_72_quality_95_embedColorProfile_true-1.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=fff905276016088197f759ecad15ac5a",
+      "publishedAt": "2025-06-17T09:00:00Z",
+      "content": "We are still reporting. If you are a current or former FDA employee or someone in the industry with information about the agency, the safety of generic drugs, or the manufacturers that make them, our… [+33743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "India-based car-sharing company Zoomcar suffered a data breach impacting 8.4M users",
+      "description": "Zoomcar disclosed a data breach impacting 8.4M users after attackers compromised its systems and contacted the company staff. Zoomcar is an India-based car-sharing and self-drive car rental company. Zoomcar discovered a data breach impacting 8.4M users after …",
+      "url": "https://securityaffairs.com/179058/data-breach/india-based-car-sharing-company-zoomcar-suffered-a-data-breach-impacting-8-4m-users.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
+      "publishedAt": "2025-06-17T07:42:40Z",
+      "content": "India-based car-sharing company Zoomcar suffered a data breach impacting 8.4M users\r\n | State-sponsored hackers compromised the email accounts of several Washington Post journalists\r\n | Law enforceme… [+173130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "State-sponsored hackers compromised the email accounts of several Washington Post journalists",
+      "description": "State-sponsored hackers compromised the email accounts of several journalists working at the Washington Post. A cyberattack, likely carried out by state-sponsored hackers, compromised the Microsoft email accounts of Washington Post journalists, including repo…",
+      "url": "https://securityaffairs.com/179065/security/state-sponsored-hackers-compromised-the-email-accounts-of-several-washington-post-journalists.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-26-1024x576.png",
+      "publishedAt": "2025-06-17T07:12:13Z",
+      "content": "State-sponsored hackers compromised the email accounts of several Washington Post journalists\r\n | Law enforcement operation shut down dark web drug marketplace Archetyp Market\r\n | New Anubis RaaS inc… [+173042 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,47 +1235,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-17.png",
       "publishedAt": "2025-06-11T21:32:49Z",
       "content": "Operation Secure: INTERPOL dismantles 20,000+ malicious IPs in major cybercrime crackdown\r\n | Over 80,000 servers hit as Roundcube RCE bug gets rapidly exploited\r\n | A flaw could allow recovery of th… [+171743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Commercial Observer"
-      },
-      "author": "Nick Trombola",
-      "title": "CEQA, California’s Controversial Environmental Law, Primed for Big Reforms",
-      "description": "Former Golden State Gov. Jerry Brown once said that reforming the California Environmental Quality Act (CEQA) was “the Lord’s work.” He isn’t alone. All of California’s governors since Ronald Reagan — Brown, George Deukmejian, Pete Wilson, Gray Davis, Arnold …",
-      "url": "http://commercialobserver.com/2025/06/ceqa-reforms-wiener-newsom/",
-      "urlToImage": "https://commercialobserver.com/wp-content/uploads/sites/3/2025/06/man-looking-at-paper-stack-GettyImages-578118140-WEB-e1749669889735.jpg?quality=80&crop=0px%2C502px%2C2000px%2C1051px&resize=1200%2C630&strip",
-      "publishedAt": "2025-06-11T19:44:13Z",
-      "content": "Former Golden State Gov. Jerry Brown once said that reforming the California Environmental Quality Act (CEQA) was the Lords work. He isnt alone.\r\nAll of Californias governors since Ronald Reagan Brow… [+12638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Stephanie Gravalese, Contributor, \n Stephanie Gravalese, Contributor\n https://www.forbes.com/sites/stephaniegravalese/",
-      "title": "Over 20 Million Eggs Recalled As Prices Fall—Why Trust Still Feels Fragile",
-      "description": "A salmonella egg recall and falling prices highlight a deeper truth: trust in the food system is slower to recover than the CPI suggests.",
-      "url": "https://www.forbes.com/sites/stephaniegravalese/2025/06/11/over-20-million-eggs-recalled-as-prices-fall-why-trust-still-feels-fragile/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6849d37cb35afba853b7c21e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-11T19:13:33Z",
-      "content": "Even as egg prices drop, consumer confidence isnt cracking back so easily. \r\nGetty Images\r\nEgg prices are finally falling. After two years of whiplash at the grocery storefirst from avian flu, then i… [+5225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Hofood99 Inc Recalls Enoki Mushroom Due to Possible Health Risk",
-      "description": "Hofood99 Inc of Brooklyn, NY 11231 is recalling its 200g packages of Enoki Mushroom, because they may be contaminated with Listeria monocytogenes",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hofood99-inc-recalls-enoki-mushroom-due-possible-health-risk",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-06-11T18:00:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJune 11, 2025\r\nFDA Publish Date:\r\nJune 11, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential Foodborne Il… [+1613 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 95,
   "filteredCount": 1
 }
