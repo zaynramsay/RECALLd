@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-06-17T18:34:58.700Z",
+  "lastUpdated": "2025-06-18T02:02:02.776Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Cucumber Recall Sparks Warning to Customers",
+      "description": "The recalled cucumbers were sold at flea markets in McAllen and Alamo Texas, the FDA says.",
+      "url": "https://www.newsweek.com/cucumber-recall-sparks-warning-customers-2086391",
+      "urlToImage": "https://d.newsweek.com/en/full/2664275/faresh-cucumber-recall.png",
+      "publishedAt": "2025-06-16T21:35:05Z",
+      "content": "Fuentes Farms Inc. is recalling boxes of their fresh cucumbers due to fears of potential Salmonella contamination.\r\nNewsweek reached out to the company via email Monday for additional comment.\r\nWhy I… [+3522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Catholic University of the Sacred Heart",
+      "title": "PFAS-eating bacteria discovered in Veneto soil",
+      "description": "Certain bacteria isolated from soil could knock out \"eternal pollutants,\" substances that, once dispersed in the environment, do not degrade and threaten human and planetary health: per- and polyfluoroalkyl substances (PFAS), present in a wide range of produc…",
+      "url": "https://phys.org/news/2025-06-pfas-bacteria-veneto-soil.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/soil-2.jpg",
+      "publishedAt": "2025-06-16T20:42:04Z",
+      "content": "Certain bacteria isolated from soil could knock out \"eternal pollutants,\" substances that, once dispersed in the environment, do not degrade and threaten human and planetary health: per- and polyfluo… [+4494 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Zoe Malin",
+      "title": "Are plastic cutting boards safe? We asked cooking experts and engineers",
+      "description": "Studies show that plastic cutting boards might cause microplastics to end up in your food. These are the best plastic-free alternatives to try instead.",
+      "url": "https://www.nbcnews.com/select/shopping/best-plastic-cutting-board-alternatives-rcna213278",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250613-plastic-cutting-board-main-c38a0c.jpg",
+      "publishedAt": "2025-06-16T20:36:14Z",
+      "content": "Everyone has one: a scratched, stained plastic cutting board thats been in your kitchen for years. Despite how many times you say to yourself, I should get a new one, you never do but now, its offici… [+15440 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Forum Gandhi and DP Bhattacharya",
+      "title": "Concerns over scavenging: Ahmedabad Police enlist animal rescuers to relocate stray dogs from AI 171 crash site",
+      "description": "Following the Air India AI 171 crash in Ahmedabad, authorities are collaborating with animal rescue teams to relocate stray dogs from the crash site. Concerns arose that the dogs were scavenging human remains, impeding recovery efforts, victim identification,…",
+      "url": "https://economictimes.indiatimes.com/news/india/concerns-over-scavenging-ahmedabad-police-enlist-animal-rescuers-to-relocate-stray-dogs-from-ai-171-crash-site/articleshow/121893339.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121893469,width-1200,height-630,imgsize-807121,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-16T19:10:26Z",
+      "content": "Ahmedabad: The city police have taken help from animal rescue teams to capture and relocate stray dogs from the Air India AI 171 crash site. This follows concerns that the dogs scavenged human remain… [+2243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Cereal recalled over possible metal contamination",
+      "description": "The recalled Honey Bunches of Oats cereal was sold in California and Colorado",
+      "url": "https://www.the-independent.com/life-style/honey-bunches-of-oats-recall-cereal-contamination-b2771056.html",
+      "urlToImage": "https://static.the-independent.com/2025/06/16/19/07/honey-bunches-of-oats.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-06-16T19:06:32Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2922 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Angelica Stabile",
+      "title": "Gummy vitamins sold at major retailers recalled by FDA due to health concerns",
+      "description": "The FDA has announced a recall of some vitamin B12 gummy products from various brands nationwide due to a potential peanut allergen, with specific lot numbers identified.",
+      "url": "https://www.foxnews.com/health/gummy-vitamins-sold-major-retailers-recalled-fda-due-health-concerns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/gettyimages-1831831117.jpg",
+      "publishedAt": "2025-06-16T19:02:14Z",
+      "content": "Various B12 gummy vitamin products have been recalled due to an undeclared peanut allergen.\r\nThe U.S. Food and Drug Administration (FDA) published an announcement on Friday from Vita Warehouse Corp.,… [+3120 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,99 +1235,8 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320034.g008&size=inline",
       "publishedAt": "2025-06-11T14:00:00Z",
       "content": "Citation: Fidanboylu M, Thomas SA (2025) Saturation kinetics and specificity of transporters for L-arginine and asymmetric dimethylarginine (ADMA) at the blood-brain and blood-CSF barriers. PLoS One … [+70781 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kingarthurbaking.com"
-      },
-      "author": "Molly Marzalek-Kelly",
-      "title": "Things bakers know: A smarter way to store your parchment: Save it to reuse again and again.",
-      "description": "The freezer is a sneakily useful baking tool. The secret to your favorite scone recipe? A rest in the freezer. The best way to ensure your pie crust doesn’t shrink? Chill the rolled-out dough in the freezer. The highest-rising biscuits you’ve ever made? I’m s…",
-      "url": "https://www.kingarthurbaking.com/blog/2025/06/11/parchment-paper-in-freezer",
-      "urlToImage": "https://www.kingarthurbaking.com/sites/default/files/2024-10/Small-Batch-Biscuits_1469.jpg",
-      "publishedAt": "2025-06-11T14:00:00Z",
-      "content": "The freezer is a sneakily useful baking tool. The secret to your favorite scone recipe? A rest in the freezer. The best way to ensure your pie crust doesnt shrink? Chill the rolled-out dough in the f… [+3245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Ameliorate Digital Consultancy Pvt Ltd",
-      "title": "Wet Process Analyzer (WPA) Market is expected to reach USD 5.7 billion by 2034 | Exactitude Consultancy",
-      "description": "Wet Process Analyzer (WPA) Market Overview 2025-2034 Wet Process Analyzer (WPA) Market Overview 2025-2034",
-      "url": "https://www.globenewswire.com/news-release/2025/06/11/3097653/0/en/Wet-Process-Analyzer-WPA-Market-is-expected-to-reach-USD-5-7-billion-by-2034-Exactitude-Consultancy.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a576ded2-f738-4a7c-bbf9-189ed83b2265",
-      "publishedAt": "2025-06-11T13:40:00Z",
-      "content": "Luton, Bedfordshire, United Kingdom, June 11, 2025 (GLOBE NEWSWIRE) -- The global Wet Process Analyzer (WPA) market is set to grow significantly over the next decade. Valued at approximately USD 3.2 … [+17593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Whyevolutionistrue.com"
-      },
-      "author": "whyevolutionistrue",
-      "title": "Readers’ wildlife photos",
-      "description": "Today we have another photo-and-text contribution from Athayde Tonhasca Júnior, this time about marijuana and its pollination.  Athayde’s text is indented, and you can enlarge the photos by clicking on them: Blowing in the wind The year 1936 is a landmark in …",
-      "url": "https://whyevolutionistrue.com/2025/06/11/readers-wildlife-photos-2369/",
-      "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2025/06/5.jpg",
-      "publishedAt": "2025-06-11T13:15:36Z",
-      "content": "Today we have another photo-and-text contribution from Athayde Tonhasca Júnior, this time about marijuana and its pollination.  Athayde’s text is indented, and you can enlarge the photos by clicking … [+8758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Over 80,000 servers hit as Roundcube RCE bug gets rapidly exploited",
-      "description": "A critical remote code execution (RCE) vulnerability in Roundcube was exploited days after patch, impacting over 80,000 servers. Threat actors exploited a critical remote code execution (RCE) flaw in Roundcube, tracked as CVE-2025-49113, just days after the p…",
-      "url": "https://securityaffairs.com/178887/hacking/over-80000-servers-hit-as-roundcube-rce-bug-gets-rapidly-exploited.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/roundcube.jpeg",
-      "publishedAt": "2025-06-11T11:39:54Z",
-      "content": "Over 80,000 servers hit as Roundcube RCE bug gets rapidly exploited\r\n | A flaw could allow recovery of the phone number associated with any Google account\r\n | Texas Department of Transportation (TxDO… [+171649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mindbodygreen.com"
-      },
-      "author": "https://www.facebook.com/AllAmericanRestorationTM/",
-      "title": "Indoor Air Quality Goes Beyond Just Using A Filter—Here's What To Know",
-      "description": "Your HVAC might be trying to tell you something.",
-      "url": "https://www.mindbodygreen.com/articles/is-mold-hiding-in-your-vents-and-air-ducts-heres-what-to-know",
-      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/iul4y5zt6m3hs11k0.jpeg",
-      "publishedAt": "2025-06-11T10:04:00Z",
-      "content": "If youve ever caught a musty smell when the AC kicks on or wondered why your allergies flare up indoors, your HVAC system, including the air vents and ducts, might be trying to tell you something. Hi… [+15525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ahouseinthehills.com"
-      },
-      "author": "Ashley Reynolds",
-      "title": "How to Maintain a Safe Household With Proper Medical Waste Disposal",
-      "description": "In an age of increasing home-based care and self-medication, more households are dealing with medical waste than ever before. Items like needles, lancets, blood-soiled dressings, and expired medications often end up in household trash, which trash services do…",
-      "url": "https://ahouseinthehills.com/how-to-maintain-a-safe-household-with-proper-medical-waste-disposal/",
-      "urlToImage": "https://ahouseinthehills.com/wp-content/uploads/2025/06/a-photograph-of-a-heavily-overflowing-ki_2ZNAWhTkRJ-10WaGa0H8Yw_s0NCl3cqSrelLi3sTA6TJA.png",
-      "publishedAt": "2025-06-11T09:54:08Z",
-      "content": "In an age of increasing home-based care and self-medication, more households are dealing with medical waste than ever before. Items like needles, lancets, blood-soiled dressings, and expired medicati… [+7669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Green Solvents Market Research 2025-2035: Increasing Applications in Emerging Markets and Industries Driving the Market to Surpass $5.5 Billion by 2035",
-      "description": "Growth is seen across diverse applications from paints to pharmaceuticals, though challenges like high costs and limited performance exist. Emerging sectors, regional demand in Asia-Pacific, and competitive innovations boost market potential. Explore trends a…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/11/3097346/28124/en/Green-Solvents-Market-Research-2025-2035-Increasing-Applications-in-Emerging-Markets-and-Industries-Driving-the-Market-to-Surpass-5-5-Billion-by-2035.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-06-11T08:48:00Z",
-      "content": "Dublin, June 11, 2025 (GLOBE NEWSWIRE) -- The \"Green Solvents Market Research Report 2025-2035\" has been added to ResearchAndMarkets.com's offering.\r\nThe Green Solvents market accounted for USD 2.2 B… [+8585 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 95,
   "filteredCount": 1
 }
