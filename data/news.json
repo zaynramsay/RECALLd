@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-06-19T06:35:51.994Z",
+  "lastUpdated": "2025-06-19T12:51:43.070Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "U.S. CISA adds Linux Kernel flaw to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Google Chromium V8 Out-of-Bounds Read and Write…",
+      "url": "https://securityaffairs.com/179104/hacking/u-s-cisa-adds-linux-kernel-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "publishedAt": "2025-06-18T11:54:27Z",
+      "content": "U.S. CISA adds Linux Kernel flaw to its Known Exploited Vulnerabilities catalog\r\n | News Flodrix botnet targets vulnerable Langflow servers\r\n | U.S. CISA adds Apple products, and TP-Link routers flaw… [+173442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Amanda Heidt",
+      "title": "Why Can Beef Be Cooked Rare but Chicken Can’t?",
+      "description": "Food microbiologists explain how to ensure different proteins, such as beef, chicken and pork, are prepared safely",
+      "url": "https://www.scientificamerican.com/article/why-can-beef-be-cooked-rare-but-chicken-cant/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/5620d865d3731540/original/meat-on-grill.jpg?m=1750197925.256&w=1200",
+      "publishedAt": "2025-06-18T10:45:00Z",
+      "content": "As the days heat up in the Northern Hemisphere, so do meats at summer barbecues. But the amount of heat you use to cook different meats matters—not only for taste but for health.\r\nEach type of protei… [+5272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "News Flodrix botnet targets vulnerable Langflow servers",
+      "description": "Attackers exploit CVE-2025-3248 in Langflow servers to deliver Flodrix botnet via downloader scripts, Trend Research reports. Trend Research uncovered an ongoing campaign exploiting the vulnerability CVE-2025-3248 to deliver the Flodrix botnet. Attackers expl…",
+      "url": "https://securityaffairs.com/179094/malware/news-flodrix-botnet-targets-vulnerable-langflow-servers.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-28.png",
+      "publishedAt": "2025-06-18T10:43:57Z",
+      "content": "News Flodrix botnet targets vulnerable Langflow servers\r\n | U.S. CISA adds Apple products, and TP-Link routers flaws to its Known Exploited Vulnerabilities catalog\r\n | Attackers target Zyxel RCE vuln… [+173358 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Hugh Cameron",
+      "title": "How Recall of 20 Million Eggs Could Affect US Prices",
+      "description": "One expert warned that the nine-state recall, linked to fears over a salmonella outbreak, could push prices up by 25 percent.",
+      "url": "https://www.newsweek.com/20-million-egg-recall-price-impact-2086698",
+      "urlToImage": "https://d.newsweek.com/en/full/2664762/egg-prices.jpg",
+      "publishedAt": "2025-06-18T09:00:01Z",
+      "content": "The recent salmonella-linked recall of 1.7 million dozen (20.4 million) eggs could drive prices significantly higher, according to one expert.\r\n\"This is not good news,\" North Carolina State Universit… [+4270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Will Stone",
+      "title": "Trump administration actions contradict MAHA rhetoric on toxic chemicals",
+      "description": "Trump says he backs the MAHA agenda which includes eliminating toxins linked to human health problems. But his administration continues to cuts funds, grants and regulations that support that goal.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/06/18/nx-s1-5436960/maha-rfk-toxic-chemicals-trump-hhs-epa",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F4a%2Fa0351067430d95c9e59afb3d35d5%2Fgettyimages-2210921325.jpg",
+      "publishedAt": "2025-06-18T09:00:00Z",
+      "content": "It was a surreal moment for Susanne Brander.\r\nShe was sitting in the audience at a conference in April as Health Secretary Robert F. Kennedy Jr. spoke about the health effects of exposure to harmful … [+12923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "How Long Do Eggs Really Stay Fresh? Longer Than You Think",
+      "description": "Here's how to tell if your eggs are still safe to eat, according to an expert.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/how-long-do-eggs-last-in-fridge/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/454f63b65202d17dc67603f7bf051915e6f1a389/hub/2022/09/16/d9511990-ea04-4908-9198-faa0aeeb4c82/gettyimages-1308706741.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-06-18T07:15:03Z",
+      "content": "Eggs are one of the most versatile and affordable ingredients in the kitchen, but if you're not storing them correctly, you might be throwing money away without realizing it. With grocery prices stil… [+4922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Economictimes.com"
+      },
+      "author": "iStock",
+      "title": "6 foods you must avoid in monsoon",
+      "description": "The monsoon brings much-needed relief from the heat, but also creates the perfect conditions for foodborne illnesses. High humidity, water contamination, and bacterial growth make it essential to watch what you eat. Here are six foods best avoided during the …",
+      "url": "https://m.economictimes.com/news/india/6-foods-you-must-avoid-in-monsoon/leafy-vegetables/slideshow/121926010.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121926010,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+      "publishedAt": "2025-06-18T07:06:05Z",
+      "content": "Jun 18, 2025, 12:36:30 PM IST\r\nSpinach, cabbage, and lettuce are more prone to contamination during monsoon due to mud, pests, and water retention. They can carry harmful germs if not cleaned thoroug… [+721 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -558,7 +649,7 @@
       "url": "https://economictimes.indiatimes.com/news/india/concerns-over-scavenging-ahmedabad-police-enlist-animal-rescuers-to-relocate-stray-dogs-from-ai-171-crash-site/articleshow/121893339.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-121893469,width-1200,height-630,imgsize-807121,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-06-16T19:10:26Z",
-      "content": "Ahmedabad: The city police have taken help from animal rescue teams to capture and relocate stray dogs from the Air India AI 171 crash site. This follows concerns that the dogs scavenged human remain… [+2243 chars]"
+      "content": "Ahmedabad: The city police have taken help from animal rescue teams to capture and relocate stray dogs from the Air India AI 171 crash site. This follows concerns that the dogs scavenged human remain�� [+2243 chars]"
     },
     {
       "source": {
@@ -1144,112 +1235,8 @@
       "urlToImage": "https://soranews24.com/wp-content/uploads/sites/3/2025/06/Photo-2025-06-11-17-12-37-rotated.jpg?w=1200&h=630&crop=1",
       "publishedAt": "2025-06-13T17:30:07Z",
       "content": "The answer may not surprise you but the reason will.\r\nLet’s say you’re at home, going through your disaster preparedness kit, and you find a bottle of spring water you bought a long time ago in case … [+6316 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Merca20.com"
-      },
-      "author": "Bibiana Palacios",
-      "title": "Bornstein Seafoods shrimp recalled due to potential risk",
-      "description": "Bornstein Seafoods Shrimp has been recalled due to possible contamination with a bacteria that can cause serious health problems",
-      "url": "https://www.merca20.com/bornstein-seafoods-shrimp-recalled-due-to-potential-risk/",
-      "urlToImage": "https://files.merca20.com/uploads/2025/06/Bornstein-Seafoods-shrimp-recalled-due-to-potential-risk-.jpg",
-      "publishedAt": "2025-06-13T17:06:32Z",
-      "content": "The U.S. Food and Drug Administration (FDA) has announced the recall of over 44,000 pounds of Bornstein Seafoods shrimp due to potential contamination with a bacterium that can cause severe health pr… [+4608 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Theo Burman",
-      "title": "Map Shows US States Most Likely to Survive Nuclear War",
-      "description": "The map is based on a hypothetical strike that targets nuclear silo sites in Montana, North Dakota, and Nebraska.",
-      "url": "https://www.newsweek.com/us-states-survive-nuclear-war-2085128",
-      "urlToImage": "https://d.newsweek.com/en/full/2535894/nuclear-map.png",
-      "publishedAt": "2025-06-13T15:32:52Z",
-      "content": "With nuclear tensions rising due to the conflict between Israel and Iran, Newsweek has analyzed maps of what a nuclear war would look like if the U.S. were targeted.\r\nIsrael launched a wave of strike… [+3048 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Thea L. Mink, Allison P. Salinger, Naomi Francis, Becky Batagol, Kerrie Burge, Noor Ilhamsyah, Losalini Malumu, Liza Marzaman, Michaela F. Prescott, Nur Intan Putri, Sheela S. Sinharoy",
-      "title": "Who participates in ‘participatory design’ of WASH infrastructure: A mixed-methods process evaluation",
-      "description": "Inclusive participation is critical for community-based water, sanitation and hygiene (WASH) interventions, especially in complex environments such as urban informal settlements. We conducted a mixed-methods, theory-driven process evaluation to evaluate parti…",
-      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003430",
-      "urlToImage": "https://opengraph.plos.org/doi/10.1371/journal.pgph.0003430/og_image.jpg",
-      "publishedAt": "2025-06-13T14:00:00Z",
-      "content": "Abstract\r\nInclusive participation is critical for community-based water, sanitation and hygiene (WASH) interventions, especially in complex environments such as urban informal settlements. We conduct… [+62808 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Salmon Recall Update as FDA Sets Most Serious Risk Level",
-      "description": "While it is not the most common allergy in the country, almost 2 million Americans have an allergy to soy, according to Food Allergy Research and Education.",
-      "url": "https://www.newsweek.com/salmon-recall-update-fda-sets-most-serious-risk-level-2085017",
-      "urlToImage": "https://d.newsweek.com/en/full/2662442/salmon-recall.png",
-      "publishedAt": "2025-06-13T13:22:45Z",
-      "content": "The Food and Drug Administration (FDA) has announced its classification of Santa Monica Seafood Company's recall of its \"Atlantic Salmon Portions with Seafood Stuffing\" product as the highest risk ca… [+2981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Apple confirmed that Messages app flaw was actively exploited in the wild",
-      "description": "Apple confirmed that a security flaw in its Messages app was actively exploited in the wild to target journalists with Paragon’s Graphite spyware. Apple confirmed that a now-patched vulnerability, tracked as CVE-2025-43200, in its Messages app was actively ex…",
-      "url": "https://securityaffairs.com/178962/mobile-2/apple-confirmed-messages-app-flaw-actively-exploited.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/apple.jpg",
-      "publishedAt": "2025-06-13T10:15:49Z",
-      "content": "Apple confirmed that Messages app flaw was actively exploited in the wild\r\n | Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer\r\n | Paragon Graphite Spyware used a zero-day exploi… [+172233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Jesse Pines, Contributor, \n Jesse Pines, Contributor\n https://www.forbes.com/sites/jessepines/",
-      "title": "7 Tattoo Health Risks To Consider Before Getting Inked",
-      "description": "Tattoo popularity is rising, but research shows that tattoo health risks including toxins, infections, immune issues, and even cancer. Here's what you should know.",
-      "url": "https://www.forbes.com/sites/jessepines/2025/06/13/7-tattoo-health-risks-to-consider-before-getting-inked/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/684a97fd31eff4c54698766a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-06-13T10:00:00Z",
-      "content": "Increasing research shows that getting tattoos carry both short and long-term health risks\r\ngetty\r\nHistorically, tattoos existed at the fringe of society. But today, tattoos are mainstream gracing th… [+6835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Global Peristaltic Pumps Market to Reach $2.38 Billion by 2030: Increasing Demand for Contamination-Free Fluid Handling",
-      "description": "The global peristaltic pumps market is forecasted to grow to USD 2.38 billion in 2030, with a CAGR of 3.9%. This growth is driven by rising demand for contamination-free fluid handling across industries like pharmaceuticals, food & beverages, and water treatm…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/13/3098848/28124/en/Global-Peristaltic-Pumps-Market-to-Reach-2-38-Billion-by-2030-Increasing-Demand-for-Contamination-Free-Fluid-Handling.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-06-13T08:07:00Z",
-      "content": "Dublin, June 13, 2025 (GLOBE NEWSWIRE) -- The \"Peristaltic Pumps Market by Type, Flow Rate, End-use Industry and Region - Global Forecast to 2030\" has been added to ResearchAndMarkets.com's offering.… [+6240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer",
-      "description": "Trend Micro fixed multiple vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. Trend Micro address remote code execution and authentication bypass vulnerabilities impacting its Endpoint Encryption (TMEE) PolicySe…",
-      "url": "https://securityaffairs.com/178952/security/trend-micro-fixes-critical-bugs-in-apex-central-and-tmee-policyserver.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/10/TrendMicro.jpg",
-      "publishedAt": "2025-06-13T07:06:54Z",
-      "content": "Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer\r\n | Paragon Graphite Spyware used a zero-day exploit to hack at least two journalists' iPhones\r\n | SinoTrack GPS device flaws all… [+172155 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 95,
   "filteredCount": 1
 }
