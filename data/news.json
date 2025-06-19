@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-06-19T02:02:49.845Z",
+  "lastUpdated": "2025-06-19T06:35:51.994Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Cassie B.",
+      "title": "Ocean currents carry centuries-old mercury pollution to Arctic, poisoning wildlife",
+      "description": "Decades of reduced mercury emissions have not lowered contamination in Arctic wildlife, with levels now 20 to 30 times higher than pre-industrial times. New research reveals ocean currents transport centuries-old mercury pollution to the Arctic, where it pers…",
+      "url": "https://www.naturalnews.com/2025-06-18-ocean-currents-mercury-pollution-arctic-wildlife.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Winter-Antarctica-Ice-Iceberg-Sun-Sky.jpg",
+      "publishedAt": "2025-06-18T06:00:00Z",
+      "content": "<ul><li>Decades of reduced mercury emissions have not lowered contamination in Arctic wildlife, with levels now 20 to 30 times higher than pre-industrial times.</li><li>New research reveals ocean cur… [+4646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Economictimes.com"
+      },
+      "author": "ET Online",
+      "title": "8 street foods to avoid during the monsoon for better health",
+      "description": "Monsoon increases the risk of waterborne diseases and food contamination. Certain street foods, though tempting, can pose serious health risks during this season and are best avoided to stay safe.",
+      "url": "https://m.economictimes.com/news/web-stories/8-street-foods-to-avoid-during-the-monsoon-for-better-health/slideshow/121924196.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121924226,width-900,height-1200,resizemode-6.cms",
+      "publishedAt": "2025-06-18T05:42:16Z",
+      "content": "Though deep-fried, roadside pakoras are often cooked in reused oil and exposed to dust and flies, which can upset your stomach."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Logan Deloye",
+      "title": "Contaminated Food Recalled In Pennsylvania Poses Very 'Severe' Health Risk - NewsBreak",
+      "description": "Contaminated Food Recalled In Pennsylvania Poses Very 'Severe' Health Risk - NewsBreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/4054863467510-contaminated-food-recalled-in-pennsylvania-poses-very-severe-health-risk?s=a2&amp;share_destination_id=MzY5MjEyMzUtMTc1MDIxNzE1NDMzMA%3D%3D&amp;pd=02UutnTQ&amp;hl=en_US&amp;send_time=1750217154&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.24.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q2_v2-v3%2Cns_foryou_blend_exp_25q2-v3%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_rank_exp_25q2-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/35WWss_11rmGBii00",
+      "publishedAt": "2025-06-18T03:26:27Z",
+      "content": "Photo: iStockphoto\r\nHofood99 recalled 200g packages of Enoki Mushrooms on Wednesday (June 11) due to a possible Listeria monocytogenes contamination.\r\nAccording to the United States Food &amp; Drug A… [+1256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Logan Deloye",
+      "title": "Contaminated Food Recalled In Pennsylvania Poses Very 'Severe' Health Risk - NewsBreak",
+      "description": "Contaminated Food Recalled In Pennsylvania Poses Very 'Severe' Health Risk - NewsBreaknewsbreak.com",
+      "url": "https://www.newsbreak.com/share/4054863467510-contaminated-food-recalled-in-pennsylvania-poses-very-severe-health-risk?s=a2&amp;share_destination_id=MTcyODI5MjA3LTE3NTAyMTQ2MzEyODI%3D&amp;pd=0BhAlruD&amp;hl=en_US&amp;send_time=1750214631&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.24.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v2%2Cns_foryou_blend_exp_25q2-v1%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v7",
+      "urlToImage": "https://img.particlenews.com/img/id/35WWss_11rmGBii00",
+      "publishedAt": "2025-06-18T02:44:18Z",
+      "content": "Photo: iStockphoto\r\nHofood99 recalled 200g packages of Enoki Mushrooms on Wednesday (June 11) due to a possible Listeria monocytogenes contamination.\r\nAccording to the United States Food &amp; Drug A… [+1256 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Nut Recall Map Shows Six States With New Warning",
+      "description": "Frederik's brand Dark Chocolate Almonds are being recalled because they could contain undeclared cashews, the FDA says.",
+      "url": "https://www.newsweek.com/nut-recall-map-shows-six-states-new-warning-2087088",
+      "urlToImage": "https://d.newsweek.com/en/full/2665367/frederiks-brand-dark-chocolate-almonds.jpg",
+      "publishedAt": "2025-06-18T02:24:24Z",
+      "content": "Retailer Meijer is recalling packages of Frederik's brand Dark Chocolate Almonds this week because they could potentially contain cashews, which are not disclosed on the packaging.\r\nNewsweek reached … [+2914 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,71 +1248,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/10/TrendMicro.jpg",
       "publishedAt": "2025-06-13T07:06:54Z",
       "content": "Trend Micro fixes critical bugs in Apex Central and TMEE PolicyServer\r\n | Paragon Graphite Spyware used a zero-day exploit to hack at least two journalists' iPhones\r\n | SinoTrack GPS device flaws all… [+172155 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Vivanesh Parthiban",
-      "title": "Death toll rises to 4 in Tamil Nadu’s Tenkasi old-age home; suspected food contamination under probe",
-      "description": "The death toll has risen to four in the suspected food contamination case at an old-age home near Tenkasi, with a 70-year-old woman succumbing to digestive complications. Previously, three other residents died after consuming non-vegetarian meals. Over 45 inm…",
-      "url": "https://timesofindia.indiatimes.com/city/madurai/death-toll-rises-to-4-in-tamil-nadus-tenkasi-old-age-home-suspected-food-contamination-under-probe/articleshow/121821252.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-121821231,width-1070,height-580,imgsize-1239918,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-06-13T06:43:01Z",
-      "content": "Speak it, feel it, believe it: Manifestation habits to attract what you desire"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Overdriveonline.com"
-      },
-      "author": "Matt Cole",
-      "title": "Tank washouts bring cost, time investment into focus for liquid bulk niche haulers",
-      "description": "Getting used to planning for washouts -- both the time and money involved -- is a must for most tank owner-operators. If you're jumping in anew, get ready to basically relearn how to drive, too.",
-      "url": "https://www.overdriveonline.com/business/article/15748445/tanks-washouts-and-the-big-slosh-focus-time-for-tanker-haulers",
-      "urlToImage": "https://img.overdriveonline.com/mindful/rr/workspaces/default/uploads/2025/06/bauer-5.D5lS5WwrDa.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-      "publishedAt": "2025-06-13T06:25:09Z",
-      "content": "Previously in this series:Liquid-bulk tanker niche presents both rare and common challenges for owner-ops\r\nMost trucking segments dont have to worry about regular trailer washouts. Reefer haulers cer… [+6574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Kevin Hughes",
-      "title": "Dr. Stanley Jacob and Robert Herschler examine DMSO, the controversial compound with untapped medical potential",
-      "description": "DMSO, synthesized in 1866, gained medical attention in the 1960s for its ability to penetrate biological membranes and enhance drug delivery. It shows anti-inflammatory, analgesic and bacteriostatic effects, aiding conditions like arthritis and interstitial c…",
-      "url": "https://www.naturalnews.com/2025-06-13-dr-stanley-jacob-robert-herschler-examine-dmso.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Dimethyl-Sulfoxide-DMSO-Solvent-1.jpg",
-      "publishedAt": "2025-06-13T06:00:00Z",
-      "content": "<ul><li>DMSO, synthesized in 1866, gained medical attention in the 1960s for its ability to penetrate biological membranes and enhance drug delivery. It shows anti-inflammatory, analgesic and bacteri… [+4673 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Salmonella outbreak triggers recall of millions of EGGS",
-      "description": "At least 79 people across seven states were sickened (21 hospitalized) due to contaminated eggs distributed by August Egg Company. The recalled eggs included organic and cage-free varieties sold in nine states between February and May 2025. Approximately 1.7 …",
-      "url": "https://www.naturalnews.com/2025-06-13-salmonella-outbreak-triggers-recall-millions-of-eggs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Close-Up-White-Chicken-Eggs.jpg",
-      "publishedAt": "2025-06-13T06:00:00Z",
-      "content": "<ul><li>At least 79 people across seven states were sickened (21 hospitalized) due to contaminated eggs distributed by August Egg Company. The recalled eggs included organic and cage-free varieties s… [+4979 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Dried Fruit Recall Map Shows 19 States With New Warning",
-      "description": "The dried apricots were distributed to 19 states across the country, the alert says.",
-      "url": "https://www.newsweek.com/dried-fruit-recall-map-shows-19-states-new-warning-2084878",
-      "urlToImage": "https://d.newsweek.com/en/full/2662252/dried-fruit-recall.jpg",
-      "publishedAt": "2025-06-12T23:02:49Z",
-      "content": "Turkana Food Inc. has issued a recall for their dried apricots because the package label does not disclose that the product contains sulfites.\r\nNewsweek reached out to the company via phone Thursday … [+3298 chars]"
     }
   ],
   "totalResults": 96,
