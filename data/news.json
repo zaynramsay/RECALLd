@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-06-19T18:33:34.029Z",
+  "lastUpdated": "2025-06-20T02:01:51.449Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Cough Syrup Recall Sparks Nationwide Warning",
+      "description": "The Little Remedies brand of Honey Cough Syrup is being recalled due to fears of Bacillus cereus and concern of shelf-life stability.",
+      "url": "https://www.newsweek.com/cough-syrup-recall-sparks-nationwide-warning-2087654",
+      "urlToImage": "https://d.newsweek.com/en/full/2666545/cough-syrup-recall.png",
+      "publishedAt": "2025-06-18T22:45:39Z",
+      "content": "Medtech Products Inc. is recalling the Little Remedies brand of Honey Cough Syrup due to fears the product may be contaminated with Bacillus cereus bacterium and concern over the product's shelf-life… [+2575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Healthcare services company Episource data breach impacts 5.4 Million people",
+      "description": "Data breach at Healthcare services company Episource exposes personal and health data of over 5.4 million people in major cyberattack. A cyberattack on healthcare firm Episource led to a data breach exposing personal and health data of over 5.4 million indivi…",
+      "url": "https://securityaffairs.com/179115/data-breach/healthcare-services-company-episource-data-breach-impacts-5-4-million-people.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-30.png",
+      "publishedAt": "2025-06-18T20:55:24Z",
+      "content": "Healthcare services company Episource data breach impacts 5.4 Million people\r\n | Watch out, Veeam fixed a new critical bug in Backup &amp; Replication product\r\n | U.S. CISA adds Linux Kernel flaw to … [+173605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Columbia.edu"
+      },
+      "author": "Renée Cho",
+      "title": "How AI Is Revolutionizing the Recycling Industry",
+      "description": "Modern waste facilities are incorporating AI into their systems, using robots guided by AI vision systems and machine learning algorithms, high resolution cameras, hyperspectral imaging, near-infrared sensors and predictive analytics.",
+      "url": "https://news.climate.columbia.edu/2025/06/18/how-ai-is-revolutionizing-the-recycling-industry/",
+      "urlToImage": "https://media.news.climate.columbia.edu/wp-content/uploads/2025/06/2048px-Recycling_combine_-_Sunset_Pk_NYC_05-1300x866.jpg",
+      "publishedAt": "2025-06-18T20:09:39Z",
+      "content": "Recycling plant in Sunset Park, Brooklyn. Photo: CaptJayRuffins\r\nThe world produces over 2 billion metric tons of waste each year. With growing urbanization, this amount could nearly double by 2050, … [+12854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "New CDC advisers will skip some expected topics and explore a target of antivaccine activists",
+      "description": "They will take up a longtime target of anti-vaccine groups: the preservative thimerosal in flu vaccines",
+      "url": "https://www.bostonherald.com/2025/06/18/cdc-vaccine-committee-flu/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/06/CDC-Vaccine_Committee_41060-1.jpg?w=1024&h=701",
+      "publishedAt": "2025-06-18T20:00:36Z",
+      "content": "By MIKE STOBBE and LAURAN NEERGAARD, Associated Press\r\nU.S. Health Secretary Robert F. Kennedy Jr.s new vaccine advisers meet next week, but their agenda suggests theyll skip some expected topics inc… [+4659 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MIKE STOBBE Associated Press, LAURAN NEERGAARD Associated Press",
+      "title": "New CDC advisers will skip some expected topics and explore a target of antivaccine activists",
+      "description": "U.S. Health Secretary Robert F",
+      "url": "https://abcnews.go.com/Health/wireStory/new-cdc-advisers-skip-expected-topics-explore-target-122986358",
+      "urlToImage": "https://i.abcnewsfe.com/a/1f3af601-a82e-4a47-a0b8-c67e3bcb9d35/wirestory_3d27b10be11112a77c6dea86695ec4df_16x9.jpg?w=1600",
+      "publishedAt": "2025-06-18T19:50:43Z",
+      "content": "U.S. Health Secretary Robert F. Kennedy Jr.'s new vaccine advisers meet next week, but their agenda suggests they'll skip some expected topics including a vote on COVID-19 shots while taking up a lon… [+4416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Gina Vivinetto",
+      "title": "Chicken Alfredo Sold at Walmart and Kroger Recalled Over Possible Link to Deadly Listeria Outbreak",
+      "description": "A company that sells popular ready-to-eat chicken fettuccine Alfredo products at Kroger and Walmart has issued a voluntary recall due to possible listeria contamination.",
+      "url": "https://www.today.com/health/recall/walmart-kroger-listeria-chicken-alfredo-recall-rcna213761",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-06/recalled-items-cz-250320-1401b3.jpg",
+      "publishedAt": "2025-06-18T18:52:04Z",
+      "content": "A company that sells popular ready-to-eat chicken fettuccine Alfredo products at Kroger and Walmart has issued a voluntary recall due to possible listeria contamination. The products may be linked to… [+4332 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -51,7 +129,7 @@
       "url": "https://abc7chicago.com/post/deadly-listeria-outbreak-linked-chicken-alfredo-fettucine-sold-kroger-walmart/16782343/",
       "urlToImage": "https://cdn.abcotvs.com/dip/images/16783166_061825-kabc-ready-to-eat-chicken.jpg?w=1600",
       "publishedAt": "2025-06-18T17:14:20Z",
-      "content": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart st�� [+2411 chars]"
+      "content": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart st… [+2411 chars]"
     },
     {
       "source": {
@@ -1131,112 +1209,8 @@
       "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwj0ahppemuwmdbzm2i2bw5yyzi2ctz5-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntynnkbhrodzawmxiyn25qmnliadb6ntc-jpg-684ee54885c9b.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
       "publishedAt": "2025-06-15T17:08:06Z",
       "content": "CNN —As a salmonella outbreak linked to eggs has sickened 79 people across seven states as of June 5, a California-based company has recalled 1.7 million dozen eggs because of potential contamination… [+5832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Canada’s second-largest airline WestJet is containing a cyberattack",
-      "description": "Canada’s airline WestJet has suffered a cyberattack that impactd access to some internal systems and the company app. WestJet is a Canadian airline that operates both domestic and international flights. Founded in 1996, it started as a low-cost carrier and ha…",
-      "url": "https://securityaffairs.com/179027/uncategorized/canadas-airline-westjet-is-containing-a-cyberattack.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/01/canada.png",
-      "publishedAt": "2025-06-15T13:42:59Z",
-      "content": "Canadas second-largest airline WestJet is containing a cyberattack\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 49\r\n | Security Affairs newsletter Round 528 by Pierluigi Paganini INTERNATIONAL EDITI… [+172727 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 49",
-      "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Supply chain attack hits Gluestack NPM packages with 960K weekly downloads   Analysis of the latest Mirai wave exploiting TBK…",
-      "url": "https://securityaffairs.com/179018/security/security-affairs-malware-newsletter-round-49.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "publishedAt": "2025-06-15T11:50:55Z",
-      "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 49\r\n | Security Affairs newsletter Round 528 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Palo Alto Networks fixed multiple privilege escalation flaws\r\n |… [+172656 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thekenyatimes.com"
-      },
-      "author": "Michael Owino",
-      "title": "Climate Change Linked to Rising Cancer Cases in Kenya",
-      "description": "Climate change is quietly fueling a cancer epidemic in Kenya, reshaping the nation’s health crisis and forcing urgent action.",
-      "url": "https://thekenyatimes.com/health/health-science/how-climate-change-is-fueling-a-cancer-epidemic-in-kenya/",
-      "urlToImage": "https://thekenyatimescdn-ese7d3e7ghdnbfa9.z01.azurefd.net/prodimages/uploads/2024/11/Untitled-design-2024-11-29T110959.644.png",
-      "publishedAt": "2025-06-15T09:42:57Z",
-      "content": "James Mwangi remembers the first strange mole on his shoulder a small, dark spot that he thought was just a minor issue after years of working on his maize farm in the hot sun of the Rift Valley.\r\nHo… [+6570 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Security Affairs newsletter Round 528 by Pierluigi Paganini – INTERNATIONAL EDITION",
-      "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Palo Alt…",
-      "url": "https://securityaffairs.com/179014/breaking-news/security-affairs-newsletter-round-528-by-pierluigi-paganini-international-edition.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "publishedAt": "2025-06-15T09:23:11Z",
-      "content": "Security Affairs newsletter Round 528 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Palo Alto Networks fixed multiple privilege escalation flaws\r\n | Unusual toolset used in recent Fog Ransomware at… [+172607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "Talc linked to cancer and other health problems",
-      "description": "Talc, a natural mineral used for moisture absorption, is often mined near asbestos – a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns. Studies suggest a possible association between genital talc use and ovarian…",
-      "url": "https://www.naturalnews.com/2025-06-15-talc-linked-to-cancer-other-health-problems.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/ilustration-of-cancer-for-powder.jpg",
-      "publishedAt": "2025-06-15T06:00:00Z",
-      "content": "<ul><li>Talc, a natural mineral used for moisture absorption, is often mined near asbestos a known carcinogen. Contamination in cosmetic products has been detected, raising health concerns.</li><li>S… [+6748 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "Cesci Angell",
-      "title": "The lack of smart features made me quick to judge this Dyson purifying fan, but its impressive performance quickly turned things around",
-      "description": "The distinct lack of smart features had me holding my breath, but the all-around good performance from this Dyson purifying fan helped me to breathe easy.",
-      "url": "https://www.techradar.com/home/air-quality/dyson-purifier-cool-gen1-tp10-purifying-fan-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rvkUNhoB2xcV4ZagyyL6zF.jpg",
-      "publishedAt": "2025-06-15T06:00:00Z",
-      "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you’re buying the best. Find out more about how we test.Dyson Purifier Cool Gen1 TP10 Purify… [+17495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mit.edu"
-      },
-      "author": "Zach Winn | MIT News",
-      "title": "Startup’s biosensor makes drug development and manufacturing cheaper",
-      "description": "Advanced Silicon Group, founded by MIT alumna Marcie Black, developed a protein sensor that could make drug development and manufacturing much faster and less expensive.",
-      "url": "https://news.mit.edu/2025/startup-biosensor-makes-drug-development-and-manufacturing-cheaper-0615",
-      "urlToImage": "https://news.mit.edu/sites/default/files/images/202506/MIT-Advanced-Silicon-Group-01.jpg",
-      "publishedAt": "2025-06-15T04:00:00Z",
-      "content": "In the biotech and pharmaceutical industries, ELISA tests provide critical quality control during drug development and manufacturing. The tests can precisely quantify protein levels, but they also re… [+6892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Shubhanshi   Chakraborty",
-      "title": "Ancient India’s agricultural calendar as a model for regenerative farming",
-      "description": "Ancient Indian agricultural wisdom connects soil, stars, and seasons, offering a sustainable approach to farming for modern times.",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/ancient-indias-agricultural-calendar-as-a-model-for-regenerative-farming/article69695620.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/83013a/article69696978.ece/alternates/LANDSCAPE_1200/IMG_iStock-923832134_2_1_0DD129FH.jpg",
-      "publishedAt": "2025-06-15T04:00:00Z",
-      "content": "Before carbon credits and climate conferences, there was the soil. And even before the soil, there existed the sky.\r\nAncient India had read the Earth and stars together, as a single text. It wrote it… [+4536 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 93,
   "filteredCount": 0
 }
