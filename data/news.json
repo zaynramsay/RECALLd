@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-06-20T12:51:20.742Z",
+  "lastUpdated": "2025-06-20T18:34:14.923Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "China-linked group Salt Typhoon breached satellite firm Viasat",
+      "description": "China-linked APT Typhoon has reportedly targeted satellite firm Viasat, the group has breached multiple telecom providers in the past. China-linked APT group Salt Typhoon hacked the satellite communications firm Viasat, the cyber-espionage group has previousl…",
+      "url": "https://securityaffairs.com/179146/security/china-linked-group-salt-typhoon-breached-satellite-firm-viasat.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+      "publishedAt": "2025-06-19T17:58:00Z",
+      "content": "China-linked group Salt Typhoon breached satellite firm Viasat\r\n | Iran experienced a near-total national internet blackout\r\n | Malicious Minecraft mods distributed by the Stargazers DaaS target Mine… [+173821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Rob Quinn",
+      "title": "Deadly Outbreak Linked to Chicken Fettucine Alfredo",
+      "description": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart stores, federal health officials say. The outbreak, which incl…",
+      "url": "https://www.newser.com/story/370529/deadly-outbreak-linked-to-chicken-fettucine-alfredo.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1617334-12-20250619121947.jpeg",
+      "publishedAt": "2025-06-19T17:06:13Z",
+      "content": "FreshRealm, a large food producer with sites in California, Georgia, and Indiana, is recalling products made before June 17. The recall includes these products, which were sold in the refrigerated se… [+1700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PEOPLE"
+      },
+      "author": "Rachel Raposas",
+      "title": "Popular Kids’ Cough Medicine Recalled for Risk of Bacterial Infection That 'Can Cause Death'",
+      "description": "The infection typically causes gastrointestinal symptoms",
+      "url": "https://people.com/popular-kids-cough-medicine-recalled-for-risk-of-bacterial-infection-11757923",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j5PKopLIKCNvIUKA4ZM4CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/f2c9399bb6f55a9cd9d157f03d2225e9",
+      "publishedAt": "2025-06-19T16:38:27Z",
+      "content": "NEED TO KNOW\r\n<ul><li>Medtech Products is recalling five lots of its Little Remedies Honey Cough Syrup for bacterial contamination\r\n</li><li>The food-borne illness causes gastrointestinal symptoms, w… [+2472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Dangerous mislabelling sparks Meijer chocolate recall",
+      "description": "Shoppers across the Midwest are being urged to check their pantries after a popular grocery chain issued an urgent recall for chocolate-covered almonds that could pose serious health risks to unsuspecting consumers. Meijer, the beloved regional supermarket ch…",
+      "url": "https://rollingout.com/2025/06/19/mislabelling-meijer-chocolate-recall/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/06/shutterstock_2012974280-scaled.jpg",
+      "publishedAt": "2025-06-19T16:23:44Z",
+      "content": "Shoppers across the Midwest are being urged to check their pantries after a popular grocery chain issued an urgent recall for chocolate-covered almonds that could pose serious health risks to unsuspe… [+7319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Rice warning that could save your family’s life",
+      "description": "The grain sitting in millions of kitchen pantries across America carries a hidden danger that most families never suspect. Rice, beloved for its versatility and nutritional benefits, harbors a concerning secret that health experts are only beginning to fully …",
+      "url": "https://rollingout.com/2025/06/19/rice-warning-that-could-save-your-family/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/09/shutterstock_1888765588.jpg",
+      "publishedAt": "2025-06-19T16:19:10Z",
+      "content": "The grain sitting in millions of kitchen pantries across America carries a hidden danger that most families never suspect. Rice, beloved for its versatility and nutritional benefits, harbors a concer… [+9378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "cbsnews.com",
+      "title": "Kids cough syrup recalled due to microbial contamination",
+      "description": "Little Remedies® Honey Cough Syrup was voluntarily recalled due to the presence of Bacillus cereus, which can cause two types of food-borne illnesses, and loss of shelf-stability.",
+      "url": "https://biztoc.com/x/bd475d51c285e2ef",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-06-19T14:23:45Z",
+      "content": "Little Remedies® Honey Cough Syrup was voluntarily recalled due to the presence of Bacillus cereus, which can cause two types of food-borne illnesses, and loss of shelf-stability.\r\nThis story appeare… [+37 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sara  Moniuszko",
+      "title": "Kids cough syrup recalled due to microbial contamination",
+      "description": "Little Remedies® Honey Cough Syrup was voluntarily recalled due to the presence of Bacillus cereus, which can cause two types of food-borne illnesses, and loss of shelf-stability.",
+      "url": "https://www.cbsnews.com/news/little-remedies-honey-cough-syrup-recalled-microbial-contamination/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/19/a308740b-38c5-426b-b04f-289ed5f0c25c/thumbnail/1200x630/6a75626057adcf0a44f9c240b81c2839/image-1-98.png?v=64f55bb7ef9382fe7916b907da543f1f",
+      "publishedAt": "2025-06-19T14:13:25Z",
+      "content": "A children's cough syrup from brand Little Remedies is being recalled due to microbial contamination, according to federal health officials.\r\nIn an alert from the U.S. Food and Drug Administration We… [+2027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Ginger Beer Recall Update as FDA Issues Highest Risk Warning",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA ginger beer drink recalled over possible salmonella contamination has been issued the highest risk classification by the U.S. Food and Drug Administration (FDA).\nRachel's Ginger Beer (RGB Soda), a drinks man…",
+      "url": "https://biztoc.com/x/144e2d592054cc52",
+      "urlToImage": "https://biztoc.com/cdn/144e2d592054cc52_s.webp",
+      "publishedAt": "2025-06-19T14:12:50Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A ginger beer drink recalled over possible salmonella contamination has been issued the highest risk classification by the U.S. Food and Drug Administ… [+139 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Ginger Beer Recall Update as FDA Issues Highest Risk Warning",
+      "description": "Rachel's Ginger Beer issued a voluntary recall for its \"Cucumber x Tarragon Ginger Beer\" in November last year due to potential salmonella contamination.",
+      "url": "https://www.newsweek.com/ginger-beer-recall-update-fda-issues-highest-risk-warning-washington-2087733",
+      "urlToImage": "https://d.newsweek.com/en/full/2666651/ginger-beer.jpg",
+      "publishedAt": "2025-06-19T14:04:41Z",
+      "content": "A ginger beer drink recalled over possible salmonella contamination has been issued the highest risk classification by the U.S. Food and Drug Administration (FDA).\r\nRachel's Ginger Beer (RGB Soda), a… [+3680 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "CDC's vaccine panel to take up longtime target of anti-vaccine groups",
+      "description": "Health Secretary Robert F. Kennedy Jr.’s new vaccine advisers meet next week, but their agenda suggests they’ll skip some expected topics.",
+      "url": "https://www.nbcnews.com/health/health-news/cdcs-vaccine-panel-take-longtime-target-anti-vaccine-groups-rcna213933",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250619-flu-shot-RS-8ba3c6.jpg",
+      "publishedAt": "2025-06-19T13:34:58Z",
+      "content": "U.S. Health Secretary Robert F. Kennedy Jr.s new vaccine advisers meet next week, but their agenda suggests theyll skip some expected topics including a vote on Covid shots while taking up a longtime… [+4314 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -90,7 +220,7 @@
       "url": "https://www.nbcnews.com/news/us-news/raw-milk-kennedy-rcna213568",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250617-robert-f-kennedy-jr-rfk-jr-raw-milk-maha-3x2-cs-b7c8ae.jpg",
       "publishedAt": "2025-06-19T09:00:00Z",
-      "content": "When Robert F. Kennedy Jr. became health and human services secretary, advocates for raw milk were thrilled to have one of their own at the helm in Washington. A self-professed fanof the drink,Kenned�� [+9994 chars]"
+      "content": "When Robert F. Kennedy Jr. became health and human services secretary, advocates for raw milk were thrilled to have one of their own at the helm in Washington. A self-professed fanof the drink,Kenned… [+9994 chars]"
     },
     {
       "source": {
@@ -1079,125 +1209,8 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Editorial-Use-Bill-Gates-1.jpg",
       "publishedAt": "2025-06-17T06:00:00Z",
       "content": "In the high-stakes world of Silicon Valley food tech, few companies have burned through investor goodwilland cashas spectacularly as Impossible Foods. Backed by billionaire globalists like Bill Gates… [+5342 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Cereal recalled over possible metal contamination",
-      "description": "The recalled Honey Bunches of Oats cereal was sold in California and Colorado",
-      "url": "https://www.the-independent.com/life-style/honey-bunches-of-oats-cereal-recall-metal-contamination-b2771249.html",
-      "urlToImage": "https://static.the-independent.com/2025/06/16/19/07/honey-bunches-of-oats.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-06-17T04:11:55Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2922 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cdc.gov"
-      },
-      "author": null,
-      "title": "Community Outbreak of OXA-48–Producing Escherichia coli Linked to Food Premises, New Zealand, 2018–2022",
-      "description": "Outbreak of OXA-48–Producing <em>E. coli</em>, New Zealand",
-      "url": "https://wwwnc.cdc.gov/eid/article/31/7/25-0289_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2025-06-17T04:00:00Z",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Carbapenemase-producing En… [+24228 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Cucumber Recall Sparks Warning to Customers",
-      "description": "The recalled cucumbers were sold at flea markets in McAllen and Alamo Texas, the FDA says.",
-      "url": "https://www.newsweek.com/cucumber-recall-sparks-warning-customers-2086391",
-      "urlToImage": "https://d.newsweek.com/en/full/2664275/faresh-cucumber-recall.png",
-      "publishedAt": "2025-06-16T21:35:05Z",
-      "content": "Fuentes Farms Inc. is recalling boxes of their fresh cucumbers due to fears of potential Salmonella contamination.\r\nNewsweek reached out to the company via email Monday for additional comment.\r\nWhy I… [+3522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Catholic University of the Sacred Heart",
-      "title": "PFAS-eating bacteria discovered in Veneto soil",
-      "description": "Certain bacteria isolated from soil could knock out \"eternal pollutants,\" substances that, once dispersed in the environment, do not degrade and threaten human and planetary health: per- and polyfluoroalkyl substances (PFAS), present in a wide range of produc…",
-      "url": "https://phys.org/news/2025-06-pfas-bacteria-veneto-soil.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/soil-2.jpg",
-      "publishedAt": "2025-06-16T20:42:04Z",
-      "content": "Certain bacteria isolated from soil could knock out \"eternal pollutants,\" substances that, once dispersed in the environment, do not degrade and threaten human and planetary health: per- and polyfluo… [+4494 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Zoe Malin",
-      "title": "Are plastic cutting boards safe? We asked cooking experts and engineers",
-      "description": "Studies show that plastic cutting boards might cause microplastics to end up in your food. These are the best plastic-free alternatives to try instead.",
-      "url": "https://www.nbcnews.com/select/shopping/best-plastic-cutting-board-alternatives-rcna213278",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250613-plastic-cutting-board-main-c38a0c.jpg",
-      "publishedAt": "2025-06-16T20:36:14Z",
-      "content": "Everyone has one: a scratched, stained plastic cutting board thats been in your kitchen for years. Despite how many times you say to yourself, I should get a new one, you never do but now, its offici… [+15440 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Forum Gandhi and DP Bhattacharya",
-      "title": "Concerns over scavenging: Ahmedabad Police enlist animal rescuers to relocate stray dogs from AI 171 crash site",
-      "description": "Following the Air India AI 171 crash in Ahmedabad, authorities are collaborating with animal rescue teams to relocate stray dogs from the crash site. Concerns arose that the dogs were scavenging human remains, impeding recovery efforts, victim identification,…",
-      "url": "https://economictimes.indiatimes.com/news/india/concerns-over-scavenging-ahmedabad-police-enlist-animal-rescuers-to-relocate-stray-dogs-from-ai-171-crash-site/articleshow/121893339.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121893469,width-1200,height-630,imgsize-807121,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-06-16T19:10:26Z",
-      "content": "Ahmedabad: The city police have taken help from animal rescue teams to capture and relocate stray dogs from the Air India AI 171 crash site. This follows concerns that the dogs scavenged human remain… [+2243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Cereal recalled over possible metal contamination",
-      "description": "The recalled Honey Bunches of Oats cereal was sold in California and Colorado",
-      "url": "https://www.the-independent.com/life-style/honey-bunches-of-oats-recall-cereal-contamination-b2771056.html",
-      "urlToImage": "https://static.the-independent.com/2025/06/16/19/07/honey-bunches-of-oats.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-06-16T19:06:32Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2922 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Angelica Stabile",
-      "title": "Gummy vitamins sold at major retailers recalled by FDA due to health concerns",
-      "description": "The FDA has announced a recall of some vitamin B12 gummy products from various brands nationwide due to a potential peanut allergen, with specific lot numbers identified.",
-      "url": "https://www.foxnews.com/health/gummy-vitamins-sold-major-retailers-recalled-fda-due-health-concerns",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/gettyimages-1831831117.jpg",
-      "publishedAt": "2025-06-16T19:02:14Z",
-      "content": "Various B12 gummy vitamin products have been recalled due to an undeclared peanut allergen.\r\nThe U.S. Food and Drug Administration (FDA) published an announcement on Friday from Vita Warehouse Corp.,… [+3120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Law enforcement operation shut down dark web drug marketplace Archetyp Market",
-      "description": "Europol shut down Archetyp Market, a major dark web drug marketplace, in a global operation with arrests and takedowns. An international law enforcement operation led by Europol dismantled Archetyp Market, the most enduring dark web marketplace. The marketpla…",
-      "url": "https://securityaffairs.com/179053/deep-web/europol-shut-down-archetyp-market-marketplace.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-25-1024x576.png",
-      "publishedAt": "2025-06-16T18:28:25Z",
-      "content": "Law enforcement operation shut down dark web drug marketplace Archetyp Market\r\n | New Anubis RaaS includes a wiper module\r\n | New Predator spyware infrastructure revealed activity in Mozambique for t… [+172944 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
