@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-06-20T06:35:44.527Z",
+  "lastUpdated": "2025-06-20T12:51:20.742Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Iran experienced a near-total national internet blackout",
+      "description": "Iran experienced a near-total internet blackout on Wednesday as tensions with Israel escalated into the first week of conflict. Global internet monitor NetBlocks reported almost near-total Internet disruptions in Iran as tensions with Israel escalated into th…",
+      "url": "https://securityaffairs.com/179136/security/iran-experienced-a-near-total-national-internet-blackout.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-33.png",
+      "publishedAt": "2025-06-19T12:35:11Z",
+      "content": "Iran experienced a near-total national internet blackout\r\n | Malicious Minecraft mods distributed by the Stargazers DaaS target Minecraft gamers\r\n | Healthcare services company Episource data breach … [+173754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nutritionfacts.org"
+      },
+      "author": "Michael Greger M.D. FACLM",
+      "title": "A Healthy, Natural Source of Iodine?",
+      "description": "How much nori, dulse, or arame approximates the recommended daily allowance for iodine? Dairy milk supplies between a quarter and a half of the daily […]",
+      "url": "https://nutritionfacts.org/blog/a-healthy-natural-source-of-iodine/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/06/6-a-healthy-natural-source-of-iodine-1200x675.jpg",
+      "publishedAt": "2025-06-19T12:00:04Z",
+      "content": "How much nori, dulse, or arame approximates the recommended daily allowance for iodine?\r\nDairy milk supplies between a quarter and a half of the daily iodine requirement in the United States, though … [+5258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Chelsea Cook",
+      "title": "Researchers make disturbing discovery inside stomachs of earthworms: 'We were surprised by just how widespread'",
+      "description": "\"We first have to understand how it is getting there.\"",
+      "url": "https://www.yahoo.com/news/researchers-disturbing-discovery-inside-stomachs-104532584.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TIc.yTznellNO8nnOcvNqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/04f5a1af1996ddbb7a10ed14f14f11fc",
+      "publishedAt": "2025-06-19T10:45:32Z",
+      "content": "Tiny plastic particles known as microplastics are turning up in unexpected and disturbing places: inside the stomachs of earthworms, slugs, beetles, and other invertebrates that live in everyday gree… [+2721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mindbodygreen.com"
+      },
+      "author": "https://www.mindbodygreen.com/wc/jillian-kubala-ms-rd",
+      "title": "Is Kombucha *Really* That Great For Your Gut? Gastro Experts Weigh In",
+      "description": "Kombucha has great PR—but is it worth the hype?",
+      "url": "https://www.mindbodygreen.com/articles/kombucha-benefits-is-it-really-that-healthy-2025",
+      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/y2f6yyqeak5x0rub7.jpg",
+      "publishedAt": "2025-06-19T10:45:00Z",
+      "content": "Kombucha has great PR. When many people think about gut health, their mind goes straight to the bubbly brew. However, the commercialization and growing demand for affordable, tasty kombucha have led … [+15316 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Malicious Minecraft mods distributed by the Stargazers DaaS target Minecraft gamers",
+      "description": "Java-based malware targets Minecraft users via fake cheat tools, utilizing the Stargazers Ghost Network distribution-as-a-service (DaaS). Check Point researchers found a multi-stage malware on GitHub targeting Minecraft users via Stargazers DaaS, using Java/.…",
+      "url": "https://securityaffairs.com/179127/malware/malicious-minecraft-mods-distributed-by-the-stargazers-daas-target-minecraft-gamers.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-32-1024x682.png",
+      "publishedAt": "2025-06-19T10:20:54Z",
+      "content": "Malicious Minecraft mods distributed by the Stargazers DaaS target Minecraft gamers\r\n | Healthcare services company Episource data breach impacts 5.4 Million people\r\n | Watch out, Veeam fixed a new c… [+173693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Deadly listeria outbreak linked to chicken alfredo fettucine sold at Kroger and Walmart",
+      "description": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart stores, federal health officials said late Tuesday.",
+      "url": "https://nypost.com/2025/06/19/business/deadly-listeria-outbreak-linked-to-chicken-alfredo-fettucine-sold-at-kroger-and-walmart/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/106759085.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-06-19T09:43:20Z",
+      "content": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart st… [+3251 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Suzy Khimm",
+      "title": "Raw milk advocates wonder: Where is Kennedy?",
+      "description": "Kennedy champions raw milk and criticizes federal health officials for their stance, but he's yet to relax rules or reverse warnings against drinking it.",
+      "url": "https://www.nbcnews.com/news/us-news/raw-milk-kennedy-rcna213568",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250617-robert-f-kennedy-jr-rfk-jr-raw-milk-maha-3x2-cs-b7c8ae.jpg",
+      "publishedAt": "2025-06-19T09:00:00Z",
+      "content": "When Robert F. Kennedy Jr. became health and human services secretary, advocates for raw milk were thrilled to have one of their own at the helm in Washington. A self-professed fanof the drink,Kenned�� [+9994 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -331,19 +422,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Renyun Zha, Jianyun Lu, Jianying Chen, Cheng Guo, Jiahai Lu",
-      "title": "Exploring one health-based strategies for rabies elimination: Overview and future prospects",
-      "description": "Background Establishing a comprehensive and coordinated mechanism for rabies management is essential for achieving the goal of eliminating the disease. It requires the involvement of multiple disciplines and departments, as well as the implementation of neces…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013159",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013159.g002&size=inline",
-      "publishedAt": "2025-06-18T14:00:00Z",
-      "content": "Introduction\r\nRabies is an acute, lethal zoonotic infectious disease caused by rabies virus (RABV) infection, and is one of the oldest and most terrifying diseases known to humans [1]. The Lyssavirus… [+45229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Ana Korša, Moritz Baur, Nora K. E. Schulz, Jaime M. Anaya-Rojas, Alexander Mellmann, Joachim Kurtz",
       "title": "Experimental evolution of a pathogen confronted with innate immune memory increases variation in virulence",
       "description": "Author summary Understanding pathogen evolution is crucial for science and public health. A key question is whether pathogens evolve variations in virulence, which quantifies the harm inflicted on the host. While research often focuses on pathogens confronted…",
@@ -351,6 +429,19 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012839.g007&size=inline",
       "publishedAt": "2025-06-18T14:00:00Z",
       "content": "Abstract\r\nUnderstanding the drivers and mechanisms of virulence evolution is still a major goal of evolutionary biologists and epidemiologists. Theory predicts that the way virulence evolves depends … [+81126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Renyun Zha, Jianyun Lu, Jianying Chen, Cheng Guo, Jiahai Lu",
+      "title": "Exploring one health-based strategies for rabies elimination: Overview and future prospects",
+      "description": "Background Establishing a comprehensive and coordinated mechanism for rabies management is essential for achieving the goal of eliminating the disease. It requires the involvement of multiple disciplines and departments, as well as the implementation of neces…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013159",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013159.g002&size=inline",
+      "publishedAt": "2025-06-18T14:00:00Z",
+      "content": "Introduction\r\nRabies is an acute, lethal zoonotic infectious disease caused by rabies virus (RABV) infection, and is one of the oldest and most terrifying diseases known to humans [1]. The Lyssavirus… [+45229 chars]"
     },
     {
       "source": {
@@ -799,19 +890,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Brandon Shannon, Rui Zhang, Lucas Marsh, Reed M. Johnson",
-      "title": "Adjuvants to improve efficacy of miticides in managed honey bee (Apis mellifera) colonies to control Varroa destructor",
-      "description": "Beekeepers must manage Varroa destructor mites to maintain colony health. Large-scale beekeepers often use chemical treatments (miticides) to manage this pest. Miticide resistance drives a need for compounds with alternative modes of toxic action that can be …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320037",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320037.g003&size=inline",
-      "publishedAt": "2025-06-17T14:00:00Z",
-      "content": "Abstract\r\nBeekeepers must manage Varroa destructor mites to maintain colony health. Large-scale beekeepers often use chemical treatments (miticides) to manage this pest. Miticide resistance drives a … [+62747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Samane Khalili, Ahmad Moieni, Naser Safaie, Mohammad Sadegh Sabet",
       "title": "Piriformospora indica culture filtrate and cell extract induce chicoric acid production in Echinacea purpurea hairy roots",
       "description": "Echinacea purpurea (L.) Moench, commonly known as purple coneflower, is a significant medicinal plant renowned for its therapeutic properties, which are attributed to various phytochemical compounds, including caffeic acid derivatives (CADs). Chicoric acid is…",
@@ -819,6 +897,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323961.g005&size=inline",
       "publishedAt": "2025-06-17T14:00:00Z",
       "content": "Abstract\r\nEchinacea purpurea (L.) Moench, commonly known as purple coneflower, is a significant medicinal plant renowned for its therapeutic properties, which are attributed to various phytochemical … [+55343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Brandon Shannon, Rui Zhang, Lucas Marsh, Reed M. Johnson",
+      "title": "Adjuvants to improve efficacy of miticides in managed honey bee (Apis mellifera) colonies to control Varroa destructor",
+      "description": "Beekeepers must manage Varroa destructor mites to maintain colony health. Large-scale beekeepers often use chemical treatments (miticides) to manage this pest. Miticide resistance drives a need for compounds with alternative modes of toxic action that can be …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320037",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320037.g003&size=inline",
+      "publishedAt": "2025-06-17T14:00:00Z",
+      "content": "Abstract\r\nBeekeepers must manage Varroa destructor mites to maintain colony health. Large-scale beekeepers often use chemical treatments (miticides) to manage this pest. Miticide resistance drives a … [+62747 chars]"
     },
     {
       "source": {
@@ -1105,112 +1196,8 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-25-1024x576.png",
       "publishedAt": "2025-06-16T18:28:25Z",
       "content": "Law enforcement operation shut down dark web drug marketplace Archetyp Market\r\n | New Anubis RaaS includes a wiper module\r\n | New Predator spyware infrastructure revealed activity in Mozambique for t… [+172944 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Oumaima El garraoui, Amal Loqman, Fatima-Ezahra Amouat, Said Hasnaoui, Nabila Soraa, Souad Loqman",
-      "title": "Antimicrobial resistance and molecular detection of extended-spectrum ß-lactamase (ESBL)-producing Escherichia coli in municipal wastewater in Marrakech",
-      "description": "Extended-spectrum β-lactamase-producing Escherichia coli (ESBL-EC) poses a major threat to public health. However, its environmental dissemination, especially through wastewater, remains insufficiently addressed. This paper examines the presence of ESBL-EC in…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325816",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325816.g002&size=inline",
-      "publishedAt": "2025-06-16T14:00:00Z",
-      "content": "Abstract\r\nExtended-spectrum -lactamase-producing Escherichia coli (ESBL-EC) poses a major threat to public health. However, its environmental dissemination, especially through wastewater, remains ins… [+38127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Ye Wang, Mingyou Hu, Fang Wang, Juan Yu, Guojian Shao",
-      "title": "Rapid determination of sodium pentachlorophenate in bamboo and wooden cutting boards via ultrasonic-assisted liquid-liquid extraction coupled with ultra-performance liquid chromatography-high resolution mass spectrometry",
-      "description": "Sodium pentachlorophenate (PCP-Na) is a toxic preservative used in wood products, posing potential health risks through food contact materials. A rapid analytical method combining ultrasonic-assisted liquid-liquid extraction with ultra-performance liquid chro…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326129",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326129.g006&size=inline",
-      "publishedAt": "2025-06-16T14:00:00Z",
-      "content": "Abstract\r\nSodium pentachlorophenate (PCP-Na) is a toxic preservative used in wood products, posing potential health risks through food contact materials. A rapid analytical method combining ultrasoni… [+28007 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Iranians flee capital for safety as Israeli airstrikes intensify",
-      "description": "Amid escalating tensions, Tehran residents are fleeing, fearing intensified Israeli airstrikes. Warnings from the Israeli military prompted panic, despite Iranian authorities' attempts to downplay the situation. Civilians are stocking up on essentials, facing…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iranians-flee-capital-for-safety-as-israeli-airstrikes-intensify/articleshow/121887385.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121887460,width-1200,height-630,imgsize-255074,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-06-16T13:43:41Z",
-      "content": "Thousands of residents of the Iranian capital Tehran are fleeing their homes and stockpiling essential supplies for fear that Israel's airstrike campaign against longtime foe Iran will escalate in th… [+4742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New Anubis RaaS includes a wiper module",
-      "description": "Anubis RaaS now includes a wiper module, permanently deleting files. Active since Dec 2024, it launched an affiliate program in Feb 2025. Anubis is a new RaaS that combines file encryption capability with a rare “wipe mode,” permanently deleting files and pre…",
-      "url": "https://securityaffairs.com/179044/malware/anubis-raas-now-includes-a-wiper-module.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-23.png",
-      "publishedAt": "2025-06-16T11:40:59Z",
-      "content": "New Anubis RaaS includes a wiper module\r\n | New Predator spyware infrastructure revealed activity in Mozambique for the first time\r\n | Canadas second-largest airline WestJet is containing a cyberatta… [+172862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": null,
-      "title": "'Forever chemical' found in dozens of UK rivers, study finds",
-      "description": "A \"forever chemical\" that scientists worry might have an impact on reproduction has been found in all but one of 32 rivers tested across the UK, according to a study.",
-      "url": "https://news.sky.com/story/forever-chemical-found-in-dozens-of-uk-rivers-study-finds-13384466",
-      "urlToImage": "https://e3.365dm.com/25/06/1600x900/skynews-water-uk-waterways_6943401.jpg?20250616104608",
-      "publishedAt": "2025-06-16T09:30:00Z",
-      "content": "A \"forever chemical\" that scientists worry might have an impact on reproduction has been found in all but one of 32 rivers tested across the UK, according to a study.\r\nResearchers say trifluoroacetic… [+2905 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "New Predator spyware infrastructure revealed activity in Mozambique for the first time",
-      "description": "Insik Group analyzed the new Predator spyware infrastructure and discovered it’s still gaining users despite U.S. sanctions since July 2023. Despite earlier declines in activity due to U.S. sanctions and public exposure, Predator spyware has resurged. Insikt …",
-      "url": "https://securityaffairs.com/179036/hacking/new-predator-spyware-infrastructure-revealed-activity-in-mozambique-for-first-time.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-22.png",
-      "publishedAt": "2025-06-16T09:27:12Z",
-      "content": "New Predator spyware infrastructure revealed activity in Mozambique for the first time\r\n | Canadas second-largest airline WestJet is containing a cyberattack\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER R… [+172818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Kate Yoder",
-      "title": "What warped the minds of serial killers? Lead pollution, a new book argues.",
-      "description": "Ted Bundy, the Green River Killer, and others terrorized the Pacific Northwest. \"Murderland\" asks what role polluters played.",
-      "url": "http://grist.org/culture/murderland-caroline-fraser-serial-killers-pacific-northwest-lead-pollution/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2025/06/pnw-serial-killers.jpg?quality=75&strip=all",
-      "publishedAt": "2025-06-16T08:30:00Z",
-      "content": "When Ted Bundy was a child in the 1950s, he hunted for frogs in the nearby swamps in Tacoma, Washington. The young Gary Ridgway, the future Green River Killer, grew up just a short drive north. Both … [+6258 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Caitlin Hornik",
-      "title": "Dark chocolate almonds recalled over potentially fatal allergen contamination",
-      "description": "Recall is the latest of several impacting consumers in recent weeks",
-      "url": "https://www.the-independent.com/life-style/dark-chocolate-almonds-recall-meijer-cashew-allergy-b2770617.html",
-      "urlToImage": "https://static.the-independent.com/2025/01/31/15/04/iStock-121168161.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-06-16T05:59:51Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3598 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 92,
   "filteredCount": 0
 }
