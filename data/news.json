@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-21T01:59:34.690Z",
+  "lastUpdated": "2025-06-21T06:32:59.765Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Study: Most beers in the U.S. are contaminated with FOREVER CHEMICALS",
+      "description": "Many popular U.S. beers contain toxic “forever chemicals” (PFAS), with some exceeding the EPA’s 2024 safety limits for drinking water. Contamination primarily stems from PFAS-laced water used in brewing. PFAS exposure is linked to cancer, infertility, develop…",
+      "url": "https://www.naturalnews.com/2025-06-20-most-beers-in-us-contaminated-with-forever-chemicals.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Row-Of-Beer-Tasters-Lined-Up-In-A-Brewpub.jpg",
+      "publishedAt": "2025-06-20T06:00:00Z",
+      "content": "<ul><li>Many popular U.S. beers contain toxic \"forever chemicals\" (PFAS), with some exceeding the EPA's 2024 safety limits for drinking water. Contamination primarily stems from PFAS-laced water used… [+6876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "Goldenseal: The golden healer of North America",
+      "description": "Goldenseal (Hydrastis canadensis), a North American perennial herb, has been used for centuries by Indigenous tribes like the Cherokee and Iroquois for treating skin, digestive and infectious conditions. It gained popularity in the 19th century as a versatile…",
+      "url": "https://www.naturalnews.com/2025-06-20-goldenseal-the-golden-healer-of-north-america.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/goldenseal-hydrastis-canadensis-1.jpg",
+      "publishedAt": "2025-06-20T06:00:00Z",
+      "content": "<ul><li>Goldenseal (Hydrastis canadensis), a North American perennial herb, has been used for centuries by Indigenous tribes like the Cherokee and Iroquois for treating skin, digestive and infectious… [+7843 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,32 +1222,6 @@
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
       "publishedAt": "2025-06-17T13:15:31Z",
       "content": "U.S. CISA adds Apple products, and TP-Link routers flaws to its Known Exploited Vulnerabilities catalog\r\n | Attackers target Zyxel RCE vulnerability CVE-2023-28771\r\n | India-based car-sharing company… [+173298 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Common Dreams"
-      },
-      "author": "Newswire Editor",
-      "title": "Escalation of Israeli attacks on Iran risks causing serious radioactive contamination",
-      "description": "The Nobel Peace Prize-winning International Campaign to Abolish Nuclear Weapons, ICAN, has responded to the escalation in Israel's air strikes on Iran, including on its nuclear programme, by calling for an immediate end to attacks on nuclear facilities.ICAN's…",
-      "url": "https://www.commondreams.org/newswire/escalation-of-israeli-attacks-on-iran-risks-causing-serious-radioactive-contamination",
-      "urlToImage": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjEwMDM4OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgxMjIyMDI1N30.ErOfRE5hvYF7nWXKN4iUp2dOTKR2-o5weET2FxMgj9A/image.png?width=210",
-      "publishedAt": "2025-06-17T12:57:10Z",
-      "content": "The bill contains broader Medicaid work requirements than the House-passed legislation, expanding the ineffective and punitive mandates to low-income adults with children over the age of 14.\r\nThe Sen… [+3504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Attackers target Zyxel RCE vulnerability CVE-2023-28771",
-      "description": "GreyNoise researchers have observed exploit attempts targeting the remote code execution vulnerability CVE-2023-28771 in Zyxel devices. On June 16, GreyNoise researchers detected exploit attempts targeting CVE-2023-28771 (CVSS score 9.8), a remote code execut…",
-      "url": "https://securityaffairs.com/179073/hacking/attackers-target-zyxel-rce-vulnerability-cve-2023-28771.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-27.png",
-      "publishedAt": "2025-06-17T10:34:40Z",
-      "content": "Attackers target Zyxel RCE vulnerability CVE-2023-28771\r\n | India-based car-sharing company Zoomcar suffered a data breach impacting 8.4M users\r\n | State-sponsored hackers compromised the email accou… [+173190 chars]"
     }
   ],
   "totalResults": 94,
