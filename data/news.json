@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-06-21T06:32:59.765Z",
+  "lastUpdated": "2025-06-21T12:46:55.653Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "AFP",
+      "title": "More microplastics in glass bottles than plastic: study",
+      "description": "Drinks including water, soda, beer and wine sold in glass bottles contain more microplastics than those in plastic bottles, according to a surprising study released by France’s food safety agency Friday. Researchers have detected thee tiny, mostly invisible p…",
+      "url": "https://www.digitaljournal.com/world/more-microplastics-in-glass-bottles-than-plastic-study/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/06/590b8bd8a12df0a41c3238928bbba72ae2decc6e.jpg",
+      "publishedAt": "2025-06-20T09:27:20Z",
+      "content": "Drinks in glass bottles had five to 50 times more microplastic fragments than in plastic bottles - Copyright AFP -\r\nDrinks including water, soda, beer and wine sold in glass bottles contain more micr… [+2528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "International Business Times"
+      },
+      "author": "Rebecca Frasquet",
+      "title": "More Microplastics In Glass Bottles Than Plastic: Study",
+      "description": "Drinks including water, soda, beer and wine sold in glass bottles contain more microplastics than those in plastic bottles, according to a surprising study released by France's food safety agency Friday.",
+      "url": "https://www.ibtimes.com/more-microplastics-glass-bottles-plastic-study-3776307",
+      "urlToImage": "https://d.ibtimes.com/en/full/4606272/drinks-glass-bottles-had-five-50-times-more-microplastic-fragments-plastic-bottles.jpg",
+      "publishedAt": "2025-06-20T09:27:13Z",
+      "content": "Drinks including water, soda, beer and wine sold in glass bottles contain more microplastics than those in plastic bottles, according to a surprising study released by France's food safety agency Fri… [+2396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Linux flaws chain allows Root access across major distributions",
+      "description": "Researchers discovered two local privilege escalation flaws that could let attackers gain root access on systems running major Linux distributions. Qualys researchers discovered two local privilege escalation (LPE) vulnerabilities, an attacker can exploit the…",
+      "url": "https://securityaffairs.com/179174/security/linux-flaws-chain-allows-root-access-across-major-distributions.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/11/Linux-ransomware-encoder1.jpg",
+      "publishedAt": "2025-06-20T09:22:03Z",
+      "content": "Linux flaws chain allows Root access across major distributions\r\n | A ransomware attack pushed the German napkin firm Fasana into insolvency\r\n | Researchers discovered the largest data breach ever, e… [+174061 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Girl dies in food poisoning outbreak in northern France",
+      "description": "Eight children have been admitted to hospital as officials scramble to find the root of the outbreak.",
+      "url": "https://www.bbc.com/news/articles/cql0rd407zwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6530/live/7b388590-4db0-11f0-84e5-a32bf281c393.jpg",
+      "publishedAt": "2025-06-20T08:58:24Z",
+      "content": "A 12-year-old girl has died and seven other children have been taken to hospital in an outbreak of severe food poisoning centred around a northern French town.\r\nSymptoms began to emerge on 12 June in… [+1768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "A ransomware attack pushed the German napkin firm Fasana into insolvency",
+      "description": "A cyberattack pushed the German napkin firm Fasana into insolvency, likely worsening existing financial troubles and serving as the final blow. German napkin maker Fasana filed for insolvency after a major cyberattack on May 19 paralyzed its systems, halting …",
+      "url": "https://securityaffairs.com/179160/security/ransomware-attack-napkin-firm-fasana-insolvency.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/11/Cyberattack.jpg",
+      "publishedAt": "2025-06-20T07:20:30Z",
+      "content": "A ransomware attack pushed the German napkin firm Fasana into insolvency\r\n | Researchers discovered the largest data breach ever, exposing 16 billion login credentials\r\n | China-linked group Salt Typ… [+173993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Fox News",
+      "title": "Beloved American candy deemed 'unsafe to eat' in United Kingdom due to hidden chemicals (Jolly Rancher)",
+      "description": "One of America's favorite candies has been shunned by authorities in the United Kingdom, who claim it is \"unsafe to eat. The U.K.'s Food Standards Agency (FSA) announced a stern advisory against Jolly Rancher candies on June 11. The alert applies to all Jolly…",
+      "url": "https://freerepublic.com/focus/f-chat/4324185/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-06-20T06:38:40Z",
+      "content": "Skip to comments.\r\nBeloved American candy deemed 'unsafe to eat' in United Kingdom due to hidden chemicals (Jolly Rancher)Fox News ^\r\n | 6/18/25\r\n | Andrea Margolis\r\nPosted on 06/19/2025 11:38:40 PM … [+2220 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1144,84 +1222,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323961.g005&size=inline",
       "publishedAt": "2025-06-17T14:00:00Z",
       "content": "Abstract\r\nEchinacea purpurea (L.) Moench, commonly known as purple coneflower, is a significant medicinal plant renowned for its therapeutic properties, which are attributed to various phytochemical … [+55343 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Hélène Tréhard, Guillaume Lacour, Emilie Mosnier, Amandine Guidez, Yanouk Epelboin, Yassamine Lazrek, Felix Djossou, Jean Gaudart, Isabelle Dusfour, Lise Musset",
-      "title": "Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana",
-      "description": "Author summary In areas nearing malaria elimination, where only a few cases remain, these are either sporadically disseminated throughout the country or found in hotspots where epidemics are recurrent. These persisting pockets need to be thoroughly investigat…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013096",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013096.g007&size=inline",
-      "publishedAt": "2025-06-17T14:00:00Z",
-      "content": "Citation: Tréhard H, Lacour G, Mosnier E, Guidez A, Epelboin Y, Lazrek Y, et al. (2025) Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana. PLoS Negl Tr… [+50160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Study Finds",
-      "title": "Can Gluten Transfer Through Kissing? What Celiac Patients Need To Know",
-      "description": "In a nutshell * Gluten transfer through kissing is rare and generally minimal, with only 2 out of 20 kisses in the study resulting in gluten levels above the 20 ppm safety threshold for celiac patients. * Drinking a small glass of water before kissing signifi…",
-      "url": "https://freerepublic.com/focus/f-chat/4323557/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-06-17T13:40:01Z",
-      "content": "Skip to comments.\r\nCan Gluten Transfer Through Kissing? What Celiac Patients Need To KnowStudy Finds ^\r\n | June 16, 2025\r\n | Anne Lee, Columbia University\r\nPosted on 06/17/2025 6:40:01 AM PDT by Red … [+14035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Zhejiang Huahai Pharmaceutical Co., Ltd. - 707145 - 06/06/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/zhejiang-huahai-pharmaceutical-co-ltd-707145-06062025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-06-17T13:20:05Z",
-      "content": "Delivery Method:\r\nVIA Electronic Mail\r\n Return Receipt Requested\r\nReference #:\r\n320-25-78\r\nProduct:\r\nDrugs \r\nRecipient:\r\nZhejiang Huahai Pharmaceutical Co., Ltd.\r\nXunqiao Xin Street, Xunqiaozhen Linh… [+16492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Kenil Healthcare Private Limited - 704786 - 06/12/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/kenil-healthcare-private-limited-704786-06122025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-06-17T13:20:05Z",
-      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-81\r\nProduct:\r\nDrugs \r\nRecipient:\r\nKenil Healthcare Private Limited\r\nPlot No. 319, Village Acharasan, Ankhol-Vamaj RoadTal-Kadi, District Me… [+19465 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "First Aid Market to Reach USD 6.9 Billion by 2032 Due to Increasing Workplace Safety Regulations and Public Awareness Initiatives",
-      "description": "SNS Insider Highlights the U.S. First Aid Market's Growth from USD 1.59 Billion in 2023 to USD 2.33 Billion by 2032 Amid Mandatory Workforce Safety Compliance and Health Literacy Campaigns SNS Insider Highlights the U.S. First Aid Market's Growth from USD 1.5…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/17/3100765/0/en/First-Aid-Market-to-Reach-USD-6-9-Billion-by-2032-Due-to-Increasing-Workplace-Safety-Regulations-and-Public-Awareness-Initiatives.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-06-17T13:18:00Z",
-      "content": "Austin, June 17, 2025 (GLOBE NEWSWIRE) -- First Aid Market Size &amp; Growth Analysis\r\nAccording to SNS Insider, the global First Aid Market was valued at USD 4.66 billion in 2023 and is projected to… [+9042 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Apple products, and TP-Link routers flaws to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple products, and TP-Link routers flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Apple products, and TP-Link rout…",
-      "url": "https://securityaffairs.com/179086/security/u-s-cisa-adds-apple-products-and-tp-link-routers-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-06-17T13:15:31Z",
-      "content": "U.S. CISA adds Apple products, and TP-Link routers flaws to its Known Exploited Vulnerabilities catalog\r\n | Attackers target Zyxel RCE vulnerability CVE-2023-28771\r\n | India-based car-sharing company… [+173298 chars]"
     }
   ],
   "totalResults": 94,
