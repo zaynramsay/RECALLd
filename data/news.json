@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-06-21T18:31:05.952Z",
+  "lastUpdated": "2025-06-22T02:11:36.055Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Anses.fr"
+      },
+      "author": null,
+      "title": "Drinks in glass bottles contain more microplastics than those in other container",
+      "description": "Drinks contained in glass bottles contain more microplastic particles than those in plastic bottles, cartons or cans. This was the surprising finding of a study conducted by the Boulogne-sur-Mer unit of the ANSES Laboratory for Food Safety. The scientists hyp…",
+      "url": "https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers",
+      "urlToImage": "https://www.anses.fr/sites/default/files/2025-06-20-microplastiques.jpg",
+      "publishedAt": "2025-06-20T23:01:34Z",
+      "content": "The aim of the ANSES study was to determine the level of microplastic contamination in drinks such as water, soda, iced tea, wine and beer; it also sought to establish the impact of their containers … [+3484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Japan Today"
+      },
+      "author": null,
+      "title": "More microplastics in glass bottles than plastic: study",
+      "description": "Drinks including water, soda, beer and wine sold in glass bottles contain more microplastics than those in plastic bottles, according to a surprising study released by France's food safety agency Friday. Researchers have detected thee tiny, mostly invisible p…",
+      "url": "https://japantoday.com/category/tech/more-microplastics-in-glass-bottles-than-plastic-study",
+      "urlToImage": null,
+      "publishedAt": "2025-06-20T21:02:36Z",
+      "content": "Drinks including water, soda, beer and wine sold in glass bottles contain more microplastics than those in plastic bottles, according to a surprising study released by France's food safety agency Fri… [+2408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cloudflare blocked record-breaking 7.3 Tbps DDoS attack against a hosting provider",
+      "description": "Cloudflare blocked a record-breaking 7.3 Tbps DDoS attack in May 2025. Cloudflare blocked a record 7.3 Tbps DDoS attack in May 2025, 12% greater than its previous peak and 1 Tbps greater than the attack reported by the popular cyber journalist Brian Krebs. Th…",
+      "url": "https://securityaffairs.com/179181/hacking/cloudflare-blocked-record-breaking-7-3-tbps-ddos-attack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-36.png",
+      "publishedAt": "2025-06-20T20:38:06Z",
+      "content": "Cloudflare blocked record-breaking 7.3 Tbps DDoS attack against a hosting provider\r\n | Linux flaws chain allows Root access across major distributions\r\n | A ransomware attack pushed the German napkin… [+174148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "Jenna Anderson",
+      "title": "Food Recalls: Chicken Alfredo, Cereal, and Chocolate Almonds Pulled Over Health Risks",
+      "description": "This week’s food recalls include chicken alfredo linked to a deadly Listeria outbreak, cereal with metal contamination, and chocolate almonds with hidden allergens. Find out if your products are affected.",
+      "url": "https://www.health.com/recall-roundup-chicken-fettuccine-alfredo-cereal-11757203",
+      "urlToImage": "https://www.health.com/thmb/XutZOEQ-5mWWsw7_0_FSrpIN5Hg=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-RecallRoundup620-a7e2cf58337648f6ae9f430d5285375a.png",
+      "publishedAt": "2025-06-20T20:34:12Z",
+      "content": "The week of June 16 saw three major recalls, including one linked to a deadly Listeria outbreak.\r\n Check your fridge and pantry for the following items.\r\nOn Tuesday, chicken fettuccine alfredo sold a… [+3103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Anna Gragert",
+      "title": "This Kid's Cough Syrup Was Recalled. These Are the Foodborne Illness Symptoms It Can Cause",
+      "description": "Little Remedies Honey Cough Syrup, a kid's cough syrup, was recalled because of microbial contamination that may cause two types of foodborne illnesses.",
+      "url": "https://www.cnet.com/health/medical/this-kids-cough-syrup-was-recalled-these-are-the-foodborne-illness-symptoms-it-can-cause/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/176299f2464d0c890abecc85b7ad304e08188f54/hub/2025/06/18/64e5fc5d-5366-47e8-9521-34defac65e6f/red-cough-syrup.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-06-20T18:33:30Z",
+      "content": "On Wednesday, the FDA reported that five lots of Little Remedies Honey Cough Syrup, a 100% natural children's cough medicine for ages 1 and up, were voluntarily recalled by Medtech Products. The kid'… [+1874 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Anna Gragert",
+      "title": "This Kids' Cough Syrup Was Recalled. These Are the Symptoms It Can Cause",
+      "description": "Little Remedies Honey Cough Syrup, a children's cough syrup, was recalled because of microbial contamination and loss of shelf-stability.",
+      "url": "https://www.cnet.com/health/medical/this-kids-cough-syrup-was-recalled-these-are-symptoms-it-can-cause/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/176299f2464d0c890abecc85b7ad304e08188f54/hub/2025/06/18/64e5fc5d-5366-47e8-9521-34defac65e6f/red-cough-syrup.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-06-20T18:33:00Z",
+      "content": "The US Food and Drug Administration reported Wednesday that five lots of Little Remedies Honey Cough Syrup, a 100% natural children's cough medicine for ages 1 and up, were voluntarily recalled by Me… [+1891 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -229,7 +307,7 @@
       },
       "author": "Pierluigi Paganini",
       "title": "A ransomware attack pushed the German napkin firm Fasana into insolvency",
-      "description": "A cyberattack pushed the German napkin firm Fasana into insolvency, likely worsening existing financial troubles and serving as the final blow. German napkin maker Fasana filed for insolvency after a major cyberattack on May 19 paralyzed its systems, halting …",
+      "description": "A cyberattack pushed the German napkin firm Fasana into insolvency, likely worsening existing financial troubles and serving as the final blow. German napkin maker Fasana filed for insolvency after a major cyberattack on May 19 paralyzed its systems, halting ���",
       "url": "https://securityaffairs.com/179160/security/ransomware-attack-napkin-firm-fasana-insolvency.html",
       "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/11/Cyberattack.jpg",
       "publishedAt": "2025-06-20T07:20:30Z",
@@ -896,7 +974,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326175",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326175.g006&size=inline",
       "publishedAt": "2025-06-18T14:00:00Z",
-      "content": "Abstract\r\nThe homogenization of landscapes through the introduction of large-scale farms, the decline of biodiversity conditioned by high summer temperatures and dry weather, as well as the expansion… [+54678 chars]"
+      "content": "Abstract\r\nThe homogenization of landscapes through the introduction of large-scale farms, the decline of biodiversity conditioned by high summer temperatures and dry weather, as well as the expansion�� [+54678 chars]"
     },
     {
       "source": {
@@ -1144,84 +1222,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2665367/frederiks-brand-dark-chocolate-almonds.jpg",
       "publishedAt": "2025-06-18T02:24:24Z",
       "content": "Retailer Meijer is recalling packages of Frederik's brand Dark Chocolate Almonds this week because they could potentially contain cashews, which are not disclosed on the packaging.\r\nNewsweek reached … [+2914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Vincent Ho, Associate Professor and Clinical Academic Gastroenterologist, Western Sydney University",
-      "title": "What’s the difference between food poisoning and gastro? A gut expert explains",
-      "description": "When is your dodgy tummy due to eating off food, and when is it a touch of gastro?",
-      "url": "https://theconversation.com/whats-the-difference-between-food-poisoning-and-gastro-a-gut-expert-explains-252730",
-      "urlToImage": "https://images.theconversation.com/files/673809/original/file-20250612-56-20cx61.jpg?ixlib=rb-4.1.0&rect=0%2C166%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-06-18T00:57:01Z",
-      "content": "Andrey_Popov/Shutterstock\r\nIf you’ve got a dodgy tummy, diarrhoea and have been vomiting, it’s easy to blame a “tummy bug” or “off food”.\n\nBut which is it? Gastro or food poisoning?\n\nWhat’s the diffe… [+5117 chars]"
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "T.J. Quinn and Maria Lawson",
-      "title": "Senate urged to press WADA over China clash",
-      "description": "A panel of U.S. officials and experts urged a Senate subcommittee Tuesday to keep pressure on the World Anti-Doping Agency, saying the organization needs to make significant reforms to show it is not compromised by Chinese influence and money.",
-      "url": "https://www.espn.com/olympics/story/_/id/45533064/us-senate-urged-keep-pressure-wada-china-clash",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0915%2Fr909312_1296x729_16%2D9.jpg",
-      "publishedAt": "2025-06-17T23:05:42Z",
-      "content": "Jun 17, 2025, 06:42 PM ET\r\nWASHINGTON -- A panel of U.S. officials and experts urged a Senate subcommittee Tuesday to keep pressure on the World Anti-Doping Agency, saying the organization needs to m… [+5185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Prestige Consumer Healthcare Inc.",
-      "title": "Medtech Products Inc. Issues Nationwide Recall of Little Remedies® Honey Cough Syrup Due to Microbial Contamination",
-      "description": "TARRYTOWN, N.Y., June 17, 2025 (GLOBE NEWSWIRE) -- Medtech Products Inc., a Prestige Consumer Healthcare Inc. company (“Medtech” or “Company”), is voluntarily recalling five lots of Little Remedies® Honey Cough Syrup (the “Product”) due to the presence of Bac…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/17/3101110/0/en/Medtech-Products-Inc-Issues-Nationwide-Recall-of-Little-Remedies-Honey-Cough-Syrup-Due-to-Microbial-Contamination.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/8fd7c128-8ecd-4cae-9148-dbff8e5d82ec",
-      "publishedAt": "2025-06-17T21:38:00Z",
-      "content": "TARRYTOWN, N.Y., June 17, 2025 (GLOBE NEWSWIRE) -- Medtech Products Inc., a Prestige Consumer Healthcare Inc. company (Medtech or Company), is voluntarily recalling five lots of Little Remedies® Hone… [+2781 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "Jenna Anderson",
-      "title": "This Popular Cereal Was Just Recalled in Multiple States—What You Need to Know",
-      "description": "More than 5,000 boxes of Honey Bunches of Oats cereal were recalled in two states due to foreign object contamination. Here's how to know if you have the recalled boxes, and what to do with them.",
-      "url": "https://www.health.com/honey-bunches-of-oats-recall-11756211",
-      "urlToImage": "https://www.health.com/thmb/V7PjLyVagHdlrlcOwu4-ps5dDJM=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-HoneyBunchesofOatsRecall-bd68d790791046298199d94c9fcd0348.png",
-      "publishedAt": "2025-06-17T18:44:36Z",
-      "content": "More than 5,000 boxes of Honey Bunches of Oats cereal were recently recalled in two states due to foreign object contamination.\r\n Last week, the Food and Drug Administration gave the recall the secon… [+1079 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Gummy Vitamin recall: FDA Flags B12 supplements sold on Amazon, Aldi — See which brands are affected",
-      "description": "A batch of gummy vitamins distributed through major U.S. retailers such as Amazon, Aldi, and BJ’s Wholesale Club has been voluntarily recalled, according to an announcement by Vita Warehouse Corp.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gummy-vitamin-recall-fda-flags-b12-supplements-sold-on-amazon-aldi-see-which-brands-are-affected/articleshow/121915619.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-121915666,width-1200,height-630,imgsize-100340,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-06-17T18:13:45Z",
-      "content": "A batch of gummy vitamins sold across major U.S. retailers including Amazon, Aldi, and BJs Wholesale Club has been voluntarily recalled following the detection of a potentially dangerous undeclared a… [+3370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Wrong vitamins making your acne 10 times worse",
-      "description": "The mirror doesn’t lie, and neither does that persistent pimple that’s been camping out on your chin for what feels like forever. Despite investing in countless cleansers, serums, and treatments, your skin seems determined to stay in rebellion mode. If you’re…",
-      "url": "https://rollingout.com/2025/06/17/vitamins-making-your-acne-10-times-worse/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/06/shutterstock_2504652463-scaled.jpg",
-      "publishedAt": "2025-06-17T18:08:21Z",
-      "content": "The mirror doesn’t lie, and neither does that persistent pimple that’s been camping out on your chin for what feels like forever. Despite investing in countless cleansers, serums, and treatments, you… [+10800 chars]"
     }
   ],
   "totalResults": 94,
