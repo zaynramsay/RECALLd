@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-23T02:09:45.743Z",
+  "lastUpdated": "2025-06-23T06:38:02.536Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "DPA",
+      "title": "Drinks in glass bottles have more microplastics than plastic bottles",
+      "description": "A team of investigators at France's state food agency has discovered that some glass bottles have more microplastics in them than other containers, including...",
+      "url": "https://www.yahoo.com/news/drinks-glass-bottles-more-microplastics-051437764.html",
+      "urlToImage": "https://media.zenfs.com/en/dpa_international_526/aeac3bfd143bd0f33771b0c6cfdf3fda",
+      "publishedAt": "2025-06-22T05:14:37Z",
+      "content": "A team of investigators at France's state food agency has discovered that some glass bottles have more microplastics in them than other containers, including those made of plastic.\r\nThe \"surprising f… [+1794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Publichealthpolicyjournal.com"
+      },
+      "author": null,
+      "title": "Threat in Your Medicine Cabinet: The FDA’s Gamble on America’s Drugs/ ProPublica - Science, Public Health Policy and the Law",
+      "description": "Threat in Your Medicine Cabinet: The FDA’s Gamble on America’s Drugs/ ProPublica - Science, Public Health Policy and the Lawpublichealthpolicyjournal.com",
+      "url": "https://publichealthpolicyjournal.com/threat-in-your-medicine-cabinet-the-fdas-gamble-on-americas-drugs-propublica/",
+      "urlToImage": "https://i0.wp.com/publichealthpolicyjournal.com/wp-content/uploads/2025/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F67babcd5-6e39-4178-bebf-79c0a3dc8997_364x364-jFniHy.jpg",
+      "publishedAt": "2025-06-22T02:31:08Z",
+      "content": "On a sweltering morning in western India in 2022, three U.S. inspectors showed up unannounced at a massive pharmaceutical plant surrounded by barricades and barbed wire and demanded to be let inside.… [+28062 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,32 +1235,6 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013159.g002&size=inline",
       "publishedAt": "2025-06-18T14:00:00Z",
       "content": "Introduction\r\nRabies is an acute, lethal zoonotic infectious disease caused by rabies virus (RABV) infection, and is one of the oldest and most terrifying diseases known to humans [1]. The Lyssavirus… [+45229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "'What should we do?' Seeking clarity in Tehran as Israeli jets fly overhead",
-      "description": "BBC Persian's Kasra Naji says his sister is among those who want to know where the conflict with Israel is leading.",
-      "url": "https://www.bbc.com/news/articles/c20n6epljg2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53d6/live/f2a581c0-4c46-11f0-86d5-3b52b53af158.jpg",
-      "publishedAt": "2025-06-18T13:54:58Z",
-      "content": "Kasra NajiSpecial correspondent, BBC Persian\r\nThousands of people are fleeing Tehran as Israel continues with its air strikes\r\nFear and stress are evident in my sister's voice in Tehran, despite the … [+3085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Coca-Cola Recall Update as FDA Issues Risk Warning for Contaminated Drink",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nThe U.S. Food and Drug Administration (FDA) has assigned its second most serious risk level, Class II, to a recall of Topo Chico mineral water, owned by The Coca-Cola Company, following the identification of p…",
-      "url": "https://biztoc.com/x/d6aa1064b4c6bdfd",
-      "urlToImage": "https://biztoc.com/cdn/d6aa1064b4c6bdfd_s.webp",
-      "publishedAt": "2025-06-18T13:35:57Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.The U.S. Food and Drug Administration (FDA) has assigned its second most serious risk level, Class II, to a recall of Topo Chico mineral water, owned … [+144 chars]"
     }
   ],
   "totalResults": 95,
