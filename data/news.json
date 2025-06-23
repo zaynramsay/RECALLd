@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-06-23T06:38:02.536Z",
+  "lastUpdated": "2025-06-23T12:53:24.859Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Noor Al-Sibai",
+      "title": "You'll Be Flabbergasted to Learn Which Contains More Microplastics: Plastic Bottles or Glass Bottles",
+      "description": "French government scientists have discovered something shocking about the microplastic content in glass and plastic bottles. As the Agence France-Presse reports, scientists at the country's food safety regulator found that glass-bottled drinks contained about…",
+      "url": "https://futurism.com/the-byte/microplastics-glass-plastic-bottles",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/06/microplastics-glass-plastic-bottles.jpg",
+      "publishedAt": "2025-06-22T12:15:35Z",
+      "content": "\"We expected the opposite result.\"\r\nBottom of the Bottle\r\nFrench government scientists have discovered something startling about the microplastic content in glass and plastic bottles.\r\nAs the Agence … [+2440 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "What are the nuclear contamination risks from attacks on Iran?",
+      "description": "President Trump announced U.S. military strikes on Iranian nuclear sites, including Fordow, joining earlier Israeli attacks. Experts suggest limited contamination risks from strikes on uranium enrichment facilities, mainly chemical rather than radiological. G…",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-donald-trump-israel-strikes-iran-nuclear-risk-analysis/articleshow/122004692.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122004694,width-1200,height-630,imgsize-176384,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2025-06-22T09:22:05Z",
+      "content": "President Donald Trump said Iran's main nuclear sites had been \"obliterated\" in military strikes overnight, including on the deeply buried Fordow facility, as the U.S. joined attacks launched by Isra… [+5796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "IAEA chief warns of nuclear fallout from Israeli attacks on Iran",
+      "description": "International Atomic Energy Agency (IAEA) Director General Rafael Grossi on Friday warned of the risk of nuclear contamination from Israeli attacks on Iranian nuclear facilities.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250621-pdo03.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-06-22T08:10:47Z",
+      "content": "People's Daily Online\r\n(Xinhua) 11:28, June 21, 2025\r\nUNITED NATIONS, June 20 (Xinhua) -- International Atomic Energy Agency (IAEA) Director General Rafael Grossi on Friday warned of the risk of nucl… [+3564 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,45 +1235,6 @@
       "urlToImage": "https://mf.b37mrtl.ru/files/2025.06/article/6852c1b885f54061b47f1336.jpg",
       "publishedAt": "2025-06-18T14:33:54Z",
       "content": "Beneath the waves of the Baltic Sea lies a silent but growing threat – the decaying remains of chemical munitions dumped after World War II. For years, these weapons have sat largely untouched, posin… [+7518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Maciej Sylwester Bryś, Krzysztof Olszewski, Aneta Strachecka",
-      "title": "The relationship between pollen monodiets and the activities of proteolytic systems in the fat body and hemolymph of honeybee workers",
-      "description": "The homogenization of landscapes through the introduction of large-scale farms, the decline of biodiversity conditioned by high summer temperatures and dry weather, as well as the expansion of alien species determine the monodiet feeding of honeybees. In this…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326175",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326175.g006&size=inline",
-      "publishedAt": "2025-06-18T14:00:00Z",
-      "content": "Abstract\r\nThe homogenization of landscapes through the introduction of large-scale farms, the decline of biodiversity conditioned by high summer temperatures and dry weather, as well as the expansion… [+54678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Ana Korša, Moritz Baur, Nora K. E. Schulz, Jaime M. Anaya-Rojas, Alexander Mellmann, Joachim Kurtz",
-      "title": "Experimental evolution of a pathogen confronted with innate immune memory increases variation in virulence",
-      "description": "Author summary Understanding pathogen evolution is crucial for science and public health. A key question is whether pathogens evolve variations in virulence, which quantifies the harm inflicted on the host. While research often focuses on pathogens confronted…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012839",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012839.g007&size=inline",
-      "publishedAt": "2025-06-18T14:00:00Z",
-      "content": "Abstract\r\nUnderstanding the drivers and mechanisms of virulence evolution is still a major goal of evolutionary biologists and epidemiologists. Theory predicts that the way virulence evolves depends … [+81126 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Renyun Zha, Jianyun Lu, Jianying Chen, Cheng Guo, Jiahai Lu",
-      "title": "Exploring one health-based strategies for rabies elimination: Overview and future prospects",
-      "description": "Background Establishing a comprehensive and coordinated mechanism for rabies management is essential for achieving the goal of eliminating the disease. It requires the involvement of multiple disciplines and departments, as well as the implementation of neces…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013159",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013159.g002&size=inline",
-      "publishedAt": "2025-06-18T14:00:00Z",
-      "content": "Introduction\r\nRabies is an acute, lethal zoonotic infectious disease caused by rabies virus (RABV) infection, and is one of the oldest and most terrifying diseases known to humans [1]. The Lyssavirus… [+45229 chars]"
     }
   ],
   "totalResults": 95,
