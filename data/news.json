@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-06-22T18:31:54.252Z",
+  "lastUpdated": "2025-06-23T02:09:45.743Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "How Your Microbiome Influences Your Dietary Recommendations",
+      "description": "Editor's Note: This article is a reprint. It was originally published April 21, 2024.\n\nIn the ever-evolving field of bioenergetic medicine, the relationship between our diet, microbiome and overall health continues to unveil complex and intriguing connections…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/06/22/sugar-microbiome-endotoxin.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/July/FB/sugar-microbiome-endotoxin-fb.jpg",
+      "publishedAt": "2025-06-22T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Ruby Ritchie",
+      "title": "Old Parramatta Gaol has tourism potential, but future remains unclear",
+      "description": "The jail, which closed in 2011, has faced barriers to development. Heritage advocates say its tourism potential is yet to be tapped into.",
+      "url": "https://www.abc.net.au/news/2025-06-22/nsw-old-parramatta-gaol-development-costs-tourism-sydney/105298212",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/31864e945a9ecc5319dcd2b22281589e?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-06-21T21:15:31Z",
+      "content": "Steven Knight remembers his tiny cell, the \"yuck\" food, and a NAIDOC Week painting he worked on at Old Parramatta Gaol.\r\nHe was 25 when he served time and said there were a \"lot of good people\" but \"… [+5534 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Sam Mauhay-Moore",
+      "title": "Trader Joe's recalls another food item in California over listeria concerns",
+      "description": "Trader Joe's has faced scrutiny in recent years due to an increase in food product recalls. The product was also sold in Nevada.",
+      "url": "https://www.sfgate.com/bayarea/article/trader-joes-listeria-recall-california-20387603.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/50/41/54/27400993/3/rawImage.jpg",
+      "publishedAt": "2025-06-21T20:52:43Z",
+      "content": "File: A Trader Joes location on 1306 Great Mall Parkway in Milpitas, Calif.\r\nScreenshot via Google Street View\r\nBeloved Monrovia-based grocery store Trader Joes has recalled a food item throughout No… [+2258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Science X",
+      "title": "Glass bottles found to contain more microplastics than plastic bottles",
+      "description": "Drinks including water, soda, beer and wine sold in glass bottles contain more microplastics than those in plastic bottles, according to a surprising study released by France's food safety agency Friday. Researchers have detected the tiny, mostly invisible pi…",
+      "url": "https://freerepublic.com/focus/f-news/4324496/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-06-21T19:23:22Z",
+      "content": "Skip to comments.\r\nGlass bottles found to contain more microplastics than plastic bottlesScience X ^\r\n | June 20, 2025\r\n | Rébecca Frasquet\r\nPosted on 06/21/2025 12:23:22 PM PDT by george76\r\nDrinks i… [+3970 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1137,19 +1189,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Renyun Zha, Jianyun Lu, Jianying Chen, Cheng Guo, Jiahai Lu",
-      "title": "Exploring one health-based strategies for rabies elimination: Overview and future prospects",
-      "description": "Background Establishing a comprehensive and coordinated mechanism for rabies management is essential for achieving the goal of eliminating the disease. It requires the involvement of multiple disciplines and departments, as well as the implementation of neces…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013159",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013159.g002&size=inline",
-      "publishedAt": "2025-06-18T14:00:00Z",
-      "content": "Introduction\r\nRabies is an acute, lethal zoonotic infectious disease caused by rabies virus (RABV) infection, and is one of the oldest and most terrifying diseases known to humans [1]. The Lyssavirus… [+45229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Ana Korša, Moritz Baur, Nora K. E. Schulz, Jaime M. Anaya-Rojas, Alexander Mellmann, Joachim Kurtz",
       "title": "Experimental evolution of a pathogen confronted with innate immune memory increases variation in virulence",
       "description": "Author summary Understanding pathogen evolution is crucial for science and public health. A key question is whether pathogens evolve variations in virulence, which quantifies the harm inflicted on the host. While research often focuses on pathogens confronted…",
@@ -1157,6 +1196,19 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012839.g007&size=inline",
       "publishedAt": "2025-06-18T14:00:00Z",
       "content": "Abstract\r\nUnderstanding the drivers and mechanisms of virulence evolution is still a major goal of evolutionary biologists and epidemiologists. Theory predicts that the way virulence evolves depends … [+81126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Renyun Zha, Jianyun Lu, Jianying Chen, Cheng Guo, Jiahai Lu",
+      "title": "Exploring one health-based strategies for rabies elimination: Overview and future prospects",
+      "description": "Background Establishing a comprehensive and coordinated mechanism for rabies management is essential for achieving the goal of eliminating the disease. It requires the involvement of multiple disciplines and departments, as well as the implementation of neces…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013159",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013159.g002&size=inline",
+      "publishedAt": "2025-06-18T14:00:00Z",
+      "content": "Introduction\r\nRabies is an acute, lethal zoonotic infectious disease caused by rabies virus (RABV) infection, and is one of the oldest and most terrifying diseases known to humans [1]. The Lyssavirus… [+45229 chars]"
     },
     {
       "source": {
@@ -1183,58 +1235,6 @@
       "urlToImage": "https://biztoc.com/cdn/d6aa1064b4c6bdfd_s.webp",
       "publishedAt": "2025-06-18T13:35:57Z",
       "content": "Voice is AI-generated. Inconsistencies may occur.The U.S. Food and Drug Administration (FDA) has assigned its second most serious risk level, Class II, to a recall of Topo Chico mineral water, owned … [+144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Watch out, Veeam fixed a new critical bug in Backup & Replication product",
-      "description": "Veeam addressed a new critical flaw in Backup & Replication product that could potentially result in remote code execution. Veeam has rolled out security patches to address a critical security vulnerability, tracked CVE-2025-23121 (CVSS score of 9.9) in its B…",
-      "url": "https://securityaffairs.com/179109/security/watch-out-veeam-fixed-a-new-critical-bug-in-backup-replication-product.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2023/03/veeam-software-vector-logo.png",
-      "publishedAt": "2025-06-18T13:33:01Z",
-      "content": "Watch out, Veeam fixed a new critical bug in Backup &amp; Replication product\r\n | U.S. CISA adds Linux Kernel flaw to its Known Exploited Vulnerabilities catalog\r\n | News Flodrix botnet targets vulne… [+173524 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Marni Rose McFall",
-      "title": "Coca-Cola Recall Update as FDA Issues Risk Warning for Contaminated Drink",
-      "description": "Topo Chico mineral water, owned by Coca-Cola, was recalled in May due to potential contamination with the Pseudomonas bacteria.",
-      "url": "https://www.newsweek.com/coca-cola-recall-update-topo-chico-fda-risk-warning-2087229",
-      "urlToImage": "https://d.newsweek.com/en/full/2665757/sparkling-water-stock-image.jpg",
-      "publishedAt": "2025-06-18T13:24:50Z",
-      "content": "The U.S. Food and Drug Administration (FDA) has assigned its second most serious risk level, Class II, to a recall of Topo Chico mineral water, owned by The Coca-Cola Company, following the identific… [+2490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: FreshRealm Chicken Fettuccine Alfredo sold at Walmart, Kroger, recalled",
-      "description": "Chicken Fettuccine Alfredo sold nationwide at Walmart and Kroger stores is being recalled because it could be contaminated with Listeria.",
-      "url": "https://www.wpxi.com/news/trending/recall-alert-freshrealm-chicken-fettuccine-alfredo-sold-walmart-kroger-recalled/DGROADC4JBEDFB52P756LOP7OY/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4SHHLSX3U5HXHGOCAJ6SX4TAH4.jpg?auth=61b433fea3f0ece9d44aea00f08509a6606aa1be3da7925568a8337b90900c84&width=1200&height=630&smart=true",
-      "publishedAt": "2025-06-18T13:03:03Z",
-      "content": "Chicken Fettuccine Alfredo sold nationwide at Walmart and Kroger stores is being recalled because it could be contaminated with Listeria.\r\nThe pasta meal was produced by FreshRealm and was made befor… [+1727 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "U.S. CISA adds Linux Kernel flaw to its Known Exploited Vulnerabilities catalog",
-      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Google Chromium V8 Out-of-Bounds Read and Write…",
-      "url": "https://securityaffairs.com/179104/hacking/u-s-cisa-adds-linux-kernel-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "publishedAt": "2025-06-18T11:54:27Z",
-      "content": "U.S. CISA adds Linux Kernel flaw to its Known Exploited Vulnerabilities catalog\r\n | News Flodrix botnet targets vulnerable Langflow servers\r\n | U.S. CISA adds Apple products, and TP-Link routers flaw… [+173442 chars]"
     }
   ],
   "totalResults": 95,
