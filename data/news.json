@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-06-24T12:52:40.811Z",
+  "lastUpdated": "2025-06-24T18:35:05.976Z",
   "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US, Israeli strikes on Iran nuclear sites: How big are radiation risks?",
+      "description": "The attacks on Iran's nuclear enrichment facilities have not increased radioactivity so far.",
+      "url": "https://www.aljazeera.com/news/2025/6/23/us-israeli-strikes-on-iran-nuclear-sites-how-big-are-radiation-risks",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/reuters_685911d9-1750667737.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-06-23T15:12:47Z",
+      "content": "Early on Sunday, the United States bombed three Iranian nuclear sites after more than a week of Israeli strikes on Tehrans military and nuclear sites, stoking concerns about radiation leaks and conta… [+8850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Dangerous bacteria found in Pennsylvania meat supply",
+      "description": "A disturbing new study has placed Pennsylvania among the most dangerous states for meat consumption, with bacterial contamination rates that should concern every family heading to their local grocery store. The Keystone State landed in the troubling fifth pos…",
+      "url": "https://rollingout.com/2025/06/23/bacteria-found-pennsylvania-meat-supply/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/06/shutterstock_2411107689-scaled.jpg",
+      "publishedAt": "2025-06-23T14:17:35Z",
+      "content": "A disturbing new study has placed Pennsylvania among the most dangerous states for meat consumption, with bacterial contamination rates that should concern every family heading to their local grocery… [+9525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ourworldindata.org"
+      },
+      "author": "surprisetalk",
+      "title": "2B people don't have safe drinking water: what does this mean for them?",
+      "description": "Article URL: https://ourworldindata.org/what-no-safe-water-means\nComments URL: https://news.ycombinator.com/item?id=44355985\nPoints: 11\n# Comments: 1",
+      "url": "https://ourworldindata.org/what-no-safe-water-means",
+      "urlToImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/59c8ad10-ac08-4179-3186-1b2bac060c00/public",
+      "publishedAt": "2025-06-23T14:12:08Z",
+      "content": "Two billion people dont have safe drinking water: what does this really mean for them?\r\nIn the time it would take me to write the next sentence, I could get up, walk to the kitchen, and pour myself a… [+18720 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Margaux Jossart, Thierry Hance, Claire Detrain",
+      "title": "Infected connections: Unraveling the impact of a bacterial symbiont on ant-aphid partnership",
+      "description": "The multitrophic plant-aphid-ant system is a model widely studied in ecology and evolutionary biology. Within this system, bacterial symbionts can circulate and may modify the relationships between partners. A common symbiont of aphids, Serratia symbiotica, s…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326875",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326875.g004&size=inline",
+      "publishedAt": "2025-06-23T14:00:00Z",
+      "content": "Introduction\r\nThe microbiome is known to play a key role in insects, particularly in species that rely exclusively on nutrient-limited foods such as plant sap or blood [14]. Aphids feed on plant phlo… [+64408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Samuel J. Capon, Anastasia Maroufidou, McKenna Feltes, Yanli Xu, Darpan Kaur Matharoo, Dörthe Jülich, Scott A. Holley, Steven A. Farber, Didier Y. R. Stainier",
+      "title": "A genetic modifier links integrin α5 to the phenotypic variation in fibronectin 1a mutant zebrafish",
+      "description": "Author summary Recent studies have identified apparently healthy individuals with mutations that would be expected to lead to disease. Why these individuals are disease resistant is not understood. Studies in zebrafish and other organisms have revealed that e…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011747",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011747.g004&size=inline",
+      "publishedAt": "2025-06-23T14:00:00Z",
+      "content": "Abstract\r\nPhenotypic variation is often observed in individuals with the same mutation. However, the mechanisms that contribute to this variation remain largely unknown. Fibronectin mutants in both m… [+82978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Nyuma Mbewe, John Tembo, Mpanga Kasonde, Kelvin Mwangilwa, Paul Msanzya Zulu, Joseph Adive Sereki, William Ngosa, Kennedy Lishipmi, Lloyd Mulenga, Roma Chilengi, Nathan Kapata, Martin Peter Grobusch",
+      "title": "Navigating the cholera elimination roadmap in Zambia – A scoping review (2013–2024)",
+      "description": "Author summary Cholera outbreaks are increasing in both frequency and severity across sub-Saharan Africa, despite long-standing evidence on the effectiveness of improved water, sanitation, and hygiene (WASH), the protective role of oral cholera vaccines (OCV)…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012422",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012422.g002&size=inline",
+      "publishedAt": "2025-06-23T14:00:00Z",
+      "content": "Citation: Mbewe N, Tembo J, Kasonde M, Mwangilwa K, Zulu PM, Sereki JA, et al. (2025) Navigating the cholera elimination roadmap in Zambia A scoping review (20132024). PLoS Negl Trop Dis 19(6):\r\n e00… [+41829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "Meat Processing Equipment Market is Expected to Reach USD16.36 Billion by 2032, Owing to Surging Demand for Automated, Hygienic, and Sustainable Meat Production Solutions | SNS Insider",
+      "description": "Driven by growing consumer demand for safer and higher-quality meat products, stringent regulatory hygiene standards, and rising adoption of automation and AI-enabled equipment across processing facilities, the Meat Processing Equipment Market is experiencing…",
+      "url": "https://www.globenewswire.com/news-release/2025/06/23/3103483/0/en/Meat-Processing-Equipment-Market-is-Expected-to-Reach-USD16-36-Billion-by-2032-Owing-to-Surging-Demand-for-Automated-Hygienic-and-Sustainable-Meat-Production-Solutions-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-06-23T13:30:00Z",
+      "content": "Austin, June 23, 2025 (GLOBE NEWSWIRE) -- The M\r\neat \r\nP\r\nrocessing \r\nE\r\nquipment \r\nM\r\narket\r\n size was valued at USD11.25billion in2024 and is expected to reach USD16.36billion by2032, growing at a … [+6379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "4 blockchain secrets that will blow your mind",
+      "description": "The blockchain revolution extends far beyond the realm of digital currencies, transforming entire industries through innovative applications that seemed impossible just decades ago. While most people associate blockchain technology exclusively with Bitcoin an…",
+      "url": "https://rollingout.com/2025/06/23/4-blockchain-secrets-that-will-blow-mind/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2021/09/shutterstock_1949378056.jpg",
+      "publishedAt": "2025-06-23T13:00:15Z",
+      "content": "The blockchain revolution extends far beyond the realm of digital currencies, transforming entire industries through innovative applications that seemed impossible just decades ago. While most people… [+11036 chars]"
+    },
     {
       "source": {
         "id": "cbs-news",
@@ -657,7 +761,7 @@
         "name": "New York Post"
       },
       "author": "Reda Wigle",
-      "title": "Food expert warns ‘one of the riskiest items in the grocery store’ seems healthy but can make you deathly ill",
+      "title": "Food expert warns ‘one of the riskiest items in the grocery store��� seems healthy but can make you deathly ill",
       "description": "While health experts unanimously agree that we should all be eating more fresh, whole foods, danger lurks in the produce aisle.",
       "url": "https://nypost.com/2025/06/20/health/one-of-the-riskiest-items-in-the-grocery-store-according-to-food-expert/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/106822190.jpg?quality=75&strip=all&w=1024",
@@ -1170,99 +1274,8 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250617-robert-f-kennedy-jr-rfk-jr-raw-milk-maha-3x2-cs-b7c8ae.jpg",
       "publishedAt": "2025-06-19T09:00:00Z",
       "content": "When Robert F. Kennedy Jr. became health and human services secretary, advocates for raw milk were thrilled to have one of their own at the helm in Washington. A self-professed fanof the drink,Kenned… [+9994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Zoey Sky",
-      "title": "Hunting and prepping food safety tips: How to ensure wild game meat is safe to eat",
-      "description": "Trust your instincts. If something seems wrong with the meat, it’s better to go hungry than risk illness. Proper field dressing and quick cooling are key to safe wild game. Use your senses to check for spoilage. Avoid meat with ammonia-like, sour or overly sw…",
-      "url": "https://www.naturalnews.com/2025-06-19-hunting-prepping-food-safety-tips-wild-game-safety.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Venison-Game-Meat-Deer-Roast-Haunch-Steak.jpg",
-      "publishedAt": "2025-06-19T06:00:00Z",
-      "content": "<ul><li>Trust your instincts. If something seems wrong with the meat, its better to go hungry than risk illness. Proper field dressing and quick cooling are key to safe wild game.</li><li>Use your se… [+7976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "author": "PR Wire",
-      "title": "DIGI Leads Sustainable Retail Revolution at NRF APAC with COMBO, a Game-Changing Bulk Shopping Innovation",
-      "description": "DIGI, a global leader in retail solutions, showcased COMBO, a pioneering zero waste bulk system newly introduced to Asia, alongside a comprehensive range of ...",
-      "url": "https://en.antaranews.com/news/360313/digi-leads-sustainable-retail-revolution-at-nrf-apac-with-combo-a-game-changing-bulk-shopping-innovation",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/19/digi.jpg",
-      "publishedAt": "2025-06-19T04:47:04Z",
-      "content": "Singapore (ANTARA/PRNewswire)- DIGI, a global leader in retail solutions, showcased COMBO, a pioneering zero waste bulk system newly introduced to Asia, alongside a comprehensive range of sustainable… [+2906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "The Associated Press",
-      "title": "The Latest: Israel threatens Iran's supreme leader as Iranian strikes wound over 200",
-      "description": "Iranian missiles hit a major hospital in southern Israel and struck residential buildings in Tel Aviv on Thursday, wounding 240 people and causing extensive ...",
-      "url": "https://www.yahoo.com/news/latest-israel-attacks-arak-heavy-044418616.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/k6E7YXj1E5STFwp5RdMEPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/534c27dfef7f00fd2f2f8075c88f4f9d",
-      "publishedAt": "2025-06-19T04:44:18Z",
-      "content": "Iranian missiles hit a major hospital in southern Israel and struck residential buildings in Tel Aviv on Thursday, wounding 240 people and causing extensive damage.\r\nIsraeli Defense Minister Israel K… [+31503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Vincent Ho, The Conversation",
-      "title": "Is It Gastro or Food Poisoning? Here's A Guide to Your Upset Stomach",
-      "description": "If you've got a dodgy tummy, diarrhoea and have been vomiting, it's easy to blame a 'tummy bug' or 'off food'.",
-      "url": "https://www.sciencealert.com/is-it-gastro-or-food-poisoning-heres-a-guide-to-your-upset-stomach",
-      "urlToImage": "https://www.sciencealert.com/images/2025/06/gastro_foodpoisoning_header.jpg",
-      "publishedAt": "2025-06-19T02:17:18Z",
-      "content": "If you've got a dodgy tummy, diarrhoea and have been vomiting, it's easy to blame a 'tummy bug' or 'off food'.\r\nBut which is it? Gastro or food poisoning?\r\nWhat's the difference anyway?\r\nWhat's gastr… [+5011 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Cough Syrup Recall Sparks Nationwide Warning",
-      "description": "The Little Remedies brand of Honey Cough Syrup is being recalled due to fears of Bacillus cereus and concern of shelf-life stability.",
-      "url": "https://www.newsweek.com/cough-syrup-recall-sparks-nationwide-warning-2087654",
-      "urlToImage": "https://d.newsweek.com/en/full/2666545/cough-syrup-recall.png",
-      "publishedAt": "2025-06-18T22:45:39Z",
-      "content": "Medtech Products Inc. is recalling the Little Remedies brand of Honey Cough Syrup due to fears the product may be contaminated with Bacillus cereus bacterium and concern over the product's shelf-life… [+2575 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "Healthcare services company Episource data breach impacts 5.4 Million people",
-      "description": "Data breach at Healthcare services company Episource exposes personal and health data of over 5.4 million people in major cyberattack. A cyberattack on healthcare firm Episource led to a data breach exposing personal and health data of over 5.4 million indivi…",
-      "url": "https://securityaffairs.com/179115/data-breach/healthcare-services-company-episource-data-breach-impacts-5-4-million-people.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-30.png",
-      "publishedAt": "2025-06-18T20:55:24Z",
-      "content": "Healthcare services company Episource data breach impacts 5.4 Million people\r\n | Watch out, Veeam fixed a new critical bug in Backup &amp; Replication product\r\n | U.S. CISA adds Linux Kernel flaw to … [+173605 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Columbia.edu"
-      },
-      "author": "Renée Cho",
-      "title": "How AI Is Revolutionizing the Recycling Industry",
-      "description": "Modern waste facilities are incorporating AI into their systems, using robots guided by AI vision systems and machine learning algorithms, high resolution cameras, hyperspectral imaging, near-infrared sensors and predictive analytics.",
-      "url": "https://news.climate.columbia.edu/2025/06/18/how-ai-is-revolutionizing-the-recycling-industry/",
-      "urlToImage": "https://media.news.climate.columbia.edu/wp-content/uploads/2025/06/2048px-Recycling_combine_-_Sunset_Pk_NYC_05-1300x866.jpg",
-      "publishedAt": "2025-06-18T20:09:39Z",
-      "content": "Recycling plant in Sunset Park, Brooklyn. Photo: CaptJayRuffins\r\nThe world produces over 2 billion metric tons of waste each year. With growing urbanization, this amount could nearly double by 2050, … [+12854 chars]"
     }
   ],
-  "totalResults": 97,
+  "totalResults": 98,
   "filteredCount": 0
 }
