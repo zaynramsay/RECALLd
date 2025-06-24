@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-06-24T06:36:59.191Z",
+  "lastUpdated": "2025-06-24T12:52:40.811Z",
   "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "2 butcher shops close after girl dies from food poisoning",
+      "description": "Eight children have come down with severe food poisoning since June 12 after consuming meat products from the two businesses in Saint-Quentin.",
+      "url": "https://www.cbsnews.com/news/girl-dies-food-poisoning-e-coli-butchers-france/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/09/15/cc20d794-4d03-477e-bd49-2a5e0b603abe/thumbnail/1200x630/6b734270a89cb1f13b750ad8e9615e81/gettyimages-956351578.jpg?v=64f55bb7ef9382fe7916b907da543f1f",
+      "publishedAt": "2025-06-23T10:48:28Z",
+      "content": "Two butcher shops in northern France have temporarily closed after a child died from severe food poisoning, said local authorities on Friday.\r\nEight children have come down with severe food poisoning… [+1761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "Elizabeth Kolbert",
+      "title": "Do We Need Another Green Revolution?",
+      "description": "Elizabeth Kolbert reviews “We Are Eating the Earth,” by Michael Grunwald, and “How to Feed the World,” by Vaclav Smil.",
+      "url": "https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution",
+      "urlToImage": "https://media.newyorker.com/photos/685094270c1c1b21a3bca7ce/16:9/w_1280,c_limit/r46837.jpg",
+      "publishedAt": "2025-06-23T10:00:00Z",
+      "content": "Carbon farming and vertical farming are wildly overhyped, Grunwald concludes. Plant-based meat has floundered in the market, while cultivated meat hasnt really made it to market. He adds, Im sorry ab… [+10177 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Trader Joe's Cheese Recall in Two States as Warning Issued",
+      "description": "The Cleveland Clinic has identified soft cheeses and unpasteurized dairy products as foods that are more likely to be contaminated with listeria.",
+      "url": "https://www.newsweek.com/trader-joes-cheese-recall-two-states-warning-issued-2089184",
+      "urlToImage": "https://d.newsweek.com/en/full/2668709/cheese-recall.jpg",
+      "publishedAt": "2025-06-23T09:21:27Z",
+      "content": "Face Rock Creamery voluntarily recalled two lots of its \"Vampire Slayer Garlic Cheddar Curds\" from Trader Joe's stores in northern California and northern Nevada this week after routine product tests… [+2904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "The financial impact of Marks & Spencer and Co-op cyberattacks could reach £440M",
+      "description": "UK’s Cyber Monitoring Centre (CMC) labels Marks & Spencer and Co-op cyberattacks a Category 2 event, estimating financial impact at £270M–£440M. The Cyber Monitoring Centre (CMC) has labeled the recent cyberattacks on Marks & Spencer and Co-op as a Category 2…",
+      "url": "https://securityaffairs.com/179225/cyber-crime/the-financial-impact-of-marks-spencer-and-co-op-cyberattacks-could-reach-440m.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-40.png",
+      "publishedAt": "2025-06-23T09:00:30Z",
+      "content": "The financial impact of Marks &amp; Spencer and Co-op cyberattacks could reach £440M\r\n | Iran-Linked Threat Actors Cyber Fattah Leak Visitors and Athletes' Data from Saudi Games\r\n | SECURITY AFFAIRS … [+174633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ProPublica"
+      },
+      "author": "by Debbie Cenziper and Megan Rose",
+      "title": "His Kidney Failed. He’ll Never Know if a Transplant Drug From a Banned Factory Was to Blame.",
+      "description": "by Debbie Cenziper and Megan Rose \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nJoe DeMayo always knew his healthy years could end abruptly, …",
+      "url": "https://www.propublica.org/article/fda-tacrolimus-kidney-transplant-patient",
+      "urlToImage": "https://img.assets-d.propublica.org/v5/images/20250129-Yoon-FDA-promo.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=bda0f992cad95e51a431de8dab70e7c5",
+      "publishedAt": "2025-06-23T09:00:00Z",
+      "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nJoe DeMayo always knew his healthy years could end abruptly,… [+11729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Emilie Lavinia",
+      "title": "I drank kefir for a month and it made me feel like a superhuman – what’s the secret behind this gut-friendly drink? (cloned)",
+      "description": "Could this fermented drink hold the key to better health?",
+      "url": "https://www.the-independent.com/health-and-fitness/what-is-kefir-b2774981.html",
+      "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-06-23T08:59:48Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+8675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Iran-Linked Threat Actors Cyber Fattah Leak Visitors and Athletes’ Data from Saudi Games",
+      "description": "Cyber Fattah leaked thousands of records on athletes and visitors from past Saudi Games, per U.S.-based cybersecurity firm Resecurity. Resecurity (USA) identified the threat actors associated with the “Cyber Fattah” movement leaked thousands of records contai…",
+      "url": "https://securityaffairs.com/179239/cyber-warfare-2/iran-linked-threat-actors-cyber-fattah-leak-visitors-and-athletes-data-from-saudi-games.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/signal-2025-06-23-071330.jpeg",
+      "publishedAt": "2025-06-23T08:23:31Z",
+      "content": "Iran-Linked Threat Actors Cyber Fattah Leak Visitors and Athletes' Data from Saudi Games\r\n | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 50\r\n | Security Affairs newsletter Round 529 by Pierluigi Pagani… [+174544 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,97 +1261,6 @@
       "urlToImage": "https://media.news.climate.columbia.edu/wp-content/uploads/2025/06/2048px-Recycling_combine_-_Sunset_Pk_NYC_05-1300x866.jpg",
       "publishedAt": "2025-06-18T20:09:39Z",
       "content": "Recycling plant in Sunset Park, Brooklyn. Photo: CaptJayRuffins\r\nThe world produces over 2 billion metric tons of waste each year. With growing urbanization, this amount could nearly double by 2050, … [+12854 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Associated Press",
-      "title": "New CDC advisers will skip some expected topics and explore a target of antivaccine activists",
-      "description": "They will take up a longtime target of anti-vaccine groups: the preservative thimerosal in flu vaccines",
-      "url": "https://www.bostonherald.com/2025/06/18/cdc-vaccine-committee-flu/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/06/CDC-Vaccine_Committee_41060-1.jpg?w=1024&h=701",
-      "publishedAt": "2025-06-18T20:00:36Z",
-      "content": "By MIKE STOBBE and LAURAN NEERGAARD, Associated Press\r\nU.S. Health Secretary Robert F. Kennedy Jr.s new vaccine advisers meet next week, but their agenda suggests theyll skip some expected topics inc… [+4659 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "MIKE STOBBE Associated Press, LAURAN NEERGAARD Associated Press",
-      "title": "New CDC advisers will skip some expected topics and explore a target of antivaccine activists",
-      "description": "U.S. Health Secretary Robert F",
-      "url": "https://abcnews.go.com/Health/wireStory/new-cdc-advisers-skip-expected-topics-explore-target-122986358",
-      "urlToImage": "https://i.abcnewsfe.com/a/1f3af601-a82e-4a47-a0b8-c67e3bcb9d35/wirestory_3d27b10be11112a77c6dea86695ec4df_16x9.jpg?w=1600",
-      "publishedAt": "2025-06-18T19:50:43Z",
-      "content": "U.S. Health Secretary Robert F. Kennedy Jr.'s new vaccine advisers meet next week, but their agenda suggests they'll skip some expected topics including a vote on COVID-19 shots while taking up a lon… [+4416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Gina Vivinetto",
-      "title": "Chicken Alfredo Sold at Walmart and Kroger Recalled Over Possible Link to Deadly Listeria Outbreak",
-      "description": "A company that sells popular ready-to-eat chicken fettuccine Alfredo products at Kroger and Walmart has issued a voluntary recall due to possible listeria contamination.",
-      "url": "https://www.today.com/health/recall/walmart-kroger-listeria-chicken-alfredo-recall-rcna213761",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-06/recalled-items-cz-250320-1401b3.jpg",
-      "publishedAt": "2025-06-18T18:52:04Z",
-      "content": "A company that sells popular ready-to-eat chicken fettuccine Alfredo products at Kroger and Walmart has issued a voluntary recall due to possible listeria contamination. The products may be linked to… [+4332 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WABC-TV"
-      },
-      "author": "Jonel Aleccia",
-      "title": "Deadly listeria outbreak linked to chicken alfredo fettucine sold at Kroger and Walmart",
-      "description": "A listeria food poisoning outbreak is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart stores.",
-      "url": "https://abc7ny.com/post/deadly-listeria-outbreak-linked-chicken-alfredo-fettucine-sold-kroger-walmart/16782343/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16783166_061825-kabc-ready-to-eat-chicken.jpg?w=1600",
-      "publishedAt": "2025-06-18T17:45:32Z",
-      "content": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart st… [+2411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPVI-TV"
-      },
-      "author": "Jonel Aleccia",
-      "title": "Deadly listeria outbreak linked to chicken alfredo fettucine sold at Kroger and Walmart",
-      "description": "A listeria food poisoning outbreak is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart stores.",
-      "url": "https://6abc.com/post/deadly-listeria-outbreak-linked-chicken-alfredo-fettucine-sold-kroger-walmart/16782343/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16401187_051325-kgo-ap-listeria-img.jpg?w=1600",
-      "publishedAt": "2025-06-18T17:20:34Z",
-      "content": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart st… [+2411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KTRK-TV"
-      },
-      "author": "Jonel Aleccia",
-      "title": "Deadly listeria outbreak linked to chicken alfredo fettucine sold at Kroger and Walmart",
-      "description": "A listeria food poisoning outbreak is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart stores.",
-      "url": "https://abc13.com/post/deadly-listeria-outbreak-linked-chicken-alfredo-fettucine-sold-kroger-walmart/16782343/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16783166_061825-kabc-ready-to-eat-chicken.jpg?w=1600",
-      "publishedAt": "2025-06-18T17:16:29Z",
-      "content": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart st… [+2411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WLS-TV"
-      },
-      "author": "Jonel Aleccia",
-      "title": "Deadly listeria outbreak linked to chicken alfredo fettucine sold at Kroger and Walmart",
-      "description": "A listeria food poisoning outbreak is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart stores.",
-      "url": "https://abc7chicago.com/post/deadly-listeria-outbreak-linked-chicken-alfredo-fettucine-sold-kroger-walmart/16782343/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16783166_061825-kabc-ready-to-eat-chicken.jpg?w=1600",
-      "publishedAt": "2025-06-18T17:14:20Z",
-      "content": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart st… [+2411 chars]"
     }
   ],
   "totalResults": 97,
