@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-24T02:03:36.157Z",
+  "lastUpdated": "2025-06-24T06:36:59.191Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "author": "Alice Bergoënd",
+      "title": "Heavy metal traces in bread and pasta worry French doctors",
+      "description": "Originating from rocks used in phosphate fertilisers, cadmium is a carcinogenic heavy metal that accumulates in soil and crops through agricultural use, making food the main source of human exposure.",
+      "url": "https://www.euractiv.com/section/agriculture-food/news/heavy-metal-traces-cadmium-bread-pasta-spook-health-doctors-food/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2025/06/GettyImages-2207830564.jpg",
+      "publishedAt": "2025-06-23T04:00:29Z",
+      "content": "French doctors have issued warnings that food staples like bread and pasta are being contaminated with hazardous levels of cadmium, a heavy metal that can end up on our plates because it is used in f… [+3229 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,19 +1261,6 @@
       "urlToImage": "https://cdn.abcotvs.com/dip/images/16783166_061825-kabc-ready-to-eat-chicken.jpg?w=1600",
       "publishedAt": "2025-06-18T17:14:20Z",
       "content": "A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettucine alfredo products sold at Kroger and Walmart st… [+2411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FOX 11 Los Angeles"
-      },
-      "author": "Fox 11 Digital Team",
-      "title": "Home Chef, Marketside brand recalls pasta sold at Walmart, Kroger stores",
-      "description": "The listeria outbreak in multiple states has killed three people and led to one pregnancy loss, according to federal health officials.",
-      "url": "https://www.foxla.com/news/home-chef-marketside-brand-recall-california-walmart-kroger-stores",
-      "urlToImage": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2025/06/1280/720/gettyimages-2152961282.jpg?ve=1&tl=1",
-      "publishedAt": "2025-06-18T17:00:42Z",
-      "content": "LOS ANGELES - A listeria food poisoning outbreak that has killed three people and led to one pregnancy loss is linked to newly recalled heat-and-eat chicken fettuccine alfredo products sold at Kroger… [+3082 chars]"
     }
   ],
   "totalResults": 97,
