@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-06-27T02:03:43.413Z",
+  "lastUpdated": "2025-06-27T06:36:32.382Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Terri Levien, The Conversation",
+      "title": "Is There Thimerosal in Vaccines, And Is It Safe? Here's What The Science Says",
+      "description": "An expert committee that advises the Centers for Disease Control and Prevention on vaccines is meeting for the first time since Health Secretary Robert F.",
+      "url": "https://www.sciencealert.com/is-there-thimerosal-in-vaccines-and-is-it-safe-heres-what-the-science-says",
+      "urlToImage": "https://www.sciencealert.com/images/2022-01/processed/BlackGirlWithVaccineBandaidSmiling_1024.jpg",
+      "publishedAt": "2025-06-26T04:31:54Z",
+      "content": "An expert committee that advises the Centers for Disease Control and Prevention on vaccines is meeting for the first time since Health Secretary Robert F. Kennedy Jr. abruptly replaced the committee'… [+6349 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Chocolates Recall Map Shows States With New Warning",
+      "description": "The mocha truffles are being recalled due to fears the product may contain undeclared pecans.",
+      "url": "https://www.newsweek.com/chocolates-recall-map-shows-states-new-warning-2090878",
+      "urlToImage": "https://d.newsweek.com/en/full/2671597/chocolate-truffles.jpg",
+      "publishedAt": "2025-06-26T03:35:52Z",
+      "content": "Kilwins Quality Confections, LLC, is voluntarily recalling its Mocha Truffles due to fears the product may contain undeclared pecans.\r\nNewsweek reached out to the company via email for comment Wednes… [+3664 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Meg Tirrell",
+      "title": "What to know about thimerosal, a target of RFK Jr.’s new CDC vaccine advisers | CNN",
+      "description": "The preservative thimerosal has been removed from all but a few vaccines, and studies have confirmed no link to neurodevelopmental issues including autism. So public health experts were puzzled when it appeared on the agenda for this week’s meeting of outside…",
+      "url": "https://www.cnn.com/2025/06/25/health/thimerosal-controversy-rfk-explained",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1229717412.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-06-26T03:01:04Z",
+      "content": "See all topics\r\nA century ago, one of the biggest safety concerns about vaccines involved bacterial contamination. In 1916, four young children died in South Carolina after receiving typhoid vaccine … [+10267 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,73 +1222,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2667927/whole-foods-sign.png",
       "publishedAt": "2025-06-20T17:06:10Z",
       "content": "Five separate recalls have been issued involving Whole Foods Market products so far in 2025, with issues ranging from undeclared allergens to potential E. coli contamination.\r\nThe affected items were… [+4261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Federalist"
-      },
-      "author": "Jordan Boyd",
-      "title": "Are Popular Abortion Pills Poisoning Americans’ Tap Water?",
-      "description": "Despite rapidly increasing use of mifepristone, the ‘EPA has yet to review its potential contaminant effects.’",
-      "url": "https://thefederalist.com/2025/06/20/are-popular-abortion-pills-poisoning-americans-tap-water/",
-      "urlToImage": "https://thefederalist.com/wp-content/uploads/2025/06/Untitled-design-7.jpg",
-      "publishedAt": "2025-06-20T16:48:52Z",
-      "content": "It is well established that the abortion drug regimen is harmful for women and fatal for unborn babies. A new letter to the Environmental Protection Agency, however, asks it to probe whether mifepris… [+4318 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jgeekstudies.org"
-      },
-      "author": "zdw",
-      "title": "Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä",
-      "description": "Article URL: https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/\nComments URL: https://news.ycombinator.com/item?id=44328598\nPoints: 4\n# Comments: 0",
-      "url": "https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/",
-      "urlToImage": "https://i0.wp.com/jgeekstudies.org/wp-content/uploads/2025/06/aguirre_2025_fig05.png?fit=1200%2C675&ssl=1",
-      "publishedAt": "2025-06-20T15:23:29Z",
-      "content": "Audrey Aguirre\r\nUpland High School, Upland, CA, USA.\r\nEmail: audrey.a.aguirre (at) gmail (dot) com\r\nDownload PDF\r\nPast studies on Nausicaä of the Valley of the Wind (; Topcraft, 1984) have primarily … [+35227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Reda Wigle",
-      "title": "Food expert warns ‘one of the riskiest items in the grocery store’ seems healthy but can make you deathly ill",
-      "description": "While health experts unanimously agree that we should all be eating more fresh, whole foods, danger lurks in the produce aisle.",
-      "url": "https://nypost.com/2025/06/20/health/one-of-the-riskiest-items-in-the-grocery-store-according-to-food-expert/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/106822190.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-06-20T15:11:00Z",
-      "content": "Your good health habit could actually get you seriously sick and you wouldn’t know until it’s too late.\r\nWhile experts unanimously agree that we should all be eating more fresh, whole foods, a food p… [+4548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Rébecca Frasquet",
-      "title": "Glass bottles found to contain more microplastics than plastic bottles",
-      "description": "Drinks including water, soda, beer and wine sold in glass bottles contain more microplastics than those in plastic bottles, according to a surprising study released by France's food safety agency Friday.",
-      "url": "https://phys.org/news/2025-06-glass-bottles-microplastics-plastic.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/drinks-in-glass-bottle.jpg",
-      "publishedAt": "2025-06-20T14:13:07Z",
-      "content": "Drinks including water, soda, beer and wine sold in glass bottles contain more microplastics than those in plastic bottles, according to a surprising study released by France's food safety agency Fri… [+2818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "M. M. Mehedi Hasan, Nayeem Rahman, Md. Mofidul Islam, H. M. Sabbir Ahmed, Shuvajit Mondal, Farzana Afroz, Mohammad Abdulla Al Noman",
-      "title": "Food safety practice and its associated factors among household food handlers in Patuakhali, Bangladesh: A cross-sectional study",
-      "description": "Food safety practices play a crucial role in the prevention of foodborne diseases, particularly in low- and middle-income countries like Bangladesh. This study assessed food safety practices among household food handlers in Patuakhali, Bangladesh, and identif…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326595",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326595.g002&size=inline",
-      "publishedAt": "2025-06-20T14:00:00Z",
-      "content": "Introduction\r\nFood safety refers to the procedures and measures taken to ensure that food is handled, prepared, stored, and consumed in ways that prevent foodborne diseases (FBDs) [1]. FBDs are cause… [+28968 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 94,
   "filteredCount": 0
 }
