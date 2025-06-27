@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-06-26T18:34:59.528Z",
+  "lastUpdated": "2025-06-27T02:03:43.413Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Tara Haelle",
+      "title": "What Is Thimerosal? Why Most Vaccines Don't Contain Mercury Anymore",
+      "description": "Thimerosal, which contains and organic compound of mercury, has mostly been phased out as a preservative for vaccines. Here's how we know it is safe, and why we still use it in some vaccines given to adults",
+      "url": "https://www.scientificamerican.com/article/what-is-thimerosal-why-most-vaccines-dont-contain-mercury-anymore/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/63856579d67b23d/original/Vaccine-bottle-pattern.jpg?m=1750886409.709&w=1200",
+      "publishedAt": "2025-06-25T21:30:00Z",
+      "content": "This week the Centers for Disease Control and Prevention’s Advisory Committee on Immunization Practices is meeting to review and vote on several vaccine recommendations. Just in the past week, howeve… [+8762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "San Angelo LIVE!"
+      },
+      "author": "San Angelo Live!",
+      "title": "UPDATE: Cheesesteak Place Closed After Roaches, Slime Found in Ice Machine",
+      "description": "UPDATE: Cheesesteak Place Closed After Roaches, Slime Found in Ice Machinesanangelolive.com",
+      "url": "https://sanangelolive.com/news/business/2025-06-25/update-cheesesteak-place-closed-after-roaches-slime-found-ice-machine",
+      "urlToImage": "https://sanangelolive.com/sites/default/files/styles/facebook/public/2025-06/untitled-1_47.jpg?h=11f65397&itok=-kKQjYfO",
+      "publishedAt": "2025-06-25T20:52:55Z",
+      "content": "SAN ANGELO, TX  The Charleys Philly Steaks restaurant at Sunset Mall has been permanently closed by the San Angelo-Tom Green County Health Department after a failed inspection uncovered a roach infes… [+1536 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Terri Levien, Professor of Pharmacy, Washington State University",
+      "title": "A preservative removed from childhood vaccines 20 years ago is still causing controversy today − a drug safety expert explains",
+      "description": "There’s no solid evidence that thimerosal harms children. It was removed from almost all vaccines more than 20 years ago out of an abundance of caution, but RFK Jr.’s hand-picked vaccine advisory committee is looking into it.",
+      "url": "https://theconversation.com/a-preservative-removed-from-childhood-vaccines-20-years-ago-is-still-causing-controversy-today-a-drug-safety-expert-explains-259442",
+      "urlToImage": "https://images.theconversation.com/files/676367/original/file-20250624-62-w65kv4.jpg?ixlib=rb-4.1.0&rect=0%2C240%2C7680%2C3840&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-06-25T20:12:33Z",
+      "content": "A discredited study published in 1989 first alleged a link between thimerosal and autism. Flavio Coelho/Moment via Getty Images\r\nAn expert committee that advises the Centers for Disease Control and P… [+6634 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "72 sick in salami salmonella outbreak, health agency says",
+      "description": "Seventy-two people have fallen ill after eating salami recalled due to possible salmonella contamination.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/72-sick-in-salami-salmonella-outbreak-health-agency-says-1.7570708",
+      "urlToImage": "https://i.cbc.ca/1.7559184.1749733776!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/salmonella-salami-20250611.JPG?im=Resize%3D620",
+      "publishedAt": "2025-06-25T19:06:36Z",
+      "content": "Seventy-two people have fallen ill after eating salami recalled due to possible salmonella contamination.\r\nThe Public Health Agency of Canada released an updated notice on an outbreak of salmonella i… [+1206 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -188,6 +240,19 @@
         "id": null,
         "name": "Naturalnews.com"
       },
+      "author": "Cassie B.",
+      "title": "Hidden danger in your kitchen: Swiss study reveals everyday items release cancer-linked microplastics",
+      "description": "Common household plastics like bottles, teabags, and cutting boards shed harmful microplastics into food and drinks. Microplastics and nanoplastics infiltrate organs, with links to cancer, heart disease, and pregnancy risks. Plastic bottles, food containers, …",
+      "url": "https://www.naturalnews.com/2025-06-25-hidden-danger-kitchen-everyday-items-release-microplastics.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/microplastics-1.jpeg",
+      "publishedAt": "2025-06-25T06:00:00Z",
+      "content": "<ul><li>Common household plastics like bottles, teabags, and cutting boards shed harmful microplastics into food and drinks.</li><li>Microplastics and nanoplastics infiltrate organs, with links to ca… [+4715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
       "author": "Willow Tohi",
       "title": "Invisible threats to brain health: How common foods may speed cognitive decline",
       "description": "Microplastics in seafood, supplements and ultra-processed foods are linked to higher dementia risk, according to studies. Higher consumption of ultra-processed foods accelerates cognitive decline, per JAMA Neurology. Toxin accumulation in brains increases wit…",
@@ -208,19 +273,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cherries-Cherry-Fruit.jpg",
       "publishedAt": "2025-06-25T06:00:00Z",
       "content": "<ul><li>Cherries originated in Eurasia and were spread by the Romans. Today, sweet and tart cherries are grown worldwide, with the U.S., Turkey and Iran as top producers.</li><li>Low in calories but … [+6990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Cassie B.",
-      "title": "Hidden danger in your kitchen: Swiss study reveals everyday items release cancer-linked microplastics",
-      "description": "Common household plastics like bottles, teabags, and cutting boards shed harmful microplastics into food and drinks. Microplastics and nanoplastics infiltrate organs, with links to cancer, heart disease, and pregnancy risks. Plastic bottles, food containers, …",
-      "url": "https://www.naturalnews.com/2025-06-25-hidden-danger-kitchen-everyday-items-release-microplastics.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/microplastics-1.jpeg",
-      "publishedAt": "2025-06-25T06:00:00Z",
-      "content": "<ul><li>Common household plastics like bottles, teabags, and cutting boards shed harmful microplastics into food and drinks.</li><li>Microplastics and nanoplastics infiltrate organs, with links to ca… [+4715 chars]"
     },
     {
       "source": {
@@ -1196,58 +1248,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326595.g002&size=inline",
       "publishedAt": "2025-06-20T14:00:00Z",
       "content": "Introduction\r\nFood safety refers to the procedures and measures taken to ensure that food is handled, prepared, stored, and consumed in ways that prevent foodborne diseases (FBDs) [1]. FBDs are cause… [+28968 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Sarah Trubovitz, Miguel M. Sandin, David A. Caron",
-      "title": "Genetic variability in microbial eukaryotes reshapes marine biodiversity assessment in the age of amplicon sequencing",
-      "description": "Rapidly improving DNA sequencing technology has revolutionized our ability to efficiently survey the biodiversity of microbial life. We are now equipped to investigate protistan richness and community dynamics on scales that would not have been imaginable wit…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326053",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326053.g008&size=inline",
-      "publishedAt": "2025-06-20T14:00:00Z",
-      "content": "Introduction\r\nDNA sequencing has provided a wealth of information that has been transforming our understanding of marine microbial eukaryote species richness, biogeography, community composition, and… [+82166 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Sarah Tevlin, Héctor E. Pérez, Raelene M. Crandall, Jennifer M. Fill",
-      "title": "Desiccation tolerant yet short-lived seeds: A conundrum for post-harvest handling of a high restoration value bunchgrass?",
-      "description": "The successful preservation of seeds for future use depends on factors that maintain or limit seed viability. Yet, seed biology knowledge that would facilitate seed storage of most wild species used in ecosystem restoration is absent. This study characterized…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326596",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326596.g005&size=inline",
-      "publishedAt": "2025-06-20T14:00:00Z",
-      "content": "Abstract\r\nThe successful preservation of seeds for future use depends on factors that maintain or limit seed viability. Yet, seed biology knowledge that would facilitate seed storage of most wild spe… [+70213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSOC Charlotte"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Little Remedies Honey Cough Syrup recalled due to microbial contamination",
-      "description": "The Food and Drug Administration has recalled five lots of Little Remedies Honey Cough Syrup because it could be contaminated with a microbe.",
-      "url": "https://www.wsoctv.com/news/trending/recall-alert-little-remedies-honey-cough-syrup-recalled-due-microbial-contamination/RIXL7XFKLRFK3BJCRLTPO7PGGQ/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FCD4PZVLCKJHNBPV76QW7EYEA2A.jpg?auth=747baadfdf635ab1feed8b9ef704dfb4e6b94c6379bde1469019b4e5491d0394&width=1200&height=630&smart=true",
-      "publishedAt": "2025-06-20T13:23:43Z",
-      "content": "The Food and Drug Administration has recalled five lots of Little Remedies Honey Cough Syrup because it could be contaminated with a microbe. \r\nMedtech Products Inc. said that there may be Bacillus c… [+1341 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WFTV Orlando"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Little Remedies Honey Cough Syrup recalled due to microbial contamination",
-      "description": "The Food and Drug Administration has recalled five lots of Little Remedies Honey Cough Syrup because it could be contaminated with a microbe.",
-      "url": "https://www.wftv.com/news/trending/recall-alert-little-remedies-honey-cough-syrup-recalled-due-microbial-contamination/RIXL7XFKLRFK3BJCRLTPO7PGGQ/",
-      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FCD4PZVLCKJHNBPV76QW7EYEA2A.jpg?auth=747baadfdf635ab1feed8b9ef704dfb4e6b94c6379bde1469019b4e5491d0394&width=1200&height=630&smart=true",
-      "publishedAt": "2025-06-20T13:23:37Z",
-      "content": "The Food and Drug Administration has recalled five lots of Little Remedies Honey Cough Syrup because it could be contaminated with a microbe. \r\nMedtech Products Inc. said that there may be Bacillus c… [+1341 chars]"
     }
   ],
   "totalResults": 96,
