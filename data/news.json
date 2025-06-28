@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-06-28T06:33:14.695Z",
+  "lastUpdated": "2025-06-28T12:47:11.095Z",
   "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Deirdre Bardolf",
+      "title": "Butcher shops close as E. coli outbreak kills 12-year-old girl, hospitalizes 21 children",
+      "description": "A deadly E. coli outbreak in northern France has left a 12-year-old girl dead and 21 children hospitalized, with nine patients developing hemolytic uremic syndrome.",
+      "url": "https://www.foxnews.com/food-drink/butcher-shops-close-e-coli-outbreak-kills-12-year-old-girl-hospitalizes-21-children",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/butcher-knife-cuts-meat.jpg",
+      "publishedAt": "2025-06-27T12:45:37Z",
+      "content": "A 12-year-old girl died and at least 21 children were hospitalized after an E. coli outbreak that was likely caused by contaminated meat, prompting the closure of six butcher shops in France, officia… [+4759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Packaging-gateway.com"
+      },
+      "author": "GlobalData",
+      "title": "Avery Dennison reveals RFID label for PET recycling compatibility",
+      "description": "The label is said to have been crafted by combining CleanFlake adhesive with RFID knowledge.",
+      "url": "https://www.packaging-gateway.com/news/avery-dennison-reveals-rfid/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Fu_bfIgM0UxHGU6.z6f7RA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/packaging_gateway_559/b90950ae948b913be301ce81affd1e0e",
+      "publishedAt": "2025-06-27T11:12:25Z",
+      "content": "Avery Dennison, a radio-frequency identification (RFID) tag manufacturer, has introduced an RFID label that is the first to earn Association of Plastic Recyclers Design for Recyclability certificatio… [+2605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Robin Respaut and Maggie Fick",
+      "title": "Stung by high prices, Americans make their own weight-loss drugs",
+      "description": "SAN FRANCISCO (Reuters) -In what she calls the \"wild west\" of obesity medicines, Missouri-based Amy Spencer is a pioneer.  Each week the mother of two...",
+      "url": "https://www.yahoo.com/news/stung-high-prices-americans-own-101141926.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/74d6bcb8812e40247c6da08eebbb81d3",
+      "publishedAt": "2025-06-27T10:11:41Z",
+      "content": "By Robin Respaut and Maggie Fick\r\nSAN FRANCISCO (Reuters) -In what she calls the \"wild west\" of obesity medicines, Missouri-based Amy Spencer is a pioneer.\r\nEach week the mother of two injects hersel… [+12671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SILive.com"
+      },
+      "author": "Jessica Jones-gorman | Jgorman@siadvance.com",
+      "title": "These Staten Island teens are running their own business while still in high school",
+      "description": "Susan Wagner High School's virtual enterprise program is changing students' lives by teaching them entrepreneurship skills through a hands-on inclusive bakery project.",
+      "url": "https://www.silive.com/business/2025/06/these-staten-island-teens-are-running-their-own-business-while-still-in-high-school.html",
+      "urlToImage": "https://www.silive.com/resizer/v2/4VSZV2ZTUVHWHA5RI6SLMJ37ZU.jpg?auth=4783d2eb38a48f7943e7a65d3b80a9da5d045d7305a89028bfdf5c056f8462ce&width=1280&quality=90",
+      "publishedAt": "2025-06-27T10:01:42Z",
+      "content": "STATEN ISLAND, N.Y. For the past several years, a group of students at Susan Wagner High School has been operating a small business. The culmination of long hours, field trips and lots of classroom l… [+5411 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,58 +1209,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-122004694,width-1200,height-630,imgsize-176384,overlay-etdefence/articleshow.jpg",
       "publishedAt": "2025-06-22T09:22:05Z",
       "content": "President Donald Trump said Iran's main nuclear sites had been \"obliterated\" in military strikes overnight, including on the deeply buried Fordow facility, as the U.S. joined attacks launched by Isra… [+5796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "IAEA chief warns of nuclear fallout from Israeli attacks on Iran",
-      "description": "International Atomic Energy Agency (IAEA) Director General Rafael Grossi on Friday warned of the risk of nuclear contamination from Israeli attacks on Iranian nuclear facilities.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250621-pdo03.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-06-22T08:10:47Z",
-      "content": "People's Daily Online\r\n(Xinhua) 11:28, June 21, 2025\r\nUNITED NATIONS, June 20 (Xinhua) -- International Atomic Energy Agency (IAEA) Director General Rafael Grossi on Friday warned of the risk of nucl… [+3564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "DPA",
-      "title": "Drinks in glass bottles have more microplastics than plastic bottles",
-      "description": "A team of investigators at France's state food agency has discovered that some glass bottles have more microplastics in them than other containers, including...",
-      "url": "https://www.yahoo.com/news/drinks-glass-bottles-more-microplastics-051437764.html",
-      "urlToImage": "https://media.zenfs.com/en/dpa_international_526/aeac3bfd143bd0f33771b0c6cfdf3fda",
-      "publishedAt": "2025-06-22T05:14:37Z",
-      "content": "A team of investigators at France's state food agency has discovered that some glass bottles have more microplastics in them than other containers, including those made of plastic.\r\nThe \"surprising f… [+1794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Publichealthpolicyjournal.com"
-      },
-      "author": null,
-      "title": "Threat in Your Medicine Cabinet: The FDA’s Gamble on America’s Drugs/ ProPublica - Science, Public Health Policy and the Law",
-      "description": "Threat in Your Medicine Cabinet: The FDA’s Gamble on America’s Drugs/ ProPublica - Science, Public Health Policy and the Lawpublichealthpolicyjournal.com",
-      "url": "https://publichealthpolicyjournal.com/threat-in-your-medicine-cabinet-the-fdas-gamble-on-americas-drugs-propublica/",
-      "urlToImage": "https://i0.wp.com/publichealthpolicyjournal.com/wp-content/uploads/2025/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F67babcd5-6e39-4178-bebf-79c0a3dc8997_364x364-jFniHy.jpg",
-      "publishedAt": "2025-06-22T02:31:08Z",
-      "content": "On a sweltering morning in western India in 2022, three U.S. inspectors showed up unannounced at a massive pharmaceutical plant surrounded by barricades and barbed wire and demanded to be let inside.… [+28062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "How Your Microbiome Influences Your Dietary Recommendations",
-      "description": "Editor's Note: This article is a reprint. It was originally published April 21, 2024.\n\nIn the ever-evolving field of bioenergetic medicine, the relationship between our diet, microbiome and overall health continues to unveil complex and intriguing connections…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/06/22/sugar-microbiome-endotoxin.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/July/FB/sugar-microbiome-endotoxin-fb.jpg",
-      "publishedAt": "2025-06-22T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
   "totalResults": 93,
