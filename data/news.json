@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-29T12:48:21.383Z",
+  "lastUpdated": "2025-06-29T18:32:01.897Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Ravi Chandra M.D., D.F.A.P.A.",
+      "title": "Birthright Citizenship: The Psychology of Exclusion and Fear",
+      "description": "The Supreme Court's recent ruling and ICE actions have amplified conflict over the citizenship and safety of migrants.",
+      "url": "https://www.psychologytoday.com/us/blog/the-pacific-heart/202506/birthright-citizenship-the-psychology-of-exclusion-and-fear",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-06/singer%20substack%20anti-immigrant%20cultural%20complex.jpg?itok=Fb6mK3Fq",
+      "publishedAt": "2025-06-28T16:57:30Z",
+      "content": "On June 27, 2025, the Supreme Court delayed ruling on the constitutionality of President Trumps Executive Order 14160, issued on January 20, 2025, that denied birthright citizenship to children of mo… [+7607 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Martha McHardy",
+      "title": "Nationwide Cocktail Recall Over Exploding Can Fears",
+      "description": "The nationwide recall was initiated by Columbus, Ohio-based company Peak Cocktails.",
+      "url": "https://www.newsweek.com/nationwide-cocktail-recall-exploding-cans-2091975",
+      "urlToImage": "https://d.newsweek.com/en/full/2673313/recall.jpg",
+      "publishedAt": "2025-06-28T15:04:38Z",
+      "content": "A popular ready-to-drink alcohol-free cocktail brand is being pulled from shelves nationwide amid fears that some cans could burst unexpectedly.\r\nThe nationwide recall was initiated by Columbus, Ohio… [+2967 chars]"
+    },
     {
       "source": {
         "id": "al-jazeera-english",
@@ -149,19 +175,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
-      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
-      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
       "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
       "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
@@ -169,6 +182,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
       "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
+      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
+      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
+      "publishedAt": "2025-06-27T14:00:00Z",
+      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
     },
     {
       "source": {
@@ -1170,47 +1196,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2668709/cheese-recall.jpg",
       "publishedAt": "2025-06-23T09:21:27Z",
       "content": "Face Rock Creamery voluntarily recalled two lots of its \"Vampire Slayer Garlic Cheddar Curds\" from Trader Joe's stores in northern California and northern Nevada this week after routine product tests… [+2904 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "author": "Pierluigi Paganini",
-      "title": "The financial impact of Marks & Spencer and Co-op cyberattacks could reach £440M",
-      "description": "UK’s Cyber Monitoring Centre (CMC) labels Marks & Spencer and Co-op cyberattacks a Category 2 event, estimating financial impact at £270M–£440M. The Cyber Monitoring Centre (CMC) has labeled the recent cyberattacks on Marks & Spencer and Co-op as a Category 2…",
-      "url": "https://securityaffairs.com/179225/cyber-crime/the-financial-impact-of-marks-spencer-and-co-op-cyberattacks-could-reach-440m.html",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/06/image-40.png",
-      "publishedAt": "2025-06-23T09:00:30Z",
-      "content": "The financial impact of Marks &amp; Spencer and Co-op cyberattacks could reach £440M\r\n | Iran-Linked Threat Actors Cyber Fattah Leak Visitors and Athletes' Data from Saudi Games\r\n | SECURITY AFFAIRS … [+174633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ProPublica"
-      },
-      "author": "by Debbie Cenziper and Megan Rose",
-      "title": "His Kidney Failed. He’ll Never Know if a Transplant Drug From a Banned Factory Was to Blame.",
-      "description": "by Debbie Cenziper and Megan Rose \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nJoe DeMayo always knew his healthy years could end abruptly, …",
-      "url": "https://www.propublica.org/article/fda-tacrolimus-kidney-transplant-patient",
-      "urlToImage": "https://img.assets-d.propublica.org/v5/images/20250129-Yoon-FDA-promo.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=bda0f992cad95e51a431de8dab70e7c5",
-      "publishedAt": "2025-06-23T09:00:00Z",
-      "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nJoe DeMayo always knew his healthy years could end abruptly,… [+11729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Emilie Lavinia",
-      "title": "I drank kefir for a month and it made me feel like a superhuman – what’s the secret behind this gut-friendly drink? (cloned)",
-      "description": "Could this fermented drink hold the key to better health?",
-      "url": "https://www.the-independent.com/health-and-fitness/what-is-kefir-b2774981.html",
-      "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-06-23T08:59:48Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+8675 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 92,
   "filteredCount": 0
 }
