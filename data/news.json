@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-29T02:19:59.885Z",
+  "lastUpdated": "2025-06-29T06:34:35.998Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Bologna Products Recall Sparks Nationwide Warning to Customers",
+      "description": "Over 143,000 pounds of ready-to-eat bologna products have been recalled due to \"misbranding\" concerns, the Food Safety and Inspection Service warns.",
+      "url": "https://www.newsweek.com/bologna-products-recall-sparks-nationwide-warning-customers-2091924",
+      "urlToImage": "https://d.newsweek.com/en/full/2673264/bologna-product-recall.jpg",
+      "publishedAt": "2025-06-28T02:58:51Z",
+      "content": "Gaiser's European Style Provisions Inc. is recalling over 143,000 pounds of ready-to-eat bologna products due to \"misbranding,\" according to the U.S. Department of Agriculture's Food Safety and Inspe… [+3184 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -97,19 +110,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
-      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
-      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
       "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
       "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
@@ -117,6 +117,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
       "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
+      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
+      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
+      "publishedAt": "2025-06-27T14:00:00Z",
+      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
     },
     {
       "source": {
@@ -1183,19 +1196,6 @@
       "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2025/06/GettyImages-2207830564.jpg",
       "publishedAt": "2025-06-23T04:00:29Z",
       "content": "French doctors have issued warnings that food staples like bread and pasta are being contaminated with hazardous levels of cadmium, a heavy metal that can end up on our plates because it is used in f… [+3229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ibtimes.com.au"
-      },
-      "author": "Issam AHMED",
-      "title": "Toxic Threat From 'Forever Chemicals' Sparks Resistance In Georgia Towns",
-      "description": "Sasha and Jamie Cordle thought their small farm in rural Georgia would be a ladder out of working-class struggle, and a gift for their children and grandchildren.",
-      "url": "https://www.ibtimes.com.au/toxic-threat-forever-chemicals-sparks-resistance-georgia-towns-1859349",
-      "urlToImage": "https://d.ibtimes.com.au/en/full/1883664/lawyer-nick-jackson-talks-citizens-during-townhall-event-about-pfas-chatsworth-georgia.jpg",
-      "publishedAt": "2025-06-23T01:27:21Z",
-      "content": "Sasha and Jamie Cordle thought their small farm in rural Georgia would be a ladder out of working-class struggle, and a gift for their children and grandchildren.\r\nInstead, it may be poisoning them.\r… [+4656 chars]"
     }
   ],
   "totalResults": 92,
