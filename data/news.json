@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-30T12:52:40.043Z",
+  "lastUpdated": "2025-06-30T18:34:52.357Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "2 major recalls that could be in your home now",
+      "description": "Two beloved food retailers have issued urgent recalls this week that could affect thousands of households across multiple states, prompting immediate action from consumers who may have these potentially dangerous products sitting in their refrigerators and pa…",
+      "url": "https://rollingout.com/2025/06/29/major-recalls-that-could-be-in-your-home/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/06/shutterstock_2186488579-scaled.jpg",
+      "publishedAt": "2025-06-29T17:03:55Z",
+      "content": "Two beloved food retailers have issued urgent recalls this week that could affect thousands of households across multiple states, prompting immediate action from consumers who may have these potentia… [+12353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "Water Quality Sensor Market to Hit USD 9.47 Billion by 2032, Owing to the Growing Need for Real-Time Water Quality Monitoring and Regulatory Compliance | Research by SNS Insider",
+      "description": "Rapid urbanization, rising environmental regulations, and the global emphasis on safe drinking and industrial water have spurred unprecedented demand for water quality sensor technologies, driving extensive deployment of IoT-enabled and real-time monitoring s…",
+      "url": "https://www.globenewswire.com/news-release/2025/06/29/3107077/0/en/Water-Quality-Sensor-Market-to-Hit-USD-9-47-Billion-by-2032-Owing-to-the-Growing-Need-for-Real-Time-Water-Quality-Monitoring-and-Regulatory-Compliance-Research-by-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-06-29T14:00:00Z",
+      "content": "Austin, June 29, 2025 (GLOBE NEWSWIRE) -- The water quality sensor market\r\n size was valued at USD5.72billion in2024 and is expected to reach USD9.47billion by2032, growing at a CAGR of6.51% over the… [+5939 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -188,19 +214,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Shilin Li, Jianlei Chen, Xuzhi Zhang, Jianshe Zhang, Yongjiang Xu, Yong Xu",
-      "title": "Heavy metal distribution and ecological risk in surface sediments of the Bohai Sea",
-      "description": "Heavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution retention. Heavy metals are persistent, bioaccumulative, and toxic, mak…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326701",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326701.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Abstract\r\nHeavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution r… [+38237 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Alberto Rissone, Martina La Spina, Erica Bresciani, Zulfeqhar A. Syed, Christian A. Combs, Martha Kirby, Abdel Elkahloun, Vicky Chen, Raman Sood, Shawn M. Burgess, Rosa Puertollano",
       "title": "The transcription factors Tfeb and Tfe3 are required for survival and embryonic development of pancreas and liver in zebrafish",
       "description": "Author summary TFEB and TFE3 belong to the MiT/TFE family of basic helix–loop–helix leucine zipper transcription factors and orchestrate cellular responses to a variety of stress conditions, such as nutrient deprivation, oxidative stress, organelle damage, an…",
@@ -214,13 +227,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
-      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
-      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
+      "author": "Shilin Li, Jianlei Chen, Xuzhi Zhang, Jianshe Zhang, Yongjiang Xu, Yong Xu",
+      "title": "Heavy metal distribution and ecological risk in surface sediments of the Bohai Sea",
+      "description": "Heavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution retention. Heavy metals are persistent, bioaccumulative, and toxic, mak…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326701",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326701.g007&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
+      "content": "Abstract\r\nHeavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution r… [+38237 chars]"
     },
     {
       "source": {
@@ -234,6 +247,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
       "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
+      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
+      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
+      "publishedAt": "2025-06-27T14:00:00Z",
+      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
     },
     {
       "source": {
@@ -632,7 +658,7 @@
       },
       "author": "Meg Tirrell",
       "title": "What to know about thimerosal, a target of RFK Jr.’s new CDC vaccine advisers | CNN",
-      "description": "The preservative thimerosal has been removed from all but a few vaccines, and studies have confirmed no link to neurodevelopmental issues including autism. So public health experts were puzzled when it appeared on the agenda for this week’s meeting of outside��",
+      "description": "The preservative thimerosal has been removed from all but a few vaccines, and studies have confirmed no link to neurodevelopmental issues including autism. So public health experts were puzzled when it appeared on the agenda for this week’s meeting of outside…",
       "url": "https://www.cnn.com/2025/06/25/health/thimerosal-controversy-rfk-explained",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1229717412.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-06-26T03:01:04Z",
@@ -1157,47 +1183,8 @@
       "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011747.g004&size=inline",
       "publishedAt": "2025-06-23T14:00:00Z",
       "content": "Abstract\r\nPhenotypic variation is often observed in individuals with the same mutation. However, the mechanisms that contribute to this variation remain largely unknown. Fibronectin mutants in both m… [+82978 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Nyuma Mbewe, John Tembo, Mpanga Kasonde, Kelvin Mwangilwa, Paul Msanzya Zulu, Joseph Adive Sereki, William Ngosa, Kennedy Lishipmi, Lloyd Mulenga, Roma Chilengi, Nathan Kapata, Martin Peter Grobusch",
-      "title": "Navigating the cholera elimination roadmap in Zambia – A scoping review (2013–2024)",
-      "description": "Author summary Cholera outbreaks are increasing in both frequency and severity across sub-Saharan Africa, despite long-standing evidence on the effectiveness of improved water, sanitation, and hygiene (WASH), the protective role of oral cholera vaccines (OCV)…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012422",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012422.g002&size=inline",
-      "publishedAt": "2025-06-23T14:00:00Z",
-      "content": "Citation: Mbewe N, Tembo J, Kasonde M, Mwangilwa K, Zulu PM, Sereki JA, et al. (2025) Navigating the cholera elimination roadmap in Zambia A scoping review (20132024). PLoS Negl Trop Dis 19(6):\r\n e00… [+41829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Meat Processing Equipment Market is Expected to Reach USD16.36 Billion by 2032, Owing to Surging Demand for Automated, Hygienic, and Sustainable Meat Production Solutions | SNS Insider",
-      "description": "Driven by growing consumer demand for safer and higher-quality meat products, stringent regulatory hygiene standards, and rising adoption of automation and AI-enabled equipment across processing facilities, the Meat Processing Equipment Market is experiencing…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/23/3103483/0/en/Meat-Processing-Equipment-Market-is-Expected-to-Reach-USD16-36-Billion-by-2032-Owing-to-Surging-Demand-for-Automated-Hygienic-and-Sustainable-Meat-Production-Solutions-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-06-23T13:30:00Z",
-      "content": "Austin, June 23, 2025 (GLOBE NEWSWIRE) -- The M\r\neat \r\nP\r\nrocessing \r\nE\r\nquipment \r\nM\r\narket\r\n size was valued at USD11.25billion in2024 and is expected to reach USD16.36billion by2032, growing at a … [+6379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "4 blockchain secrets that will blow your mind",
-      "description": "The blockchain revolution extends far beyond the realm of digital currencies, transforming entire industries through innovative applications that seemed impossible just decades ago. While most people associate blockchain technology exclusively with Bitcoin an…",
-      "url": "https://rollingout.com/2025/06/23/4-blockchain-secrets-that-will-blow-mind/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2021/09/shutterstock_1949378056.jpg",
-      "publishedAt": "2025-06-23T13:00:15Z",
-      "content": "The blockchain revolution extends far beyond the realm of digital currencies, transforming entire industries through innovative applications that seemed impossible just decades ago. While most people… [+11036 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 91,
   "filteredCount": 0
 }
