@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-30T06:37:43.741Z",
+  "lastUpdated": "2025-06-30T12:52:40.043Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Gun, bombs - and now drugs? Israel reportedly sending food mixed with deadly narcotic to hungry Palestinians",
+      "description": "Gaza faces a crisis. Oxycodone pills are found in flour bags from US-backed aid centers. Palestinian authorities blame Israel. They allege deliberate contamination. Concerns rise about public health and social stability. Human rights groups criticize aid dist…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/gun-bombs-and-now-drugs-israel-reportedly-sending-food-mixed-with-deadly-narcotic-to-hungry-palestinians/articleshow/122142729.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122142770,width-1200,height-630,imgsize-1567342,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-29T11:57:20Z",
+      "content": "In a shocking allegation that further deepens the humanitarian crisis in Gaza, Palestinian authorities claim that flour distributed through U.S.- and Israeli-backed aid centers contained oxycodonea h… [+2094 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -201,19 +214,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
-      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
-      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
       "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
       "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
@@ -221,6 +221,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
       "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
+      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
+      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
+      "publishedAt": "2025-06-27T14:00:00Z",
+      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
     },
     {
       "source": {
@@ -619,7 +632,7 @@
       },
       "author": "Meg Tirrell",
       "title": "What to know about thimerosal, a target of RFK Jr.’s new CDC vaccine advisers | CNN",
-      "description": "The preservative thimerosal has been removed from all but a few vaccines, and studies have confirmed no link to neurodevelopmental issues including autism. So public health experts were puzzled when it appeared on the agenda for this week’s meeting of outside…",
+      "description": "The preservative thimerosal has been removed from all but a few vaccines, and studies have confirmed no link to neurodevelopmental issues including autism. So public health experts were puzzled when it appeared on the agenda for this week’s meeting of outside��",
       "url": "https://www.cnn.com/2025/06/25/health/thimerosal-controversy-rfk-explained",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1229717412.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-06-26T03:01:04Z",
@@ -1183,19 +1196,6 @@
       "urlToImage": "https://rollingout.com/wp-content/uploads/2021/09/shutterstock_1949378056.jpg",
       "publishedAt": "2025-06-23T13:00:15Z",
       "content": "The blockchain revolution extends far beyond the realm of digital currencies, transforming entire industries through innovative applications that seemed impossible just decades ago. While most people… [+11036 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "2 butcher shops close after girl dies from food poisoning",
-      "description": "Eight children have come down with severe food poisoning since June 12 after consuming meat products from the two businesses in Saint-Quentin.",
-      "url": "https://www.cbsnews.com/news/girl-dies-food-poisoning-e-coli-butchers-france/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/09/15/cc20d794-4d03-477e-bd49-2a5e0b603abe/thumbnail/1200x630/6b734270a89cb1f13b750ad8e9615e81/gettyimages-956351578.jpg?v=64f55bb7ef9382fe7916b907da543f1f",
-      "publishedAt": "2025-06-23T10:48:28Z",
-      "content": "Two butcher shops in northern France have temporarily closed after a child died from severe food poisoning, said local authorities on Friday.\r\nEight children have come down with severe food poisoning… [+1761 chars]"
     }
   ],
   "totalResults": 92,
