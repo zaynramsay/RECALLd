@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-06-29T18:32:01.897Z",
+  "lastUpdated": "2025-06-30T02:08:43.098Z",
   "articles": [
     {
       "source": {
@@ -175,19 +175,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
-      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
-      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
       "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
       "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
@@ -195,6 +182,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
       "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
+      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
+      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
+      "publishedAt": "2025-06-27T14:00:00Z",
+      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
     },
     {
       "source": {
