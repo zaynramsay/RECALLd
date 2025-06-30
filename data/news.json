@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-06-30T02:08:43.098Z",
+  "lastUpdated": "2025-06-30T06:37:43.741Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Austrian study warns: “Forever chemicals” found in all tested cereal products, including organic brands",
+      "description": "A new report by GLOBAL 2000 and PAN Europe found trifluoroacetic acid (TFA) – a persistent “forever chemical” – in all 48 tested cereal-based food products in Austria, including both organic and conventional items. TFA, a byproduct of refrigerants, pesticides…",
+      "url": "https://www.naturalnews.com/2025-06-29-study-forever-chemicals-found-all-cereal-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Cereal-Milk-Breakfast.jpg",
+      "publishedAt": "2025-06-29T06:00:00Z",
+      "content": "<ul><li>A new report by GLOBAL 2000 and PAN Europe found trifluoroacetic acid (TFA)  a persistent \"forever chemical\" in all 48 tested cereal-based food products in Austria, including both organic and… [+5600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Indarchand  Chavan",
+      "title": "Warfare and the wheat field: Why India needs a new fertiliser strategy",
+      "description": "There is an immediate need for the existing policy revision to ensure the sustainable, efficient and equitable use of fertilisers that support soil health and food security",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/warfare-and-the-wheat-field-why-india-needs-a-new-fertiliser-strategy/article69748723.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/3i2vqk/article69750826.ece/alternates/LANDSCAPE_1200/2013-02-08T134019Z_01_DEL12_RTRMDNP_3_INDIA-FERTILISER-SUBSIDY.JPG",
+      "publishedAt": "2025-06-29T03:30:00Z",
+      "content": "Fertilisers are the inorganic amendments that supplement the required nutrients to crop plants and lead to increased yields. Fertiliser use started increasing drastically soon after the Green Revolut… [+5678 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/09/15/cc20d794-4d03-477e-bd49-2a5e0b603abe/thumbnail/1200x630/6b734270a89cb1f13b750ad8e9615e81/gettyimages-956351578.jpg?v=64f55bb7ef9382fe7916b907da543f1f",
       "publishedAt": "2025-06-23T10:48:28Z",
       "content": "Two butcher shops in northern France have temporarily closed after a child died from severe food poisoning, said local authorities on Friday.\r\nEight children have come down with severe food poisoning… [+1761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Yorker"
-      },
-      "author": "Elizabeth Kolbert",
-      "title": "Do We Need Another Green Revolution?",
-      "description": "Elizabeth Kolbert reviews “We Are Eating the Earth,” by Michael Grunwald, and “How to Feed the World,” by Vaclav Smil.",
-      "url": "https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution",
-      "urlToImage": "https://media.newyorker.com/photos/685094270c1c1b21a3bca7ce/16:9/w_1280,c_limit/r46837.jpg",
-      "publishedAt": "2025-06-23T10:00:00Z",
-      "content": "Carbon farming and vertical farming are wildly overhyped, Grunwald concludes. Plant-based meat has floundered in the market, while cultivated meat hasnt really made it to market. He adds, Im sorry ab… [+10177 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Trader Joe's Cheese Recall in Two States as Warning Issued",
-      "description": "The Cleveland Clinic has identified soft cheeses and unpasteurized dairy products as foods that are more likely to be contaminated with listeria.",
-      "url": "https://www.newsweek.com/trader-joes-cheese-recall-two-states-warning-issued-2089184",
-      "urlToImage": "https://d.newsweek.com/en/full/2668709/cheese-recall.jpg",
-      "publishedAt": "2025-06-23T09:21:27Z",
-      "content": "Face Rock Creamery voluntarily recalled two lots of its \"Vampire Slayer Garlic Cheddar Curds\" from Trader Joe's stores in northern California and northern Nevada this week after routine product tests… [+2904 chars]"
     }
   ],
   "totalResults": 92,
