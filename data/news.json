@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-06-30T18:34:52.357Z",
+  "lastUpdated": "2025-07-01T02:20:54.948Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "Louisa Thomas",
+      "title": "The Sincaraz Era Is Tennis Reborn",
+      "description": "In Carlos Alcaraz and Jannik Sinner, the sport has not only its next great rivalry but a moment that highlights everything the sport can be.",
+      "url": "https://www.newyorker.com/sports/sporting-scene/the-sincaraz-era-is-tennis-reborn",
+      "urlToImage": "https://media.newyorker.com/photos/685ff730f42875aa560d472e/16:9/w_1280,c_limit/Sporting-Scene-Alcaraz-Sinner.jpg",
+      "publishedAt": "2025-06-29T21:44:08Z",
+      "content": "For years, many Grand Slam finals became, spontaneously, an event. When Rafael Nadal played Roger Federer, or Federer faced Novak Djokovic, or Djokovic took on Andy Murray, and the games stretched in… [+8075 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -214,19 +227,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Alberto Rissone, Martina La Spina, Erica Bresciani, Zulfeqhar A. Syed, Christian A. Combs, Martha Kirby, Abdel Elkahloun, Vicky Chen, Raman Sood, Shawn M. Burgess, Rosa Puertollano",
-      "title": "The transcription factors Tfeb and Tfe3 are required for survival and embryonic development of pancreas and liver in zebrafish",
-      "description": "Author summary TFEB and TFE3 belong to the MiT/TFE family of basic helix–loop–helix leucine zipper transcription factors and orchestrate cellular responses to a variety of stress conditions, such as nutrient deprivation, oxidative stress, organelle damage, an…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011754",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011754.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Introduction\r\nTFEB and TFE3 are basic helixloophelix leucine zipper transcription factors that function as master regulators of cellular adaptation to stress in response to a wide variety of stimuli,… [+94070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Shilin Li, Jianlei Chen, Xuzhi Zhang, Jianshe Zhang, Yongjiang Xu, Yong Xu",
       "title": "Heavy metal distribution and ecological risk in surface sediments of the Bohai Sea",
       "description": "Heavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution retention. Heavy metals are persistent, bioaccumulative, and toxic, mak…",
@@ -240,13 +240,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
-      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
-      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
+      "author": "Alberto Rissone, Martina La Spina, Erica Bresciani, Zulfeqhar A. Syed, Christian A. Combs, Martha Kirby, Abdel Elkahloun, Vicky Chen, Raman Sood, Shawn M. Burgess, Rosa Puertollano",
+      "title": "The transcription factors Tfeb and Tfe3 are required for survival and embryonic development of pancreas and liver in zebrafish",
+      "description": "Author summary TFEB and TFE3 belong to the MiT/TFE family of basic helix–loop–helix leucine zipper transcription factors and orchestrate cellular responses to a variety of stress conditions, such as nutrient deprivation, oxidative stress, organelle damage, an…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011754",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011754.g007&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
+      "content": "Introduction\r\nTFEB and TFE3 are basic helixloophelix leucine zipper transcription factors that function as master regulators of cellular adaptation to stress in response to a wide variety of stimuli,… [+94070 chars]"
     },
     {
       "source": {
@@ -260,6 +260,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
       "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
+      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
+      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
+      "publishedAt": "2025-06-27T14:00:00Z",
+      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
     },
     {
       "source": {
@@ -1156,7 +1169,7 @@
       "url": "https://ourworldindata.org/what-no-safe-water-means",
       "urlToImage": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/59c8ad10-ac08-4179-3186-1b2bac060c00/public",
       "publishedAt": "2025-06-23T14:12:08Z",
-      "content": "Two billion people dont have safe drinking water: what does this really mean for them?\r\nIn the time it would take me to write the next sentence, I could get up, walk to the kitchen, and pour myself a… [+18720 chars]"
+      "content": "Two billion people dont have safe drinking water: what does this really mean for them?\r\nIn the time it would take me to write the next sentence, I could get up, walk to the kitchen, and pour myself a�� [+18720 chars]"
     },
     {
       "source": {
@@ -1170,19 +1183,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326875.g004&size=inline",
       "publishedAt": "2025-06-23T14:00:00Z",
       "content": "Introduction\r\nThe microbiome is known to play a key role in insects, particularly in species that rely exclusively on nutrient-limited foods such as plant sap or blood [14]. Aphids feed on plant phlo… [+64408 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Samuel J. Capon, Anastasia Maroufidou, McKenna Feltes, Yanli Xu, Darpan Kaur Matharoo, Dörthe Jülich, Scott A. Holley, Steven A. Farber, Didier Y. R. Stainier",
-      "title": "A genetic modifier links integrin α5 to the phenotypic variation in fibronectin 1a mutant zebrafish",
-      "description": "Author summary Recent studies have identified apparently healthy individuals with mutations that would be expected to lead to disease. Why these individuals are disease resistant is not understood. Studies in zebrafish and other organisms have revealed that e…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011747",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011747.g004&size=inline",
-      "publishedAt": "2025-06-23T14:00:00Z",
-      "content": "Abstract\r\nPhenotypic variation is often observed in individuals with the same mutation. However, the mechanisms that contribute to this variation remain largely unknown. Fibronectin mutants in both m… [+82978 chars]"
     }
   ],
   "totalResults": 91,
