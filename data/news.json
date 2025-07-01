@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-07-01T12:52:38.958Z",
+  "lastUpdated": "2025-07-01T18:34:23.678Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Scott Stump",
+      "title": "More Than 140K Pounds of Bologna Recalled Due to 'Misbranding'",
+      "description": "Nearly 150,000 pounds of ready-to-eat bologna has been recalled by Gaiser's European Style Provisions Inc. due to undeclared meat and poultry material.",
+      "url": "https://www.today.com/food/recall/bologna-recall-gaisers-rcna215982",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-06/bologna-recalled-zz-250630-ac0c2b.jpg",
+      "publishedAt": "2025-06-30T16:32:29Z",
+      "content": "Nearly 150,000 pounds of ready-to-eat bologna have been recalled due to \"misbranding\" for containing meat or poultry that is not on the product labels. \r\nNew Jersey-based Gaisers European Style Provi… [+2137 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "GlobeNewswire",
+      "title": "Altezza Travel and Scientists Discover Africa’s Highest-Living Frog on Mount Kilimanjaro",
+      "description": "MOSHI, Tanzania, June 30, 2025 (GLOBE NEWSWIRE) — Researchers have discovered Africa’s highest-living frog species on Mount Kilimanjaro at an altitude of 4000 meters. The discovery, made by Altezza Travel during a climb in June 2024, led to a scientific study…",
+      "url": "https://financialpost.com/globe-newswire/altezza-travel-and-scientists-discover-africas-highest-living-frog-on-mount-kilimanjaro",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/06/the-tanzania-wildlife-research-institute-tawiri-with-altezza.jpeg",
+      "publishedAt": "2025-06-30T16:12:43Z",
+      "content": "MOSHI, Tanzania, June 30, 2025 (GLOBE NEWSWIRE) Researchers have discovered Africas highest-living frog species on Mount Kilimanjaro at an altitude of 4000 meters. The discovery, made by Altezza Trav… [+5090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Altezza Travel",
+      "title": "Altezza Travel and Scientists Discover Africa’s Highest-Living Frog on Mount Kilimanjaro",
+      "description": "Researchers have discovered Africa’s highest-living frog species on Mount Kilimanjaro at an altitude of 4000 meters. ......",
+      "url": "https://www.globenewswire.com/news-release/2025/06/30/3107723/0/en/Altezza-Travel-and-Scientists-Discover-Africa-s-Highest-Living-Frog-on-Mount-Kilimanjaro.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/083a2c97-b242-45df-9492-db60b08fcb66",
+      "publishedAt": "2025-06-30T16:11:00Z",
+      "content": "MOSHI, Tanzania, June 30, 2025 (GLOBE NEWSWIRE) -- Researchers have discovered Africas highest-living frog species on Mount Kilimanjaro at an altitude of 4000 meters. The discovery, made by Altezza T… [+2886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "local12.com",
+      "title": "Multiple varieties of lunch meat recalled nationwide",
+      "description": "",
+      "url": "https://biztoc.com/x/e704796ea1a4c30e",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-06-30T15:22:28Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Canada scrap its digital services tax? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps megabill i… [+879 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Chloe Mayer",
+      "title": "Amazon Product Recall Update: Customers Told 'Immediately' Stop Using Items",
+      "description": "The recalled products sold on Amazon's website included mattresses, medical devices and children's furniture.",
+      "url": "https://www.newsweek.com/amazon-recalls-products-list-2092561",
+      "urlToImage": "https://d.newsweek.com/en/full/2674029/amazon-delivery-driver.jpg",
+      "publishedAt": "2025-06-30T15:20:33Z",
+      "content": "Amazon removed dozens of products from its online store this month after the items were recalled.\r\nMore than 50 products were subject to recall notices in June, with the online marketplace revealing … [+8912 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "Sushi Recall Map Shows 7 States Facing Highest Risk Warning",
+      "description": "The supermarket chain Harris Teeter issued a voluntary recall for a wide variety of ZENSHI sushi products in seven states.",
+      "url": "https://www.newsweek.com/sushi-recall-map-seven-states-risk-warning-fda-zenshi-harris-teeter-2092494",
+      "urlToImage": "https://d.newsweek.com/en/full/2673828/sushi.jpg",
+      "publishedAt": "2025-06-30T14:29:19Z",
+      "content": "A wide range of sushi products recalled in May have now been issued the highest risk classification by the Food and Drug Administration (FDA).\r\nThe supermarket chain Harris Teeter issued a voluntary … [+12366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SoyaCincau.com"
+      },
+      "author": "Sudarshan Duke",
+      "title": "We Ranked Samsung’s 6 New Smart Home Appliances from Biggest Quality-of-Life Boost to… Kinda Meh",
+      "description": "At its Southeast Asia Tech Seminar in Bangkok, Samsung offered a closer look at what it believes the future of the smart home should look like. The company unveiled a wave of new appliances powered by SmartThings and framed by a unified vision built around AI…",
+      "url": "https://soyacincau.com/2025/06/30/we-ranked-samsungs-6-new-smart-home-appliances-from-biggest-quality-of-life-boost-to-kinda-meh/",
+      "urlToImage": "https://soyacincau.com/wp-content/uploads/2025/06/250630-Samsung-Bangkok-tech-seminar-2025-smart-home-appliances-21.jpg",
+      "publishedAt": "2025-06-30T14:00:21Z",
+      "content": "At its Southeast Asia Tech Seminar in Bangkok, Samsung offered a closer look at what it believes the future of the smart home should look like. The company unveiled a wave of new appliances powered b… [+11663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Mohammad Matinfar, Behrooz Heidari, AbdolMajid Valipour, Tahereh Rahdari, Sorour Ramezanpour, Mahvash Hadavi, S. Mohsen Asghari",
+      "title": "Superior growth performance in carp fry achieved with chitosan-alginate encapsulated A-ghrelin versus free peptide: Evidence from physiological, molecular, and morphological analyses",
+      "description": "This study investigates the potential of delivering ghrelin via chitosan-alginate (Cs-Al) nanocapsules to enhance growth performance, immune function, and stress biomarker parameters in common carp fry (Cyprinus carpio). Characterization of the nanoparticles …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327235",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327235.g017&size=inline",
+      "publishedAt": "2025-06-30T14:00:00Z",
+      "content": "Abstract\r\nThis study investigates the potential of delivering ghrelin via chitosan-alginate (Cs-Al) nanocapsules to enhance growth performance, immune function, and stress biomarker parameters in com… [+44523 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Sustainable Plastic Packaging Market to Expand at 5.43% CAGR and 6 Major Segments to Watch",
+      "description": "The global sustainable plastic packaging market valued at USD 105.97 billion in 2024 and is anticipated to reach USD 178.79 billion by 2034, growing at a CAGR of 5.43% over the next decade. The global sustainable plastic packaging market valued at USD 105.97 …",
+      "url": "https://www.globenewswire.com/news-release/2025/06/30/3107631/0/en/Sustainable-Plastic-Packaging-Market-to-Expand-at-5-43-CAGR-and-6-Major-Segments-to-Watch.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-06-30T14:00:00Z",
+      "content": "Ottawa, June 30, 2025 (GLOBE NEWSWIRE) -- According to Towards Packaging experts, the sustainable plastic packaging market is expected to grow from USD 111.71 billion in 2025 to USD 178.79 billion by… [+30676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Luís M. Silva, Jacob C. Koella",
+      "title": "Complex interactions in the life cycle of a simple parasite shape the evolution of virulence",
+      "description": "Author summary Classical expectations on parasite evolution assume a trade-off between transmission rate and harm to the host (virulence), favoring parasites with intermediate virulence. However, recent studies challenge this idea, suggesting it is too simpli…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013294",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013294.g004&size=inline",
+      "publishedAt": "2025-06-30T14:00:00Z",
+      "content": "Introduction\r\nVirulence is generally defined as the degree to which a parasite reduces the fitness of its host [1], commonly measured as the cost in host survival. It is the consequence of complex in… [+57052 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -331,19 +461,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Shilin Li, Jianlei Chen, Xuzhi Zhang, Jianshe Zhang, Yongjiang Xu, Yong Xu",
-      "title": "Heavy metal distribution and ecological risk in surface sediments of the Bohai Sea",
-      "description": "Heavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution retention. Heavy metals are persistent, bioaccumulative, and toxic, mak…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326701",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326701.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Abstract\r\nHeavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution r… [+38237 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Alberto Rissone, Martina La Spina, Erica Bresciani, Zulfeqhar A. Syed, Christian A. Combs, Martha Kirby, Abdel Elkahloun, Vicky Chen, Raman Sood, Shawn M. Burgess, Rosa Puertollano",
       "title": "The transcription factors Tfeb and Tfe3 are required for survival and embryonic development of pancreas and liver in zebrafish",
       "description": "Author summary TFEB and TFE3 belong to the MiT/TFE family of basic helix–loop–helix leucine zipper transcription factors and orchestrate cellular responses to a variety of stress conditions, such as nutrient deprivation, oxidative stress, organelle damage, an…",
@@ -357,13 +474,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
-      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
-      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
+      "author": "Shilin Li, Jianlei Chen, Xuzhi Zhang, Jianshe Zhang, Yongjiang Xu, Yong Xu",
+      "title": "Heavy metal distribution and ecological risk in surface sediments of the Bohai Sea",
+      "description": "Heavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution retention. Heavy metals are persistent, bioaccumulative, and toxic, mak…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326701",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326701.g007&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
+      "content": "Abstract\r\nHeavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution r… [+38237 chars]"
     },
     {
       "source": {
@@ -377,6 +494,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
       "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
+      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
+      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
+      "publishedAt": "2025-06-27T14:00:00Z",
+      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
     },
     {
       "source": {
@@ -1066,125 +1196,8 @@
       "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/June/FB/magnolia-essential-oil-benefits-fb.jpg",
       "publishedAt": "2025-06-25T00:00:00Z",
       "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Trader Joe’s cheese recall sparks health warning",
-      "description": "The cheerful aisles of Trader Joe’s have become the center of a serious health concern as the beloved grocery chain issued an urgent recall for one of its popular cheese products. Shoppers across two states are now scrambling to check their refrigerators for …",
-      "url": "https://rollingout.com/2025/06/24/trader-joes-cheese-recall-sparks-health/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/06/shutterstock_2490299205-scaled.jpg",
-      "publishedAt": "2025-06-24T21:26:45Z",
-      "content": "The cheerful aisles of Trader Joe’s have become the center of a serious health concern as the beloved grocery chain issued an urgent recall for one of its popular cheese products. Shoppers across two… [+13383 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The BMJ"
-      },
-      "author": "Niu, J., Gao, Y., Wang, G., Qin, Z., Wu, C., Yu, Z., Wang, L., Hu, Z., Li, X., Zhang, Z., Chen, Y., Yao, L., Yang, J., Li, G.-M., Yang, Y., Lu, X., Gu, Y., Wu, X., Mao, X., Zhou, Z., Shang, J., Lin, B., Jia, J.-D., Wang, F., Zhang, J., Ma, H., Wang, X., Yang, C. Y., Yang, D.",
-      "title": "Rice-derived recombinant human serum albumin as an alternative to human plasma for patients with decompensated liver cirrhosis: a randomised, double-blind, positive-controlled and non-inferiority trial",
-      "description": "Background Despite inadequate supply and potential contamination risk, human plasma has remained the only source for human serum albumin (pHSA) intravenous administration since the 1940s.\n\nObjective We sought to establish the safety and efficacy of OsrHSA, a …",
-      "url": "https://gut.bmj.com/content/early/2025/06/24/gutjnl-2025-335577",
-      "urlToImage": "https://gut.bmj.com/sites/default/files/highwire/gutjnl/74/7.cover-source.jpg",
-      "publishedAt": "2025-06-24T16:00:14Z",
-      "content": "Introduction\r\nHuman serum albumin (HSA) is the most abundant protein (3550g/L) in the human plasma and maintains plasma osmotic pressure.1 Clinically, HSA is widely used to treat diseases including h… [+13039 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Abigail Hughes, Ludovic Pelligand, Dan I. Andersson, Andrew Mead",
-      "title": "Selection for florfenicol resistance at sub-MIC concentrations in Pasteurella multocida",
-      "description": "Antimicrobial resistance is a global threat to both human and animal health, and transfer of resistance between these spheres is recognised as a key concern for all species. Selection for resistance at sub-inhibitory antimicrobial concentrations has been char…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327115",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327115.g005&size=inline",
-      "publishedAt": "2025-06-24T14:00:00Z",
-      "content": "Citation: Hughes A, Pelligand L, Andersson DI, Mead A (2025) Selection for florfenicol resistance at sub-MIC concentrations in Pasteurella multocida. PLoS One 20(6):\r\n e0327115.\r\nhttps://doi.org/10.1… [+36410 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Guopeng Kuang, Tian Yang, Weihong Yang, Jing Wang, Hong Pan, Yuanfei Pan, Qin-yu Gou, Wei-chen Wu, Juan Wang, Lifeng Yang, Xi Han, Yao-qing Chen, John-Sebastian Eden, Edward C. Holmes, Mang Shi, Yun Feng",
-      "title": "Infectome analysis of bat kidneys from Yunnan province, China, reveals novel henipaviruses related to Hendra and Nipah viruses and prevalent bacterial and eukaryotic microbes",
-      "description": "Author summary Although extensive investigations have been conducted on the bat virome, most studies have focused on fecal samples, leaving other tissues, such as the kidney, largely unexplored. However, the kidney can harbor important zoonotic pathogens, inc…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013235",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013235.g006&size=inline",
-      "publishedAt": "2025-06-24T14:00:00Z",
-      "content": "Abstract\r\nBats are natural reservoirs for a wide range of microorganisms, including many notable zoonotic pathogens. However, the composition of the infectome (i.e., the collection of viral, bacteria… [+51748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox Business",
-      "title": "Trader Joe’s recalls ‘Vampire Slayer’ cheese product in two states over listeria concerns",
-      "description": "Trader Joe’s said Friday that a \"single lot code\" of the cheese curds have been recalled in response to the potential risk of Listeria monocytogenes contamination.",
-      "url": "https://nypost.com/2025/06/24/health/trader-joes-recalls-vampire-slayer-cheese-curds/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/face-rock-creamery-voluntarily-recalls-107048485.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-06-24T13:40:08Z",
-      "content": "A recall is underway for some Face Rock Creamery Vampire Slayer Cheese Curds sold at Trader Joes grocery stores in two states.\r\nTrader Joes said Friday that a “single lot code” of the cheese curds ha… [+2686 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Viral video shows bugs in instant noodles under microscope. Here’s what we know",
-      "description": "A viral video showing bugs on instant noodles has resurfaced, sparking debate about food safety. Fact-checks suggest the video may be misleading, citing the dry environment, sealed packaging, and high-temperature processing as deterrents to pests. While unope…",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/viral-video-shows-bugs-in-instant-noodles-under-microscope-heres-what-we-know/articleshow/122048423.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122048480,width-1200,height-630,imgsize-27436,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-06-24T11:50:37Z",
-      "content": "A video showing bugs crawling on instant noodles under a microscope is going viral on social media. In the clip, tiny insects can be seen moving across the noodle surface, raising concerns among view… [+2429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KESQ"
-      },
-      "author": "Cnn Newsource",
-      "title": "Microplastics shed by food packaging are contaminating our food and drink, study finds",
-      "description": "By Sandee LaMotte, CNN (CNN) — Ripping the plastic wrap from the meat or prepackaged fruit and veggies you purchased at the grocery store may contaminate your food with micro- and nanoplastics, according to new research. Plastic contamination may also occur w…",
-      "url": "https://kesq.com/health/cnn-health/2025/06/24/microplastics-shed-by-food-packaging-are-contaminating-our-food-and-drink-study-finds/",
-      "urlToImage": "https://kesq.b-cdn.net/2025/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWM5bGd1Mm0wMDIyM2I2bWd3dnB6ZGk5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYzlrcXB2NTAwMnEyN295aHE1djVsMGs-860x573.jpg",
-      "publishedAt": "2025-06-24T11:29:17Z",
-      "content": "By Sandee LaMotte, CNN\r\n(CNN) — Ripping the plastic wrap from the meat or prepackaged fruit and veggies you purchased at the grocery store may contaminate your food with micro- and nanoplastics, acco… [+8888 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Sandee Lamotte",
-      "title": "Microplastics shed by food packaging are contaminating our food and drink, study finds | CNN",
-      "description": "Microscopic bits of plastic are sloughing off into food and beverages when consumers unwrap the plastic packaging, a new study has shown.",
-      "url": "https://www.cnn.com/2025/06/24/health/microplastics-food-packaging-study-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1328027904.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-06-24T09:56:53Z",
-      "content": "Ripping the plastic wrap from the meat or prepackaged fruit and veggies you purchased at the grocery store may contaminate your food with micro- and nanoplastics, according to new research.\r\nPlastic … [+8634 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Swarajya"
-      },
-      "author": "Adithi Gurkar",
-      "title": "Breaking The Cartel: A Humane, Dharmic Alternative To Halal Monopoly",
-      "description": "Breaking The Cartel: A Humane, Dharmic Alternative To Halal Monopolyswarajyamag.com",
-      "url": "https://swarajyamag.com/business/breaking-the-cartel-a-humane-dharmic-alternative-to-halal-monopoly",
-      "urlToImage": "https://swarajya.gumlet.io/swarajya/2023-01/cdcb07c1-1c47-4d95-825f-7e04435f8515/MEAMO.png?w=1200&h=600&format=jpg",
-      "publishedAt": "2025-06-24T07:05:15Z",
-      "content": "Sudarshan Busapalli, the founder of Meamo, a brand of Dharmic Vibes Pvt Ltd, has the unique distinction of starting the only farm-to-fork startup in India offering Jhatka meat.\r\nAfter having spent ne… [+18672 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 92,
   "filteredCount": 0
 }
