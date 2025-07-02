@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-07-02T06:37:03.341Z",
+  "lastUpdated": "2025-07-02T12:52:22.855Z",
   "articles": [
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Azerbaijan accuses Russian law enforcement of killing detainees",
+      "description": "Azerbaijani officials claim two detainees were beaten to death by Russian officers after a raid on a suspected gang Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/620837-azerbaijan-investigations-deaths-russia/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2025.07/article/6863c2852030274eb8784660.jpg",
+      "publishedAt": "2025-07-01T11:48:53Z",
+      "content": "The authorities in Baku have accused Russian law enforcement of fatally beating two detainees after a raid on an alleged ethnic Azerbaijani gang. The incident has triggered a diplomatic dispute betwe… [+2199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Hedy Phillips",
+      "title": "Should You Throw Out Expired Vitamins? Why That Date Might Not Matter as Much as You Think",
+      "description": "The expiration date on your vitamin bottle often doesn't reflect what you believe. If you're worried about supplements sitting in your cabinet for too long, here's what the experts think you should do with them.",
+      "url": "https://www.cnet.com/health/nutrition/should-you-throw-out-expired-vitamins-why-that-date-might-not-matter-as-much-as-you-think/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/23d85b9b84b72d13415e19f93daa59cb65e548ee/hub/2022/08/29/64efb8ca-447a-4f87-b05d-87c086b5462d/gettyimages-1220786488.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-01T11:22:00Z",
+      "content": "Who hasn't been digging through a medicine cabinet only to find that their vitamins and other supplements have passed their expiration dates. It happens. Your gut reaction is to chuck them in the tra… [+4266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Poynter"
+      },
+      "author": "Madison Czopek",
+      "title": "What is thimerosal, and why did RFK Jr.’s vaccine panel just vote against it?",
+      "description": "During the first meeting of Health and Human Services Secretary Robert F. Kennedy Jr.’s recently downsized vaccine panel, the group voted to stop recommending flu vaccines containing thimerosal, a vaccine […]\nThe post What is thimerosal, and why did RFK Jr.’s…",
+      "url": "https://www.poynter.org/fact-checking/2025/rfk-jr-vaccine-panel-thimerosal-explainer/",
+      "urlToImage": "https://www.poynter.org/wp-content/uploads/2025/06/AP25177425403014.jpg",
+      "publishedAt": "2025-07-01T10:30:44Z",
+      "content": "During the first meeting of Health and Human Services Secretary Robert F. Kennedy Jr.s recently downsized vaccine panel, the group voted to stop recommending flu vaccines containing thimerosal, a vac… [+6217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Acm.org"
+      },
+      "author": "Jonathan Bean",
+      "title": "On Being Stuck in the Drive-Through",
+      "description": "One Sunday night, home alone and worn out from a weekend of mundane household tasks, I decided to pick up dinner. I started to regret that decision precisely 20 minutes later, when I found myself stuck in a drive-through line that showed no signs of moving. H…",
+      "url": "https://interactions.acm.org/archive/view/july-august-2025/on-being-stuck-in-the-drive-through",
+      "urlToImage": "https://interactions.acm.org/images/uploads/articles/IX3204W_0401_SS1601970310_Michael-O_Keene.jpg",
+      "publishedAt": "2025-07-01T10:00:00Z",
+      "content": "Authors:Jonathan Bean \r\n \r\nOne Sunday night, home alone and worn out from a weekend of mundane household tasks, I decided to pick up dinner. I started to regret that decision precisely 20 minutes lat… [+9567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Reviewing Ecolab (NYSE:ECL) and Croda International (OTCMKTS:COIHY)",
+      "description": "Croda International (OTCMKTS:COIHY – Get Free Report) and Ecolab (NYSE:ECL – Get Free Report) are both basic materials companies, but which is the better stock? We will contrast the two businesses based on the strength of their valuation, analyst recommendati…",
+      "url": "https://www.etfdailynews.com/2025/07/01/reviewing-ecolab-nyseecl-and-croda-international-otcmktscoihy/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ecolab-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-07-01T08:18:55Z",
+      "content": "Croda International (OTCMKTS:COIHY – Get Free Report) and Ecolab (NYSE:ECL – Get Free Report) are both basic materials companies, but which is the better stock? We will contrast the two businesses ba… [+5898 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -526,19 +591,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Alberto Rissone, Martina La Spina, Erica Bresciani, Zulfeqhar A. Syed, Christian A. Combs, Martha Kirby, Abdel Elkahloun, Vicky Chen, Raman Sood, Shawn M. Burgess, Rosa Puertollano",
-      "title": "The transcription factors Tfeb and Tfe3 are required for survival and embryonic development of pancreas and liver in zebrafish",
-      "description": "Author summary TFEB and TFE3 belong to the MiT/TFE family of basic helix–loop–helix leucine zipper transcription factors and orchestrate cellular responses to a variety of stress conditions, such as nutrient deprivation, oxidative stress, organelle damage, an…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011754",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011754.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Introduction\r\nTFEB and TFE3 are basic helixloophelix leucine zipper transcription factors that function as master regulators of cellular adaptation to stress in response to a wide variety of stimuli,… [+94070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Shilin Li, Jianlei Chen, Xuzhi Zhang, Jianshe Zhang, Yongjiang Xu, Yong Xu",
       "title": "Heavy metal distribution and ecological risk in surface sediments of the Bohai Sea",
       "description": "Heavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution retention. Heavy metals are persistent, bioaccumulative, and toxic, mak…",
@@ -552,13 +604,13 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
-      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
-      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
+      "author": "Alberto Rissone, Martina La Spina, Erica Bresciani, Zulfeqhar A. Syed, Christian A. Combs, Martha Kirby, Abdel Elkahloun, Vicky Chen, Raman Sood, Shawn M. Burgess, Rosa Puertollano",
+      "title": "The transcription factors Tfeb and Tfe3 are required for survival and embryonic development of pancreas and liver in zebrafish",
+      "description": "Author summary TFEB and TFE3 belong to the MiT/TFE family of basic helix–loop–helix leucine zipper transcription factors and orchestrate cellular responses to a variety of stress conditions, such as nutrient deprivation, oxidative stress, organelle damage, an…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011754",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011754.g007&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
+      "content": "Introduction\r\nTFEB and TFE3 are basic helixloophelix leucine zipper transcription factors that function as master regulators of cellular adaptation to stress in response to a wide variety of stimuli,… [+94070 chars]"
     },
     {
       "source": {
@@ -572,6 +624,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
       "publishedAt": "2025-06-27T14:00:00Z",
       "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
+      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
+      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
+      "publishedAt": "2025-06-27T14:00:00Z",
+      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
     },
     {
       "source": {
@@ -657,7 +722,7 @@
         "name": "Naturalnews.com"
       },
       "author": "Ramon Tomey",
-      "title": "RFK Jr. blasts The Guardian for falsely claiming THIMEROSAL in vaccines is “safe”",
+      "title": "RFK Jr. blasts The Guardian for falsely claiming THIMEROSAL in vaccines is “safe��",
       "description": "RFK Jr. criticizes The Guardian for falsely claiming thimerosal is “safe” without citing peer-reviewed studies, accusing journalists of uncritically repeating pharmaceutical industry assurances. Thimerosal remains in flu vaccines recommended for pregnant wome…",
       "url": "https://www.naturalnews.com/2025-06-27-rfk-jr-blasts-guardian-claiming-thimerosal-safe.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/thimerosal-word-or-concept-1.jpg",
@@ -1131,71 +1196,6 @@
       "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/06/turbo-cancer-mrna-vaccine.jpeg",
       "publishedAt": "2025-06-25T13:26:14Z",
       "content": "[Scroll down to read the Japanese AI translation of this article.]\r\nA major new study from top Japanese scientists has found that Covid mRNA vaccines cause cancers to spread more rapidly and aggressi… [+9408 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutritionfacts.org"
-      },
-      "author": "Michael Greger M.D. FACLM",
-      "title": "Mercury in High Fructose Corn Syrup",
-      "description": "There doesn’t appear to be any difference between the negative effects of high fructose corn syrup and table sugar on body fat, blood pressure, blood sugars, triglycerides, or cholesterol, but high-fructose corn syrup did appear to be more pro-inflammatory.",
-      "url": "https://nutritionfacts.org/video/mercury-in-high-fructose-corn-syrup/",
-      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/05/69-18-mercury-in-high-fructose-corn-syrup-1200x675.jpg",
-      "publishedAt": "2025-06-25T11:50:26Z",
-      "content": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nWhether you feed people … [+3150 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Answersresearchjournal.org"
-      },
-      "author": "Peter Rankin",
-      "title": "Significant Distinction: A Proposed Metric for an Objective Measurement of Instructional Information, and Its Inference from Functional Complexity",
-      "description": "This article explores the concept of “significant distinction” as an objective measure of information which aligns closely with our intuition.",
-      "url": "https://answersresearchjournal.org/genetics/significant-distinction/",
-      "urlToImage": "https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/significant-distinction-2.jpg",
-      "publishedAt": "2025-06-25T10:00:00Z",
-      "content": "Keywords: information; information theory; DNA; genetic entropy\r\nIntroduction\r\nIn the first century, Paul the apostle discussed the meaningful communication of information in 1 Corinthians 14. He str… [+88425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Observer"
-      },
-      "author": "Kate Yoder",
-      "title": "What warped the minds of serial killers? Lead pollution, a new book argues.",
-      "description": "Ted Bundy, the Green River Killer, and others terrorized the Pacific Northwest. \"Murderland\" asks what role polluters played.",
-      "url": "https://www.nationalobserver.com/2025/06/25/news/climate-desk-what-warped-minds-serial-killers-lead-pollution-new-book-argues",
-      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/06/23/murderland-caroline-fraser.png",
-      "publishedAt": "2025-06-25T09:09:04Z",
-      "content": "This story was originally published by Grist and appears here as part of the Climate Desk collaboration\r\nWhen Ted Bundy was a child in the 1950s, he hunted for frogs in the nearby swamps in Tacoma, W… [+6525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
-      "title": "[Latest] Global Raw Pet Food Market Size/Share Worth USD 52,449.14 Million by 2034 at a 4.72% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "description": "[Latest] Global Raw Pet Food Market Size/Share Worth USD 52,449.14 Million by 2034 at a 4.72% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis) [Latest] Global Raw Pet Food Mar…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/25/3104854/0/en/Latest-Global-Raw-Pet-Food-Market-Size-Share-Worth-USD-52-449-14-Million-by-2034-at-a-4-72-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
-      "publishedAt": "2025-06-25T08:30:00Z",
-      "content": "Austin, TX, US, June 25, 2025 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled Raw Pet Food Market Size, Trends and Insights By Pet Type (Dogs, Cats, Others), By … [+26851 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "MarketsandMarkets Research Pvt. Ltd.",
-      "title": "Global Juice Testing Industry on Track for Robust 8.2% CAGR Growth | Europe Leads the Way in Juice Testing Standards and Compliance",
-      "description": "Delray Beach, FL, June 25, 2025 (GLOBE NEWSWIRE) -- The juice testing market size is on an upward trajectory, expected to rise from USD 0.86 billion in 2025 to USD 1.28 billion by 2030, at a CAGR of 8.2%. This growth is fueled by rising health awareness, stri…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/25/3104844/0/en/Global-Juice-Testing-Industry-on-Track-for-Robust-8-2-CAGR-Growth-Europe-Leads-the-Way-in-Juice-Testing-Standards-and-Compliance.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
-      "publishedAt": "2025-06-25T08:10:00Z",
-      "content": "Delray Beach, FL, June 25, 2025 (GLOBE NEWSWIRE) -- The juice testing market size is on an upward trajectory, expected to rise from USD 0.86 billion in 2025 to USD 1.28 billion by 2030, at a CAGR of … [+3892 chars]"
     }
   ],
   "totalResults": 92,
