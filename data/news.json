@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-07-02T12:52:22.855Z",
+  "lastUpdated": "2025-07-02T18:35:07.584Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Emergency flash floods threaten Allegheny residents",
+      "description": "Allegheny County residents found themselves under an urgent flash flood warning as dangerous weather conditions swept through the region, creating potentially life-threatening situations for thousands of families across western Pennsylvania. The emergency ale…",
+      "url": "https://rollingout.com/2025/07/01/emergency-flash-flood-threaten-allegheny/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/07/shutterstock_2467206491-scaled.jpg",
+      "publishedAt": "2025-07-01T18:23:06Z",
+      "content": "Allegheny County residents found themselves under an urgent flash flood warning as dangerous weather conditions swept through the region, creating potentially life-threatening situations for thousand… [+11459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Loandi Richter-Mouton, Researcher: Environmental Antimicrobial resistance, water quality and food safety, Department of Plant and Soil Sciences, University of Pretoria, University of Pretoria, Lise Korsten, Professor - Department of Plant and Soil Sciences and co-director of the Centre of Excellence in Food Security, University of Pretoria",
+      "title": "Decades of South African research reveal key strategies to reduce water contamination in fruit and veg",
+      "description": "Researchers are tracking multi-drug resistant bacteria in South Africa’s water to see how it endangers food safety when it’s used to irrigate crops.",
+      "url": "https://theconversation.com/decades-of-south-african-research-reveal-key-strategies-to-reduce-water-contamination-in-fruit-and-veg-258311",
+      "urlToImage": "https://images.theconversation.com/files/675882/original/file-20250623-62-xslwq0.jpg?ixlib=rb-4.1.0&rect=0%2C662%2C3946%2C1973&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-07-01T14:10:22Z",
+      "content": "Water is essential at all stages of food production, from irrigation to food processing to washing fruit and vegetables before we eat them. Crops and livestock need it to grow, but water can also be … [+6698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Xian Chen, Steven Kreuser, Dinesh Hirenallur-Shanthappa",
+      "title": "Far-red LED light alters circadian rhythms and elicits dark-adapted ERG responses in rodents",
+      "description": "Rodents are assumed to be blind to red light, thus red light is often used in the dark phase of a light/dark cycle to facilitate study procedures using nocturnal rodents. However, effects of red light in dark phase on behaviors and circadian rhythms in rodent…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326710",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326710.g009&size=inline",
+      "publishedAt": "2025-07-01T14:00:00Z",
+      "content": "Introduction\r\nLight is the most important zeitgeber of circadian rhythms in humans and animals, influencing their sleep, heart rate, blood pressure, body temperature, locomotor activity, endocrine, a… [+69000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Thomas Ssemakadde, Nalumaga Pauline Petra, Jude Collins Busingye, Joel Bazira, Kabanda Taseera",
+      "title": "Prevalence and antimicrobial resistance of Salmonella and pathogenic E. coli in broiler farms, Wakiso district, Uganda",
+      "description": "Background The emergence and re-emergence of zoonotic bacterial infections and the upsurge reflected in current trends of antimicrobial-resistant bacteria is a major global concern. Salmonella spp and Escherichia coli (E. coli) are the two most important food…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309599",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309599.t006&size=inline",
+      "publishedAt": "2025-07-01T14:00:00Z",
+      "content": "Citation: Ssemakadde T, Pauline Petra N, Busingye JC, Bazira J, Taseera K (2025) Prevalence and antimicrobial resistance of Salmonella and pathogenic E. coli in broiler farms, Wakiso district, Uganda… [+22796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Johnathan Likens, Jon W. Bell, Patricia Rabideau, Stephanie Haynes, Steven Wilson, Sandra Tallent, Eric W. Brown, Julie Haendiges",
+      "title": "Transient and resident Salmonella: A genomic approach to analyzing over a decade of sampling events from fish meal production and storage facilities",
+      "description": "This study evaluates Salmonella contamination in feed mill production facilities over a 12-year period, analyzing collection events from 12 facilities predominantly located in the southeastern United States. The genomic data reveals a historical contamination…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327222",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327222.g006&size=inline",
+      "publishedAt": "2025-07-01T14:00:00Z",
+      "content": "Abstract\r\nThis study evaluates Salmonella contamination in feed mill production facilities over a 12-year period, analyzing collection events from 12 facilities predominantly located in the southeast… [+38537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Han-Wen Chang, Hung-Che Lin, Ching-Ting Yang, Rebecca J. Tay, Dao-Ming Chang, Yi-Chung Tung, Yen-Ping Hsueh",
+      "title": "Cuticular collagens mediate cross-kingdom predator–prey interactions between trapping fungi and nematodes",
+      "description": "How do nematodes avoid fungal predators? This study reveals that a nuclear hormone receptor alters the nematode cuticle, allowing them to evade fungal adhesive traps. This comes at a cost, however, as the escaping nematodes are more delicate and sensitive to …",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003178",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003178.g005&size=inline",
+      "publishedAt": "2025-07-01T14:00:00Z",
+      "content": "Citation: Chang H-W, Lin H-C, Yang C-T, Tay RJ, Chang D-M, Tung Y-C, et al. (2025) Cuticular collagens mediate cross-kingdom predatorprey interactions between trapping fungi and nematodes. PLoS Biol … [+54303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Staska Pharmaceuticals, Inc. - 699291 - 05/05/2025",
+      "description": "Compounding Pharmacy/Adulterated Drug Products",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/staska-pharmaceuticals-inc-699291-05052025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-07-01T13:20:03Z",
+      "content": "Delivery Method:\r\nVia Electronic Mail - Delivery and Read Receipt Requested\r\nProduct:\r\nDrugs \r\nRecipient:\r\nStaska Pharmaceuticals, Inc.\r\n742 Evergreen DriveBennet, NE68317-2365United States\r\nIssuing … [+30230 chars]"
+    },
     {
       "source": {
         "id": "rt",
@@ -722,7 +813,7 @@
         "name": "Naturalnews.com"
       },
       "author": "Ramon Tomey",
-      "title": "RFK Jr. blasts The Guardian for falsely claiming THIMEROSAL in vaccines is “safe��",
+      "title": "RFK Jr. blasts The Guardian for falsely claiming THIMEROSAL in vaccines is “safe”",
       "description": "RFK Jr. criticizes The Guardian for falsely claiming thimerosal is “safe” without citing peer-reviewed studies, accusing journalists of uncritically repeating pharmaceutical industry assurances. Thimerosal remains in flu vaccines recommended for pregnant wome…",
       "url": "https://www.naturalnews.com/2025-06-27-rfk-jr-blasts-guardian-claiming-thimerosal-safe.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/thimerosal-word-or-concept-1.jpg",
@@ -1118,86 +1209,8 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-06-25T15:32:00Z",
       "content": "Microplastics are the latest hidden hazard worry for the world -- they've even been found in chewing gum. UCLA researchers have found that every time we chew gum, microplastics are released directly … [+10457 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matt Cannon",
-      "title": "Fish Recall Update for 3 States as FDA Sets Highest Risk Level",
-      "description": "The food recall was issued over fears concerning a rare and life-threatening condition, botulism.",
-      "url": "https://www.newsweek.com/fish-recall-update-killer-botulism-states-fda-food-highest-risk-2090534",
-      "urlToImage": "https://d.newsweek.com/en/full/2671131/smoked-herring-fish-fillet-wooden-board.jpg",
-      "publishedAt": "2025-06-25T15:19:20Z",
-      "content": "Food inspectors have designated the highest risk level to a recall of fish feared to be contaminated with bacterium that causes a rare, life-threatening condition.\r\nP. East Trading Corp. voluntarily … [+4083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Sahra Talamo, Nicole Casaccia, Michael P. Richards, Lukas Wacker, Laura Tassoni, Adam Nadachowski, Anna Kraszewska, Magda Kowal, Jakub Skłucki, Christopher Barrington, Monica Kelly, Frankie Tait, Mia Williams, Carla Figus, Antonino Vazzana, Ginevra Di Bernardo, Matteo Romandini, Giovanni Di Domenico, Stefano Benazzi, Cristina Malegori, Giorgia Sciutto, Paolo Oliveri, Jean-Jacques Hublin, Mateja Hajdinjak, Pontus Skoglund, Andrea Picin, Paweł Valde‑Nowak",
-      "title": "Boomerang and bones: Refining the chronology of the Early Upper Paleolithic at Obłazowa Cave, Poland",
-      "description": "Beginning with the Early Aurignacian, Homo sapiens demonstrated an enhanced symbolic capacity, expanding artistic expressions from body decoration to portable art and aesthetically refined tools. These artistic endeavors, often intertwined with utilitarian pu…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324911",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324911.g013&size=inline",
-      "publishedAt": "2025-06-25T14:00:00Z",
-      "content": "Citation: Talamo S, Casaccia N, Richards MP, Wacker L, Tassoni L, Nadachowski A, et al. (2025) Boomerang and bones: Refining the chronology of the Early Upper Paleolithic at Obazowa Cave, Poland. PLo… [+69303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Ahmed Galip Halidi, Kemal Yaran, Selahattin Aydemir, Abdurrahman Ekici, Yusuf Dilbilir",
-      "title": "Prevalence of intestinal parasites in school-age children in Turkey: A systematic review and meta-analysis",
-      "description": "Author summary Intestinal parasite burden consisting of helminths and protozoa causes serious public health problems worldwide. Studies conducted in Turkey indicate that this phenomenon is particularly prevalent among school-aged children. The primary motivat…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013186",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013186.g015&size=inline",
-      "publishedAt": "2025-06-25T14:00:00Z",
-      "content": "Introduction\r\nIntestinal parasites are recognized as a major public health problem worldwide. Based on existing studies, approximately 3.5 billion individuals are infected with some form of intestina… [+28232 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Simeon Cadmus, Victor Akinseye, Eniola Cadmus, Gboyega Famokun, Stephen Fagbemi, Gabriel Ogunde, Ayuba Philip, Rashid Ansumana, Adekunle Ayinmode, Olalekan Taiwo, Daniel Oluwayelu, Oyewale Tomori, Solomon Odemuyiwa",
-      "title": "Drivers of Lassa fever in an endemic area of southwestern Nigeria (2017–2021): An epidemiological study",
-      "description": "Background Reporting two million human Lassa fever (LF) cases with around 10,000 associated annual mortality, the West African sub-region is endemic for Lassa fever virus (LASV). The true incidence of LF is difficult to determine because most LASV-infected in…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327143",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327143.g005&size=inline",
-      "publishedAt": "2025-06-25T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nReporting two million human Lassa fever (LF) cases with around 10,000 associated annual mortality, the West African sub-region is endemic for Lassa fever virus (LASV). The true … [+34410 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matt Cannon",
-      "title": "Natiowide Shrimp Recall Update as FDA Sets Highest Alert",
-      "description": "Approximately 46,000 pounds of the food was recalled after being distributed across the United States.",
-      "url": "https://www.newsweek.com/shrimp-recall-update-nationwide-fda-class-1-whole-foods-tri-union-frozen-products-2090483",
-      "urlToImage": "https://d.newsweek.com/en/full/2670971/shrimp-lime-herbs.jpg",
-      "publishedAt": "2025-06-25T13:59:09Z",
-      "content": "The U.S. Food and Drug Administration (FDA) has issued its highest risk classification for approximately 64,000 pounds of recalled shrimp sold across the United States.\r\nThe FDA's Class I recall — re… [+3374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Frank Bergman",
-      "title": "Breaking: Japan Scientists Confirms COVID ‘Vaccines’ Cause ‘Turbo Cancer’",
-      "description": "[Scroll down to read the Japanese AI translation of this article.]\nA major new study from top Japanese scientists has found that Covid mRNA “vaccines” cause cancers to spread more rapidly and aggressively while dramatically reducing the survival rate of …\nThe…",
-      "url": "https://www.globalresearch.ca/japan-confirms-covid-vaccines-cause-turbo-cancer/5892566",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/06/turbo-cancer-mrna-vaccine.jpeg",
-      "publishedAt": "2025-06-25T13:26:14Z",
-      "content": "[Scroll down to read the Japanese AI translation of this article.]\r\nA major new study from top Japanese scientists has found that Covid mRNA vaccines cause cancers to spread more rapidly and aggressi… [+9408 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
