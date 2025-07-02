@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-02T02:03:20.800Z",
+  "lastUpdated": "2025-07-02T06:37:03.341Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "Study: Kids exposed to FOREVER CHEMICALS while in the womb have elevated blood pressure as teens",
+      "description": "A study published in the Journal of the American Heart Association found that higher maternal PFAS levels correlate with elevated blood pressure in adolescents, highlighting long-term cardiovascular risks. “Forever chemicals” (PFAS) persist in the environment…",
+      "url": "https://www.naturalnews.com/2025-07-01-kids-exposed-pfas-womb-higher-blood-pressure.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blood-Pressure-Cuff.jpg",
+      "publishedAt": "2025-07-01T06:00:00Z",
+      "content": "<ul><li>A study published in the Journal of the American Heart Association found that higher maternal PFAS levels correlate with elevated blood pressure in adolescents, highlighting long-term cardiov… [+5195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Cabbage: A cancer-fighting nutritional powerhouse you should eat more of",
+      "description": "Cabbage is rich in vitamins C and K, folate, fiber and potassium, making it a low-calorie, nutrient-dense addition to a healthy diet. It also contains antioxidants and cancer-fighting compounds like glucosinolates, and fermented versions support gut health th…",
+      "url": "https://www.naturalnews.com/2025-07-01-cabbage-cancer-fighting-nutritional-powerhouse.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Cabbage-Agriculture-Background-Chinese-Cook-Diet-Farming.jpg",
+      "publishedAt": "2025-07-01T06:00:00Z",
+      "content": "<ul><li>Cabbage is rich in vitamins C and K, folate, fiber and potassium, making it a low-calorie, nutrient-dense addition to a healthy diet.</li><li>It also contains antioxidants and cancer-fighting… [+6689 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
       "publishedAt": "2025-06-25T08:10:00Z",
       "content": "Delray Beach, FL, June 25, 2025 (GLOBE NEWSWIRE) -- The juice testing market size is on an upward trajectory, expected to rise from USD 0.86 billion in 2025 to USD 1.28 billion by 2030, at a CAGR of … [+3892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thehealthcareblog.com"
-      },
-      "author": "matthew holt",
-      "title": "Microplastics Are Here, There, Everywhere",
-      "description": "By KIM BELLARD Vaccine experts are going rogue in response to RFK Jr’s attacks on vaccine safety. Health insurers promise – honest…this time – to make prior authorizations less burdensome (although not,Continue reading...",
-      "url": "https://thehealthcareblog.com/blog/2025/06/25/microplastics-are-here-there-everywhere/",
-      "urlToImage": null,
-      "publishedAt": "2025-06-25T06:07:00Z",
-      "content": "By KIM BELLARD\r\nVaccine experts are going rogue in response to RFK Jrs attacks on vaccine safety. Health insurers promise honestthis time to make prior authorizations less burdensome (although not, o… [+6883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Cassie B.",
-      "title": "Hidden danger in your kitchen: Swiss study reveals everyday items release cancer-linked microplastics",
-      "description": "Common household plastics like bottles, teabags, and cutting boards shed harmful microplastics into food and drinks. Microplastics and nanoplastics infiltrate organs, with links to cancer, heart disease, and pregnancy risks. Plastic bottles, food containers, …",
-      "url": "https://www.naturalnews.com/2025-06-25-hidden-danger-kitchen-everyday-items-release-microplastics.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/microplastics-1.jpeg",
-      "publishedAt": "2025-06-25T06:00:00Z",
-      "content": "<ul><li>Common household plastics like bottles, teabags, and cutting boards shed harmful microplastics into food and drinks.</li><li>Microplastics and nanoplastics infiltrate organs, with links to ca… [+4715 chars]"
     }
   ],
   "totalResults": 92,
