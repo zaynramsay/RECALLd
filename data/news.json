@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-07-02T18:35:07.584Z",
+  "lastUpdated": "2025-07-03T02:03:36.021Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Royal Society of Chemistry"
+      },
+      "author": "Fatima Haydous, Hussein F. Hassan, Aya Shehab, Nisreen Alwan, Mireille Serhan, Hani Dimassi, Elias Akoury",
+      "title": "Pet food safety at risk? Investigating toxic metal contamination in Lebanon and the UAE",
+      "description": "RSC Adv., 2025, 15,22629-22640DOI: 10.1039/D5RA02790J, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Fatima Haydous, Hussein F. Hassan, Aya Shehab, Nisreen Alwan, Mireille Serhan, Hani…",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra02790j",
+      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D5RA02790J",
+      "publishedAt": "2025-07-01T23:00:00Z",
+      "content": "* \r\n Corresponding authors\r\na\r\n Department of Physical Sciences, School of Arts and Sciences, Lebanese American University, Beirut 1102-2801, Lebanon\r\nE-mail:elias.akoury@lau.edu.lbTel: +961 1 786456… [+459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Royal Society of Chemistry"
+      },
+      "author": "Yuchen Shen, YunYi Shi, Juan Wang",
+      "title": "Magnetic–enzymatic synergy driven photoelectrochemical aptasensor on a microfluidic chip for sub-pM kanamycin detection",
+      "description": "Lab Chip, 2025, Advance ArticleDOI: 10.1039/D5LC00450K, PaperYuchen Shen, YunYi Shi, Juan WangA smartphone-integrated microfluidic photoelectrochemical aptasensor enables automated, sub-pM kanamycin detection via enzymatic–magnetic cascaded amplification and …",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/lc/d5lc00450k",
+      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D5LC00450K",
+      "publishedAt": "2025-07-01T23:00:00Z",
+      "content": "The escalating global concern over antibiotic contamination in food chains and aquatic ecosystems demands innovative solutions for rapid, on-site monitoring of residual drugs. This study presents an … [+1661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": "United Nations",
+      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "description": "In Sudan, the Secretary-General’s Personal Envoy for the country is intensifying his good offices efforts to support the de-escalation of the conflict and advance a political solution. He continues to underscore the criticality of scaled-up and more unified d…",
+      "url": "https://press.un.org/en/2025/db250701.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-07-01T19:55:49Z",
+      "content": "The following is a near-verbatim transcript of todays briefing by Stéphane Dujarric, Spokesman for the Secretary-General.\r\n**Briefing\r\nAl right, good afternoon.  As soon as you are done with me, you … [+21043 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Skift"
+      },
+      "author": "Barbara Scofidio",
+      "title": "Why is it So Hard for Planners to Donate Food?",
+      "description": "Despite laws that protect food donors and apps that simplify the process, planners keep hitting roadblocks with hotels unwilling or unable to donate food.",
+      "url": "http://meetings.skift.com/2025/07/01/why-is-it-so-hard-for-planners-to-donate-food/",
+      "urlToImage": "https://meetings.skift.com/wp-content/uploads/2025/07/thuy-gPiV8rcHYmM-unsplash.jpg?resize=1024,683",
+      "publishedAt": "2025-07-01T19:18:04Z",
+      "content": "If you ask planners who have tried to donate leftover food from their meetings, many will say they hit a wall when they brought it up to their host hotels.\r\nEither they're told they arent allowed to,… [+3794 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -45,19 +97,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Thomas Ssemakadde, Nalumaga Pauline Petra, Jude Collins Busingye, Joel Bazira, Kabanda Taseera",
-      "title": "Prevalence and antimicrobial resistance of Salmonella and pathogenic E. coli in broiler farms, Wakiso district, Uganda",
-      "description": "Background The emergence and re-emergence of zoonotic bacterial infections and the upsurge reflected in current trends of antimicrobial-resistant bacteria is a major global concern. Salmonella spp and Escherichia coli (E. coli) are the two most important food…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309599",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309599.t006&size=inline",
-      "publishedAt": "2025-07-01T14:00:00Z",
-      "content": "Citation: Ssemakadde T, Pauline Petra N, Busingye JC, Bazira J, Taseera K (2025) Prevalence and antimicrobial resistance of Salmonella and pathogenic E. coli in broiler farms, Wakiso district, Uganda… [+22796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Johnathan Likens, Jon W. Bell, Patricia Rabideau, Stephanie Haynes, Steven Wilson, Sandra Tallent, Eric W. Brown, Julie Haendiges",
       "title": "Transient and resident Salmonella: A genomic approach to analyzing over a decade of sampling events from fish meal production and storage facilities",
       "description": "This study evaluates Salmonella contamination in feed mill production facilities over a 12-year period, analyzing collection events from 12 facilities predominantly located in the southeastern United States. The genomic data reveals a historical contamination…",
@@ -65,6 +104,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327222.g006&size=inline",
       "publishedAt": "2025-07-01T14:00:00Z",
       "content": "Abstract\r\nThis study evaluates Salmonella contamination in feed mill production facilities over a 12-year period, analyzing collection events from 12 facilities predominantly located in the southeast… [+38537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Thomas Ssemakadde, Nalumaga Pauline Petra, Jude Collins Busingye, Joel Bazira, Kabanda Taseera",
+      "title": "Prevalence and antimicrobial resistance of Salmonella and pathogenic E. coli in broiler farms, Wakiso district, Uganda",
+      "description": "Background The emergence and re-emergence of zoonotic bacterial infections and the upsurge reflected in current trends of antimicrobial-resistant bacteria is a major global concern. Salmonella spp and Escherichia coli (E. coli) are the two most important food…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309599",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309599.t006&size=inline",
+      "publishedAt": "2025-07-01T14:00:00Z",
+      "content": "Citation: Ssemakadde T, Pauline Petra N, Busingye JC, Bazira J, Taseera K (2025) Prevalence and antimicrobial resistance of Salmonella and pathogenic E. coli in broiler farms, Wakiso district, Uganda… [+22796 chars]"
     },
     {
       "source": {
@@ -1170,47 +1222,8 @@
       "urlToImage": "https://images.theconversation.com/files/676367/original/file-20250624-62-w65kv4.jpg?ixlib=rb-4.1.0&rect=0%2C240%2C7680%2C3840&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-06-25T20:12:33Z",
       "content": "A discredited study published in 1989 first alleged a link between thimerosal and autism. Flavio Coelho/Moment via Getty Images\r\nAn expert committee that advises the Centers for Disease Control and P… [+6634 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "72 sick in salami salmonella outbreak, health agency says",
-      "description": "Seventy-two people have fallen ill after eating salami recalled due to possible salmonella contamination.",
-      "url": "https://www.cbc.ca/news/canada/edmonton/72-sick-in-salami-salmonella-outbreak-health-agency-says-1.7570708",
-      "urlToImage": "https://i.cbc.ca/1.7559184.1749733776!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/salmonella-salami-20250611.JPG?im=Resize%3D620",
-      "publishedAt": "2025-06-25T19:06:36Z",
-      "content": "Seventy-two people have fallen ill after eating salami recalled due to possible salmonella contamination.\r\nThe Public Health Agency of Canada released an updated notice on an outbreak of salmonella i… [+1206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Hive"
-      },
-      "author": "Isabelle Docto",
-      "title": "Tainted salami illnesses rising across Canada with over a dozen in Ontario",
-      "description": "Illnesses linked to Genova and Genoa Salami brands continue to rise in Canada, so you may want to reduce your consumption of deli meats in sandwiches.The Public Health Agency of Canada released an update on Tuesday regarding the recall of Rea brand Genoa Sala…",
-      "url": "https://dailyhive.com/toronto/genoa-salami-recall-salmonella-canada",
-      "urlToImage": "https://display.blogto.com/articles/20250625-salami-recall-canada-1.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "publishedAt": "2025-06-25T17:03:16Z",
-      "content": "Illnesses linked to Genova and Genoa Salami brands continue to rise in Canada, so you may want to reduce your consumption of deli meats in sandwiches.\r\nThe Public Health Agency of Canada released an … [+2731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Taylor Leamey",
-      "title": "10 Common Foods That Contain Microplastics and How to Avoid Them",
-      "description": "Your lunch might be feeding you a mouthful of microplastics with each bite. Here are some microplastic-prone foods that you can avoid.",
-      "url": "https://www.cnet.com/health/nutrition/10-common-foods-that-contain-microplastics-and-how-to-avoid-them/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-06-25T15:32:00Z",
-      "content": "Microplastics are the latest hidden hazard worry for the world -- they've even been found in chewing gum. UCLA researchers have found that every time we chew gum, microplastics are released directly … [+10457 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 94,
   "filteredCount": 0
 }
