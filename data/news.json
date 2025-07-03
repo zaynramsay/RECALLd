@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-07-03T12:50:49.465Z",
+  "lastUpdated": "2025-07-03T18:34:35.393Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Polystyrene Market Volume to Reach 62.33 Million Tons by 2034 | Says Towards Chem and Materials",
+      "description": "According to Towards Chem and Materials, the global polystyrene market volume is calculated at 41.09 million tons in 2025 and is expected to reach around 62.33 million tons by 2034, growing at a CAGR of 4.51% for the forecasted period. According to Towards Ch…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/02/3109399/0/en/Polystyrene-Market-Volume-to-Reach-62-33-Million-Tons-by-2034-Says-Towards-Chem-and-Materials.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-07-02T16:12:00Z",
+      "content": "Ottawa, July 02, 2025 (GLOBE NEWSWIRE) -- The global polystyrene market volume\r\n was valued at 40.09 million tons in 2024 and is projected to hit around 62.33 million tons by 2034, growing at a compo… [+27367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grist"
+      },
+      "author": "Claire Elise Thompson",
+      "title": "How plants could help us detect, and even destroy, dangerous ‘forever chemicals’",
+      "description": "Tools to address PFAS pollution are limited. Here's what researchers are learning about how these chemicals travel through the environment — and what farmers and landowners can do about it.",
+      "url": "https://grist.org/looking-forward/how-plants-could-help-us-detect-and-even-destroy-dangerous-forever-chemicals/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2025/07/0702_PFAS_Social.jpg?quality=75&strip=all",
+      "publishedAt": "2025-07-02T15:37:13Z",
+      "content": "The vision\r\nI think a lot of people now are aware of PFAS, or concerned about it, or want to know whether it’s present in their water, their food. The whole purpose of what were trying to do is devel… [+9233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ajit Kumar Rudra, A. K. M. Rashidul Alam",
+      "title": "Spatiotemporal pattern of land use and land cover changes of upper Sangu-Matamuhuri Watershed in the South-Eastern Bangladesh",
+      "description": "This study aims to analyze the spatiotemporal patterns of land use and land cover (LULC) changes in the upper Sangu-Matamuhuri Watershed (SMW) of Bangladesh from 1988 to 2019 using integrated remote sensing (RS) and geographic information system (GIS) approac…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327284",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327284.g010&size=inline",
+      "publishedAt": "2025-07-02T14:00:00Z",
+      "content": "Abstract\r\nThis study aims to analyze the spatiotemporal patterns of land use and land cover (LULC) changes in the upper Sangu-Matamuhuri Watershed (SMW) of Bangladesh from 1988 to 2019 using integrat… [+51422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Elizabeth Tabitha Abbew, Roger Laryea, Ama Owusuaa Kwakye, Yaw Adusi Poku, Dorcas Obiri-Yeboah, Lutgarde Lynen, Tom Decroo, Leen Rigouts, Natalie Lorent",
+      "title": "Treatment outcomes of multi-drug-resistant and rifampicin-resistant tuberculosis with and without isolation of nontuberculous mycobacteria between 2018–2021: A retrospective cohort study in Ghana",
+      "description": "Author summary Despite improvements in tuberculosis (TB) treatment protocols, multi-drug-resistant and rifampicin-resistant (MDR/RR)-TB outcomes remain suboptimal. Nontuberculous mycobacteria (NTM), environmental organisms opportunistically capable of causing…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013204",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013204.g001&size=inline",
+      "publishedAt": "2025-07-02T14:00:00Z",
+      "content": "Abstract\r\nMulti-drug-resistant and rifampicin-resistant tuberculosis (MDR/RR-TB) pose an urgent health threat in Ghana. Despite ongoing interventions, the outcomes for MDR/RR-TB in Ghana have remaine… [+30467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Barry Parasram, Avishek Choudhury",
+      "title": "Occupational health risk of farmers: A qualitative study with the agriculture society of trinidad and tobago and the ministry of agriculture, land and fisheries",
+      "description": "The agriculture sector is significantly affected by pesticide toxicity, leading to fatal and chronic diseases. The objective of this research is to explore the perception of the farmers, the representatives of the Agriculture Society of Trinidad and Tobago (A…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327283",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327283.t002&size=inline",
+      "publishedAt": "2025-07-02T14:00:00Z",
+      "content": "Citation: Parasram B, Choudhury A (2025) Occupational health risk of farmers: A qualitative study with the agriculture society of trinidad and tobago and the ministry of agriculture, land and fisheri… [+52917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ashley N. Hall, Elizabeth A. Morton, Rebecca Walters, Josh T. Cuperus, Christine Queitsch",
+      "title": "Phenotypic tolerance for rDNA copy number variation within the natural range of C. elegans",
+      "description": "Author summary Certain segments of DNA are repeated hundreds to thousands of times within the same genome, posing an intriguing and understudied source of genetic variation between individuals. The genes encoding ribosomal RNAs (rDNA) are one such element, pr…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011759",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011759.g005&size=inline",
+      "publishedAt": "2025-07-02T14:00:00Z",
+      "content": "Abstract\r\nThe genes for ribosomal RNA (rRNA) are encoded by ribosomal DNA (rDNA), whose structure is notable for being present in arrays of tens to thousands of tandemly repeated copies in eukaryotic… [+110482 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Alfred Körblein",
+      "title": "Perinatal mortality after Chernobyl in former Soviet countries",
+      "description": "A recent study examined trends in perinatal mortality (PM) in Ukraine for possible increases following the Chernobyl accident. PM rates from Belarus and other countries of the former Soviet Union (FSU) are analyzed here using essentially the same methods.  Da…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326807",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326807.g022&size=inline",
+      "publishedAt": "2025-07-02T14:00:00Z",
+      "content": "Citation: Körblein A (2025) Perinatal mortality after Chernobyl in former Soviet countries. PLoS One 20(7):\r\n e0326807.\r\nhttps://doi.org/10.1371/journal.pone.0326807\r\nEditor: Tim A. Mousseau, Univers… [+34824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Blueberry Recall Update as FDA Issues Most Severe Risk Level",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of hundreds of boxes of blueberries due to possible contamination with Listeria monocytogenes has now been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\nAlma Pak Inte…",
+      "url": "https://biztoc.com/x/c87007352760e31e",
+      "urlToImage": "https://biztoc.com/cdn/c87007352760e31e_s.webp",
+      "publishedAt": "2025-07-02T13:18:17Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of hundreds of boxes of blueberries due to possible contamination with Listeria monocytogenes has now been issued the highest risk warning by… [+139 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "Blueberry Recall Update as FDA Issues Most Severe Risk Level",
+      "description": "Alma Pak International LLC issued a voluntary recall for 400 boxes of its organic blueberries on June 9 due to possible listeria contamination.",
+      "url": "https://www.newsweek.com/blueberry-recall-listeria-contamination-fda-highest-risk-warning-alma-pak-international-2093502",
+      "urlToImage": "https://d.newsweek.com/en/full/2675373/blueberries.jpg",
+      "publishedAt": "2025-07-02T13:14:44Z",
+      "content": "A recall of hundreds of boxes of blueberries due to possible contamination with Listeria monocytogenes has now been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nAl… [+3724 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1092,112 +1209,8 @@
       "urlToImage": "https://biztoc.com/cdn/a4ac6d7b58489166_s.webp",
       "publishedAt": "2025-06-26T21:54:35Z",
       "content": "Food recalls happen more often than you might think. And they can be more than inconvenient. In 2024, a listeria outbreak in Boar's Head deli meat killed 10 people. Hamburgers at McDonald's were link… [+144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WXYZ"
-      },
-      "author": "Dr. Partha Nandi",
-      "title": "CDC advisory panel votes to recommend dropping thimerosal from flu vaccines",
-      "description": "In today’s Health Alert, a major change in flu vaccine guidance. The new CDC advisory panel is recommending that most Americans avoid shots containing a mercury-based preservative.",
-      "url": "https://www.wxyz.com/news/health/ask-dr-nandi/cdc-advisory-panel-votes-to-recommend-dropping-thimerosal-from-flu-vaccines",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/8f3a8b8/2147483647/strip/true/crop/1100x578+0+78/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F83%2F51%2F5eed0c094ad6858466c5e6153364%2Fvaccine.jpg",
-      "publishedAt": "2025-06-26T20:33:46Z",
-      "content": "(WXYZ) In todays Health Alert, a major change in flu vaccine guidance. The new CDC advisory panel is recommending that most Americans avoid shots containing a mercury-based preservative. \r\nThe panel … [+2924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Mack DeGeurin",
-      "title": "Your outdated tech might be a ‘goldmine’",
-      "description": "A compound commonly used to disinfect water can strip gold off devices without using highly toxic substances.\nThe post Your outdated tech might be a ‘goldmine’ appeared first on Popular Science.",
-      "url": "https://www.popsci.com/environment/clean-gold-extraction-electronics/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/06/gold_iphones_electronics.jpg",
-      "publishedAt": "2025-06-26T19:40:40Z",
-      "content": "In 2025, it’s not uncommon for a typical household to have a drawer overflowing with discarded phones and cables. But this graveyard of circuitry isn’t just a static memorial to past tech trends. For… [+4760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WLS-TV"
-      },
-      "author": "Mary Kekatos",
-      "title": "CDC vaccine advisory panel recommends against flu vaccines containing thimerosal",
-      "description": "The CDC's vaccine advisory committee voted to recommend annual flu vaccines but against flu shots containing the preservative thimerosal",
-      "url": "https://abc7chicago.com/post/what-is-thimerosal-cdc-vaccine-advisory-panel-recommends-flu-vaccines-containing/16855365/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16855377_CDC-sign-img.jpg?w=1600",
-      "publishedAt": "2025-06-26T19:24:01Z",
-      "content": "The Advisory Committee on Immunization Practices (ACIP), made up of members recently hand-selected by Health and Human Services Secretary Robert F. Kennedy Jr., voted 5-1 on Thursday to recommend aga… [+6135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Issam AHMED",
-      "title": "RFK Jr panel votes against ingredient targeted by anti-vaxxers",
-      "description": "A newly appointed US medical panel voted Thursday to oppose the use of a vaccine ingredient long targeted by Health Secretary Robert F. Kennedy Jr. over...",
-      "url": "https://www.yahoo.com/news/rfk-jr-panel-votes-against-185730774.html",
-      "urlToImage": "https://media.zenfs.com/en/afp.com/4ced6e75e24ee8e93ffff1a65163fb54",
-      "publishedAt": "2025-06-26T18:57:30Z",
-      "content": "A newly appointed US medical panel voted Thursday to oppose the use of a vaccine ingredient long targeted by Health Secretary Robert F. Kennedy Jr. over debunked claims it causes autism.\r\nThimerosal,… [+3341 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Your food packaging may be feeding you plastic — even that tea bag could be a culprit",
-      "description": "Research reveals food packaging releases plastic particles. Microplastics contaminate common foods and drinks. Opening packages, cartons, or tea bags may lead to contamination. Glass bottles with plastic closures also emit fragments. Scientists found that mic…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/your-food-packaging-may-be-feeding-you-plastic-even-that-tea-bag-could-be-a-culprit/articleshow/122095375.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122095997,width-1200,height-630,imgsize-1943720,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-06-26T16:27:19Z",
-      "content": "Have you ever thought that the sealed yogurt or tea bag might have more than just the food inside? New research shows that plastic particles can come off of food packaging every day. The new study sh… [+5586 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "Sushi Recall as FDA Issues Highest Risk Warning",
-      "description": "Supermarket chain Hy-Vee issued a voluntary recall for a range of sushi products on June 5 for possible listeria contamination.",
-      "url": "https://www.newsweek.com/sushi-recall-fda-issues-highest-risk-warning-listeria-class-1-2091076",
-      "urlToImage": "https://d.newsweek.com/en/full/2671840/sushi.jpg",
-      "publishedAt": "2025-06-26T15:06:45Z",
-      "content": "A recall of sushi products has been issued the highest risk classification by the U.S. Food and Drug Administration (FDA).\r\nHy-Vee, a supermarket chain headquartered in Iowa, issued a voluntary recal… [+4074 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Ting Zhang, Jianyan Xu, Junzhao Yin, Yun Gao, Hanwen Zheng, Beibei Fu, Jiakang Sun, Zhibin Xu, Shiwei Tu, Yuchang Mao, Weiyun Wen, Bolei Qu, Lingfeng You, Zhendong Xue, Xing Sun, Dan Cao, Jun Feng, Min Hu, Feng He",
-      "title": "SHR-A1811, a novel anti-HER2 antibody–drug conjugate with optimal drug-to-antibody ratio, efficient tumor killing potency, and favorable safety profiles",
-      "description": "HER2-targeting antibody–drug conjugates (ADCs), especially trastuzumab deruxtecan (T-DXd), have revolutionized the treatment landscape of HER2-expressing or mutant cancers. However, undesired adverse events are still inevitable and it is necessary to discover…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326691",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326691.g004&size=inline",
-      "publishedAt": "2025-06-26T14:00:00Z",
-      "content": "Abstract\r\nHER2-targeting antibodydrug conjugates (ADCs), especially trastuzumab deruxtecan (T-DXd), have revolutionized the treatment landscape of HER2-expressing or mutant cancers. However, undesire… [+47856 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Wrapping Machine Market to USD 7.99 Billion by 2032, Owing to Tech-Driven Automation and Sustainability Trends | Report by SNS Insider",
-      "description": "Boosted by surging demand for eco-friendly packaging, operational efficiency gains, and rising adoption of smart technologies across industries, the wrapping machine market has witnessed rapid global expansion, driven by increasing consumer awareness and regu…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/26/3105964/0/en/Wrapping-Machine-Market-to-USD-7-99-Billion-by-2032-Owing-to-Tech-Driven-Automation-and-Sustainability-Trends-Report-by-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-06-26T13:45:00Z",
-      "content": "Austin, June 26, 2025 (GLOBE NEWSWIRE) -- The wrapping machine market\r\nsize was valued at USD 5.29 billion in 2024 and is expected to reach USD 7.99 billion by 2032, growing at a CAGR of 5.30% over t… [+6814 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
