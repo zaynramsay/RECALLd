@@ -1,6 +1,201 @@
 {
-  "lastUpdated": "2025-07-03T18:34:35.393Z",
+  "lastUpdated": "2025-07-04T02:03:08.204Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "WLS-TV"
+      },
+      "author": "Jonel Aleccia",
+      "title": "More than 300,000 pounds of Oscar Mayer turkey bacon products being recalled for possible listeria contamination",
+      "description": "More than 300,000 pounds of Oscar Mayer turkey bacon products being recalled for possible listeria contaminationabc7chicago.com",
+      "url": "https://abc7chicago.com/post/more-300000-pounds-oscar-mayer-turkey-bacon-products-being-recalled-possible-listeria-contamination/16925116/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16925146_OSCARMAYERRECALL.jpg?w=1600",
+      "publishedAt": "2025-07-03T00:43:51Z",
+      "content": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday… [+2208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTRK-TV"
+      },
+      "author": "Jonel Aleccia",
+      "title": "More than 300,000 pounds of Oscar Mayer turkey bacon products being recalled for possible listeria contamination",
+      "description": "More than 300,000 pounds of Oscar Mayer turkey bacon products being recalled for possible listeria contaminationabc13.com",
+      "url": "https://abc13.com/post/more-300000-pounds-oscar-mayer-turkey-bacon-products-being-recalled-possible-listeria-contamination/16925116/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16925146_OSCARMAYERRECALL.jpg?w=1600",
+      "publishedAt": "2025-07-03T00:40:37Z",
+      "content": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday… [+2208 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
+      "description": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday",
+      "url": "https://www.nbcnews.com/news/us-news/nearly-368000-pounds-oscar-mayer-turkey-bacon-recalled-listera-rcna216633",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250702-front-turkey-bacon-oscar-mayer-recall-ac-741p-6c6a69.jpg",
+      "publishedAt": "2025-07-02T23:54:40Z",
+      "content": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday… [+2094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Oscar Mayer turkey bacon products recalled over possible listeria contamination",
+      "description": "A listeria outbreak linked to Boar’s Head deli meats led to 10 deaths and more than 60 illnesses last year.",
+      "url": "https://nypost.com/2025/07/02/business/oscar-mayer-turkey-bacon-products-recalled-over-possible-listeria-contamination/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-x53phg38l-1751498720054.jpg?quality=75&strip=all&1751484329&w=1024",
+      "publishedAt": "2025-07-02T23:26:47Z",
+      "content": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday… [+2318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
+      "description": "No illnesses have been confirmed to date, U.S. agriculture department officials said.",
+      "url": "https://www.bostonherald.com/2025/07/02/oscar-meyer-turkey-bacon-recall/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Turkey_Bacon_Recall_35028-1.jpg?w=1024&h=596",
+      "publishedAt": "2025-07-02T23:07:46Z",
+      "content": "By JONEL ALECCIA, Associated Press\r\nNearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, fed… [+2283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "The Associated Press",
+      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
+      "description": "No illnesses have been confirmed to date, U.S. agriculture department officials said.",
+      "url": "https://www.denverpost.com/2025/07/02/oscar-meyer-turkey-bacon-recall/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/07/Turkey_Bacon_Recall_35028-1.jpg?w=1024&h=596",
+      "publishedAt": "2025-07-02T23:07:46Z",
+      "content": "By JONEL ALECCIA, Associated Press\r\nNearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, fed… [+2283 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JONEL ALECCIA AP health writer",
+      "title": "368K pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
+      "description": "The maker of Oscar Mayer turkey bacon is recalling nearly 368,000 pounds of the product because it may be contaminated with listeria bacteria",
+      "url": "https://abcnews.go.com/Business/wireStory/368000-pounds-oscar-mayer-turkey-bacon-recalled-listeria-123430197",
+      "urlToImage": "https://i.abcnewsfe.com/a/04432dd4-84c4-4aad-8470-5a395adbd8b0/wirestory_223f2110bd7e513140f46c3baeea093a_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-02T22:46:42Z",
+      "content": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday… [+2206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": null,
+      "title": "Plastic-contaminated beef mince prompts Woolworths recall across North Island",
+      "description": "Some customers found 'foreign matter' in their meals before the recall was announced.",
+      "url": "https://www.nzherald.co.nz/lifestyle/plastic-contaminated-beef-mince-prompts-woolworths-recall-across-north-island/7LR53LCMXRENHPMYUOJJVJTOVI/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/VJB7U7MHQREDFJED3F6SRXEQMI.jpg?auth=c252f66514894cd54143f59acbaf867f47053c515f7f83233e7a40e8c44eaeab&width=1200&height=675&quality=70&focal=506%2C780&smart=false",
+      "publishedAt": "2025-07-02T22:36:55Z",
+      "content": "But the warning came too late for several Woolworths customers, who alleged theyd discovered the contaminants in their meal after cooking the mince for dinner the night before.\r\nYup, got my mince yes… [+1230 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JONEL ALECCIA AP health writer",
+      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
+      "description": "The maker of Oscar Mayer turkey bacon is recalling nearly 368,000 pounds of the product because it may be contaminated with listeria bacteria",
+      "url": "https://abcnews.go.com/Health/wireStory/368000-pounds-oscar-mayer-turkey-bacon-recalled-listeria-123430196",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-07-02T22:30:02Z",
+      "content": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday… [+2206 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "The Associated Press",
+      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
+      "description": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday. No illnesses have been confirmed to date, U.S. agriculture…",
+      "url": "https://financialpost.com/pmn/nearly-368000-pounds-of-oscar-mayer-turkey-bacon-recalled-over-possible-listeria-contamination",
+      "urlToImage": null,
+      "publishedAt": "2025-07-02T22:24:32Z",
+      "content": "Nearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, federal health officials said Wednesday… [+4410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rutherford Daily Voice"
+      },
+      "author": "Joe Lombardi",
+      "title": "Kraft Heinz Recalls Popular Oscar Mayer Product Sold Across US",
+      "description": "A massive recall has been issued for a popular Oscar Mayer item sold nationwide due to possible listeria contamination. \nKraft Heinz Foods is recalling 367,812 pounds of fully cooked turkey baco…",
+      "url": "https://dailyvoice.com/ny/saratoga-springs/kraft-heinz-recalls-popular-oscar-mayer-product-sold-across-us/",
+      "urlToImage": "https://edge.dailyvoice.com/upload/Screen_Shot_2025-07-02_at_5.34.16_PM.png?width=1280",
+      "publishedAt": "2025-07-02T21:48:35Z",
+      "content": "Kraft Heinz Foods is recalling 367,812 pounds of fully cooked turkey bacon that may be contaminated with listeria, according to the US Department of Agriculture.\r\nThe recalled products were sold unde… [+929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Blueberry recall elevated to highest level due to listeria risk",
+      "description": "400 boxes of the blueberries were initially recalled in June",
+      "url": "https://www.the-independent.com/life-style/blueberry-recall-listeria-fda-alma-pak-international-b2781514.html",
+      "urlToImage": "https://static.the-independent.com/2025/07/02/20/21/iStock-182468247.jpeg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-07-02T21:25:48Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Gina Vivinetto",
+      "title": "Wegmans Recalls Chocolate Nonpareils Over Undeclared Allergen",
+      "description": "The makers of Wegmans Semi-Sweet Chocolate Nonpareils have issued a voluntary recall of the product because it contains an undeclared allergen, the U.S.",
+      "url": "https://www.today.com/health/wegmans-chocolate-recall-allergen-rcna216572",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/wegmans-recalls-chocolate-nonpareils-zz-250702-e3ce83.jpg",
+      "publishedAt": "2025-07-02T20:33:15Z",
+      "content": "The makers of Wegmans Semi-Sweet Chocolate Nonpareils have issued a voluntary recall of the product because it contains an undeclared allergen, the U.S. Food and Drug Administration announced June 30… [+1760 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Truthout"
+      },
+      "author": "Alex Shams",
+      "title": "Israel’s Bombs Have Stopped Falling, But Iranians Still Face an Uncertain Future",
+      "description": "As the dust settles over Tehran, Iranians tend the wounded and mourn the dead, attempting to chart a way forward.",
+      "url": "https://truthout.org/articles/israels-bombs-have-stopped-falling-but-iranians-still-face-an-uncertain-future/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/07/2025_0702-tehran-bombed.jpg",
+      "publishedAt": "2025-07-02T20:03:29Z",
+      "content": "Support justice-driven, accurate and transparent news make a quick donation to Truthout today! \r\nIranians are waking up from what feels like a nightmare. \r\nFor 12 days, Israel bombarded their country… [+18452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "3 deadly mistakes that could ruin your summer barbecue",
+      "description": "Summer’s arrival brings the promise of sizzling barbecues, poolside picnics and outdoor gatherings that create cherished memories with family and friends. However, beneath the excitement of al fresco dining lurks a hidden danger that affects millions of Ameri…",
+      "url": "https://rollingout.com/2025/07/02/mistakes-that-could-ruin-summer-barbecue/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/07/shutterstock_2475095419-scaled.jpg",
+      "publishedAt": "2025-07-02T19:13:47Z",
+      "content": "Summer’s arrival brings the promise of sizzling barbecues, poolside picnics and outdoor gatherings that create cherished memories with family and friends. However, beneath the excitement of al fresco… [+8314 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -357,19 +552,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Johnathan Likens, Jon W. Bell, Patricia Rabideau, Stephanie Haynes, Steven Wilson, Sandra Tallent, Eric W. Brown, Julie Haendiges",
-      "title": "Transient and resident Salmonella: A genomic approach to analyzing over a decade of sampling events from fish meal production and storage facilities",
-      "description": "This study evaluates Salmonella contamination in feed mill production facilities over a 12-year period, analyzing collection events from 12 facilities predominantly located in the southeastern United States. The genomic data reveals a historical contamination…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327222",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327222.g006&size=inline",
-      "publishedAt": "2025-07-01T14:00:00Z",
-      "content": "Abstract\r\nThis study evaluates Salmonella contamination in feed mill production facilities over a 12-year period, analyzing collection events from 12 facilities predominantly located in the southeast… [+38537 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Thomas Ssemakadde, Nalumaga Pauline Petra, Jude Collins Busingye, Joel Bazira, Kabanda Taseera",
       "title": "Prevalence and antimicrobial resistance of Salmonella and pathogenic E. coli in broiler farms, Wakiso district, Uganda",
       "description": "Background The emergence and re-emergence of zoonotic bacterial infections and the upsurge reflected in current trends of antimicrobial-resistant bacteria is a major global concern. Salmonella spp and Escherichia coli (E. coli) are the two most important food…",
@@ -377,6 +559,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0309599.t006&size=inline",
       "publishedAt": "2025-07-01T14:00:00Z",
       "content": "Citation: Ssemakadde T, Pauline Petra N, Busingye JC, Bazira J, Taseera K (2025) Prevalence and antimicrobial resistance of Salmonella and pathogenic E. coli in broiler farms, Wakiso district, Uganda… [+22796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Johnathan Likens, Jon W. Bell, Patricia Rabideau, Stephanie Haynes, Steven Wilson, Sandra Tallent, Eric W. Brown, Julie Haendiges",
+      "title": "Transient and resident Salmonella: A genomic approach to analyzing over a decade of sampling events from fish meal production and storage facilities",
+      "description": "This study evaluates Salmonella contamination in feed mill production facilities over a 12-year period, analyzing collection events from 12 facilities predominantly located in the southeastern United States. The genomic data reveals a historical contamination…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327222",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327222.g006&size=inline",
+      "publishedAt": "2025-07-01T14:00:00Z",
+      "content": "Abstract\r\nThis study evaluates Salmonella contamination in feed mill production facilities over a 12-year period, analyzing collection events from 12 facilities predominantly located in the southeast… [+38537 chars]"
     },
     {
       "source": {
@@ -722,12 +917,12 @@
         "name": "Naturalnews.com"
       },
       "author": "Olivia Cook",
-      "title": "Breakfast cereal RECALLED over metal fragments found in the products",
-      "description": "Post Consumer Brands recalled over 5,300 boxes of Honey Bunches of Oats with Almonds due to sharp metal fragments. The FDA classified it as a Class II recall (risk of temporary harm). Affected boxes were shipped to Sam’s Club in California and Colorado. The c…",
-      "url": "https://www.naturalnews.com/2025-06-30-breakfast-cereal-recalled-after-metal-fragments-found.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Woman-Mouth-Cereal-Spoon.jpg",
+      "title": "Blueberries and potatoes join EWG’s “Dirty Dozen”: The dirty truth about pesticides lurking in produce",
+      "description": "In 2025, the EWG added blueberries and potatoes to its “Dirty Dozen” list of produce with the highest levels of pesticide residue, even after washing and peeling. Blueberries were found to be contaminated with cypermethrin, a possible carcinogen linked to ner…",
+      "url": "https://www.naturalnews.com/2025-06-30-blueberries-and-potatoes-join-ewg-dirty-dozen.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Farmer-Spraying-Pesticides-Chemical-Fertilizer.jpg",
       "publishedAt": "2025-06-30T06:00:00Z",
-      "content": "<ul><li>Post Consumer Brands recalled over 5,300 boxes of Honey Bunches of Oats with Almonds due to sharp metal fragments. The FDA classified it as a Class II recall (risk of temporary harm). Affecte… [+6766 chars]"
+      "content": "<ul><li>In 2025, the EWG added blueberries and potatoes to its \"Dirty Dozen\" list of produce with the highest levels of pesticide residue, even after washing and peeling.</li><li>Blueberries were fou… [+7026 chars]"
     },
     {
       "source": {
@@ -735,12 +930,12 @@
         "name": "Naturalnews.com"
       },
       "author": "Olivia Cook",
-      "title": "Blueberries and potatoes join EWG’s “Dirty Dozen”: The dirty truth about pesticides lurking in produce",
-      "description": "In 2025, the EWG added blueberries and potatoes to its “Dirty Dozen” list of produce with the highest levels of pesticide residue, even after washing and peeling. Blueberries were found to be contaminated with cypermethrin, a possible carcinogen linked to ner…",
-      "url": "https://www.naturalnews.com/2025-06-30-blueberries-and-potatoes-join-ewg-dirty-dozen.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Farmer-Spraying-Pesticides-Chemical-Fertilizer.jpg",
+      "title": "Breakfast cereal RECALLED over metal fragments found in the products",
+      "description": "Post Consumer Brands recalled over 5,300 boxes of Honey Bunches of Oats with Almonds due to sharp metal fragments. The FDA classified it as a Class II recall (risk of temporary harm). Affected boxes were shipped to Sam’s Club in California and Colorado. The c…",
+      "url": "https://www.naturalnews.com/2025-06-30-breakfast-cereal-recalled-after-metal-fragments-found.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Woman-Mouth-Cereal-Spoon.jpg",
       "publishedAt": "2025-06-30T06:00:00Z",
-      "content": "<ul><li>In 2025, the EWG added blueberries and potatoes to its \"Dirty Dozen\" list of produce with the highest levels of pesticide residue, even after washing and peeling.</li><li>Blueberries were fou… [+7026 chars]"
+      "content": "<ul><li>Post Consumer Brands recalled over 5,300 boxes of Honey Bunches of Oats with Almonds due to sharp metal fragments. The FDA classified it as a Class II recall (risk of temporary harm). Affecte… [+6766 chars]"
     },
     {
       "source": {
@@ -988,229 +1183,8 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2221457165-e1750970502312.jpeg?fit=6240%2C3120&w=1200&h=800",
       "publishedAt": "2025-06-27T14:05:40Z",
       "content": "The Israeli military has killed at least 410 people trying to get food at Israeli-run aid sites in Gaza in the past month.\r\nThis constitutes a likely war crime that violates international standards o… [+12046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Shilin Li, Jianlei Chen, Xuzhi Zhang, Jianshe Zhang, Yongjiang Xu, Yong Xu",
-      "title": "Heavy metal distribution and ecological risk in surface sediments of the Bohai Sea",
-      "description": "Heavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution retention. Heavy metals are persistent, bioaccumulative, and toxic, mak…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326701",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326701.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Abstract\r\nHeavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution r… [+38237 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Alberto Rissone, Martina La Spina, Erica Bresciani, Zulfeqhar A. Syed, Christian A. Combs, Martha Kirby, Abdel Elkahloun, Vicky Chen, Raman Sood, Shawn M. Burgess, Rosa Puertollano",
-      "title": "The transcription factors Tfeb and Tfe3 are required for survival and embryonic development of pancreas and liver in zebrafish",
-      "description": "Author summary TFEB and TFE3 belong to the MiT/TFE family of basic helix–loop–helix leucine zipper transcription factors and orchestrate cellular responses to a variety of stress conditions, such as nutrient deprivation, oxidative stress, organelle damage, an…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011754",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011754.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Introduction\r\nTFEB and TFE3 are basic helixloophelix leucine zipper transcription factors that function as master regulators of cellular adaptation to stress in response to a wide variety of stimuli,… [+94070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Weizi Wu, Aolan Li, Vijender Singh, Andrew Salner, Ming-Hui Chen, Michelle P. Judge, Xiaomei Cong, Wanli Xu",
-      "title": "Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer",
-      "description": "Context Patients with colorectal cancer undergoing chemotherapy often experience significant pain and fatigue. Limitations in understanding the complex phenotypes and biological mechanisms of these symptoms hinder effective interventions.   Objectives This st…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325849",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325849.g007&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Wu W, Li A, Singh V, Salner A, Chen M-H, Judge MP, et al. (2025) Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. PLoS One 20(6):\r\n e0325… [+33156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Laila Gondwe, Chisoni Mumba, Kezzy Besa, Davies Phiri, Exillia Kabbudula, Noanga Mebelo, Suwilanji S. Sichone, Ntazana N. Sinyangwe, Mwila Kayula, Geoffrey Mainda, Fredrick M. Kivaria, Charles Bebay, Baba Soumare, Mtui-Malamsha J. Niwael, Chitwambi Makungu",
-      "title": "Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods analysis at the human-wildlife-livestock interface",
-      "description": "Author summary Anthrax is a recurring zoonotic disease in Zambia, particularly in Game Management Areas (GMAs), where human-wildlife-livestock interactions are high. This study examines the socio-economic impacts of anthrax outbreaks on rural communities, foc…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012893",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012893.g001&size=inline",
-      "publishedAt": "2025-06-27T14:00:00Z",
-      "content": "Citation: Gondwe L, Mumba C, Besa K, Phiri D, Kabbudula E, Mebelo N, et al. (2025) Anthrax, livelihood vulnerability, and food insecurity in selected game management areas in Zambia: A mixed-methods … [+36920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "author": "Alivia Kaylor, MSc",
-      "title": "ACIP votes to remove thimerosal from flu vaccines",
-      "description": "The CDC's newly restructured Advisory Committee on Immunization Practices (ACIP) votes to recommend against flu vaccines containing thimerosal.",
-      "url": "https://www.techtarget.com/pharmalifesciences/news/366626872/ACIP-votes-to-remove-thimerosal-from-flu-vaccines",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/pharma_g1317416781.jpg",
-      "publishedAt": "2025-06-27T13:51:00Z",
-      "content": "Yesterday, the newly restructured Advisory Committee on Immunization Practices voted 51 against recommending influenza vaccines containing thimerosal, a mercury-based preservative used in multi-dose … [+4070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Biopesticides Industry Research and Forecast Report 2021-2031 with Competitive Analysis of Corteva, Syngenta, BASF, Bayer, Koppert Biological Systems, and Certis Biologicals",
-      "description": "The Global Biopesticides Market is projected to grow at a CAGR of 11.72%, reaching USD 19.67 Billion by 2031, driven by rising demand for eco-friendly farming. Key trends include integrated pest management and biotech innovations. This comprehensive report co…",
-      "url": "https://www.globenewswire.com/news-release/2025/06/27/3106629/28124/en/Biopesticides-Industry-Research-and-Forecast-Report-2021-2031-with-Competitive-Analysis-of-Corteva-Syngenta-BASF-Bayer-Koppert-Biological-Systems-and-Certis-Biologicals.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-06-27T13:50:00Z",
-      "content": "Dublin, June 27, 2025 (GLOBE NEWSWIRE) -- The \"Biopesticides Market (2025 Edition): Analysis By Type (Bioinsecticide, Biofungicide, Bionematicide, and Others), By Crop Type, By Mode of Application: M… [+7518 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Deirdre Bardolf",
-      "title": "Butcher shops close as E. coli outbreak kills 12-year-old girl, hospitalizes 21 children",
-      "description": "A deadly E. coli outbreak in northern France has left a 12-year-old girl dead and 21 children hospitalized, with nine patients developing hemolytic uremic syndrome.",
-      "url": "https://www.foxnews.com/food-drink/butcher-shops-close-e-coli-outbreak-kills-12-year-old-girl-hospitalizes-21-children",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/butcher-knife-cuts-meat.jpg",
-      "publishedAt": "2025-06-27T12:45:37Z",
-      "content": "A 12-year-old girl died and at least 21 children were hospitalized after an E. coli outbreak that was likely caused by contaminated meat, prompting the closure of six butcher shops in France, officia… [+4759 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Packaging-gateway.com"
-      },
-      "author": "GlobalData",
-      "title": "Avery Dennison reveals RFID label for PET recycling compatibility",
-      "description": "The label is said to have been crafted by combining CleanFlake adhesive with RFID knowledge.",
-      "url": "https://www.packaging-gateway.com/news/avery-dennison-reveals-rfid/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Fu_bfIgM0UxHGU6.z6f7RA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/packaging_gateway_559/b90950ae948b913be301ce81affd1e0e",
-      "publishedAt": "2025-06-27T11:12:25Z",
-      "content": "Avery Dennison, a radio-frequency identification (RFID) tag manufacturer, has introduced an RFID label that is the first to earn Association of Plastic Recyclers Design for Recyclability certificatio… [+2605 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Robin Respaut and Maggie Fick",
-      "title": "Stung by high prices, Americans make their own weight-loss drugs",
-      "description": "SAN FRANCISCO (Reuters) -In what she calls the \"wild west\" of obesity medicines, Missouri-based Amy Spencer is a pioneer.  Each week the mother of two...",
-      "url": "https://www.yahoo.com/news/stung-high-prices-americans-own-101141926.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters.com/74d6bcb8812e40247c6da08eebbb81d3",
-      "publishedAt": "2025-06-27T10:11:41Z",
-      "content": "By Robin Respaut and Maggie Fick\r\nSAN FRANCISCO (Reuters) -In what she calls the \"wild west\" of obesity medicines, Missouri-based Amy Spencer is a pioneer.\r\nEach week the mother of two injects hersel… [+12671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SILive.com"
-      },
-      "author": "Jessica Jones-gorman | Jgorman@siadvance.com",
-      "title": "These Staten Island teens are running their own business while still in high school",
-      "description": "Susan Wagner High School's virtual enterprise program is changing students' lives by teaching them entrepreneurship skills through a hands-on inclusive bakery project.",
-      "url": "https://www.silive.com/business/2025/06/these-staten-island-teens-are-running-their-own-business-while-still-in-high-school.html",
-      "urlToImage": "https://www.silive.com/resizer/v2/4VSZV2ZTUVHWHA5RI6SLMJ37ZU.jpg?auth=4783d2eb38a48f7943e7a65d3b80a9da5d045d7305a89028bfdf5c056f8462ce&width=1280&quality=90",
-      "publishedAt": "2025-06-27T10:01:42Z",
-      "content": "STATEN ISLAND, N.Y. For the past several years, a group of students at Susan Wagner High School has been operating a small business. The culmination of long hours, field trips and lots of classroom l… [+5411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "RFK Jr. blasts The Guardian for falsely claiming THIMEROSAL in vaccines is “safe”",
-      "description": "RFK Jr. criticizes The Guardian for falsely claiming thimerosal is “safe” without citing peer-reviewed studies, accusing journalists of uncritically repeating pharmaceutical industry assurances. Thimerosal remains in flu vaccines recommended for pregnant wome…",
-      "url": "https://www.naturalnews.com/2025-06-27-rfk-jr-blasts-guardian-claiming-thimerosal-safe.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/thimerosal-word-or-concept-1.jpg",
-      "publishedAt": "2025-06-27T06:00:00Z",
-      "content": "<ul><li>RFK Jr. criticizes The Guardian for falsely claiming thimerosal is \"safe\" without citing peer-reviewed studies, accusing journalists of uncritically repeating pharmaceutical industry assuranc… [+4725 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "Ready-to-eat chicken fettuccine alfredo RECALLED over Listeria contamination",
-      "description": "FreshRealm issued a recall for ready-to-eat chicken fettuccine alfredo sold at major retailers due to Listeria monocytogenes contamination linked to 17 illnesses, three deaths and one fetal loss across 13 states. Unlike most bacteria, Listeria thrives in cold…",
-      "url": "https://www.naturalnews.com/2025-06-27-chicken-fettuccine-alfredo-recalled-over-listeria-contamination.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/06/Microwave-Meal-Ready-Dinner-Food-Oven-Tv.jpg",
-      "publishedAt": "2025-06-27T06:00:00Z",
-      "content": "<ul><li>FreshRealm issued a recall for ready-to-eat chicken fettuccine alfredo sold at major retailers due to Listeria monocytogenes contamination linked to 17 illnesses, three deaths and one fetal l… [+6323 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KFSN-TV"
-      },
-      "author": "Mary Kekatos",
-      "title": "CDC vaccine advisory panel recommends against flu vaccines containing thimerosal",
-      "description": "The CDC's vaccine advisory committee voted to recommend annual flu vaccines but against flu shots containing the preservative thimerosal",
-      "url": "https://abc30.com/post/what-is-thimerosal-cdc-vaccine-advisory-panel-recommends-flu-vaccines-containing/16855365/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16855377_CDC-sign-img.jpg?w=1600",
-      "publishedAt": "2025-06-27T05:54:01Z",
-      "content": "The Advisory Committee on Immunization Practices (ACIP), made up of members recently hand-selected by Health and Human Services Secretary Robert F. Kennedy Jr., voted 5-1 on Thursday to recommend aga… [+6135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Baby Innovation Awards",
-      "title": "Camilia Tummy Liquid Doses From Boiron Winner Of “Baby Accessory Product of the Year”",
-      "description": "Annual Awards Program Recognizes Innovative Companies, Services and Products Within the Baby Care Industry Annual Awards Program Recognizes Innovative Companies, Services and Products Within the Baby Care Industry",
-      "url": "https://www.globenewswire.com/news-release/2025/06/27/3106333/0/en/Camilia-Tummy-Liquid-Doses-From-Boiron-Winner-Of-Baby-Accessory-Product-of-the-Year.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/fd87afdf-2de4-4269-a5ef-622e3fe10f97",
-      "publishedAt": "2025-06-27T00:01:00Z",
-      "content": "LOS ANGELES, June 26, 2025 (GLOBE NEWSWIRE) -- The 2025 Baby Innovation Awards\r\n, an independent recognition platform highlighting the most innovative companies, services, and products in the highly … [+4907 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Should we be letting flies eat our food waste?",
-      "description": "In Lithuania and Australia, hungry fly larvae are used to process food waste into useful protein.",
-      "url": "https://www.bbc.com/news/articles/cz9y1l397vno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/776a/live/0a60bcb0-41ea-11f0-bace-e1270fc31f5e.jpg",
-      "publishedAt": "2025-06-26T23:10:12Z",
-      "content": "MaryLou CostaReporting from\r\nVilnius, Lithuania\r\nFly larvae are excellent at converting food waste into protein\r\nMost people are inclined to shoo flies away from food, and the thought of maggots in y… [+6663 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPVI-TV"
-      },
-      "author": "Mary Kekatos",
-      "title": "CDC vaccine advisory panel recommends against flu vaccines containing thimerosal",
-      "description": "The CDC's vaccine advisory committee voted to recommend annual flu vaccines but against flu shots containing the preservative thimerosal",
-      "url": "https://6abc.com/post/what-is-thimerosal-cdc-vaccine-advisory-panel-recommends-flu-vaccines-containing/16855365/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16855377_CDC-sign-img.jpg?w=1600",
-      "publishedAt": "2025-06-26T22:15:37Z",
-      "content": "The Advisory Committee on Immunization Practices (ACIP), made up of members recently hand-selected by Health and Human Services Secretary Robert F. Kennedy Jr., voted 5-1 on Thursday to recommend aga… [+6135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "thestreet.com",
-      "title": "Favorite snack recalled due to potentially deadly contamination",
-      "description": "Food recalls happen more often than you might think. And they can be more than inconvenient. \nIn 2024, a listeria outbreak in Boar's Head deli meat killed 10 people. Hamburgers at McDonald's were linked to E. coli outbreaks and killed one person, while anothe…",
-      "url": "https://biztoc.com/x/a4ac6d7b58489166",
-      "urlToImage": "https://biztoc.com/cdn/a4ac6d7b58489166_s.webp",
-      "publishedAt": "2025-06-26T21:54:35Z",
-      "content": "Food recalls happen more often than you might think. And they can be more than inconvenient. In 2024, a listeria outbreak in Boar's Head deli meat killed 10 people. Hamburgers at McDonald's were link… [+144 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 91,
   "filteredCount": 0
 }
