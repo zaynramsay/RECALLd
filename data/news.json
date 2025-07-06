@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-06T06:34:17.497Z",
+  "lastUpdated": "2025-07-06T12:48:25.009Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "LancasterOnline"
+      },
+      "author": "Lancasteronline | Staff",
+      "title": "Dirty liquids, dead insects at creamer dispensing unit: Berks County restaurant inspections, July 5, 2025",
+      "description": "The Pennsylvania Department of Agriculture, 866-366-3723, uses a risk-based inspection reporting process for restaurants and other food handlers.",
+      "url": "https://lancasteronline.com/business/restaurant_inspections/berks-county/dirty-liquids-dead-insects-at-creamer-dispensing-unit-berks-county-restaurant-inspections-july-5-2025/article_b35b0402-3a43-4cfb-ad1c-5ea2f2e6e983.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/a/ee/aee194de-404d-11e5-a223-639aabd619b0/55ca2f91833bd.image.jpg?crop=400%2C400%2C85%2C0&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2025-07-05T12:44:55Z",
+      "content": "The Pennsylvania Department of Agriculture, 866-366-3723, uses a risk-based inspection reporting process for restaurants and other food handlers.\r\nREAD: What do restaurant inspectors look for and can… [+11389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Atlas"
+      },
+      "author": "Pranjal Malewar",
+      "title": "Choosing glass over plastic? You might be drinking more microplastics",
+      "description": "From ocean depths to kitchen shelves, microplastics have infiltrated nearly every corner of the environment. They’ve been found in food, water, soil, air, household dust, and even human waste. This widespread presence raises serious concerns about its impact …",
+      "url": "https://newatlas.com/health-wellbeing/glass-plastic-microplastics-what-is-the-safest-container/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/7eda58b/2147483647/strip/true/crop/1945x1021+28+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc6%2F52%2Fcfc637154b9e8524ba95fc6e7845%2Fdepositphotos-739149990-l.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-07-05T07:05:00Z",
+      "content": "From ocean depths to kitchen shelves, microplastics have infiltrated nearly every corner of the environment. Theyve been found in food, water, soil, air, household dust, and even human waste. This wi… [+3200 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1118,32 +1144,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/grocery-chain-recalls-chocolate-treats-107482477.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-07-02T02:48:30Z",
       "content": "An undeclared allergen has prompted a recall of some lots of Wegmans semi-sweet chocolate nonpareils. \r\nThe recalled 18.5-ounce tubs of chocolate candy “contain undeclared milk allergen” that did not… [+2228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Royal Society of Chemistry"
-      },
-      "author": "Fatima Haydous, Hussein F. Hassan, Aya Shehab, Nisreen Alwan, Mireille Serhan, Hani Dimassi, Elias Akoury",
-      "title": "Pet food safety at risk? Investigating toxic metal contamination in Lebanon and the UAE",
-      "description": "RSC Adv., 2025, 15,22629-22640DOI: 10.1039/D5RA02790J, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Fatima Haydous, Hussein F. Hassan, Aya Shehab, Nisreen Alwan, Mireille Serhan, Hani…",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra02790j",
-      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D5RA02790J",
-      "publishedAt": "2025-07-01T23:00:00Z",
-      "content": "* \r\n Corresponding authors\r\na\r\n Department of Physical Sciences, School of Arts and Sciences, Lebanese American University, Beirut 1102-2801, Lebanon\r\nE-mail:elias.akoury@lau.edu.lbTel: +961 1 786456… [+459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Royal Society of Chemistry"
-      },
-      "author": "Yuchen Shen, YunYi Shi, Juan Wang",
-      "title": "Magnetic–enzymatic synergy driven photoelectrochemical aptasensor on a microfluidic chip for sub-pM kanamycin detection",
-      "description": "Lab Chip, 2025, Advance ArticleDOI: 10.1039/D5LC00450K, PaperYuchen Shen, YunYi Shi, Juan WangA smartphone-integrated microfluidic photoelectrochemical aptasensor enables automated, sub-pM kanamycin detection via enzymatic–magnetic cascaded amplification and …",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/lc/d5lc00450k",
-      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D5LC00450K",
-      "publishedAt": "2025-07-01T23:00:00Z",
-      "content": "The escalating global concern over antibiotic contamination in food chains and aquatic ecosystems demands innovative solutions for rapid, on-site monitoring of residual drugs. This study presents an … [+1661 chars]"
     }
   ],
   "totalResults": 88,
