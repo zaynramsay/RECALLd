@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-06T12:48:25.009Z",
+  "lastUpdated": "2025-07-06T18:32:32.336Z",
   "articles": [
     {
       "source": {
@@ -706,19 +706,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "The Associated Press",
-      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
-      "description": "No illnesses have been confirmed to date, U.S. agriculture department officials said.",
-      "url": "https://www.denverpost.com/2025/07/02/oscar-meyer-turkey-bacon-recall/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/07/Turkey_Bacon_Recall_35028-1.jpg?w=1024&h=596",
-      "publishedAt": "2025-07-02T23:07:46Z",
-      "content": "By JONEL ALECCIA, Associated Press\r\nNearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, fed… [+2283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Boston Herald"
       },
       "author": "Associated Press",
@@ -726,6 +713,19 @@
       "description": "No illnesses have been confirmed to date, U.S. agriculture department officials said.",
       "url": "https://www.bostonherald.com/2025/07/02/oscar-meyer-turkey-bacon-recall/",
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Turkey_Bacon_Recall_35028-1.jpg?w=1024&h=596",
+      "publishedAt": "2025-07-02T23:07:46Z",
+      "content": "By JONEL ALECCIA, Associated Press\r\nNearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, fed… [+2283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "The Associated Press",
+      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
+      "description": "No illnesses have been confirmed to date, U.S. agriculture department officials said.",
+      "url": "https://www.denverpost.com/2025/07/02/oscar-meyer-turkey-bacon-recall/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/07/Turkey_Bacon_Recall_35028-1.jpg?w=1024&h=596",
       "publishedAt": "2025-07-02T23:07:46Z",
       "content": "By JONEL ALECCIA, Associated Press\r\nNearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, fed… [+2283 chars]"
     },
@@ -903,19 +903,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Ashley N. Hall, Elizabeth A. Morton, Rebecca Walters, Josh T. Cuperus, Christine Queitsch",
-      "title": "Phenotypic tolerance for rDNA copy number variation within the natural range of C. elegans",
-      "description": "Author summary Certain segments of DNA are repeated hundreds to thousands of times within the same genome, posing an intriguing and understudied source of genetic variation between individuals. The genes encoding ribosomal RNAs (rDNA) are one such element, pr…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011759",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011759.g005&size=inline",
-      "publishedAt": "2025-07-02T14:00:00Z",
-      "content": "Abstract\r\nThe genes for ribosomal RNA (rRNA) are encoded by ribosomal DNA (rDNA), whose structure is notable for being present in arrays of tens to thousands of tandemly repeated copies in eukaryotic… [+110482 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Barry Parasram, Avishek Choudhury",
       "title": "Occupational health risk of farmers: A qualitative study with the agriculture society of trinidad and tobago and the ministry of agriculture, land and fisheries",
       "description": "The agriculture sector is significantly affected by pesticide toxicity, leading to fatal and chronic diseases. The objective of this research is to explore the perception of the farmers, the representatives of the Agriculture Society of Trinidad and Tobago (A…",
@@ -923,6 +910,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327283.t002&size=inline",
       "publishedAt": "2025-07-02T14:00:00Z",
       "content": "Citation: Parasram B, Choudhury A (2025) Occupational health risk of farmers: A qualitative study with the agriculture society of trinidad and tobago and the ministry of agriculture, land and fisheri… [+52917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ashley N. Hall, Elizabeth A. Morton, Rebecca Walters, Josh T. Cuperus, Christine Queitsch",
+      "title": "Phenotypic tolerance for rDNA copy number variation within the natural range of C. elegans",
+      "description": "Author summary Certain segments of DNA are repeated hundreds to thousands of times within the same genome, posing an intriguing and understudied source of genetic variation between individuals. The genes encoding ribosomal RNAs (rDNA) are one such element, pr…",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011759",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011759.g005&size=inline",
+      "publishedAt": "2025-07-02T14:00:00Z",
+      "content": "Abstract\r\nThe genes for ribosomal RNA (rRNA) are encoded by ribosomal DNA (rDNA), whose structure is notable for being present in arrays of tens to thousands of tandemly repeated copies in eukaryotic… [+110482 chars]"
     },
     {
       "source": {
