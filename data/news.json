@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-07-06T02:18:41.584Z",
+  "lastUpdated": "2025-07-06T06:34:17.497Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "India, US trade deal may backfire on EU exports if India opens door to GM feed: GTRI",
+      "description": "GTRI cautions that allowing US GM farm products under a trade pact could harm India's agri exports to the EU due to strict GM labeling and consumer resistance. Cross-contamination risks from India's weak agri-logistics could lead to shipment rejections and da…",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-may-backfire-on-eu-exports-if-india-opens-door-to-gm-feed-gtri/articleshow/122262865.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122262896,width-1200,height-630,imgsize-308070,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-05T06:27:25Z",
+      "content": "India risks losing its export competitiveness in the European market if it allows genetically modified (GM) animal feed imports from the United States under the upcoming trade deal, according to the … [+4151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Cassie B.",
+      "title": "Danish AI study shows common disinfectants may be useless against evolving listeria superbugs",
+      "description": "Scientists used AI to predict which Listeria strains would survive disinfectants, revealing genetic adaptations that make standard cleaning protocols ineffective. A Danish study analyzed 1,649 Listeria samples and found hidden resistance genes, exposing flaws…",
+      "url": "https://www.naturalnews.com/2025-07-05-ai-study-disinfectants-useless-against-listeria-superbugs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Expert-analyzes-stuffed-meat-1.jpeg",
+      "publishedAt": "2025-07-05T06:00:00Z",
+      "content": "<ul><li>Scientists used AI to predict which Listeria strains would survive disinfectants, revealing genetic adaptations that make standard cleaning protocols ineffective.</li><li>A Danish study analy… [+4446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "GTRI cautions against imports of GM farm products from US; may affect India's agri exports",
+      "description": "The Global Trade Research Initiative (GTRI) said that allowing the import of GM products such as soybean meal and distillers dried grains with solubles (DDGS) for animal feed would affect India's agricultural exports to the European Union (EU), a key destinat…",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/gtri-cautions-against-imports-of-gm-farm-products-from-us-may-affect-indias-agri-exports/article69775694.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/s9u8gd/article69775699.ece/alternates/LANDSCAPE_1200/2025-06-30T134236Z_825392132_RC2MX6ADBB5E_RTRMADP_3_INDIA-MONSOON.JPG",
+      "publishedAt": "2025-07-05T05:48:35Z",
+      "content": "Economic think tank GTRI on Saturday cautioned that allowing genetically modified (GM) farm products from the US under the proposed trade pact would have implications for India as it may affect the c… [+3658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "kimatv.com",
+      "title": "FDA recalls 12,000 pounds of blueberries over listeria risks",
+      "description": "Blueberries were classified as the highest risk for potential listeria contamination by the Food and Drug Administration.\nThe product was shipped to one customer in North Carolina, according to the FDA.\nA Class I recall was issued for blueberries produced by …",
+      "url": "https://biztoc.com/x/0c29f60b2c700b58",
+      "urlToImage": "https://biztoc.com/cdn/0c29f60b2c700b58_s.webp",
+      "publishedAt": "2025-07-05T05:30:02Z",
+      "content": "Blueberries were classified as the highest risk for potential listeria contamination by the Food and Drug Administration.The product was shipped to one customer in North Carolina, according to the FD… [+146 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -155,7 +207,7 @@
       "url": "https://www.naturalnews.com/2025-07-04-how-four-types-contamination-sneak-into-food.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Store-Grocery-Food.jpg",
       "publishedAt": "2025-07-04T06:00:00Z",
-      "content": "<ul><li>Four threats behind most food recalls are these top culprits: Allergenic, biological, chemical and physical contaminants.</li><li>2025 major recall spikes tracked weekly by New Food Magazine ��� [+8348 chars]"
+      "content": "<ul><li>Four threats behind most food recalls are these top culprits: Allergenic, biological, chemical and physical contaminants.</li><li>2025 major recall spikes tracked weekly by New Food Magazine … [+8348 chars]"
     },
     {
       "source": {
@@ -357,19 +409,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Girma Mamo Zegene, Seid Tiku Mereta, Seblework Mekonen",
-      "title": "Factors affecting microbial safety behavior of beef handlers working in major beef retailers in Mizan-Aman, Southwest Ethiopia",
-      "description": "Background Beef is a key component of human diet but also a favorable medium for microbial growth. However, research has largely overlooked major beef retailers and the specific roles of handlers, missing critical points for intervention. This study aims to a…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326862",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326862.g007&size=inline",
-      "publishedAt": "2025-07-03T14:00:00Z",
-      "content": "Citation: Zegene GM, Mereta ST, Mekonen S (2025) Factors affecting microbial safety behavior of beef handlers working in major beef retailers in Mizan-Aman, Southwest Ethiopia. PLoS One 20(7):\r\n e032… [+24997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Jianqin Ma, Shuoguo Yang, Qing Wu, Xiuping Hao, Bifeng Cui, Zhihong Su",
       "title": "Study on the synergies and trade-offs of sectoral water use and their relationship with economic development",
       "description": "Water scarcity is dynamic and complex, beyond geophysical stressors and responses, it is critical to also consider how multi-sector, multiscale economic teleconnections mitigate or exacerbate water shortages. This study analyzes the spatial and temporal chara…",
@@ -377,6 +416,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327626.g008&size=inline",
       "publishedAt": "2025-07-03T14:00:00Z",
       "content": "Abstract\r\nWater scarcity is dynamic and complex, beyond geophysical stressors and responses, it is critical to also consider how multi-sector, multiscale economic teleconnections mitigate or exacerba… [+33735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Girma Mamo Zegene, Seid Tiku Mereta, Seblework Mekonen",
+      "title": "Factors affecting microbial safety behavior of beef handlers working in major beef retailers in Mizan-Aman, Southwest Ethiopia",
+      "description": "Background Beef is a key component of human diet but also a favorable medium for microbial growth. However, research has largely overlooked major beef retailers and the specific roles of handlers, missing critical points for intervention. This study aims to a…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326862",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326862.g007&size=inline",
+      "publishedAt": "2025-07-03T14:00:00Z",
+      "content": "Citation: Zegene GM, Mereta ST, Mekonen S (2025) Factors affecting microbial safety behavior of beef handlers working in major beef retailers in Mizan-Aman, Southwest Ethiopia. PLoS One 20(7):\r\n e032… [+24997 chars]"
     },
     {
       "source": {
@@ -628,19 +680,6 @@
     {
       "source": {
         "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Associated Press",
-      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
-      "description": "No illnesses have been confirmed to date, U.S. agriculture department officials said.",
-      "url": "https://www.bostonherald.com/2025/07/02/oscar-meyer-turkey-bacon-recall/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Turkey_Bacon_Recall_35028-1.jpg?w=1024&h=596",
-      "publishedAt": "2025-07-02T23:07:46Z",
-      "content": "By JONEL ALECCIA, Associated Press\r\nNearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, fed… [+2283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Denver Post"
       },
       "author": "The Associated Press",
@@ -648,6 +687,19 @@
       "description": "No illnesses have been confirmed to date, U.S. agriculture department officials said.",
       "url": "https://www.denverpost.com/2025/07/02/oscar-meyer-turkey-bacon-recall/",
       "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/07/Turkey_Bacon_Recall_35028-1.jpg?w=1024&h=596",
+      "publishedAt": "2025-07-02T23:07:46Z",
+      "content": "By JONEL ALECCIA, Associated Press\r\nNearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, fed… [+2283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Nearly 368,000 pounds of Oscar Mayer turkey bacon recalled over possible listeria contamination",
+      "description": "No illnesses have been confirmed to date, U.S. agriculture department officials said.",
+      "url": "https://www.bostonherald.com/2025/07/02/oscar-meyer-turkey-bacon-recall/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Turkey_Bacon_Recall_35028-1.jpg?w=1024&h=596",
       "publishedAt": "2025-07-02T23:07:46Z",
       "content": "By JONEL ALECCIA, Associated Press\r\nNearly 368,000 pounds of Oscar Mayer turkey bacon products are being recalled over possible contamination with listeria bacteria that can cause food poisoning, fed… [+2283 chars]"
     },
@@ -825,19 +877,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Barry Parasram, Avishek Choudhury",
-      "title": "Occupational health risk of farmers: A qualitative study with the agriculture society of trinidad and tobago and the ministry of agriculture, land and fisheries",
-      "description": "The agriculture sector is significantly affected by pesticide toxicity, leading to fatal and chronic diseases. The objective of this research is to explore the perception of the farmers, the representatives of the Agriculture Society of Trinidad and Tobago (A…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327283",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327283.t002&size=inline",
-      "publishedAt": "2025-07-02T14:00:00Z",
-      "content": "Citation: Parasram B, Choudhury A (2025) Occupational health risk of farmers: A qualitative study with the agriculture society of trinidad and tobago and the ministry of agriculture, land and fisheri… [+52917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Ashley N. Hall, Elizabeth A. Morton, Rebecca Walters, Josh T. Cuperus, Christine Queitsch",
       "title": "Phenotypic tolerance for rDNA copy number variation within the natural range of C. elegans",
       "description": "Author summary Certain segments of DNA are repeated hundreds to thousands of times within the same genome, posing an intriguing and understudied source of genetic variation between individuals. The genes encoding ribosomal RNAs (rDNA) are one such element, pr…",
@@ -845,6 +884,19 @@
       "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011759.g005&size=inline",
       "publishedAt": "2025-07-02T14:00:00Z",
       "content": "Abstract\r\nThe genes for ribosomal RNA (rRNA) are encoded by ribosomal DNA (rDNA), whose structure is notable for being present in arrays of tens to thousands of tandemly repeated copies in eukaryotic… [+110482 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Barry Parasram, Avishek Choudhury",
+      "title": "Occupational health risk of farmers: A qualitative study with the agriculture society of trinidad and tobago and the ministry of agriculture, land and fisheries",
+      "description": "The agriculture sector is significantly affected by pesticide toxicity, leading to fatal and chronic diseases. The objective of this research is to explore the perception of the farmers, the representatives of the Agriculture Society of Trinidad and Tobago (A…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327283",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327283.t002&size=inline",
+      "publishedAt": "2025-07-02T14:00:00Z",
+      "content": "Citation: Parasram B, Choudhury A (2025) Occupational health risk of farmers: A qualitative study with the agriculture society of trinidad and tobago and the ministry of agriculture, land and fisheri… [+52917 chars]"
     },
     {
       "source": {
@@ -1092,58 +1144,6 @@
       "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D5LC00450K",
       "publishedAt": "2025-07-01T23:00:00Z",
       "content": "The escalating global concern over antibiotic contamination in food chains and aquatic ecosystems demands innovative solutions for rapid, on-site monitoring of residual drugs. This study presents an … [+1661 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UN News"
-      },
-      "author": "United Nations",
-      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-      "description": "In Sudan, the Secretary-General’s Personal Envoy for the country is intensifying his good offices efforts to support the de-escalation of the conflict and advance a political solution. He continues to underscore the criticality of scaled-up and more unified d…",
-      "url": "https://press.un.org/en/2025/db250701.doc.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-07-01T19:55:49Z",
-      "content": "The following is a near-verbatim transcript of todays briefing by Stéphane Dujarric, Spokesman for the Secretary-General.\r\n**Briefing\r\nAl right, good afternoon.  As soon as you are done with me, you … [+21043 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Skift"
-      },
-      "author": "Barbara Scofidio",
-      "title": "Why is it So Hard for Planners to Donate Food?",
-      "description": "Despite laws that protect food donors and apps that simplify the process, planners keep hitting roadblocks with hotels unwilling or unable to donate food.",
-      "url": "http://meetings.skift.com/2025/07/01/why-is-it-so-hard-for-planners-to-donate-food/",
-      "urlToImage": "https://meetings.skift.com/wp-content/uploads/2025/07/thuy-gPiV8rcHYmM-unsplash.jpg?resize=1024,683",
-      "publishedAt": "2025-07-01T19:18:04Z",
-      "content": "If you ask planners who have tried to donate leftover food from their meetings, many will say they hit a wall when they brought it up to their host hotels.\r\nEither they're told they arent allowed to,… [+3794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Emergency flash floods threaten Allegheny residents",
-      "description": "Allegheny County residents found themselves under an urgent flash flood warning as dangerous weather conditions swept through the region, creating potentially life-threatening situations for thousands of families across western Pennsylvania. The emergency ale…",
-      "url": "https://rollingout.com/2025/07/01/emergency-flash-flood-threaten-allegheny/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/07/shutterstock_2467206491-scaled.jpg",
-      "publishedAt": "2025-07-01T18:23:06Z",
-      "content": "Allegheny County residents found themselves under an urgent flash flood warning as dangerous weather conditions swept through the region, creating potentially life-threatening situations for thousand… [+11459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Loandi Richter-Mouton, Researcher: Environmental Antimicrobial resistance, water quality and food safety, Department of Plant and Soil Sciences, University of Pretoria, University of Pretoria, Lise Korsten, Professor - Department of Plant and Soil Sciences and co-director of the Centre of Excellence in Food Security, University of Pretoria",
-      "title": "Decades of South African research reveal key strategies to reduce water contamination in fruit and veg",
-      "description": "Researchers are tracking multi-drug resistant bacteria in South Africa’s water to see how it endangers food safety when it’s used to irrigate crops.",
-      "url": "https://theconversation.com/decades-of-south-african-research-reveal-key-strategies-to-reduce-water-contamination-in-fruit-and-veg-258311",
-      "urlToImage": "https://images.theconversation.com/files/675882/original/file-20250623-62-xslwq0.jpg?ixlib=rb-4.1.0&rect=0%2C662%2C3946%2C1973&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-07-01T14:10:22Z",
-      "content": "Water is essential at all stages of food production, from irrigation to food processing to washing fruit and vegetables before we eat them. Crops and livestock need it to grow, but water can also be … [+6698 chars]"
     }
   ],
   "totalResults": 88,
