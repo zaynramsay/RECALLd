@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-07-07T18:35:27.132Z",
+  "lastUpdated": "2025-07-08T02:04:13.305Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "High Levels of Arsenic Discovered in US Rice",
+      "description": "More than 1 in 4 rice products sold in the U.S. now exceed the U.S. Food and Drug Administration's (FDA) arsenic limit for infant cereal.1 This isn't about obscure brands or specialty imports. It's about the same white and brown rice that millions of families…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/07/07/high-levels-arsenic-discovered-us-rice.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/July/FB/high-levels-arsenic-discovered-us-rice-fb.jpg",
+      "publishedAt": "2025-07-07T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1133,6 +1146,6 @@
       "content": "Ottawa, July 02, 2025 (GLOBE NEWSWIRE) -- The global CDMO packaging market size is anticipated to expand significantly over the forecast period 2025 to 2034. A recent study conducted by Towards Packa… [+25657 chars]"
     }
   ],
-  "totalResults": 87,
+  "totalResults": 88,
   "filteredCount": 1
 }
