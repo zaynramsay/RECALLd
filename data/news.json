@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-07-10T06:37:57.059Z",
+  "lastUpdated": "2025-07-10T12:53:32.938Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "FDA Issues Highest Risk Warning For Cucumber Recall",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of cucumbers due to potential salmonella contamination has been issued with the highest risk warning by the U.S. Food and Drug Administration (FDA).\nFuentes Farms LLC, based in Texas, announced a volu…",
+      "url": "https://biztoc.com/x/5f8eb533829d397e",
+      "urlToImage": "https://biztoc.com/cdn/5f8eb533829d397e_s.webp",
+      "publishedAt": "2025-07-09T11:58:15Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of cucumbers due to potential salmonella contamination has been issued with the highest risk warning by the U.S. Food and Drug Administration… [+143 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "FDA Issues Highest Risk Warning For Cucumber Recall",
+      "description": "Fuentes Farms LLC announced a voluntary recall of 71 boxes of fresh cucumbers on June 13 due to potential salmonella contamination.",
+      "url": "https://www.newsweek.com/cucumber-recall-fda-issues-highest-risk-warning-class-1-salmonella-2096529",
+      "urlToImage": "https://d.newsweek.com/en/full/2679506/cucumbers.jpg",
+      "publishedAt": "2025-07-09T11:49:33Z",
+      "content": "A recall of cucumbers due to potential salmonella contamination has been issued with the highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nFuentes Farms LLC, based in Texas, annou… [+3886 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Simone Mccarthy",
+      "title": "More than 200 children found with high lead levels after kindergarten in China uses paint as food coloring, authorities say",
+      "description": "More than 200 kindergarten students in northwestern China were found to have abnormal blood lead levels after kitchen staff used paint as food coloring, authorities said, in a case that’s stoked outrage in a country long plagued by food safety scandals.",
+      "url": "https://www.cnn.com/2025/07/09/china/china-lead-poisoning-tianshui-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/img-8167-20250709075558058.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-07-09T09:35:27Z",
+      "content": "More than 200 kindergarten students in northwestern China were found to have abnormal blood lead levels after kitchen staff used paint as food coloring, authorities said, in a case thats stoked outra… [+6690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LADbible"
+      },
+      "author": "Stefania Sarrubba",
+      "title": "Scientists reveal why it is actually worse for you to squat over public toilet",
+      "description": "Squatting over a public toilet may actually be worse for you than sitting",
+      "url": "https://www.ladbible.com/news/sit-or-squat-public-toilet-study-316701-20250709",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltbfcfa76047cc9461/686e35363cd09a45f98185d4/image_(13).png",
+      "publishedAt": "2025-07-09T09:25:33Z",
+      "content": "Squatting over a public toilet is a staple of festival season, though hovering over the seat may not be the healthiest option for you, experts say.\r\nAs the UK has been hit with a heatwave (or blessed… [+3812 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETimes.in",
+      "title": "Why should you avoid eating fish during monsoons",
+      "description": "As the monsoon season rolls in, bringing relief from scorching heat and rejuvenating the environment, it is crucial to pay attention to our dietary choices. One particular food group that demands caution during this time is fish. While fish can be a healthy a…",
+      "url": "https://timesofindia.indiatimes.com/life-style/food-news/why-should-you-avoid-eating-fish-during-monsoons/photostory/122339302.cms",
+      "urlToImage": "https://static.toiimg.com/photo/122339315.cms",
+      "publishedAt": "2025-07-09T09:05:25Z",
+      "content": "Monsoon rains often lead to water contamination and increased microbial activity, which significantly impacts aquatic ecosystems. As a result, fish are exposed to harmful bacteria, parasites, and tox… [+286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Fertilizers Market to Reach 262.18 Million Tons by 2034 Amid Increasing Demand",
+      "description": "According to Towards chem and Materials consultants, the global fertilizers market volume reached 199.19 million tons in 2025 and is forecast to witness steady growth, touching nearly 262.18 million tons by 2034 at a CAGR of 3.10% from 2025 to 2034. Asia Paci…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/09/3112324/0/en/Fertilizers-Market-to-Reach-262-18-Million-Tons-by-2034-Amid-Increasing-Demand.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-07-09T07:51:00Z",
+      "content": "Ottawa, July 09, 2025 (GLOBE NEWSWIRE) -- According to Towards chem and Materials consultants, the g\r\nlobal fertilizers market volume\r\n reached 193.20 million tons in 2024 and is projected to hit aro… [+30870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Pears: A nutritious fruit for digestive health and disease prevention",
+      "description": "Pears are packed with fiber, vitamin C, potassium and antioxidants like flavonoids, supporting digestion, immunity and heart health. High in soluble fiber (pectin), they promote regular bowel movements and nourish beneficial gut bacteria. Their anti-inflammat…",
+      "url": "https://www.naturalnews.com/2025-07-09-pears-nutritious-fruit-digestive-health-disease-prevention.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pears-Fruits.jpg",
+      "publishedAt": "2025-07-09T06:00:00Z",
+      "content": "<ul><li>Pears are packed with fiber, vitamin C, potassium and antioxidants like flavonoids, supporting digestion, immunity and heart health.</li><li>High in soluble fiber (pectin), they promote regul… [+7467 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -60,7 +151,7 @@
       },
       "author": "Maria Doa, PhD, Senior Director, Chemicals Policy",
       "title": "New report finds endocrine disrupting chemical in more than one-third of tested Indian clothing products",
-      "description": "What’s new: A new report has found the cancer-linked endocrine disruptor, nonylphenol (NP), in one-third of tested Indian clothing products at levels exceeding European Union (EU) safety standards. Scientists also detected NP in major Indian rivers downstream…",
+      "description": "What’s new: A new report has found the cancer-linked endocrine disruptor, nonylphenol (NP), in one-third of tested Indian clothing products at levels exceeding European Union (EU) safety standards. Scientists also detected NP in major Indian rivers downstream��",
       "url": "https://blogs.edf.org/health/2025/07/08/new-report-finds-endocrine-disrupting-chemical-in-more-than-one-third-of-tested-indian-clothing-products/",
       "urlToImage": "https://blogs.edf.org/health/wp-content/blogs.dir/11/files//Toxic-Threads-Report-6-25.jpg",
       "publishedAt": "2025-07-08T21:10:30Z",
@@ -1105,97 +1196,6 @@
       "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/07/oscar-mayer-turkey-bacon-700x422.png",
       "publishedAt": "2025-07-03T20:35:20Z",
       "content": "Attention turkey bacon lovers, you may need to check that turkey bacon you have in your fridge.\r\nTurkey Bacon\r\nAccording to the USDA, a recall has been announced on Oscar Mayer turkey bacon products … [+1748 chars]"
-    },
-    {
-      "source": {
-        "id": "new-scientist",
-        "name": "New Scientist"
-      },
-      "author": "Grace Wade",
-      "title": "How vaccine recommendations have changed in the US",
-      "description": "The US Advisory Committee on Immunization Practices voted in June to stop recommending certain kinds of flu vaccines, a notable shift in vaccine guidance",
-      "url": "https://www.newscientist.com/article/2486659-how-vaccine-recommendations-have-changed-in-the-us/",
-      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/07/03184615/SEI_257617819.jpg",
-      "publishedAt": "2025-07-03T18:51:29Z",
-      "content": "A nurse administering a flu shot\r\nTess Crowley/Chicago Tribune/Getty Images\r\nOn 26 June, the US Advisory Committee on Immunization Practices (ACIP) rolled back recommendations for flu shots containin… [+5732 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Every Dutch person has ‘forever chemicals’ in their blood – study",
-      "description": "The research has found widespread contamination from man-made products Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/620954-dutch-study-forever-chemicals-everyone/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2025.07/article/6866a8e285f5406ae43596ca.jpg",
-      "publishedAt": "2025-07-03T18:23:45Z",
-      "content": "Every person in the Netherlands has so-called “forever chemicals” in their blood, often at levels above health safety limits, according to the findings of the first nationwide study on the issue in a… [+1628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Survivalblog.com"
-      },
-      "author": "SurvivalBlog Contributor",
-      "title": "Prepare For The Consequences, Not The Disaster, by 3AD Scout",
-      "description": "Many Preppers are often asked “what are you preparing for?” The responses are anything from a simple weather event to an extinction-level event. Having been in the field of disaster planning and response for 24 years, I cannot tell you the number of times som…",
-      "url": "https://survivalblog.com/2025/07/05/prepare-for-the-consequences-not-the-disaster-by-3ad-scout/",
-      "urlToImage": "https://survivalblog.com/wp-content/uploads/2022/08/Cleveland_Flood_Disaster.jpg",
-      "publishedAt": "2025-07-03T17:36:33Z",
-      "content": "Many Preppers are often asked what are you preparing for? The responses are anything from a simple weather event to an extinction-level event. Having been in the field of disaster planning and respon… [+10231 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Reader's Digest"
-      },
-      "author": "Charlotte Hilton Andersen",
-      "title": "Don’t Make This Mistake at Your Next BBQ—It Could Ruin Your Party",
-      "description": "Find out the surprisingly common ice faux pas people make at BBQs, and how to keep your drinks (and your guests) safe, happy and germ-free.\nThe post Don’t Make This Mistake at Your Next BBQ—It Could Ruin Your Party appeared first on Reader's Digest.",
-      "url": "https://www.rd.com/article/bbq-party-mistake/",
-      "urlToImage": "https://www.rd.com/wp-content/uploads/2025/07/Dont-Make-This-Mistake-at-Your-Next-BBQ_GettyImages-2159033267_GSedit_FT.jpg",
-      "publishedAt": "2025-07-03T16:45:56Z",
-      "content": "Recently, Anne Fritz, an editor here at Reader’s Digest, attended a backyard barbecue. It was perfectionthe sun was shining, the burgers were sizzling and the drinks were flowing. The host even had t… [+7606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Scott Stump",
-      "title": "Oscar Mayer Turkey Bacon Recalled Over Listeria Risk",
-      "description": "Oscar Mayer turkey bacon is being recalled for possible listeria contamination, the USDA announced. Impacted products were distributed nationwide and internationally.",
-      "url": "https://www.today.com/health/recall/oscar-mayer-turkey-bacon-recall-rcna216741",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/oscar-mayer-turkey-bacon-recalled-2x1-zz-250703-9c0fe9.jpg",
-      "publishedAt": "2025-07-03T15:34:20Z",
-      "content": "Nearly 370,000 pounds of Oscar Mayer turkey bacon products are being recalled due to potential listeria contamination that can cause serious health issues. \r\nSouth Carolina-based Kraft Heinz Foods Co… [+2534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "More than 367,000 pounds of Oscar Mayer turkey bacon recalled over listeria risk",
-      "description": "The recall was announced in a notice shared by the U.S. Department of Agriculture’s Food Safety and Inspection Service on Wednesday",
-      "url": "https://www.the-independent.com/life-style/turkey-bacon-recall-oscar-mayer-listeria-b2782023.html",
-      "urlToImage": "https://static.the-independent.com/2025/07/03/13/59/oscar-mayer-turkey-backson.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-07-03T14:40:17Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3660 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Microplastic Detection Market to USD 7.91 Billion by 2032, Owing to Rising Environmental Regulations and Health Risk Awareness | Research by SNS Insider",
-      "description": "The rapid increase in global microplastic contamination, particularly in food, water, and air, is compelling governments, industries, and research institutions to invest heavily in advanced microplastic detection technologies to protect both environmental and…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/03/3109902/0/en/Microplastic-Detection-Market-to-USD-7-91-Billion-by-2032-Owing-to-Rising-Environmental-Regulations-and-Health-Risk-Awareness-Research-by-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-07-03T14:00:00Z",
-      "content": "Austin, July 03, 2025 (GLOBE NEWSWIRE) -- The Microplastic Detection Market\r\n size was valued at USD 4.55 billion in 2023 and is expected to reach USD 7.91 billion by 2032, growing at a CAGR of 6.41%… [+7395 chars]"
     }
   ],
   "totalResults": 92,
