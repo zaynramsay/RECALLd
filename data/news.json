@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-07-09T18:36:19.740Z",
+  "lastUpdated": "2025-07-10T02:05:46.404Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Ritz Peanut Butter Cracker Recall Sparks Nationwide Warning",
+      "description": "Mondelez Global LLC is recalling multiple carton sizes of Ritz peanut butter cracker sandwiches due to fears the product may be mislabeled.",
+      "url": "https://www.newsweek.com/ritz-peanut-butter-cracker-recall-sparks-nationwide-warning-2096378",
+      "urlToImage": "https://d.newsweek.com/en/full/2679345/new-york-grocery-store.jpg",
+      "publishedAt": "2025-07-09T01:33:43Z",
+      "content": "Mondelēz Global LLC is recalling multiple carton sizes of Ritz peanut butter cracker sandwiches due to fears the product may be mislabeled.\r\nNewsweek reached out to the company via email Tuesday for … [+2719 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "ABC News",
+      "title": "Arrests after 233 children poisoned with lead at Chinese preschool",
+      "description": "The principal and canteen staff at a kindergarten in China's Gansu province are among those arrested on suspicion of \"producing poisonous or harmful food\".",
+      "url": "https://www.abc.net.au/news/2025-07-09/eight-people-detained-in-china-after-233-children-poisoned/105510538",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/27588a6c5192456a9fa1107b51c3c800?impolicy=wcms_watermark_news&cropH=887&cropW=1576&xPos=0&yPos=64&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-07-09T00:36:45Z",
+      "content": "Authorities have arrested eight people after more than 200 children who consumed food at a preschool in China's north-west were found to have abnormally high levels of lead in their blood.\r\nHealth au… [+1731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "Dr. Mercola",
+      "title": "Popular Heartburn Drugs Linked to Heart Attacks",
+      "description": "More than 60 million Americans deal with heartburn each month,1 and for millions of them, relief comes in the form of over-the-counter or prescription acid blockers. These drugs — proton pump inhibitors, or PPIs — promise fast, long-lasting relief. But they a…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/07/09/popular-heartburn-drugs-linked-to-heart-attacks.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/July/FB/popular-heartburn-drugs-linked-to-heart-attacks-fb.jpg",
+      "publishedAt": "2025-07-09T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Environmental Defense Fund"
+      },
+      "author": "Maria Doa, PhD, Senior Director, Chemicals Policy",
+      "title": "New report finds endocrine disrupting chemical in more than one-third of tested Indian clothing products",
+      "description": "What’s new: A new report has found the cancer-linked endocrine disruptor, nonylphenol (NP), in one-third of tested Indian clothing products at levels exceeding European Union (EU) safety standards. Scientists also detected NP in major Indian rivers downstream…",
+      "url": "https://blogs.edf.org/health/2025/07/08/new-report-finds-endocrine-disrupting-chemical-in-more-than-one-third-of-tested-indian-clothing-products/",
+      "urlToImage": "https://blogs.edf.org/health/wp-content/blogs.dir/11/files//Toxic-Threads-Report-6-25.jpg",
+      "publishedAt": "2025-07-08T21:10:30Z",
+      "content": "Whats new: A new report has found the cancer-linked endocrine disruptor, nonylphenol (NP), in one-third of tested Indian clothing products at levels exceeding European Union (EU) safety standards.\r\nS… [+2629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Mondelēz Global LLC Conducts U.S. Voluntary Recall of Four Carton Sizes of RITZ Peanut Butter Cracker Sandwiches Due to Labeling Error",
+      "description": "Mondelēz Global LLC announced today a voluntary recall of four carton sizes of RITZ Peanut Butter Cracker Sandwiches (8-pack, 20-pack, and 40pack cartons of RITZ Peanut Butter Cracker Sandwiches, as well as the 20-pack RITZ Filled Cracker Sandwich Variety Pac…",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mondelez-global-llc-conducts-us-voluntary-recall-four-carton-sizes-ritz-peanut-butter-cracker",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-07-08T20:13:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJuly 08, 2025\r\nFDA Publish Date:\r\nJuly 08, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUndeclared … [+4865 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Pooria Pasbakhsh, Research Fellow in Polymer Upcycling, The University of Melbourne",
+      "title": "Can a pizza box go in the yellow bin – or not? An expert answers this and other messy recycling questions",
+      "description": "Research shows most Australians believe they are good recyclers – but they’re often wrong. Here’s how to avoid common recycling mistakes.",
+      "url": "https://theconversation.com/can-a-pizza-box-go-in-the-yellow-bin-or-not-an-expert-answers-this-and-other-messy-recycling-questions-258301",
+      "urlToImage": "https://images.theconversation.com/files/678267/original/file-20250704-56-84m7la.jpg?ixlib=rb-4.1.0&rect=0%2C377%2C5472%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-07-08T20:02:43Z",
+      "content": "ViDCan/Shutterstock\r\nHave you ever gone to toss something into the recycling bin – a jam jar, a pizza box, a takeaway container encrusted with yesterday’s lunch – and wondered if you’re doing it righ… [+5754 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -580,7 +658,7 @@
       },
       "author": "Frank Bergman",
       "title": "Major Study Warns COVID-Vaxxed Face Long-Term Brain Damage Risk",
-      "description": "A group of Italy’s leading scientists has issued an alarming warning of the devastating long-term health risks faced by those who received Covid mRNA “vaccines.”\nThe experimental medicine researchers found that people who received the injections face persiste…",
+      "description": "A group of Italy’s leading scientists has issued an alarming warning of the devastating long-term health risks faced by those who received Covid mRNA “vaccines.���\nThe experimental medicine researchers found that people who received the injections face persiste…",
       "url": "https://www.globalresearch.ca/covid-vaxxed-face-long-term-brain-damage-risk/5894019",
       "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/04/child-covid-vaccine-blood-clot-risk-15-years.jpeg",
       "publishedAt": "2025-07-06T14:25:35Z",
@@ -1118,84 +1196,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327626.g008&size=inline",
       "publishedAt": "2025-07-03T14:00:00Z",
       "content": "Abstract\r\nWater scarcity is dynamic and complex, beyond geophysical stressors and responses, it is critical to also consider how multi-sector, multiscale economic teleconnections mitigate or exacerba… [+33735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Girma Mamo Zegene, Seid Tiku Mereta, Seblework Mekonen",
-      "title": "Factors affecting microbial safety behavior of beef handlers working in major beef retailers in Mizan-Aman, Southwest Ethiopia",
-      "description": "Background Beef is a key component of human diet but also a favorable medium for microbial growth. However, research has largely overlooked major beef retailers and the specific roles of handlers, missing critical points for intervention. This study aims to a…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326862",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326862.g007&size=inline",
-      "publishedAt": "2025-07-03T14:00:00Z",
-      "content": "Citation: Zegene GM, Mereta ST, Mekonen S (2025) Factors affecting microbial safety behavior of beef handlers working in major beef retailers in Mizan-Aman, Southwest Ethiopia. PLoS One 20(7):\r\n e032… [+24997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Weerakorn Thichumpa, Anuwat Wiratsudakul, Saranath Lawpoolsri, Yanin Limpanont, Weerapong Thanapongtharm, Lauren M. Smith, Sarawut Maneewong, Wirichada Pan-ngum",
-      "title": "Optimizing dog population control strategies in Thailand using mathematical and economic modeling",
-      "description": "Author summary Free-roaming dogs present a risk to community health, particularly in low- and middle-income countries where dog-mediated rabies remains a critical issue. Rabies control strategies basically integrate mass vaccination with sterilization program…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013202",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013202.g005&size=inline",
-      "publishedAt": "2025-07-03T14:00:00Z",
-      "content": "Citation: Thichumpa W, Wiratsudakul A, Lawpoolsri S, Limpanont Y, Thanapongtharm W, Smith LM, et al. (2025) Optimizing dog population control strategies in Thailand using mathematical and economic mo… [+39405 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "Nationwide Bacon Recall as FSIS Issues Warning",
-      "description": "The Kraft Heinz Foods Company has issued a recall for more than 360,000 pounds of turkey bacon products sold nationwide.",
-      "url": "https://www.newsweek.com/bacon-recall-turkey-nationwide-fsis-class-one-warning-kraft-heinz-2094188",
-      "urlToImage": "https://d.newsweek.com/en/full/2676379/bacon.jpg",
-      "publishedAt": "2025-07-03T13:53:42Z",
-      "content": "More than 360,000 pounds of turkey bacon products have been recalled over a possible contamination with Listeria monocytogenes, according to the U.S. Department of Agriculture's Food Safety and Inspe… [+4445 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "FDA Issues Most Serious Risk Level for 20 Million Eggs",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of millions of eggs due to potential salmonella contamination has now been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\nAugust Egg Company, based in California, issu…",
-      "url": "https://biztoc.com/x/5e5e9d4495cb60a6",
-      "urlToImage": "https://biztoc.com/cdn/5e5e9d4495cb60a6_s.webp",
-      "publishedAt": "2025-07-03T13:51:39Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of millions of eggs due to potential salmonella contamination has now been issued the highest risk warning by the U.S. Food and Drug Administ… [+145 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "FDA Issues Most Serious Risk Level for 20 Million Eggs",
-      "description": "August Egg Company issued a voluntary recall on June 6 following reports of numerous salmonella infections across multiple states.",
-      "url": "https://www.newsweek.com/egg-recall-fda-issues-most-serious-recall-august-egg-company-2094158",
-      "urlToImage": "https://d.newsweek.com/en/full/2676366/eggs.jpg",
-      "publishedAt": "2025-07-03T13:40:19Z",
-      "content": "A recall of millions of eggs due to potential salmonella contamination has now been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nAugust Egg Company, based in Calif… [+7294 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Sara  Moniuszko",
-      "title": "Oscar Mayer turkey bacon recalled over possible listeria contamination",
-      "description": "Kraft Heinz Foods Company is recalling nearly 368,000 pounds of the product.",
-      "url": "https://www.cbsnews.com/news/oscar-mayer-turkey-bacon-recall-listeria/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/03/b3cccdd9-2260-4f25-a9fc-25bb0362921b/thumbnail/1200x630/e448c751f525a146f6d9335a051d8c34/1recall-025-2025-labels.jpg",
-      "publishedAt": "2025-07-03T13:09:18Z",
-      "content": "Kraft Heinz Foods Company, the parent company of Oscar Mayer, is recalling approximately 367,812 pounds of fully cooked turkey bacon due to potential listeria, a disease-causing bacteria, according t… [+2386 chars]"
     }
   ],
   "totalResults": 92,
