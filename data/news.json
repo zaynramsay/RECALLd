@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-07-10T02:05:46.404Z",
+  "lastUpdated": "2025-07-10T06:37:57.059Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Food recall 2025: Aldi warns customers to discard these popular items",
+      "description": "Aldi, a discount supermarket chain, recalls several food items across 37 US states. This action is precautionary. It aims to protect consumers from potential metal contamination and undeclared allergens like peanuts, milk, and soy. Affected products include t…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/food-recall-2025-aldi-warns-customers-to-discard-these-popular-items/articleshow/122331945.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122332457,width-1200,height-630,imgsize-479406,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-09T03:38:40Z",
+      "content": "Discount supermarket chain Aldi has issued recalls for several food products sold across 37 US states. In coordination with suppliers and federal agencies, the supermarket chain has asked customers t… [+2451 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -658,7 +671,7 @@
       },
       "author": "Frank Bergman",
       "title": "Major Study Warns COVID-Vaxxed Face Long-Term Brain Damage Risk",
-      "description": "A group of Italy’s leading scientists has issued an alarming warning of the devastating long-term health risks faced by those who received Covid mRNA “vaccines.���\nThe experimental medicine researchers found that people who received the injections face persiste…",
+      "description": "A group of Italy’s leading scientists has issued an alarming warning of the devastating long-term health risks faced by those who received Covid mRNA “vaccines.”\nThe experimental medicine researchers found that people who received the injections face persiste…",
       "url": "https://www.globalresearch.ca/covid-vaxxed-face-long-term-brain-damage-risk/5894019",
       "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/04/child-covid-vaccine-blood-clot-risk-15-years.jpeg",
       "publishedAt": "2025-07-06T14:25:35Z",
@@ -1183,19 +1196,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
       "publishedAt": "2025-07-03T14:00:00Z",
       "content": "Austin, July 03, 2025 (GLOBE NEWSWIRE) -- The Microplastic Detection Market\r\n size was valued at USD 4.55 billion in 2023 and is expected to reach USD 7.91 billion by 2032, growing at a CAGR of 6.41%… [+7395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Jianqin Ma, Shuoguo Yang, Qing Wu, Xiuping Hao, Bifeng Cui, Zhihong Su",
-      "title": "Study on the synergies and trade-offs of sectoral water use and their relationship with economic development",
-      "description": "Water scarcity is dynamic and complex, beyond geophysical stressors and responses, it is critical to also consider how multi-sector, multiscale economic teleconnections mitigate or exacerbate water shortages. This study analyzes the spatial and temporal chara…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327626",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327626.g008&size=inline",
-      "publishedAt": "2025-07-03T14:00:00Z",
-      "content": "Abstract\r\nWater scarcity is dynamic and complex, beyond geophysical stressors and responses, it is critical to also consider how multi-sector, multiscale economic teleconnections mitigate or exacerba… [+33735 chars]"
     }
   ],
   "totalResults": 92,
