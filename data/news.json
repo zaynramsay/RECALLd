@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-07-11T06:37:32.341Z",
+  "lastUpdated": "2025-07-11T12:52:15.696Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Rivers in southwest China breach warning levels, with thousands evacuated",
+      "description": "BEIJING: The levels of 25 rivers in southwestern China exceeded safe levels on Thursday (Jul 10), state media said, after more than 10,000 people were evacuated as the remnants of former typh",
+      "url": "https://www.channelnewsasia.com/east-asia/rivers-southwest-china-breach-warning-levels-thousands-evacuated-5231316",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--9rN-wXCH--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/china_flood_42085.jpg?itok=L0FcLW2p",
+      "publishedAt": "2025-07-10T09:29:20Z",
+      "content": "BEIJING: The levels of 25 rivers in southwestern China exceeded safe levels on Thursday (Jul 10), state media said, after more than 10,000 people were evacuated as the remnants of former typhoon Dana… [+1529 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -461,19 +474,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
-      "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
-      "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327789",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
-      "publishedAt": "2025-07-08T14:00:00Z",
-      "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
       "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
       "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access.   Methodology A cross-sectional study design was em…",
@@ -481,6 +481,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
       "publishedAt": "2025-07-08T14:00:00Z",
       "content": "Introduction\r\nTyphoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024… [+32082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
+      "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
+      "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327789",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
+      "publishedAt": "2025-07-08T14:00:00Z",
+      "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
     },
     {
       "source": {
@@ -1183,47 +1196,8 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-07-04T13:00:04Z",
       "content": "Microplastics are the latest hidden hazard worry for the world --  and now they've even been found in chewing gum. UCLA researchers have found that every time we chew gum, microplastics are released … [+10918 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Rob Kingsley, Professor, Microbiology, Quadram Institute",
-      "title": "Salmonella cases are at ten-year high in England – here’s what you can do to keep yourself safe",
-      "description": "There was a 17% increase in cases observed from 2023 to 2024 in the UK.",
-      "url": "https://theconversation.com/salmonella-cases-are-at-ten-year-high-in-england-heres-what-you-can-do-to-keep-yourself-safe-260032",
-      "urlToImage": "https://images.theconversation.com/files/677318/original/file-20250630-56-oogrw4.jpg?ixlib=rb-4.1.0&rect=0%2C224%2C6677%2C3338&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-07-04T12:38:45Z",
-      "content": "_Salmonella_ causes salmonellosis -- an infection that typically results in vomiting and diarrhoea. Lightspring/ Shutterstock\r\nSalmonella cases in England are the highest they’ve been in a decade, ac… [+6120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutritionfacts.org"
-      },
-      "author": "Michael Greger M.D. FACLM",
-      "title": "Friday Favorites: The Side Effects of 3-MCPD in Bragg’s Liquid Aminos and Refined Cooking Oils",
-      "description": "Chlorohydrin contaminates hydrolyzed vegetable protein products and refined oils.",
-      "url": "https://nutritionfacts.org/video/friday-favorites-the-side-effects-of-3-mcpd-in-braggs-liquid-aminos-and-refined-cooking-oils/",
-      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/06/1-friday-favorites-the-side-effects-of-3-mcpd-in-braggs-liquid-aminos-3-mcpd-in-refined-cooking-oils-1200x675.jpg",
-      "publishedAt": "2025-07-04T11:50:56Z",
-      "content": "Below is an approximation of this videos audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nIntro: You may see the ti… [+7172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Food Pathogen Testing Market Trends, Analysis, and Forecast 2025-2034 | CRISPR and Lab-on-a-Chip Technologies Set to Revolutionize Pathogen Detection",
-      "description": "The Global Food Pathogen Testing Market, valued at USD 10 billion in 2025, is projected to grow at a CAGR of 10%, reaching USD 23.5 billion by 2034. Growing food safety concerns and advancements in rapid testing methods, AI, and blockchain are driving this ex…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/04/3110268/28124/en/Food-Pathogen-Testing-Market-Trends-Analysis-and-Forecast-2025-2034-CRISPR-and-Lab-on-a-Chip-Technologies-Set-to-Revolutionize-Pathogen-Detection.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-07-04T08:56:00Z",
-      "content": "Dublin, July 04, 2025 (GLOBE NEWSWIRE) -- The \"Food Pathogen Testing Market Size, Share, Trends, Analysis, and Forecast 2025-2034 | Global Industry Growth, Competitive Landscape, Opportunities, and C… [+8729 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 92,
   "filteredCount": 0
 }
