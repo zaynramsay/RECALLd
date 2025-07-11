@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-10T18:35:37.748Z",
+  "lastUpdated": "2025-07-11T02:08:33.098Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Royal Society of Chemistry"
+      },
+      "author": "Riann Martin Sarza, Laura Sutarlie, Sam Fong Yau Li, Xiaodi Su",
+      "title": "Nanoparticle-based biosensors for virus detection in food systems: from farm to fork",
+      "description": "Nanoscale, 2025, Accepted ManuscriptDOI: 10.1039/D5NR01459J, Review Article Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Riann Martin Sarza, Laura Sutarlie, Sam Fong Yau Li, Xiaodi SuViral …",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01459j",
+      "urlToImage": null,
+      "publishedAt": "2025-07-09T23:00:00Z",
+      "content": "R. M. Sarza, L. Sutarlie, S. F. Y. Li and X. Su,\r\n Nanoscale, 2025, Accepted Manuscript\r\n, DOI: 10.1039/D5NR01459J\r\nThis article is licensed under a \r\n Creative Commons Attribution-NonCommercial 3.0 … [+966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Alex Portée",
+      "title": "Ritz Cracker Sandwiches Recalled After Labeling Error Poses Allergy Risk",
+      "description": "Mondelēz has issued a voluntary recall of several Ritz Peanut Butter Cracker Sandwich products due to a labeling error that could pose a serious risk to people with peanut allergies. Learn which items are affected and what to do if you have them.",
+      "url": "https://www.today.com/food/ritz-peanut-butter-crackers-recalled-rcna217851",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/ritz-crackers-ae-250709-214013.jpg",
+      "publishedAt": "2025-07-09T22:51:40Z",
+      "content": "Consumers of Ritz Crackers are being urged to check their snack shelves for products that could pose a serious risk for those with peanut allergies.\r\nOn July 8, the U.S. Food and Drug Administration … [+2700 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -110,19 +136,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Elisavet Stamataki, Guy De Mulder, Rosalie Hermans, Martine Vercauteren, Christophe Snoeck",
-      "title": "The seasonality experiment: Investigating how seasons affect the burning conditions of cremations",
-      "description": "This study investigates the influence of seasons and weather conditions on cremation processes, using experimental archaeology and advanced analytical techniques. Four outdoor cremation experiments were conducted across different seasons in Greece, during whi…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327478",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327478.g008&size=inline",
-      "publishedAt": "2025-07-09T14:00:00Z",
-      "content": "Pre-treatment of calcined bone fragments\r\nFollowing the recovery of the bones after the burning experiment, approximately 200mg of burned bone fragments were pre-treated for carbon and oxygen isotope… [+20414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Salih Akpınar, Neslihan Mutlu",
       "title": "Multidimensional analysis of honey from Eastern Anatolia (Kars): Pollen spectrum, physicochemical properties, and antimicrobial activity",
       "description": "This study investigates the physicochemical properties, pollen composition, and antimicrobial activity of honey samples collected from Kars province, Türkiye. A total of 30 honey samples were analyzed for moisture content (13.9–18.0%), pH (3.44–3.92), electri…",
@@ -130,6 +143,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327861.g003&size=inline",
       "publishedAt": "2025-07-09T14:00:00Z",
       "content": "Abstract\r\nThis study investigates the physicochemical properties, pollen composition, and antimicrobial activity of honey samples collected from Kars province, Türkiye. A total of 30 honey samples we… [+39327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Elisavet Stamataki, Guy De Mulder, Rosalie Hermans, Martine Vercauteren, Christophe Snoeck",
+      "title": "The seasonality experiment: Investigating how seasons affect the burning conditions of cremations",
+      "description": "This study investigates the influence of seasons and weather conditions on cremation processes, using experimental archaeology and advanced analytical techniques. Four outdoor cremation experiments were conducted across different seasons in Greece, during whi…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327478",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327478.g008&size=inline",
+      "publishedAt": "2025-07-09T14:00:00Z",
+      "content": "Pre-treatment of calcined bone fragments\r\nFollowing the recovery of the bones after the burning experiment, approximately 200mg of burned bone fragments were pre-treated for carbon and oxygen isotope… [+20414 chars]"
     },
     {
       "source": {
@@ -409,19 +435,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
-      "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
-      "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access.   Methodology A cross-sectional study design was em…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
-      "publishedAt": "2025-07-08T14:00:00Z",
-      "content": "Introduction\r\nTyphoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024… [+32082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
       "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
       "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
@@ -429,6 +442,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
       "publishedAt": "2025-07-08T14:00:00Z",
       "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
+      "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
+      "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access.   Methodology A cross-sectional study design was em…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
+      "publishedAt": "2025-07-08T14:00:00Z",
+      "content": "Introduction\r\nTyphoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024… [+32082 chars]"
     },
     {
       "source": {
@@ -1196,32 +1222,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-07-04T08:05:00Z",
       "content": "Dublin, July 04, 2025 (GLOBE NEWSWIRE) -- The \"United States Complementary and Alternative Medicine Market, By Region, Competition, Forecast &amp; Opportunities, 2020-2030F\" has been added to Researc… [+7149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theecologist.org"
-      },
-      "author": "brendan",
-      "title": "A million tiny cows",
-      "description": "A million tiny cows\n\n \n Channel\r\n\n Comment\r\n\n \nbrendan\n4th July 2025\n\n\n \n Teaser Media",
-      "url": "https://theecologist.org/2025/jul/04/million-tiny-cows",
-      "urlToImage": "https://theecologist.org/sites/default/files/styles/facebook/public/2025-07/28906486847_2503d32967_o.jpg?h=0d27ee61&itok=OeVd208L",
-      "publishedAt": "2025-07-04T06:00:00Z",
-      "content": "Regenerative agriculture is having a moment. From farming circles to food documentaries, its being framed as the answer to our broken food system. But theres a central contradiction in the way the te… [+2680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Plums: A superfood for digestive health and beyond",
-      "description": "Plums (especially prunes) are rich in fiber and sorbitol, a natural laxative, making them effective for treating chronic constipation and irritable bowel syndrome. Studies show plums can help reduce bone loss and lower LDL cholesterol, supporting bone density…",
-      "url": "https://www.naturalnews.com/2025-07-04-plum-a-superfood-for-digestion-and-beyond.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Prune-dried-plums-fruits-on-rustic-wooden-background-Dry-plums-in-a-wooden-bowl-Healthy-fruit.jpg",
-      "publishedAt": "2025-07-04T06:00:00Z",
-      "content": "<ul><li>Plums (especially prunes) are rich in fiber and sorbitol, a natural laxative, making them effective for treating chronic constipation and irritable bowel syndrome.</li><li>Studies show plums … [+6822 chars]"
     }
   ],
   "totalResults": 94,
