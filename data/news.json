@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-07-12T12:49:01.537Z",
+  "lastUpdated": "2025-07-12T18:33:06.083Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matt Cannon",
+      "title": "FDA Issues Risk Warning for Sunscreen Recall in Multiple States",
+      "description": "The affected products included popular sunscreens marketed under several brand names.",
+      "url": "https://www.newsweek.com/fda-issues-risk-warning-sunscreen-recall-multiple-states-2097826",
+      "urlToImage": "https://d.newsweek.com/en/full/2681418/sunscreen-stock-photo.jpg",
+      "publishedAt": "2025-07-11T15:56:15Z",
+      "content": "The U.S. Food and Drug Administration (FDA) has designated a recall of multiple sunscreen products as Class II, the second highest of its three risk categories.\r\nThe affected products included popula… [+4083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Pierre-Emmanuel Dupont",
+      "title": "Striking Iran’s Nuclear Facilities: International Law Scholars Warn of Precedent-Setting Violations",
+      "description": "Noting that the 120 Member States of the Non-Aligned Movement (NAM) ‘categorically condemn and denounce in the strongest terms the wanton, unprovoked, and premeditated heinous attack by Israel against the Islamic Republic of Iran on 13 June 2025’,[1] and that…",
+      "url": "https://www.globalresearch.ca/striking-iran-nuclear-facilities-precedent-setting-violations/5894530",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/06/natanz-nuclear-facility-iran.png",
+      "publishedAt": "2025-07-11T14:52:39Z",
+      "content": "Noting that the 120 Member States of the Non-Aligned Movement (NAM) categorically condemn and denounce in the strongest terms the wanton, unprovoked, and premeditated heinous attack by Israel against… [+27731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "FDA Issues Risk Warning as Apples Recalled in Four States",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of thousands of cases of fruits and vegetables has been issued due to potential contamination—the second-highest risk warning given by the U.S. Food and Drug Administration (FDA).\nUnited Natural Foods…",
+      "url": "https://biztoc.com/x/090f57278b62030e",
+      "urlToImage": "https://biztoc.com/cdn/090f57278b62030e_s.webp",
+      "publishedAt": "2025-07-11T14:19:26Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of thousands of cases of fruits and vegetables has been issued due to potential contaminationthe second-highest risk warning given by the U.S… [+145 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "FDA Issues Risk Warning as Apples Recalled in Four States",
+      "description": "A recall of thousands of cases of fruits and vegetables has been issued due to potential fluid contamination—the second-highest risk warning given by the FDA.",
+      "url": "https://www.newsweek.com/apples-recalled-four-states-fda-issues-second-highest-risk-warning-2097798",
+      "urlToImage": "https://d.newsweek.com/en/full/2681289/apples.jpg",
+      "publishedAt": "2025-07-11T14:11:52Z",
+      "content": "A recall of thousands of cases of fruits and vegetables has been issued due to potential contamination—the second-highest risk warning given by the U.S. Food and Drug Administration (FDA).\r\nUnited Na… [+6458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Rachel Morreale, Danilo O. Carvalho, Steven Stenhouse, Johanna Bajonero, Rui Pereira, Daniel A. Hahn, Aaron Lloyd, David F. Hoel",
+      "title": "Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022",
+      "description": "Author summary Aedes aegypti is a major nuisance mosquito in many warm places across the world. This species is particularly significant for vector control programs because it has high capacity to transmit viruses that can cause human disease including dengue…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013256.g005&size=inline",
+      "publishedAt": "2025-07-11T14:00:00Z",
+      "content": "Abstract\r\nAedes aegypti, an aggressive nuisance biter and the primary vector for numerous arboviruses, such as chikungunya, dengue, and Zika, presents significant control challenges due to its abilit… [+68861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Daniel A. Andrade, Ana Ho-Palma, Cesar A. Valdivia-Carrera, Astrid Munguia, Christine Leyns, Javier Guitian, Eloy Gonzales-Gustavson",
+      "title": "Association between self-administrated prophylactics and SARS-CoV-2 infection among traditional market vendors from the Central Highlands of Peru: A nested case-control study",
+      "description": "Although COVID-19 is no longer a public health emergency of international concern, understanding behaviours such as self-medication remains relevant for informing future outbreak responses and improving public health preparedness. Despite its widespread use d…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327746",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327746.g004&size=inline",
+      "publishedAt": "2025-07-11T14:00:00Z",
+      "content": "Citation: Andrade DA, Ho-Palma A, Valdivia-Carrera CA, Munguia A, Leyns C, Guitian J, et al. (2025) Association between self-administrated prophylactics and SARS-CoV-2 infection among traditional mar… [+42285 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Anum Adil, Saira Saeed Khan, Sadaf Naeem, Ali Alqahtani, Taha Alqahtani, Ali Asgher Shuja, Anosh Tahir",
+      "title": "Evaluation of Sub-acute toxicity and safety profile of Charmagaz seed oil in rats",
+      "description": "Charmagaz seed oil (CSO), derived from Cucurbitaceae family, and is a traditional mix of four different seeds: pumpkin, cucumber, watermelon, and musk melon. Widely utilized in Asia, this blend is considered as a brain tonic and a nutritional powerhouse. Desp…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327697",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327697.g004&size=inline",
+      "publishedAt": "2025-07-11T14:00:00Z",
+      "content": "Citation: Adil A, Khan SS, Naeem S, Alqahtani A, Alqahtani T, Asgher Shuja A, et al. (2025) Evaluation of Sub-acute toxicity and safety profile of Charmagaz seed oil in rats. PLoS One 20(7):\r\n e03276… [+39924 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -214,19 +305,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Md. Aftabuddin Rumi, Pronesh Dutta, Monjurul Islam, Md Abu Sayeed, Md Kaisar Rahman, Md Helal Uddin, Shariful Islam, Ricardo J. Soares Magalhaes, Jonathan H. Epstein, Mohammad Mahmudul Hassan, Ariful Islam",
-      "title": "Prevalence and risk factors of antimicrobial resistance patterns of Staphylococcus spp. and E. coli in rodents and shrews at human-animal interfaces in Chattogram, Bangladesh",
-      "description": "Antimicrobial resistance (AMR) poses a significant threat to human and animal health worldwide. Wild rodents and shrews may serve as bioindicators of environmental health. They may serve as a potential source of the transmission of AMR bacterial infections to…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327857",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327857.g009&size=inline",
-      "publishedAt": "2025-07-10T14:00:00Z",
-      "content": "Abstract\r\nAntimicrobial resistance (AMR) poses a significant threat to human and animal health worldwide. Wild rodents and shrews may serve as bioindicators of environmental health. They may serve as… [+52478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Rasel Barua, Paul Pavli, David Gordon, Claire O’Brien",
       "title": "Diversity, distribution, and population structure of Escherichia coli in the lower gastrointestinal tract of humans",
       "description": "Several studies report the diversity, and population structure of Escherichia coli (E. coli) in the human gut, but most used faecal specimens as the source of E. coli for analysis. In the present study, we collected mucosal biopsies from three different locat…",
@@ -234,6 +312,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328147.g009&size=inline",
       "publishedAt": "2025-07-10T14:00:00Z",
       "content": "Abstract\r\nSeveral studies report the diversity, and population structure of Escherichia coli (E. coli) in the human gut, but most used faecal specimens as the source of E. coli for analysis. In the p… [+47993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Md. Aftabuddin Rumi, Pronesh Dutta, Monjurul Islam, Md Abu Sayeed, Md Kaisar Rahman, Md Helal Uddin, Shariful Islam, Ricardo J. Soares Magalhaes, Jonathan H. Epstein, Mohammad Mahmudul Hassan, Ariful Islam",
+      "title": "Prevalence and risk factors of antimicrobial resistance patterns of Staphylococcus spp. and E. coli in rodents and shrews at human-animal interfaces in Chattogram, Bangladesh",
+      "description": "Antimicrobial resistance (AMR) poses a significant threat to human and animal health worldwide. Wild rodents and shrews may serve as bioindicators of environmental health. They may serve as a potential source of the transmission of AMR bacterial infections to…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327857",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327857.g009&size=inline",
+      "publishedAt": "2025-07-10T14:00:00Z",
+      "content": "Abstract\r\nAntimicrobial resistance (AMR) poses a significant threat to human and animal health worldwide. Wild rodents and shrews may serve as bioindicators of environmental health. They may serve as… [+52478 chars]"
     },
     {
       "source": {
@@ -409,19 +500,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Salih Akpınar, Neslihan Mutlu",
-      "title": "Multidimensional analysis of honey from Eastern Anatolia (Kars): Pollen spectrum, physicochemical properties, and antimicrobial activity",
-      "description": "This study investigates the physicochemical properties, pollen composition, and antimicrobial activity of honey samples collected from Kars province, Türkiye. A total of 30 honey samples were analyzed for moisture content (13.9–18.0%), pH (3.44–3.92), electri…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327861",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327861.g003&size=inline",
-      "publishedAt": "2025-07-09T14:00:00Z",
-      "content": "Abstract\r\nThis study investigates the physicochemical properties, pollen composition, and antimicrobial activity of honey samples collected from Kars province, Türkiye. A total of 30 honey samples we… [+39327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Elisavet Stamataki, Guy De Mulder, Rosalie Hermans, Martine Vercauteren, Christophe Snoeck",
       "title": "The seasonality experiment: Investigating how seasons affect the burning conditions of cremations",
       "description": "This study investigates the influence of seasons and weather conditions on cremation processes, using experimental archaeology and advanced analytical techniques. Four outdoor cremation experiments were conducted across different seasons in Greece, during whi…",
@@ -429,6 +507,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327478.g008&size=inline",
       "publishedAt": "2025-07-09T14:00:00Z",
       "content": "Pre-treatment of calcined bone fragments\r\nFollowing the recovery of the bones after the burning experiment, approximately 200mg of burned bone fragments were pre-treated for carbon and oxygen isotope… [+20414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Salih Akpınar, Neslihan Mutlu",
+      "title": "Multidimensional analysis of honey from Eastern Anatolia (Kars): Pollen spectrum, physicochemical properties, and antimicrobial activity",
+      "description": "This study investigates the physicochemical properties, pollen composition, and antimicrobial activity of honey samples collected from Kars province, Türkiye. A total of 30 honey samples were analyzed for moisture content (13.9–18.0%), pH (3.44���3.92), electri…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327861",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327861.g003&size=inline",
+      "publishedAt": "2025-07-09T14:00:00Z",
+      "content": "Abstract\r\nThis study investigates the physicochemical properties, pollen composition, and antimicrobial activity of honey samples collected from Kars province, Türkiye. A total of 30 honey samples we… [+39327 chars]"
     },
     {
       "source": {
@@ -467,7 +558,7 @@
       "url": "https://www.newsweek.com/cucumber-recall-fda-issues-highest-risk-warning-class-1-salmonella-2096529",
       "urlToImage": "https://d.newsweek.com/en/full/2679506/cucumbers.jpg",
       "publishedAt": "2025-07-09T11:49:33Z",
-      "content": "A recall of cucumbers due to potential salmonella contamination has been issued with the highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nFuentes Farms LLC, based in Texas, annou… [+3886 chars]"
+      "content": "A recall of cucumbers due to potential salmonella contamination has been issued with the highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nFuentes Farms LLC, based in Texas, annou��� [+3886 chars]"
     },
     {
       "source": {
@@ -1118,97 +1209,6 @@
       "urlToImage": "https://images.theconversation.com/files/678393/original/file-20250705-56-tbiczw.jpg?ixlib=rb-4.1.0&rect=0%2C141%2C2297%2C1148&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-07-07T10:06:40Z",
       "content": "Urban water bodies – rivers, lakes and oceans – are in trouble globally. Large sewage volumes damage the open environment, and new chemicals and pharmaceutical compounds don’t break down on their own… [+8696 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Rob Kingsley",
-      "title": "Here’s how to avoid Salmonella as cases in England reach ten-year high",
-      "description": "Salmonella is a species of bacteria that is one of the most common causes of foodborne illnesses globally",
-      "url": "https://www.the-independent.com/life-style/health-and-families/salmonella-symptoms-poisoning-england-b2783862.html",
-      "urlToImage": "https://static.the-independent.com/2022/05/12/14/18948e1f7188c12417838d6821f0d6ceY29udGVudHNlYXJjaGFwaSwxNjUyNDQ0NzI4-2.30166117.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-07-07T09:50:01Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+7003 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "In a nation growing hostile toward homelessness, L.A. tries harm reduction",
-      "description": "A new care center for homeless people on Los Angeles' infamous Skid Row embraces the principle of harm reduction, a more lenient approach to drug use and addiction.",
-      "url": "https://www.cbsnews.com/news/los-angeles-harm-reduction-drugs-homelessness/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/03/14a732ad-e9f6-4636-a5b0-49e24c50869c/thumbnail/1200x630/b564870d266ac4464c53c414388b4743/skidrow-05.jpg",
-      "publishedAt": "2025-07-07T09:00:12Z",
-      "content": "Los Angeles — Inside a bright new building in the heart of Skid Row, homeless people hung out in a canopy-covered courtyard — some waiting to take a shower, do laundry, or get medication for addictio… [+11825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "S.D. Wells",
-      "title": "PETROCHEMICAL PESTICIDES and synthetic fertilizers driving cancer rates through the roof along with Covid clot shots â better go organic and avoid the jabs",
-      "description": "A growing body of scientific research and personal testimony is painting a stark picture of a cancer crisis unfolding in America’s agricultural heartland. An article from The New Lede, titled “Seeking answers to a cancer crisis in Iowa,” documents deeply trou…",
-      "url": "https://www.naturalnews.com/2025-07-07-petrochemical-pesticides-synthetic-fertilizers-driving-cancer-rates.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pesticide-Spray-Soy-Soybean-Farm-Crop-Sprayer.jpg",
-      "publishedAt": "2025-07-07T06:00:00Z",
-      "content": "A growing body of scientific research and personal testimony is painting a stark picture of a cancer crisis unfolding in America's agricultural heartland. An article from The New Lede, titled \"Seekin… [+5181 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Undisclosed milk allergen prompts RECALL of chocolates sold in 8 states",
-      "description": "Wegmans Semi-Sweet Chocolate Nonpareils were voluntarily recalled due to undeclared milk allergens, posing a serious risk of allergic reactions. The product was sold in multiple states in 18.5-ounce tubs with specific UPC and lot codes. This recall follows si…",
-      "url": "https://www.naturalnews.com/2025-07-07-undisclosed-milk-allergen-prompts-recall-of-chocolates.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Milk-Chocolate-Candy-Bar.jpg",
-      "publishedAt": "2025-07-07T06:00:00Z",
-      "content": "<ul><li>Wegmans Semi-Sweet Chocolate Nonpareils were voluntarily recalled due to undeclared milk allergens, posing a serious risk of allergic reactions. The product was sold in multiple states in 18.… [+4450 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Costco issues urgent recalls: Shoppers told to stop using power banks, air conditioners, tires, and more",
-      "description": "Costco is recalling nearly a dozen popular items, including electronics, tires, and food, due to safety and health hazards. Recalls were prompted by reports of injuries, fire risks, microbial contamination, and manufacturing defects. Customers are urged to im…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/costco-issues-urgent-recalls-shoppers-told-to-stop-using-power-banks-air-conditioners-tires-and-more/articleshow/122289658.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122289673,width-1200,height-630,imgsize-170076,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-07T04:59:15Z",
-      "content": "Costco is recalling nearly a dozen popular items, including electronics, tires, and food, due to safety and health hazards. Recalls were prompted by reports of injuries, fire risks, microbial contami… [+182 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "High Levels of Arsenic Discovered in US Rice",
-      "description": "More than 1 in 4 rice products sold in the U.S. now exceed the U.S. Food and Drug Administration's (FDA) arsenic limit for infant cereal.1 This isn't about obscure brands or specialty imports. It's about the same white and brown rice that millions of families…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/07/07/high-levels-arsenic-discovered-us-rice.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/July/FB/high-levels-arsenic-discovered-us-rice-fb.jpg",
-      "publishedAt": "2025-07-07T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Frank Bergman",
-      "title": "Major Study Warns COVID-Vaxxed Face Long-Term Brain Damage Risk",
-      "description": "A group of Italy’s leading scientists has issued an alarming warning of the devastating long-term health risks faced by those who received Covid mRNA “vaccines.”\nThe experimental medicine researchers found that people who received the injections face persiste…",
-      "url": "https://www.globalresearch.ca/covid-vaxxed-face-long-term-brain-damage-risk/5894019",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/04/child-covid-vaccine-blood-clot-risk-15-years.jpeg",
-      "publishedAt": "2025-07-06T14:25:35Z",
-      "content": "A group of Italys leading scientists has issued an alarming warning of the devastating long-term health risks faced by those who received Covid mRNA vaccines.\r\nThe experimental medicine researchers f… [+7479 chars]"
     }
   ],
   "totalResults": 93,
