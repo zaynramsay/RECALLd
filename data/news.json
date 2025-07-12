@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-12T02:09:03.827Z",
+  "lastUpdated": "2025-07-12T06:34:54.415Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Cassie B.",
+      "title": "Toxic lead paint used as food coloring sickens 233 Chinese children, exposing systemic corruption",
+      "description": "More than 200 children in Gansu Province suffered severe lead poisoning after kindergarten staff fed them food dyed with toxic industrial paint, exceeding safety limits by 2,000 times. Investigations revealed staff intentionally used non-edible paint to color…",
+      "url": "https://www.naturalnews.com/2025-07-11-toxic-paint-food-coloring-chinese-children.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Lead-Periodic-Table.jpg",
+      "publishedAt": "2025-07-11T06:00:00Z",
+      "content": "<ul><li>More than 200 children in Gansu Province suffered severe lead poisoning after kindergarten staff fed them food dyed with toxic industrial paint, exceeding safety limits by 2,000 times.</li><l… [+4478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "The hidden dangers of “convenience” foods",
+      "description": "Four percent of supermarket salads across Europe were found to be contaminated with Toxoplasma gondii, a brain-affecting parasite that can cause severe illness in pregnant women and vulnerable individuals. Bacteria like E. coli, Listeria and Salmonella are on…",
+      "url": "https://www.naturalnews.com/2025-07-11-the-hidden-dangers-of-convenience-foods.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Woman-Shop-Organic-Greens-Vegetables-Market-Grocery-1.jpg",
+      "publishedAt": "2025-07-11T06:00:00Z",
+      "content": "<ul><li>Four percent of supermarket salads across Europe were found to be contaminated with Toxoplasma gondii, a brain-affecting parasite that can cause severe illness in pregnant women and vulnerabl… [+7483 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -267,7 +293,7 @@
         "name": "TODAY"
       },
       "author": "Joseph Lamour",
-      "title": "Viral Toast-Buttering Technique Divides Internet: ‘It’s Genius and I Hate It���",
+      "title": "Viral Toast-Buttering Technique Divides Internet: ‘It’s Genius and I Hate It’",
       "description": "TikToker @marfmaay goes viral for her simple yet highly controversial method for buttering toast: directly from the stick.",
       "url": "https://www.today.com/food/trends/viral-toast-buttering-technique-divides-internet-rcna217580",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/butter-hack-250708-21be7d.jpg",
@@ -467,7 +493,7 @@
       "url": "https://www.naturalnews.com/2025-07-09-pears-nutritious-fruit-digestive-health-disease-prevention.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pears-Fruits.jpg",
       "publishedAt": "2025-07-09T06:00:00Z",
-      "content": "<ul><li>Pears are packed with fiber, vitamin C, potassium and antioxidants like flavonoids, supporting digestion, immunity and heart health.</li><li>High in soluble fiber (pectin), they promote regul… [+7467 chars]"
+      "content": "<ul><li>Pears are packed with fiber, vitamin C, potassium and antioxidants like flavonoids, supporting digestion, immunity and heart health.</li><li>High in soluble fiber (pectin), they promote regul�� [+7467 chars]"
     },
     {
       "source": {
@@ -623,7 +649,7 @@
       "url": "https://www.newsweek.com/cheese-curd-recall-fda-risk-class-one-face-rock-creamery-2095980",
       "urlToImage": "https://d.newsweek.com/en/full/2678756/face-rock-creamery-llc-fda.jpg",
       "publishedAt": "2025-07-08T14:08:38Z",
-      "content": "A recall of cheese curds over potential contamination with Listeria monocytogenes has received the highest risk warning from the Food and Drug Administration (FDA).\r\nFace Rock Creamery LLC, based in … [+4601 chars]"
+      "content": "A recall of cheese curds over potential contamination with Listeria monocytogenes has received the highest risk warning from the Food and Drug Administration (FDA).\r\nFace Rock Creamery LLC, based in ��� [+4601 chars]"
     },
     {
       "source": {
@@ -1183,21 +1209,8 @@
       "urlToImage": null,
       "publishedAt": "2025-07-06T07:02:46Z",
       "content": "By Farangis Najibullah July 06, 2025\r\nKabul could become the world's first capital to run out of water completely, experts say, blaming the crisis on rapid population growth, climate change, and mism… [+6154 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Chocolate almonds recall elevated to higher risk level due to contamination with undeclared allergen",
-      "description": "The popular snack was initially recalled last month",
-      "url": "https://www.the-independent.com/life-style/chocolate-almonds-recall-meijer-fda-class-2-b2783422.html",
-      "urlToImage": "https://static.the-independent.com/2025/07/05/20/45/iStock-1363354813.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-07-06T06:53:21Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3947 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
