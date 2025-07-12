@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-11T18:35:24.860Z",
+  "lastUpdated": "2025-07-12T02:09:03.827Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Vending Machine Products Recall Map Shows States With New Warning",
+      "description": "Sheehan Brothers Vending is recalling numerous products due to an undeclared sesame allergen missing from the products' labels.",
+      "url": "https://www.newsweek.com/vending-machine-products-recall-map-shows-states-new-warning-2097517",
+      "urlToImage": "https://d.newsweek.com/en/full/2680928/recalled-italian-mini-sub.png",
+      "publishedAt": "2025-07-10T20:56:04Z",
+      "content": "Sheehan Brothers Vending is recalling numerous products due to an undeclared sesame allergen missing from the products' labels.\r\nNewsweek reached out to the company via phone Thursday for comment and… [+3244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joey Skladany",
+      "title": "Don't Put Your Takeout Containers in The Microwave. Here's Why",
+      "description": "Certain takeout containers should never be used to reheat food.",
+      "url": "https://www.cnet.com/home/dont-put-your-takeout-containers-in-the-microwave-heres-why/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/cee5f83b28719635427fca5b5c13f3935c3ed2e7/hub/2025/05/27/ac8a8b3e-7367-403e-abdc-0f84e444670b/gettyimages-1289897698.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-10T20:00:00Z",
+      "content": "When hunger and laziness coincide, reheating last night's leftovers in the microwave seems like a great idea. But if you reheat them in the plastic container they came in, you could be ingesting micr… [+6374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "Roger Simmermaker",
+      "title": "Terravive is on track to help revive American manufacturing",
+      "description": "Products are high quality, great for the environment, and support 3 distribution centers run by both union and non-union staff",
+      "url": "https://www.wnd.com/2025/07/terravive-is-track-help-revive-american-manufacturing/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2018/04/ocean_plastic.jpg",
+      "publishedAt": "2025-07-10T18:59:25Z",
+      "content": "Ocean plastic\r\nWhen you find products used by consumers and businesses that support American jobs and are also environmentally friendly, that is definitely something to look into. At www.terravive.co… [+4230 chars]"
+    },
     {
       "source": {
         "id": "newsweek",
@@ -228,7 +267,7 @@
         "name": "TODAY"
       },
       "author": "Joseph Lamour",
-      "title": "Viral Toast-Buttering Technique Divides Internet: ‘It’s Genius and I Hate It’",
+      "title": "Viral Toast-Buttering Technique Divides Internet: ‘It’s Genius and I Hate It���",
       "description": "TikToker @marfmaay goes viral for her simple yet highly controversial method for buttering toast: directly from the stick.",
       "url": "https://www.today.com/food/trends/viral-toast-buttering-technique-divides-internet-rcna217580",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/butter-hack-250708-21be7d.jpg",
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://static.the-independent.com/2025/07/05/20/45/iStock-1363354813.jpeg?width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-07-06T06:53:21Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3947 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fstoppers"
-      },
-      "author": "Alex Cooke",
-      "title": "What It Was Like Getting Your First Roll of Film Developed",
-      "description": "Sarah clutched the yellow Kodak mailer envelope like it contained state secrets. Inside, a single roll of Kodak Gold 200—thirty-six exposures of her life over the past three weeks, wound tight in its metallic canister. The year was 1994, and at seventeen, she…",
-      "url": "https://fstoppers.com/fiction/what-it-was-getting-your-first-roll-film-developed-705779",
-      "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/07/iss_18455_02710.jpg",
-      "publishedAt": "2025-07-05T21:03:01Z",
-      "content": "Sarah clutched the yellow Kodak mailer envelope like it contained state secrets. Inside, a single roll of Kodak Gold 200thirty-six exposures of her life over the past three weeks, wound tight in its … [+34858 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Chocolate almonds recall elevated to higher risk level due to contamination with undeclared allergen",
-      "description": "The popular snack was initially recalled last month",
-      "url": "https://www.the-independent.com/life-style/chocolate-almonds-recall-fda-allergen-b2783343.html",
-      "urlToImage": "https://static.the-independent.com/2025/07/05/20/45/iStock-1363354813.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-07-05T20:43:38Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3947 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "author": "Kyra Piperides",
-      "title": "Chinese Astronauts Go To Space And Discover A Never-Before-Identified Pathogen",
-      "description": "As more people - and their respective pathogens - travel to space, it is likely that this is only the beginning.",
-      "url": "http://twistedsifter.com/2025/07/chinese-astronauts-go-to-space-and-discover-a-never-before-identified-pathogen/",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/06/Petri-Dish.jpg",
-      "publishedAt": "2025-07-05T19:49:46Z",
-      "content": "Pexels\r\nWhen astronauts go to space, there’s no doctors to care for them if they get sick.\r\nThat’s why astronauts are given significant first aid training, with an astronaut sustaining an injury able… [+3002 chars]"
     }
   ],
   "totalResults": 92,
