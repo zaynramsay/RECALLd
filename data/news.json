@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-07-13T12:49:13.795Z",
+  "lastUpdated": "2025-07-13T18:33:17.181Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Taylor Leamey",
+      "title": "8 Foods With Microplastics Hidden in Them and How to Limit Your Consumption",
+      "description": "You might be surprised by how many of these everyday foods have microplastics inside.",
+      "url": "https://www.cnet.com/health/nutrition/8-foods-with-microplastics-hidden-in-them-and-how-to-limit-consumption/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-12T15:00:05Z",
+      "content": "It's official: Microplastics are in more than just fish. They seem to be in everything now, even mundane things like chewing gum. UCLA researchers found that microplastics are released directly into … [+10718 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -415,7 +428,7 @@
       "url": "https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01459j",
       "urlToImage": null,
       "publishedAt": "2025-07-09T23:00:00Z",
-      "content": "R. M. Sarza, L. Sutarlie, S. F. Y. Li and X. Su,\r\n Nanoscale, 2025, Accepted Manuscript\r\n, DOI: 10.1039/D5NR01459J\r\nThis article is licensed under a \r\n Creative Commons Attribution-NonCommercial 3.0 … [+966 chars]"
+      "content": "R. M. Sarza, L. Sutarlie, S. F. Y. Li and X. Su,\r\n Nanoscale, 2025, Accepted Manuscript\r\n, DOI: 10.1039/D5NR01459J\r\nThis article is licensed under a \r\n Creative Commons Attribution-NonCommercial 3.0 ��� [+966 chars]"
     },
     {
       "source": {
@@ -1156,7 +1169,7 @@
       "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012920",
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012920.g005&size=inline",
       "publishedAt": "2025-07-07T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nTriatomine bugs (Hemiptera, Reduviidae, Triatominae) are blood-sucking vectors of the protozoan parasite, Trypanosoma cruzi, which causes Chagas disease, a significant source of��� [+60504 chars]"
+      "content": "Abstract\r\nBackground\r\nTriatomine bugs (Hemiptera, Reduviidae, Triatominae) are blood-sucking vectors of the protozoan parasite, Trypanosoma cruzi, which causes Chagas disease, a significant source of… [+60504 chars]"
     },
     {
       "source": {
@@ -1209,19 +1222,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686bcfc2942821c42fe5b328/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-07T13:57:10Z",
       "content": "Spain's Prime Minister Pedro Sanchez arrives for a press briefing on the Seville Platform for Action ... More (SPA) initiative launched during the United Nations 4th International Conference on Finan… [+14011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "In pictures: The evidence in Erin Patterson's mushroom murder trial",
-      "description": "An Australian woman has been found guilty by a jury of murdering three relatives with a deadly family lunch.",
-      "url": "https://www.bbc.com/news/articles/cdx5e9dldqwo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/eaef/live/db01bd80-5b24-11f0-b5c5-012c5796682d.jpg",
-      "publishedAt": "2025-07-07T13:20:12Z",
-      "content": "Watch: CCTV and audio shown to court in mushroom trial\r\nAustralian woman Erin Patterson has been found guilty by a jury of murdering three relatives with a beef Wellington meal that had toxic mushroo… [+4082 chars]"
     }
   ],
   "totalResults": 94,
