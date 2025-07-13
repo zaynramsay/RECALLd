@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-13T06:35:35.208Z",
+  "lastUpdated": "2025-07-13T12:49:13.795Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Michael Sullivan",
+      "title": "In Myanmar, a rush for rare earth metals is causing a regional environmental disaster",
+      "description": "A drastic increase in unregulated production of rare earth minerals in Myanmar is causing serious environmental concerns downriver in Thailand, as China's influence in the sector looms large.",
+      "url": "https://www.npr.org/2025/07/12/nx-s1-5437955/myanmar-rare-earth-metals-regional-environmental-disaster",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+1/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2Fd6%2F15f7b7d6425391711dda46e90bdb%2F20250606-102533.jpg",
+      "publishedAt": "2025-07-12T12:29:05Z",
+      "content": "THA TON, Thailand The Wat Tha Ton Temple sits high above the tourist town of Tha Ton, with a magnificent view of the Kok River valley to the south and an equally impressive view of the river winding … [+7384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Diana Bruk",
+      "title": "I’m a neurologist — 3 foods I won’t eat because they could give you neurotoxins or brain parasites",
+      "description": "In a viral TikTok, a neurologist reveals three foods that he tries to avoid because they may harbor toxins and nasty bugs.",
+      "url": "https://nypost.com/2025/07/12/health/3-foods-a-neurologist-wont-eat-because-of-toxins-and-parasites/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/107910058.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-07-12T12:00:00Z",
+      "content": "Talk about a no-brainer. \r\nThere are several foods you can eat for better brain health, such as fatty fish, leafy greens, nuts, berries, tomatoes and coffee.\r\nThese nutrient powerhouses provide vitam… [+3489 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1130,7 +1156,7 @@
       "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012920",
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012920.g005&size=inline",
       "publishedAt": "2025-07-07T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nTriatomine bugs (Hemiptera, Reduviidae, Triatominae) are blood-sucking vectors of the protozoan parasite, Trypanosoma cruzi, which causes Chagas disease, a significant source of… [+60504 chars]"
+      "content": "Abstract\r\nBackground\r\nTriatomine bugs (Hemiptera, Reduviidae, Triatominae) are blood-sucking vectors of the protozoan parasite, Trypanosoma cruzi, which causes Chagas disease, a significant source of��� [+60504 chars]"
     },
     {
       "source": {
@@ -1196,32 +1222,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/eaef/live/db01bd80-5b24-11f0-b5c5-012c5796682d.jpg",
       "publishedAt": "2025-07-07T13:20:12Z",
       "content": "Watch: CCTV and audio shown to court in mushroom trial\r\nAustralian woman Erin Patterson has been found guilty by a jury of murdering three relatives with a beef Wellington meal that had toxic mushroo… [+4082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "Japan Testing, Inspection & Certification Market to Worth Over US$ 21.35 Billion by 2033 | Astute Analytica",
-      "description": "Japan’s testing, inspection & certification market gains momentum as regulations intensify. Digitalized remote audits and advanced battery, semiconductor, and biocompatibility labs address emerging risks. Global–local alliances now deliver continuous, lifecyc…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/07/3111013/0/en/Japan-Testing-Inspection-Certification-Market-to-Worth-Over-US-21-35-Billion-by-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-07-07T12:30:00Z",
-      "content": "Chicago, July 07, 2025 (GLOBE NEWSWIRE) -- The Japan testing, inspection &amp; certification market was valued at US$ 14.12 billion in 2024 and is expected to reach US$ 21.35 billion by 2033, growing… [+17600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Lesley Green, Professor of Earth Politics and Director: Environmental Humanities South, University of Cape Town, Cecilia Yejide Ojemaye, Researcher, University of Cape Town, Jo Barnes, Senior Lecturer Emeritus, Stellenbosch University, Leslie Petrik, Professor / Leader of the Environmental and Nanoscience Research Group, University of the Western Cape, Nikiwe Solomon, Senior Lecturer, University of Cape Town, Vanessa Farr, Senior Research Fellow, Sheffield Hallam University",
-      "title": "Cape Town’s sewage treatment isn’t coping: scientists are worried about what the city is telling the public",
-      "description": "Current science communications in Cape Town are not serving the public well.",
-      "url": "https://theconversation.com/cape-towns-sewage-treatment-isnt-coping-scientists-are-worried-about-what-the-city-is-telling-the-public-260317",
-      "urlToImage": "https://images.theconversation.com/files/678393/original/file-20250705-56-tbiczw.jpg?ixlib=rb-4.1.0&rect=0%2C141%2C2297%2C1148&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-07-07T10:06:40Z",
-      "content": "Urban water bodies – rivers, lakes and oceans – are in trouble globally. Large sewage volumes damage the open environment, and new chemicals and pharmaceutical compounds don’t break down on their own… [+8696 chars]"
     }
   ],
   "totalResults": 94,
