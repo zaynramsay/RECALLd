@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-14T02:18:50.688Z",
+  "lastUpdated": "2025-07-14T06:39:40.264Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "FDA raises recall level for blood pressure drugs from India",
+      "description": "The FDA elevated Granules Pharmaceuticals’ recall of metoprolol succinate from Class III (low risk) to Class II (moderate risk) after failed stability tests, citing potential reduced effectiveness due to dissolution failures in extended-release tablets. The r…",
+      "url": "https://www.naturalnews.com/2025-07-13-fda-raises-recall-level-hypertension-drugs-india.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Prescription-Medicine-Orange-Caplet-Disease-Doctor-Drug.jpg",
+      "publishedAt": "2025-07-13T06:00:00Z",
+      "content": "<ul><li>The FDA elevated Granules Pharmaceuticals' recall of metoprolol succinate from Class III (low risk) to Class II (moderate risk) after failed stability tests, citing potential reduced effectiv… [+5216 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "France’s largest tap water ban exposes global threat of ‘forever chemicals’",
+      "description": "A tap water ban in eastern France due to high PFAS levels has spotlighted the dangers of these \"forever chemicals.\" The contamination, linked to firefighting foam, affects 60,000 people, with blood tests revealing alarming PFAS concentrations. Exposure to PFA…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/frances-largest-tap-water-ban-exposes-global-threat-of-forever-chemicals/articleshow/122414221.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122414218,width-1200,height-630,imgsize-1297599,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-13T03:31:27Z",
+      "content": "A sweeping ban on tap water in eastern France has thrust the dangers of forever chemicals into the global spotlight, raising urgent questions about water safety and chemical pollution in communities … [+2715 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -864,19 +890,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
-      "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
-      "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327789",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
-      "publishedAt": "2025-07-08T14:00:00Z",
-      "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
       "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
       "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access.   Methodology A cross-sectional study design was em…",
@@ -884,6 +897,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
       "publishedAt": "2025-07-08T14:00:00Z",
       "content": "Introduction\r\nTyphoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024… [+32082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
+      "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
+      "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327789",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
+      "publishedAt": "2025-07-08T14:00:00Z",
+      "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
     },
     {
       "source": {
@@ -1196,32 +1222,6 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013290.g003&size=inline",
       "publishedAt": "2025-07-07T14:00:00Z",
       "content": "Abstract\r\nBackground\r\nImplementing the sterile insect technique (SIT) in areas with high-density target mosquito populations throughout the year is challenging. This study evaluated the effectiveness… [+52655 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Nelson Frazão, Elsa Seixas, Manolo Mischler, Jorge Moura-de-Sousa, Hugo C. Barreto, Isabel Gordo",
-      "title": "Clonal interference and genomic repair during strain coexistence in the gut",
-      "description": "Author summary Escherichia coli is a common species colonizing the intestine of many mammals including humans. Typically, more than one strain of this species colonizes the gut at a given time. While several works have studied adaptation of a single strain of…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011777",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011777.g004&size=inline",
-      "publishedAt": "2025-07-07T14:00:00Z",
-      "content": "Citation: Frazão N, Seixas E, Mischler M, Moura-de-Sousa J, Barreto HC, Gordo I (2025) Clonal interference and genomic repair during strain coexistence in the gut. PLoS Genet 21(7):\r\n e1011777.\r\nhttp… [+63175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Leonor Miller-Fleming, Wing Hei Au, Laura Raik, Pedro Rebelo-Guiomar, Jasper Schmitz, Ha Yoon Cho, Aron Czako, Alexander J. Whitworth",
-      "title": "Clu1/Clu form mitochondria-associated granules upon metabolic transitions and regulate mitochondrial protein translation via ribosome interactions",
-      "description": "Author summary Mitochondria are essential cellular organelles that perform many important roles in regulating metabolism. They are dynamic in form, function and composition which is crucial to maintain highly energy-demanding tissues, though which factors coo…",
-      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011773",
-      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011773.g008&size=inline",
-      "publishedAt": "2025-07-07T14:00:00Z",
-      "content": "Citation: Miller-Fleming L, Au WH, Raik L, Rebelo-Guiomar P, Schmitz J, Cho HY, et al. (2025) Clu1/Clu form mitochondria-associated granules upon metabolic transitions and regulate mitochondrial prot… [+90406 chars]"
     }
   ],
   "totalResults": 94,
