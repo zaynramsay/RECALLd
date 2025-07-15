@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-15T06:39:09.621Z",
+  "lastUpdated": "2025-07-15T12:54:54.051Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Bureau",
+      "title": "Karnataka HC quashes criminal proceedings against HUL CEO Rohit Jawa",
+      "description": "The Karnataka High Court has dismissed a food contamination case against Hindustan Unilever Limited CEO Rohit Jawa. The case involved Horlicks biscuits found with excessive pesticide levels. The court allows a fresh complaint, directing authorities to include…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/karnataka-hc-quashes-criminal-proceedings-against-hul-ceo-rohit-jawa/articleshow/122439487.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122439406,width-1200,height-630,imgsize-4498,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-14T12:03:35Z",
+      "content": "The Karnataka High Court has quashed the criminal proceedings against Hindustan Unilever Limited (HUL) managing director &amp; CEO Rohit Jawa in a case of food contamination under the Food Safety and… [+1061 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nutritionfacts.org"
+      },
+      "author": "Kristine Dennis PhD, MPH",
+      "title": "Drug Residues in Meat and Their Effect on Antibiotic Resistance",
+      "description": "What percentage of meat samples test positive for drug residue violations?",
+      "url": "https://nutritionfacts.org/video/drug-residues-in-meat-and-their-effect-on-antibiotic-resistance/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/06/69-23-drug-residues-in-meat-and-their-effect-on-antibiotic-resistance-1200x675.jpg",
+      "publishedAt": "2025-07-14T11:50:10Z",
+      "content": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Dennis may be referring, watch the above video.\r\nAccording to the World H… [+3690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Standard Digital"
+      },
+      "author": "Nanjinia Wamuswa",
+      "title": "Kamulu residents engulfed by stench and filth from dumpsite",
+      "description": "Residents are frustrated by waste collectors who are always burning garbage, producing foul-smelling smoke that lingers for days.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001524202/kamulu-residents-engulfed-by-stench-and-filth-from-dumpsite",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/4pKxoZEWYjAXKtoOyOqHyG2Y1NyqurI6NBwXGla1.jpg",
+      "publishedAt": "2025-07-14T06:45:56Z",
+      "content": "A waste collector rummages through the dumpsite encroaching on homes and businesses along Kangundo Road, on June 27, 2025. [Nanjinia Wamuswa, Standard] \r\nIt’s a hive of activity as dozens of waste co… [+9334 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -306,7 +345,7 @@
         "name": "The Conversation Africa"
       },
       "author": "Daniel Drage, Associate Professor of Environmental Health, University of Birmingham",
-      "title": "What��s the forever chemical TFA doing in the UK’s rivers?",
+      "title": "What’s the forever chemical TFA doing in the UK’s rivers?",
       "description": "A forever chemical known as TFA is accumulating in our environment, contaminating our rivers, food and even our wine.",
       "url": "https://theconversation.com/whats-the-forever-chemical-tfa-doing-in-the-uks-rivers-259411",
       "urlToImage": "https://images.theconversation.com/files/678558/original/file-20250707-79-tyg3pa.jpg?ixlib=rb-4.1.0&rect=0%2C38%2C4962%2C2481&q=45&auto=format&w=1356&h=668&fit=crop",
@@ -1020,19 +1059,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
-      "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
-      "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access.   Methodology A cross-sectional study design was em…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
-      "publishedAt": "2025-07-08T14:00:00Z",
-      "content": "Introduction\r\nTyphoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024… [+32082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
       "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
       "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
@@ -1040,6 +1066,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
       "publishedAt": "2025-07-08T14:00:00Z",
       "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
+      "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
+      "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access.   Methodology A cross-sectional study design was em…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
+      "publishedAt": "2025-07-08T14:00:00Z",
+      "content": "Introduction\r\nTyphoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024… [+32082 chars]"
     },
     {
       "source": {
@@ -1183,45 +1222,6 @@
       "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/07/08/3406256.jpg",
       "publishedAt": "2025-07-08T09:00:00Z",
       "content": "MELAKA: A community leader is urging the authorities to step in immediately and tackle what he says is worsening pollution along Phase Two of Sungai Melaka.\r\nPengkalan Batu Community Service Centre d… [+1790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kffhealthnews.org"
-      },
-      "author": "Angela Hart",
-      "title": "In a Nation Growing Hostile Toward Drugs and Homelessness, Los Angeles Tries Leniency",
-      "description": "A new care center for homeless people on Los Angeles’ infamous Skid Row embraces the principle of harm reduction, a more lenient approach to drug use and addiction. County officials say criminalization only worsens homelessness.",
-      "url": "https://kffhealthnews.org/news/article/los-angeles-skid-row-care-campus-drug-use-addiction-harm-reduction-mental-illness/",
-      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/07/SkidRow_03_resized.jpg",
-      "publishedAt": "2025-07-08T09:00:00Z",
-      "content": "Angela HartLOS ANGELES Inside a bright new building in the heart of Skid Row, homeless people hung out in a canopy-covered courtyard some waiting to take a shower, do laundry, or get medication for a… [+11877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Sustainable Pharmaceutical Packaging Market Trends to Watch in 2025 - 2026 | CAGR 15% Growth Driven by Eco-Innovation",
-      "description": "According to researchers from Towards Packaging, the global sustainable pharmaceutical packaging market, estimated at USD 92 billion in 2024, is forecast to expand to USD 372.19 billion by 2034, growing at a CAGR of 15% over the forecast period. According to …",
-      "url": "https://www.globenewswire.com/news-release/2025/07/08/3111482/0/en/Sustainable-Pharmaceutical-Packaging-Market-Trends-to-Watch-in-2025-2026-CAGR-15-Growth-Driven-by-Eco-Innovation.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-07-08T08:00:00Z",
-      "content": "Ottawa, July 08, 2025 (GLOBE NEWSWIRE) -- The sustainable pharmaceutical packaging market size to grew to USD 105.80 billion in 2025 and is projected to hit around USD 372.19 billion by 2034, expandi… [+25676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iasexamportal.com"
-      },
-      "author": "trainee5",
-      "title": "(GIST OF KURUKSHETRA) Food Processing of Horticultural Crops",
-      "description": "(GIST OF KURUKSHETRA) Food Processing of Horticultural Crops",
-      "url": "https://iasexamportal.com/the-gist/kurukshetra-food-processing-of-horticultural-crops",
-      "urlToImage": null,
-      "publishedAt": "2025-07-08T07:28:20Z",
-      "content": "(GIST OF KURUKSHETRA) Food Processing of Horticultural Crops\r\n(FEBRUARY-2025)\r\nFood Processing of Horticultural Crops\r\nIntroduction\r\nThe significance of food processing is paramount in maintaining fo… [+3856 chars]"
     }
   ],
   "totalResults": 94,
