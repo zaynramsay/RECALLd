@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-15T02:18:36.433Z",
+  "lastUpdated": "2025-07-15T06:39:09.621Z",
   "articles": [
     {
       "source": {
@@ -1020,19 +1020,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
-      "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
-      "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327789",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
-      "publishedAt": "2025-07-08T14:00:00Z",
-      "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
       "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
       "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access.   Methodology A cross-sectional study design was em…",
@@ -1040,6 +1027,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
       "publishedAt": "2025-07-08T14:00:00Z",
       "content": "Introduction\r\nTyphoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024… [+32082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
+      "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
+      "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327789",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
+      "publishedAt": "2025-07-08T14:00:00Z",
+      "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
     },
     {
       "source": {
