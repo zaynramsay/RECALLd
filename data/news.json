@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-07-15T12:54:54.051Z",
+  "lastUpdated": "2025-07-15T18:38:04.379Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "UPDATE - Sandoz Inc. Issues Voluntary Nationwide Recall Expansion of One Additional Lot of Cefazolin for Injection Due to Product Mislabeling",
+      "description": "Sandoz, Inc. (“Sandoz”) is initiating a voluntary nationwide recall expansion of one additional lot of Cefazolin for Injection, USP, 1 gram per vial. The lot is being recalled due to a customer complaint indicating that four (4) vials incorrectly labelled as …",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/update-sandoz-inc-issues-voluntary-nationwide-recall-expansion-one-additional-lot-cefazolin",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-07-14T17:24:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJuly 14, 2025\r\nFDA Publish Date:\r\nJuly 14, 2025\r\nReason for Announcement:\r\nRecall Reason Description\r\nVials incorrectly labelled as Penicillin G Potassium for Inj… [+7146 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Isabel van Brugen",
+      "title": "Kroger Recall Update: Customers 'Urged to Return' Products in 18 States",
+      "description": "Customers have been urged to return products due to undeclared allergens and possible bacterial contamination.",
+      "url": "https://www.newsweek.com/kroger-recall-update-allergens-listeria-2098741",
+      "urlToImage": "https://d.newsweek.com/en/full/2682734/kroger-food-recalls.png",
+      "publishedAt": "2025-07-14T16:17:45Z",
+      "content": "Multiple food safety recalls have been issued this month affecting products sold in Kroger stores across 18 U.S. states.\r\nCustomers have been urged to return products that may pose serious health ris… [+3080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Lauren Leffer",
+      "title": "Mysterious ‘ship goo’ contains new life forms",
+      "description": "No one quite knows how the tar-like substance got on a Great Lakes research vessel.\nThe post Mysterious ‘ship goo’ contains new life forms appeared first on Popular Science.",
+      "url": "https://www.popsci.com/science/ship-goo-great-lakes-mystery/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/07/ship-w-goo-2.png?quality=85&w=1920",
+      "publishedAt": "2025-07-14T16:00:00Z",
+      "content": "It came from the deep: a viscous black gunk oozing from the rudder shaft of a ship. At the end of August 2024, the crew of the Great Lakes research vessel R/V Blue Heron, first spotted the substance … [+7278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Brittany Miller",
+      "title": "Popular yogurt recalled over possible choking hazard",
+      "description": "The plastic dome on the yogurt’s topping container could pose a choking hazard",
+      "url": "https://www.the-independent.com/life-style/yocrunch-yogurt-recall-plastic-b2788720.html",
+      "urlToImage": "https://static.the-independent.com/2025/07/14/15/35/Screenshot-2025-07-14-at-11-07-50-AM.png?trim=41,0,42,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-07-14T15:36:10Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Son Hai Nguyen, Mai Thi Tran",
+      "title": "A non-enzymatic doxycycline absorbance sensor based on manganese-doped zinc sulfide nanoparticles coated with chitosan",
+      "description": "The need for doxycycline detection is urgent because it is a vital antibiotic extensively utilized to combat bacterial diseases in humans and animals, and it is now at the forefront of the global battle against antibiotic resistance. Our research introduces a…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328304",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328304.g006&size=inline",
+      "publishedAt": "2025-07-14T14:00:00Z",
+      "content": "Enzyme-free biosensors based on (ZnS:Mn)@CH to detect Doxycycline\r\nIn previous work, ZnS:Mn nanoparticles coated with chitosan ((ZnS:Mn)CS) were successfully synthesized and thoroughly characterized … [+17971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Lena Huebl, Aloysious Nnyombi, Patricia Apoko, Denis Okello, Eddy Walakira, Ruth Kutalek",
+      "title": "Community perceptions of yellow fever and its treatment practices in regions with reported outbreaks in Uganda: A qualitative study",
+      "description": "Author summary Yellow fever is a life-threatening disease transmitted by mosquitoes, with frequent outbreaks in Uganda despite a highly effective vaccine. This study addresses disease perceptions and treatment practices in communities affected by yellow fever…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013251",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013251.g002&size=inline",
+      "publishedAt": "2025-07-14T14:00:00Z",
+      "content": "Introduction\r\nYellow fever (YF) is a viral hemorrhagic fever transmitted by Aedes or Haemagogus species mosquitoes and is endemic to tropical regions of South America and Africa [1]. The disease can … [+57602 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1144,84 +1222,6 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-07-08T13:20:06Z",
       "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-85\r\nProduct:\r\nDrugs \r\nRecipient:\r\nOwner/Chief Executive Officer (CEO) \r\nXtreme Tools International, Inc. \r\n15400 NW 34th AvenueOpa Locka, F… [+11477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Dynamic Blending Specialists, Inc. - 701278 - 06/18/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/dynamic-blending-specialists-inc-701278-06182025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-07-08T13:20:06Z",
-      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-83\r\nProduct:\r\nDrugs \r\nRecipient:\r\nDynamic Blending Specialists, Inc. \r\n523 East 1750 N., Suite 100Vineyard, UT84059-8109United States\r\nIssu… [+24653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Shtfplan.com"
-      },
-      "author": "Michael Snyder",
-      "title": "As Humanity Faces A Catastrophic Fertility Crisis, Scientists Are Creating “Synthetic Human DNA” From Scratch",
-      "description": "Will the elite soon be able to order “designer babies” that are free from all genetic abnormalities and all genetic diseases because they have been created in a lab using “synthetic human DNA”?  I realize that this may sound absolutely crazy to many of you, b…",
-      "url": "https://www.shtfplan.com/headline-news/as-humanity-faces-a-catastrophic-fertility-crisis-scientists-are-creating-synthetic-human-dna-from-scratch",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/08/dna.jpg",
-      "publishedAt": "2025-07-08T12:30:06Z",
-      "content": "This article was originally published by Michael Snyder at The End of the American Dream under the title: Playing God: As Humanity Faces A Catastrophic Fertility Crisis, Scientists Are Creating Synth… [+10595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Bill Frist, Contributor, \n Bill Frist, Contributor\n https://www.forbes.com/sites/billfrist/",
-      "title": "Healthy Soil, Healthy Food, Healthy People: Farming Is America’s First Line Of Defense",
-      "description": "Data show certain farming practices can have serious unintended health consequences. When produced in harmony with nature, our food can benefit human & planetary health.",
-      "url": "https://www.forbes.com/sites/billfrist/2025/07/08/healthy-soil-healthy-food-healthy-people-farming-is-americas-first-line-of-defense/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686c0e143f96dcc95df1ce02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-08T11:55:09Z",
-      "content": "We all know fresh fruits and vegetables are good for our health but did you know that the soil and surrounding environment the crops grow in also matters to our health and well-being?\r\nThe Administra… [+7040 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Arthur L. Kellermann, Contributor, \n Arthur L. Kellermann, Contributor\n https://www.forbes.com/sites/arthurkellermann/",
-      "title": "We Import Too Many Substandard Generic Drugs: Five Steps To Safety",
-      "description": "America's generic drug supply is not consistently safe. Five simple but powerful changes in policy could improve generic drug safety and reduce future shortages.",
-      "url": "https://www.forbes.com/sites/arthurkellermann/2025/07/08/we-import-too-many-substandard-generic-drugs-five-steps-to-safety/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686aabc3d23e4f1defdf90c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-08T11:45:00Z",
-      "content": "Generic drugs account for more than 90 percent of prescriptions filled in the United States. Recent ... More studies have found concering variability in quality and safety\r\ngetty\r\nAmericas generic dr… [+7914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Florian Kroll, Researcher: DSTI-NRF Centre of Excellence in Food Security, University of the Western Cape, Albert Makochekanwa, Director - University of Zimbabwe Business School, University of Zimbabwe",
-      "title": "Food trade regimes harm people and the planet: how the G20 can drive improvements",
-      "description": "Free trade may not be the best way for African counties to improve their food systems.",
-      "url": "https://theconversation.com/food-trade-regimes-harm-people-and-the-planet-how-the-g20-can-drive-improvements-255790",
-      "urlToImage": "https://images.theconversation.com/files/678548/original/file-20250707-56-x50akw.jpg?ixlib=rb-4.1.0&rect=0%2C82%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-07-08T10:39:56Z",
-      "content": "African food systems face daunting challenges in the face of climate change. They must ensure fair access to food for residents of Africa’s growing cities and create decent jobs where workers and sma… [+8436 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "RSN MURALI",
-      "title": "Melaka govt urged to act fast on 'dire state' of Sg Melaka's second phase",
-      "description": "MELAKA: A community leader is urging the authorities to step in immediately and tackle what he says is worsening pollution along Phase Two of Sungai Melaka. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/07/08/melaka-govt-urged-to-act-fast-on-039dire-state039-of-sg-melaka039s-second-phase",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/07/08/3406256.jpg",
-      "publishedAt": "2025-07-08T09:00:00Z",
-      "content": "MELAKA: A community leader is urging the authorities to step in immediately and tackle what he says is worsening pollution along Phase Two of Sungai Melaka.\r\nPengkalan Batu Community Service Centre d… [+1790 chars]"
     }
   ],
   "totalResults": 94,
