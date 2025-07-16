@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-07-16T12:55:33.328Z",
+  "lastUpdated": "2025-07-16T18:37:27.742Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theepochtimes.com"
+      },
+      "author": "Naveen Athrappully",
+      "title": "Danone Yoghurt Recalled Nationwide Over Potential Plastic Contamination",
+      "description": "Danone Yoghurt Recalled Nationwide Over Potential Plastic Contaminationtheepochtimes.com",
+      "url": "https://www.theepochtimes.com/business/danone-yoghurt-recalled-nationwide-over-potential-plastic-contamination-5887607",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2025/07/15/id5887613-danone-recall-1080x720.jpeg",
+      "publishedAt": "2025-07-15T17:59:50Z",
+      "content": "Danone U.S. is voluntarily recalling yogurt products sold across the country due to potential presence of plastic pieces in the containers lids, the company said in an announcement published by the F… [+217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "Meg Wingerter",
+      "title": "Colorado med spa recalls weight-loss and vitamin injections because of unsterile conditions",
+      "description": "Thrive Health Solutions also faces a lawsuit from drugmaker Eli Lilly, for allegedly making false claims about FDA approval when selling compounded version of tirzepatide.",
+      "url": "https://www.denverpost.com/2025/07/15/thrive-health-solutions-med-spa-recalls-weight-loss-drugs/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/07/TDP-Z-Thrive-Health-Solutions-Englewood-CO-01.jpg?w=1024&h=576",
+      "publishedAt": "2025-07-15T15:11:14Z",
+      "content": "Thrive Health Solutions in Englewood. (Image courtesy of Google Maps)\r\nAn Englewood medical spa is recalling more than 1,500 injections of weight-loss drugs and vitamin cocktails after an inspection … [+3361 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "FDA Issues Highest Risk Warning for Vegetable Recall",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of a range of vegetable products due to potential contamination with Listeria monocytogenes has been issued the highest risk classification by the U.S. Food and Drug Administration (FDA).\nAnd Go Conce…",
+      "url": "https://biztoc.com/x/2c20d3f2ee763ef5",
+      "urlToImage": "https://biztoc.com/cdn/2c20d3f2ee763ef5_s.webp",
+      "publishedAt": "2025-07-15T14:51:15Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of a range of vegetable products due to potential contamination with Listeria monocytogenes has been issued the highest risk classification b… [+142 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "FDA Issues Highest Risk Warning for Vegetable Recall",
+      "description": "And Go Concepts LLC announced a voluntary recall for a range of vegetable products on May 27 due to potential listeria contamination.",
+      "url": "https://www.newsweek.com/vegetable-recall-salad-go-listeria-fda-highest-risk-warning-consumers-2099163",
+      "urlToImage": "https://d.newsweek.com/en/full/2683454/red-onion.jpg",
+      "publishedAt": "2025-07-15T14:47:04Z",
+      "content": "A recall of a range of vegetable products due to potential contamination with Listeria monocytogenes has been issued the highest risk classification by the U.S. Food and Drug Administration (FDA).\r\nA… [+4057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Shin Hyung Lee, Jon Agley, Vatsla Sharma, Francesca Williamson, Pengyue Zhang, Dong-Chul Seo",
+      "title": "Opioid overdose and naloxone administration knowledge and perceived competency in a probability sample of Indiana urban communities with large Black populations",
+      "description": "Background Opioid overdose deaths pose a serious public health concern in the United States, with disproportionately higher rates of increase among Black Americans despite expanded naloxone access. Improving community knowledge and confidence in naloxone use …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328444",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328444.t004&size=inline",
+      "publishedAt": "2025-07-15T14:00:00Z",
+      "content": "Abstract\r\nBackground\r\nOpioid overdose deaths pose a serious public health concern in the United States, with disproportionately higher rates of increase among Black Americans despite expanded naloxon… [+44328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Daewoo Pharmaceutical Co., Ltd. - 706371 - 07/02/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/daewoo-pharmaceutical-co-ltd-706371-07022025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-07-15T13:20:04Z",
+      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-86\r\nProduct:\r\nDrugs \r\nRecipient:\r\nDaewoo Pharmaceutical Co., Ltd.\r\n153, Dadae-ro, Saha-guBusan49393South Korea\r\nIssuing Office:\r\nCenter for Drug Eval… [+24323 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -182,6 +260,19 @@
       "urlToImage": "https://static.the-independent.com/2025/07/14/15/35/Screenshot-2025-07-14-at-11-07-50-AM.png?trim=41,0,42,0&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-07-14T15:36:10Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "author": null,
+      "title": "Copper Tubes Market is expected to generate a revenue of USD 49.65 Billion by 2032, Globally, at 6.5% CAGR: Verified Market Research®",
+      "description": "The Copper Tubes Market presents strong growth opportunities, especially in Asia Pacific, where infrastructure development and HVAC demand are surging. While drivers such as rising renewable energy adoption and urban construction fuel demand, challenges like …",
+      "url": "https://www.prnewswire.co.uk/news-releases/copper-tubes-market-is-expected-to-generate-a-revenue-of-usd-49-65-billion-by-2032--globally-at-6-5-cagr-verified-market-research-302504247.html",
+      "urlToImage": "https://mma.prnewswire.com/media/2015407/VMR_Logo.jpg?p=facebook",
+      "publishedAt": "2025-07-14T14:01:00Z",
+      "content": "The Copper Tubes Market presents strong growth opportunities, especially in Asia Pacific, where infrastructure development and HVAC demand are surging. While drivers such as rising renewable energy a… [+15430 chars]"
     },
     {
       "source": {
@@ -1131,97 +1222,6 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/27588a6c5192456a9fa1107b51c3c800?impolicy=wcms_watermark_news&cropH=887&cropW=1576&xPos=0&yPos=64&width=862&height=485&imformat=generic",
       "publishedAt": "2025-07-09T00:36:45Z",
       "content": "Authorities have arrested eight people after more than 200 children who consumed food at a preschool in China's north-west were found to have abnormally high levels of lead in their blood.\r\nHealth au… [+1731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "Dr. Mercola",
-      "title": "Popular Heartburn Drugs Linked to Heart Attacks",
-      "description": "More than 60 million Americans deal with heartburn each month,1 and for millions of them, relief comes in the form of over-the-counter or prescription acid blockers. These drugs — proton pump inhibitors, or PPIs — promise fast, long-lasting relief. But they a…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/07/09/popular-heartburn-drugs-linked-to-heart-attacks.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/July/FB/popular-heartburn-drugs-linked-to-heart-attacks-fb.jpg",
-      "publishedAt": "2025-07-09T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Environmental Defense Fund"
-      },
-      "author": "Maria Doa, PhD, Senior Director, Chemicals Policy",
-      "title": "New report finds endocrine disrupting chemical in more than one-third of tested Indian clothing products",
-      "description": "What’s new: A new report has found the cancer-linked endocrine disruptor, nonylphenol (NP), in one-third of tested Indian clothing products at levels exceeding European Union (EU) safety standards. Scientists also detected NP in major Indian rivers downstream…",
-      "url": "https://blogs.edf.org/health/2025/07/08/new-report-finds-endocrine-disrupting-chemical-in-more-than-one-third-of-tested-indian-clothing-products/",
-      "urlToImage": "https://blogs.edf.org/health/wp-content/blogs.dir/11/files//Toxic-Threads-Report-6-25.jpg",
-      "publishedAt": "2025-07-08T21:10:30Z",
-      "content": "Whats new: A new report has found the cancer-linked endocrine disruptor, nonylphenol (NP), in one-third of tested Indian clothing products at levels exceeding European Union (EU) safety standards.\r\nS… [+2629 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Mondelēz Global LLC Conducts U.S. Voluntary Recall of Four Carton Sizes of RITZ Peanut Butter Cracker Sandwiches Due to Labeling Error",
-      "description": "Mondelēz Global LLC announced today a voluntary recall of four carton sizes of RITZ Peanut Butter Cracker Sandwiches (8-pack, 20-pack, and 40pack cartons of RITZ Peanut Butter Cracker Sandwiches, as well as the 20-pack RITZ Filled Cracker Sandwich Variety Pac…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/mondelez-global-llc-conducts-us-voluntary-recall-four-carton-sizes-ritz-peanut-butter-cracker",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-07-08T20:13:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJuly 08, 2025\r\nFDA Publish Date:\r\nJuly 08, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUndeclared … [+4865 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Pooria Pasbakhsh, Research Fellow in Polymer Upcycling, The University of Melbourne",
-      "title": "Can a pizza box go in the yellow bin – or not? An expert answers this and other messy recycling questions",
-      "description": "Research shows most Australians believe they are good recyclers – but they’re often wrong. Here’s how to avoid common recycling mistakes.",
-      "url": "https://theconversation.com/can-a-pizza-box-go-in-the-yellow-bin-or-not-an-expert-answers-this-and-other-messy-recycling-questions-258301",
-      "urlToImage": "https://images.theconversation.com/files/678267/original/file-20250704-56-84m7la.jpg?ixlib=rb-4.1.0&rect=0%2C377%2C5472%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-07-08T20:02:43Z",
-      "content": "ViDCan/Shutterstock\r\nHave you ever gone to toss something into the recycling bin – a jam jar, a pizza box, a takeaway container encrusted with yesterday’s lunch – and wondered if you’re doing it righ… [+5754 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Daniel Orton",
-      "title": "Aldi Food Recall Update: Customers in 37 States Told to 'Discard' Products",
-      "description": "The supermarket chain has issued several food product recalls in 2025.",
-      "url": "https://www.newsweek.com/aldi-food-recalls-list-2025-2096171",
-      "urlToImage": "https://d.newsweek.com/en/full/2679047/aldi-recall-map.png",
-      "publishedAt": "2025-07-08T16:43:35Z",
-      "content": "Major food recalls recently announced by Aldi have impacted shoppers across 37 states, following safety alerts for undeclared allergens and contamination risks.\r\nAldi, in collaboration with product s… [+4890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mental Floss"
-      },
-      "author": "Jake Rossen",
-      "title": "The 20 Best Food Trucks in the U.S., According to Yelp",
-      "description": "Once a risky proposition, food trucks have become gourmet pit stops that can rival the fanciest eateries.",
-      "url": "https://www.mentalfloss.com/food/restaurants/best-food-trucks-according-to-yelp",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_435,w_6720,h_3780/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01jzjxeqmw8jd6ra2gvd.jpg",
-      "publishedAt": "2025-07-08T16:01:00Z",
-      "content": "In plenty of cities across America, food trucks are a viable alternative to restaurants or fast food for meals on the go. With less overhead and fewer start-up costs than conventional sit-down eateri… [+3523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "admin",
-      "title": "China: Over 200 children suffer lead poisoning after inedible dye used in School meals",
-      "description": "Authorities arrest 8, including school cirector and investor\nThe post China: Over 200 children suffer lead poisoning after inedible dye used in School meals appeared first on ProtoThema English.",
-      "url": "https://en.protothema.gr/2025/07/08/china-over-200-children-suffer-lead-poisoning-after-inedible-dye-used-in-school-meals/",
-      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/07/kina-dilitiriasi-1.jpg-1.jpg",
-      "publishedAt": "2025-07-08T14:41:45Z",
-      "content": "A shocking case of mass lead poisoning has rocked northwest China, where more than 200 children from a private kindergarten fell ill after consuming food decorated with non-edible industrial dye.\r\nAc… [+1492 chars]"
     }
   ],
   "totalResults": 94,
