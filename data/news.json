@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-16T02:09:23.993Z",
+  "lastUpdated": "2025-07-16T06:39:02.283Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Grapes: A nutrient powerhouse with timeless health benefits",
+      "description": "Grapes are rich in vitamins (C, K), minerals (potassium), fiber and antioxidants like resveratrol and quercetin, supporting heart health, immunity and digestion. Their polyphenols and flavonoids help combat cardiovascular diseases, reduce cancer risk (e.g., b…",
+      "url": "https://www.naturalnews.com/2025-07-15-grapes-nutrient-powerhouse-with-timeless-health-benefits.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Grapes-Background.jpg",
+      "publishedAt": "2025-07-15T06:00:00Z",
+      "content": "<ul><li>Grapes are rich in vitamins (C, K), minerals (potassium), fiber and antioxidants like resveratrol and quercetin, supporting heart health, immunity and digestion.</li><li>Their polyphenols and… [+6730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Menopausewiki.ca"
+      },
+      "author": "twoOHfour",
+      "title": "The Menopause Wiki",
+      "description": "Get comprehensive information on menopause. Stages, symptoms, coping strategies, treatment options, menopause hormone therapy (MHT/HRT), and much more are covered in detail.",
+      "url": "https://menopausewiki.ca/",
+      "urlToImage": null,
+      "publishedAt": "2025-07-15T05:47:01Z",
+      "content": "The official menopause wiki for Lemmy's c/menopause community, and its Reddit siblings, r/menopause and r/perimenopause.\r\nThe following information is intended for educational purposes only, to provi… [+150200 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Yogurt Recall Sparks Nationwide Warning to Customers",
+      "description": "All YoCrunch® yogurt flavors and sizes are being voluntarily recalled due to fears of potential plastic pieces in the dome topper.",
+      "url": "https://www.newsweek.com/yogurt-recall-sparks-nationwide-warning-customers-2098953",
+      "urlToImage": "https://d.newsweek.com/en/full/2683144/yocrunch-yogurt-recall.jpg",
+      "publishedAt": "2025-07-15T03:11:36Z",
+      "content": "Danone U.S. is recalling all YoCrunch® products due to fears of potential plastic pieces in the dome topper.\r\nNewsweek has reached out to the company via email Monday night for comment.\r\nWhy It Matte… [+2754 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -203,7 +242,7 @@
       },
       "author": "NANG SENG NOM",
       "title": "Communities at Risk as Cross-Border Mining Pollutes Kok River",
-      "description": "“I’ve never seen the river like this. The Namhkok used to give us life, and now we can��t even eat the fish,” said 70-year-old Nang Moon, a lifelong resident of Chiang Rai, as she gazed at the murky waters of what was once a crystal-clear stream. For generatio…",
+      "description": "“I’ve never seen the river like this. The Namhkok used to give us life, and now we can’t even eat the fish,” said 70-year-old Nang Moon, a lifelong resident of Chiang Rai, as she gazed at the murky waters of what was once a crystal-clear stream. For generatio…",
       "url": "https://english.shannews.org/archives/28298",
       "urlToImage": "https://english.shannews.org/wp-content/uploads/2025/07/Tachileiik-floods-disrupt-livesf-along-the-Thai-Myanmar-border.jpeg",
       "publishedAt": "2025-07-13T15:40:57Z",
@@ -345,7 +384,7 @@
         "name": "New York Post"
       },
       "author": "Diana Bruk",
-      "title": "I’m a neurologist — 3 foods I won’t eat because they could give you neurotoxins or brain parasites",
+      "title": "I’m a neurologist ��� 3 foods I won’t eat because they could give you neurotoxins or brain parasites",
       "description": "In a viral TikTok, a neurologist reveals three foods that he tries to avoid because they may harbor toxins and nasty bugs.",
       "url": "https://nypost.com/2025/07/12/health/3-foods-a-neurologist-wont-eat-because-of-toxins-and-parasites/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/107910058.jpg?quality=75&strip=all&w=1024",
@@ -1183,45 +1222,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-07-08T14:02:00Z",
       "content": "Dublin, July 08, 2025 (GLOBE NEWSWIRE) -- The \"Fluorinated Coating Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025-2034\" has been added to ResearchAndMarkets.com's offe… [+7271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
-      "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
-      "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access.   Methodology A cross-sectional study design was em…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
-      "publishedAt": "2025-07-08T14:00:00Z",
-      "content": "Introduction\r\nTyphoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024… [+32082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Takayuki Komatsu, Kenji Inoue, Yuki Someya, Hiroshi Hirano, Fumihiro Saitoh, Makoto Aoki, Akihiro Inui, Lawrence M. Tierney Jr, Kentaro Mishima, Keiko Mizuno, Hiroki Takami, Tomohisa Nomura, Manabu Sugita",
-      "title": "Diagnostic accuracy of self-reported food consumption and shaking chills in predicting bacteremia in outpatients: A prospective, multicenter observational study",
-      "description": "Bacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indicators, such as shaking chills and food consumption, have been identif…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327789",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327789.g001&size=inline",
-      "publishedAt": "2025-07-08T14:00:00Z",
-      "content": "Abstract\r\nBacteremia, a critical condition that can lead to sepsis, is often diagnosed using blood cultures, which may yield false positives, leading to unnecessary treatments. Although clinical indi… [+25471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Catherine Troman, Samuel T. Horsfield, Dilip Abraham, Venkata Raghava Mohan, Sidhartha Giri, Satheesh Nair, Alexander G. Shaw, Zoe Dyson, Kathryn E. Holt, Nicholas C. Grassly",
-      "title": "Determining genotype and antimicrobial resistance of Salmonella Typhi in environmental samples by amplicon sequencing",
-      "description": "Author summary This study investigated the application of wastewater surveillance for detection of S. Typhi. Wastewater surveillance is of increasing interest for public health as a potential lower-cost alternative or complement to clinical surveillance. As w…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013211",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013211.g004&size=inline",
-      "publishedAt": "2025-07-08T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nEstimates of the burden of typhoid fever due to Salmonella enterica serovar Typhi (S. Typhi) rely on data from clinical surveillance, which is rarely done in low income settings… [+48945 chars]"
     }
   ],
   "totalResults": 94,
