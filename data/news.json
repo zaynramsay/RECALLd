@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-18T02:11:18.177Z",
+  "lastUpdated": "2025-07-18T06:38:26.385Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "How early exposure to mercury and aluminum impacts brain development, immune function",
+      "description": "Research published in the International Journal of Environmental Research and Public Health examines the potential effects of early exposure to ethylmercury (thimerosal) and aluminum in vaccines on infant brain development and immune function. Babies, especia…",
+      "url": "https://www.naturalnews.com/2025-07-17-early-exposure-mercury-aluminum-affects-brain-development.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Vaccine-Baby-Child-Pediatrician-Drug-Infant-0.jpg",
+      "publishedAt": "2025-07-17T06:00:00Z",
+      "content": "<ul><li>Research published in the International Journal of Environmental Research and Public Health examines the potential effects of early exposure to ethylmercury (thimerosal) and aluminum in vacci… [+6626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Smoked herring in 3 states RECALLED over botulism risk",
+      "description": "The FDA issued a Class I recall for contaminated smoked herring sold in NY, NJ, and CT. The fish was improperly gutted, creating ideal conditions for Clostridium botulinum toxin production. Ungutted fish (with intact organs) and repackaging without labels inc…",
+      "url": "https://www.naturalnews.com/2025-07-17-smoked-herring-3-states-recalled-over-botulism.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Fish-Cooking-Food.jpg",
+      "publishedAt": "2025-07-17T06:00:00Z",
+      "content": "<ul><li>The FDA issued a Class I recall for contaminated smoked herring sold in NY, NJ, and CT. The fish was improperly gutted, creating ideal conditions for Clostridium botulinum toxin production.</… [+6922 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Bean Recall Sparks Nationwide Warning to Customers",
+      "description": "The recall was initiated for the products due to fears the beans could be contaminated with salmonella.",
+      "url": "https://www.newsweek.com/bean-recall-sparks-nationwide-warning-customers-2100041",
+      "urlToImage": "https://d.newsweek.com/en/full/2684829/sprouted-moong-beans.jpg",
+      "publishedAt": "2025-07-17T02:30:18Z",
+      "content": "Chetak LLC Group is recalling its Deep Sprouted Mat (Moth) and Deep Sprouted Moong, each shipped in 16-ounce packaging, due to fears the beans could be contaminated with salmonella.\r\nNewsweek reached… [+2919 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,34 +1235,8 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327857.g009&size=inline",
       "publishedAt": "2025-07-10T14:00:00Z",
       "content": "Abstract\r\nAntimicrobial resistance (AMR) poses a significant threat to human and animal health worldwide. Wild rodents and shrews may serve as bioindicators of environmental health. They may serve as… [+52478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "Rivers in southwest China breach warning levels, with thousands evacuated",
-      "description": "BEIJING: The levels of 25 rivers in southwestern China exceeded safe levels on Thursday (Jul 10), state media said, after more than 10,000 people were evacuated as the remnants of former typh",
-      "url": "https://www.channelnewsasia.com/east-asia/rivers-southwest-china-breach-warning-levels-thousands-evacuated-5231316",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--9rN-wXCH--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/china_flood_42085.jpg?itok=L0FcLW2p",
-      "publishedAt": "2025-07-10T09:29:20Z",
-      "content": "BEIJING: The levels of 25 rivers in southwestern China exceeded safe levels on Thursday (Jul 10), state media said, after more than 10,000 people were evacuated as the remnants of former typhoon Dana… [+1529 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Cassie B.",
-      "title": "Researchers discover gut bacteria that remove up to 75% of toxic PFAS “forever chemicals”",
-      "description": "Cambridge researchers discovered nine gut bacteria species that can absorb up to 75% of toxic PFAS “forever chemicals” from the body. These bacteria, including six Bacteroides strains, clump PFAS such as PFOA and PFNA into aggregates before expelling them as …",
-      "url": "https://www.naturalnews.com/2025-07-10-researchers-discover-gut-bacteria-remove-toxic-pfas.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Intestinal-microbiome-1.jpeg",
-      "publishedAt": "2025-07-10T06:00:00Z",
-      "content": "<ul><li>Cambridge researchers discovered nine gut bacteria species that can absorb up to 75% of toxic PFAS \"forever chemicals\" from the body.</li><li>These bacteria, including six Bacteroides strains… [+4103 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 95,
   "filteredCount": 0
 }
