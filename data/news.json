@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-19T02:05:20.142Z",
+  "lastUpdated": "2025-07-19T06:36:00.308Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "Danone recalls YoCrunch yogurt over plastic contamination amid growing microplastics concerns",
+      "description": "Danone U.S. issued a nationwide voluntary recall for 17 YoCrunch yogurt varieties due to plastic fragments in lids. Plastic pieces (7-25 mm) pose choking hazards and potential oral injuries. The recall followed consumer reports and FDA collaboration initiated…",
+      "url": "https://www.naturalnews.com/2025-07-18-danone-recalls-yocrunch-yogurt-over-plastic-contamination.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Yogurt-Container.jpg",
+      "publishedAt": "2025-07-18T06:00:00Z",
+      "content": "<ul><li>Danone U.S. issued a nationwide voluntary recall for 17 YoCrunch yogurt varieties due to plastic fragments in lids.</li><li>Plastic pieces (7-25 mm) pose choking hazards and potential oral in… [+4380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "PESTICIDES, like antibiotics, are fueling the rise of untreatable SUPERBUGS – study",
+      "description": "In a remote Himalayan village, a polluted river reflects a grim reality: the water, once sacred, now teems with antibiotic-resistant bacteria thriving in a chemical soup of pesticides and hospital waste. This is Ground Zero for a public health crisis that sci…",
+      "url": "https://www.naturalnews.com/2025-07-18-pesticides-fueling-rise-of-untreatable-superbugs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Herbicides-Pesticides-Fungicides.jpg",
+      "publishedAt": "2025-07-18T06:00:00Z",
+      "content": "In a remote Himalayan village, a polluted river reflects a grim reality: the water, once sacred, now teems with antibiotic-resistant bacteria thriving in a chemical soup of pesticides and hospital wa… [+6296 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,47 +1222,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2681418/sunscreen-stock-photo.jpg",
       "publishedAt": "2025-07-11T15:56:15Z",
       "content": "The U.S. Food and Drug Administration (FDA) has designated a recall of multiple sunscreen products as Class II, the second highest of its three risk categories.\r\nThe affected products included popula… [+4083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Pierre-Emmanuel Dupont",
-      "title": "Striking Iran’s Nuclear Facilities: International Law Scholars Warn of Precedent-Setting Violations",
-      "description": "Noting that the 120 Member States of the Non-Aligned Movement (NAM) ‘categorically condemn and denounce in the strongest terms the wanton, unprovoked, and premeditated heinous attack by Israel against the Islamic Republic of Iran on 13 June 2025’,[1] and that…",
-      "url": "https://www.globalresearch.ca/striking-iran-nuclear-facilities-precedent-setting-violations/5894530",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/06/natanz-nuclear-facility-iran.png",
-      "publishedAt": "2025-07-11T14:52:39Z",
-      "content": "Noting that the 120 Member States of the Non-Aligned Movement (NAM) categorically condemn and denounce in the strongest terms the wanton, unprovoked, and premeditated heinous attack by Israel against… [+27731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "FDA Issues Risk Warning as Apples Recalled in Four States",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of thousands of cases of fruits and vegetables has been issued due to potential contamination—the second-highest risk warning given by the U.S. Food and Drug Administration (FDA).\nUnited Natural Foods…",
-      "url": "https://biztoc.com/x/090f57278b62030e",
-      "urlToImage": "https://biztoc.com/cdn/090f57278b62030e_s.webp",
-      "publishedAt": "2025-07-11T14:19:26Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of thousands of cases of fruits and vegetables has been issued due to potential contaminationthe second-highest risk warning given by the U.S… [+145 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "FDA Issues Risk Warning as Apples Recalled in Four States",
-      "description": "A recall of thousands of cases of fruits and vegetables has been issued due to potential fluid contamination—the second-highest risk warning given by the FDA.",
-      "url": "https://www.newsweek.com/apples-recalled-four-states-fda-issues-second-highest-risk-warning-2097798",
-      "urlToImage": "https://d.newsweek.com/en/full/2681289/apples.jpg",
-      "publishedAt": "2025-07-11T14:11:52Z",
-      "content": "A recall of thousands of cases of fruits and vegetables has been issued due to potential contamination—the second-highest risk warning given by the U.S. Food and Drug Administration (FDA).\r\nUnited Na… [+6458 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 0
 }
