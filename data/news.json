@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-18T18:36:24.897Z",
+  "lastUpdated": "2025-07-19T02:05:20.142Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Shtfplan.com"
+      },
+      "author": "Olivia Cook",
+      "title": "How Early Exposure To Mercury and Aluminum Impacts Brain Development, Immune Function",
+      "description": "Research published in the International Journal of Environmental Research and Public Health examines the potential effects of early exposure to ethylmercury (thimerosal) and aluminum in vaccines on infant brain development and immune function.",
+      "url": "https://www.shtfplan.com/headline-news/how-early-exposure-to-mercury-and-aluminum-impacts-brain-development-immune-function",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2019/12/vaccines-e1575550979159.jpg",
+      "publishedAt": "2025-07-17T22:30:45Z",
+      "content": "This article was originally published by Olivia Cook at Natural News. \r\n<ul><li><ul><li>Research published in the International Journal of Environmental Research and Public Health examines the potent… [+6579 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Anthony Robledo, USA TODAY",
+      "title": "Frozen sprouted beans linked to salmonella outbreak recalled",
+      "description": "Health officials have recalled a batch of frozen sprouted beans linked to a salmonella outbreak that has spread across 10 states.",
+      "url": "https://www.usatoday.com/story/money/food/2025/07/17/sprouted-beans-recall-salmonella-outbreak/85261348007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_111MF5YmXdOIhFLevUP.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAwO2NmPXdlYnA-/https://media.zenfs.com/en/usa_today_money_325/347c0b07b0ebfa9a78598fab6e396850",
+      "publishedAt": "2025-07-17T21:27:56Z",
+      "content": "Health officials have recalled a batch of frozen sprouted beans linked to a salmonella outbreak that has spread across 10 states.\r\nThe Chetak LLC Group recalled its deep brand frozen sprouted moong b… [+2600 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,32 +1235,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2681289/apples.jpg",
       "publishedAt": "2025-07-11T14:11:52Z",
       "content": "A recall of thousands of cases of fruits and vegetables has been issued due to potential contamination—the second-highest risk warning given by the U.S. Food and Drug Administration (FDA).\r\nUnited Na… [+6458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Rachel Morreale, Danilo O. Carvalho, Steven Stenhouse, Johanna Bajonero, Rui Pereira, Daniel A. Hahn, Aaron Lloyd, David F. Hoel",
-      "title": "Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022",
-      "description": "Author summary Aedes aegypti is a major nuisance mosquito in many warm places across the world. This species is particularly significant for vector control programs because it has high capacity to transmit viruses that can cause human disease including dengue…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013256.g005&size=inline",
-      "publishedAt": "2025-07-11T14:00:00Z",
-      "content": "Abstract\r\nAedes aegypti, an aggressive nuisance biter and the primary vector for numerous arboviruses, such as chikungunya, dengue, and Zika, presents significant control challenges due to its abilit… [+68861 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Daniel A. Andrade, Ana Ho-Palma, Cesar A. Valdivia-Carrera, Astrid Munguia, Christine Leyns, Javier Guitian, Eloy Gonzales-Gustavson",
-      "title": "Association between self-administrated prophylactics and SARS-CoV-2 infection among traditional market vendors from the Central Highlands of Peru: A nested case-control study",
-      "description": "Although COVID-19 is no longer a public health emergency of international concern, understanding behaviours such as self-medication remains relevant for informing future outbreak responses and improving public health preparedness. Despite its widespread use d…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327746",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327746.g004&size=inline",
-      "publishedAt": "2025-07-11T14:00:00Z",
-      "content": "Citation: Andrade DA, Ho-Palma A, Valdivia-Carrera CA, Munguia A, Leyns C, Guitian J, et al. (2025) Association between self-administrated prophylactics and SARS-CoV-2 infection among traditional mar… [+42285 chars]"
     }
   ],
   "totalResults": 95,
