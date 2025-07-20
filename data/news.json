@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-07-20T06:35:49.879Z",
+  "lastUpdated": "2025-07-20T12:50:37.395Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Tim Schauenberg",
+      "title": "Who is responsible for PFAS contamination?",
+      "description": "Hazardous \"forever chemicals\" contaminate drinking water, soil and food worldwide. Who is responsible for their contamination?",
+      "url": "https://www.dw.com/en/who-is-responsible-for-pfas-contamination/a-73215481",
+      "urlToImage": "https://static.dw.com/image/64795736_6.jpg",
+      "publishedAt": "2025-07-19T09:51:00Z",
+      "content": "The sleepy small town of Trissino lies at the foot of the Italian Alps, surrounded by lush fields, green hills and small industrial plants on its outskirts.\r\nThough there is nothing to suggest that g… [+5725 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -539,19 +552,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Watermelon: A hydrating and nutritious superfruit",
-      "description": "Watermelon is packed with vitamins, antioxidants and electrolytes, supporting immunity, heart health and hydration. This fruit boosts hydration (92 percent water) and digestion, enhances exercise recovery, reduces inflammation and helps lower one’s risk of ch…",
-      "url": "https://www.naturalnews.com/2025-07-17-watermelon-a-hydrating-and-nutritious-superfruit.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Watermelon-Background-Black-Closeup-Color-Cut-Delicious.jpg",
-      "publishedAt": "2025-07-17T06:00:00Z",
-      "content": "<ul><li>Watermelon is packed with vitamins, antioxidants and electrolytes, supporting immunity, heart health and hydration.</li><li>This fruit boosts hydration (92 percent water) and digestion, enhan… [+7892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Olivia Cook",
       "title": "How early exposure to mercury and aluminum impacts brain development, immune function",
       "description": "Research published in the International Journal of Environmental Research and Public Health examines the potential effects of early exposure to ethylmercury (thimerosal) and aluminum in vaccines on infant brain development and immune function. Babies, especia…",
@@ -559,6 +559,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Vaccine-Baby-Child-Pediatrician-Drug-Infant-0.jpg",
       "publishedAt": "2025-07-17T06:00:00Z",
       "content": "<ul><li>Research published in the International Journal of Environmental Research and Public Health examines the potential effects of early exposure to ethylmercury (thimerosal) and aluminum in vacci… [+6626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Watermelon: A hydrating and nutritious superfruit",
+      "description": "Watermelon is packed with vitamins, antioxidants and electrolytes, supporting immunity, heart health and hydration. This fruit boosts hydration (92 percent water) and digestion, enhances exercise recovery, reduces inflammation and helps lower one’s risk of ch…",
+      "url": "https://www.naturalnews.com/2025-07-17-watermelon-a-hydrating-and-nutritious-superfruit.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Watermelon-Background-Black-Closeup-Color-Cut-Delicious.jpg",
+      "publishedAt": "2025-07-17T06:00:00Z",
+      "content": "<ul><li>Watermelon is packed with vitamins, antioxidants and electrolytes, supporting immunity, heart health and hydration.</li><li>This fruit boosts hydration (92 percent water) and digestion, enhan… [+7892 chars]"
     },
     {
       "source": {
@@ -1222,19 +1235,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-122439406,width-1200,height-630,imgsize-4498,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-07-14T12:03:35Z",
       "content": "The Karnataka High Court has quashed the criminal proceedings against Hindustan Unilever Limited (HUL) managing director &amp; CEO Rohit Jawa in a case of food contamination under the Food Safety and… [+1061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutritionfacts.org"
-      },
-      "author": "Kristine Dennis PhD, MPH",
-      "title": "Drug Residues in Meat and Their Effect on Antibiotic Resistance",
-      "description": "What percentage of meat samples test positive for drug residue violations?",
-      "url": "https://nutritionfacts.org/video/drug-residues-in-meat-and-their-effect-on-antibiotic-resistance/",
-      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/06/69-23-drug-residues-in-meat-and-their-effect-on-antibiotic-resistance-1200x675.jpg",
-      "publishedAt": "2025-07-14T11:50:10Z",
-      "content": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Dennis may be referring, watch the above video.\r\nAccording to the World H… [+3690 chars]"
     }
   ],
   "totalResults": 95,
