@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-20T12:50:37.395Z",
+  "lastUpdated": "2025-07-20T18:34:08.118Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Water emergency hits Maryland counties — thousands told to boil tap water before use, is your area in the list?",
+      "description": "Boil water advisory Prince George’s County has been issued by WSSC Water after a 16-inch water main break near the Cheverly Metro station in Hyattsville. Over 11,200 residents in Cheverly, Capitol Heights, and Seat Pleasant are urged to boil tap water for one��",
+      "url": "https://economictimes.indiatimes.com/news/international/us/water-emergency-hits-maryland-counties-thousands-told-to-boil-tap-water-before-use-is-your-area-in-the-list/articleshow/122785023.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122785017,width-1200,height-630,imgsize-51550,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-19T16:30:24Z",
+      "content": "Boil water advisory in Prince Georges County: What residents in Cheverly, Capitol Heights, and Seat Pleasant need to know- A boil water advisory has been issued by WSSC Water after a 16-inch water ma… [+4256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Dirty water, warm trucks, and the real reason romaine keeps making us sick",
+      "description": "Romaine lettuce has a long history of E. coli outbreaks, but scientists are zeroing in on why. A new study reveals that the way lettuce is irrigated—and how it’s kept cool afterward—can make all the difference. Spraying leaves with untreated surface water is …",
+      "url": "https://www.sciencedaily.com/releases/2025/07/250718031225.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/romaine-lettuce-organic-farming.webp",
+      "publishedAt": "2025-07-19T14:27:03Z",
+      "content": "E. coli outbreaks in romaine lettuce have long been a public health concern. and now a new Cornell University paper suggests that a combination of efforts in the field, and even postharvest technique… [+2478 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -143,6 +169,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-focus-on-seafood---h.jpg",
       "publishedAt": "2025-07-18T15:37:31Z",
       "content": "How much microplastic truly ends up in the seafood on our plates? The answer varies significantly because there are no standardized analytical procedures in food monitoring to quantify the amount of … [+5252 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Martha Stewart"
+      },
+      "author": "Olivia McIntosh",
+      "title": "Nationwide Sausage Recall Hits Highest Alert Level—Here's What to Know",
+      "description": "The ready-to-eat chicken sausage was distributed to retail locations across the country.",
+      "url": "https://www.marthastewart.com/sausage-recall-july-2025-11774857",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vOeN8ZwFbgegKhT36AY5fQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/martha_stewart_living_393/4eea6a89b14203f336256826c3f220b5",
+      "publishedAt": "2025-07-18T15:30:00Z",
+      "content": "Key Points\r\n<ul><li>24,173 pounds of ready-to-eat chicken sausage were recalled due to potential plastic contamination.\r\n</li><li>On July 17, 2025, the USDA classified the recall as a Class I threat … [+2075 chars]"
     },
     {
       "source": {
@@ -632,7 +671,7 @@
       },
       "author": "Lisa Held",
       "title": "House Bill Would Halt Assessment of PFAS Risk on Farms",
-      "description": "July 16, 2025 – In a draft appropriations bill that House Republicans moved forward this week, lawmakers included a provision that would halt the progress of an influential Environmental Protection Agency (EPA) assessment related to the risks of forever chemi…",
+      "description": "July 16, 2025 ��� In a draft appropriations bill that House Republicans moved forward this week, lawmakers included a provision that would halt the progress of an influential Environmental Protection Agency (EPA) assessment related to the risks of forever chemi…",
       "url": "https://civileats.com/2025/07/16/house-bill-would-halt-assessment-of-pfas-risk-on-farms/",
       "urlToImage": "https://civileats.com/wp-content/uploads/2025/01/250121-Civil-Eats-Food-Policy-Tracker-2025-Logo-rectangle.jpg",
       "publishedAt": "2025-07-16T21:19:55Z",
@@ -1196,45 +1235,6 @@
       "urlToImage": "https://mma.prnewswire.com/media/2015407/VMR_Logo.jpg?p=facebook",
       "publishedAt": "2025-07-14T14:01:00Z",
       "content": "The Copper Tubes Market presents strong growth opportunities, especially in Asia Pacific, where infrastructure development and HVAC demand are surging. While drivers such as rising renewable energy a… [+15430 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Son Hai Nguyen, Mai Thi Tran",
-      "title": "A non-enzymatic doxycycline absorbance sensor based on manganese-doped zinc sulfide nanoparticles coated with chitosan",
-      "description": "The need for doxycycline detection is urgent because it is a vital antibiotic extensively utilized to combat bacterial diseases in humans and animals, and it is now at the forefront of the global battle against antibiotic resistance. Our research introduces a…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328304",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328304.g006&size=inline",
-      "publishedAt": "2025-07-14T14:00:00Z",
-      "content": "Enzyme-free biosensors based on (ZnS:Mn)@CH to detect Doxycycline\r\nIn previous work, ZnS:Mn nanoparticles coated with chitosan ((ZnS:Mn)CS) were successfully synthesized and thoroughly characterized … [+17971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lena Huebl, Aloysious Nnyombi, Patricia Apoko, Denis Okello, Eddy Walakira, Ruth Kutalek",
-      "title": "Community perceptions of yellow fever and its treatment practices in regions with reported outbreaks in Uganda: A qualitative study",
-      "description": "Author summary Yellow fever is a life-threatening disease transmitted by mosquitoes, with frequent outbreaks in Uganda despite a highly effective vaccine. This study addresses disease perceptions and treatment practices in communities affected by yellow fever…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013251",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013251.g002&size=inline",
-      "publishedAt": "2025-07-14T14:00:00Z",
-      "content": "Introduction\r\nYellow fever (YF) is a viral hemorrhagic fever transmitted by Aedes or Haemagogus species mosquitoes and is endemic to tropical regions of South America and Africa [1]. The disease can … [+57602 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Bureau",
-      "title": "Karnataka HC quashes criminal proceedings against HUL CEO Rohit Jawa",
-      "description": "The Karnataka High Court has dismissed a food contamination case against Hindustan Unilever Limited CEO Rohit Jawa. The case involved Horlicks biscuits found with excessive pesticide levels. The court allows a fresh complaint, directing authorities to include…",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/karnataka-hc-quashes-criminal-proceedings-against-hul-ceo-rohit-jawa/articleshow/122439487.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122439406,width-1200,height-630,imgsize-4498,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-14T12:03:35Z",
-      "content": "The Karnataka High Court has quashed the criminal proceedings against Hindustan Unilever Limited (HUL) managing director &amp; CEO Rohit Jawa in a case of food contamination under the Food Safety and… [+1061 chars]"
     }
   ],
   "totalResults": 95,
