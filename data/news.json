@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-07-22T02:10:39.380Z",
+  "lastUpdated": "2025-07-22T06:39:01.644Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Belle Carter",
+      "title": "Cheese lovers beware: Study reveals alarming levels of MICROPLASTICS in dairy products",
+      "description": "A study revealed that ripened cheeses contain an average of 1,857 microplastic particles per kilogram, which is 45 times higher than the levels found in bottled water. Fresh cheeses and milk also showed significant contamination, with 1,280 and 350 particles …",
+      "url": "https://www.naturalnews.com/2025-07-21-study-reveals-alarming-levels-microplastics-dairy-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/selection-of-cheeses-2.jpg",
+      "publishedAt": "2025-07-21T06:00:00Z",
+      "content": "<ul><li>A study revealed that ripened cheeses contain an average of 1,857 microplastic particles per kilogram, which is 45 times higher than the levels found in bottled water. Fresh cheeses and milk … [+5778 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,19 +1235,6 @@
       "urlToImage": "https://img.particlenews.com/img/id/0LXHvm_12gQnqmc00",
       "publishedAt": "2025-07-15T01:01:53Z",
       "content": "Research has uncovered microplastic and nanoplastic contamination in our food from plastic food packaging. \r\nThe plastic fragments can migrate into foodstuffs from food contact articles (FCAs), posin… [+2764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "World Market Recalls Emek Spread Pistachio Cacao Cream with Kadayif Due to Salmonella Contamination",
-      "description": "World Market is recalling EMEK SPREAD PISTACHIO CACAO CREAM WITH KADAYIF, 9.7oz, Best Before: April 01, 2027, Batch Number: 250401 due to a potential contamination of Salmonella.   Salmonella is an organism which can cause serious and sometimes fatal infectio…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/world-market-recalls-emek-spread-pistachio-cacao-cream-kadayif-due-salmonella-contamination",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-07-14T22:24:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJuly 14, 2025\r\nFDA Publish Date:\r\nJuly 14, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Description\r\nCom… [+2217 chars]"
     }
   ],
   "totalResults": 95,
