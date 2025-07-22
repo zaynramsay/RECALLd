@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-22T06:39:01.644Z",
+  "lastUpdated": "2025-07-22T12:56:10.788Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Taylor Leamey",
+      "title": "Want to Avoid Microplastics? Start by Skipping These 8 Foods",
+      "description": "Microplastics are showing up in foods you probably eat every single day.",
+      "url": "https://www.cnet.com/health/nutrition/want-to-avoid-microplastics-start-by-skipping-these-8-foods/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-21T12:00:15Z",
+      "content": "Microplastics used to sound like a distant environmental issue, but they're showing up in more places than you'd expect, including the food we eat every day. According to new research, even something… [+10609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox Business",
+      "title": "Company recalls more than 24,000 pounds of chicken sausage due to possible plastic contamination",
+      "description": "A company is recalling more than 24,000 pounds of chicken sausage after customers reported finding pieces of plastic inside some of the meat, the U.S. Department of Agriculture (USDA) said this week.",
+      "url": "https://nypost.com/2025/07/21/lifestyle/kayem-foods-inc-recalls-chicken-sausage-due-to-plastic-contamination/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/massachusetts-company-kayem-foods-inc-108482218.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-07-21T11:23:23Z",
+      "content": "A company is recalling more than 24,000 pounds of chicken sausage after customers reported finding pieces of plastic inside some of the meat, the U.S. Department of Agriculture (USDA) said this week.… [+1422 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Your Smartwatch Could Carry a Hidden Health Risk",
+      "description": "Smartwatches are a widely worn accessory—with around one in five Americans wearing either a smartwatch or wearable fitness tracker, according to one survey.",
+      "url": "https://www.newsweek.com/smartwatch-hidden-health-risk-2099529",
+      "urlToImage": "https://d.newsweek.com/en/full/2684307/your-smartwatch-could-carry-hidden-risk.png",
+      "publishedAt": "2025-07-21T09:00:01Z",
+      "content": "Smartwatch bands have been found to contain high levels of a potentially harmful chemical that researchers believe can be absorbed through the skin, raising the question of whether the popular access… [+10499 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,45 +1235,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Grapes-Background.jpg",
       "publishedAt": "2025-07-15T06:00:00Z",
       "content": "<ul><li>Grapes are rich in vitamins (C, K), minerals (potassium), fiber and antioxidants like resveratrol and quercetin, supporting heart health, immunity and digestion.</li><li>Their polyphenols and… [+6730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Menopausewiki.ca"
-      },
-      "author": "twoOHfour",
-      "title": "The Menopause Wiki",
-      "description": "Get comprehensive information on menopause. Stages, symptoms, coping strategies, treatment options, menopause hormone therapy (MHT/HRT), and much more are covered in detail.",
-      "url": "https://menopausewiki.ca/",
-      "urlToImage": null,
-      "publishedAt": "2025-07-15T05:47:01Z",
-      "content": "The official menopause wiki for Lemmy's c/menopause community, and its Reddit siblings, r/menopause and r/perimenopause.\r\nThe following information is intended for educational purposes only, to provi… [+150200 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Yogurt Recall Sparks Nationwide Warning to Customers",
-      "description": "All YoCrunch® yogurt flavors and sizes are being voluntarily recalled due to fears of potential plastic pieces in the dome topper.",
-      "url": "https://www.newsweek.com/yogurt-recall-sparks-nationwide-warning-customers-2098953",
-      "urlToImage": "https://d.newsweek.com/en/full/2683144/yocrunch-yogurt-recall.jpg",
-      "publishedAt": "2025-07-15T03:11:36Z",
-      "content": "Danone U.S. is recalling all YoCrunch® products due to fears of potential plastic pieces in the dome topper.\r\nNewsweek has reached out to the company via email Monday night for comment.\r\nWhy It Matte… [+2754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Brent Wiggins",
-      "title": "Researchers issue warning after discovering hidden health risk in common food products: 'Further research is needed' - NewsBreak",
-      "description": "This study adds to a growing body of evidence.  Researchers issue warning after discovering hidden health risk in common food products: 'Further research i",
-      "url": "https://www.newsbreak.com/share/4106132017130-researchers-issue-warning-after-discovering-hidden-health-risk-in-common-food-products-further-research-is-needed?s=a2&amp;share_destination_id=MjI0MTEwNzc1LTE3NTI1NDEyNjYxOTM%3D&amp;pd=0FALRvVD&amp;hl=en_US&amp;send_time=1752541266&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.27.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q3-v1%2Cns_foryou_model_exp_25q2_v2-v8%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_blend_exp_25q2-v7",
-      "urlToImage": "https://img.particlenews.com/img/id/0LXHvm_12gQnqmc00",
-      "publishedAt": "2025-07-15T01:01:53Z",
-      "content": "Research has uncovered microplastic and nanoplastic contamination in our food from plastic food packaging. \r\nThe plastic fragments can migrate into foodstuffs from food contact articles (FCAs), posin… [+2764 chars]"
     }
   ],
   "totalResults": 95,
