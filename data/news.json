@@ -1,18 +1,57 @@
 {
-  "lastUpdated": "2025-07-23T06:39:25.291Z",
+  "lastUpdated": "2025-07-23T12:56:19.076Z",
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Naturalnews.com"
+        "name": "Newser"
       },
-      "author": "Laura Harris",
-      "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
-      "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
-      "url": "https://www.naturalnews.com/2025-07-22-blackberries-versatile-source-nutrition-disease-fighting-antioxidants.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
+      "author": "Arden Dier with Newser.AI",
+      "title": "Glass Bottles May Hold More Microplastics Than Plastic Ones",
+      "description": "A new study reveals that the simple act of opening a metal bottle cap could be adding unexpected microplastics to your favorite drink—potentially making glass bottles the most contaminated of all. Researchers at France's food safety agency looked at beer, wat…",
+      "url": "https://www.newser.com/story/372251/glass-bottles-may-hold-more-microplastics-than-plastic-ones.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1623579-12-20250722070306.jpeg",
+      "publishedAt": "2025-07-22T12:03:05Z",
+      "content": "A new study reveals that the simple act of opening a metal bottle cap could be adding unexpected microplastics to your favorite drink—potentially making glass bottles the most contaminated of all. Re… [+1539 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sandee Lamotte",
+      "title": "Eco-friendly menstrual products test high in toxic chemicals, study finds | CNN",
+      "description": "Use of environmentally conscious menstrual products are on the rise. A new study finds that some contain exceedingly high levels of toxic chemicals from plastics.",
+      "url": "https://www.cnn.com/2025/07/22/health/toxins-reusable-menstrual-products-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1394998429.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-07-22T12:00:41Z",
+      "content": "Extremely high levels of toxic chemicals called PFAS (perfluoroalkyl and polyfluoroalkyl substances) have been found in a small sampling of reusable menstrual pads and panties, according to a new stu… [+5130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Colin Todhunter",
+      "title": "Suffer Little Children — Poisoned by Pesticides and Damaged by Ultra-Processed Foods. Colin Todhunter",
+      "description": "Baskut Tuncak is a prominent expert and advocate in the field of human rights and environmental law. He has served as the United Nations Special Rapporteur on human rights and hazardous substances and wastes, where he highlighted the human rights …\nThe post S…",
+      "url": "https://www.globalresearch.ca/pesticides-ultra-processed-foods/5895651",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2018/09/pesticides-chemical.jpg",
+      "publishedAt": "2025-07-22T11:53:17Z",
+      "content": "Baskut Tuncak is a prominent expert and advocate in the field of human rights and environmental law. He has served as the United Nations Special Rapporteur on human rights and hazardous substances an… [+11912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kffhealthnews.org"
+      },
+      "author": "Marina Schauffler",
+      "title": "Amid PFAS Fallout, a Maine Doctor Navigates Medical Risks With Her Patients",
+      "description": "A doctor doing environmental health research in rural Maine is working to establish the best practices to treat patients exposed to “forever chemicals,” potentially leading the way for practitioners across the nation.",
+      "url": "https://kffhealthnews.org/news/article/pfas-forever-chemicals-tainted-water-maine/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/07/PFAS-Maine_13_resized.jpg",
+      "publishedAt": "2025-07-22T09:00:00Z",
+      "content": "Marina SchaufflerWhen Lawrence and Penny Higgins of Fairfield, Maine, first learned in 2020 that high levels of toxic chemicals called PFAS taint their home’s well water, they wondered how their heal… [+11283 chars]"
     },
     {
       "source": {
@@ -26,6 +65,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
       "publishedAt": "2025-07-22T06:00:00Z",
       "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
+      "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
+      "url": "https://www.naturalnews.com/2025-07-22-blackberries-versatile-source-nutrition-disease-fighting-antioxidants.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
+      "publishedAt": "2025-07-22T06:00:00Z",
+      "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
     },
     {
       "source": {
@@ -214,19 +266,6 @@
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "Precedence Research",
-      "title": "Single-Serve Packaging Market to Witness Astounding Growth from 2025 to 2034",
-      "description": "According to Towards Packaging consultants, from 2025 to 2034, the global single-serve packaging market is set for a massive revenue upswing, with growth projected to reach hundreds of millions of dollars. In 2024, North America led the single-serve packaging…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118832/0/en/Single-Serve-Packaging-Market-to-Witness-Astounding-Growth-from-2025-to-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-07-21T14:00:00Z",
-      "content": "Ottawa, July 21, 2025 (GLOBE NEWSWIRE) -- The global single-serve packaging market size witnessed substantial growth in 2025 and is projected to achieve remarkable expansion by 2034, according to a s… [+26010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
       "author": "SNS Insider pvt ltd",
       "title": "Oil Free Air Compressor Market To USD 20.21 Billion By 2032, Owing To Surging Demand For Contamination-Free Air And Tightening CleanAir Regulations | Report by SNS Insider",
       "description": "Rising adoption of oil-free air compressors across industries such as food & beverage, pharmaceuticals, and electronics, coupled with mounting regulatory pressure for environmental safety and stringent cleanair standards, drives innovation in energy efficienc…",
@@ -234,6 +273,19 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
       "publishedAt": "2025-07-21T14:00:00Z",
       "content": "Austin, July 21, 2025 (GLOBE NEWSWIRE) -- The Oil Free Air Compressor Market\r\nsize was valued at USD14.25billion in 2024 and is expected to reach USD20.21billion by 2032, growing at a CAGR of 4.47% o… [+7177 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Single-Serve Packaging Market to Witness Astounding Growth from 2025 to 2034",
+      "description": "According to Towards Packaging consultants, from 2025 to 2034, the global single-serve packaging market is set for a massive revenue upswing, with growth projected to reach hundreds of millions of dollars. In 2024, North America led the single-serve packaging…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118832/0/en/Single-Serve-Packaging-Market-to-Witness-Astounding-Growth-from-2025-to-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-07-21T14:00:00Z",
+      "content": "Ottawa, July 21, 2025 (GLOBE NEWSWIRE) -- The global single-serve packaging market size witnessed substantial growth in 2025 and is projected to achieve remarkable expansion by 2034, according to a s… [+26010 chars]"
     },
     {
       "source": {
@@ -1196,47 +1248,8 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328356.g008&size=inline",
       "publishedAt": "2025-07-16T14:00:00Z",
       "content": "Abstract\r\nSoil can pose significant radiation hazard in areas with elevated radioactivity levels from geological or anthropogenic sources, potentially contributing to human exposure through the food … [+55023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "$700 Mn ETFE & ECTFE Coatings Market by Chemistry, Form, End-Use Industry, Product and Region - Global Forecast to 2030",
-      "description": "The ETFE & ECTFE coatings market is set to expand from USD 0.5 billion in 2024 to USD 0.7 billion by 2030, at a CAGR of 5.0%, driven by industrial demand for corrosion-resistant coatings. ETFE exhibits superior chemical resistance and thermal stability, ideal…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116535/28124/en/700-Mn-ETFE-ECTFE-Coatings-Market-by-Chemistry-Form-End-Use-Industry-Product-and-Region-Global-Forecast-to-2030.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-07-16T13:32:00Z",
-      "content": "Dublin, July 16, 2025 (GLOBE NEWSWIRE) -- The \"ETFE &amp; ECTFE Coatings Market by Chemistry, Form, End-Use Industry, Product and Region - Global Forecast to 2030\" has been added to ResearchAndMarket… [+6662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Happy Go Leafy",
-      "title": "Where to Buy Kratom Online in 2025: Happy Go Leafy Ranked Among the Best Kratom Brands for Quality and Transparency",
-      "description": "Check out this 2025 review of Happy Go Leafy, a top kratom brand offering quality products, a wide variety of strains, and transparency in sourcing and testing. Check out this 2025 review of Happy Go Leafy, a top kratom brand offering quality products, a wide…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116528/0/en/Where-to-Buy-Kratom-Online-in-2025-Happy-Go-Leafy-Ranked-Among-the-Best-Kratom-Brands-for-Quality-and-Transparency.html",
-      "urlToImage": null,
-      "publishedAt": "2025-07-16T13:30:00Z",
-      "content": "Miami, Florida, July 16, 2025 (GLOBE NEWSWIRE) -- Kratom has become increasingly prominent in wellness conversations across the U.S., with more consumers turning to it for its plant-based properties.… [+25260 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Exhalewellnes",
-      "title": "THC Gummies: ExhaleWellness Launches New D9+ CBN Sleep Gummies",
-      "description": "ExhaleWellness officially launches its new D9+ CBN sleep gummies, reported as the best THC gummies for sleep support by users. Read why it stands out. ExhaleWellness officially launches its new D9+ CBN sleep gummies, reported as the best THC gummies for sleep…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116239/0/en/THC-Gummies-ExhaleWellness-Launches-New-D9-CBN-Sleep-Gummies.html",
-      "urlToImage": null,
-      "publishedAt": "2025-07-16T10:49:00Z",
-      "content": "Charlotte, NC, July 16, 2025 (GLOBE NEWSWIRE) -- ExhaleWellness, known for its practical and affordable hemp-based wellness formulations, has officially announced the launch of its first-ever full-sp… [+10572 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 96,
   "filteredCount": 0
 }
