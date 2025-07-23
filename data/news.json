@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-22T18:38:15.928Z",
+  "lastUpdated": "2025-07-23T02:11:41.229Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Tuna Salad Products Recall Map Shows States With New Warning",
+      "description": "The recall was initiated due to fears the tuna salad products are potentially contaminated with Listeria.",
+      "url": "https://www.newsweek.com/tuna-salad-products-recall-map-shows-states-new-warning-2102072",
+      "urlToImage": "https://d.newsweek.com/en/full/2687564/tuna-salad-product-recall.jpg",
+      "publishedAt": "2025-07-22T01:45:55Z",
+      "content": "Albertsons, Randalls and Tom Thumb stores in four states are recalling certain items containing tuna salad supplied by Reser's Fine Foods due to fears of potential Listeria contamination.\r\nNewsweek r… [+2932 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Men's Journal"
+      },
+      "author": "Anne Erickson",
+      "title": "FDA Announces Major Recall of Popular Chocolate Item",
+      "description": "It's a good thing the U.S. Food and Drug Administration is staying on top of the latest recalls, because knowing about new recalls impacts people's lives...",
+      "url": "https://www.mensjournal.com/news/fda-announces-major-recall-of-popular-chocolate-item",
+      "urlToImage": "https://media.zenfs.com/en/men_s_journal_718/f48796627e31e6c7b50b646c544be198",
+      "publishedAt": "2025-07-22T00:14:57Z",
+      "content": "It's a good thing the U.S. Food and Drug Administration is staying on top of the latest recalls, because knowing about new recalls impacts people's lives. The sooner you find out about an item that f… [+2013 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Skinner",
+      "title": "Ice Cream Recall In 23 States After Possible Listeria Contamination",
+      "description": "The ice cream bars are typically distributed in schools across the U.S. Twenty-three states are affected by the recall.",
+      "url": "https://www.newsweek.com/ice-cream-recall-listeria-richs-2102024",
+      "urlToImage": "https://d.newsweek.com/en/full/2687495/ice-cream-recall.jpg",
+      "publishedAt": "2025-07-21T23:13:17Z",
+      "content": "Millions of ice cream bars distributed in schools and businesses across 23 states have been recalled amid possible listeria contamination, with the U.S. Food and Drug Administration (FDA) warning of … [+3179 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,45 +1235,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/freeze-dried-raspberries-in-a-glass-jar-fresh-raspberries-with-leaves-1.jpg",
       "publishedAt": "2025-07-16T06:00:00Z",
       "content": "<ul><li>Raspberries are rich in vitamins, minerals, fiber and antioxidants like ellagic acid and anthocyanins. Just one cup provides over 50 percent of the daily vitamin C requirement.</li><li>Raspbe… [+9422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "E. coli in “organic” beef: The Whole Foods Market wake-up call people didn’t see coming",
-      "description": "Whole Foods Markets ground beef alert – not a recall, but a public health warning – was issued for Organic Rancher brand ground beef sold in 27 states due to potential E. coli contamination. Affected packages are labeled “85 percent lean, 15 percent fat” with…",
-      "url": "https://www.naturalnews.com/2025-07-16-e-coli-organic-beef-whole-foods-wakeup-call.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Meat-Supermarket-Grocery-Poultry-Store-Shelf-Section.jpg",
-      "publishedAt": "2025-07-16T06:00:00Z",
-      "content": "<ul><li>Whole Foods Markets ground beef alert not a recall, but a public health warning  was issued for Organic Rancher brand ground beef sold in 27 states due to potential E. coli contamination.</li… [+6007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Kelsey Kryger",
-      "title": "FDA Urgently Recalls Popular Vegetable Over Deadly Health Risk - NewsBreak",
-      "description": "FDA Urgently Recalls Popular Vegetable Over Deadly Health Risk - NewsBreaknewsbreak.com",
-      "url": "https://www.newsbreak.com/share/4107226757746-fda-urgently-recalls-popular-vegetable-over-deadly-health-risk?s=a2&amp;share_destination_id=MzY5MjEyMzUtMTc1MjYzNzIwNjkxMQ%3D%3D&amp;pd=02UutnTQ&amp;hl=en_US&amp;send_time=1752637206&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.28.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q3-v4%2Cns_foryou_blend_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v3%2Cns_foryou_rank_exp_25q2-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/4015Xs_12hXHzYn00",
-      "publishedAt": "2025-07-16T03:40:46Z",
-      "content": "If mushrooms make a regular appearance in your meal rotations, you may want to heed caution. \r\nLLK Trading Inc. has issued a recall of its 200 gram packages of needle mushrooms due to a potential con… [+1707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Tom Rose",
-      "title": "Petition calls for halt to Gene Technology Bill as export leaders urge cautious approach",
-      "description": "Beef + Lamb NZ has asked Government to 'slow down' and 'consult properly' with farmers.",
-      "url": "https://www.nzherald.co.nz/nz/politics/petition-calls-for-halt-to-gene-technology-bill-as-export-leaders-urge-cautious-approach/7M42I7HWMZARZFD3EGUMQCCLYY/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QNESJGIOTNEWXA3JQC7GM57ZY4.jpg?auth=f8bd34260bbc32f9a35a63e4d0b860e5c913ecce05f3cd208fbd5076b4f9a39c&width=1200&height=675&quality=70&focal=1423%2C1147&smart=false",
-      "publishedAt": "2025-07-16T02:42:52Z",
-      "content": "The bill will establish a new system for regulating gene technology and genetically modified organisms (GMOs), replacing the current framework under the Hazardous Substances and New Organisms Act 199… [+6219 chars]"
     }
   ],
   "totalResults": 95,
