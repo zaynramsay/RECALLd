@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-07-24T06:39:25.721Z",
+  "lastUpdated": "2025-07-24T12:55:52.649Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Kate Byrne",
+      "title": "Food regulator recalls 141 types of ready meals sold in Centra, Supervalu, Tesco, Aldi",
+      "description": "Consumers are warned not to eat named products due to possible contamination with harmful bacteria",
+      "url": "https://www.irishtimes.com/ireland/2025/07/23/food-regulator-recalls-141-types-of-ready-meals-sold-in-centra-supervalu-tesco-aldi/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/UTUDUOCIEP5M2PU5B4K54J26KU.jpg?smart=true&auth=c10e9e806b68a4ecdac302b02edba61fb2f8ce2e26ca24cf08f9b0fb32c1becc&width=1200&height=630",
+      "publishedAt": "2025-07-23T11:11:10Z",
+      "content": "Consumers are being warned not to eat certain ready-made meals and side dishes sold in major supermarkets as they may be contaminated with Listeria monocytogenes, a harmful bacteria. \r\nOne hundred an… [+2737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Richmond.com"
+      },
+      "author": "SEAN JONES Richmond Times-Dispatch",
+      "title": "900 acres along Mountain Road targeted for development",
+      "description": "The entire 900-acre area would include a commercial corridor and a large industrial area for uses like data centers.",
+      "url": "https://richmond.com/news/local/business/development/article_e45812fa-7425-4223-b1d7-ebc4efb41a95.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/45/e45812fa-7425-4223-b1d7-ebc4efb41a95/687fcda379a37.preview.jpg?crop=1664%2C874%2C0%2C186&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-23T09:00:00Z",
+      "content": "Hanover is looking at the 900-acre area around the now vacant Tysons Chicken processing plant as a new gateway to the county.\r\nThe areas off of Route 33 would become a retail and dining area, with th… [+9493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Sh!t happens, so Microsoft is paying biz to flush its carbon sins underground",
+      "description": "Organic waste to be pumped out of sight as part of 4.9M-tonne CO2 removal deal Microsoft has signed a contract with a company that will pump shit underground for it in exchange for carbon credits.…",
+      "url": "https://www.theregister.com/2025/07/23/microsoft_carbon_removal_agreement/",
+      "urlToImage": "https://regmedia.co.uk/2021/12/22/shutterstock_stink.jpg",
+      "publishedAt": "2025-07-23T08:30:10Z",
+      "content": "Microsoft has signed a contract with a company that will pump shit underground for it in exchange for carbon credits.\r\nAccording to Vaulted Deep, a waste management biz headquartered in Houston, Texa… [+3103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Human Rights Watch"
+      },
+      "author": "Human Rights Watch",
+      "title": "Yemen: Houthi’s Attacks on Cargo Ships Apparent War Crimes",
+      "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n The Eternity C sinks after it was struck by a Houthi missile on July 8, 2025, on the Red Sea.\n © 2025 Houthi Media Center/Getty Images\n \n \n\n\n \n(Beirut) – The Houthi armed group in Yemen attacked two commercial cargo …",
+      "url": "https://www.hrw.org/news/2025/07/23/yemen-houthis-attacks-on-cargo-ships-apparent-war-crimes",
+      "urlToImage": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/07/202507mena_yemen_houthi_strike_ship.jpg?h=3542c8f9&itok=_UJP2il3",
+      "publishedAt": "2025-07-23T08:00:00Z",
+      "content": "(Beirut) The Houthi armed group in Yemen attacked two commercial cargo vessels in the Red Sea between July 6 and 9, 2025, violations of the laws of war amounting to war crimes, Human Rights Watch sai… [+7426 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -422,19 +474,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
-      "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
-      "url": "https://www.naturalnews.com/2025-07-22-deli-products-recalled-canada-over-salmonella-outbreak.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
       "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
@@ -442,6 +481,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
       "publishedAt": "2025-07-22T06:00:00Z",
       "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
+      "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
+      "url": "https://www.naturalnews.com/2025-07-22-deli-products-recalled-canada-over-salmonella-outbreak.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
+      "publishedAt": "2025-07-22T06:00:00Z",
+      "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
     },
     {
       "source": {
@@ -630,19 +682,6 @@
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "SNS Insider pvt ltd",
-      "title": "Oil Free Air Compressor Market To USD 20.21 Billion By 2032, Owing To Surging Demand For Contamination-Free Air And Tightening CleanAir Regulations | Report by SNS Insider",
-      "description": "Rising adoption of oil-free air compressors across industries such as food & beverage, pharmaceuticals, and electronics, coupled with mounting regulatory pressure for environmental safety and stringent cleanair standards, drives innovation in energy efficienc…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118835/0/en/Oil-Free-Air-Compressor-Market-To-USD-20-21-Billion-By-2032-Owing-To-Surging-Demand-For-Contamination-Free-Air-And-Tightening-CleanAir-Regulations-Report-by-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-07-21T14:00:00Z",
-      "content": "Austin, July 21, 2025 (GLOBE NEWSWIRE) -- The Oil Free Air Compressor Market\r\nsize was valued at USD14.25billion in 2024 and is expected to reach USD20.21billion by 2032, growing at a CAGR of 4.47% o… [+7177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
       "author": "Precedence Research",
       "title": "Single-Serve Packaging Market to Witness Astounding Growth from 2025 to 2034",
       "description": "According to Towards Packaging consultants, from 2025 to 2034, the global single-serve packaging market is set for a massive revenue upswing, with growth projected to reach hundreds of millions of dollars. In 2024, North America led the single-serve packaging…",
@@ -650,6 +689,19 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
       "publishedAt": "2025-07-21T14:00:00Z",
       "content": "Ottawa, July 21, 2025 (GLOBE NEWSWIRE) -- The global single-serve packaging market size witnessed substantial growth in 2025 and is projected to achieve remarkable expansion by 2034, according to a s… [+26010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "SNS Insider pvt ltd",
+      "title": "Oil Free Air Compressor Market To USD 20.21 Billion By 2032, Owing To Surging Demand For Contamination-Free Air And Tightening CleanAir Regulations | Report by SNS Insider",
+      "description": "Rising adoption of oil-free air compressors across industries such as food & beverage, pharmaceuticals, and electronics, coupled with mounting regulatory pressure for environmental safety and stringent cleanair standards, drives innovation in energy efficienc…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118835/0/en/Oil-Free-Air-Compressor-Market-To-USD-20-21-Billion-By-2032-Owing-To-Surging-Demand-For-Contamination-Free-Air-And-Tightening-CleanAir-Regulations-Report-by-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-07-21T14:00:00Z",
+      "content": "Austin, July 21, 2025 (GLOBE NEWSWIRE) -- The Oil Free Air Compressor Market\r\nsize was valued at USD14.25billion in 2024 and is expected to reach USD20.21billion by 2032, growing at a CAGR of 4.47% o… [+7177 chars]"
     },
     {
       "source": {
@@ -1183,47 +1235,8 @@
       "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWHOYUKSG5BLJLIGQ2NX5P2IGM.jpg?auth=0834b30f1483618675ade08cd1efa0d442e6dec71fc2d15b2ed236b3b407ba78&width=1200&height=630&smart=true",
       "publishedAt": "2025-07-17T18:02:51Z",
       "content": "The Food and Drug Administration has announced the recall of two types of sprouted beans because they may be contaminated with Salmonella. \r\nThe recall affects frozen Deep Spouted Mat (Moth) and Deep… [+848 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WFTV Orlando"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Sprouted beans sold nationwide recalled for potential Salmonella contamination",
-      "description": "The Food and Drug Administration has announced the recall of two types of sprouted beans because they may be contaminated with Salmonella.",
-      "url": "https://www.wftv.com/news/trending/recall-alert-sprouted-beans-sold-nationwide-recalled-potential-salmonella-contamination/EX2IUF2QB5FONIZ6V22U3MWOBE/",
-      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWHOYUKSG5BLJLIGQ2NX5P2IGM.jpg?auth=0834b30f1483618675ade08cd1efa0d442e6dec71fc2d15b2ed236b3b407ba78&width=1200&height=630&smart=true",
-      "publishedAt": "2025-07-17T16:53:47Z",
-      "content": "The Food and Drug Administration has announced the recall of two types of sprouted beans because they may be contaminated with Salmonella. \r\nThe recall affects frozen Deep Spouted Mat (Moth) and Deep… [+848 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Sprouted beans sold nationwide recalled for potential Salmonella contamination",
-      "description": "The Food and Drug Administration has announced the recall of two types of sprouted beans because they may be contaminated with Salmonella.",
-      "url": "https://www.wpxi.com/news/trending/recall-alert-sprouted-beans-sold-nationwide-recalled-potential-salmonella-contamination/EX2IUF2QB5FONIZ6V22U3MWOBE/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWHOYUKSG5BLJLIGQ2NX5P2IGM.jpg?auth=0834b30f1483618675ade08cd1efa0d442e6dec71fc2d15b2ed236b3b407ba78&width=1200&height=630&smart=true",
-      "publishedAt": "2025-07-17T16:50:57Z",
-      "content": "The Food and Drug Administration has announced the recall of two types of sprouted beans because they may be contaminated with Salmonella. \r\nThe recall affects frozen Deep Spouted Mat (Moth) and Deep… [+848 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSOC Charlotte"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Sprouted beans sold nationwide recalled for potential Salmonella contamination",
-      "description": "The Food and Drug Administration has announced the recall of two types of sprouted beans because they may be contaminated with Salmonella.",
-      "url": "https://www.wsoctv.com/news/trending/recall-alert-sprouted-beans-sold-nationwide-recalled-potential-salmonella-contamination/EX2IUF2QB5FONIZ6V22U3MWOBE/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWHOYUKSG5BLJLIGQ2NX5P2IGM.jpg?auth=0834b30f1483618675ade08cd1efa0d442e6dec71fc2d15b2ed236b3b407ba78&width=1200&height=630&smart=true",
-      "publishedAt": "2025-07-17T16:45:15Z",
-      "content": "The Food and Drug Administration has announced the recall of two types of sprouted beans because they may be contaminated with Salmonella. \r\nThe recall affects frozen Deep Spouted Mat (Moth) and Deep… [+848 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 95,
   "filteredCount": 0
 }
