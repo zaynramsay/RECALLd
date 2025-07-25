@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-07-24T18:37:48.307Z",
+  "lastUpdated": "2025-07-25T02:10:25.757Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "Dr. Mercola",
+      "title": "Black Mold Is More Likely to Trigger Allergies Than Cause Toxic Reactions",
+      "description": "We live in a fungal world, and it’s likely that 30% to 40% of homes and offices contain some type of mold. And when you inhale air every day, it’s not unlikely that you’re also breathing in mold spores. One particular type, black mold, has gained a negative r…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/07/24/black-mold-allergies.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/July/FB/black-mold-allergies-fb.jpg",
+      "publishedAt": "2025-07-24T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Alex Portée",
+      "title": "Tuna Salad Products Recalled in 7 States Over Listeria Risk. See the List",
+      "description": "Multiple grocery chains in the South and Midwest recalled their prepared tuna salad products over potential listeria contamination",
+      "url": "https://www.today.com/health/tuna-salad-recall-rcna220575",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/tuna-salad-recall-zz-250723-80e4f6.jpg",
+      "publishedAt": "2025-07-23T23:14:41Z",
+      "content": "Multiple grocery chains in the South and Midwest recalled their prepared tuna salad products over potential listeria contamination.\r\nOn July 21, the U.S. Food and Drug Administration published two re… [+4601 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Canned Fruit Recall Sparks Nationwide Warning to Customers",
+      "description": "Elevated levels of lead and cadmium can cause significant health problems, particularly among infants and children.",
+      "url": "https://www.newsweek.com/canned-fruit-recall-sparks-nationwide-warning-customers-2103213",
+      "urlToImage": "https://d.newsweek.com/en/full/2689071/recalled-pear-slices.png",
+      "publishedAt": "2025-07-23T23:08:54Z",
+      "content": "W.W. Industrial Group is recalling Parashore brand pear slices in juice due to fears the product may contain elevated levels of lead and cadmium.\r\nNewsweek reached out to the company via phone Wednes… [+3010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "Dr. Tim Sandle",
+      "title": "Not tasting too good: Why food recalls happen",
+      "description": "Why do food recalls happen? There are several factors, including contamination, as an expert reveals. \nThe post Not tasting too good: Why food recalls happen appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/life/not-tasting-too-good-why-food-recalls-happen/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/08/116765bf5f0f4a2f2c891e6890628a253dcd148f.jpg",
+      "publishedAt": "2025-07-23T20:46:23Z",
+      "content": "A shopper walks down an aisle at an Aeon Orange supermarket in Yangon on July 1, after Myanmar authorities arrested a Japanese national working for the retail giant for allegedly selling rice at arti… [+2951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "W.W. Industrial Group Recalls Pear Slices in Juice Due to Elevated Levels of Lead and Cadmium",
+      "description": "W.W. Industrial Group, Inc., NY is recalling Parashore Pear Slices in juice, 15 oz, because they have the potential to be contaminated with elevated levels of lead and cadmium.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ww-industrial-group-recalls-pear-slices-juice-due-elevated-levels-lead-and-cadmium",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-07-23T20:19:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nJuly 23, 2025\r\nFDA Publish Date:\r\nJuly 23, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nContaminants\r\nReason for Announcement:\r\nRecall Reason Description\r\nPotentia… [+2469 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -25,7 +90,7 @@
       "url": "https://theconversation.com/orlando-bloom-tried-to-clean-his-blood-to-get-rid-of-microplastics-heres-what-the-science-says-261203",
       "urlToImage": "https://images.theconversation.com/files/681065/original/file-20250720-56-w4ann6.jpg?ixlib=rb-4.1.0&rect=0%2C127%2C3600%2C1800&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-07-23T16:44:22Z",
-      "content": "Tinseltown/Shutterstock\r\nWhen actor Orlando Bloom revealed recently that he’d undergone a procedure to have his blood “cleaned”, many people raised eyebrows. The Pirates of the Caribbean star had tur… [+5307 chars]"
+      "content": "Tinseltown/Shutterstock\r\nWhen actor Orlando Bloom revealed recently that he’d undergone a procedure to have his blood “cleaned”, many people raised eyebrows. The Pirates of the Caribbean star had tur�� [+5307 chars]"
     },
     {
       "source": {
@@ -541,7 +606,7 @@
       },
       "author": "Arden Dier with Newser.AI",
       "title": "Glass Bottles May Hold More Microplastics Than Plastic Ones",
-      "description": "A new study reveals that the simple act of opening a metal bottle cap could be adding unexpected microplastics to your favorite drink��potentially making glass bottles the most contaminated of all. Researchers at France's food safety agency looked at beer, wat…",
+      "description": "A new study reveals that the simple act of opening a metal bottle cap could be adding unexpected microplastics to your favorite drink—potentially making glass bottles the most contaminated of all. Researchers at France's food safety agency looked at beer, wat…",
       "url": "https://www.newser.com/story/372251/glass-bottles-may-hold-more-microplastics-than-plastic-ones.html",
       "urlToImage": "https://img2-azrcdn.newser.com/image/1623579-12-20250722070306.jpeg",
       "publishedAt": "2025-07-22T12:03:05Z",
@@ -779,7 +844,7 @@
       "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013324",
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013324.g006&size=inline",
       "publishedAt": "2025-07-21T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nFascioliasis, caused by Fasciola hepatica and Fasciola gigantica, is a zoonotic disease that significantly impacts public health in agricultural communities, particularly in Vie��� [+39402 chars]"
+      "content": "Abstract\r\nBackground\r\nFascioliasis, caused by Fasciola hepatica and Fasciola gigantica, is a zoonotic disease that significantly impacts public health in agricultural communities, particularly in Vie… [+39402 chars]"
     },
     {
       "source": {
@@ -1170,71 +1235,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-07-18T14:50:00Z",
       "content": "Dublin, July 18, 2025 (GLOBE NEWSWIRE) -- The \"PFAS Filtration - Company Evaluation Report, 2025\" report has been added to ResearchAndMarkets.com's offering.\r\nThe PFAS Filtration Companies Quadrant i… [+8523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Recycled Polyolefin Market Size to Exceed USD 144.2 Billion by 2034",
-      "description": "According to Towards chem and Materials consultants, the global recycled polyolefin market size was reached at USD 61.19 billion in 2024 and is expected to exceed around USD 144.2 billion by 2034, growing at a compound annual growth rate (CAGR) of 8.95% over …",
-      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118016/0/en/Recycled-Polyolefin-Market-Size-to-Exceed-USD-144-2-Billion-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-07-18T14:34:00Z",
-      "content": "Ottawa, July 18, 2025 (GLOBE NEWSWIRE) -- The global recycled polyolefin market size\r\n is estimated at USD 66.67 billion in 2025 and is expected to hit around USD 144.2 billion by 2034, growing at a … [+21236 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "XiaoLin Sun, Yawen Sheng, Pei Xu, Qian Peng, Zhongbao Ruan",
-      "title": "Vericiguat reduces atrial fibrillation recurrence by alleviating myocardial fibrosis via the TGF-β1/Smad2/3 pathway",
-      "description": "Atrial fibrillation (AF) and heart failure (HF) are mutually reinforcing, and the prognosis for both diseases is poor. Vericiguat is the first oral soluble guanylate cyclase (sGC) stimulator to be approved for the treatment of symptomatic, ejection fraction-r…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328272",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328272.g005&size=inline",
-      "publishedAt": "2025-07-18T14:00:00Z",
-      "content": "Abstract\r\nAtrial fibrillation (AF) and heart failure (HF) are mutually reinforcing, and the prognosis for both diseases is poor. Vericiguat is the first oral soluble guanylate cyclase (sGC) stimulato… [+43029 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Corin Cesaric",
-      "title": "Don't Waste Your Eggs. Food Safety Expert Explains Shelf Life",
-      "description": "Eggs last longer than you may think.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/dont-waste-your-eggs-food-safety-expert-explains-shelf-life/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/eb058b8b80a51127aa2948ff5f94ae475b9cb242/hub/2024/09/09/fe310f95-7e39-4eb2-b69a-b77d2d1de868/gettyimages-1996271988.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-07-18T13:48:00Z",
-      "content": "Eggs are one of the most versatile and affordable ingredients in the kitchen, but if you're only paying attention to the best-by date on the carton, you might be throwing your hard-earned money away … [+4809 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "FDA Issues Risk Warning for Ice Cream Recalled in 23 States",
-      "description": "Rich Ice Cream Co. recalled numerous lots of its products on June 27 over potential contamination with Listeria monocytogenes.",
-      "url": "https://www.newsweek.com/ice-cream-recall-23-states-fda-risk-warning-florida-2100654",
-      "urlToImage": "https://d.newsweek.com/en/full/2685608/ice-cream.jpg",
-      "publishedAt": "2025-07-18T11:10:45Z",
-      "content": "A recall of multiple ice cream products in 23 states has been issued the second highest risk warning by the Food and Drug Administration (FDA).\r\nRich Ice Cream Co., based in Florida, issued a volunta… [+4002 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Prabhudatta  Mishra",
-      "title": "US may agree to keep dairy out of trade deal but is insistent on soyabean, corn, say sources",
-      "description": "US-India trade talks exclude dairy but include GM soyabean and corn, sparking concerns over agriculture and livelihoods.",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/us-may-agree-to-keep-dairy-out-of-trade-deal-but-is-insistent-on-soyabean-corn-say-sources/article69826793.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/7bc3vy/article69827007.ece/alternates/LANDSCAPE_1200/IMG_Oilmeals-export_G29C_2_1_I9E917LQ.jpg",
-      "publishedAt": "2025-07-18T09:29:00Z",
-      "content": "The US is inclined to keep dairy out of the purview of the India-US bilateral trade agreement (BTA) on Indias insistence that it was a highly sensitive sector and a means of livelihood for lakhs of r… [+3737 chars]"
     }
   ],
   "totalResults": 95,
