@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-07-25T12:54:44.963Z",
+  "lastUpdated": "2025-07-25T18:38:21.783Z",
   "articles": [
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "STEVEN GRATTAN Associated Press",
+      "title": "Peru seizes record 4-ton mercury shipment in fight against illegal gold mining",
+      "description": "Peruvian customs officials have seized a record-breaking shipment of illegal mercury, exposing a cross-border smuggling network fueling illicit gold mining in the Amazon",
+      "url": "https://abcnews.go.com/International/wireStory/peru-seizes-record-4-ton-mercury-shipment-fight-124041756",
+      "urlToImage": "https://i.abcnewsfe.com/a/44313ced-b690-4ecb-a68a-29fbae46a5c6/wirestory_e0e6055eebd2f39f8958f9dbb12ef5b1_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-24T17:58:06Z",
+      "content": "BOGOTA, Colombia -- Peruvian customs officials have seized a record-breaking shipment of illegal mercury, exposing a cross-border smuggling network that is fueling one of the Amazons most destructive… [+6036 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Alia Shoaib",
+      "title": "Target Recall Update Issued Nationwide: Customers Urged Not to Eat Products",
+      "description": "The recalled products include YoCrunch yogurts and Oscar Mayer Turkey Bacon.",
+      "url": "https://www.newsweek.com/target-recall-yocrunch-ritz-oscar-mayer-2103510",
+      "urlToImage": "https://d.newsweek.com/en/full/2689630/target.jpg",
+      "publishedAt": "2025-07-24T15:24:21Z",
+      "content": "Several products stocked at Target stores nationwide have been recalled due to risks ranging from undeclared allergens to potential contamination with Listeria monocytogenes.\r\nYoCrunch Yogurts\r\nSever… [+3590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Patrick Pester",
+      "title": "Kabul could become the first modern capital to run out of water — here's why",
+      "description": "Afghanistan's capital city of Kabul has an existential water problem and other cities may also be vulnerable.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/kabul-could-become-the-first-modern-capital-to-run-out-of-water-heres-why",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LjySMkwwK9vabriaDcZsc.jpg",
+      "publishedAt": "2025-07-24T14:27:52Z",
+      "content": "The city of Kabul in Afghanistan is at risk of becoming the first modern capital to run out of water, according to a recent report.\r\nKabul is drying up due to a combination of different factors, incl… [+5278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Recycled Polypropylene Packaging Market 2025 Statistics, Global Valuation and Regional Trends",
+      "description": "As reported by Towards Packaging experts, the global recycled polypropylene in packaging market is anticipated to rise from USD 9.23 billion in 2024 to approximately USD 17.66 billion by 2034, with a CAGR of 6.73% from 2025 to 2034. As reported by Towards Pac…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121202/0/en/Recycled-Polypropylene-Packaging-Market-2025-Statistics-Global-Valuation-and-Regional-Trends.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-07-24T14:00:00Z",
+      "content": "Ottawa, July 24, 2025 (GLOBE NEWSWIRE) -- The global recycled polypropylene in packaging market size was recorded at USD 9.85 billion in 2025 and is forecast to increase to USD 17.66 billion in 2034,… [+26741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "John Bosco Asiimwe, Hellen Namawejje, Faith Rachel Mirembe, Annet Adong, Jolly Achola, Herbert Nabaasa, Jebena Mulusew, Jonathan Izudi, Damazo T. Kadengye",
+      "title": "Effect of community-led total sanitation on open defecation in Uganda: A propensity score-matched analysis",
+      "description": "A substantial proportion (7%) of people in Uganda practice open defecation. A Community-Led Total Sanitation (CLTS) project was started in 2011 to reduce indiscriminate disposal of excreta but the effect has not been rigorously evaluated. We, therefore, evalu…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329307",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329307.g002&size=inline",
+      "publishedAt": "2025-07-24T14:00:00Z",
+      "content": "Citation: Asiimwe JB, Namawejje H, Mirembe FR, Adong A, Achola J, Nabaasa H, et al. (2025) Effect of community-led total sanitation on open defecation in Uganda: A propensity score-matched analysis. … [+28893 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -357,19 +422,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "Another Class I recall: Nearly 1.5 tons of cucumbers RECALLED by the FDA due to Salmonella contamination",
-      "description": "Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms. Two previous outbreaks linked to cucumbers from Florida-based Bedner Growers and Thomas Produce in …",
-      "url": "https://www.naturalnews.com/2025-07-23-cucumbers-recalled-by-fda-due-to-salmonella-contamination.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Fresh-Cucumbers-Clean.jpg",
-      "publishedAt": "2025-07-23T06:00:00Z",
-      "content": "<ul><li>Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms.</li><li>Two previous outbreaks … [+6273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "S.D. Wells",
       "title": "CONFINED ANIMAL FEEDING OPERATIONS and Big Ag chemicals main causes of SUPERBUGS that are resistant to antibiotics",
       "description": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess what? You are what you eat. A new study reveals it’s much wo…",
@@ -377,6 +429,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pigs-Swine-In-Cage.jpg",
       "publishedAt": "2025-07-23T06:00:00Z",
       "content": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess … [+5275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Another Class I recall: Nearly 1.5 tons of cucumbers RECALLED by the FDA due to Salmonella contamination",
+      "description": "Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms. Two previous outbreaks linked to cucumbers from Florida-based Bedner Growers and Thomas Produce in …",
+      "url": "https://www.naturalnews.com/2025-07-23-cucumbers-recalled-by-fda-due-to-salmonella-contamination.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Fresh-Cucumbers-Clean.jpg",
+      "publishedAt": "2025-07-23T06:00:00Z",
+      "content": "<ul><li>Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms.</li><li>Two previous outbreaks … [+6273 chars]"
     },
     {
       "source": {
@@ -773,19 +838,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
-      "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
-      "url": "https://www.naturalnews.com/2025-07-22-blackberries-versatile-source-nutrition-disease-fighting-antioxidants.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Ramon Tomey",
       "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
       "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
@@ -793,6 +845,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
       "publishedAt": "2025-07-22T06:00:00Z",
       "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
+      "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
+      "url": "https://www.naturalnews.com/2025-07-22-blackberries-versatile-source-nutrition-disease-fighting-antioxidants.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
+      "publishedAt": "2025-07-22T06:00:00Z",
+      "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
     },
     {
       "source": {
@@ -981,19 +1046,6 @@
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "Precedence Research",
-      "title": "Single-Serve Packaging Market to Witness Astounding Growth from 2025 to 2034",
-      "description": "According to Towards Packaging consultants, from 2025 to 2034, the global single-serve packaging market is set for a massive revenue upswing, with growth projected to reach hundreds of millions of dollars. In 2024, North America led the single-serve packaging…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118832/0/en/Single-Serve-Packaging-Market-to-Witness-Astounding-Growth-from-2025-to-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-07-21T14:00:00Z",
-      "content": "Ottawa, July 21, 2025 (GLOBE NEWSWIRE) -- The global single-serve packaging market size witnessed substantial growth in 2025 and is projected to achieve remarkable expansion by 2034, according to a s… [+26010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
       "author": "SNS Insider pvt ltd",
       "title": "Oil Free Air Compressor Market To USD 20.21 Billion By 2032, Owing To Surging Demand For Contamination-Free Air And Tightening CleanAir Regulations | Report by SNS Insider",
       "description": "Rising adoption of oil-free air compressors across industries such as food & beverage, pharmaceuticals, and electronics, coupled with mounting regulatory pressure for environmental safety and stringent cleanair standards, drives innovation in energy efficienc…",
@@ -1001,6 +1053,19 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
       "publishedAt": "2025-07-21T14:00:00Z",
       "content": "Austin, July 21, 2025 (GLOBE NEWSWIRE) -- The Oil Free Air Compressor Market\r\nsize was valued at USD14.25billion in 2024 and is expected to reach USD20.21billion by 2032, growing at a CAGR of 4.47% o… [+7177 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Single-Serve Packaging Market to Witness Astounding Growth from 2025 to 2034",
+      "description": "According to Towards Packaging consultants, from 2025 to 2034, the global single-serve packaging market is set for a massive revenue upswing, with growth projected to reach hundreds of millions of dollars. In 2024, North America led the single-serve packaging…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118832/0/en/Single-Serve-Packaging-Market-to-Witness-Astounding-Growth-from-2025-to-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-07-21T14:00:00Z",
+      "content": "Ottawa, July 21, 2025 (GLOBE NEWSWIRE) -- The global single-serve packaging market size witnessed substantial growth in 2025 and is projected to achieve remarkable expansion by 2034, according to a s… [+26010 chars]"
     },
     {
       "source": {
@@ -1144,86 +1209,8 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-122792290,width-1200,height-630,imgsize-594786,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-07-20T00:58:38Z",
       "content": "A major recall of more than 60 salami and cacciatore meat products has been issued across six Canadian provinces due to possible salmonella contamination. The Canadian Food Inspection Agency (CFIA) a… [+3907 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Water emergency hits Maryland counties — thousands told to boil tap water before use, is your area in the list?",
-      "description": "Boil water advisory Prince George’s County has been issued by WSSC Water after a 16-inch water main break near the Cheverly Metro station in Hyattsville. Over 11,200 residents in Cheverly, Capitol Heights, and Seat Pleasant are urged to boil tap water for one…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/water-emergency-hits-maryland-counties-thousands-told-to-boil-tap-water-before-use-is-your-area-in-the-list/articleshow/122785023.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122785017,width-1200,height-630,imgsize-51550,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-19T16:30:24Z",
-      "content": "Boil water advisory in Prince Georges County: What residents in Cheverly, Capitol Heights, and Seat Pleasant need to know- A boil water advisory has been issued by WSSC Water after a 16-inch water ma… [+4256 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Dirty water, warm trucks, and the real reason romaine keeps making us sick",
-      "description": "Romaine lettuce has a long history of E. coli outbreaks, but scientists are zeroing in on why. A new study reveals that the way lettuce is irrigated—and how it’s kept cool afterward—can make all the difference. Spraying leaves with untreated surface water is …",
-      "url": "https://www.sciencedaily.com/releases/2025/07/250718031225.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/romaine-lettuce-organic-farming.webp",
-      "publishedAt": "2025-07-19T14:27:03Z",
-      "content": "E. coli outbreaks in romaine lettuce have long been a public health concern. and now a new Cornell University paper suggests that a combination of efforts in the field, and even postharvest technique… [+2478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Tim Schauenberg",
-      "title": "Who is responsible for PFAS contamination?",
-      "description": "Hazardous \"forever chemicals\" contaminate drinking water, soil and food worldwide. Who is responsible for their contamination?",
-      "url": "https://www.dw.com/en/who-is-responsible-for-pfas-contamination/a-73215481",
-      "urlToImage": "https://static.dw.com/image/64795736_6.jpg",
-      "publishedAt": "2025-07-19T09:51:00Z",
-      "content": "The sleepy small town of Trissino lies at the foot of the Italian Alps, surrounded by lush fields, green hills and small industrial plants on its outskirts.\r\nThough there is nothing to suggest that g… [+5725 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Zoey Sky",
-      "title": "Sodium benzoate in personal care products: A threat to consumer health",
-      "description": "Sodium benzoate (E211) is widely used in cosmetics, shampoos, sunscreens and moisturizers to extend their shelf life, but this chemical faces scrutiny for its health risks. When mixed with vitamin C, it produces benzene, a known carcinogen (e.g., 2007 soda re…",
-      "url": "https://www.naturalnews.com/2025-07-19-sodium-benzoate-personal-care-products-health-threat.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shampoo-Hair-Shower-Wash-Nature-Woman-Green.jpg",
-      "publishedAt": "2025-07-19T06:00:00Z",
-      "content": "<ul><li>Sodium benzoate (E211) is widely used in cosmetics, shampoos, sunscreens and moisturizers to extend their shelf life, but this chemical faces scrutiny for its health risks.</li><li>When mixed… [+8655 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "Cracker sandwiches recalled over deadly ingredient that could cause ALLERGIC REACTIONS",
-      "description": "The FDA recalled RITZ Cracker Sandwich products due to mislabeling: “Peanut butter” fills were incorrectly labeled as “cheese.” Affected cartons (sizes 8–40 packs) sold at major U.S. retailers had outer peanut warnings but mislabeled inner packs. No injuries …",
-      "url": "https://www.naturalnews.com/2025-07-19-cracker-sandwiches-recalled-deadly-ingredient-allergic-reactions.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Round-salted-cracker-cookies.jpg",
-      "publishedAt": "2025-07-19T06:00:00Z",
-      "content": "<ul><li>The FDA recalled RITZ Cracker Sandwich products due to mislabeling: \"Peanut butter\" fills were incorrectly labeled as \"cheese.\" Affected cartons (sizes 840 packs) sold at major U.S. retailers… [+8251 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Chelsea Davis, Contributor, \n Chelsea Davis, Contributor\n https://www.forbes.com/sites/chelseadavis/",
-      "title": "San Francisco’s Pier 39 Welcomes Newest Waterfront Restaurant, FiRE + iCE",
-      "description": "The San Francisco location marks the brand’s fourth outpost, joining established restaurants in Boston, Anaheim, and South Lake Tahoe.",
-      "url": "https://www.forbes.com/sites/chelseadavis/2025/07/18/san-franciscos-pier-39-welcomes-newest-waterfront-restaurant-fire--ice/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687ac0b14db8bc0aae7920b4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-18T21:52:47Z",
-      "content": "Hoison Pork \r\nFiRE + iCE\r\nPier 39one of San Franciscos most iconic and tourist-friendly destinationshas just welcomed its newest addition to the waterfront dining scene: FiRE + iCE. The San Francisco… [+5486 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 93,
   "filteredCount": 0
 }
