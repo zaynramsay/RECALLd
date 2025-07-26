@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-26T02:07:05.128Z",
+  "lastUpdated": "2025-07-26T06:36:42.071Z",
   "articles": [
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Iris Zhao",
+      "title": "Lead poisoning investigation in China alleges cover up by kindergarten",
+      "description": "Investigators find managers of a Chinese kindergarten allegedly bribed local officials to change the blood test results of 247 kindergarten children who had dangerously high levels of lead.",
+      "url": "https://www.abc.net.au/news/2025-07-25/china-kindergarten-lead-poisoning-investigation/105568872",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/69a70892523ecc94e627c3bd965c71c0?impolicy=wcms_watermark_news&cropH=472&cropW=840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-07-25T04:42:31Z",
+      "content": "An investigation into the lead poisoning of hundreds of children in western China has revealed an alleged cover-up by the management of the kindergarten at the centre of the scandal.\r\nAuthorities in … [+3079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Laura Lynott",
+      "title": "Timeline of Food Safety Authority listeria warnings: first alert was issued late last month",
+      "description": "Two Food Safety Authority (FSAI) prohibition orders were first issued due to potential ­concerns around listeria contamination in two Ballymaguire Foods ­products last week and at the end of June.",
+      "url": "https://www.independent.ie/irish-news/timeline-of-food-safety-authority-listeria-warnings-first-alert-was-issued-late-last-month/a1627264301.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/q9CdhcbOGw-4EcfbuWJ5s3JboBc=/60x0:735x450/629x0/prod-mh-ireland/a8441935-c157-489e-be5f-d5fa34fb6d1d/3c48b14d-66f9-44e1-9684-4c0240385a9e/video/video.jpg",
+      "publishedAt": "2025-07-25T04:30:00Z",
+      "content": "Bacon and cabbage as well as turkey and ham ready meals were the first products found to contain the bacterial contamination that has led to the death of one person and illness in nine people\r\nTwo Fo… [+294 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Worms in the food? Rameshwaram Cafe says it was a Rs 25 lakh extortion set-up",
+      "description": "The Rameshwaram Cafe has filed a police complaint alleging an extortion attempt involving a staged food contamination video at its Bengaluru airport outlet. A group claimed an insect was found in the food, then demanded ₹25 lakh to suppress the video. The caf…",
+      "url": "https://economictimes.indiatimes.com/news/bengaluru-news/worms-in-the-food-rameshwaram-cafe-says-it-was-a-rs-25-lakh-extortion-set-up/articleshow/122892796.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122893126,width-1200,height-630,imgsize-1497125,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-25T02:51:42Z",
+      "content": "A criminal case has been registered against a group of individuals accused of trying to extort 25 lakh from The Rameshwaram Cafe by faking a food contamination incident at its Kempegowda Internationa… [+3635 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,45 +1209,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/selection-of-cheeses-2.jpg",
       "publishedAt": "2025-07-21T06:00:00Z",
       "content": "<ul><li>A study revealed that ripened cheeses contain an average of 1,857 microplastic particles per kilogram, which is 45 times higher than the levels found in bottled water. Fresh cheeses and milk … [+5778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Basillioh Rukanga - BBC News, Nairobi",
-      "title": "Forgotten 'weeds' prove a culinary hit in Kenya",
-      "description": "Local indigenous greens grow in popularity despite a ban on farmers swapping or selling seeds.",
-      "url": "https://www.bbc.com/news/articles/cjdzm88l8y0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/621341fcc6bdc434ac812dab18a609a4",
-      "publishedAt": "2025-07-21T01:17:28Z",
-      "content": "Once dismissed as wild weeds and a \"poor man's food\", indigenous leafy vegetables in Kenya are now becoming much more common - grown on farms, sold in markets and gracing the menus of restaurants.\r\nA… [+8074 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Forgotten 'weeds' prove a culinary hit in Kenya",
-      "description": "Local indigenous greens grow in popularity despite a ban on farmers swapping or selling seeds.",
-      "url": "https://www.bbc.com/news/articles/cjdzm88l8y0o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fc7d/live/1b6e7d70-63e2-11f0-89ea-4d6f9851f623.jpg",
-      "publishedAt": "2025-07-21T01:17:22Z",
-      "content": "Basillioh Rukanga\r\nMrenda, being prepared here by a chef in Nairobi, has many more micronutrients than cabbage\r\nOnce dismissed as wild weeds and a \"poor man's food\", indigenous leafy vegetables in Ke… [+7741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Becca Wood",
-      "title": "Dubai Chocolate Spread Recalled Due to Potential Salmonella Contamination",
-      "description": "A popular Dubai chocolate spread sold nationwide has been recalled for possible salmonella contamination.",
-      "url": "https://www.today.com/health/recall/dubai-chocolate-spread-recall-salmonella-rcna219888",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/dubai-chocolate-jar-me-250720-bcfdfb.png",
-      "publishedAt": "2025-07-20T21:21:03Z",
-      "content": "A popular Dubai chocolate spread sold nationwide has been recalled for possible salmonella contamination, the U.S. Food and Drug Administration announced. \r\nWorld Market recalled its Emek Spread Pist… [+2235 chars]"
     }
   ],
   "totalResults": 93,
