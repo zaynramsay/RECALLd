@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-07-26T06:36:42.071Z",
+  "lastUpdated": "2025-07-26T12:50:36.868Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Jasmine Laws",
+      "title": "Pickles Recall Update As FDA Issues Risk Warning",
+      "description": "The recall has been given a Class II classification, indicating there is a significant level of risk posed to consumers in Minnesota.",
+      "url": "https://www.newsweek.com/pickles-recall-update-fda-issues-risk-warning-2103937",
+      "urlToImage": "https://d.newsweek.com/en/full/2690149/pickle.jpg",
+      "publishedAt": "2025-07-25T12:17:38Z",
+      "content": "A recall of several varieties of pickles because of container damage has been classified as having a potentially significant level of risk to consumers in Minnesota by the Food and Drug Administratio… [+3688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Tessa Flores",
+      "title": "Disaster Experts Reveal The Emergency Items You Should Really Have — And Everything Is Under $50",
+      "description": "One of these items might save your life, and they don’t cost a fortune.",
+      "url": "https://www.huffpost.com/entry/affordable-emergency-items-you-need-disaster-experts_l_687fcf50e4b0d91bafdf0f30",
+      "urlToImage": "https://img.huffingtonpost.com/asset/687fd86b190000be0360000d.jpg?cache=ypV8yydZdl&ops=1200_630",
+      "publishedAt": "2025-07-25T11:00:17Z",
+      "content": "In the year 2025, its the unfortunate reality that many of us will be impacted by an emergency or natural disaster at least once in our lifetime. Based on what weve heard from experts who are well-ve… [+7710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Hedy Phillips",
+      "title": "Found a Bottle of Expired Vitamins? Here’s Why You Might Not Need to Throw It Out",
+      "description": "According to the FDA, your bottle of vitamins doesn't need an expiry date. So, what does that date actually mean, and should you be worried about it? Here's what experts think.",
+      "url": "https://www.cnet.com/health/nutrition/found-expired-vitamins-heres-why-you-might-not-need-to-throw-it-out/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/23d85b9b84b72d13415e19f93daa59cb65e548ee/hub/2022/08/29/64efb8ca-447a-4f87-b05d-87c086b5462d/gettyimages-1220786488.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-25T10:13:00Z",
+      "content": "When on a cleaning spree, you may sometimes find bottles and supplements that have passed their expiration date. While your gut reaction might be to toss them in the trash, if you take a closer look,… [+4249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "The Danone YoCrunch recall: Plastic shards found in yogurt snacks for kids",
+      "description": "Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&Ms and Oreo – fragments that could pose a serious risk of choking or throat injuries. A “packa…",
+      "url": "https://www.naturalnews.com/2025-07-25-plastic-shards-in-yogurt-snacks-for-kids.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Woman-Shop-Grocery-Dairy-Yogurts.jpg",
+      "publishedAt": "2025-07-25T06:00:00Z",
+      "content": "<ul><li>Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&amp;Ms and Oreo fragments … [+6248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Finn Heartley",
+      "title": "From ancient remedies to modern threats: Green teaâs cancer-fighting power contrasts with rising nuclear tensions in Europe",
+      "description": "Ancient Remedy, Modern Science: Green tea’s 4,000-year legacy is backed by research on EGCG and L-theanine—fighting cancer, inflammation, and cognitive decline through targeted molecular action. EGCG’s Cancer Combat: Disrupts tumor growth, triggers apoptosis,…",
+      "url": "https://www.naturalnews.com/2025-07-25-green-teas-cancer-fighting-power-contrasts-with-rising-nuclear-tensions-in-europe.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/2025-07-25-BBN-Top-news-analysis.jpg",
+      "publishedAt": "2025-07-25T06:00:00Z",
+      "content": "<ul><li>Ancient Remedy, Modern Science: Green teas 4,000-year legacy is backed by research on EGCG and L-theaninefighting cancer, inflammation, and cognitive decline through targeted molecular action… [+4029 chars]"
+    },
     {
       "source": {
         "id": "abc-news-au",
@@ -487,19 +552,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "S.D. Wells",
-      "title": "CONFINED ANIMAL FEEDING OPERATIONS and Big Ag chemicals main causes of SUPERBUGS that are resistant to antibiotics",
-      "description": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess what? You are what you eat. A new study reveals it’s much wo…",
-      "url": "https://www.naturalnews.com/2025-07-23-confined-animal-feeding-operations-big-ag-chemicals-main-causes-superbugs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pigs-Swine-In-Cage.jpg",
-      "publishedAt": "2025-07-23T06:00:00Z",
-      "content": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess … [+5275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Olivia Cook",
       "title": "Another Class I recall: Nearly 1.5 tons of cucumbers RECALLED by the FDA due to Salmonella contamination",
       "description": "Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms. Two previous outbreaks linked to cucumbers from Florida-based Bedner Growers and Thomas Produce in …",
@@ -507,6 +559,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Fresh-Cucumbers-Clean.jpg",
       "publishedAt": "2025-07-23T06:00:00Z",
       "content": "<ul><li>Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms.</li><li>Two previous outbreaks … [+6273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "CONFINED ANIMAL FEEDING OPERATIONS and Big Ag chemicals main causes of SUPERBUGS that are resistant to antibiotics",
+      "description": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess what? You are what you eat. A new study reveals it’s much wo…",
+      "url": "https://www.naturalnews.com/2025-07-23-confined-animal-feeding-operations-big-ag-chemicals-main-causes-superbugs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pigs-Swine-In-Cage.jpg",
+      "publishedAt": "2025-07-23T06:00:00Z",
+      "content": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess … [+5275 chars]"
     },
     {
       "source": {
@@ -903,19 +968,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
-      "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
-      "url": "https://www.naturalnews.com/2025-07-22-deli-products-recalled-canada-over-salmonella-outbreak.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
       "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
@@ -923,6 +975,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
       "publishedAt": "2025-07-22T06:00:00Z",
       "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
+      "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
+      "url": "https://www.naturalnews.com/2025-07-22-deli-products-recalled-canada-over-salmonella-outbreak.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
+      "publishedAt": "2025-07-22T06:00:00Z",
+      "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
     },
     {
       "source": {
@@ -1111,19 +1176,6 @@
         "id": null,
         "name": "GlobeNewswire"
       },
-      "author": "SNS Insider pvt ltd",
-      "title": "Oil Free Air Compressor Market To USD 20.21 Billion By 2032, Owing To Surging Demand For Contamination-Free Air And Tightening CleanAir Regulations | Report by SNS Insider",
-      "description": "Rising adoption of oil-free air compressors across industries such as food & beverage, pharmaceuticals, and electronics, coupled with mounting regulatory pressure for environmental safety and stringent cleanair standards, drives innovation in energy efficienc…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118835/0/en/Oil-Free-Air-Compressor-Market-To-USD-20-21-Billion-By-2032-Owing-To-Surging-Demand-For-Contamination-Free-Air-And-Tightening-CleanAir-Regulations-Report-by-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-07-21T14:00:00Z",
-      "content": "Austin, July 21, 2025 (GLOBE NEWSWIRE) -- The Oil Free Air Compressor Market\r\nsize was valued at USD14.25billion in 2024 and is expected to reach USD20.21billion by 2032, growing at a CAGR of 4.47% o… [+7177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
       "author": "Precedence Research",
       "title": "Single-Serve Packaging Market to Witness Astounding Growth from 2025 to 2034",
       "description": "According to Towards Packaging consultants, from 2025 to 2034, the global single-serve packaging market is set for a massive revenue upswing, with growth projected to reach hundreds of millions of dollars. In 2024, North America led the single-serve packaging…",
@@ -1135,82 +1187,17 @@
     {
       "source": {
         "id": null,
-        "name": "Kffhealthnews.org"
+        "name": "GlobeNewswire"
       },
-      "author": null,
-      "title": "Monday, July 21, 2025",
-      "description": "Medicaid work requirements, HIV exposure law, rural health slush fund, Title X, federal funding cuts, dementia, and more",
-      "url": "https://kffhealthnews.org/morning-briefing/monday-july-21-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-07-21T13:23:40Z",
-      "content": "Rising Organ Transplants Mean More Danger For Donors, Bungled Retrievals\r\nThe increased use of a type of organ removal called donation after circulatory death has led to a rise in disturbing transpla… [+6420 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Taylor Leamey",
-      "title": "Want to Avoid Microplastics? Start by Skipping These 8 Foods",
-      "description": "Microplastics are showing up in foods you probably eat every single day.",
-      "url": "https://www.cnet.com/health/nutrition/want-to-avoid-microplastics-start-by-skipping-these-8-foods/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-07-21T12:00:15Z",
-      "content": "Microplastics used to sound like a distant environmental issue, but they're showing up in more places than you'd expect, including the food we eat every day. According to new research, even something… [+10609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox Business",
-      "title": "Company recalls more than 24,000 pounds of chicken sausage due to possible plastic contamination",
-      "description": "A company is recalling more than 24,000 pounds of chicken sausage after customers reported finding pieces of plastic inside some of the meat, the U.S. Department of Agriculture (USDA) said this week.",
-      "url": "https://nypost.com/2025/07/21/lifestyle/kayem-foods-inc-recalls-chicken-sausage-due-to-plastic-contamination/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/massachusetts-company-kayem-foods-inc-108482218.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-07-21T11:23:23Z",
-      "content": "A company is recalling more than 24,000 pounds of chicken sausage after customers reported finding pieces of plastic inside some of the meat, the U.S. Department of Agriculture (USDA) said this week.… [+1422 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Your Smartwatch Could Carry a Hidden Health Risk",
-      "description": "Smartwatches are a widely worn accessory—with around one in five Americans wearing either a smartwatch or wearable fitness tracker, according to one survey.",
-      "url": "https://www.newsweek.com/smartwatch-hidden-health-risk-2099529",
-      "urlToImage": "https://d.newsweek.com/en/full/2684307/your-smartwatch-could-carry-hidden-risk.png",
-      "publishedAt": "2025-07-21T09:00:01Z",
-      "content": "Smartwatch bands have been found to contain high levels of a potentially harmful chemical that researchers believe can be absorbed through the skin, raising the question of whether the popular access… [+10499 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food & Wine"
-      },
-      "author": "Stacey Leasca",
-      "title": "A Multi-State Salmonella Outbreak Is Linked to These Frozen Beans — Are They in Your Freezer?",
-      "description": "To date, there have been 11 confirmed illnesses across 10 states.",
-      "url": "https://www.foodandwine.com/frozen-sprouted-beans-recall-salmonella-outbreak-11775444",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BeyLkhs3bJGMMhcZ0_5vAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/food_wine_804/cc36ddad91ee953f0b5a569bb059e5b8",
-      "publishedAt": "2025-07-21T08:01:00Z",
-      "content": "The U.S. is experiencing a massive Salmonella outbreak, and the U.S. Food and Drug Administration (FDA) believes it has finally pinpointed the source.\r\nAccording to the FDA, the outbreak was first id… [+3051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Belle Carter",
-      "title": "Cheese lovers beware: Study reveals alarming levels of MICROPLASTICS in dairy products",
-      "description": "A study revealed that ripened cheeses contain an average of 1,857 microplastic particles per kilogram, which is 45 times higher than the levels found in bottled water. Fresh cheeses and milk also showed significant contamination, with 1,280 and 350 particles …",
-      "url": "https://www.naturalnews.com/2025-07-21-study-reveals-alarming-levels-microplastics-dairy-products.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/selection-of-cheeses-2.jpg",
-      "publishedAt": "2025-07-21T06:00:00Z",
-      "content": "<ul><li>A study revealed that ripened cheeses contain an average of 1,857 microplastic particles per kilogram, which is 45 times higher than the levels found in bottled water. Fresh cheeses and milk … [+5778 chars]"
+      "author": "SNS Insider pvt ltd",
+      "title": "Oil Free Air Compressor Market To USD 20.21 Billion By 2032, Owing To Surging Demand For Contamination-Free Air And Tightening CleanAir Regulations | Report by SNS Insider",
+      "description": "Rising adoption of oil-free air compressors across industries such as food & beverage, pharmaceuticals, and electronics, coupled with mounting regulatory pressure for environmental safety and stringent cleanair standards, drives innovation in energy efficienc…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118835/0/en/Oil-Free-Air-Compressor-Market-To-USD-20-21-Billion-By-2032-Owing-To-Surging-Demand-For-Contamination-Free-Air-And-Tightening-CleanAir-Regulations-Report-by-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2025-07-21T14:00:00Z",
+      "content": "Austin, July 21, 2025 (GLOBE NEWSWIRE) -- The Oil Free Air Compressor Market\r\nsize was valued at USD14.25billion in 2024 and is expected to reach USD20.21billion by 2032, growing at a CAGR of 4.47% o… [+7177 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 92,
   "filteredCount": 0
 }
