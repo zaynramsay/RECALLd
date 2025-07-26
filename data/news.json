@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-25T18:38:21.783Z",
+  "lastUpdated": "2025-07-26T02:07:05.128Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BroBible"
+      },
+      "author": "Ljeonida Mulabazi",
+      "title": "‘I Learned Something Cool‘: Woman Goes To Ground Beef Section In Publix. Then She Looks For The Tan Labels. Here’s Why",
+      "description": "Concerns about food quality are nothing new. From “mystery meat” to bread that doesn’t seem to behave like bread, shoppers are often skeptical about what’s really on their shelves. While not all these claims can be confirmed, the fear is justified. For exampl…",
+      "url": "https://brobible.com/culture/article/publix-tan-labels-meat/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/07/publix-meats-1.jpg",
+      "publishedAt": "2025-07-25T00:00:12Z",
+      "content": "Audio By Carbonatix\r\nConcerns about food quality are nothing new. From mystery meat to bread that doesnt seem to behave like bread, shoppers are often skeptical about whats really on their shelves.\r\n… [+3499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Alex Portée",
+      "title": "Popular Coffee Brand Recalls Single-Serve Pods Over Ink Contamination Concerns",
+      "description": "New Mexico Piñon Coffee has recalled a lot of its single-serve (Keurig-style) pods due to concerns that ink from the lids may contaminate the coffee during brewing. Here's what to know, including the lot number and refund options.",
+      "url": "https://www.today.com/food/coffee-pods-recall-new-mexico-pinon-rcna220948",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/coffee-recall-te-250724-d984b9.jpg",
+      "publishedAt": "2025-07-24T22:35:52Z",
+      "content": "New Mexico Piñon Coffee has issued a voluntary recall of a variety of its single-serve coffee pods over concerns that ink from the lids may run into the coffee during the brewing process.\r\nThe Food a… [+1552 chars]"
+    },
     {
       "source": {
         "id": "abc-news",
@@ -1183,32 +1209,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/dubai-chocolate-jar-me-250720-bcfdfb.png",
       "publishedAt": "2025-07-20T21:21:03Z",
       "content": "A popular Dubai chocolate spread sold nationwide has been recalled for possible salmonella contamination, the U.S. Food and Drug Administration announced. \r\nWorld Market recalled its Emek Spread Pist… [+2235 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Over 67,000 cases of deodorants sold at Walmart, Amazon recalled due to 'cGMP deviations'. What is it?",
-      "description": "Over 67,000 cases of Power Stick deodorant sold at major retailers like Walmart, Amazon, and Dollar Tree have been voluntarily recalled. The recall, initiated by manufacturer A.P. Deauville, stems from \"cGMP deviations,\" indicating failures to meet FDA's Curr…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-over-67000-cases-of-deodorants-sold-at-walmart-amazon-dollar-tree-recalled-due-to-cgmp-deviations-what-is-it/articleshow/122794201.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122794205,width-1200,height-630,imgsize-21060,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-20T06:07:17Z",
-      "content": "Over 67,000 cases of three types of Power Stick deodorant sold at Walmart, Amazon and Dollar Tree have been recalled due to cGMP deviations\". This means the product did not meet manufacturing regulat… [+3696 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Major Canada meat recall over Salmonella risk; over 60 salami products included across six provinces",
-      "description": "A widespread health warning has been issued in Canada following a recall affecting more than sixty salami and cacciatore items. Spanning six provinces, this recall is a response to salmonella contamination that has resulted in eighty-six reported infections. …",
-      "url": "https://economictimes.indiatimes.com/news/international/canada/major-canada-meat-recall-over-salmonella-risk-over-60-salami-products-included-across-six-provinces/articleshow/122792020.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122792290,width-1200,height-630,imgsize-594786,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-20T00:58:38Z",
-      "content": "A major recall of more than 60 salami and cacciatore meat products has been issued across six Canadian provinces due to possible salmonella contamination. The Canadian Food Inspection Agency (CFIA) a… [+3907 chars]"
     }
   ],
   "totalResults": 93,
