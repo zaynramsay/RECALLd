@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-26T18:34:48.605Z",
+  "lastUpdated": "2025-07-27T02:26:32.319Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Royal Society of Chemistry"
+      },
+      "author": "Ameer Khan, Muhammad Shahzad, Farah Kanwal, Tagarika Munyaradzi Maruza, Mingjiong Chen, Guoping Zhang",
+      "title": "Iron oxide nanoparticles as effective nano-fertilizer for alleviating arsenic toxicity in barley: physiological and molecular mechanisms",
+      "description": "Environ. Sci.: Nano, 2025, Accepted ManuscriptDOI: 10.1039/D5EN00002E, PaperAmeer Khan, Muhammad Shahzad, Farah Kanwal, Tagarika Munyaradzi Maruza, Mingjiong Chen, Guoping ZhangArsenic (As) contamination in soils posed a significant threat to sustainable agri…",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/en/d5en00002e",
+      "urlToImage": null,
+      "publishedAt": "2025-07-25T23:00:00Z",
+      "content": "A. Khan, M. Shahzad, F. Kanwal, T. M. Maruza, M. Chen and G. Zhang,\r\n Environ. Sci.: Nano, 2025, Accepted Manuscript\r\n, DOI: 10.1039/D5EN00002E\r\nTo request permission to reproduce material from this … [+636 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "New Mexico Pinon Coffee Recall: Can product cause serious health problems? See recalled product details and where was it sold",
+      "description": "New Mexico Pinon Coffee has recalled its 10-count single-serve coffee pods after discovering a production issue that may cause ink to leak into the cups. Over 150 units with a best-by date of May 2026 are affected. The FDA classified this recall as Class III …",
+      "url": "https://economictimes.indiatimes.com/news/international/us/new-mexico-pinon-coffee-recall-fda-ink-leak-contamination-risk-single-serve-pods-sold-major-retailers/articleshow/122912356.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122912357,width-1200,height-630,imgsize-228028,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-25T19:15:35Z",
+      "content": "New Mexico Pinon Coffee has been recalled over concerns about ink contamination. The popular coffee brand has recalled some quantities of the product. The recall affects New Mexico Pinon Coffees 10-c… [+2626 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -604,19 +630,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "S.D. Wells",
-      "title": "CONFINED ANIMAL FEEDING OPERATIONS and Big Ag chemicals main causes of SUPERBUGS that are resistant to antibiotics",
-      "description": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess what? You are what you eat. A new study reveals it’s much wo…",
-      "url": "https://www.naturalnews.com/2025-07-23-confined-animal-feeding-operations-big-ag-chemicals-main-causes-superbugs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pigs-Swine-In-Cage.jpg",
-      "publishedAt": "2025-07-23T06:00:00Z",
-      "content": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess … [+5275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Olivia Cook",
       "title": "Another Class I recall: Nearly 1.5 tons of cucumbers RECALLED by the FDA due to Salmonella contamination",
       "description": "Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms. Two previous outbreaks linked to cucumbers from Florida-based Bedner Growers and Thomas Produce in …",
@@ -624,6 +637,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Fresh-Cucumbers-Clean.jpg",
       "publishedAt": "2025-07-23T06:00:00Z",
       "content": "<ul><li>Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms.</li><li>Two previous outbreaks … [+6273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "CONFINED ANIMAL FEEDING OPERATIONS and Big Ag chemicals main causes of SUPERBUGS that are resistant to antibiotics",
+      "description": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess what? You are what you eat. A new study reveals it’s much wo…",
+      "url": "https://www.naturalnews.com/2025-07-23-confined-animal-feeding-operations-big-ag-chemicals-main-causes-superbugs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pigs-Swine-In-Cage.jpg",
+      "publishedAt": "2025-07-23T06:00:00Z",
+      "content": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess … [+5275 chars]"
     },
     {
       "source": {
@@ -1020,19 +1046,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Ramon Tomey",
-      "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
-      "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
-      "url": "https://www.naturalnews.com/2025-07-22-deli-products-recalled-canada-over-salmonella-outbreak.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
       "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
@@ -1040,6 +1053,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
       "publishedAt": "2025-07-22T06:00:00Z",
       "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
+      "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
+      "url": "https://www.naturalnews.com/2025-07-22-deli-products-recalled-canada-over-salmonella-outbreak.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
+      "publishedAt": "2025-07-22T06:00:00Z",
+      "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://biztoc.com/cdn/ea8518f110156211_s.webp",
       "publishedAt": "2025-07-21T15:05:53Z",
       "content": "Voice is AI-generated. Inconsistencies may occur.A recall of mushrooms over food poisoning contamination fears has been classified with the highest possible health risk after experts ruled consuming … [+144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Interesting Engineering",
-      "title": "Microsoft uses human poop to scrub 4.9 million tons of carbon from AI footprint",
-      "description": "Microsoft’s climate fix isn’t AI or trees, it’s flushing human sludge 5,000 feet underground. The technique has been used for decades to handle industrial waste. Vaulted Deep =============================================================================== Of a…",
-      "url": "https://freerepublic.com/focus/f-chat/4329892/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-07-21T14:58:44Z",
-      "content": "Skip to comments.\r\nMicrosoft uses human poop to scrub 4.9 million tons of carbon from AI footprint\r\nInteresting Engineering ^\r\n | July 18, 2025\r\n | Neetika Walter\r\nPosted on 07/21/2025 7:58:44 AM PDT… [+7302 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Chloe Mayer",
-      "title": "FDA Issues Highest Risk Warning For Mushroom Recall",
-      "description": "Mushrooms sold across two states have been recalled over fears they could be harboring listeria, a bug that \"can cause serious and sometimes fatal infections.\"",
-      "url": "https://www.newsweek.com/mushroom-recall-listeria-fda-warning-2101727",
-      "urlToImage": "https://d.newsweek.com/en/full/2687061/mushrooms.jpg",
-      "publishedAt": "2025-07-21T14:57:26Z",
-      "content": "A recall of mushrooms over food poisoning contamination fears has been classified with the highest possible health risk after experts ruled consuming the products could prove fatal.\r\nThe new assessme… [+4569 chars]"
     }
   ],
   "totalResults": 92,
