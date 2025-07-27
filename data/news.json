@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-07-27T06:37:30.172Z",
+  "lastUpdated": "2025-07-27T12:52:00.950Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Press & Sun-Bulletin"
+      },
+      "author": "USA TODAY Network",
+      "title": "18 Broome County eateries have flawless health inspections; one marked with critical violations in July",
+      "description": "Here's a look at the results of restaurant inspections conducted in Broome County last month.",
+      "url": "https://www.pressconnects.com/story/news/local/2025/07/26/monthly-restaurant-inspections/85362109007/",
+      "urlToImage": "https://media.zenfs.com/en/press-connects-press-sun-bulletin/75b6bab5b5cbc8c969c976692cc08391",
+      "publishedAt": "2025-07-26T09:05:08Z",
+      "content": "Out of 22 health inspections conducted in Broome County last month, one had critical violations, 18 had no violations, and four had unfixed violations remaining from previous inspections, according t… [+7211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox Business",
+      "title": "New Mexico Pinon Coffee recalls pods due to contamination risk",
+      "description": "The affected batch is about 154 Dark Pinon 10ct Single Serve cups.",
+      "url": "https://nypost.com/2025/07/26/business/new-mexico-pinon-coffee-recalls-pods-due-to-contamination-risk/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-766cshyoc-1753515886627.jpg?quality=75&strip=all&1753501615&w=1024",
+      "publishedAt": "2025-07-26T07:51:16Z",
+      "content": "A New Mexico coffee company is recalling its single-serve cups due to contamination concerns. \r\nThe company, New Mexico Pinon Coffee, said it is voluntarily recalling one lot of its New Mexico Pinon … [+1678 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://images.theconversation.com/files/678899/original/file-20250708-66-r5l3t9.jpg?ixlib=rb-4.1.0&rect=0%2C111%2C4896%2C2448&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-07-21T16:18:05Z",
       "content": "Perfect Wave/Shutterstock\r\nYou pile your plate high at the buffet, savouring the freedom to try a little bit of everything. But while your tastebuds might be celebrating, your gut could be at risk. \n… [+6972 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": ", USA TODAY",
-      "title": "Ice cream recall: Rich's Ice Cream recalls more than 100,000 bars",
-      "description": "The FDA announced July 17 that Rich's Ice Cream Co. is recalling select products due to potential listeria monocytogenes contamination.",
-      "url": "https://www.usatoday.com/story/money/food/2025/07/21/ice-cream-recall-richs-ice-cream-bars-listeria/85306577007/",
-      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2025/07/21/USAT/85308056007-usatsi-20683544.jpg?auto=webp&crop=4334,2438,x0,y379&format=pjpg&width=1200",
-      "publishedAt": "2025-07-21T16:15:33Z",
-      "content": "More than 100,000 ice cream bars produced by Rich's Ice Cream have been recalled over concerns of potential listeria contamination.\r\nThe Food and Drug Administration Authority (FDA) announced July 17… [+3392 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "FDA Issues Highest Risk Warning For Mushroom Recall",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of mushrooms over food poisoning contamination fears has been classified with the highest possible health risk after experts ruled consuming the products could prove fatal.\nThe new assessment of the t…",
-      "url": "https://biztoc.com/x/ea8518f110156211",
-      "urlToImage": "https://biztoc.com/cdn/ea8518f110156211_s.webp",
-      "publishedAt": "2025-07-21T15:05:53Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of mushrooms over food poisoning contamination fears has been classified with the highest possible health risk after experts ruled consuming … [+144 chars]"
     }
   ],
   "totalResults": 92,
