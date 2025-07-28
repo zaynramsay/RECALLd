@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-07-28T06:41:38.093Z",
+  "lastUpdated": "2025-07-28T12:57:42.893Z",
   "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Suzy Khimm",
+      "title": "A Texas candy company switched to natural dyes — but it wasn’t easy",
+      "description": "Food manufacturers across the U.S. are facing hurdles as they seek to replace synthetic food dyes with natural colors. Atkinson Candy Company made the switch early.",
+      "url": "https://www.nbcnews.com/news/us-news/no-artificial-dyes-atkinson-candy-company-replace-natural-colors-rfk-rcna220485",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250725-food-dyes-to-8a82d5.jpg",
+      "publishedAt": "2025-07-27T09:30:00Z",
+      "content": "Natural dyes, which are derived from plants, produce, spices and minerals, have not been scrutinized as closely by researchers for their health impact or the potential for contamination, experts say.… [+3870 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -734,19 +747,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "Another Class I recall: Nearly 1.5 tons of cucumbers RECALLED by the FDA due to Salmonella contamination",
-      "description": "Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms. Two previous outbreaks linked to cucumbers from Florida-based Bedner Growers and Thomas Produce in …",
-      "url": "https://www.naturalnews.com/2025-07-23-cucumbers-recalled-by-fda-due-to-salmonella-contamination.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Fresh-Cucumbers-Clean.jpg",
-      "publishedAt": "2025-07-23T06:00:00Z",
-      "content": "<ul><li>Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms.</li><li>Two previous outbreaks … [+6273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "S.D. Wells",
       "title": "CONFINED ANIMAL FEEDING OPERATIONS and Big Ag chemicals main causes of SUPERBUGS that are resistant to antibiotics",
       "description": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess what? You are what you eat. A new study reveals it’s much wo…",
@@ -754,6 +754,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pigs-Swine-In-Cage.jpg",
       "publishedAt": "2025-07-23T06:00:00Z",
       "content": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess … [+5275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Another Class I recall: Nearly 1.5 tons of cucumbers RECALLED by the FDA due to Salmonella contamination",
+      "description": "Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms. Two previous outbreaks linked to cucumbers from Florida-based Bedner Growers and Thomas Produce in …",
+      "url": "https://www.naturalnews.com/2025-07-23-cucumbers-recalled-by-fda-due-to-salmonella-contamination.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Fresh-Cucumbers-Clean.jpg",
+      "publishedAt": "2025-07-23T06:00:00Z",
+      "content": "<ul><li>Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms.</li><li>Two previous outbreaks … [+6273 chars]"
     },
     {
       "source": {
@@ -1150,19 +1163,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
-      "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
-      "url": "https://www.naturalnews.com/2025-07-22-blackberries-versatile-source-nutrition-disease-fighting-antioxidants.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Ramon Tomey",
       "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
       "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
@@ -1176,6 +1176,19 @@
         "id": null,
         "name": "Naturalnews.com"
       },
+      "author": "Laura Harris",
+      "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
+      "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
+      "url": "https://www.naturalnews.com/2025-07-22-blackberries-versatile-source-nutrition-disease-fighting-antioxidants.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
+      "publishedAt": "2025-07-22T06:00:00Z",
+      "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
       "author": "Finn Heartley",
       "title": "Texas floods and global weather chaos: Climate engineering exposed as weaponized control",
       "description": "Deliberate Weather Manipulation: Catastrophic floods in Texas and extreme global weather events are not natural but engineered via climate modification by power structures to control food, economies, and populations. Disrupted Hydrological Cycle: Geoengineeri…",
@@ -1183,19 +1196,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/2025-07-22-BBN-Interview-with-Dane-Wigington.jpg",
       "publishedAt": "2025-07-22T06:00:00Z",
       "content": "<ul><li>Deliberate Weather Manipulation: Catastrophic floods in Texas and extreme global weather events are not natural but engineered via climate modification by power structures to control food, ec… [+5281 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Coral Beach",
-      "title": "Researchers find that overhead irrigation is most likely cause of E. coli contamination of romaine",
-      "description": "Foodborne illness outbreaks of E. coli O157 infections traced to romaine lettuce continue to be an ongoing public health concern.  The most recent such outbreak in November and December 2024 saw 89 people across 15 states sickened. The outbreak hospitalized 3…",
-      "url": "https://www.foodsafetynews.com/2025/07/researchers-find-that-overhead-irrigation-is-most-likely-cause-of-e-coli-contamination-of-romaine/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/097/923/799/9BvRDJ724zWnG4kOYlAKNOd03/aa3cbd59f470eaf37cdb67b427234252d61c79b2.png",
-      "publishedAt": "2025-07-22T04:04:00Z",
-      "content": "Foodborne illness outbreaks of E. coli O157 infections traced to romaine lettuce continue to be an ongoing public health concern. \r\nThe most recent such outbreak in November and December 2024 saw 89 … [+4850 chars]"
     }
   ],
   "totalResults": 92,
