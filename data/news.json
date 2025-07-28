@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-28T12:57:42.893Z",
+  "lastUpdated": "2025-07-28T18:39:40.701Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Oil City News"
+      },
+      "author": "Nick Perkins",
+      "title": "Natrona County health and food inspections (7/18/25–7/24/25)",
+      "description": "CASPER, Wyo. — The Casper-Natrona County Health Department inspects restaurants, grocery stores, convenience stores, mobile food units, commissaries and",
+      "url": "http://oilcity.news/community/health/2025/07/27/natrona-county-health-and-food-inspections-7-18-25-7-24-25/",
+      "urlToImage": "https://i0.wp.com/oilcity.news/wp-content/uploads/2022/03/Breeze_FBpost_Image-5.png?fit=1200%2C800&quality=80&ssl=1",
+      "publishedAt": "2025-07-27T16:09:24Z",
+      "content": "CASPER, Wyo. The Casper-Natrona County Health Department inspects restaurants, grocery stores, convenience stores, mobile food units, commissaries and food vending operations. Every facility has an u… [+4093 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Christmas tree growers keep watchful eye on spread of dangerous mould",
+      "description": "Christmas tree growers in Atlantic Canada are monitoring the spread of a disease and looking for ways to combat it.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/christmas-tree-growers-keep-watchful-eye-on-spread-of-dangerous-mould-1.7594821",
+      "urlToImage": "https://i.cbc.ca/1.7594855.1753556414!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/fir-tree-roots-infected-with-slime-mould.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-27T15:00:00Z",
+      "content": "Christmas tree growers in Atlantic Canada are monitoring the spread of a disease and looking for ways to combat it.\r\nPhytophthora abietivora, a destructive form of mould first identified in 2017  alt… [+2182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wattsupwiththat.com"
+      },
+      "author": "Anthony Watts",
+      "title": "Oh noes! WMO report documents spiralling weather and climate impacts",
+      "description": "Meh. More doomworld forecasts from the World Meteorological Organization.",
+      "url": "https://wattsupwiththat.com/2025/07/27/oh-noes-wmo-report-documents-spiralling-weather-and-climate-impacts/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/07/doomworld-v2.webp?fit=1024%2C512&ssl=1",
+      "publishedAt": "2025-07-27T13:00:00Z",
+      "content": "We somehow missed this, it is entertaining – Anthony\r\nWMO report documents spiralling weather and climate impacts\r\nThe clear signs of human-induced climate change reached new heights in 2024, with so… [+10821 chars]"
+    },
     {
       "source": {
         "id": "nbc-news",
@@ -747,19 +786,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "S.D. Wells",
-      "title": "CONFINED ANIMAL FEEDING OPERATIONS and Big Ag chemicals main causes of SUPERBUGS that are resistant to antibiotics",
-      "description": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess what? You are what you eat. A new study reveals it’s much wo…",
-      "url": "https://www.naturalnews.com/2025-07-23-confined-animal-feeding-operations-big-ag-chemicals-main-causes-superbugs.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pigs-Swine-In-Cage.jpg",
-      "publishedAt": "2025-07-23T06:00:00Z",
-      "content": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess … [+5275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Olivia Cook",
       "title": "Another Class I recall: Nearly 1.5 tons of cucumbers RECALLED by the FDA due to Salmonella contamination",
       "description": "Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms. Two previous outbreaks linked to cucumbers from Florida-based Bedner Growers and Thomas Produce in …",
@@ -767,6 +793,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Fresh-Cucumbers-Clean.jpg",
       "publishedAt": "2025-07-23T06:00:00Z",
       "content": "<ul><li>Nearly 3,000 pounds of cucumbers were recalled by the FDA on July 8 due to Salmonella contamination in a Class I (highest level) alert involving Fuentes Farms.</li><li>Two previous outbreaks … [+6273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "CONFINED ANIMAL FEEDING OPERATIONS and Big Ag chemicals main causes of SUPERBUGS that are resistant to antibiotics",
+      "description": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess what? You are what you eat. A new study reveals it’s much wo…",
+      "url": "https://www.naturalnews.com/2025-07-23-confined-animal-feeding-operations-big-ag-chemicals-main-causes-superbugs.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Pigs-Swine-In-Cage.jpg",
+      "publishedAt": "2025-07-23T06:00:00Z",
+      "content": "Preventable diseases are on the rise thanks to all the drugs and chemicals used in the CAFOs of America. The animals are abused and mistreated, drugged up and then fed pesticide-laden food and guess … [+5275 chars]"
     },
     {
       "source": {
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/07/PFAS-Maine_13_resized.jpg",
       "publishedAt": "2025-07-22T09:00:00Z",
       "content": "Marina SchaufflerWhen Lawrence and Penny Higgins of Fairfield, Maine, first learned in 2020 that high levels of toxic chemicals called PFAS taint their home’s well water, they wondered how their heal… [+11283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "More than 65 deli meat products RECALLED in Canada over Salmonella outbreak",
-      "description": "Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). The outbreak began in mid-April, peaking in early May with no deaths …",
-      "url": "https://www.naturalnews.com/2025-07-22-deli-products-recalled-canada-over-salmonella-outbreak.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Deli-Meat-Ham.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Over 65 salami and cacciatore products from multiple brands (Bona, Rea, Imperial Meats, etc.) have been recalled across six Canadian provinces after 87 Salmonella cases (nine hospitalized). T… [+4597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Blackberries: A versatile source of nutrition and disease-fighting antioxidants",
-      "description": "Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health. The flavonoids in blackberries help improve cholesterol and blood pressure, while fiber…",
-      "url": "https://www.naturalnews.com/2025-07-22-blackberries-versatile-source-nutrition-disease-fighting-antioxidants.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Blackberries-Fruit-Bowl.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Blackberries are packed with vitamin C, fiber and powerful antioxidants like anthocyanins and ellagic acid, all of which are important for maintaining good overall health.</li><li>The flavono… [+8393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Finn Heartley",
-      "title": "Texas floods and global weather chaos: Climate engineering exposed as weaponized control",
-      "description": "Deliberate Weather Manipulation: Catastrophic floods in Texas and extreme global weather events are not natural but engineered via climate modification by power structures to control food, economies, and populations. Disrupted Hydrological Cycle: Geoengineeri…",
-      "url": "https://www.naturalnews.com/2025-07-22-texas-floods-and-global-weather-chaos.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/2025-07-22-BBN-Interview-with-Dane-Wigington.jpg",
-      "publishedAt": "2025-07-22T06:00:00Z",
-      "content": "<ul><li>Deliberate Weather Manipulation: Catastrophic floods in Texas and extreme global weather events are not natural but engineered via climate modification by power structures to control food, ec… [+5281 chars]"
     }
   ],
   "totalResults": 92,
