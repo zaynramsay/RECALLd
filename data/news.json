@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-07-29T06:39:59.357Z",
+  "lastUpdated": "2025-07-29T12:57:50.254Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Leana Hosea & Saroj Pathirana - Negombo, Sri Lanka",
+      "title": "BBC uncovers lasting toxic legacy of cargo ship disaster off Sri Lanka",
+      "description": "Scientists warn the damage to the environment after the 2021 X-Press Pearl disaster could be much more enduring.",
+      "url": "https://www.bbc.com/news/articles/cly8y5kmrllo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/82f28de45e6b99679878b06dd50d9219",
+      "publishedAt": "2025-07-28T12:34:14Z",
+      "content": "Four years after a stricken cargo ship caused the largest plastic spill ever recorded, volunteers on Sri Lanka's beaches are still sifting kilograms of tiny, toxic plastic pellets from the sand.\r\nBil… [+9178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "National Observer"
+      },
+      "author": "Danielle Beurteaux",
+      "title": "Homeowners question government over PFAS contamination cleanup",
+      "description": "Transport Canada is responsible for dozens of airports that have caused chemical contamination in surrounding communities — a fact it has known, in some cases, for more than 20 years. Why is it taking so long to clean the chemicals up?",
+      "url": "https://www.nationalobserver.com/2025/07/28/news/pfas-contamination-cleanup-transport-canada",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/07/21/stjohnsairport-072125-jimmyemerson.jpg",
+      "publishedAt": "2025-07-28T09:09:04Z",
+      "content": "Edward Sheerr didnt know much about per- and polyfluoroalkyl substances until they were discovered in his drinking water. He, his wife and their two children moved to their home in the town of Torbay… [+9404 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Megan Cartwright",
+      "title": "Denise Richards' Daughter Sami Sheen Health Condition: What We Know",
+      "description": "Sami Sheen has opened up about the disorder in a video posted to social media.",
+      "url": "https://www.newsweek.com/denise-richards-daughter-sami-sheen-health-condition-ocd-2104892",
+      "urlToImage": "https://d.newsweek.com/en/full/2691288/sami-sheen-denise-richards-show-planet-hollywood.png",
+      "publishedAt": "2025-07-28T09:08:40Z",
+      "content": "Sami Sheen has opened up about her obsessive-compulsive disorder (OCD) in a new video posted to social media.\r\nNewsweek reached out to Sheen's representative for comment on Monday via email outside r… [+4234 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -320,11 +359,11 @@
       },
       "author": "Olivia Cook",
       "title": "The Danone YoCrunch recall: Plastic shards found in yogurt snacks for kids",
-      "description": "Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&Ms and Oreo – fragments that could pose a serious risk of choking or throat injuries. A “packa��",
+      "description": "Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&Ms and Oreo – fragments that could pose a serious risk of choking or throat injuries. A “packa…",
       "url": "https://www.naturalnews.com/2025-07-25-plastic-shards-in-yogurt-snacks-for-kids.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Woman-Shop-Grocery-Dairy-Yogurts.jpg",
       "publishedAt": "2025-07-25T06:00:00Z",
-      "content": "<ul><li>Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&amp;Ms and Oreo fragments … [+6248 chars]"
+      "content": "<ul><li>Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&amp;Ms and Oreo fragments ��� [+6248 chars]"
     },
     {
       "source": {
@@ -384,7 +423,7 @@
         "name": "BroBible"
       },
       "author": "Ljeonida Mulabazi",
-      "title": "‘I Learned Something Cool‘: Woman Goes To Ground Beef Section In Publix. Then She Looks For The Tan Labels. Here’s Why",
+      "title": "‘I Learned Something Cool���: Woman Goes To Ground Beef Section In Publix. Then She Looks For The Tan Labels. Here’s Why",
       "description": "Concerns about food quality are nothing new. From “mystery meat” to bread that doesn’t seem to behave like bread, shoppers are often skeptical about what’s really on their shelves. While not all these claims can be confirmed, the fear is justified. For exampl…",
       "url": "https://brobible.com/culture/article/publix-tan-labels-meat/",
       "urlToImage": "https://brobible.com/wp-content/uploads/2025/07/publix-meats-1.jpg",
@@ -1157,60 +1196,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/8ab03857-7ece-47f7-90cf-9323909eb619",
       "publishedAt": "2025-07-22T13:33:00Z",
       "content": "Mississauga, ON, July 22, 2025 (GLOBE NEWSWIRE) -- Celiac Canada is proud to announce a new partnership with Conagra Brands Canada to support the expansion of gluten-free food service in healthcare a… [+3069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Nature’s Fusions LLC - 707024 - 06/25/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/natures-fusions-llc-707024-06252025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-07-22T13:20:06Z",
-      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-84\r\nProduct:\r\nDrugs \r\nRecipient:\r\nChief Information Officer Quality Assurance/Owner \r\nNatures Fusions LLC \r\n57 North 1380 WestOrem, UT84057… [+14889 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Glenmark Pharmaceuticals Limited - 708270 - 07/11/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/glenmark-pharmaceuticals-limited-708270-07112025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-07-22T13:20:05Z",
-      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-92\r\nProduct:\r\nDrugs \r\nRecipient:\r\nSenior Vice President and Site Head \r\nGlenmark Pharmaceuticals Limited \r\nPlot No. 2, Phase-II, Pharma Zone, SEZPith… [+24810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Medical Chemical Corporation - 706007 - 07/09/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/medical-chemical-corporation-706007-07092025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-07-22T13:20:05Z",
-      "content": "Delivery Method:\r\nVIA UPS\r\nReference #:\r\n320-25-91\r\nProduct:\r\nDrugs \r\nRecipient:\r\nMedical Chemical Corporation\r\n19250 Van Ness AvenueTorrance, CA90501-1102United States\r\nIssuing Office:\r\nCenter for D… [+28115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Arden Dier with Newser.AI",
-      "title": "Glass Bottles May Hold More Microplastics Than Plastic Ones",
-      "description": "A new study reveals that the simple act of opening a metal bottle cap could be adding unexpected microplastics to your favorite drink—potentially making glass bottles the most contaminated of all. Researchers at France's food safety agency looked at beer, wat…",
-      "url": "https://www.newser.com/story/372251/glass-bottles-may-hold-more-microplastics-than-plastic-ones.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1623579-12-20250722070306.jpeg",
-      "publishedAt": "2025-07-22T12:03:05Z",
-      "content": "A new study reveals that the simple act of opening a metal bottle cap could be adding unexpected microplastics to your favorite drink—potentially making glass bottles the most contaminated of all. Re… [+1539 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 92,
   "filteredCount": 0
 }
