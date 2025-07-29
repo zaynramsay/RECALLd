@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-07-29T12:57:50.254Z",
+  "lastUpdated": "2025-07-29T18:40:01.535Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Simplyrecipes.com"
+      },
+      "author": "Cheyenne Buckingham",
+      "title": "Popular Ice Cream Sold at Walmart and Dollar Tree Recalled for Undeclared Allergen",
+      "description": "Here's what to look for.",
+      "url": "https://www.simplyrecipes.com/walmart-ice-cream-recall-july-11780109",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YkOU4WwQVNnpBBtk2vYg1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/simply_recipes_854/9e588f23508094b8897c5a502c98206e",
+      "publishedAt": "2025-07-28T17:29:30Z",
+      "content": "From a food safety perspective, July has not been the best month for ice cream. Shortly after an unrelated recall for listeria contamination, Tropicale Foods recalled many of its Helados Mexico and L… [+3733 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "Suffer Little Children — Poisoned by Pesticides and Damaged by Ultra-Processed Foods",
+      "description": "Baskut Tuncak is a prominent expert and advocate in the field of human rights and environmental law. He has served as the United Nations Special Rapporteur on human rights and hazardous substances and wastes, where he highlighted the human rights impacts of p…",
+      "url": "https://www.activistpost.com/suffer-little-children-poisoned-by-pesticides-and-damaged-by-ultra-processed-foods/",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/07/adobe-stock-farming-pesticides-scaled-1.jpeg",
+      "publishedAt": "2025-07-28T16:02:00Z",
+      "content": "Baskut Tuncak is a prominent expert and advocate in the field of human rights and environmental law. He has served as the United Nations Special Rapporteur on human rights and hazardous substances an… [+10860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Public Health Alert Issued Over Ham Salad: 'Should Be Thrown Away'",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nAmericans have been warned to throw away ham salad products because of potential bacterial contamination.\nThe U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) issued a public health a…",
+      "url": "https://biztoc.com/x/7efd41a70a08e13d",
+      "urlToImage": "https://biztoc.com/cdn/7efd41a70a08e13d_s.webp",
+      "publishedAt": "2025-07-28T15:54:47Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.Americans have been warned to throw away ham salad products because of potential bacterial contamination.The U.S. Department of Agriculture's Food Saf… [+141 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matt Cannon",
+      "title": "Nationwide Recall for Product Sold at Target, Amazon: Dispose 'Immediately'",
+      "description": "The products were sold at major retailers, including Target, Amazon and Scheels.",
+      "url": "https://www.newsweek.com/nationwide-recall-pura-scents-products-sold-target-amazon-2105072",
+      "urlToImage": "https://d.newsweek.com/en/full/2691650/pura-4-smart-home-fragrance-diffuser.jpg",
+      "publishedAt": "2025-07-28T15:52:04Z",
+      "content": "More than 800,000 home fragrance diffusers sold at major outlets nationwide have been recalled due to concerns that the product poses a serious choking hazard to children.\r\nPura Scents issued a natio… [+3533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Tribune News Service",
+      "title": "Amid PFAS fallout, a Maine doctor navigates medical risks with her patients",
+      "description": "Many clinicians remain unaware of the health risks linked to PFAS.",
+      "url": "https://www.bostonherald.com/2025/07/28/pfas-medical-risks/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/202507240400MCT_____PHOTO____LIFE-HEALTH-MAINE-PFAS-MCT-1.jpg?w=1024&h=666",
+      "publishedAt": "2025-07-28T15:50:00Z",
+      "content": "By Marina Schauffler, KFF Health News\r\nWhen Lawrence and Penny Higgins of Fairfield, Maine, first learned in 2020 that high levels of toxic chemicals called PFAS taint their homes well water, they wo… [+11966 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Isabel van Brugen",
+      "title": "Public Health Alert Issued Over Ham Salad: 'Should Be Thrown Away'",
+      "description": "The Department of Agriculture's Food Safety and Inspection Service warns products may be contaminated with Listeria monocytogenes.",
+      "url": "https://www.newsweek.com/public-health-alert-ham-salad-2105151",
+      "urlToImage": "https://d.newsweek.com/en/full/2691590/workers-preparing-luncheon-meat.jpg",
+      "publishedAt": "2025-07-28T15:46:16Z",
+      "content": "Americans have been warned to throw away ham salad products because of potential bacterial contamination.\r\nThe U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) issued a publ… [+2794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Texas Cotton Industry Struggles as Synthetic Fibers Go Mainstream",
+      "description": "For decades, the cotton industry has long been considered king in the Texas agriculture world. However, a shift has left it standing on shaky ground. In the last few years — as cotton producers struggled with low market prices, high …",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/07/28/833406.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/07/Texas-Cotton-Industry.jpg",
+      "publishedAt": "2025-07-28T14:40:27Z",
+      "content": "For decades, the cotton industry has long been considered king in the Texas agriculture world. However, a shift has left it standing on shaky ground.\r\nIn the last few years as cotton producers strugg… [+7221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Benson M. Wachira, Richard Echodu, Johnson O. Ouma, Imna I. Malele, Daniel Gamba, Michael Okal, Kennedy O. Ogolla, Clement Mangwiro, Robert Opiro, Deusdedit J. Malulu, Bernard Ochieng, Raymond E. Mdachi, Paul O. Mireji",
+      "title": "Field responses of Glossina pallidipes and Glossina fuscipes fuscipes tsetse flies to Novel Repellent Blend and Waterbuck Repellent Compounds in Kenya",
+      "description": "Author summary Tsetse flies are sole biological vectors of Human African Trypanosomiasis (HAT) and Animal African Trypanosomosis (AAT) in sub-Sahara Africa. Tsetse fly repellent technologies that reduce contact between tsetse flies and their vertebrate hosts …",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013367",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013367.g002&size=inline",
+      "publishedAt": "2025-07-28T14:00:00Z",
+      "content": "Abstract\r\nControl of tsetse flies constitutes a cornerstone of trypanosomiasis control and elimination efforts in Africa. The use of eco-friendly odor-based bait technologies has been identified as a… [+30138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Hyunjin Cha, Doyeon Won, Seun Kang, Eui-Seong Kim, Kyung-Ah Lee, Won-Jae Lee, Kyung-Tae Lee, Yong-Sun Bahn",
+      "title": "The calcineurin pathway regulates extreme thermotolerance, cell membrane and wall integrity, antifungal resistance, and virulence in Candida auris",
+      "description": "Author summary The fungal pathogen Candida auris presents a global health threat due to its multidrug resistance and high mortality rates. Despite its clinical significance, the molecular mechanisms underlying its virulence and antifungal resistance remain po…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013363",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013363.g007&size=inline",
+      "publishedAt": "2025-07-28T14:00:00Z",
+      "content": "Citation: Cha H, Won D, Kang S, Kim E-S, Lee K-A, Lee W-J, et al. (2025) The calcineurin pathway regulates extreme thermotolerance, cell membrane and wall integrity, antifungal resistance, and virule… [+89245 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -363,7 +480,7 @@
       "url": "https://www.naturalnews.com/2025-07-25-plastic-shards-in-yogurt-snacks-for-kids.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Woman-Shop-Grocery-Dairy-Yogurts.jpg",
       "publishedAt": "2025-07-25T06:00:00Z",
-      "content": "<ul><li>Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&amp;Ms and Oreo fragments ��� [+6248 chars]"
+      "content": "<ul><li>Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&amp;Ms and Oreo fragments … [+6248 chars]"
     },
     {
       "source": {
@@ -423,7 +540,7 @@
         "name": "BroBible"
       },
       "author": "Ljeonida Mulabazi",
-      "title": "‘I Learned Something Cool���: Woman Goes To Ground Beef Section In Publix. Then She Looks For The Tan Labels. Here’s Why",
+      "title": "‘I Learned Something Cool‘: Woman Goes To Ground Beef Section In Publix. Then She Looks For The Tan Labels. Here’s Why",
       "description": "Concerns about food quality are nothing new. From “mystery meat” to bread that doesn’t seem to behave like bread, shoppers are often skeptical about what’s really on their shelves. While not all these claims can be confirmed, the fear is justified. For exampl…",
       "url": "https://brobible.com/culture/article/publix-tan-labels-meat/",
       "urlToImage": "https://brobible.com/wp-content/uploads/2025/07/publix-meats-1.jpg",
@@ -1079,123 +1196,6 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/afd4da9401b65f9a8aed5e1b0a2ff2332a93d08e/hub/2025/04/03/b46bc062-7e17-4459-9031-ce2c17b1dcb3/gettyimages-1011906300.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-07-22T15:15:00Z",
       "content": "Now that it's summer, you might not be using your microwave as much as you were, but you still need to keep it clean. And because it's so often overlooked when doing kitchen cleanups, it's easy for m… [+6649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Medical Waste Management Market Worth USD 39.8 Billion in 2025 as WHO, EPA and New Tech Define Waste Solutions",
-      "description": "The global medical waste management market size is calculated at USD 39.8 billion in 2025 and is expected to reach around USD 79.83 billion by 2034, growing at a CAGR of 8.04% for the forecasted period. The global medical waste management market size is calcu…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119624/0/en/Medical-Waste-Management-Market-Worth-USD-39-8-Billion-in-2025-as-WHO-EPA-and-New-Tech-Define-Waste-Solutions.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-07-22T14:30:00Z",
-      "content": "Ottawa, July 22, 2025 (GLOBE NEWSWIRE) -- The global medical waste management market size was valued at USD 36.84 billion in 2024 and is predicted to hit around USD 79.83 billion by 2034, a study pub… [+18200 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "etimes.in",
-      "title": "Why should you avoid eating raw salads in monsoons?",
-      "description": "Monsoons, while providing relief from summer heat, elevate the risk of foodborne illnesses due to increased bacterial and parasitic contamination in raw vegetables. Health experts advise caution, as common salad ingredients like lettuce and tomatoes can harbo…",
-      "url": "https://timesofindia.indiatimes.com/life-style/food-news/why-should-you-avoid-eating-raw-salads-in-monsoons/articleshow/122839645.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-122839737,width-1070,height-580,imgsize-120202,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-07-22T14:23:32Z",
-      "content": "Saiyaara girl Aneet Paddas wardrobe is every Gen-Zs fashion dream"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Silver Sulfate Global Strategic Industry Report 2025 | Market to Reach $2.2 Billion by 2030 - Cost Volatility of Silver Inputs Presents Pricing Challenges and Strategic Sourcing Needs",
-      "description": "Opportunities in the silver sulfate market include its growing use in wastewater monitoring due to stringent environmental regulations and expanding applications in electrochemical devices for batteries and sensors. Its antimicrobial properties are also gaini…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119623/28124/en/Silver-Sulfate-Global-Strategic-Industry-Report-2025-Market-to-Reach-2-2-Billion-by-2030-Cost-Volatility-of-Silver-Inputs-Presents-Pricing-Challenges-and-Strategic-Sourcing-Needs.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-07-22T14:23:00Z",
-      "content": "Dublin, July 22, 2025 (GLOBE NEWSWIRE) -- The \"Silver Sulfate - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Silver Sulfate was… [+10365 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "author": null,
-      "title": "Food Inspection Devices Market worth $5.08 billion by 2030 - Exclusive Report by MarketsandMarkets™",
-      "description": "DELRAY BEACH, Fla., July 22, 2025 /PRNewswire/ -- The food inspection devices market is expected to reach USD 5.08 billion by 2030 from USD 3.25 billion in 2025 at a CAGR of 9.3% from 2025 to 2030 according to a new report by MarketsandMarkets™. Key drivers p…",
-      "url": "https://www.prnewswire.co.uk/news-releases/food-inspection-devices-market-worth-5-08-billion-by-2030---exclusive-report-by-marketsandmarkets-302510485.html",
-      "urlToImage": "https://mma.prnewswire.com/media/1868219/MarketsandMarkets_Logo.jpg?p=facebook",
-      "publishedAt": "2025-07-22T14:15:00Z",
-      "content": "DELRAY BEACH, Fla., July 22, 2025 /PRNewswire/ -- The food inspection devices market is expected to reach USD 5.08 billion by 2030 from USD 3.25 billion in 2025 at a CAGR of 9.3% from 2025 to 2030 ac… [+9891 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailycoffeenews.com"
-      },
-      "author": "Howard Bryman",
-      "title": "With MilkID, Milk Gets a Pitcher ID to Enter the Bar",
-      "description": "Designed to prevent allergic reactions while also minimizing milk waste in coffee shops, a new color-coded magnet and compatible pitcher system called MilkID recently made its launch.  MilkID’s custom...",
-      "url": "https://dailycoffeenews.com/2025/07/22/with-milkid-milk-gets-a-pitcher-id-to-enter-the-bar/",
-      "urlToImage": "https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers.png",
-      "publishedAt": "2025-07-22T14:14:04Z",
-      "content": "All images courtesy of MilkID\r\nDesigned to prevent allergic reactions while also minimizing milk waste in coffee shops, a new color-coded magnet and compatible pitcher system called MilkID recently m… [+2571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Medical Packaging Films Market Size to Expand 1.9X from 2025 Driving USD 17.65 Bn by 2034",
-      "description": "According to a recent analysis by Towards Packaging, the global medical packaging films market is projected to expand from USD 8.72 billion in 2024 to USD 17.65 billion by 2034, recording a CAGR of 7.3% between 2025 and 2034. According to a recent analysis by…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119578/0/en/Medical-Packaging-Films-Market-Size-to-Expand-1-9X-from-2025-Driving-USD-17-65-Bn-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-07-22T14:00:00Z",
-      "content": "Ottawa, July 22, 2025 (GLOBE NEWSWIRE) -- The global medical packaging films market size was recorded at USD 9.36 billion in 2025 and is forecast to increase to USD 17.65 billion in 2034, as per find… [+23035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KPRC Click2Houston"
-      },
-      "author": "Ninfa Saavedra",
-      "title": "More than 100K ice cream bars recalled in 23 states, including Texas, over possible listeria contamination",
-      "description": "More than 100K ice cream bars recalled in 23 states, including Texas, over possible listeria contaminationclick2houston.com",
-      "url": "https://www.click2houston.com/news/local/2025/07/22/more-than-100k-ice-cream-bars-recalled-in-23-states-including-texas-over-possible-listeria-contamination/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TM3HQFCMIBAZ7JCQDIH2YN73QQ.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2025-07-22T13:55:55Z",
-      "content": "TEXAS More than 100,000 ice cream bars made by Rich Ice Cream Co. have been recalled due to a possible listeria contamination, according to the U.S. Food and Drug Administration. \r\nOn July 17, the FD… [+1744 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "GlobeNewswire",
-      "title": "A Safer Plate for Every Patient",
-      "description": "Celiac Canada & Conagra Brands Canada Partner to Enhance Gluten-Free Food Service in Healthcare Mississauga, ON, July 22, 2025 (GLOBE NEWSWIRE) — Celiac Canada is proud to announce a new partnership with Conagra Brands Canada to support the expansion of glute…",
-      "url": "https://financialpost.com/globe-newswire/a-safer-plate-for-every-patient",
-      "urlToImage": null,
-      "publishedAt": "2025-07-22T13:35:15Z",
-      "content": "Celiac Canada &amp; Conagra Brands Canada Partner to Enhance Gluten-Free Food Service in Healthcare\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city … [+5474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Celiac Canada",
-      "title": "A Safer Plate for Every Patient",
-      "description": "Celiac Canada & Conagra Brands Canada Partner to Enhance Gluten-Free Food Service in Healthcare Celiac Canada & Conagra Brands Canada Partner to Enhance Gluten-Free Food Service in Healthcare",
-      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119553/0/en/A-Safer-Plate-for-Every-Patient.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/8ab03857-7ece-47f7-90cf-9323909eb619",
-      "publishedAt": "2025-07-22T13:33:00Z",
-      "content": "Mississauga, ON, July 22, 2025 (GLOBE NEWSWIRE) -- Celiac Canada is proud to announce a new partnership with Conagra Brands Canada to support the expansion of gluten-free food service in healthcare a… [+3069 chars]"
     }
   ],
   "totalResults": 92,
