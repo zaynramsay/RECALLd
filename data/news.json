@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-07-30T02:19:47.322Z",
+  "lastUpdated": "2025-07-30T06:41:14.491Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Justthenews.com"
+      },
+      "author": "Amanda Head",
+      "title": "MAHA report: 'Forever' chemicals still contaminate more than 2000 U.S. communities",
+      "description": "Long-lasting chemicals surpass safe levels in many communities across the country, and may stay in the human body forever unless detoxified-- if possible.",
+      "url": "https://justthenews.com/politics-policy/health/maha-report-forever-chemicals-still-contaminate-over-2000-us-communities",
+      "urlToImage": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2024-04/IMG_0575.jpeg?h=09d9145e&itok=f73uStrJ",
+      "publishedAt": "2025-07-29T03:08:04Z",
+      "content": "Over 2,000 U.S. communities are grappling with unsafe PFAs (per- and polyfluoroalkyl substances) levels in their water, according to an updated report from the Environmental Working Groups (EWG) late… [+3549 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,19 +1209,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
       "publishedAt": "2025-07-22T18:00:00Z",
       "content": "Austin, TX, USA, July 22, 2025 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled Plant Tissue Culture Market Size, Trends and Insights By Crop Type (Banana Plants,… [+31237 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechSpot"
-      },
-      "author": "Alfonso Maruccia",
-      "title": "Microsoft turns to underground waste storage to offset AI's carbon toll",
-      "description": "Microsoft has signed a long-term deal with Vaulted Deep to purchase carbon credits in an effort to offset emissions from its growing fleet of AI data centers. Vaulted's specialty? Human feces – or \"excess organic material,\" as the official press release delic…",
-      "url": "https://www.techspot.com/news/108756-microsoft-turns-underground-waste-storage-offset-ai-carbon.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-22-image-16.jpg",
-      "publishedAt": "2025-07-22T16:14:00Z",
-      "content": "Editor's take: Carbon offsetting has become a convenient loophole for tech giants to continue spewing massive amounts of pollution legally. Now, Microsoft is taking a new route to bury its AI-driven … [+2509 chars]"
     }
   ],
   "totalResults": 93,
