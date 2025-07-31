@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-07-31T06:39:52.886Z",
+  "lastUpdated": "2025-07-31T12:56:05.567Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "Beef Recall As Metal Warning Issued",
+      "description": "Ada Valley Meat Company issued a recall for around 1,065 pounds of a ground beef product due to potential metal contamination.",
+      "url": "https://www.newsweek.com/beef-recall-metal-contamination-fsis-ada-valley-meat-company-2106255",
+      "urlToImage": "https://d.newsweek.com/en/full/2693013/beef.jpg",
+      "publishedAt": "2025-07-30T12:20:02Z",
+      "content": "A Michigan-based company is recalling more than 1,000 pounds of a ground beef product due to possible metal contamination, the Food Safety and Inspection Service (FSIS) announced.\r\nAda Valley Meat Co… [+2824 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Lydia Patrick",
+      "title": "Woman Sees Chicago Home Flooding on Pet Cam, Dog's Reaction Says It All",
+      "description": "\"Dog said 'I don't get paid enough treats to deal with this,'\" joked one dog owner.",
+      "url": "https://www.newsweek.com/chicago-flooding-dog-pet-cam-tiktok-2106218",
+      "urlToImage": "https://d.newsweek.com/en/full/2692995/stock-image-whipet.jpg",
+      "publishedAt": "2025-07-30T11:40:53Z",
+      "content": "A dog's nonchalant reaction to her home flooding, caught on a security camera, has left the internet in stitches.\r\nDaisy Silva (@dollardaisy_) shared now-viral footage of her pooch, Evie, casually wa… [+2505 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Bioventus, Inc.",
+      "title": "Bioventus Receives FDA 510(k) Clearances for two Next-Generation Peripheral Nerve Stimulation Products",
+      "description": "DURHAM, N.C., July 30, 2025 (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS), a global leader in innovations for active healing, announced today a significant milestone with the U.S. Food and Drug Administration (FDA) 510(k) clearances for both TalisMann™ and…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/30/3123948/0/en/Bioventus-Receives-FDA-510-k-Clearances-for-two-Next-Generation-Peripheral-Nerve-Stimulation-Products.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e10db184-593a-40b5-af02-627c27583108",
+      "publishedAt": "2025-07-30T11:30:00Z",
+      "content": "DURHAM, N.C., July 30, 2025 (GLOBE NEWSWIRE) -- Bioventus Inc. (Nasdaq: BVS), a global leader in innovations for active healing, announced today a significant milestone with the U.S. Food and Drug Ad… [+6415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Primrose Freestone",
+      "title": "Microbiologist reveals how she avoids salmonella and E Coli by never eating these foods",
+      "description": "Picnic food and bagged salads are off the menu",
+      "url": "https://www.the-independent.com/life-style/health-and-families/salmonella-e-coli-listeria-food-poisoning-b2798747.html",
+      "urlToImage": "https://static.the-independent.com/2022/04/20/13/20111832-9d0a2509-4254-49df-bbd3-06de0413a931.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-07-30T10:46:17Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+6645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "North America Halal Food Market Growth Trends Report 2025-2033 | Rising Muslim Population, Ethical Consumption Demand, Certification Expansion, and Mainstream Retail Access Fueling Expansion",
+      "description": "The North America Halal Food Market is projected to surge from US$ 100.11 billion in 2024 to US$ 226 billion by 2033, growing at a CAGR of 9.47% from 2025 to 2033. This growth is driven by the increasing Muslim population, a demand for clean-label ethical foo…",
+      "url": "https://www.globenewswire.com/news-release/2025/07/30/3123861/28124/en/North-America-Halal-Food-Market-Growth-Trends-Report-2025-2033-Rising-Muslim-Population-Ethical-Consumption-Demand-Certification-Expansion-and-Mainstream-Retail-Access-Fueling-Expa.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-07-30T09:43:00Z",
+      "content": "Dublin, July 30, 2025 (GLOBE NEWSWIRE) -- The \"North America Halal Food Market Size and Share Analysis - Growth Trends and Forecast Report 2025-2033\" report has been added to ResearchAndMarkets.com's… [+10210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "UK Health Security Agency",
+      "title": "Shiga Toxin producing E.coli (STEC) cases rise in England",
+      "description": "Children aged 1 to 4 years were most affected, as UKHSA reminds the public of simple steps to reduce infection.",
+      "url": "https://www.gov.uk/government/news/shiga-toxin-producing-ecoli-stec-cases-rise-in-england",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/6889e69576f68cc8414d5b4d/s960_STEC_news.png",
+      "publishedAt": "2025-07-30T09:34:30Z",
+      "content": "The latest UK Health Security Agency (UKHSA) annual data shows a 26% rise in Shiga toxin-producing Escherichia coli (STEC) infections in England in 2024 when compared to 2023. Overall, 2,544 culture-… [+4814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grist"
+      },
+      "author": "Grist staff",
+      "title": "Trump’s environmental policies are reshaping everyday life. Here’s how.",
+      "description": "The president’s rollbacks and funding cuts are affecting your food, water, and air — even if you don’t realize it.",
+      "url": "https://grist.org/politics/trumps-environmental-policies-are-impacting-your-daily-routine/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2025/07/trump-climate-rollbacks-impacts.webp?quality=75&strip=all",
+      "publishedAt": "2025-07-30T08:08:48Z",
+      "content": "Flip on your lights: Pulling back from renewable energy could make your electricity bills go up.\r\nWhen Trump began his second term, it was with a vow to unleash American energy. But over the last six… [+5402 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1092,112 +1183,8 @@
       "urlToImage": "https://focus.independent.ie/thumbor/H6yb5B5uO66LWvQQ0Bt6kOfefoM=/90x0:3237x2098/629x0/prod-mh-ireland/8fbe0998-100e-41a8-994c-ccc86f904ba1/73866bf6-528b-4958-83db-95578b4acdfd/8fbe0998-100e-41a8-994c-ccc86f904ba1.jpg",
       "publishedAt": "2025-07-24T04:30:00Z",
       "content": "The outbreak has affected side dishes and ready meals at SuperValu, Centra, Tesco and Aldi\r\nFamilies have been urged by the food safety watchdog to check their freezers and throw out implicated ready… [+265 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Anna Chisholm",
-      "title": "What experts have to say about trendy green powders",
-      "description": "Green powders might seem like the answer to lacklustre veggie consumption, but are they actually worth taking?",
-      "url": "https://www.abc.net.au/news/2025-07-24/nutrition-and-diet-experts-green-powders-supplements-/105560386",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/167418e9d80b30e25843b04d15817738?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-07-24T02:55:30Z",
-      "content": "If you believe the ads and social media posts, starting your day with a green powder or greens supplement will help your health and wellbeing.\r\nOften shown as part of a picture-perfect morning routin… [+5747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "Dr. Mercola",
-      "title": "Black Mold Is More Likely to Trigger Allergies Than Cause Toxic Reactions",
-      "description": "We live in a fungal world, and it’s likely that 30% to 40% of homes and offices contain some type of mold. And when you inhale air every day, it’s not unlikely that you’re also breathing in mold spores. One particular type, black mold, has gained a negative r…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/07/24/black-mold-allergies.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/July/FB/black-mold-allergies-fb.jpg",
-      "publishedAt": "2025-07-24T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Pear slices recalled because of high levels of lead and cadmium",
-      "description": "W.W. Industrial Group Inc. of New York is recalling Parashore Pear Slices in juice because government testing has shown them to be contaminated with elevated levels of lead and cadmium. The product was distributed through Grocery Outlet stores across the Unit…",
-      "url": "https://www.foodsafetynews.com/2025/07/pear-slices-recalled-because-of-high-levels-of-lead-and-cadmium/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/098/279/667/7gAk4KJj8QmnKdwLYvwqxrD20/bb749059e3f3b1e8edc506508eea468ae7eb42a9.png",
-      "publishedAt": "2025-07-23T23:23:39Z",
-      "content": "W.W. Industrial Group Inc. of New York is recalling Parashore Pear Slices in juice because government testing has shown them to be contaminated with elevated levels of lead and cadmium.\r\nThe product … [+1668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Alex Portée",
-      "title": "Tuna Salad Products Recalled in 7 States Over Listeria Risk. See the List",
-      "description": "Multiple grocery chains in the South and Midwest recalled their prepared tuna salad products over potential listeria contamination",
-      "url": "https://www.today.com/health/tuna-salad-recall-rcna220575",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/tuna-salad-recall-zz-250723-80e4f6.jpg",
-      "publishedAt": "2025-07-23T23:14:41Z",
-      "content": "Multiple grocery chains in the South and Midwest recalled their prepared tuna salad products over potential listeria contamination.\r\nOn July 21, the U.S. Food and Drug Administration published two re… [+4601 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Canned Fruit Recall Sparks Nationwide Warning to Customers",
-      "description": "Elevated levels of lead and cadmium can cause significant health problems, particularly among infants and children.",
-      "url": "https://www.newsweek.com/canned-fruit-recall-sparks-nationwide-warning-customers-2103213",
-      "urlToImage": "https://d.newsweek.com/en/full/2689071/recalled-pear-slices.png",
-      "publishedAt": "2025-07-23T23:08:54Z",
-      "content": "W.W. Industrial Group is recalling Parashore brand pear slices in juice due to fears the product may contain elevated levels of lead and cadmium.\r\nNewsweek reached out to the company via phone Wednes… [+3010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "author": "Dr. Tim Sandle",
-      "title": "Not tasting too good: Why food recalls happen",
-      "description": "Why do food recalls happen? There are several factors, including contamination, as an expert reveals. \nThe post Not tasting too good: Why food recalls happen appeared first on Digital Journal.",
-      "url": "https://www.digitaljournal.com/life/not-tasting-too-good-why-food-recalls-happen/article",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/08/116765bf5f0f4a2f2c891e6890628a253dcd148f.jpg",
-      "publishedAt": "2025-07-23T20:46:23Z",
-      "content": "A shopper walks down an aisle at an Aeon Orange supermarket in Yangon on July 1, after Myanmar authorities arrested a Japanese national working for the retail giant for allegedly selling rice at arti… [+2951 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "W.W. Industrial Group Recalls Pear Slices in Juice Due to Elevated Levels of Lead and Cadmium",
-      "description": "W.W. Industrial Group, Inc., NY is recalling Parashore Pear Slices in juice, 15 oz, because they have the potential to be contaminated with elevated levels of lead and cadmium.",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ww-industrial-group-recalls-pear-slices-juice-due-elevated-levels-lead-and-cadmium",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-07-23T20:19:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJuly 23, 2025\r\nFDA Publish Date:\r\nJuly 23, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nContaminants\r\nReason for Announcement:\r\nRecall Reason Description\r\nPotentia… [+2469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mensfitness.com"
-      },
-      "author": "Kelsey Kryger, C.P.T.",
-      "title": "FDA Urgently Recalls Popular High-Protein Food That May Cause Serious Illness",
-      "description": "A multi-state recall has been issued for several contaminated products.",
-      "url": "https://www.mensfitness.com/news/fda-urgently-recalls-popular-high-protein-food-that-may-cause-serious-illness",
-      "urlToImage": "https://media.zenfs.com/en/men_s_fitness_953/d7e6f97780958faddabfce6352287863",
-      "publishedAt": "2025-07-23T18:08:26Z",
-      "content": "FDA Urgently Recalls Popular High-Protein Food That May Cause Serious Illness originally appeared on Men's Fitness.\r\nIf tunas your protein of choice, double-check your fridge.\r\nJewel-Osco and Alberts… [+2969 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 91,
   "filteredCount": 0
 }
