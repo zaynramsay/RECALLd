@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-01T02:30:22.614Z",
+  "lastUpdated": "2025-08-01T06:41:40.665Z",
   "articles": [
     {
       "source": {
@@ -370,19 +370,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
-      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
-      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
-      "publishedAt": "2025-07-30T06:00:00Z",
-      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Zoey Sky",
       "title": "The dangers of DMDM Hydantoin in personal care products",
       "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
@@ -390,6 +377,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
       "publishedAt": "2025-07-30T06:00:00Z",
       "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
+      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
+      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
+      "publishedAt": "2025-07-30T06:00:00Z",
+      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
     },
     {
       "source": {
