@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-08-01T12:56:28.339Z",
+  "lastUpdated": "2025-08-01T18:38:40.245Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Nick Mordowanec",
+      "title": "Freeze Dried Fruit Recall With Possible 'Fatal Infections' Warning",
+      "description": "The recalled product sold at Sam's Club stores in many states poses listeria concerns.",
+      "url": "https://www.newsweek.com/food-recall-fruit-listeria-fda-2107060",
+      "urlToImage": "https://d.newsweek.com/en/full/2694195/fda-recall.png",
+      "publishedAt": "2025-07-31T17:39:46Z",
+      "content": "Doehler Dry Ingredient Solutions, LLC initiated a nationwide recall of its Member's Mark Freeze Dried Fruit Variety Pack after internal testing discovered contamination with Listeria monocytogenes, a… [+3384 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "Fish Recall Sparks FDA Risk Warning",
+      "description": "Moon N Sea Ga Llc. issued a voluntary recall on June 24 for various fish products after they were potentially produced under unsanitary conditions.",
+      "url": "https://www.newsweek.com/fish-recall-update-fda-issues-risk-warning-alabama-georgia-south-carolina-tennessee-2107041",
+      "urlToImage": "https://d.newsweek.com/en/full/2694095/fish.jpg",
+      "publishedAt": "2025-07-31T15:31:11Z",
+      "content": "A recall of various fish products after they were potentially processed under unsanitary conditions has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nMo… [+3509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Alex Portée",
+      "title": "Recall Warns Some Celsius Cans Accidentally Contain High Noon Vodka Seltzer",
+      "description": "High Noon recalls vodka seltzer packs after mislabeled Celsius energy drink cans filled with alcohol surface in eight states.",
+      "url": "https://www.today.com/food/recall/celsius-recall-energy-drinks-contain-high-noon-vodka-rcna222214",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/High-Noon-Vodka-Seltzer-recall-te-250730-ba4a90.jpg",
+      "publishedAt": "2025-07-31T14:20:55Z",
+      "content": "If youve picked up a variety pack of High Noon Beach recently, you might want to take a closer look at it.\r\nThe company issued a voluntary recall after discovering a packaging label error that could … [+3374 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Coffee choice stirs controversy when allergic child nearly takes a sip: 'Who was supervising her?'",
+      "description": "A teenager's hazelnut coffee recently created a controversy when a friend's allergic sister attempts to drink it, prompting discussion about allergen safety and responsibility.",
+      "url": "https://www.foxnews.com/food-drink/coffee-choice-stirs-controversy-when-allergic-child-nearly-takes-sip-who-supervising-her",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/reddit-aita-drama-hazelnut-coffee-1.jpg",
+      "publishedAt": "2025-07-31T14:08:28Z",
+      "content": "A teenager's innocent coffee choice recently sparked an online debate after it nearly exposed a severely allergic child to a nut allergen.\r\nIn a Reddit post, an 18-year-old wrote that the trouble beg… [+4146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Scott Stump",
+      "title": "Frozen Ground Beef Recalled Due to Possible Metal Contamination: What to Know",
+      "description": "More than half a ton of frozen cooked ground beef from Ada Valley Meat Company is being recalled due to possible metal contamination.",
+      "url": "https://www.today.com/food/recall/ground-beef-recall-2025-metal-contamination-rcna222175",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/frozen-ground-beef-recalled-2x1-zz-250731-430209.jpg",
+      "publishedAt": "2025-07-31T14:07:13Z",
+      "content": "More than half a ton of frozen cooked ground beef is being recalled due to possible metal contamination. \r\nMichigan-based Ada Valley Meat Company has recalled 1,065 pounds of its fully cooked frozen … [+1973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sukran Ozturk, F.Gülden Ekmen, Hamza Ekmen, Esra Mine Ünal, Ayşegül Er, Emre Keskin, Benjamin Stanley Arbuckle",
+      "title": "Decoding past microbial life and antibiotic resistance in İnonü Cave’s archaeological soil",
+      "description": "This study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from İnönü Cave in Zonguldak, Turkiye. Our aim is to provide a comprehensive unders…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326358",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326358.g008&size=inline",
+      "publishedAt": "2025-07-31T14:00:00Z",
+      "content": "Abstract\r\nThis study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from nönü Cav… [+79283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Mohammad Hayatun Nabi, Fatema Hashem Rupa, Ishrat Jahan, A. B. M. Nahid Hasan, Farah Naz, Iqbal Masud, Mohammad Delwer Hossain Hawlader, Mosharop Hossian",
+      "title": "Water, sanitation, and hygiene (WASH) factors and the incidence of communicable diseases in Urban Bangladesh: Evidence from municipal areas",
+      "description": "Author summary Access to safe water, adequate sanitation, and good hygiene (WASH) is essential for preventing communicable diseases, particularly in low- and middle-income countries like Bangladesh. Despite progress, many communities in Bangladesh still lack …",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013329.g001&size=inline",
+      "publishedAt": "2025-07-31T14:00:00Z",
+      "content": "Abstract\r\nBackground\r\nSafe drinking water, sanitation, and hygiene (WASH) are crucial for health and development, especially in low- and middle-income countries (LMICs) where WASH-related diseases ar… [+40559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "FDA Issues Risk Warning for Aldi Churro Recall in 13 States",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of churro bites due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\nCamerican International, Inc., based in New Jerse…",
+      "url": "https://biztoc.com/x/a3debe3d97dc7124",
+      "urlToImage": "https://biztoc.com/cdn/a3debe3d97dc7124_s.webp",
+      "publishedAt": "2025-07-31T13:36:00Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of churro bites due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administrati… [+140 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "FDA Issues Risk Warning for Aldi Churro Recall in 13 States",
+      "description": "Camerican International, Inc. issued a voluntary recall of Casa Mamita Churro Bites due to a potential undeclared allergen.",
+      "url": "https://www.newsweek.com/churro-recall-aldi-fda-issues-warning-allergen-milk-13-states-2106885",
+      "urlToImage": "https://d.newsweek.com/en/full/2693984/churro.jpg",
+      "publishedAt": "2025-07-31T13:34:24Z",
+      "content": "A recall of churro bites due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nCamerican International, Inc., based i… [+4200 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -409,19 +526,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
-      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
-      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
-      "publishedAt": "2025-07-30T06:00:00Z",
-      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Zoey Sky",
       "title": "The dangers of DMDM Hydantoin in personal care products",
       "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
@@ -429,6 +533,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
       "publishedAt": "2025-07-30T06:00:00Z",
       "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
+      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
+      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
+      "publishedAt": "2025-07-30T06:00:00Z",
+      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
     },
     {
       "source": {
@@ -1079,138 +1196,8 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/tcco40/article68285160.ece/alternates/LANDSCAPE_1200/IMG_quickly_Inside__GQBA_1_1_39B4F025.jpg",
       "publishedAt": "2025-07-26T15:33:51Z",
       "content": "India is not inclined to give in to the US demand for market access for its soyabean and corn as the country does not allow import of the genetically modified (GM) variety and would not want to compr… [+2388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "KatuChef",
-      "title": "KatuChef 2025: Is This the Safe Titanium Cutting Board for Efficient Chopping? Get the Full KatuChef Cutting Board Report Now",
-      "description": "Discover why the KatuChef Titanium Cutting Board is trending in 2025. Safe, hygienic, and built to last—read the official chopping board report now. Discover why the KatuChef Titanium Cutting Board is trending in 2025. Safe, hygienic, and built to last—read t…",
-      "url": "https://www.globenewswire.com/news-release/2025/07/26/3122101/0/en/KatuChef-2025-Is-This-the-Safe-Titanium-Cutting-Board-for-Efficient-Chopping-Get-the-Full-KatuChef-Cutting-Board-Report-Now.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/c8ac4a03-a035-4189-af71-257ea4e87b78",
-      "publishedAt": "2025-07-26T14:17:00Z",
-      "content": "New York City, NY, July 26, 2025 (GLOBE NEWSWIRE) -- In a time when hygiene and durability define modern kitchen essentials, the KatuChef Titanium Cutting Board\r\n is quickly gaining attention as a sa… [+16539 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Press & Sun-Bulletin"
-      },
-      "author": "USA TODAY Network",
-      "title": "18 Broome County eateries have flawless health inspections; one marked with critical violations in July",
-      "description": "Here's a look at the results of restaurant inspections conducted in Broome County last month.",
-      "url": "https://www.pressconnects.com/story/news/local/2025/07/26/monthly-restaurant-inspections/85362109007/",
-      "urlToImage": "https://media.zenfs.com/en/press-connects-press-sun-bulletin/75b6bab5b5cbc8c969c976692cc08391",
-      "publishedAt": "2025-07-26T09:05:08Z",
-      "content": "Out of 22 health inspections conducted in Broome County last month, one had critical violations, 18 had no violations, and four had unfixed violations remaining from previous inspections, according t… [+7211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox Business",
-      "title": "New Mexico Pinon Coffee recalls pods due to contamination risk",
-      "description": "The affected batch is about 154 Dark Pinon 10ct Single Serve cups.",
-      "url": "https://nypost.com/2025/07/26/business/new-mexico-pinon-coffee-recalls-pods-due-to-contamination-risk/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-766cshyoc-1753515886627.jpg?quality=75&strip=all&1753501615&w=1024",
-      "publishedAt": "2025-07-26T07:51:16Z",
-      "content": "A New Mexico coffee company is recalling its single-serve cups due to contamination concerns. \r\nThe company, New Mexico Pinon Coffee, said it is voluntarily recalling one lot of its New Mexico Pinon … [+1678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Royal Society of Chemistry"
-      },
-      "author": "Ameer Khan, Muhammad Shahzad, Farah Kanwal, Tagarika Munyaradzi Maruza, Mingjiong Chen, Guoping Zhang",
-      "title": "Iron oxide nanoparticles as effective nano-fertilizer for alleviating arsenic toxicity in barley: physiological and molecular mechanisms",
-      "description": "Environ. Sci.: Nano, 2025, Accepted ManuscriptDOI: 10.1039/D5EN00002E, PaperAmeer Khan, Muhammad Shahzad, Farah Kanwal, Tagarika Munyaradzi Maruza, Mingjiong Chen, Guoping ZhangArsenic (As) contamination in soils posed a significant threat to sustainable agri…",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/en/d5en00002e",
-      "urlToImage": null,
-      "publishedAt": "2025-07-25T23:00:00Z",
-      "content": "A. Khan, M. Shahzad, F. Kanwal, T. M. Maruza, M. Chen and G. Zhang,\r\n Environ. Sci.: Nano, 2025, Accepted Manuscript\r\n, DOI: 10.1039/D5EN00002E\r\nTo request permission to reproduce material from this … [+636 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "New Mexico Pinon Coffee Recall: Can product cause serious health problems? See recalled product details and where was it sold",
-      "description": "New Mexico Pinon Coffee has recalled its 10-count single-serve coffee pods after discovering a production issue that may cause ink to leak into the cups. Over 150 units with a best-by date of May 2026 are affected. The FDA classified this recall as Class III …",
-      "url": "https://economictimes.indiatimes.com/news/international/us/new-mexico-pinon-coffee-recall-fda-ink-leak-contamination-risk-single-serve-pods-sold-major-retailers/articleshow/122912356.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122912357,width-1200,height-630,imgsize-228028,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-25T19:15:35Z",
-      "content": "New Mexico Pinon Coffee has been recalled over concerns about ink contamination. The popular coffee brand has recalled some quantities of the product. The recall affects New Mexico Pinon Coffees 10-c… [+2626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "KLG",
-      "title": "Coffee Break: Fossil Fuels and Health, EPA, AI that Works, and a Belated Retraction",
-      "description": "Part the First: The Healthcare Costs of Fossil Fuels.  One would think this is a no-brainer.  Nevertheless, the Current Administration has its stone cold heart set on gutting the Office of Research and Development in the Environmental Protection Agency.  I su…",
-      "url": "https://www.nakedcapitalism.com/2025/07/coffee-break-fossil-fuels-and-health-epa-ai-that-works-and-a-belated-retraction.html",
-      "urlToImage": null,
-      "publishedAt": "2025-07-25T18:00:51Z",
-      "content": "Part the First: The Healthcare Costs of Fossil Fuels.  One would think this is a no-brainer.  Nevertheless, the Current Administration has its stone cold heart set on gutting the Office of Research a… [+18909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Restaurant Unknowingly Laces Pizza With THC, Doses Nearly 100 Customers",
-      "description": "At least eight children ate the THC-laced food, and several others were sent to hospital.",
-      "url": "https://gizmodo.com/restaurant-unknowingly-laces-pizza-with-thc-doses-nearly-100-customers-2000634405",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/THCoil-1200x675.jpg",
-      "publishedAt": "2025-07-25T15:25:15Z",
-      "content": "Dozens of restaurant goers in Wisconsin had the sort of meal you wouldn’t ever forget. A recent case report details how they were accidentally fed food made with tetrahydrocannabinol (THC), the prima… [+3119 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thechronicle.com.gh"
-      },
-      "author": "admin",
-      "title": "Minority Petitions Mahama Over Escalating Electoral Violence",
-      "description": "The Minority Caucus in Parliament has petitioned President John Dramani Mahama, demanding swift action on what it describes as a dangerous escalation of electoral violence and illegal mining under his administration.   The six-page petition, dated July 24 and…",
-      "url": "https://thechronicle.com.gh/minority-petitions-mahama-over-escalating-electoral-violence/",
-      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/07/The-Minority-caucus-in-Parliament.jpeg",
-      "publishedAt": "2025-07-25T13:18:01Z",
-      "content": "The Minority Caucus in Parliament has petitioned President John Dramani Mahama, demanding swift action on what it describes as a dangerous escalation of electoral violence and illegal mining under hi… [+21447 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Pickles Recall Update As FDA Issues Risk Warning",
-      "description": "The recall has been given a Class II classification, indicating there is a significant level of risk posed to consumers in Minnesota.",
-      "url": "https://www.newsweek.com/pickles-recall-update-fda-issues-risk-warning-2103937",
-      "urlToImage": "https://d.newsweek.com/en/full/2690149/pickle.jpg",
-      "publishedAt": "2025-07-25T12:17:38Z",
-      "content": "A recall of several varieties of pickles because of container damage has been classified as having a potentially significant level of risk to consumers in Minnesota by the Food and Drug Administratio… [+3688 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Tessa Flores",
-      "title": "Disaster Experts Reveal The Emergency Items You Should Really Have — And Everything Is Under $50",
-      "description": "One of these items might save your life, and they don’t cost a fortune.",
-      "url": "https://www.huffpost.com/entry/affordable-emergency-items-you-need-disaster-experts_l_687fcf50e4b0d91bafdf0f30",
-      "urlToImage": "https://img.huffingtonpost.com/asset/687fd86b190000be0360000d.jpg?cache=ypV8yydZdl&ops=1200_630",
-      "publishedAt": "2025-07-25T11:00:17Z",
-      "content": "In the year 2025, its the unfortunate reality that many of us will be impacted by an emergency or natural disaster at least once in our lifetime. Based on what weve heard from experts who are well-ve… [+7710 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 92,
   "filteredCount": 0
 }
