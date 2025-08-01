@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-08-01T06:41:40.665Z",
+  "lastUpdated": "2025-08-01T12:56:28.339Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Andrew Watman, Contributor, \n Andrew Watman, Contributor\n https://www.forbes.com/sites/andrewwatman/",
+      "title": "Honey-Sweetened ‘Ice Cream For Bears’ Is The Poster Child For Clean Ingredients",
+      "description": "Ice Cream for Bears, made of just honey, dairy and egg, is expanding throughout the country",
+      "url": "https://www.forbes.com/sites/andrewwatman/2025/07/31/honey-sweetened-ice-cream-for-bears-is-the-poster-child-for-clean-ingredients/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688af6bdd275f8e69c208d2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-31T12:45:00Z",
+      "content": "Tim Berg is a simple guy.\r\nHe likes eating fresh foods and spending time outdoors.\r\nIce Cream for Bears\r\n is Bergs experiment to prove that natures bare gifts are beyond plentiful to satisfy our crav… [+7677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Everything-everywhere.com"
+      },
+      "author": "Gary Arndt",
+      "title": "Canned Food",
+      "description": "Podcast Transcript For thousands of years, food preservation was a significant challenge for humanity.  Even if you were successful in hunting or gathering food, if you could not preserve it, it would be difficult to keep enough for survival.  One of the most…",
+      "url": "https://everything-everywhere.com/canned-food/",
+      "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-62P4sTp/0/LfSVzmWgzDMd8ZbBcCbVdpCnz5sHwtpBrkVZHpq8L/L/1851epart-L.jpg",
+      "publishedAt": "2025-07-31T08:04:48Z",
+      "content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon | Discord | Facebook\r\nFor thousands of years, food preservation was a significant challenge for humanity.… [+13374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Arlene Blum, Contributor, \n Arlene Blum, Contributor\n https://www.forbes.com/sites/arleneblum/",
+      "title": "Your Pet’s Topical Flea Treatments Harm Wildlife",
+      "description": "Pesticides banned from agricultural use in parts of Europe and California are still used in topical flea treatments for pets. Wildlife pays the price.",
+      "url": "https://www.forbes.com/sites/arleneblum/2025/07/31/your-pets-topical-flea-treatments-harm-wildlife/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688af8fd5fcd4f3f58cf91af/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-31T08:00:00Z",
+      "content": "Topical flea treatments wash off into household drains or outdoor water bodies, harming wildlife. \r\ngetty\r\nIf you have any itchy dog or cat, you may reach for familiar topical flea treatments like Fr… [+4902 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -370,19 +409,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Zoey Sky",
-      "title": "The dangers of DMDM Hydantoin in personal care products",
-      "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
-      "url": "https://www.naturalnews.com/2025-07-30-dangers-of-dmdm-hydantoin-personal-care-products.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
-      "publishedAt": "2025-07-30T06:00:00Z",
-      "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Olivia Cook",
       "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
       "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
@@ -390,6 +416,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
       "publishedAt": "2025-07-30T06:00:00Z",
       "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Zoey Sky",
+      "title": "The dangers of DMDM Hydantoin in personal care products",
+      "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
+      "url": "https://www.naturalnews.com/2025-07-30-dangers-of-dmdm-hydantoin-personal-care-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
+      "publishedAt": "2025-07-30T06:00:00Z",
+      "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
     },
     {
       "source": {
@@ -1170,34 +1209,8 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/687fd86b190000be0360000d.jpg?cache=ypV8yydZdl&ops=1200_630",
       "publishedAt": "2025-07-25T11:00:17Z",
       "content": "In the year 2025, its the unfortunate reality that many of us will be impacted by an emergency or natural disaster at least once in our lifetime. Based on what weve heard from experts who are well-ve… [+7710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Hedy Phillips",
-      "title": "Found a Bottle of Expired Vitamins? Here’s Why You Might Not Need to Throw It Out",
-      "description": "According to the FDA, your bottle of vitamins doesn't need an expiry date. So, what does that date actually mean, and should you be worried about it? Here's what experts think.",
-      "url": "https://www.cnet.com/health/nutrition/found-expired-vitamins-heres-why-you-might-not-need-to-throw-it-out/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/23d85b9b84b72d13415e19f93daa59cb65e548ee/hub/2022/08/29/64efb8ca-447a-4f87-b05d-87c086b5462d/gettyimages-1220786488.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-07-25T10:13:00Z",
-      "content": "When on a cleaning spree, you may sometimes find bottles and supplements that have passed their expiration date. While your gut reaction might be to toss them in the trash, if you take a closer look,… [+4249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "The Danone YoCrunch recall: Plastic shards found in yogurt snacks for kids",
-      "description": "Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&Ms and Oreo – fragments that could pose a serious risk of choking or throat injuries. A “packa…",
-      "url": "https://www.naturalnews.com/2025-07-25-plastic-shards-in-yogurt-snacks-for-kids.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Woman-Shop-Grocery-Dairy-Yogurts.jpg",
-      "publishedAt": "2025-07-25T06:00:00Z",
-      "content": "<ul><li>Thousands of popular Danone YoCrunch yogurt cups were recalled nationwide after sharp, transparent plastic shards were discovered in mix-in toppings like granola, M&amp;Ms and Oreo fragments … [+6248 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 93,
   "filteredCount": 0
 }
