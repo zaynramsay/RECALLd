@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-02T02:07:46.013Z",
+  "lastUpdated": "2025-08-02T06:36:09.415Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Week Magazine"
+      },
+      "author": "theweekonlineeditors@futurenet.com (Devika Rao, The Week US) , Devika Rao, The Week US",
+      "title": "Forever chemicals were found in reusable menstrual products. That is nothing new for women.",
+      "description": "Toxic chemicals are all too common in such products",
+      "url": "https://theweek.com/health/chemicals-menstrual-products-toxic-women-health",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LUwHimoJEWHxao8Fu65jnh.jpg",
+      "publishedAt": "2025-08-01T06:00:00Z",
+      "content": "Reusable menstrual products have been found to contain harmful chemicals associated with several health problems. This is just one example of products targeted to women having unintended negative hea… [+4085 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -552,19 +565,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
-      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
-      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
-      "publishedAt": "2025-07-30T06:00:00Z",
-      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Zoey Sky",
       "title": "The dangers of DMDM Hydantoin in personal care products",
       "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
@@ -572,6 +572,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
       "publishedAt": "2025-07-30T06:00:00Z",
       "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
+      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
+      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
+      "publishedAt": "2025-07-30T06:00:00Z",
+      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
     },
     {
       "source": {
@@ -1183,19 +1196,6 @@
       "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/e421aefad8c36a4e007c419adc8e9edb",
       "publishedAt": "2025-07-26T20:44:11Z",
       "content": "STOUGHTON, Wis. (WFRV) The Centers for Disease Control and Prevention (CDC) released a report about nine months after an incident at a Wisconsin pizza parlor where THC-infused oil was used to prepare… [+2054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Albertsons Companies Stores in Arkansas, Louisiana, Oklahoma and Texas Voluntarily Expands Recall to Select Items Containing Tuna Salad from Reser’s Fine Foods Due to an Ingredient Recall Linked to Possible Listeria monocytogenes Contamination",
-      "description": "Albertsons, Randalls and Tom Thumb stores in Arkansas, Louisiana, Oklahoma and Texas are voluntarily recalling select items containing tuna salad supplied by Reser’s Fine Foods. This action follows a recall initiated by Reser’s Fine Food due to possible conta…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/albertsons-companies-stores-arkansas-louisiana-oklahoma-and-texas-voluntarily-expands-recall-select",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-07-26T19:40:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nJuly 26, 2025\r\nFDA Publish Date:\r\nJuly 28, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Description\r\nPot… [+4412 chars]"
     }
   ],
   "totalResults": 92,
