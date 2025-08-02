@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-08-02T12:51:34.691Z",
+  "lastUpdated": "2025-08-02T18:35:40.378Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox News",
+      "title": "Trendy coffee choice sparks controversy when allergic child nearly takes a sip",
+      "description": "A teen's hazelnut coffee sparks debate after an allergic child nearly sips it.",
+      "url": "https://nypost.com/2025/08/01/lifestyle/coffee-choice-stirs-controversy-when-allergic-child-nearly-takes-a-sip/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109080269.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-08-01T17:33:51Z",
+      "content": "A teenager’s innocent coffee choice recently sparked an online debate after it nearly exposed a severely allergic child to a nut allergen.\r\nIn a Reddit post, an 18-year-old wrote that the trouble beg… [+4032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Joy Saha",
+      "title": "Over 1,000 pounds of frozen ground beef have been recalled due to potential metal contamination",
+      "description": "A recall was issued Tuesday following a consumer complaint",
+      "url": "https://www.salon.com/2025/08/01/over-1000-pounds-of-frozen-ground-beef-have-been-recalled-due-to-potential-metal-contamination/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/08/GettyImages-1072142842.jpg",
+      "publishedAt": "2025-08-01T17:05:00Z",
+      "content": "Ada Valley Meat Company has recalled approximately 1,065 pounds of fully cooked frozen ground beef due to potential metal contamination, according to a Tuesday announcement from the Food Safety and I… [+1274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Delish.com"
+      },
+      "author": "Arricca Elin SanSone",
+      "title": "Check Your Kitchen—Experts Say These 10 Foods Contain The Most Microplastics",
+      "description": "Microplastics are in everyday foods like rice, tea, and seafood. They may pose health risks, but smart choices can help reduce exposure.",
+      "url": "https://www.delish.com/food/a65564844/foods-with-the-most-microplastics/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HEhMTmHP1xcjola8y2xLCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/delish_597/66cef8afde3cc551265ed92cec35c794",
+      "publishedAt": "2025-08-01T16:57:00Z",
+      "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\n<ul><li>Microplastics are found in many everyday foods like rice, tea, bottled water, and seafood.\r\n</l… [+6002 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sara  Moniuszko",
+      "title": "Freeze dried fruit sold at Sam's Club recalled due to listeria",
+      "description": "Member's Mark freeze dried fruit variety packs were distributed and sold in Sam's Club retail stores across the majority of the country.",
+      "url": "https://www.cbsnews.com/news/freeze-dried-fruit-sams-club-recall-listeria/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/01/5adfe551-5b8d-4f36-ac17-b167a303b410/thumbnail/1200x630/6d7b1bbe61ff030490a12b505dbbb296/image-1-171.jpg",
+      "publishedAt": "2025-08-01T16:26:15Z",
+      "content": "Doehler Dry Ingredient Solutions, LLC is recalling boxes of Member's Mark freeze dried fruit due to potential listeria contamination, which can lead to serious illness.\r\nIn an alert Friday, the U.S. … [+2458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ieee.org"
+      },
+      "author": "Allison Marsh",
+      "title": "A Cold War Kit for Surviving a Nuclear Attack",
+      "description": "On 29 August 1949, the Soviet Union successfully tested its first nuclear weapon. Over the next year and a half, U.S. President Harry S. Truman resurrected the Office of Civilian Defense (which had been abolished at the end of World War II) and signed into la…",
+      "url": "https://spectrum.ieee.org/civil-defense-cold-war",
+      "urlToImage": "https://spectrum.ieee.org/media-library/image.jpg?id=61331664&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+      "publishedAt": "2025-08-01T15:00:03Z",
+      "content": "On 29 August 1949, the Soviet Union successfully tested its first nuclear weapon. Over the next year and a half, U.S. President Harry S. Truman resurrected the Office of Civilian Defense (which had b… [+9370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Gene T. Shev, Bea De Cupere, Anastasia Brozou, Benjamin T. Fuller, Marcello A. Mannino, Joris Peters, Wim Van Neer, Steven Bouillon, Claudio Ottoni",
+      "title": "Non-exchangeable hydrogen (δ2H) stable isotope ratios in fauna provide enhanced dietary, isotopic niche and home range reconstruction at Aqaba Castle, Jordan",
+      "description": "Bone collagen of terrestrial and marine animals (n = 218) recovered from Ottoman period contexts at Aqaba Castle, Jordan (16th–19th centuries CE), were analyzed for δ13C, δ15N, and δ2H isotope ratios. While δ13C and δ15N values showed considerable overlap amo…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328991",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328991.g007&size=inline",
+      "publishedAt": "2025-08-01T14:00:00Z",
+      "content": "Citation: Shev GT, De Cupere B, Brozou A, Fuller BT, Mannino MA, Peters J, et al. (2025) Non-exchangeable hydrogen (2H) stable isotope ratios in fauna provide enhanced dietary, isotopic niche and hom… [+63046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Md. Tanveer Hussain, Md. Sabibul Haque, Md. Fazle Rabbi, Hafsa Tasnim, Md. Asiful Haque, Arnab Saha, AKM Golam Sarwar, Md. Nesar Uddin, Md. Alamgir Hossain",
+      "title": "Cadmium-induced impairment in growth, photosynthetic apparatus and redox regulation in green amaranth (Amaranthus viridis L.) plant attenuated by salicylic acid and methyl jasmonate",
+      "description": "The hazardous Cadmium (Cd) contamination in vegetables from anthropogenic Cd-abundant agroecosystems is a decisive threat to plants and human health. This study examined the prospective roles of salicylic acid (SA) and methyl jasmonate (MeJA) in alleviating C…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329373",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329373.g007&size=inline",
+      "publishedAt": "2025-08-01T14:00:00Z",
+      "content": "Citation: Hussain MT, Haque MS, Rabbi MF, Tasnim H, Haque MA, Saha A, et al. (2025) Cadmium-induced impairment in growth, photosynthetic apparatus and redox regulation in green amaranth (Amaranthus v… [+53970 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -149,19 +240,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Sukran Ozturk, F.Gülden Ekmen, Hamza Ekmen, Esra Mine Ünal, Ayşegül Er, Emre Keskin, Benjamin Stanley Arbuckle",
-      "title": "Decoding past microbial life and antibiotic resistance in İnonü Cave’s archaeological soil",
-      "description": "This study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from İnönü Cave in Zonguldak, Turkiye. Our aim is to provide a comprehensive unders…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326358",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326358.g008&size=inline",
-      "publishedAt": "2025-07-31T14:00:00Z",
-      "content": "Abstract\r\nThis study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from nönü Cav… [+79283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Mohammad Hayatun Nabi, Fatema Hashem Rupa, Ishrat Jahan, A. B. M. Nahid Hasan, Farah Naz, Iqbal Masud, Mohammad Delwer Hossain Hawlader, Mosharop Hossian",
       "title": "Water, sanitation, and hygiene (WASH) factors and the incidence of communicable diseases in Urban Bangladesh: Evidence from municipal areas",
       "description": "Author summary Access to safe water, adequate sanitation, and good hygiene (WASH) is essential for preventing communicable diseases, particularly in low- and middle-income countries like Bangladesh. Despite progress, many communities in Bangladesh still lack …",
@@ -169,6 +247,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013329.g001&size=inline",
       "publishedAt": "2025-07-31T14:00:00Z",
       "content": "Abstract\r\nBackground\r\nSafe drinking water, sanitation, and hygiene (WASH) are crucial for health and development, especially in low- and middle-income countries (LMICs) where WASH-related diseases ar… [+40559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sukran Ozturk, F.Gülden Ekmen, Hamza Ekmen, Esra Mine Ünal, Ayşegül Er, Emre Keskin, Benjamin Stanley Arbuckle",
+      "title": "Decoding past microbial life and antibiotic resistance in İnonü Cave’s archaeological soil",
+      "description": "This study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from İnönü Cave in Zonguldak, Turkiye. Our aim is to provide a comprehensive unders…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326358",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326358.g008&size=inline",
+      "publishedAt": "2025-07-31T14:00:00Z",
+      "content": "Abstract\r\nThis study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from nönü Cav… [+79283 chars]"
     },
     {
       "source": {
@@ -1000,7 +1091,7 @@
       "url": "https://www.bostonherald.com/2025/07/28/pfas-medical-risks/",
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/202507240400MCT_____PHOTO____LIFE-HEALTH-MAINE-PFAS-MCT-1.jpg?w=1024&h=666",
       "publishedAt": "2025-07-28T15:50:00Z",
-      "content": "By Marina Schauffler, KFF Health News\r\nWhen Lawrence and Penny Higgins of Fairfield, Maine, first learned in 2020 that high levels of toxic chemicals called PFAS taint their homes well water, they wo… [+11966 chars]"
+      "content": "By Marina Schauffler, KFF Health News\r\nWhen Lawrence and Penny Higgins of Fairfield, Maine, first learned in 2020 that high levels of toxic chemicals called PFAS taint their homes well water, they wo��� [+11966 chars]"
     },
     {
       "source": {
@@ -1105,97 +1196,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Microplastics.jpg",
       "publishedAt": "2025-07-28T06:00:00Z",
       "content": "<ul><li>Plastic food packaging bottles, containers and wrappers  sheds microplastics and nanoplastics into food and drinks, with studies revealing up to 240,000 particles per liter of bottled water.<… [+4864 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "dailymail.co.uk",
-      "title": "Urgent recall of popular cheeseburgers that can trigger 'life-threatening allergic reaction'",
-      "description": "Urgent recall of popular cheeseburgers that can trigger 'life-threatening allergic reaction'\nThe FDA issued an urgent warning about a midwestern burger and sandwich brand after an undeclared allergen was found in food items sold across three states.\nSheehan B…",
-      "url": "https://biztoc.com/x/8d6cb0dea2d95974",
-      "urlToImage": "https://biztoc.com/cdn/8d6cb0dea2d95974_s.webp",
-      "publishedAt": "2025-07-27T22:28:07Z",
-      "content": "Urgent recall of popular cheeseburgers that can trigger 'life-threatening allergic reaction'The FDA issued an urgent warning about a midwestern burger and sandwich brand after an undeclared allergen … [+145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "BBC uncovers lasting toxic legacy of cargo ship disaster off Sri Lanka",
-      "description": "Scientists warn the damage to the environment after the 2021 X-Press Pearl disaster could be much more enduring.",
-      "url": "https://www.bbc.com/news/articles/cly8y5kmrllo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7621/live/35a47490-68a8-11f0-a9fb-7f350e3f05ac.jpg",
-      "publishedAt": "2025-07-27T22:15:24Z",
-      "content": "Leana Hosea &amp; Saroj Pathirana\r\nAerial footage shows the X-Press Pearl breaking up and sinking\r\nFour years after a stricken cargo ship caused the largest plastic spill ever recorded, volunteers on… [+9237 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FOX Carolina"
-      },
-      "author": "Fox Carolina News Staff",
-      "title": "Officials announce recall for product with possible listeria contamination",
-      "description": "Officials said there have been no confirmed reports of adverse reactions due to consumption of these products.",
-      "url": "https://www.foxcarolina.com/2025/07/27/officials-announce-recall-product-with-possible-listeria-contamination/",
-      "urlToImage": "https://gray-whns-prod.gtv-cdn.com/resizer/v2/DO7QMSREXNGPZL3IWLENGYPDRE.png?auth=6079d73adbb6f8433d876f2c028ade7d939410d6573cd99bcbab42a30285365d&width=1200&height=600&smart=true",
-      "publishedAt": "2025-07-27T21:55:35Z",
-      "content": "GREENVILLE, S.C. (FOX Carolina) - Officials with the U.S. Department of Agricultures Food Safety and Inspection Service announced a public health alert for several ham salad products.\r\nOfficials said… [+2014 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Oil City News"
-      },
-      "author": "Nick Perkins",
-      "title": "Natrona County health and food inspections (7/18/25–7/24/25)",
-      "description": "CASPER, Wyo. — The Casper-Natrona County Health Department inspects restaurants, grocery stores, convenience stores, mobile food units, commissaries and",
-      "url": "http://oilcity.news/community/health/2025/07/27/natrona-county-health-and-food-inspections-7-18-25-7-24-25/",
-      "urlToImage": "https://i0.wp.com/oilcity.news/wp-content/uploads/2022/03/Breeze_FBpost_Image-5.png?fit=1200%2C800&quality=80&ssl=1",
-      "publishedAt": "2025-07-27T16:09:24Z",
-      "content": "CASPER, Wyo. The Casper-Natrona County Health Department inspects restaurants, grocery stores, convenience stores, mobile food units, commissaries and food vending operations. Every facility has an u… [+4093 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Christmas tree growers keep watchful eye on spread of dangerous mould",
-      "description": "Christmas tree growers in Atlantic Canada are monitoring the spread of a disease and looking for ways to combat it.",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/christmas-tree-growers-keep-watchful-eye-on-spread-of-dangerous-mould-1.7594821",
-      "urlToImage": "https://i.cbc.ca/1.7594855.1753556414!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/fir-tree-roots-infected-with-slime-mould.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-27T15:00:00Z",
-      "content": "Christmas tree growers in Atlantic Canada are monitoring the spread of a disease and looking for ways to combat it.\r\nPhytophthora abietivora, a destructive form of mould first identified in 2017  alt… [+2182 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wattsupwiththat.com"
-      },
-      "author": "Anthony Watts",
-      "title": "Oh noes! WMO report documents spiralling weather and climate impacts",
-      "description": "Meh. More doomworld forecasts from the World Meteorological Organization.",
-      "url": "https://wattsupwiththat.com/2025/07/27/oh-noes-wmo-report-documents-spiralling-weather-and-climate-impacts/",
-      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/07/doomworld-v2.webp?fit=1024%2C512&ssl=1",
-      "publishedAt": "2025-07-27T13:00:00Z",
-      "content": "We somehow missed this, it is entertaining – Anthony\r\nWMO report documents spiralling weather and climate impacts\r\nThe clear signs of human-induced climate change reached new heights in 2024, with so… [+10821 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Suzy Khimm",
-      "title": "A Texas candy company switched to natural dyes — but it wasn’t easy",
-      "description": "Food manufacturers across the U.S. are facing hurdles as they seek to replace synthetic food dyes with natural colors. Atkinson Candy Company made the switch early.",
-      "url": "https://www.nbcnews.com/news/us-news/no-artificial-dyes-atkinson-candy-company-replace-natural-colors-rfk-rcna220485",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250725-food-dyes-to-8a82d5.jpg",
-      "publishedAt": "2025-07-27T09:30:00Z",
-      "content": "Natural dyes, which are derived from plants, produce, spices and minerals, have not been scrutinized as closely by researchers for their health impact or the potential for contamination, experts say.… [+3870 chars]"
     }
   ],
   "totalResults": 92,
