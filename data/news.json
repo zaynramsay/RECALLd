@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-08-02T06:36:09.415Z",
+  "lastUpdated": "2025-08-02T12:51:34.691Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "FDA Issues Risk Warning Over Nationwide Butter Recall",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of butter across the United States due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\nBunge North America Inc., base…",
+      "url": "https://biztoc.com/x/adcdd1511a274ad7",
+      "urlToImage": "https://biztoc.com/cdn/adcdd1511a274ad7_s.webp",
+      "publishedAt": "2025-08-01T12:50:11Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of butter across the United States due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food an… [+142 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "FDA Issues Risk Warning Over Nationwide Butter Recall",
+      "description": "Bunge North America Inc. initiated a voluntary recall of 64,800 pounds of butter due to a potential undeclared allergen.",
+      "url": "https://www.newsweek.com/butter-recall-nationwide-fda-issues-risk-warning-allergen-2107497",
+      "urlToImage": "https://d.newsweek.com/en/full/2694695/butter.jpg",
+      "publishedAt": "2025-08-01T12:47:26Z",
+      "content": "A recall of butter across the United States due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nBunge North America… [+3127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Balchem (NASDAQ:BCPC) versus Sociedad Quimica y Minera (NYSE:SQM) Critical Analysis",
+      "description": "Sociedad Quimica y Minera (NYSE:SQM – Get Free Report) and Balchem (NASDAQ:BCPC – Get Free Report) are both basic materials companies, but which is the superior business? We will compare the two businesses based on the strength of their profitability, valuati…",
+      "url": "https://www.etfdailynews.com/2025/08/01/balchem-nasdaqbcpc-versus-sociedad-quimica-y-minera-nysesqm-critical-analysis/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/balchem-co-logo-1200x675.jpg?v=20240503120118&w=240&h=240&zc=2",
+      "publishedAt": "2025-08-01T06:55:12Z",
+      "content": "Sociedad Quimica y Minera (NYSE:SQM – Get Free Report) and Balchem (NASDAQ:BCPC – Get Free Report) are both basic materials companies, but which is the superior business? We will compare the two busi… [+7934 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -565,19 +604,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Zoey Sky",
-      "title": "The dangers of DMDM Hydantoin in personal care products",
-      "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
-      "url": "https://www.naturalnews.com/2025-07-30-dangers-of-dmdm-hydantoin-personal-care-products.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
-      "publishedAt": "2025-07-30T06:00:00Z",
-      "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Olivia Cook",
       "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
       "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
@@ -585,6 +611,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
       "publishedAt": "2025-07-30T06:00:00Z",
       "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Zoey Sky",
+      "title": "The dangers of DMDM Hydantoin in personal care products",
+      "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
+      "url": "https://www.naturalnews.com/2025-07-30-dangers-of-dmdm-hydantoin-personal-care-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
+      "publishedAt": "2025-07-30T06:00:00Z",
+      "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
     },
     {
       "source": {
@@ -1157,45 +1196,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250725-food-dyes-to-8a82d5.jpg",
       "publishedAt": "2025-07-27T09:30:00Z",
       "content": "Natural dyes, which are derived from plants, produce, spices and minerals, have not been scrutinized as closely by researchers for their health impact or the potential for contamination, experts say.… [+3870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ETF Daily News"
-      },
-      "author": "MarketBeat News",
-      "title": "Balchem (NASDAQ:BCPC) & Celanese (NYSE:CE) Critical Analysis",
-      "description": "Balchem (NASDAQ:BCPC – Get Free Report) and Celanese (NYSE:CE – Get Free Report) are both mid-cap basic materials companies, but which is the superior stock? We will contrast the two companies based on the strength of their analyst recommendations, profitabil…",
-      "url": "https://www.etfdailynews.com/2025/07/27/balchem-nasdaqbcpc-celanese-nysece-critical-analysis/",
-      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/celanese-co-logo-1200x675.png?v=20240118081024&w=240&h=240&zc=2",
-      "publishedAt": "2025-07-27T05:40:47Z",
-      "content": "Balchem (NASDAQ:BCPC – Get Free Report) and Celanese (NYSE:CE – Get Free Report) are both mid-cap basic materials companies, but which is the superior stock? We will contrast the two companies based … [+7067 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Idowu Abdullahi",
-      "title": "Open Defecation Plagues Lagos Motor Parks: Health Risks Soar",
-      "description": "As the Lagos State Government battles poor sanitation and waste management, open defecation is still a common sight due to inadequate sanitary facilities",
-      "url": "https://punchng.com/open-defecation-inside-lagos-motor-parks-where-faeces-flies-welcome-passengers/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/07/27013508/Open-defecation-1200x630.jpg",
-      "publishedAt": "2025-07-27T04:07:37Z",
-      "content": "As the Lagos State Government battles poor sanitation and waste management, open defecation is still a common sight due to inadequate sanitary facilities in public spaces. IDOWU ABDULLAHI writes on h… [+23695 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Adam Rosen",
-      "title": "CDC confirms at least 85 people experienced THC sickness from pizza place in Wisconsin",
-      "description": "STOUGHTON, Wis. (WFRV) – The Centers for Disease Control and Prevention (CDC) released a report about nine months after an incident at a Wisconsin pizza...",
-      "url": "https://thehill.com/homenews/state-watch/5422013-cdc-thc-sickness-wisconsin-pizza-parlor/",
-      "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/e421aefad8c36a4e007c419adc8e9edb",
-      "publishedAt": "2025-07-26T20:44:11Z",
-      "content": "STOUGHTON, Wis. (WFRV) The Centers for Disease Control and Prevention (CDC) released a report about nine months after an incident at a Wisconsin pizza parlor where THC-infused oil was used to prepare… [+2054 chars]"
     }
   ],
   "totalResults": 92,
