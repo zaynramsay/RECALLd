@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-03T06:36:51.076Z",
+  "lastUpdated": "2025-08-03T12:54:15.351Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Researchbuzz.me"
+      },
+      "author": "ResearchBuzz",
+      "title": "EU Food Safety, SCOTUS Transparency, Online Safety Act, More: Saturday ResearchBuzz, August 2, 2025",
+      "description": "NEW RESOURCES Food Safety Magazine: Database Combines 392 Million EU Food Safety Analytical Results, Reveals Contamination Trends. “The new CompreHensive European Food Safety (CHEFS) database draws from official food safety monitoring data […]",
+      "url": "https://researchbuzz.me/2025/08/02/eu-food-safety-scotus-transparency-online-safety-act-more-saturday-researchbuzz-august-2-2025/",
+      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJibG9nX2lkIjo0MzI4NzU2fQ.sL7nzKIGwiJse_moIqEcJConFAAs8eGJgtlNrAAG05MMQ",
+      "publishedAt": "2025-08-02T12:01:47Z",
+      "content": "NEW RESOURCES \r\nFood Safety Magazine: Database Combines 392 Million EU Food Safety Analytical Results, Reveals Contamination Trends. “The new CompreHensive European Food Safety (CHEFS) database draws… [+5739 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Should you keep eggs in the fridge? How improper storage could raise your risk of Salmonella",
+      "description": "During summer, storing eggs properly is important. Experts suggest refrigeration to prevent spoilage and bacterial growth. In the US, eggs are washed, requiring refrigeration due to salmonella risk. Unlike some countries, US eggs lack a natural protective coa…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/should-you-keep-eggs-in-the-fridge-how-improper-storage-could-raise-your-risk-of-salmonella/articleshow/123057717.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123057715,width-1200,height-630,imgsize-87424,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-02T06:48:51Z",
+      "content": "With summer temperatures soaring across much of the US, many people are double-checking how they store their groceries, especially foods like eggs that seem deceptively simple but are surprisingly se… [+3406 chars]"
+    },
     {
       "source": {
         "id": "al-jazeera-english",
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2691590/workers-preparing-luncheon-meat.jpg",
       "publishedAt": "2025-07-28T15:46:16Z",
       "content": "Americans have been warned to throw away ham salad products because of potential bacterial contamination.\r\nThe U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) issued a publ… [+2794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insurance Journal"
-      },
-      "author": "Admin",
-      "title": "Texas Cotton Industry Struggles as Synthetic Fibers Go Mainstream",
-      "description": "For decades, the cotton industry has long been considered king in the Texas agriculture world. However, a shift has left it standing on shaky ground. In the last few years — as cotton producers struggled with low market prices, high …",
-      "url": "https://www.insurancejournal.com/news/southcentral/2025/07/28/833406.htm",
-      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/07/Texas-Cotton-Industry.jpg",
-      "publishedAt": "2025-07-28T14:40:27Z",
-      "content": "For decades, the cotton industry has long been considered king in the Texas agriculture world. However, a shift has left it standing on shaky ground.\r\nIn the last few years as cotton producers strugg… [+7221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Benson M. Wachira, Richard Echodu, Johnson O. Ouma, Imna I. Malele, Daniel Gamba, Michael Okal, Kennedy O. Ogolla, Clement Mangwiro, Robert Opiro, Deusdedit J. Malulu, Bernard Ochieng, Raymond E. Mdachi, Paul O. Mireji",
-      "title": "Field responses of Glossina pallidipes and Glossina fuscipes fuscipes tsetse flies to Novel Repellent Blend and Waterbuck Repellent Compounds in Kenya",
-      "description": "Author summary Tsetse flies are sole biological vectors of Human African Trypanosomiasis (HAT) and Animal African Trypanosomosis (AAT) in sub-Sahara Africa. Tsetse fly repellent technologies that reduce contact between tsetse flies and their vertebrate hosts …",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013367",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013367.g002&size=inline",
-      "publishedAt": "2025-07-28T14:00:00Z",
-      "content": "Abstract\r\nControl of tsetse flies constitutes a cornerstone of trypanosomiasis control and elimination efforts in Africa. The use of eco-friendly odor-based bait technologies has been identified as a… [+30138 chars]"
     }
   ],
   "totalResults": 92,
