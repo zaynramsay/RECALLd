@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-03T12:54:15.351Z",
+  "lastUpdated": "2025-08-03T18:36:17.996Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Parade"
+      },
+      "author": "Beth Ann Mayer",
+      "title": "Most People Make This Common Dishwasher Mistake—and It's a Health Hazard",
+      "description": "Food safety experts share an unexpected warning.",
+      "url": "https://parade.com/health/common-dishwasher-mistake-health-hazard-according-to-food-safety-experts",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/faJLEcMFgmqkE8b4uTzdXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/parade_250/a5ae9d910ed2c9915f1817939dda3c99",
+      "publishedAt": "2025-08-02T17:50:00Z",
+      "content": "Most People Make This Common Dishwasher Mistakeand It's a Health Hazard originally appeared on Parade.\r\nOne of your top goals when eating is to fill your tummy in a way that feels (and tastes) good. … [+6165 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Nationwide butter recall in US as FDA issues urgent health warning to customers. Check details",
+      "description": "The FDA has issued a Class II recall for 64,800 pounds of NH European Style Butter Blend due to undeclared milk, a major allergen. Distributed across the US and Dominican Republic, the butter poses a risk to individuals with milk allergies, potentially causin…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-nationwide-butter-recall-in-us-as-fda-issues-urgent-health-warning-to-customers-check-details/articleshow/123065532.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123065552,width-1200,height-630,imgsize-192708,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-02T17:29:24Z",
+      "content": "Issuing the second-highest risk warning, the US Food and Drug Administration (FDA) has recalled butter across the nation due to a potential undeclared allergen. Based in Missouri, Bunge North America… [+3203 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -331,19 +357,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Sukran Ozturk, F.Gülden Ekmen, Hamza Ekmen, Esra Mine Ünal, Ayşegül Er, Emre Keskin, Benjamin Stanley Arbuckle",
-      "title": "Decoding past microbial life and antibiotic resistance in İnonü Cave’s archaeological soil",
-      "description": "This study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from İnönü Cave in Zonguldak, Turkiye. Our aim is to provide a comprehensive unders…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326358",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326358.g008&size=inline",
-      "publishedAt": "2025-07-31T14:00:00Z",
-      "content": "Abstract\r\nThis study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from nönü Cav… [+79283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Mohammad Hayatun Nabi, Fatema Hashem Rupa, Ishrat Jahan, A. B. M. Nahid Hasan, Farah Naz, Iqbal Masud, Mohammad Delwer Hossain Hawlader, Mosharop Hossian",
       "title": "Water, sanitation, and hygiene (WASH) factors and the incidence of communicable diseases in Urban Bangladesh: Evidence from municipal areas",
       "description": "Author summary Access to safe water, adequate sanitation, and good hygiene (WASH) is essential for preventing communicable diseases, particularly in low- and middle-income countries like Bangladesh. Despite progress, many communities in Bangladesh still lack …",
@@ -351,6 +364,19 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013329.g001&size=inline",
       "publishedAt": "2025-07-31T14:00:00Z",
       "content": "Abstract\r\nBackground\r\nSafe drinking water, sanitation, and hygiene (WASH) are crucial for health and development, especially in low- and middle-income countries (LMICs) where WASH-related diseases ar… [+40559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Sukran Ozturk, F.Gülden Ekmen, Hamza Ekmen, Esra Mine Ünal, Ayşegül Er, Emre Keskin, Benjamin Stanley Arbuckle",
+      "title": "Decoding past microbial life and antibiotic resistance in İnonü Cave’s archaeological soil",
+      "description": "This study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from İnönü Cave in Zonguldak, Turkiye. Our aim is to provide a comprehensive unders…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326358",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326358.g008&size=inline",
+      "publishedAt": "2025-07-31T14:00:00Z",
+      "content": "Abstract\r\nThis study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from nönü Cav… [+79283 chars]"
     },
     {
       "source": {
@@ -786,19 +812,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Zoey Sky",
-      "title": "The dangers of DMDM Hydantoin in personal care products",
-      "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
-      "url": "https://www.naturalnews.com/2025-07-30-dangers-of-dmdm-hydantoin-personal-care-products.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
-      "publishedAt": "2025-07-30T06:00:00Z",
-      "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Olivia Cook",
       "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
       "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
@@ -806,6 +819,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
       "publishedAt": "2025-07-30T06:00:00Z",
       "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Zoey Sky",
+      "title": "The dangers of DMDM Hydantoin in personal care products",
+      "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
+      "url": "https://www.naturalnews.com/2025-07-30-dangers-of-dmdm-hydantoin-personal-care-products.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
+      "publishedAt": "2025-07-30T06:00:00Z",
+      "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2691650/pura-4-smart-home-fragrance-diffuser.jpg",
       "publishedAt": "2025-07-28T15:52:04Z",
       "content": "More than 800,000 home fragrance diffusers sold at major outlets nationwide have been recalled due to concerns that the product poses a serious choking hazard to children.\r\nPura Scents issued a natio… [+3533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Tribune News Service",
-      "title": "Amid PFAS fallout, a Maine doctor navigates medical risks with her patients",
-      "description": "Many clinicians remain unaware of the health risks linked to PFAS.",
-      "url": "https://www.bostonherald.com/2025/07/28/pfas-medical-risks/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/202507240400MCT_____PHOTO____LIFE-HEALTH-MAINE-PFAS-MCT-1.jpg?w=1024&h=666",
-      "publishedAt": "2025-07-28T15:50:00Z",
-      "content": "By Marina Schauffler, KFF Health News\r\nWhen Lawrence and Penny Higgins of Fairfield, Maine, first learned in 2020 that high levels of toxic chemicals called PFAS taint their homes well water, they wo… [+11966 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Isabel van Brugen",
-      "title": "Public Health Alert Issued Over Ham Salad: 'Should Be Thrown Away'",
-      "description": "The Department of Agriculture's Food Safety and Inspection Service warns products may be contaminated with Listeria monocytogenes.",
-      "url": "https://www.newsweek.com/public-health-alert-ham-salad-2105151",
-      "urlToImage": "https://d.newsweek.com/en/full/2691590/workers-preparing-luncheon-meat.jpg",
-      "publishedAt": "2025-07-28T15:46:16Z",
-      "content": "Americans have been warned to throw away ham salad products because of potential bacterial contamination.\r\nThe U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) issued a publ… [+2794 chars]"
     }
   ],
   "totalResults": 92,
