@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-08-02T18:35:40.378Z",
+  "lastUpdated": "2025-08-03T02:28:50.846Z",
   "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Fabio Polese",
+      "title": "Myanmar’s lawless mining blamed for dangerous pollution in Mekong River",
+      "description": "Fishing communities in Laos feel effect of pollution from gold, rare earth mining in rebel-controlled areas of Myanmar.",
+      "url": "https://www.aljazeera.com/news/2025/8/1/myanmars-lawless-mining-blamed-for-dangerous-pollution-in-mekong-river",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/Fishermen-Laos-Fabio-Polese-5-1753863906-1754029547.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-08-01T23:38:55Z",
+      "content": "Houayxay, Laos Fishing went well today for Khon, a Laotian fisherman, who lives in a floating house built from plastic drums, scrap metal and wood on the Mekong River.\r\nI caught two catfish, the 52-y… [+9281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Freeze-dried fruit sold in 42 states recalled over Listeria fears",
+      "description": "The recalled fruit was sold at Sam’s Club stores in 42 states",
+      "url": "https://www.the-independent.com/life-style/freeze-dried-fruit-recall-listeria-b2800630.html",
+      "urlToImage": "https://static.the-independent.com/2025/08/01/20/33/iStock-892333262.jpeg?trim=0,83,0,68&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-08-01T22:20:31Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3605 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Freeze Dried Fruit Recall Sparks Warning to Customers Across the US",
+      "description": "Numerous recalls have been initiated this year due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.",
+      "url": "https://www.newsweek.com/freeze-dried-fruit-recall-sparks-warning-customers-across-us-2107857",
+      "urlToImage": "https://d.newsweek.com/en/full/2695259/recalled-freeze-dried-fruit-variety-pack.jpg",
+      "publishedAt": "2025-08-01T21:12:55Z",
+      "content": "Doehler Dry Ingredient Solutions, LLC is recalling the Member's Mark brand of freeze-dried fruit variety packs due to fears the product is contaminated with Listeria monocytogenes.\r\nNewsweek attempte… [+3555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Glutenfreeonashoestring.com"
+      },
+      "author": "Nicole Hunn",
+      "title": "The Best Xanthan Gum Substitutes",
+      "description": "How and when to use a xanthan gum substitute like guar gum, konjac powder, cellulose or psyllium husk for the best gluten free baking!",
+      "url": "https://glutenfreeonashoestring.com/xanthan-gum-substitute/",
+      "urlToImage": "https://glutenfreeonashoestring.com/wp-content/uploads/2025/07/Xanthan-gum-substitute-1.jpg",
+      "publishedAt": "2025-08-01T19:12:29Z",
+      "content": "This post may contain affiliate links. Please read our disclosure policy.\r\nXanthan gum has been critical to my ability to develop gluten free recipes since 2005 but I've been searching for a proper x… [+11886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "thehill.com",
+      "title": "Sam's Club freeze dried fruit recalled over possible Listeria contamination",
+      "description": "A recall has been issued for a popular dried fruit snack sold at Sam’s Club amid concerns that the packages may be contaminated with Listeria.\nThe snack is Member’s Mark Freeze Dried Fruit Variety Pack 15-count. The U.S. Food and Drug Administration announced…",
+      "url": "https://biztoc.com/x/7aaba001d88ac0bc",
+      "urlToImage": "https://biztoc.com/cdn/7aaba001d88ac0bc_s.webp",
+      "publishedAt": "2025-08-01T18:57:05Z",
+      "content": "A recall has been issued for a popular dried fruit snack sold at Sams Club amid concerns that the packages may be contaminated with Listeria.The snack is Members Mark Freeze Dried Fruit Variety Pack … [+140 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1091,7 +1156,7 @@
       "url": "https://www.bostonherald.com/2025/07/28/pfas-medical-risks/",
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/202507240400MCT_____PHOTO____LIFE-HEALTH-MAINE-PFAS-MCT-1.jpg?w=1024&h=666",
       "publishedAt": "2025-07-28T15:50:00Z",
-      "content": "By Marina Schauffler, KFF Health News\r\nWhen Lawrence and Penny Higgins of Fairfield, Maine, first learned in 2020 that high levels of toxic chemicals called PFAS taint their homes well water, they wo��� [+11966 chars]"
+      "content": "By Marina Schauffler, KFF Health News\r\nWhen Lawrence and Penny Higgins of Fairfield, Maine, first learned in 2020 that high levels of toxic chemicals called PFAS taint their homes well water, they wo… [+11966 chars]"
     },
     {
       "source": {
@@ -1131,71 +1196,6 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013367.g002&size=inline",
       "publishedAt": "2025-07-28T14:00:00Z",
       "content": "Abstract\r\nControl of tsetse flies constitutes a cornerstone of trypanosomiasis control and elimination efforts in Africa. The use of eco-friendly odor-based bait technologies has been identified as a… [+30138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Hyunjin Cha, Doyeon Won, Seun Kang, Eui-Seong Kim, Kyung-Ah Lee, Won-Jae Lee, Kyung-Tae Lee, Yong-Sun Bahn",
-      "title": "The calcineurin pathway regulates extreme thermotolerance, cell membrane and wall integrity, antifungal resistance, and virulence in Candida auris",
-      "description": "Author summary The fungal pathogen Candida auris presents a global health threat due to its multidrug resistance and high mortality rates. Despite its clinical significance, the molecular mechanisms underlying its virulence and antifungal resistance remain po…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013363",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013363.g007&size=inline",
-      "publishedAt": "2025-07-28T14:00:00Z",
-      "content": "Citation: Cha H, Won D, Kang S, Kim E-S, Lee K-A, Lee W-J, et al. (2025) The calcineurin pathway regulates extreme thermotolerance, cell membrane and wall integrity, antifungal resistance, and virule… [+89245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Leana Hosea & Saroj Pathirana - Negombo, Sri Lanka",
-      "title": "BBC uncovers lasting toxic legacy of cargo ship disaster off Sri Lanka",
-      "description": "Scientists warn the damage to the environment after the 2021 X-Press Pearl disaster could be much more enduring.",
-      "url": "https://www.bbc.com/news/articles/cly8y5kmrllo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/82f28de45e6b99679878b06dd50d9219",
-      "publishedAt": "2025-07-28T12:34:14Z",
-      "content": "Four years after a stricken cargo ship caused the largest plastic spill ever recorded, volunteers on Sri Lanka's beaches are still sifting kilograms of tiny, toxic plastic pellets from the sand.\r\nBil… [+9178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Observer"
-      },
-      "author": "Danielle Beurteaux",
-      "title": "Homeowners question government over PFAS contamination cleanup",
-      "description": "Transport Canada is responsible for dozens of airports that have caused chemical contamination in surrounding communities — a fact it has known, in some cases, for more than 20 years. Why is it taking so long to clean the chemicals up?",
-      "url": "https://www.nationalobserver.com/2025/07/28/news/pfas-contamination-cleanup-transport-canada",
-      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/07/21/stjohnsairport-072125-jimmyemerson.jpg",
-      "publishedAt": "2025-07-28T09:09:04Z",
-      "content": "Edward Sheerr didnt know much about per- and polyfluoroalkyl substances until they were discovered in his drinking water. He, his wife and their two children moved to their home in the town of Torbay… [+9404 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Megan Cartwright",
-      "title": "Denise Richards' Daughter Sami Sheen Health Condition: What We Know",
-      "description": "Sami Sheen has opened up about the disorder in a video posted to social media.",
-      "url": "https://www.newsweek.com/denise-richards-daughter-sami-sheen-health-condition-ocd-2104892",
-      "urlToImage": "https://d.newsweek.com/en/full/2691288/sami-sheen-denise-richards-show-planet-hollywood.png",
-      "publishedAt": "2025-07-28T09:08:40Z",
-      "content": "Sami Sheen has opened up about her obsessive-compulsive disorder (OCD) in a new video posted to social media.\r\nNewsweek reached out to Sheen's representative for comment on Monday via email outside r… [+4234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ava Grace",
-      "title": "Plastic food packaging contaminates what you eat and drink, study reveals",
-      "description": "Plastic food packaging – bottles, containers and wrappers – sheds microplastics and nanoplastics into food and drinks, with studies revealing up to 240,000 particles per liter of bottled water. Microplastics infiltrate human organs, including the brain, liver…",
-      "url": "https://www.naturalnews.com/2025-07-28-plastic-food-packaging-contaminates-what-you-eat.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Microplastics.jpg",
-      "publishedAt": "2025-07-28T06:00:00Z",
-      "content": "<ul><li>Plastic food packaging bottles, containers and wrappers  sheds microplastics and nanoplastics into food and drinks, with studies revealing up to 240,000 particles per liter of bottled water.<… [+4864 chars]"
     }
   ],
   "totalResults": 92,
