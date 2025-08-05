@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-05T06:41:28.503Z",
+  "lastUpdated": "2025-08-05T12:58:44.438Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Thechronicle.com.gh"
+      },
+      "author": "ERNEST BEST ANANE",
+      "title": "FDA sensitises Santase market women on food hygiene and safety",
+      "description": "The Food and Drugs Authority (FDA) has sensitized women at the Santase Market in Kumasi on food hygiene and safety. The initiative is part of the FDA’s efforts to ensure that food sold in markets meet the required standards and is safe for consumption. Mr. Jo…",
+      "url": "https://thechronicle.com.gh/fda-sensitises-santase-market-women-on-food-hygiene-and-safety/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/08/John-Laryea-Odai-Tettey-Ashanti-Regional-Head-FDA.jpg",
+      "publishedAt": "2025-08-04T09:58:27Z",
+      "content": "The Food and Drugs Authority (FDA) has sensitized women at the Santase Market in Kumasi on food hygiene and safety. The initiative is part of the FDA’s efforts to ensure that food sold in markets mee… [+1516 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Soo Kim",
+      "title": "Woman Tries New Fruit in Bali—Horror at What's Inside: 'I'm on Antibiotics'",
+      "description": "\"I immediately started crying, I started having a panic attack,\" the woman in the viral clip said upon putting the fruit down.",
+      "url": "https://www.newsweek.com/woman-gets-sick-eats-salak-snake-fruit-bali-tiktok-2107818",
+      "urlToImage": "https://d.newsweek.com/en/full/2695231/woman-bali-near-bowl-fruits.jpg",
+      "publishedAt": "2025-08-04T07:46:36Z",
+      "content": "A video about a woman's culinary adventure in Bali that takes a stomach-turning twist has gone viral on TikTok.\r\nThe video shared by Maii (@maiiabdelkhaleq), which shows the woman sampling an exotic … [+3760 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -402,7 +428,7 @@
       "url": "https://www.etfdailynews.com/2025/08/01/balchem-nasdaqbcpc-versus-sociedad-quimica-y-minera-nysesqm-critical-analysis/",
       "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/balchem-co-logo-1200x675.jpg?v=20240503120118&w=240&h=240&zc=2",
       "publishedAt": "2025-08-01T06:55:12Z",
-      "content": "Sociedad Quimica y Minera (NYSE:SQM – Get Free Report) and Balchem (NASDAQ:BCPC – Get Free Report) are both basic materials companies, but which is the superior business? We will compare the two busi��� [+7934 chars]"
+      "content": "Sociedad Quimica y Minera (NYSE:SQM – Get Free Report) and Balchem (NASDAQ:BCPC – Get Free Report) are both basic materials companies, but which is the superior business? We will compare the two busi… [+7934 chars]"
     },
     {
       "source": {
@@ -513,19 +539,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Mohammad Hayatun Nabi, Fatema Hashem Rupa, Ishrat Jahan, A. B. M. Nahid Hasan, Farah Naz, Iqbal Masud, Mohammad Delwer Hossain Hawlader, Mosharop Hossian",
-      "title": "Water, sanitation, and hygiene (WASH) factors and the incidence of communicable diseases in Urban Bangladesh: Evidence from municipal areas",
-      "description": "Author summary Access to safe water, adequate sanitation, and good hygiene (WASH) is essential for preventing communicable diseases, particularly in low- and middle-income countries like Bangladesh. Despite progress, many communities in Bangladesh still lack …",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013329.g001&size=inline",
-      "publishedAt": "2025-07-31T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nSafe drinking water, sanitation, and hygiene (WASH) are crucial for health and development, especially in low- and middle-income countries (LMICs) where WASH-related diseases ar… [+40559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Sukran Ozturk, F.Gülden Ekmen, Hamza Ekmen, Esra Mine Ünal, Ayşegül Er, Emre Keskin, Benjamin Stanley Arbuckle",
       "title": "Decoding past microbial life and antibiotic resistance in İnonü Cave’s archaeological soil",
       "description": "This study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from İnönü Cave in Zonguldak, Turkiye. Our aim is to provide a comprehensive unders…",
@@ -533,6 +546,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326358.g008&size=inline",
       "publishedAt": "2025-07-31T14:00:00Z",
       "content": "Abstract\r\nThis study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from nönü Cav… [+79283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Mohammad Hayatun Nabi, Fatema Hashem Rupa, Ishrat Jahan, A. B. M. Nahid Hasan, Farah Naz, Iqbal Masud, Mohammad Delwer Hossain Hawlader, Mosharop Hossian",
+      "title": "Water, sanitation, and hygiene (WASH) factors and the incidence of communicable diseases in Urban Bangladesh: Evidence from municipal areas",
+      "description": "Author summary Access to safe water, adequate sanitation, and good hygiene (WASH) is essential for preventing communicable diseases, particularly in low- and middle-income countries like Bangladesh. Despite progress, many communities in Bangladesh still lack …",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013329.g001&size=inline",
+      "publishedAt": "2025-07-31T14:00:00Z",
+      "content": "Abstract\r\nBackground\r\nSafe drinking water, sanitation, and hygiene (WASH) are crucial for health and development, especially in low- and middle-income countries (LMICs) where WASH-related diseases ar… [+40559 chars]"
     },
     {
       "source": {
@@ -968,19 +994,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
-      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
-      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
-      "publishedAt": "2025-07-30T06:00:00Z",
-      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Zoey Sky",
       "title": "The dangers of DMDM Hydantoin in personal care products",
       "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
@@ -988,6 +1001,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
       "publishedAt": "2025-07-30T06:00:00Z",
       "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
+      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
+      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
+      "publishedAt": "2025-07-30T06:00:00Z",
+      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
     },
     {
       "source": {
@@ -1157,21 +1183,8 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-07-29T13:20:05Z",
       "content": "Delivery Method:\r\nVIA EMAIL WITH READ RECEIPT\r\nReference #:\r\n320-25-94\r\nProduct:\r\nDrugs \r\nRecipient:\r\nKabana Skin Care LLC\r\n685 S Arthur Ave Unit 9bLouisville, CO80027-3141United States\r\nIssuing Offi… [+10902 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "thehill.com",
-      "title": "Ham salad products recalled due to possible listeria: USDA",
-      "description": "Two popular ham salad products have been recalled due to possible listeria contamination in one of the ingredients, breadcrumbs, according to the U.S. Department of Agriculture’s (USDA) Food Safety and Inspection Service.\nNewly Weds Foods announced it is reca…",
-      "url": "https://biztoc.com/x/03639f9759d37384",
-      "urlToImage": "https://biztoc.com/cdn/03639f9759d37384_s.webp",
-      "publishedAt": "2025-07-29T12:06:43Z",
-      "content": "Two popular ham salad products have been recalled due to possible listeria contamination in one of the ingredients, breadcrumbs, according to the U.S. Department of Agricultures (USDA) Food Safety an… [+143 chars]"
     }
   ],
-  "totalResults": 90,
+  "totalResults": 91,
   "filteredCount": 0
 }
