@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-08-05T18:41:09.469Z",
+  "lastUpdated": "2025-08-06T02:20:24.005Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Week Magazine"
+      },
+      "author": "theweekonlineeditorsuk@futurenet.com (Harriet Marsden, The Week UK) , Harriet Marsden, The Week UK",
+      "title": "Illicit mercury is poisoning the Amazon",
+      "description": "'Essential' to illegal gold mining, toxic mercury is being trafficked across Latin America, 'fuelling violence' and 'environmental devastation'",
+      "url": "https://theweek.com/crime/illicit-mercury-is-poisoning-the-amazon",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/56AJb7L7seXsn87e64CRGL.jpg",
+      "publishedAt": "2025-08-05T00:36:00Z",
+      "content": "One of the deadliest chemicals on Earth is being smuggled across Latin America – and is poisoning the environment along the way.\r\nMercury is a powerful neurotoxin and its use is banned or heavily res… [+3945 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Florida officials warn about risks of raw milk after 21 people sickened",
+      "description": "Florida health officials say 21 people, including six children, were sickened by E. coli and campylobacter bacteria linked to raw milk, and seven were hospitalized.",
+      "url": "https://www.cbsnews.com/news/florida-raw-milk-people-sickened/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2017/11/21/ac20f3f5-cd9c-435c-824d-7cf7a2b005c4/thumbnail/1200x630/aa47a8113290924a2299c33bd8603774/raw-milk.jpg",
+      "publishedAt": "2025-08-04T22:32:59Z",
+      "content": "The Florida Department of Health is warning about the risks of drinking raw, unpasteurized milk after 21 people, including six children under the age of 10, were sickened by E. coli and campylobacter… [+2411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Taqwa Ahmed Al-Wawi",
+      "title": "Hunger in Gaza Can’t Be Explained Away by Preexisting Conditions",
+      "description": "Outlets like the New York Times have downplayed the famine by pointing to underlying medical conditions. But these ailments only make the suffering worse.\nThe post Hunger in Gaza Can’t Be Explained Away by Preexisting Conditions appeared first on The Intercep…",
+      "url": "https://theintercept.com/2025/08/04/gaza-famine-diabetes-illness-medication/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/08/GettyImages-2227793749-e1754331364574.jpg?fit=4032%2C2016&w=1200&h=800",
+      "publishedAt": "2025-08-04T18:53:22Z",
+      "content": "As the U.S. public begins to wake up to the reality of mass starvation in Gaza, recent mainstream media reports have issued a bold claim: Some cases of starvation can be explained not by the Israeli … [+9091 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,45 +1209,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2692707/fruit-bread.jpg",
       "publishedAt": "2025-07-29T22:23:28Z",
       "content": "Hillside Orchard Farms is recalling multiple flavors of their fruit breads and fritters due to the products having a missing egg allergen label.\r\nWhy It Matters \r\nNumerous recalls have been initiated… [+3253 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Aria Bendix",
-      "title": "FDA asks DOJ to classify gas station products with opioid-like effects as illicit substances",
-      "description": "The Food and Drug Administration on Tuesday recommended classifying 7-OH, a compound with opioid-like effects found in unregulated tablets, gummies and drink mixes sold in gas stations and convenience stores, as an illicit substance",
-      "url": "https://www.nbcnews.com/health/health-news/fda-asks-justice-department-classify-gas-station-products-opioid-effec-rcna221769",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250729-kratom-products-se-151p-2341d7.jpg",
-      "publishedAt": "2025-07-29T19:50:40Z",
-      "content": "The Food and Drug Administration on Tuesday recommended classifying 7-OH, a compound with opioid-like effects found in unregulated tablets, gummies and drink mixes sold in gas stations and convenienc… [+5156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FactCheck.org"
-      },
-      "author": "Kate Yandell",
-      "title": "FDA Commissioner Spreads Unsubstantiated Concerns About Seed Oils in Baby Formula",
-      "description": "In recent months, U.S. Food and Drug Administration Commissioner Dr. Marty Makary has amplified unfounded concerns about the safety of seed oils, a subset of vegetable oils used in infant formula. There isn’t evidence these fat sources are harmful to infants.…",
-      "url": "https://www.factcheck.org/2025/07/fda-commissioner-spreads-unsubstantiated-concerns-about-seed-oils-in-baby-formula/",
-      "urlToImage": "https://cdn.factcheck.org/UploadedFiles/baby-formula-720x307-1.jpeg",
-      "publishedAt": "2025-07-29T18:29:41Z",
-      "content": "Este artículo estará disponible en español en El Tiempo Latino.\r\nIn recent months, U.S. Food and Drug Administration Commissioner Dr. Marty Makary has amplified unfounded concerns about the safety of… [+13970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Lena Borrelli",
-      "title": "These Kitchen Items Are Hiding Millions of Microplastics. Here's What to Swap Them Out For",
-      "description": "Replace these items in your kitchen to reduce your exposure to microplastics.",
-      "url": "https://www.cnet.com/health/these-kitchen-items-are-hiding-millions-of-microplastics-heres-what-to-swap-them-out-for/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-07-29T17:00:05Z",
-      "content": "Microplastics have invaded the world we live in. These tiny shards of plastic exist all around us these days, and have been found in food, water, and even the air we breathe. Microplastics are so sma… [+8122 chars]"
     }
   ],
   "totalResults": 93,
