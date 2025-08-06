@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-08-06T02:20:24.005Z",
+  "lastUpdated": "2025-08-06T06:41:34.852Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Zoey Sky",
+      "title": "Iodopropynyl Butylcarbamate: The controversial preservative hiding in cosmetics",
+      "description": "Iodopropynyl butylcarbamate (IPBC) is a common synthetic preservative in cosmetics (e.g., shampoos, nail polish) prized for its long-lasting antimicrobial properties. However, IPBC is linked to health risks like hormonal disruption, allergies and neurotoxicit…",
+      "url": "https://www.naturalnews.com/2025-08-05-iodopropynyl-butylcarbamate-controversial-preservative-hiding-in-cosmetics.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Face-cleanser-bottle-with-gel-1.jpeg",
+      "publishedAt": "2025-08-05T06:00:00Z",
+      "content": "<ul><li>Iodopropynyl butylcarbamate (IPBC) is a common synthetic preservative in cosmetics (e.g., shampoos, nail polish) prized for its long-lasting antimicrobial properties. However, IPBC is linked … [+7064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "The tiny algae that could save your heart: Spirulinaâs promising role in fighting hypertension, lowering blood pressure",
+      "description": "Imagine a supplement powerful enough to help shield your heart from the silent killer known as high blood pressure. That’s the promise of spirulina, a blue-green algae with centuries-old roots in nutrition, now gaining modern scientific backing for its potent…",
+      "url": "https://www.naturalnews.com/2025-08-05-tiny-algae-could-save-your-heart-spirulina.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Spirulina-Bottle-Alga-Allergy-Anticancer-Antiinflammatory-Antioxidant.jpg",
+      "publishedAt": "2025-08-05T06:00:00Z",
+      "content": "Imagine a supplement powerful enough to help shield your heart from the silent killer known as high blood pressure. Thats the promise of spirulina, a blue-green algae with centuries-old roots in nutr… [+6384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "MISLABELING OF BUTTER that contains MILK leads to RECALL of 65,000 pounds of âEuropean Style Butter Blendâ",
+      "description": "Allergic to milk? Watch out for the butter then. A voluntary recall has been issued for nearly 65,000 pounds of butter due to a labeling error that could pose health risks to people with milk allergies. The U.S. Food and Drug Administration (FDA) confirmed th…",
+      "url": "https://www.naturalnews.com/2025-08-05-mislabeling-of-butter-leads-to-recall-65000-pounds.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Butter-Knife-Margarine.jpg",
+      "publishedAt": "2025-08-05T06:00:00Z",
+      "content": "Allergic to milk? Watch out for the butter then. A voluntary recall has been issued for nearly 65,000 pounds of butter due to a labeling error that could pose health risks to people with milk allergi… [+4156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Countries gather to thrash out deal on 'plastic crisis'",
+      "description": "The world's nations are hoping to sign the first global plastic treaty to limit plastic pollution.",
+      "url": "https://www.bbc.com/news/articles/cm2kem4plr5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/761e/live/7de87b80-6efb-11f0-8415-3f856a662103.jpg",
+      "publishedAt": "2025-08-05T04:03:43Z",
+      "content": "Esme StallardClimate and science reporter, BBC News\r\nPlastic production has exploded in the last century - to some it has been a miracle product while to others it is a pollution nightmare. \r\nScienti… [+7590 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Phoebe Weston, Tess McClure",
+      "title": "The life of microplastic: how fragments move through plants, insects, animals – and you",
+      "description": "The story might start with your washing machine and end in your food",
+      "url": "https://www.irishtimes.com/life-style/2025/08/05/the-life-of-microplastic-how-fragments-move-through-plants-insects-animals-and-you/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/SANV2LKYKFFQXJSMX4F4KSINPQ.jpg?smart=true&auth=c8cff643972c1293ffd4059e2506860b0fc1188f7e39f8e8ab39d5d5ff6ea0c5&width=1200&height=630",
+      "publishedAt": "2025-08-05T04:00:00Z",
+      "content": "The beginning: a single thread\r\nThe story starts with a single thread of polyester, dislodged from the weave of a cheap, pink acrylic jumper as it spins around a washing machine. This load of washing… [+7279 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -682,19 +747,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Mohammad Hayatun Nabi, Fatema Hashem Rupa, Ishrat Jahan, A. B. M. Nahid Hasan, Farah Naz, Iqbal Masud, Mohammad Delwer Hossain Hawlader, Mosharop Hossian",
-      "title": "Water, sanitation, and hygiene (WASH) factors and the incidence of communicable diseases in Urban Bangladesh: Evidence from municipal areas",
-      "description": "Author summary Access to safe water, adequate sanitation, and good hygiene (WASH) is essential for preventing communicable diseases, particularly in low- and middle-income countries like Bangladesh. Despite progress, many communities in Bangladesh still lack …",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013329.g001&size=inline",
-      "publishedAt": "2025-07-31T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nSafe drinking water, sanitation, and hygiene (WASH) are crucial for health and development, especially in low- and middle-income countries (LMICs) where WASH-related diseases ar… [+40559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Sukran Ozturk, F.Gülden Ekmen, Hamza Ekmen, Esra Mine Ünal, Ayşegül Er, Emre Keskin, Benjamin Stanley Arbuckle",
       "title": "Decoding past microbial life and antibiotic resistance in İnonü Cave’s archaeological soil",
       "description": "This study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from İnönü Cave in Zonguldak, Turkiye. Our aim is to provide a comprehensive unders…",
@@ -702,6 +754,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326358.g008&size=inline",
       "publishedAt": "2025-07-31T14:00:00Z",
       "content": "Abstract\r\nThis study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from nönü Cav… [+79283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Mohammad Hayatun Nabi, Fatema Hashem Rupa, Ishrat Jahan, A. B. M. Nahid Hasan, Farah Naz, Iqbal Masud, Mohammad Delwer Hossain Hawlader, Mosharop Hossian",
+      "title": "Water, sanitation, and hygiene (WASH) factors and the incidence of communicable diseases in Urban Bangladesh: Evidence from municipal areas",
+      "description": "Author summary Access to safe water, adequate sanitation, and good hygiene (WASH) is essential for preventing communicable diseases, particularly in low- and middle-income countries like Bangladesh. Despite progress, many communities in Bangladesh still lack …",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013329.g001&size=inline",
+      "publishedAt": "2025-07-31T14:00:00Z",
+      "content": "Abstract\r\nBackground\r\nSafe drinking water, sanitation, and hygiene (WASH) are crucial for health and development, especially in low- and middle-income countries (LMICs) where WASH-related diseases ar… [+40559 chars]"
     },
     {
       "source": {
@@ -1137,19 +1202,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "FDA announces product recall for COFFEE PODS over toxic ink potentially leaching into hot brews",
-      "description": "The FDA issued a Class III recall for New Mexico Piñon Coffee’s pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds and Snapchill’s canned coffee over Clostridium botulinum risks. Coffee…",
-      "url": "https://www.naturalnews.com/2025-07-30-fda-product-recall-coffee-pods-ink-leaching.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Coffee.jpg",
-      "publishedAt": "2025-07-30T06:00:00Z",
-      "content": "<ul><li>The FDA issued a Class III recall for New Mexico Piñon Coffee's pods due to food-safe ink leaching into brewed coffee. This follows prior coffee recalls, including mislabeled decaf grounds an… [+7755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Zoey Sky",
       "title": "The dangers of DMDM Hydantoin in personal care products",
       "description": "DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks. It has been linked to cancer, skin irritation and respiratory problems. Formalde…",
@@ -1157,58 +1209,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/07/Shower-Shampoo-Hair-Wash-Girl-Female-Bathroom.jpg",
       "publishedAt": "2025-07-30T06:00:00Z",
       "content": "<ul><li>DMDM hydantoin is a synthetic preservative that releases formaldehyde, a recognized carcinogen. Used in cosmetics to fight bacteria, its benefits are debated due to health risks.</li><li>It h… [+8653 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Brain-damaging tapeworm could be in your monsoon food and water; Doctors list urgent risks to avoid now",
-      "description": "Mumbai faces a rising threat of neurocysticercosis, a brain-damaging tapeworm infection, exacerbated by monsoon rains and poor sanitation. Doctors warn that consuming contaminated food or water can lead to larvae migrating to the brain, causing seizures, head…",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/brain-damaging-tapeworm-could-be-in-your-monsoon-food-and-water-doctors-list-urgent-risks-to-avoid-now/articleshow/122988422.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122988516,width-1200,height-630,imgsize-402446,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-30T04:26:16Z",
-      "content": "As Mumbai continues to battle waterlogged streets and overflowing drains, doctors are now sounding the alarm on a hidden but deadly threat, a brain-damaging tapeworm known as Taenia solium. This isnt… [+2730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Bread, Fritters Recall Map Shows States With New Warning",
-      "description": "Numerous recalls have been initiated in 2025 due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.",
-      "url": "https://biztoc.com/x/e2b6f467a9c7f481",
-      "urlToImage": "https://biztoc.com/cdn/950/og.png",
-      "publishedAt": "2025-07-29T22:34:35Z",
-      "content": "Numerous recalls have been initiated in 2025 due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.\r\nThis story appeared on newsweek.com, 2025-07-2… [+10 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Childrenshealthdefense.org"
-      },
-      "author": "Christina Gursslin",
-      "title": "Chemicals in Microplastics Linked to Global Health Crisis, Including Infertility",
-      "description": "Micro- and nanoplastics affect people’s hormonal systems, leading to infertility and neurological and behavioral disorders, a new review found. Scientists and health advocates called on global leaders to ignore industry calls for more recycling and instead pa…",
-      "url": "https://childrenshealthdefense.org/defender/chemicals-microplastics-global-health-crisis-infertility-rtk/",
-      "urlToImage": "https://childrenshealthdefense.org/wp-content/uploads/chemicals-microplastics-infertility.jpg",
-      "publishedAt": "2025-07-29T22:29:04Z",
-      "content": "By Natasha Gilbert\r\nTiny bits of plastic pollution are found all across the natural environment, from the deep ocean to Arctic ice. This widespread contamination comes from the manufacture and overus… [+6039 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Bread, Fritters Recall Map Shows States With New Warning",
-      "description": "Numerous recalls have been initiated in 2025 due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.",
-      "url": "https://www.newsweek.com/bread-fritters-recall-map-2106015",
-      "urlToImage": "https://d.newsweek.com/en/full/2692707/fruit-bread.jpg",
-      "publishedAt": "2025-07-29T22:23:28Z",
-      "content": "Hillside Orchard Farms is recalling multiple flavors of their fruit breads and fritters due to the products having a missing egg allergen label.\r\nWhy It Matters \r\nNumerous recalls have been initiated… [+3253 chars]"
     }
   ],
   "totalResults": 93,
