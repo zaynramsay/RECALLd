@@ -1,6 +1,175 @@
 {
-  "lastUpdated": "2025-08-07T06:41:36.243Z",
+  "lastUpdated": "2025-08-07T12:57:58.874Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailycoffeenews.com"
+      },
+      "author": "Konlaphat Siri",
+      "title": "Coffee Farmers in Laos Say Agroforestry Requires More Than Mere Advice",
+      "description": "Agroforestry is gaining ground as a way to protect coffee crops from extreme weather, but smallholders say they need more than advice — they need a better price. Laos has...",
+      "url": "https://dailycoffeenews.com/2025/08/06/coffee-farmers-in-laos-say-agroforestry-requires-more-than-mere-advice/",
+      "urlToImage": "https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover.webp",
+      "publishedAt": "2025-08-06T12:05:04Z",
+      "content": "Agroforestry is gaining ground as a way to protect coffee crops from extreme weather, but smallholders say they need more than advice they need a better price.\r\nLaos has experienced extreme weather i… [+9342 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JACOB ZIMBA Associated Press",
+      "title": "6 months after toxic mine spill in northern Zambia, US Embassy orders personnel out of the area",
+      "description": "The United States Embassy in Zambia has ordered all U.S. government personnel to leave a region in the north of the country affected by a toxic spill from a Chinese-owned mine that happened six months ago",
+      "url": "https://abcnews.go.com/Business/wireStory/6-months-after-toxic-mine-spill-northern-zambia-124406416",
+      "urlToImage": "https://i.abcnewsfe.com/a/9038eeb4-a813-45cb-a0d7-2288e8c79b19/wirestory_4d825f6d00ecc13581c1b3db73dff2ca_16x9.jpg?w=1600",
+      "publishedAt": "2025-08-06T11:50:30Z",
+      "content": "LUSAKA, Zambia -- The United States Embassy in Zambia ordered all U.S. government personnel Wednesday to leave a region in the north of the country affected by a toxic spill from a Chinese-owned mine… [+1898 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "The Associated Press",
+      "title": "6 months after toxic mine spill in northern Zambia, US Embassy orders personnel out of the area",
+      "description": "LUSAKA, Zambia (AP) — The United States Embassy in Zambia ordered all U.S. government personnel Wednesday to leave a region in the north of the country affected by a toxic spill from a Chinese-owned mine that happened six months ago. The embassy said in an al…",
+      "url": "https://financialpost.com/pmn/6-months-after-toxic-mine-spill-in-northern-zambia-us-embassy-orders-personnel-out-of-the-area",
+      "urlToImage": null,
+      "publishedAt": "2025-08-06T11:43:15Z",
+      "content": "LUSAKA, Zambia (AP) The United States Embassy in Zambia ordered all U.S. government personnel Wednesday to leave a region in the north of the country affected by a toxic spill from a Chinese-owned mi… [+4108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "JACOB ZIMBA",
+      "title": "6 months after toxic mine spill in northern Zambia, US Embassy orders personnel out of the area",
+      "description": "The United States Embassy in Zambia ordered all U.S. government personnel Wednesday to leave a region in the north of the country affected by a toxic spill...",
+      "url": "https://www.yahoo.com/news/articles/6-months-toxic-mine-spill-114020913.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/byZqooa7up8M2DdHPPf3EA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTc7Y2Y9d2VicA--/https://media.zenfs.com/en/ap_finance_articles_694/180d2c8e9ca2c88334808533bba62953",
+      "publishedAt": "2025-08-06T11:40:20Z",
+      "content": "LUSAKA, Zambia (AP) The United States Embassy in Zambia ordered all U.S. government personnel Wednesday to leave a region in the north of the country affected by a toxic spill from a Chinese-owned mi… [+1899 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Increased miscarriage risk in US linked to THIS everyday chemical. What pregnant women can do",
+      "description": "A recent US study has revealed a link between exposure to specific PFAS chemicals, commonly found in everyday items, and a higher risk of unexplained recurrent miscarriages. Researchers identified four PFAS chemicals—PFBA, PFDoDA, PFHpS, and PFHxS—as particul…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-increased-miscarriage-risk-in-us-linked-to-this-everyday-pfas-chemicals-what-pregnant-women-can-do/articleshow/123141147.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123141570,width-1200,height-630,imgsize-900243,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-06T11:03:03Z",
+      "content": "Researchers have found that exposure to a certain chemical has specifically increased the risk of recurrent miscarriages in women in the US. A new study has shed light that exposure to certain freque… [+5798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Answersresearchjournal.org"
+      },
+      "author": "Marshall Jordan, Matthew Cserhati",
+      "title": "Defining Holobaramins of Order Galliformes Using Molecular Data",
+      "description": "The astonishing creative genius and power of God are displayed by the wonderful creatures he has made, especially the birds.",
+      "url": "https://answersresearchjournal.org/baraminology/defining-holobaramins-galliformes-molecular-data/",
+      "urlToImage": "https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/wikimedia-quail.jpg",
+      "publishedAt": "2025-08-06T10:00:00Z",
+      "content": "Keywords: Baraminology, Galliformes, landfowl, molecular, mitochondria, genome, hybridization\r\nIntroduction\r\nThe astonishing creative genius and power of God are displayed by the wonderful creatures … [+27550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Emilie Lavinia",
+      "title": "I drank kefir for a month and it made me feel like a superhuman – what’s the secret behind this gut-friendly drink?",
+      "description": "Could this fermented drink hold the key to better health?",
+      "url": "https://www.the-independent.com/health-and-fitness/what-is-kefir-b2802821.html",
+      "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-08-06T09:18:04Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+8675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Waste to Energy Market Growth Trends and Competitive Strategy Report 2025-2033 | Growth Driven by Global Players Prioritizing Emissions Control, Feedstock Flexibility, and Long-Term Service Models",
+      "description": "The Waste-to-Energy market is forecasted to grow at a 6.5% CAGR from 2025 to 2033, driven by global waste generation, landfill diversion goals, and demand for renewable energy. Europe leads due to aggressive policies, with Asia Pacific set for highest growth.…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128124/28124/en/Waste-to-Energy-Market-Growth-Trends-and-Competitive-Strategy-Report-2025-2033-Growth-Driven-by-Global-Players-Prioritizing-Emissions-Control-Feedstock-Flexibility-and-Long-Term-Se.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-06T09:07:00Z",
+      "content": "Dublin, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The \"Waste to Energy Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Forecasts, 202… [+12444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Gaza health ministry warns of Guillain-Barré Syndrome outbreak, mass death",
+      "description": "The Gaza Health Ministry's director-general has warned about a potential widespread outbreak of Guillain-Barré Syndrome (GBS) in the Gaza Strip, stressing that treatment for this disease is unavailable in the besieged territory.",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250805-presstv06.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-08-06T09:06:37Z",
+      "content": "Iran Press TV\r\nTuesday, 05 August 2025 10:35 AM\r\nThe Gaza Health Ministry's director-general has warned about a potential widespread outbreak of Guillain-BarrÃ© Syndrome (GBS) in the Gaza Strip, stre… [+4011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Lyophilization Equipment Market Growth Trends and Competitive Strategies Report 2025-2033 | ATS, Azbil, Buchi, and Cuddon Drive Growth with Automation and Contamination-Resistant Designs",
+      "description": "The lyophilization equipment market is forecast to expand at an 8.5% CAGR from 2025 to 2033, driven by the growing biopharmaceutical R&D and demand for stable formulations. Freeze-drying technology finds extensive use in pharmaceuticals, biotechnology, and fo…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128113/28124/en/Lyophilization-Equipment-Market-Growth-Trends-and-Competitive-Strategies-Report-2025-2033-ATS-Azbil-Buchi-and-Cuddon-Drive-Growth-with-Automation-and-Contamination-Resistant-Design.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-06T08:56:00Z",
+      "content": "Dublin, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The \"Lyophilization Equipment Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Forec… [+5774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Seaweed Packaging Market Eyes $1.3 Billion Valuation by 2034: Zerocircle Alternatives, Evoware, Loliware, Notpla, and Sway Innovation Lead Global Competition",
+      "description": "Seaweed Packaging Surges as Sustainable Solution: Global FMCG Firms Drive Eco-Friendly Shift Amid Regulatory Push and Consumer Demand Seaweed Packaging Surges as Sustainable Solution: Global FMCG Firms Drive Eco-Friendly Shift Amid Regulatory Push and Consume…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128094/28124/en/Seaweed-Packaging-Market-Eyes-1-3-Billion-Valuation-by-2034-Zerocircle-Alternatives-Evoware-Loliware-Notpla-and-Sway-Innovation-Lead-Global-Competition.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-06T08:26:00Z",
+      "content": "Dublin, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The \"Seaweed Packaging Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025-2034\" has been added to ResearchAndMarkets.com's offeri… [+9130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Industrial Cleaning Products Market Strategies and Forecasts Report 2025-2033 | Innovation in Low-VOC Cleaners Shapes Market Competition",
+      "description": "The global industrial cleaning products market is projected to grow at a CAGR of 4.8% from 2025 to 2033, driven by industrialization in emerging economies, automation in production facilities, and eco-friendly solutions. Stringent hygiene regulations and dema…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128075/28124/en/Industrial-Cleaning-Products-Market-Strategies-and-Forecasts-Report-2025-2033-Innovation-in-Low-VOC-Cleaners-Shapes-Market-Competition.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-06T08:10:00Z",
+      "content": "Dublin, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The \"Industrial Cleaning Products Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and F… [+4630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Should babies be prescribed fluoride? A growing trend, divided science and the FDA’s pushback",
+      "description": "The FDA is moving to remove ingestible fluoride prescription drugs for children amid safety concerns and a lack of formal approval. Ingested fluoride may disrupt gut health and studies link it to lower IQ, thyroid issues and possible neurotoxic effects, espec…",
+      "url": "https://www.naturalnews.com/2025-08-06-fluoride-growing-trend-divided-science-fda-pushback.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Hygiene-of-babys-mouth-2.jpg",
+      "publishedAt": "2025-08-06T06:00:00Z",
+      "content": "<ul><li>The FDA is moving to remove ingestible fluoride prescription drugs for children amid safety concerns and a lack of formal approval.</li><li>Ingested fluoride may disrupt gut health and studie… [+7856 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -344,19 +513,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Lance D Johnson",
-      "title": "The tiny algae that could save your heart: Spirulinaâs promising role in fighting hypertension, lowering blood pressure",
-      "description": "Imagine a supplement powerful enough to help shield your heart from the silent killer known as high blood pressure. That’s the promise of spirulina, a blue-green algae with centuries-old roots in nutrition, now gaining modern scientific backing for its potent…",
-      "url": "https://www.naturalnews.com/2025-08-05-tiny-algae-could-save-your-heart-spirulina.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Spirulina-Bottle-Alga-Allergy-Anticancer-Antiinflammatory-Antioxidant.jpg",
-      "publishedAt": "2025-08-05T06:00:00Z",
-      "content": "Imagine a supplement powerful enough to help shield your heart from the silent killer known as high blood pressure. Thats the promise of spirulina, a blue-green algae with centuries-old roots in nutr… [+6384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Zoey Sky",
       "title": "Iodopropynyl Butylcarbamate: The controversial preservative hiding in cosmetics",
       "description": "Iodopropynyl butylcarbamate (IPBC) is a common synthetic preservative in cosmetics (e.g., shampoos, nail polish) prized for its long-lasting antimicrobial properties. However, IPBC is linked to health risks like hormonal disruption, allergies and neurotoxicit…",
@@ -364,6 +520,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Face-cleanser-bottle-with-gel-1.jpeg",
       "publishedAt": "2025-08-05T06:00:00Z",
       "content": "<ul><li>Iodopropynyl butylcarbamate (IPBC) is a common synthetic preservative in cosmetics (e.g., shampoos, nail polish) prized for its long-lasting antimicrobial properties. However, IPBC is linked … [+7064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "The tiny algae that could save your heart: Spirulinaâs promising role in fighting hypertension, lowering blood pressure",
+      "description": "Imagine a supplement powerful enough to help shield your heart from the silent killer known as high blood pressure. That’s the promise of spirulina, a blue-green algae with centuries-old roots in nutrition, now gaining modern scientific backing for its potent…",
+      "url": "https://www.naturalnews.com/2025-08-05-tiny-algae-could-save-your-heart-spirulina.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Spirulina-Bottle-Alga-Allergy-Anticancer-Antiinflammatory-Antioxidant.jpg",
+      "publishedAt": "2025-08-05T06:00:00Z",
+      "content": "Imagine a supplement powerful enough to help shield your heart from the silent killer known as high blood pressure. Thats the promise of spirulina, a blue-green algae with centuries-old roots in nutr… [+6384 chars]"
     },
     {
       "source": {
@@ -1053,190 +1222,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2694095/fish.jpg",
       "publishedAt": "2025-07-31T15:31:11Z",
       "content": "A recall of various fish products after they were potentially processed under unsanitary conditions has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nMo… [+3509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Alex Portée",
-      "title": "Recall Warns Some Celsius Cans Accidentally Contain High Noon Vodka Seltzer",
-      "description": "High Noon recalls vodka seltzer packs after mislabeled Celsius energy drink cans filled with alcohol surface in eight states.",
-      "url": "https://www.today.com/food/recall/celsius-recall-energy-drinks-contain-high-noon-vodka-rcna222214",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/High-Noon-Vodka-Seltzer-recall-te-250730-ba4a90.jpg",
-      "publishedAt": "2025-07-31T14:20:55Z",
-      "content": "If youve picked up a variety pack of High Noon Beach recently, you might want to take a closer look at it.\r\nThe company issued a voluntary recall after discovering a packaging label error that could … [+3374 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Coffee choice stirs controversy when allergic child nearly takes a sip: 'Who was supervising her?'",
-      "description": "A teenager's hazelnut coffee recently created a controversy when a friend's allergic sister attempts to drink it, prompting discussion about allergen safety and responsibility.",
-      "url": "https://www.foxnews.com/food-drink/coffee-choice-stirs-controversy-when-allergic-child-nearly-takes-sip-who-supervising-her",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/reddit-aita-drama-hazelnut-coffee-1.jpg",
-      "publishedAt": "2025-07-31T14:08:28Z",
-      "content": "A teenager's innocent coffee choice recently sparked an online debate after it nearly exposed a severely allergic child to a nut allergen.\r\nIn a Reddit post, an 18-year-old wrote that the trouble beg… [+4146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Scott Stump",
-      "title": "Frozen Ground Beef Recalled Due to Possible Metal Contamination: What to Know",
-      "description": "More than half a ton of frozen cooked ground beef from Ada Valley Meat Company is being recalled due to possible metal contamination.",
-      "url": "https://www.today.com/food/recall/ground-beef-recall-2025-metal-contamination-rcna222175",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/frozen-ground-beef-recalled-2x1-zz-250731-430209.jpg",
-      "publishedAt": "2025-07-31T14:07:13Z",
-      "content": "More than half a ton of frozen cooked ground beef is being recalled due to possible metal contamination. \r\nMichigan-based Ada Valley Meat Company has recalled 1,065 pounds of its fully cooked frozen … [+1973 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Mohammad Hayatun Nabi, Fatema Hashem Rupa, Ishrat Jahan, A. B. M. Nahid Hasan, Farah Naz, Iqbal Masud, Mohammad Delwer Hossain Hawlader, Mosharop Hossian",
-      "title": "Water, sanitation, and hygiene (WASH) factors and the incidence of communicable diseases in Urban Bangladesh: Evidence from municipal areas",
-      "description": "Author summary Access to safe water, adequate sanitation, and good hygiene (WASH) is essential for preventing communicable diseases, particularly in low- and middle-income countries like Bangladesh. Despite progress, many communities in Bangladesh still lack …",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013329.g001&size=inline",
-      "publishedAt": "2025-07-31T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nSafe drinking water, sanitation, and hygiene (WASH) are crucial for health and development, especially in low- and middle-income countries (LMICs) where WASH-related diseases ar… [+40559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Sukran Ozturk, F.Gülden Ekmen, Hamza Ekmen, Esra Mine Ünal, Ayşegül Er, Emre Keskin, Benjamin Stanley Arbuckle",
-      "title": "Decoding past microbial life and antibiotic resistance in İnonü Cave’s archaeological soil",
-      "description": "This study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from İnönü Cave in Zonguldak, Turkiye. Our aim is to provide a comprehensive unders…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326358",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326358.g008&size=inline",
-      "publishedAt": "2025-07-31T14:00:00Z",
-      "content": "Abstract\r\nThis study, which bridges the disciplines of archaeology and microbiology, examines the ancient bacterial communities and antibiotic-resistance genes in soil samples collected from nönü Cav… [+79283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "FDA Issues Risk Warning for Aldi Churro Recall in 13 States",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of churro bites due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\nCamerican International, Inc., based in New Jerse…",
-      "url": "https://biztoc.com/x/a3debe3d97dc7124",
-      "urlToImage": "https://biztoc.com/cdn/a3debe3d97dc7124_s.webp",
-      "publishedAt": "2025-07-31T13:36:00Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of churro bites due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administrati… [+140 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "FDA Issues Risk Warning for Aldi Churro Recall in 13 States",
-      "description": "Camerican International, Inc. issued a voluntary recall of Casa Mamita Churro Bites due to a potential undeclared allergen.",
-      "url": "https://www.newsweek.com/churro-recall-aldi-fda-issues-warning-allergen-milk-13-states-2106885",
-      "urlToImage": "https://d.newsweek.com/en/full/2693984/churro.jpg",
-      "publishedAt": "2025-07-31T13:34:24Z",
-      "content": "A recall of churro bites due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nCamerican International, Inc., based i… [+4200 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Andrew Watman, Contributor, \n Andrew Watman, Contributor\n https://www.forbes.com/sites/andrewwatman/",
-      "title": "Honey-Sweetened ‘Ice Cream For Bears’ Is The Poster Child For Clean Ingredients",
-      "description": "Ice Cream for Bears, made of just honey, dairy and egg, is expanding throughout the country",
-      "url": "https://www.forbes.com/sites/andrewwatman/2025/07/31/honey-sweetened-ice-cream-for-bears-is-the-poster-child-for-clean-ingredients/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688af6bdd275f8e69c208d2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-31T12:45:00Z",
-      "content": "Tim Berg is a simple guy.\r\nHe likes eating fresh foods and spending time outdoors.\r\nIce Cream for Bears\r\n is Bergs experiment to prove that natures bare gifts are beyond plentiful to satisfy our crav… [+7677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Everything-everywhere.com"
-      },
-      "author": "Gary Arndt",
-      "title": "Canned Food",
-      "description": "Podcast Transcript For thousands of years, food preservation was a significant challenge for humanity.  Even if you were successful in hunting or gathering food, if you could not preserve it, it would be difficult to keep enough for survival.  One of the most…",
-      "url": "https://everything-everywhere.com/canned-food/",
-      "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-62P4sTp/0/LfSVzmWgzDMd8ZbBcCbVdpCnz5sHwtpBrkVZHpq8L/L/1851epart-L.jpg",
-      "publishedAt": "2025-07-31T08:04:48Z",
-      "content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon | Discord | Facebook\r\nFor thousands of years, food preservation was a significant challenge for humanity.… [+13374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Arlene Blum, Contributor, \n Arlene Blum, Contributor\n https://www.forbes.com/sites/arleneblum/",
-      "title": "Your Pet’s Topical Flea Treatments Harm Wildlife",
-      "description": "Pesticides banned from agricultural use in parts of Europe and California are still used in topical flea treatments for pets. Wildlife pays the price.",
-      "url": "https://www.forbes.com/sites/arleneblum/2025/07/31/your-pets-topical-flea-treatments-harm-wildlife/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/688af8fd5fcd4f3f58cf91af/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-07-31T08:00:00Z",
-      "content": "Topical flea treatments wash off into household drains or outdoor water bodies, harming wildlife. \r\ngetty\r\nIf you have any itchy dog or cat, you may reach for familiar topical flea treatments like Fr… [+4902 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": null,
-      "title": "E.coli infections rise by 26% - as source of outbreaks and most vulnerable age groups revealed",
-      "description": "Infections from a strain of E.coli that causes stomach issues rose by more than 25% last year - with toddlers most commonly affected, figures show.",
-      "url": "https://news.sky.com/story/e-coli-infections-rise-by-26-as-source-of-outbreaks-and-most-vulnerable-age-groups-revealed-13404342",
-      "urlToImage": "https://e3.365dm.com/24/06/1600x900/skynews-e-coli-outbreak_6575769.jpg?20240607180537",
-      "publishedAt": "2025-07-31T01:30:00Z",
-      "content": "Infections from a strain of E.coli that causes stomach issues rose by more than 25% last year - with toddlers most commonly affected, figures show.\r\nThe UK Health Security Agency has said the rise wa… [+3835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Frozen Pasta Alert Map Shows States With New Warning",
-      "description": "The latest recalls and health alerts underscore the persistent risks in the U.S. food supply related to allergen mislabeling and other hazards.",
-      "url": "https://biztoc.com/x/9a14874b557102a8",
-      "urlToImage": "https://biztoc.com/cdn/950/og.png",
-      "publishedAt": "2025-07-30T22:34:39Z",
-      "content": "The latest recalls and health alerts underscore the persistent risks in the U.S. food supply related to allergen mislabeling and other hazards.\r\nThis story appeared on newsweek.com, 2025-07-30 22:24:… [+2 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Frozen Pasta Alert Map Shows States With New Warning",
-      "description": "The latest recalls and health alerts underscore the persistent risks in the U.S. food supply related to allergen mislabeling and other hazards.",
-      "url": "https://www.newsweek.com/frozen-pasta-alert-map-shows-states-new-warning-2106684",
-      "urlToImage": "https://d.newsweek.com/en/full/2693563/frozen-pasta-recall.jpg",
-      "publishedAt": "2025-07-30T22:24:37Z",
-      "content": "The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) issued a public health alert for frozen pork and beef tortellini due to the product potentially containing toasted ravio… [+2985 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": null,
-      "title": "High Noon recalls vodka seltzers mistakenly labeled as energy drinks in multiple states",
-      "description": "High Noon issued a nationwide recall of its Beach Variety 12-packs due to a labeling error. Vodka seltzers were mistakenly packaged in Celsius energy drink cans, potentially leading to unintentional alcohol consumption. The affected products were shipped to r…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/high-noon-recalls-vodka-seltzers-mistakenly-labeled-as-energy-drinks-in-multiple-states/articleshow/123005648.cms",
-      "urlToImage": "https://img.etimg.com/photo/65498029.cms",
-      "publishedAt": "2025-07-30T21:12:53Z",
-      "content": "High Noon recalls: High Noon, a popular alcoholic beverage brand, has issued a nationwide product recall due to a labeling error that resulted in vodka seltzers being packed in cans intended for Cels… [+3627 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 0
 }
