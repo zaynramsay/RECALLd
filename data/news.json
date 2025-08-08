@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2025-08-08T06:41:24.344Z",
+  "lastUpdated": "2025-08-08T12:56:49.886Z",
   "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "FDA Issues Highest Risk Warning for Fruit Recalled Across the US",
+      "description": "Doehler Dry Ingredient Solutions issued a voluntary recall in July for a dried fruit pack due to potential listeria contamination.",
+      "url": "https://www.newsweek.com/fruit-recall-nationwide-fda-issues-highest-risk-warning-doehler-listeria-2110135",
+      "urlToImage": "https://d.newsweek.com/en/full/2694195/fda-recall.png",
+      "publishedAt": "2025-08-07T12:49:04Z",
+      "content": "A recall of a dried fruit product due to potential listeria contamination has been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nDoehler Dry Ingredient Solutions, L… [+4839 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "Can fermented foods cause food allergies?",
+      "description": "Fermented foods, though celebrated for health benefits, can trigger reactions in some individuals. Histamine intolerance, mold sensitivity, or allergies to base ingredients like soy or dairy are potential culprits. High histamine levels in aged cheeses and ko…",
+      "url": "https://timesofindia.indiatimes.com/life-style/food-news/can-fermented-foods-cause-food-allergies/articleshow/123164376.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123164376,width-1070,height-580,imgsize-190382,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-08-07T10:55:37Z",
+      "content": "Top 10 highest-selling car manufacturers in July 2025: Maruti, Hyundai, MG and more"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grrlpowercomic.com"
+      },
+      "author": "DaveB",
+      "title": "Grrl Power #1380 – Grand theft carbo",
+      "description": "“Hey I have some pool water with food coloring in it, what should we do with it?” “Let’s package it in wax and sell it to children. Because evil.” “Wow, you had an answer for that right away.” “Eeeevil.” “Is…[…]↓ Read the rest of this entry...",
+      "url": "https://www.grrlpowercomic.com/archives/comic/grrl-power-1380-grand-theft-carbo/",
+      "urlToImage": "https://www.grrlpowercomic.com/wp-content/uploads/2025/08/2025-08-07-GP1380-658x1024.jpg",
+      "publishedAt": "2025-08-07T10:00:49Z",
+      "content": "“Hey I have some pool water with food coloring in it, what should we do with it?”“Let’s package it in wax and sell it to children. Because evil.”“Wow, you had an answer for that right away.”“Eeeevil.… [+2047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mother Jones"
+      },
+      "author": "Damien Gayle",
+      "title": "Chemical Pollution Is a Rampant Threat to Humanity, Science Group Warns",
+      "description": "This story was originally published by the Guardian and is reproduced here as part of the Climate Desk collaboration. Chemical pollution is “a threat to the thriving of humans and nature of a similar order as climate change” but decades behind global heating …",
+      "url": "https://www.motherjones.com/environment/2025/08/chemical-pollution-untested-toxic-chemicals-food-water-environment/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/08/AP081216029702.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2025-08-07T10:00:00Z",
+      "content": "It's hard to know exactly what's in your food.Robert F. Bukaty/AP\r\nGet your news from a source thats not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.\r\nThis story was or… [+5343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Bioplastics Market Volume to Hit 73,21,706.6 Tons by 2034 | Exclusive Report by Towards Chemical and Materials Consulting",
+      "description": "According to Towards Chemical and Materials consultants, the bioplastics-market volume was valued at 1,140,000.0. tons in 2024, grew to 1,373,016.0 tons in 2025, and is expected to hit around 73,21,706.6 tons by 2034, growing at a compound annual growth rate …",
+      "url": "https://www.globenewswire.com/news-release/2025/08/07/3128976/0/en/Bioplastics-Market-Volume-to-Hit-73-21-706-6-Tons-by-2034-Exclusive-Report-by-Towards-Chemical-and-Materials-Consulting.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-08-07T09:33:00Z",
+      "content": "Ottawa, Aug. 07, 2025 (GLOBE NEWSWIRE) -- The global bioplastics market volume\r\n was reached at 11,40,000.0 tons in 2024 and is expected to be worth around 73,21,706.6 tons by 2034, growing at a comp… [+24984 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Heavy Metal Testing Market Shares and Global Industry Analysis 2024-2034 - Emerging Markets Poised for Heavy Metal Testing Adoption as Awareness Rises",
+      "description": "Advances in ICP-MS and AAS technologies improving accuracy, while AI integration and portable testing devices boosting efficiency Advances in ICP-MS and AAS technologies improving accuracy, while AI integration and portable testing devices boosting efficiency",
+      "url": "https://www.globenewswire.com/news-release/2025/08/07/3128955/28124/en/Heavy-Metal-Testing-Market-Shares-and-Global-Industry-Analysis-2024-2034-Emerging-Markets-Poised-for-Heavy-Metal-Testing-Adoption-as-Awareness-Rises.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-07T08:30:00Z",
+      "content": "Dublin, Aug. 07, 2025 (GLOBE NEWSWIRE) -- The \"Heavy Metal Testing: Market Share, and Growth Analysis by Product Type (Test Kits, Laboratory Testing Services, Consumables), Application, End User, Tec… [+5363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Top 10 Nutraceutical Packaging Companies Drive Innovation and Growth | Nutraceutical Packaging Market Global Forecast Report 2025-2030",
+      "description": "The Nutraceutical Packaging Companies Quadrant provides an in-depth analysis of the global nutraceutical packaging market, evaluating over 100 companies, and recognizing the top 10 as quadrant leaders. The report highlights key players such as Berry Global, A…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/07/3128926/28124/en/Top-10-Nutraceutical-Packaging-Companies-Drive-Innovation-and-Growth-Nutraceutical-Packaging-Market-Global-Forecast-Report-2025-2030.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-07T08:05:00Z",
+      "content": "Dublin, Aug. 07, 2025 (GLOBE NEWSWIRE) -- The \"Nutraceutical Packaging Market - Global Forecast To 2030\" report has been added to ResearchAndMarkets.com's offering.\r\nThe Nutraceutical Packaging Compa… [+6925 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -684,7 +775,7 @@
       },
       "author": null,
       "title": "I’m a neurologist—to keep my brain safe and healthy, I never eat these 4 foods",
-      "description": "To keep his brain healthy and safe, Baibing Chen avoids a few foods. He is a neurologist and epileptologist practicing at the University of Michigan.",
+      "description": "To keep his brain healthy and safe, Baibing Chen avoids a few foods. He is a neurologist and epileptologist practicing at the��University of Michigan.",
       "url": "https://www.cnbc.com/2025/08/05/im-a-neurologist-to-keep-my-brain-safe-and-healthy-i-always-avoid-these-foods.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108180010-1753991310601-GettyImages-2202375338.jpg?v=1753991385&w=1920&h=1080",
       "publishedAt": "2025-08-05T14:00:01Z",
@@ -1131,112 +1222,8 @@
       "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/balchem-co-logo-1200x675.jpg?v=20240503120118&w=240&h=240&zc=2",
       "publishedAt": "2025-08-03T08:17:03Z",
       "content": "Minerals Technologies (NYSE:MTX – Get Free Report) and Balchem (NASDAQ:BCPC – Get Free Report) are both basic materials companies, but which is the better business? We will compare the two companies … [+7851 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Pilly Labs",
-      "title": "Chaga Mushroom Supplement Surge: Why Pilly Labs’ 2025 Formula Is Reshaping Immune Health Conversations",
-      "description": "Interest in Chaga mushroom supplements is surging across 2025 wellness trends, as consumers seek cleaner, science-aligned alternatives for immune support, inflammation balance, and energy recovery. With dual-extracted fruiting body sourcing and lab-tested tra…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/02/3126213/0/en/Chaga-Mushroom-Supplement-Surge-Why-Pilly-Labs-2025-Formula-Is-Reshaping-Immune-Health-Conversations.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7331a230-dbff-4f0d-b4b5-ff6667fac3d9",
-      "publishedAt": "2025-08-02T21:21:00Z",
-      "content": "Chicago, Aug. 02, 2025 (GLOBE NEWSWIRE) -- \r\nInterest in Chaga mushroom supplements has exploded across wellness communities in 2025, fueled by a renewed focus on immunity, inflammation, and stress r… [+24234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Caitlin Hornik",
-      "title": "Over 64,000 pounds of butter recalled over allergen concerns",
-      "description": "Recall is latest in string affecting foods across the country",
-      "url": "https://www.the-independent.com/life-style/fda-butter-recall-bunge-north-america-b2800952.html",
-      "urlToImage": "https://static.the-independent.com/2025/06/09/8/53/iStock-157673848.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-08-02T20:59:42Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3673 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Swathi Moorthy and Apoorva Mittal",
-      "title": "Mushroom mania grips India: From wellness kits to exotic farms",
-      "description": "Driven by increasing awareness of health benefits and the rising demand for plant-based foods, India is experiencing a 'shroom boom.' Startups like Nuvedo and Shroomery are emerging, offering mushroom-based products and exotic varieties. Despite challenges in…",
-      "url": "https://economictimes.indiatimes.com/news/india/mushroom-mania-grips-india-from-wellness-kits-to-exotic-farms/articleshow/123067066.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123067020,width-1200,height-630,imgsize-75874,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-02T18:37:03Z",
-      "content": "Mushroom MovementOn a rainy Sunday morning, amid the lush green trees in Bengalurus Lal Bagh, close to a dozen people were digging into the wet earth with bare hands.At the centre was Harikrishnan MT… [+6774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Parade"
-      },
-      "author": "Beth Ann Mayer",
-      "title": "Most People Make This Common Dishwasher Mistake—and It's a Health Hazard",
-      "description": "Food safety experts share an unexpected warning.",
-      "url": "https://parade.com/health/common-dishwasher-mistake-health-hazard-according-to-food-safety-experts",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/faJLEcMFgmqkE8b4uTzdXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/parade_250/a5ae9d910ed2c9915f1817939dda3c99",
-      "publishedAt": "2025-08-02T17:50:00Z",
-      "content": "Most People Make This Common Dishwasher Mistakeand It's a Health Hazard originally appeared on Parade.\r\nOne of your top goals when eating is to fill your tummy in a way that feels (and tastes) good. … [+6165 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Nationwide butter recall in US as FDA issues urgent health warning to customers. Check details",
-      "description": "The FDA has issued a Class II recall for 64,800 pounds of NH European Style Butter Blend due to undeclared milk, a major allergen. Distributed across the US and Dominican Republic, the butter poses a risk to individuals with milk allergies, potentially causin…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-nationwide-butter-recall-in-us-as-fda-issues-urgent-health-warning-to-customers-check-details/articleshow/123065532.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123065552,width-1200,height-630,imgsize-192708,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-02T17:29:24Z",
-      "content": "Issuing the second-highest risk warning, the US Food and Drug Administration (FDA) has recalled butter across the nation due to a potential undeclared allergen. Based in Missouri, Bunge North America… [+3203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Researchbuzz.me"
-      },
-      "author": "ResearchBuzz",
-      "title": "EU Food Safety, SCOTUS Transparency, Online Safety Act, More: Saturday ResearchBuzz, August 2, 2025",
-      "description": "NEW RESOURCES Food Safety Magazine: Database Combines 392 Million EU Food Safety Analytical Results, Reveals Contamination Trends. “The new CompreHensive European Food Safety (CHEFS) database draws from official food safety monitoring data […]",
-      "url": "https://researchbuzz.me/2025/08/02/eu-food-safety-scotus-transparency-online-safety-act-more-saturday-researchbuzz-august-2-2025/",
-      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJibG9nX2lkIjo0MzI4NzU2fQ.sL7nzKIGwiJse_moIqEcJConFAAs8eGJgtlNrAAG05MMQ",
-      "publishedAt": "2025-08-02T12:01:47Z",
-      "content": "NEW RESOURCES \r\nFood Safety Magazine: Database Combines 392 Million EU Food Safety Analytical Results, Reveals Contamination Trends. “The new CompreHensive European Food Safety (CHEFS) database draws… [+5739 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Should you keep eggs in the fridge? How improper storage could raise your risk of Salmonella",
-      "description": "During summer, storing eggs properly is important. Experts suggest refrigeration to prevent spoilage and bacterial growth. In the US, eggs are washed, requiring refrigeration due to salmonella risk. Unlike some countries, US eggs lack a natural protective coa…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/should-you-keep-eggs-in-the-fridge-how-improper-storage-could-raise-your-risk-of-salmonella/articleshow/123057717.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123057715,width-1200,height-630,imgsize-87424,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-02T06:48:51Z",
-      "content": "With summer temperatures soaring across much of the US, many people are double-checking how they store their groceries, especially foods like eggs that seem deceptively simple but are surprisingly se… [+3406 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Fabio Polese",
-      "title": "Myanmar’s lawless mining blamed for dangerous pollution in Mekong River",
-      "description": "Fishing communities in Laos feel effect of pollution from gold, rare earth mining in rebel-controlled areas of Myanmar.",
-      "url": "https://www.aljazeera.com/news/2025/8/1/myanmars-lawless-mining-blamed-for-dangerous-pollution-in-mekong-river",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/Fishermen-Laos-Fabio-Polese-5-1753863906-1754029547.jpg?resize=1200%2C630&quality=80",
-      "publishedAt": "2025-08-01T23:38:55Z",
-      "content": "Houayxay, Laos Fishing went well today for Khon, a Laotian fisherman, who lives in a floating house built from plastic drums, scrap metal and wood on the Mekong River.\r\nI caught two catfish, the 52-y… [+9281 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 0
 }
