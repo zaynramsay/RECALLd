@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-08-09T06:36:20.300Z",
+  "lastUpdated": "2025-08-09T12:50:37.057Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Sky Hooler, Ph.D. Student in Environmental Science, University at Albany, State University of New York, Aubrey Hillman, Associate Professor of Environmental Sciences, University at Albany, State University of New York",
+      "title": "Industrial pollution once ravaged the Adirondacks − decades of history captured in lake mud track their slow recovery",
+      "description": "Acid rain and metals from power plants, vehicles and industries reached remote mountain lakes for years. Evidence from those lakes today shows the success of the Clean Air Act.",
+      "url": "https://theconversation.com/industrial-pollution-once-ravaged-the-adirondacks-decades-of-history-captured-in-lake-mud-track-their-slow-recovery-260182",
+      "urlToImage": "https://images.theconversation.com/files/681316/original/file-20250721-93-i5kdgq.jpg?ixlib=rb-4.1.0&rect=0%2C534%2C3903%2C1951&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-08-08T12:40:33Z",
+      "content": "Scientist Aubrey Hillman, one of the authors of this article, extracts a core of mud from the bottom of Black Pond in June 2025. Patrick Dodson/University at Albany\r\nLush forests and crisp mountain a… [+7198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Cake Recall Update as FDA Sets Highest Concern Level for Multiple Products",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of numerous cake products due to potential salmonella contamination has been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\nKing Cheesecake Company, Inc., based in Tex…",
+      "url": "https://biztoc.com/x/1a51035a51876f5a",
+      "urlToImage": "https://biztoc.com/cdn/1a51035a51876f5a_s.webp",
+      "publishedAt": "2025-08-08T11:13:00Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of numerous cake products due to potential salmonella contamination has been issued the highest risk warning by the U.S. Food and Drug Admini… [+145 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "Cake Recall Update as FDA Sets Highest Concern Level for Multiple Products",
+      "description": "King Cheesecake Company, Inc. issued a voluntary recall for six products in July due to potential salmonella contamination.",
+      "url": "https://www.newsweek.com/cake-recall-salmonella-fda-issues-highest-risk-warning-king-cheesecake-company-texas-2110669",
+      "urlToImage": "https://d.newsweek.com/en/full/2698851/cake.jpg",
+      "publishedAt": "2025-08-08T11:02:10Z",
+      "content": "A recall of numerous cake products due to potential salmonella contamination has been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nKing Cheesecake Company, Inc., b… [+3219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Opiniojuris.org"
+      },
+      "author": "Donna Cline",
+      "title": "Nature and Nurture: How War Weaponizes Gender and the Environment",
+      "description": "[Donna Cline is a US-licensed criminal practitioner and lead for the Environment Mobile Justice Team at Global Rights Compliance, where she works closely with Ukrainian prosecutors to ensure accountability for war crimes. Julia Tétrault-Provencher is a Canadi…",
+      "url": "http://opiniojuris.org/2025/08/08/nature-and-nurture-how-war-weaponizes-gender-and-the-environment/",
+      "urlToImage": "https://i2.wp.com/opiniojuris.org/wp-content/uploads/Environment.jpg?fit=800%2C600",
+      "publishedAt": "2025-08-08T10:00:38Z",
+      "content": "[Donna Cline is a US-licensed criminal practitioner and lead for the Environment Mobile Justice Team at Global Rights Compliance, where she works closely with Ukrainian prosecutors to ensure accounta… [+11179 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -498,19 +550,6 @@
     {
       "source": {
         "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Recycled PET Bottles Market CAGR at 9.74% from 2025–2034 as Green Packaging Gains Momentum",
-      "description": "According to Towards Packaging consultants, the global recycled PET bottles market is projected to reach approximately USD 6.16 billion by 2034, increasing from USD 2.43 billion in 2024, at a CAGR of 9.74% during the forecast period 2025 to 2034. According to…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128439/0/en/Recycled-PET-Bottles-Market-CAGR-at-9-74-from-2025-2034-as-Green-Packaging-Gains-Momentum.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-08-06T14:00:00Z",
-      "content": "Ottawa, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The global recycled PET bottles market size stood at USD 2.67 billion in 2025 and is projected to reach USD 6.16 billion by 2034, according to a study publis… [+25129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Plos.org"
       },
       "author": "Zbyszek Boratyński, Timothy A. Mousseau, Anders Pape Møller",
@@ -533,6 +572,19 @@
       "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000296.g003&size=inline",
       "publishedAt": "2025-08-06T14:00:00Z",
       "content": "Abstract\r\nHeavy metals are commonly found in groundwater and can affect the quality of drinking water. In this pilot study, we analyzed the quality of drinking water for dogs participating in the Dog… [+46321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Recycled PET Bottles Market CAGR at 9.74% from 2025–2034 as Green Packaging Gains Momentum",
+      "description": "According to Towards Packaging consultants, the global recycled PET bottles market is projected to reach approximately USD 6.16 billion by 2034, increasing from USD 2.43 billion in 2024, at a CAGR of 9.74% during the forecast period 2025 to 2034. According to…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128439/0/en/Recycled-PET-Bottles-Market-CAGR-at-9-74-from-2025-2034-as-Green-Packaging-Gains-Momentum.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-08-06T14:00:00Z",
+      "content": "Ottawa, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The global recycled PET bottles market size stood at USD 2.67 billion in 2025 and is projected to reach USD 6.16 billion by 2034, according to a study publis… [+25129 chars]"
     },
     {
       "source": {
@@ -735,12 +787,12 @@
         "name": "Naturalnews.com"
       },
       "author": "Laura Harris",
-      "title": "Asparagus: The nutritional superstar you need in your diet",
-      "description": "Asparagus has been valued since ancient times by civilizations like the Egyptians, Greeks and Romans for its culinary appeal and medicinal properties. It later became popular across Europe and North America. Rich in vitamins (K, C, A, E), minerals (iron, zinc…",
-      "url": "https://www.naturalnews.com/2025-08-06-asparagus-nutritional-superstar-you-need-to-eat.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Close-Up-Asparagus-Tips.jpg",
+      "title": "New Jersey secures record $2 billion PFAS settlement with DuPont, Chemours and Corteva",
+      "description": "New Jersey reached a $2 billion agreement with DuPont, Chemours and Corteva to address PFAS (“forever chemicals”) contamination – the largest environmental settlement in state history. The deal includes $875 million over 25 years for natural resource restorat…",
+      "url": "https://www.naturalnews.com/2025-08-06-nj-secures-pfas-settlement-with-chemical-companies.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/dollars.jpg",
       "publishedAt": "2025-08-06T06:00:00Z",
-      "content": "<ul><li>Asparagus has been valued since ancient times by civilizations like the Egyptians, Greeks and Romans for its culinary appeal and medicinal properties. It later became popular across Europe an… [+8797 chars]"
+      "content": "<ul><li>New Jersey reached a $2 billion agreement with DuPont, Chemours and Corteva to address PFAS (\"forever chemicals\") contamination the largest environmental settlement in state history.</li><li>… [+5452 chars]"
     },
     {
       "source": {
@@ -748,12 +800,12 @@
         "name": "Naturalnews.com"
       },
       "author": "Laura Harris",
-      "title": "New Jersey secures record $2 billion PFAS settlement with DuPont, Chemours and Corteva",
-      "description": "New Jersey reached a $2 billion agreement with DuPont, Chemours and Corteva to address PFAS (“forever chemicals”) contamination – the largest environmental settlement in state history. The deal includes $875 million over 25 years for natural resource restorat…",
-      "url": "https://www.naturalnews.com/2025-08-06-nj-secures-pfas-settlement-with-chemical-companies.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/dollars.jpg",
+      "title": "Asparagus: The nutritional superstar you need in your diet",
+      "description": "Asparagus has been valued since ancient times by civilizations like the Egyptians, Greeks and Romans for its culinary appeal and medicinal properties. It later became popular across Europe and North America. Rich in vitamins (K, C, A, E), minerals (iron, zinc…",
+      "url": "https://www.naturalnews.com/2025-08-06-asparagus-nutritional-superstar-you-need-to-eat.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Close-Up-Asparagus-Tips.jpg",
       "publishedAt": "2025-08-06T06:00:00Z",
-      "content": "<ul><li>New Jersey reached a $2 billion agreement with DuPont, Chemours and Corteva to address PFAS (\"forever chemicals\") contamination the largest environmental settlement in state history.</li><li>… [+5452 chars]"
+      "content": "<ul><li>Asparagus has been valued since ancient times by civilizations like the Egyptians, Greeks and Romans for its culinary appeal and medicinal properties. It later became popular across Europe an… [+8797 chars]"
     },
     {
       "source": {
@@ -1170,58 +1222,6 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/08/GettyImages-2227793749-e1754331364574.jpg?fit=4032%2C2016&w=1200&h=800",
       "publishedAt": "2025-08-04T18:53:22Z",
       "content": "As the U.S. public begins to wake up to the reality of mass starvation in Gaza, recent mainstream media reports have issued a bold claim: Some cases of starvation can be explained not by the Israeli … [+9091 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Real Simple"
-      },
-      "author": "Samantha Leffler",
-      "title": "Nationwide Butter Recall Elevated by FDA Due to Possible ‘Adverse Health Consequences’",
-      "description": "The recall was initially announced on July 14 due to an undeclared allergen.",
-      "url": "https://www.realsimple.com/nationwide-butter-recall-elevated-by-fda-11784310",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjauyPWXZUA9moDSPLkQ1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/real_simple_700/10499d17307fa9e06fa11d38f374f171",
-      "publishedAt": "2025-08-04T18:50:12Z",
-      "content": "The United States Food and Drug Administration (FDA) just announced that it is elevating a recent butter recall to the second-highest level because the recalled dairy product may cause adverse health… [+2278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Verdictfoodservice.com"
-      },
-      "author": "GlobalData",
-      "title": "India’s Swiggy launches DeskEats to serve corporate meal needs",
-      "description": "The service is available in more than 7,000 tech parks, corporate offices and business centres across 30 cities.",
-      "url": "https://www.verdictfoodservice.com/news/indias-swiggy-deskeats/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/17_ucxsdTMfh18Vv.Z0JaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_food_service_772/e4cf019dffc95f164f9ea0a9036a1099",
-      "publishedAt": "2025-08-04T15:37:41Z",
-      "content": "Indian online food delivery platform Swiggy has launched a new feature, DeskEats, to meet the meal requirements of professionals in the workplace.\r\nThe service is now available in more than 7,000 tec… [+2140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inside the Magic"
-      },
-      "author": "Alessia Dunn",
-      "title": "Orlando Theme Park Guest Publically Threatens to Poop All Over Universal, Refuses to Wipe",
-      "description": "If there is one thing that no Universal Orlando Resort guest wants, it’s to find human fecal matter scattered around the park, but unfortunately, one guest has been threatening to do just that for views on social media. A TikTok user known as @iamjayjeezy has…",
-      "url": "https://insidethemagic.net/2025/08/orlando-theme-park-guest-publically-threatens-to-poop-all-over-universal-refuses-to-wipe-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/01/universal-orlando-entrance.jpg",
-      "publishedAt": "2025-08-04T15:03:01Z",
-      "content": "If there is one thing that no Universal Orlando Resort guest wants, it’s to find human fecal matter scattered around the park, but unfortunately, one guest has been threatening to do just that for vi… [+5464 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Emma Marsden",
-      "title": "Walmart Recall Update: Life-Threatening Warning Issued Nationwide",
-      "description": "People with an allergy or sensitivity to milk risk a life-threatening reaction if they consume one of the recalled products.",
-      "url": "https://www.newsweek.com/walmart-recall-update-life-threatening-warning-2107653",
-      "urlToImage": "https://d.newsweek.com/en/full/2695026/walmart-sams-club.jpg",
-      "publishedAt": "2025-08-04T14:40:55Z",
-      "content": "Walmart has issued multiple product recalls in the past week, including one accompanied by a life-threatening health warning.\r\nNewsweek previously reached out to Walmart for comment regarding the rec… [+3523 chars]"
     }
   ],
   "totalResults": 94,
