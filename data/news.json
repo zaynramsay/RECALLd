@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-08-10T18:33:55.816Z",
+  "lastUpdated": "2025-08-11T02:20:26.585Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "PFAS 'Universe' Mapped — Nearly 15,000 Chemicals, Scant Human Data",
+      "description": "You’ve been exposed to toxic chemicals that your doctor hasn’t ever mentioned, and they’re likely in your blood right now. You didn’t choose this, but industry did. Over the last century, companies have quietly released thousands of synthetic compounds into t…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/08/10/pfas-forever-chemicals-exposure.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/August/FB/pfas-forever-chemicals-exposure-fb.jpg",
+      "publishedAt": "2025-08-10T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Jasmine Hines",
+      "title": "Cattle farmer faces tough choice after property contaminated by PFAS",
+      "description": "As Larry Acton looks to retirement, he is grappling with whether to sell his land at a loss or hand the property, which has contaminated groundwater, to his son.",
+      "url": "https://www.abc.net.au/news/2025-08-10/pfas-water-guidelines-cattle-biloela-callide-cq/105597058",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9ca9a3b9bef5657f576bfc7e03fb5e35?impolicy=wcms_watermark_news&cropH=2160&cropW=3840&xPos=0&yPos=160&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-08-09T21:15:05Z",
+      "content": "After spending more than 50 years dedicated to his cattle breed, Larry Acton was devastated to watch every Braford cow he owned go through the sale ring.\r\n\"Mentally that was [difficult] and still is … [+6254 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Matt Caputo",
+      "title": "FDA pulls popular ice cream from shelves after packaging mix up: ‘Serious allergic reaction’",
+      "description": "DFA Dairy Brands, LLC pulled 324 cartons of its 48-fluid-ounce Friendly’s Cookies & Cream ice cream from stores after they were packaged in Vanilla Bean containers but topped with Cookies & Cream lids, the FDA said.",
+      "url": "https://nypost.com/2025/08/09/business/fda-pulls-friendlys-ice-cream-pulled-from-shelves/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109409547.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-08-09T20:50:21Z",
+      "content": "Ice cream lovers may have more than a meltdown.\r\nFriendlys Ice Cream has recalled one of its most popular flavors after a packaging mix up sparking an allergy risk warning from the Food and Drug Admi… [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Neurologists reveal the top 3 foods to avoid to protect your brain and nervous system",
+      "description": "Neurologists identify common foods that can contain dangerous neurotoxins and tapeworms that could harm brain health, and provides tips on what to look out for",
+      "url": "https://www.foxnews.com/food-drink/im-neurologist-i-never-eat-3-common-foods-can-harm-brain",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/woman-buying-fish-market-snapper.jpg",
+      "publishedAt": "2025-08-09T20:43:29Z",
+      "content": "Doctors recommend foods like berries, nuts, fish packed with omega-3 fatty acids and even dark chocolate for neurological health. They also discourage foods high in sugar and saturated fat, which can… [+4287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rutherford Daily Voice"
+      },
+      "author": "Zak Failla",
+      "title": "Dangerous Bacteria Found in Popular Soaps: Nationwide Recall Hits US Homes, Hospitals",
+      "description": "A nationwide recall is in effect for dozens of soap and skincare products sold in homes, hospitals, and care facilities after tests revealed dangerous bacterial contamination, the US Food and Drug Ad…",
+      "url": "https://dailyvoice.com/md/bel-air/dangerous-bacteria-found-in-popular-soaps-nationwide-recall-hits-us-homes-hospitals/",
+      "urlToImage": "https://edge.dailyvoice.com/upload/Screenshot_2025-08-09_at_3.41.25PM.png?width=1280",
+      "publishedAt": "2025-08-09T19:52:19Z",
+      "content": "New Jersey-based DermaRite Industries is pulling multiple lots of DermaKleen, DermaSarra, KleenFoam, and PeriGiene products from shelves nationwide, including Puerto Rico, after the products tested p… [+4103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "2,700 kg decomposed chicken, 100 kg rotten fish seized",
+      "description": "DFCO’s major Crackdown on Food Adulteration STATE TIMES NEWS JAMMU: In a significant crackdown on the sale of unsafe food, the Drug and Food Control Organisation (DFCO), Jammu, on Saturday seized and disposed of a massive haul of 28 quintals of rotten and spo…",
+      "url": "https://statetimes.in/2700-kg-decomposed-chicken-100-kg-rotten-fish-seized/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/08/tEAM.jpg",
+      "publishedAt": "2025-08-09T19:20:22Z",
+      "content": "DFCO’s major Crackdown on Food Adulteration\r\nSTATE TIMES NEWS\r\nJAMMU: In a significant crackdown on the sale of unsafe food, the Drug and Food Control Organisation (DFCO), Jammu, on Saturday seized a… [+3560 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -394,19 +472,6 @@
     {
       "source": {
         "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ava Grace",
-      "title": "California wild hogs turn NEON BLUE, exposing hidden dangers of pesticide contamination",
-      "description": "Wild pigs in Monterey County, CA, exhibit bright blue flesh due to ingesting diphacinone, a blue-dyed anticoagulant rodenticide, raising concerns about food chain contamination. The poison spreads through the food chain, affecting not only pigs but also bears…",
-      "url": "https://www.naturalnews.com/2025-08-08-california-wild-hogs-turn-neon-blue-poison.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Pigs-Hogs-Piglets.jpg",
-      "publishedAt": "2025-08-08T06:00:00Z",
-      "content": "<ul><li>Wild pigs in Monterey County, CA, exhibit bright blue flesh due to ingesting diphacinone, a blue-dyed anticoagulant rodenticide, raising concerns about food chain contamination.</li><li>The p… [+4477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GlobeNewswire"
       },
       "author": "SNS Insider pvt ltd",
@@ -416,6 +481,19 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
       "publishedAt": "2025-08-08T06:00:00Z",
       "content": "Austin, Aug. 08, 2025 (GLOBE NEWSWIRE) -- Food Robotics Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider,The Food Robotics Market\r\n size was valued at USD 2.23 Billion in 2024 and is … [+7353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "California wild hogs turn NEON BLUE, exposing hidden dangers of pesticide contamination",
+      "description": "Wild pigs in Monterey County, CA, exhibit bright blue flesh due to ingesting diphacinone, a blue-dyed anticoagulant rodenticide, raising concerns about food chain contamination. The poison spreads through the food chain, affecting not only pigs but also bears…",
+      "url": "https://www.naturalnews.com/2025-08-08-california-wild-hogs-turn-neon-blue-poison.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Pigs-Hogs-Piglets.jpg",
+      "publishedAt": "2025-08-08T06:00:00Z",
+      "content": "<ul><li>Wild pigs in Monterey County, CA, exhibit bright blue flesh due to ingesting diphacinone, a blue-dyed anticoagulant rodenticide, raising concerns about food chain contamination.</li><li>The p… [+4477 chars]"
     },
     {
       "source": {
@@ -805,7 +883,7 @@
       "url": "https://nypost.com/2025/08/06/lifestyle/hazardous-bacterial-bloom-hitting-us-lakes-is-a-danger-to-people-and-pets-officials/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/shore-stones-small-vegetation-sandy-109276100.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-08-06T15:16:57Z",
-      "content": "No need for vacationers to test the waters here, experts say. \r\nThe summer vacation spoiler has been identified as a cyanobacterial bloom and the National Centers for Coastal Ocean Science (NCCOS) sa�� [+2643 chars]"
+      "content": "No need for vacationers to test the waters here, experts say. \r\nThe summer vacation spoiler has been identified as a cyanobacterial bloom and the National Centers for Coastal Ocean Science (NCCOS) sa… [+2643 chars]"
     },
     {
       "source": {
@@ -875,6 +953,19 @@
     {
       "source": {
         "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Recycled PET Bottles Market CAGR at 9.74% from 2025–2034 as Green Packaging Gains Momentum",
+      "description": "According to Towards Packaging consultants, the global recycled PET bottles market is projected to reach approximately USD 6.16 billion by 2034, increasing from USD 2.43 billion in 2024, at a CAGR of 9.74% during the forecast period 2025 to 2034. According to…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128439/0/en/Recycled-PET-Bottles-Market-CAGR-at-9-74-from-2025-2034-as-Green-Packaging-Gains-Momentum.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-08-06T14:00:00Z",
+      "content": "Ottawa, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The global recycled PET bottles market size stood at USD 2.67 billion in 2025 and is projected to reach USD 6.16 billion by 2034, according to a study publis… [+25129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Plos.org"
       },
       "author": "Zbyszek Boratyński, Timothy A. Mousseau, Anders Pape Møller",
@@ -897,19 +988,6 @@
       "urlToImage": "https://journals.plos.org/water/article/figure/image?id=10.1371/journal.pwat.0000296.g003&size=inline",
       "publishedAt": "2025-08-06T14:00:00Z",
       "content": "Abstract\r\nHeavy metals are commonly found in groundwater and can affect the quality of drinking water. In this pilot study, we analyzed the quality of drinking water for dogs participating in the Dog… [+46321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Recycled PET Bottles Market CAGR at 9.74% from 2025–2034 as Green Packaging Gains Momentum",
-      "description": "According to Towards Packaging consultants, the global recycled PET bottles market is projected to reach approximately USD 6.16 billion by 2034, increasing from USD 2.43 billion in 2024, at a CAGR of 9.74% during the forecast period 2025 to 2034. According to…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128439/0/en/Recycled-PET-Bottles-Market-CAGR-at-9-74-from-2025-2034-as-Green-Packaging-Gains-Momentum.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-08-06T14:00:00Z",
-      "content": "Ottawa, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The global recycled PET bottles market size stood at USD 2.67 billion in 2025 and is projected to reach USD 6.16 billion by 2034, according to a study publis… [+25129 chars]"
     },
     {
       "source": {
@@ -1105,84 +1183,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Hygiene-of-babys-mouth-2.jpg",
       "publishedAt": "2025-08-06T06:00:00Z",
       "content": "<ul><li>The FDA is moving to remove ingestible fluoride prescription drugs for children amid safety concerns and a lack of formal approval.</li><li>Ingested fluoride may disrupt gut health and studie… [+7856 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Asparagus: The nutritional superstar you need in your diet",
-      "description": "Asparagus has been valued since ancient times by civilizations like the Egyptians, Greeks and Romans for its culinary appeal and medicinal properties. It later became popular across Europe and North America. Rich in vitamins (K, C, A, E), minerals (iron, zinc…",
-      "url": "https://www.naturalnews.com/2025-08-06-asparagus-nutritional-superstar-you-need-to-eat.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Close-Up-Asparagus-Tips.jpg",
-      "publishedAt": "2025-08-06T06:00:00Z",
-      "content": "<ul><li>Asparagus has been valued since ancient times by civilizations like the Egyptians, Greeks and Romans for its culinary appeal and medicinal properties. It later became popular across Europe an… [+8797 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "New Jersey secures record $2 billion PFAS settlement with DuPont, Chemours and Corteva",
-      "description": "New Jersey reached a $2 billion agreement with DuPont, Chemours and Corteva to address PFAS (“forever chemicals”) contamination – the largest environmental settlement in state history. The deal includes $875 million over 25 years for natural resource restorat…",
-      "url": "https://www.naturalnews.com/2025-08-06-nj-secures-pfas-settlement-with-chemical-companies.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/dollars.jpg",
-      "publishedAt": "2025-08-06T06:00:00Z",
-      "content": "<ul><li>New Jersey reached a $2 billion agreement with DuPont, Chemours and Corteva to address PFAS (\"forever chemicals\") contamination the largest environmental settlement in state history.</li><li>… [+5452 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Bill Marler",
-      "title": "Publisher’s Platform: Secretary Kennedy and Commissioner Makary, live up to ‘Radical Transparency’ or even just transparency",
-      "description": "— OPINION — I mailed this letter to Secretary Kennedy and Commissioner Makary – two weeks ago – still no response. Full letter: https://www.marlerblog.com/files/2025/06/Draft-FOIA-Exemption-4-Letter-6.17.25-FINAL.pdf  Dear Secretary Kennedy and Commissioner M…",
-      "url": "https://www.foodsafetynews.com/2025/08/secretary-kennedy-and-commissioner-makary-live-up-to-radical-transparency-or-even-transparency/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/099/980/681/ZwVbKlDe9Y8Z7lwn68moa3jPM/6dc8b65d85e65d95749de3fa5ce0c3afc990fd16.png",
-      "publishedAt": "2025-08-06T04:05:00Z",
-      "content": "— OPINION —\r\nI mailed this letter to Secretary Kennedy and Commissioner Makary – two weeks ago – still no response.\r\nFull letter: https://www.marlerblog.com/files/2025/06/Draft-FOIA-Exemption-4-Lette… [+21934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Potato Salad Recall Map Shows New Warning Issued in 5 States",
-      "description": "Multiple recalls have been initiated this year due to the potential of damaged products, foodborne illness, contamination and undeclared food allergens.",
-      "url": "https://biztoc.com/x/d1e37d2d10110fcf",
-      "urlToImage": "https://biztoc.com/cdn/950/og.png",
-      "publishedAt": "2025-08-06T02:04:44Z",
-      "content": "Multiple recalls have been initiated this year due to the potential of damaged products, foodborne illness, contamination and undeclared food allergens.\r\nThis story appeared on newsweek.com, 2025-08-… [+11 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Potato Salad Recall Map Shows New Warning Issued in 5 States",
-      "description": "Multiple recalls have been initiated this year due to the potential of damaged products, foodborne illness, contamination and undeclared food allergens.",
-      "url": "https://www.newsweek.com/potato-salad-recall-map-shows-new-warning-issued-5-states-2109408",
-      "urlToImage": "https://d.newsweek.com/en/full/2697224/potato-salad-recall.jpg",
-      "publishedAt": "2025-08-06T02:04:29Z",
-      "content": "Hans Kissle is recalling its Red Potato Bliss Salad due to an undeclared wheat allergen discovered in a labeling error.\r\nNewsweek reached out to the company for comment via phone on Tuesday night and… [+3191 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "MarketsandMarkets Research Pvt. Ltd.",
-      "title": "Nonwoven Fabrics Market worth $72.21 billion by 2030, at a CAGR of 5.7%, says MarketsandMarkets™",
-      "description": "Delray Beach, FL, Aug. 05, 2025 (GLOBE NEWSWIRE) -- The Nonwoven Fabrics Market is anticipated to grow from USD 54.73 billion in 2025 to USD 72.21 billion in 2030, at a CAGR of 5.7%, as per the recent study by MarketsandMarkets™. The nonwoven fabric market is…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/06/3127994/0/en/Nonwoven-Fabrics-Market-worth-72-21-billion-by-2030-at-a-CAGR-of-5-7-says-MarketsandMarkets.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
-      "publishedAt": "2025-08-06T00:30:00Z",
-      "content": "Delray Beach, FL, Aug. 05, 2025 (GLOBE NEWSWIRE) -- The Nonwoven Fabrics Market is anticipated to grow from USD 54.73 billion in 2025 to USD 72.21 billion in 2030, at a CAGR of 5.7%, as per the recen… [+8416 chars]"
     }
   ],
   "totalResults": 91,
