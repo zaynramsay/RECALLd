@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-13T02:04:16.978Z",
+  "lastUpdated": "2025-08-13T06:38:17.064Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Eggplant: The humble superfood that can boost your antioxidant defenses",
+      "description": "Eggplant is low in calories but rich in fiber, vitamins, minerals and antioxidants like nasunin and anthocyanins, supporting heart health, digestion and cell protection. Native to India and Southeast Asia, eggplant has been cultivated for over 2,000 years and…",
+      "url": "https://www.naturalnews.com/2025-08-12-eggplant-humble-superfood-boost-your-antioxidant-defenses.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Eggplant-Farm-Crop-Vine.jpg",
+      "publishedAt": "2025-08-12T06:00:00Z",
+      "content": "<ul><li>Eggplant is low in calories but rich in fiber, vitamins, minerals and antioxidants like nasunin and anthocyanins, supporting heart health, digestion and cell protection.</li><li>Native to Ind… [+6494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "USDA, EPA greenlight RNA food tech amid calls for transparency",
+      "description": "The EPA approved dsRNA pesticide Ledprona in 2023 to target Colorado potato beetles, claiming it’s “safe” but with limited long-term testing. Florida lawmakers are pushing a bill to ban mRNA vaccines in crops, citing threats to consumer choice and health. Sta…",
+      "url": "https://www.naturalnews.com/2025-08-12-usda-epa-greenlight-rna-food-tech.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/GMO-food-and-chemicals-in-vegetables-concept-1.jpg",
+      "publishedAt": "2025-08-12T06:00:00Z",
+      "content": "<ul><li>The EPA approved dsRNA pesticide Ledprona in 2023 to target Colorado potato beetles, claiming its safe but with limited long-term testing.</li><li>Florida lawmakers are pushing a bill to ban … [+5722 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -138,7 +164,7 @@
       },
       "author": "Paolo Bicchieri",
       "title": "This Gluten-Free Bakery Is a Nostalgic Powerhouse",
-      "description": "The town of Springfield, Oregon — about two hours from Portland and 10 minutes from Eugene �� is actually the pastiche of what one might expect a town that happens to share its name with that town made famous in the Simpsons. Not a ton going on. One Main Stree…",
+      "description": "The town of Springfield, Oregon — about two hours from Portland and 10 minutes from Eugene — is actually the pastiche of what one might expect a town that happens to share its name with that town made famous in the Simpsons. Not a ton going on. One Main Stree…",
       "url": "https://pdx.eater.com/openings/105406/estelle-bakery-opening-springfield-eugene",
       "urlToImage": "https://platform.pdx.eater.com/wp-content/uploads/sites/29/2025/08/IMG_6182.jpg?quality=90&strip=all&crop=0%2C25.011002476715%2C100%2C39.267015706806&w=1200",
       "publishedAt": "2025-08-11T16:33:55Z",
@@ -480,7 +506,7 @@
       "url": "https://en.antaranews.com/news/372413/bpom-revokes-permits-for-21-cosmetics-over-mislabeling",
       "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/02/21/20250221_153337.jpg",
       "publishedAt": "2025-08-09T17:33:21Z",
-      "content": "Jakarta (ANTARA) - The Food and Drug Authority (BPOM) has canceled the distribution permits for 21 cosmetic products whose contents do not match the information on their packaging.In a statement rele��� [+2347 chars]"
+      "content": "Jakarta (ANTARA) - The Food and Drug Authority (BPOM) has canceled the distribution permits for 21 cosmetic products whose contents do not match the information on their packaging.In a statement rele… [+2347 chars]"
     },
     {
       "source": {
@@ -1170,32 +1196,6 @@
       "urlToImage": "https://focus.independent.ie/thumbor/kUI3oeBzZ2uVFLU5xRXVrJ3U2H0=/1x0:3236x2157/629x0/prod-mh-ireland/f00240b4-080a-475f-bb4d-485d69223b1d/b63fdccd-0aa0-48dc-8f9c-fd9c5f0239e9/f00240b4-080a-475f-bb4d-485d69223b1d.jpg",
       "publishedAt": "2025-08-07T04:30:00Z",
       "content": "Clothing, food packaging, cleaning products are you unknowingly absorbing, eating, and inhaling tiny pieces of plastic every day?\r\nThe term microplastic was first used in 2004 to describe small parti… [+371 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Ice Cream Recall Map Shows States With New Warning",
-      "description": "People with a wheat or soy allergy could experience a \"serious or life-threatening\" reaction if they consume the product.",
-      "url": "https://www.newsweek.com/ice-cream-recall-map-shows-states-new-warning-2110000",
-      "urlToImage": "https://d.newsweek.com/en/full/2698002/friendlys-ice-cream.jpg",
-      "publishedAt": "2025-08-07T02:39:57Z",
-      "content": "DFA Dairy Brands, LLC, is recalling the Friendly's brand of Cookies &amp; Cream ice cream due to undeclared soy and wheat concerns.\r\nNewsweek reached out to the company via email on Wednesday for com… [+3202 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Dubai brand chocolate recalled in Canada over Salmonella risk amid pistachio outbreak",
-      "description": "A popular Dubai brand Pistachio & Knafeh Milk Chocolate bar has been recalled in parts of Canada due to potential Salmonella contamination. The recall, initiated by Distribution Bonbons JJ Candy and triggered by test results, follows a broader national salmon…",
-      "url": "https://economictimes.indiatimes.com/news/international/canada/dubai-brand-chocolate-recalled-in-canada-over-salmonella-risk-amid-pistachio-outbreak/articleshow/123154239.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123154231,width-1200,height-630,imgsize-1467910,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-07T02:24:51Z",
-      "content": "A popular chocolate bar with ties to viral food trends has been recalled across parts of Canada due to concerns over Salmonella contamination, according to the Canadian Food Inspection Agency (CFIA).… [+2554 chars]"
     }
   ],
   "totalResults": 92,
