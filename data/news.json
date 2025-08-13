@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-08-12T18:37:38.406Z",
+  "lastUpdated": "2025-08-13T02:04:16.978Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": "Priyanjana Pramanik",
+      "title": "Microplastics found in all popular UK drinks, with hot beverages worst offenders",
+      "description": "Researchers found microplastics in every hot and cold beverage tested in the UK, with higher levels in hot drinks and packaging as the main source. Beverage consumption was shown to significantly increase daily microplastic intake beyond water-only estimates.",
+      "url": "https://www.news-medical.net/news/20250811/Microplastics-found-in-all-popular-UK-drinks-with-hot-beverages-worst-offenders.aspx",
+      "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_816524_1754958855548843.jpg",
+      "publishedAt": "2025-08-12T00:37:28Z",
+      "content": "From your morning tea to a cold soft drink, UK beverages carry hidden microplastic loads, and hot drinks could be giving you an even bigger dose.\r\nStudy: Synthetic microplastics in hot and cold bever… [+7597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Urgent Friendly’s ice cream recall affects 3 states now",
+      "description": "Friendly’s Ice Cream has triggered an urgent product recall across three states after a dangerous packaging error that could endanger lives. The company discovered that hundreds of Vanilla Bean ice cream cartons were accidentally filled with Cookies and Cream…",
+      "url": "https://rollingout.com/2025/08/11/friendlys-ice-recall-affects-3-states/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_1473084830-scaled.jpg",
+      "publishedAt": "2025-08-11T23:49:43Z",
+      "content": "Friendly’s Ice Cream has triggered an urgent product recall across three states after a dangerous packaging error that could endanger lives. The company discovered that hundreds of Vanilla Bean ice c… [+5735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Chocolate Recall Sparks Nationwide Warning to Customers",
+      "description": "Numerous recalls have been initiated this year due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.",
+      "url": "https://biztoc.com/x/95b2ca3a86bfab48",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-08-11T22:17:38Z",
+      "content": "Numerous recalls have been initiated this year due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.\r\nThis story appeared on newsweek.com, 2025-08… [+12 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Chocolate Recall Sparks Nationwide Warning to Customers",
+      "description": "Numerous recalls have been initiated this year due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.",
+      "url": "https://www.newsweek.com/chocolate-recall-sparks-nationwide-warning-2112040",
+      "urlToImage": "https://d.newsweek.com/en/full/2700688/neuhaus-chocolate.jpg",
+      "publishedAt": "2025-08-11T22:10:17Z",
+      "content": "Neuhaus Chocolates NV is recalling their Belgian Chocolate Moments Smurfs 'Popping Milk Chocolates with Cookies because the product contains wheat which was not declared on the packaging.\r\nNewsweek r… [+2977 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Dollar General Announces Voluntary Recall of Clover Valley® Instant Coffee Due to Potential Presence of Glass",
+      "description": "Goodlettsville, Tennessee – August 11, 2025 –Dollar General Corporation is recalling three (3) lots of its eight (8) ounce Clover Valley® Instant Coffee due to the potential presence of glass.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dollar-general-announces-voluntary-recall-clover-valleyr-instant-coffee-due-potential-presence-glass",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-08-11T21:55:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nAugust 11, 2025\r\nFDA Publish Date:\r\nAugust 12, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential presence… [+2775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BroBible"
+      },
+      "author": "Douglas Charles",
+      "title": "FDA Issues Warning About Hand Soap Potentially Causing ‘Life-Threatening’ Sepsis",
+      "description": "The U.S. Food and Drug Administration (FDA) has issued a nationwide recall of a specific brand of hand soap due to the risk of sepsis. The recall was issued for hand soaps manufactured and distributed by DermaRite Industries due to microbial contamination ide…",
+      "url": "https://brobible.com/culture/article/fda-warning-hand-soap-causing-sepsis/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/08/Bacteria-in-blood-flow-Bacteremia-or-Sepsis.jpg",
+      "publishedAt": "2025-08-11T20:40:53Z",
+      "content": "iStockphoto\r\nAudio By Carbonatix\r\nThe U.S. Food and Drug Administration (FDA) has issued a nationwide recall of a specific brand of hand soap due to the risk of sepsis. The recall was issued for hand… [+2115 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Mili Godio",
+      "title": "We tested over a dozen meal delivery services — these are the ones we recommend",
+      "description": "We asked experts for the best meal delivery services in 2025. These are the best meal kit services for everyone from Blue Apron, Home Chef, CookUnity and more.",
+      "url": "https://www.nbcnews.com/select/shopping/best-meal-delivery-services-rcna224305",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250807-meal-delivery-bd-main-4202d3.jpg",
+      "publishedAt": "2025-08-11T20:33:56Z",
+      "content": "If your weekly routine consists of struggling with dinner recipes or feeling overwhelmed by meal prep times, you may want to consider exploring a meal delivery service. These services send either pre… [+24616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Andrew Romano",
+      "title": "Hand soap recalled over bacterial contamination that could cause sepsis. Here’s a list of the affected products.",
+      "description": "DermaRite's recalled products were distributed throughout the United States and Puerto Rico.",
+      "url": "https://www.yahoo.com/news/us/article/hand-soap-recalled-over-bacterial-contamination-that-could-cause-sepsis-heres-a-list-of-the-affected-products-193618990.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VnE0Y1aD15vwfxA0_3RtOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b3e08a20-76e9-11f0-9ffb-75fb85bc5664",
+      "publishedAt": "2025-08-11T19:36:18Z",
+      "content": "Nearly four dozen lots of hand soap and lotion products made by DermaRite Industries are being voluntarily recalled after the company discovered contamination by potentially deadly bacteria, accordin… [+2626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Taylor Leamey",
+      "title": "8 Common Foods That Can Contain Microplastics and How to Avoid Them",
+      "description": "From rice to bottled water, you may be ingesting microplastics. However, there are some simple ways to minimize your exposure.",
+      "url": "https://www.cnet.com/health/nutrition/8-common-foods-that-can-contain-microplastics-and-how-to-avoid-them/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-08-11T19:09:00Z",
+      "content": "Microplastics aren't just an ocean pollution issue anymore. They're now a daily life, from diet to kitchen tools. Recent research shows that common foods, drinks and food storage containers may be de… [+11176 chars]"
+    },
     {
       "source": {
         "id": "breitbart-news",
@@ -21,7 +138,7 @@
       },
       "author": "Paolo Bicchieri",
       "title": "This Gluten-Free Bakery Is a Nostalgic Powerhouse",
-      "description": "The town of Springfield, Oregon — about two hours from Portland and 10 minutes from Eugene — is actually the pastiche of what one might expect a town that happens to share its name with that town made famous in the Simpsons. Not a ton going on. One Main Stree…",
+      "description": "The town of Springfield, Oregon — about two hours from Portland and 10 minutes from Eugene �� is actually the pastiche of what one might expect a town that happens to share its name with that town made famous in the Simpsons. Not a ton going on. One Main Stree…",
       "url": "https://pdx.eater.com/openings/105406/estelle-bakery-opening-springfield-eugene",
       "urlToImage": "https://platform.pdx.eater.com/wp-content/uploads/sites/29/2025/08/IMG_6182.jpg?quality=90&strip=all&crop=0%2C25.011002476715%2C100%2C39.267015706806&w=1200",
       "publishedAt": "2025-08-11T16:33:55Z",
@@ -194,7 +311,7 @@
       "url": "https://cleantechnica.com/2025/08/11/new-jersey-wins-2-billion-settlement-from-dupont-over-pfas-contamination/",
       "urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/06/PFAS.png",
       "publishedAt": "2025-08-11T04:13:11Z",
-      "content": "PFAS substances — per- and poly-fluoroalkyl substances — are commonly known as “forever chemicals��� because they do not break down naturally for hundreds or thousands of years. There are tens of thous… [+11286 chars]"
+      "content": "PFAS substances — per- and poly-fluoroalkyl substances — are commonly known as “forever chemicals” because they do not break down naturally for hundreds or thousands of years. There are tens of thous… [+11286 chars]"
     },
     {
       "source": {
@@ -363,7 +480,7 @@
       "url": "https://en.antaranews.com/news/372413/bpom-revokes-permits-for-21-cosmetics-over-mislabeling",
       "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/02/21/20250221_153337.jpg",
       "publishedAt": "2025-08-09T17:33:21Z",
-      "content": "Jakarta (ANTARA) - The Food and Drug Authority (BPOM) has canceled the distribution permits for 21 cosmetic products whose contents do not match the information on their packaging.In a statement rele… [+2347 chars]"
+      "content": "Jakarta (ANTARA) - The Food and Drug Authority (BPOM) has canceled the distribution permits for 21 cosmetic products whose contents do not match the information on their packaging.In a statement rele��� [+2347 chars]"
     },
     {
       "source": {
@@ -1079,138 +1196,8 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-123154231,width-1200,height-630,imgsize-1467910,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-08-07T02:24:51Z",
       "content": "A popular chocolate bar with ties to viral food trends has been recalled across parts of Canada due to concerns over Salmonella contamination, according to the Canadian Food Inspection Agency (CFIA).… [+2554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wattsupwiththat.com"
-      },
-      "author": "Eric Worrall",
-      "title": "Guardian Downgrades the Climate Crisis, Chemical Pollution a “Comparable” Threat",
-      "description": "Amazing how many other problems are just as important as the crisis of our time.",
-      "url": "https://wattsupwiththat.com/2025/08/06/guardian-downgrades-the-climate-crisis-chemical-pollution-a-comparable-threat/",
-      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2021/10/61259013_twitter-post.jpg?fit=1024%2C512&ssl=1",
-      "publishedAt": "2025-08-07T01:00:00Z",
-      "content": "Essay by Eric Worrall\r\nAmazing how many other problems are just as important as the crisis of our time. \r\nChemical pollution a threat comparable to climate change, scientists warn\r\nMore than 100 mill… [+2713 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "msmash",
-      "title": "Chemical Pollution a Threat Comparable To Climate Change, Scientists Warn",
-      "description": "Chemical pollution is \"a threat to the thriving of humans and nature of a similar order as climate change\" but decades behind global heating in terms of public awareness and action, a report has warned. The Guardian: The industrial economy has created more th…",
-      "url": "https://news.slashdot.org/story/25/08/06/2016214/chemical-pollution-a-threat-comparable-to-climate-change-scientists-warn",
-      "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
-      "publishedAt": "2025-08-06T21:21:00Z",
-      "content": "The industrial economy has created more than 100 million \"novel entities,\" or chemicals not found in nature, with somewhere between 40,000 and 350,000 in commercial use and production, the report say… [+812 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Post"
-      },
-      "author": "National Post Staff",
-      "title": "Salmonella outbreak, with 9 hospitalized in Canada, linked to pistachios",
-      "description": "Nine people have been hospitalized since March after eating pistachios or products containing pistachios, the federal government says.",
-      "url": "https://nationalpost.com/news/canada/salmonella-outbreak-pistachios-canada",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/08/gettyimages-506288234.co_282952582.jpg",
-      "publishedAt": "2025-08-06T17:28:19Z",
-      "content": "Nine people have been hospitalized and dozens more became sick with salmonella in Canada after consuming pistachios or products containing pistachios.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS\r\nEnjoy… [+5570 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Salon"
-      },
-      "author": "Francesca Giangiulio",
-      "title": "Sam’s Club fruit recall hits 42 states",
-      "description": "Officials warn the fruit snack may contain listeria, a bacteria linked to a deadly outbreak earlier this year",
-      "url": "https://www.salon.com/2025/08/06/sams-club-fruit-recall-hits-42-states/",
-      "urlToImage": "https://www.salon.com/app/uploads/2025/08/GettyImages-1472379442.jpg",
-      "publishedAt": "2025-08-06T16:40:35Z",
-      "content": "Before you reach for your snack drawer, you might want to do a double take. A popular summer snack has just been recalled.\r\nMembers Mark Freeze-Dried Fruit Variety Packs from Sams Club have been reca… [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Water Treatment Ozone Generator Market Analysis 2025-2034: Featuring Chemtronics, Lenntech Water Treatment, Mitsubishi Electric, Ozone Solutions, Ozonetek, Primozone, SUEZ, Toshiba, Veolia and More",
-      "description": "Eco-Friendly Ozone Generators Surge Amidst Water Quality Standards, Tech Advancements Eco-Friendly Ozone Generators Surge Amidst Water Quality Standards, Tech Advancements",
-      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128526/28124/en/Water-Treatment-Ozone-Generator-Market-Analysis-2025-2034-Featuring-Chemtronics-Lenntech-Water-Treatment-Mitsubishi-Electric-Ozone-Solutions-Ozonetek-Primozone-SUEZ-Toshiba-Veolia-.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-08-06T16:18:00Z",
-      "content": "Dublin, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The \"Water Treatment Ozone Generator Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025-2034\" has been added to ResearchAndMarket… [+6340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Caroline Cubbin",
-      "title": "Hazardous bacterial bloom hitting US lakes is a danger to people and pets, officials warn",
-      "description": "\"If you see scum, keep your pets and yourself out of the water.\"",
-      "url": "https://nypost.com/2025/08/06/lifestyle/hazardous-bacterial-bloom-hitting-us-lakes-is-a-danger-to-people-and-pets-officials/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/shore-stones-small-vegetation-sandy-109276100.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-08-06T15:16:57Z",
-      "content": "No need for vacationers to test the waters here, experts say. \r\nThe summer vacation spoiler has been identified as a cyanobacterial bloom and the National Centers for Coastal Ocean Science (NCCOS) sa… [+2643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "CNBC",
-      "title": "I’m a neurologist—to keep my brain safe and healthy, I never eat these 4 foods",
-      "description": "Doctors will often tell you to avoid processed foods or foods that contain high amounts of sugar or saturated fat. Their advice is sound, since consuming these foods frequently can increase your risk of developing chronic diseases, including neurological cond…",
-      "url": "https://freerepublic.com/focus/f-chat/4333011/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-08-06T14:54:12Z",
-      "content": "Skip to comments.\r\nIm a neurologistto keep my brain safe and healthy, I never eat these 4 foods\r\nCNBC ^\r\n | August 05, 2025\r\n | Dr. Baibing Chen, Contributor\r\nPosted on 08/06/2025 7:54:12 AM PDT by R… [+8037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Nationwide Sweetener Recall Update As FDA Issues Risk Warning",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of two sweetener products after a mislabeling error has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\nNuNaturals, Inc., based in Eugene, Oregon, initiated…",
-      "url": "https://biztoc.com/x/7e6ff55ea73c5add",
-      "urlToImage": "https://biztoc.com/cdn/7e6ff55ea73c5add_s.webp",
-      "publishedAt": "2025-08-06T14:34:56Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of two sweetener products after a mislabeling error has been issued the second-highest risk warning by the U.S. Food and Drug Administration … [+139 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "Nationwide Sweetener Recall Update As FDA Issues Risk Warning",
-      "description": "NuNaturals, Inc. initiated a voluntary recall for select lots of its Organic Pure Stevia and Pure Monk Fruit Sweetener on July 14 because of a labelling error.",
-      "url": "https://www.newsweek.com/sweetener-recall-nationwide-fda-issues-second-highest-risk-warning-2109689",
-      "urlToImage": "https://d.newsweek.com/en/full/2697597/sweetener.jpg",
-      "publishedAt": "2025-08-06T14:30:34Z",
-      "content": "A recall of two sweetener products after a mislabeling error has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nNuNaturals, Inc., based in Eugene, Oregon… [+2453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Aseptic Filling Machine Market Size Projected to Attain USD 3.18 Bn by 2034 says Healthcare Specialist",
-      "description": "The global aseptic filling machine market size is calculated at USD 1.97 billion in 2025 and is expected to reach around USD 3.18 billion by 2034, growing at a CAGR of 5.45% for the forecasted period. The global aseptic filling machine market size is calculat…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128436/0/en/Aseptic-Filling-Machine-Market-Size-Projected-to-Attain-USD-3-18-Bn-by-2034-says-Healthcare-Specialist.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-08-06T14:00:00Z",
-      "content": "Ottawa, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The global aseptic filling machine market size was valued at USD 1.87 billion in 2024 and is predicted to hit around USD 3.18 billion by 2034, a study publis… [+20820 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 92,
   "filteredCount": 0
 }
