@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-08-13T18:35:46.038Z",
+  "lastUpdated": "2025-08-14T02:04:32.422Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Caitlin McCormack",
+      "title": "2 dead, 14 hospitalized after eating tainted sausage and turnip top sandwiches in Italy",
+      "description": "One of the victims was sent home from the hospital after complaining he still wasn't feeling well and later died, his sister said.",
+      "url": "https://nypost.com/2025/08/12/world-news/2-dead-14-hospitalized-after-eating-tainted-sausage-and-turnip-top-sandwiches-in-italy/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/Comp-Two-die.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-08-12T21:59:42Z",
+      "content": "Two people died and 14 others, including two teenagers, were hospitalized after eating sausage and turnip top paninis from a food truck in southwest Italy linked to the country’s second toxic botulis… [+2408 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Mary  Cunningham",
+      "title": "DermaRite recalls antiseptic soaps and topical lotion due to infection risk",
+      "description": "DermaRite Industries announced​ on Friday that it was voluntarily recalling three skin-cleansing products and an anti-itch lotion over microbial contamination concerns.",
+      "url": "https://www.cbsnews.com/news/recall-contamination-dermarite-antiseptic-soap-lotion-burkholderia/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/12/20d2122b-4de6-4dc6-9f7a-a410ec481370/thumbnail/1200x630/4804f34f8c72b98c29eb3348c45d7a0f/image-3-76.jpg",
+      "publishedAt": "2025-08-12T21:19:19Z",
+      "content": "A U.S. company that makes health care products is recalling four over-the-counter skin cleansers and an anti-itch lotion it says could lead to \"serious and life-threatening infections.\" \r\nNew Jersey-… [+2254 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Andrew Stanton",
+      "title": "Weed Recall Issued for Thousands of Products Over Health Risk",
+      "description": "More than 26,000 cannabis products have been recalled across Michigan.",
+      "url": "https://www.newsweek.com/weed-recall-issued-michigan-mct-oil-2112553",
+      "urlToImage": "https://d.newsweek.com/en/full/2701270/marijuana-recall-michigan.jpg",
+      "publishedAt": "2025-08-12T20:34:38Z",
+      "content": "More than 20,000 cannabis products have been recalled in Michigan over health concerns, the state's Cannabis Regulatory Agency (CRA) announced on Tuesday.\r\nNewsweek reached out to the Michigan CRA fo… [+2827 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "See you in court! Trump targets Fed Chair Jerome Powell with massive lawsuit threat",
+      "description": "Donald Trump lawsuit Jerome Powell: Donald Trump is threatening a lawsuit against Federal Reserve Chair Jerome Powell over a $3 billion renovation project he deems \"horrible and grossly incompetent.\" Trump claims the project should have cost only $50 million.…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/donald-trump-lawsuit-jerome-powell-news-trump-targets-fed-chair-jerome-powell-with-massive-lawsuit-threat/articleshow/123262712.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123262675,width-1200,height-630,imgsize-68308,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-12T18:51:35Z",
+      "content": "Donald Trump lawsuit Jerome Powell: US president Donald Trump is once again turning up the heat on Federal Reserve Chair Jerome Powell, this time threatening a major lawsuit over what he calls a \"hor… [+3603 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -77,7 +129,7 @@
       "url": "https://abcnews.go.com/GMA/Wellness/hand-soaps-cleansers-voluntarily-recalled-due-bacteria-contamination/story?id=124573121",
       "urlToImage": "https://i.abcnewsfe.com/a/8525e3ff-7ea7-4865-a489-16634f973e43/dermarite-recall-2-ht-gmh-250812_1755005571198_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-08-12T17:04:33Z",
-      "content": "A New Jersey-based medical care and skin care products manufacturer is voluntarily recalling multiple types of hand soap, cleanser and antiseptic products due to bacteria contamination.\r\nDermaRite In… [+2750 chars]"
+      "content": "A New Jersey-based medical care and skin care products manufacturer is voluntarily recalling multiple types of hand soap, cleanser and antiseptic products due to bacteria contamination.\r\nDermaRite In��� [+2750 chars]"
     },
     {
       "source": {
@@ -500,7 +552,7 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Ángel Rodríguez-Hernández, Norberto Ruiz-Suárez, Luis Alberto Henríquez-Hernández, Ricardo Díaz-Díaz, Manuel Zumbado, María del Mar Bernal Suárez, Pablo Alonso-González, Eva Parga-Dans, Octavio P. Luzardo",
+      "author": "Ángel Rodríguez-Hernández, Norberto Ruiz-Suárez, Luis Alberto Henríquez-Hern��ndez, Ricardo Díaz-Díaz, Manuel Zumbado, María del Mar Bernal Suárez, Pablo Alonso-González, Eva Parga-Dans, Octavio P. Luzardo",
       "title": "Bananas in the aftermath of La Palma volcanic eruption (Canary Islands, Spain): A study on the nutritional and toxic element composition of post-disaster production",
       "description": "The 2021 Tajogaite eruption on La Palma devastated banana production, a key crop, with a 50% loss (53,000 tons). Concerned about potential contamination from volcanic ash and magma, we investigated the elemental composition of bananas from the eruption area a…",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328982",
@@ -1169,58 +1221,6 @@
       "url": "https://www.the-independent.com/life-style/monk-fruit-stevia-nunaturals-sweetener-recall-fda-warning-b2804166.html",
       "urlToImage": "https://static.the-independent.com/2025/06/16/00/13144240-a2b729bf-1d77-407b-875a-2db2e7b0c176.jpg?width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-08-08T05:45:48Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3180 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Joseph Dunstan",
-      "title": "Watch Erin Patterson's police interview about deadly mushroom lunch",
-      "description": "A police interview given by Erin Patterson after she murdered her relatives with a meal laced by poisonous death cap mushrooms has been released by Victoria's Supreme Court.",
-      "url": "https://www.abc.net.au/news/2025-08-08/erin-patterson-police-interview-death-cap-mushroom-trial/105498228",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/403f1d0cfd15ee1ebe9c924bafe281b0?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-08-08T05:07:44Z",
-      "content": "A week after Erin Patterson hosted her in-laws for a beef Wellington lunch, she sat in a room at Wonthaggi Police Station to speak to two police officers.\r\nThey'd just searched her Leongatha home, se… [+8999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Idaho State Journal"
-      },
-      "author": "Taylor S. Calder Tcalder@journalnet.com",
-      "title": "Water boil advisory issued in Chubbuck after broken main line on Hawthorne Road",
-      "description": "CHUBBUCK — City residents must boil their tap water before drinking or cooking after a water main break Thursday caused pressure to drop across Chubbuck's distribution system, raising contamination risks",
-      "url": "https://www.idahostatejournal.com/news/local/water-boil-advisory-issued-in-chubbuck-after-broken-main-line-on-hawthorne-road/article_c8d416c9-671b-4323-b744-62a91f700e9f.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/a/03/a03fc625-fa43-44be-90e8-23194ceb99ad/68952d74d4ce6.image.jpg?crop=1024%2C538%2C0%2C115",
-      "publishedAt": "2025-08-08T01:05:35Z",
-      "content": "CHUBBUCK City residents must boil their tap water before drinking or cooking after a water main break Thursday caused pressure to drop across Chubbuck's distribution system, raising contamination ris… [+2883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Royal Society of Chemistry"
-      },
-      "author": "Rai Kookana, Bo Sha, Jobriell C Baluyot, Karl Bowles, Melanie Kah, Lokesh P Padhye, Guang-Guo Ying, Divina Navarro, Michael Velarde, Christopher Higgins, Ian T Cousins",
-      "title": "Human exposure to per- and poly-fluoroalkyl substances (PFAS) in Asia and contributing factors, with a focus on east Asia",
-      "description": "Environ. Sci.: Processes Impacts, 2025, Accepted ManuscriptDOI: 10.1039/D5EM00396B, Critical ReviewRai Kookana, Bo Sha, Jobriell C Baluyot, Karl Bowles, Melanie Kah, Lokesh P Padhye, Guang-Guo Ying, Divina Navarro, Michael Velarde, Christopher Higgins, Ian T …",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/em/d5em00396b",
-      "urlToImage": null,
-      "publishedAt": "2025-08-07T23:00:00Z",
-      "content": "The production and use of PFAS in some countries, coupled with uncertainties about their applications across Asia, underscore the urgent need to assess human exposureparticularly beyond China, Japan,… [+2315 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Caitlin Hornik",
-      "title": "Popular sweetener recalled over labeling mix-up as FDA issues warning",
-      "description": "The recall was recently upgraded by the FDA, the latest in a string affecting consumers",
-      "url": "https://www.the-independent.com/life-style/nunaturals-sweetener-recall-fda-warning-b2803973.html",
-      "urlToImage": "https://static.the-independent.com/2025/06/16/00/13144240-a2b729bf-1d77-407b-875a-2db2e7b0c176.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-08-07T20:57:02Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3180 chars]"
     }
   ],
