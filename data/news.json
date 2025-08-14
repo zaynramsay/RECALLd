@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-08-14T06:38:44.304Z",
+  "lastUpdated": "2025-08-14T12:54:52.210Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Chang He, Professor of environmental sciences, The University of Queensland",
+      "title": "How to improve the monitoring of chemical contaminants in the human body",
+      "description": "We are exposed to countless chemicals every day, some of which can harm our health. Measuring the effects of this pollution is a major challenge.",
+      "url": "https://theconversation.com/how-to-improve-the-monitoring-of-chemical-contaminants-in-the-human-body-233255",
+      "urlToImage": "https://images.theconversation.com/files/684885/original/file-20250811-56-yej1a0.jpg?ixlib=rb-4.1.0&rect=0%2C11%2C1920%2C960&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-08-13T12:27:32Z",
+      "content": "From pesticides in our food to hormone disruptors in our kitchen pans, modern life is saturated with chemicals, exposing us to unknown long-term health impacts.\n\nOne of the surest routes to quantifyi… [+6992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "Benjamin Lee, Rahimy Rahim, Allison Lai",
+      "title": "Special select committee sets October hearing on Kelantan river contamination",
+      "description": "KUALA LUMPUR: A special select Parliamentary committee hearing on severe river contamination near an Orang Asli village in Kelantan will be held in October. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/13/special-select-committee-sets-october-hearing-on-kelantan-river-contamination",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-08-13T08:53:00Z",
+      "content": "KUALA LUMPUR: A special select Parliamentary committee hearing on severe river contamination near an Orang Asli village in Kelantan will be held in October.\r\nThe affected village - Kampung Kelaik in … [+909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
+      "title": "[Latest] Global Stainless Steel Scrap Market Size/Share Worth USD 70.84 Billion by 2034 at a 7.01% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "description": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Stainless Steel Scrap Market size & share revenue was valued at approximately USD 35.98 Billion in 2024 and is expected to reach…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/13/3132336/0/en/Latest-Global-Stainless-Steel-Scrap-Market-Size-Share-Worth-USD-70-84-Billion-by-2034-at-a-7-01-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmenta.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
+      "publishedAt": "2025-08-13T08:30:00Z",
+      "content": "Austin, TX, USA, Aug. 13, 2025 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled Stainless Steel Scrap Market Size, Trends and Insights By Scrap Type (Austenitic 3… [+33904 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Plastic in Cadbury chocolate? Company recalls its popular product amid concerns; what you need to know",
+      "description": "Cadbury Australia has recalled its Marvellous Creations chocolate. This recall is due to potential plastic contamination. The affected product is the 160g share bag with a May 26, 2026, use-by date. Consumers are advised not to eat the chocolate. They should …",
+      "url": "https://economictimes.indiatimes.com/news/international/australia/plastic-in-cadbury-chocolate-company-recalls-its-popular-products-amid-concerns-what-you-need-to-know/articleshow/123275210.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123275273,width-1200,height-630,imgsize-827171,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-13T07:47:48Z",
+      "content": "A highly popular Cadbury chocolate across Australia has been recalled amid concerns about the presence of foreign matter (plastic). Food Standards Australia announced the recall of the 10-piece share… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Gretchen McKay",
+      "title": "Cheeseburger rice paper spirals offer tasty gluten-free option",
+      "description": "Recipes for the culinary creation dubbed the \"Big Mac Spiral\" have been making the rounds on social media for a while.",
+      "url": "https://www.bostonherald.com/2025/08/13/cheeseburger-rice-paper-spirals-offer-tasty-gluten-free-option/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/STP-Z-SPIRALS-01.jpg?w=992&h=794",
+      "publishedAt": "2025-08-13T07:25:57Z",
+      "content": "Fast food burgers hit the spot on road trips and when youre pressed for time. But given most sandwich buns are made with wheat, there often arent a lot of options for those with gluten allergies.\r\nTh… [+4135 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -552,7 +617,7 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Ángel Rodríguez-Hernández, Norberto Ruiz-Suárez, Luis Alberto Henríquez-Hern��ndez, Ricardo Díaz-Díaz, Manuel Zumbado, María del Mar Bernal Suárez, Pablo Alonso-González, Eva Parga-Dans, Octavio P. Luzardo",
+      "author": "Ángel Rodríguez-Hernández, Norberto Ruiz-Suárez, Luis Alberto Henríquez-Hernández, Ricardo Díaz-Díaz, Manuel Zumbado, María del Mar Bernal Suárez, Pablo Alonso-González, Eva Parga-Dans, Octavio P. Luzardo",
       "title": "Bananas in the aftermath of La Palma volcanic eruption (Canary Islands, Spain): A study on the nutritional and toxic element composition of post-disaster production",
       "description": "The 2021 Tajogaite eruption on La Palma devastated banana production, a key crop, with a 50% loss (53,000 tons). Concerned about potential contamination from volcanic ash and magma, we investigated the elemental composition of bananas from the eruption area a…",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328982",
@@ -644,10 +709,10 @@
         "name": "Mercola.com"
       },
       "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Weekly Health Quiz: SSRI Use During Pregnancy, MCCPs in Your Body, and Water Contamination Risks",
-      "description": "1 Beyond heart-related effects, what other concerns are linked to SSRI use during pregnancy?\r\n\n<ul>\n<li>Deteriorating maternal psychological and emotional vulnerability</li>\n<li>Lowered blood pressure in the fetus</li>\n<li>Brain development problems and seizu…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/08/11/weekly-health-quiz-35.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/weekly-health-quiz-fb.jpg",
+      "title": "New ‘Dirty Dozen’ List Warns About Rising Pesticide Residue in Common Produce",
+      "description": "The Environmental Working Group (EWG) has recently released the 2025 Shopper’s Guide to Pesticides in Produce™, which analyzes popular fruit and vegetables and ranks them according to their pesticide contamination and toxicity. This year’s list has a couple o…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/08/11/2025-dirty-dozen-list-high-pesticide.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/August/FB/dirty-dozen-list-high-pesticide-fb.jpg",
       "publishedAt": "2025-08-11T00:00:00Z",
       "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     },
@@ -657,10 +722,10 @@
         "name": "Mercola.com"
       },
       "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "New ‘Dirty Dozen’ List Warns About Rising Pesticide Residue in Common Produce",
-      "description": "The Environmental Working Group (EWG) has recently released the 2025 Shopper’s Guide to Pesticides in Produce™, which analyzes popular fruit and vegetables and ranks them according to their pesticide contamination and toxicity. This year’s list has a couple o…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/08/11/2025-dirty-dozen-list-high-pesticide.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/August/FB/dirty-dozen-list-high-pesticide-fb.jpg",
+      "title": "Weekly Health Quiz: SSRI Use During Pregnancy, MCCPs in Your Body, and Water Contamination Risks",
+      "description": "1 Beyond heart-related effects, what other concerns are linked to SSRI use during pregnancy?\r\n\n<ul>\n<li>Deteriorating maternal psychological and emotional vulnerability</li>\n<li>Lowered blood pressure in the fetus</li>\n<li>Brain development problems and seizu…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/08/11/weekly-health-quiz-35.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/weekly-health-quiz-fb.jpg",
       "publishedAt": "2025-08-11T00:00:00Z",
       "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     },
@@ -1170,60 +1235,8 @@
       "urlToImage": "https://i2.wp.com/opiniojuris.org/wp-content/uploads/Environment.jpg?fit=800%2C600",
       "publishedAt": "2025-08-08T10:00:38Z",
       "content": "[Donna Cline is a US-licensed criminal practitioner and lead for the Environment Mobile Justice Team at Global Rights Compliance, where she works closely with Ukrainian prosecutors to ensure accounta… [+11179 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "Mushroom contamination: What it means for your health and what it says about the food system",
-      "description": "Enoki and other mushroom products sold in Michigan, New York and Ohio were pulled from shelves due to potential Listeria monocytogenes contamination, a dangerous foodborne bacterium. Listeria can cause serious illness, especially in pregnant individuals, newb…",
-      "url": "https://www.naturalnews.com/2025-08-08-what-mushroom-contamination-means-for-your-health.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Man-holding-basket-full-of-mushrooms-1.jpg",
-      "publishedAt": "2025-08-08T06:00:00Z",
-      "content": "<ul><li>Enoki and other mushroom products sold in Michigan, New York and Ohio were pulled from shelves due to potential Listeria monocytogenes contamination, a dangerous foodborne bacterium.</li><li>… [+6613 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ava Grace",
-      "title": "California wild hogs turn NEON BLUE, exposing hidden dangers of pesticide contamination",
-      "description": "Wild pigs in Monterey County, CA, exhibit bright blue flesh due to ingesting diphacinone, a blue-dyed anticoagulant rodenticide, raising concerns about food chain contamination. The poison spreads through the food chain, affecting not only pigs but also bears…",
-      "url": "https://www.naturalnews.com/2025-08-08-california-wild-hogs-turn-neon-blue-poison.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Pigs-Hogs-Piglets.jpg",
-      "publishedAt": "2025-08-08T06:00:00Z",
-      "content": "<ul><li>Wild pigs in Monterey County, CA, exhibit bright blue flesh due to ingesting diphacinone, a blue-dyed anticoagulant rodenticide, raising concerns about food chain contamination.</li><li>The p… [+4477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Food Robotics Market Size to Hit USD 10.00 Billion by 2032, at 20.64% CAGR | Research by SNS Insider",
-      "description": "Food Robotics Market growth is driven by automation to meet processed food demand, address labor shortages, ensure hygiene and quality, and enable AI/IoTenabled flexible systems in packaging and processing. Food Robotics Market growth is driven by automation …",
-      "url": "https://www.globenewswire.com/news-release/2025/08/08/3129926/0/en/Food-Robotics-Market-Size-to-Hit-USD-10-00-Billion-by-2032-at-20-64-CAGR-Research-by-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-08-08T06:00:00Z",
-      "content": "Austin, Aug. 08, 2025 (GLOBE NEWSWIRE) -- Food Robotics Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider,The Food Robotics Market\r\n size was valued at USD 2.23 Billion in 2024 and is … [+7353 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Caitlin Hornik",
-      "title": "Popular sweetener recalled over labeling mix-up as FDA issues warning",
-      "description": "The recall was recently upgraded by the FDA, the latest in a string affecting consumers",
-      "url": "https://www.the-independent.com/life-style/monk-fruit-stevia-nunaturals-sweetener-recall-fda-warning-b2804166.html",
-      "urlToImage": "https://static.the-independent.com/2025/06/16/00/13144240-a2b729bf-1d77-407b-875a-2db2e7b0c176.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-08-08T05:45:48Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3180 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 95,
   "filteredCount": 0
 }
