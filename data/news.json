@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-08-15T12:51:14.926Z",
+  "lastUpdated": "2025-08-15T18:36:30.126Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Fromi USA Recalls Brie Royal Faucon 1kg Because of Possible Health Risk",
+      "description": "FROMI USA of New York, NY is recalling 12 Cases of Brie Royal Faucon 1kg, because they have the potential to be contaminated with Listeria monocytogenes",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromi-usa-recalls-brie-royal-faucon-1kg-because-possible-health-risk",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-08-14T16:00:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nAugust 14, 2025\r\nFDA Publish Date:\r\nAugust 14, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential contamin… [+1870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Anna Kaplan",
+      "title": "Wegmans Is Recalling 4 Cheese Products Due to Risk of Listeria Contamination",
+      "description": "Wegmans recalled its medium Camembert cheese and several products containing the cheese due to potential listeria contamination, the company said on Aug.",
+      "url": "https://www.today.com/health/recall/wegmans-cheese-recall-listeria-2025-rcna225003",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-08/wegmans-cheese-recalled-zz-250814-7f9737.jpg",
+      "publishedAt": "2025-08-14T15:59:07Z",
+      "content": "Wegmans recalled its medium Camembert cheese and several products containing the cheese due to potential listeria contamination, the company said on Aug. 12.\r\nThe grocery store recalled the Wegmans M… [+2237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Freeze-Thaw Bags Market Trends and Investment Opportunities to 2030 - Biotechnology and Food Storage Applications Lead the Industry",
+      "description": "The freeze-thaw bags market is propelled by the need for reliable cryogenic storage, especially in healthcare and logistics. Opportunities lie in material innovations, digitization, sustainability, and diverse distribution channels, catering to varied applica…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/14/3133624/28124/en/Freeze-Thaw-Bags-Market-Trends-and-Investment-Opportunities-to-2030-Biotechnology-and-Food-Storage-Applications-Lead-the-Industry.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-14T14:01:00Z",
+      "content": "Dublin, Aug. 14, 2025 (GLOBE NEWSWIRE) -- The \"Freeze-Thaw Bags Market by Product Type, Material Type, Configuration, System Integration, Capacity, Application, End User, Distribution Channel - Globa… [+10695 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Otter poop reveals they may be ecosystem engineers",
+      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
+      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Kelemu Yimenu Gebre, Abebe Girma Demissie, Aderajew Adgo Tesema, Habtamu Zegeye Belay, Mekashaw Worku Akalye, Agere Bereket Friew, Fisseha Getachew Baye, Habtie Bassie Felatie, Mezgebu Abunie Yohannes, Marye Alemu Eshetu, Wondye Ayalew Shiferaw",
+      "title": "Isolation, biochemical characterization, and greenhouse authentication of chickpea (Cicer arietinum L.) rhizobia collected from some major chickpea growing areas of Woldia, North Wollo, Ethiopia",
+      "description": "Chickpea (Cicer arietinum L.) is a vital legume crop worldwide, valued for its high nutritional content and significant contribution to food security and soil fertility through biological nitrogen fixation. Despite its importance, chickpea yields remain subop…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330169",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330169.g003&size=inline",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "Introduction\r\nChickpea (Cicer arietinum L.) is a major pulse crop cultivated globally, including in Ethiopia, where it plays a vital role in household nutrition, food security, and income generation.… [+51532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jacob W. Mobolaji, Akinola Shola Akinwumiju",
+      "title": "Geospatial assessment of household water, sanitation and hygiene conditions and associated factors in Nigeria: A causal relationship model",
+      "description": "Lack of adequate access to safe water, sanitation, and hygiene (WASH) has contributed to increased under-five mortality and morbidity of school-age children in low- and middle-income countries. Despite the global and national intervention programs, access to …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330167",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330167.g011&size=inline",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "Introduction\r\nWater, Sanitation, and Hygiene (WASH) play an essential role in public health, particularly in low- and middle-income countries (LMICs). According to the World Health Organisation (WHO)… [+60836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Why Dollar General’s Coffee recall has everyone worried",
+      "description": "Dollar General customers across nearly every state need to check their coffee cabinets immediately following a nationwide recall affecting three specific product lots. The retail giant announced Monday it’s pulling Clover Valley instant coffee from shelves du…",
+      "url": "https://rollingout.com/2025/08/14/why-dollar-generals-coffee-recall-has/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_2494192235-scaled.jpg",
+      "publishedAt": "2025-08-14T13:53:42Z",
+      "content": "Dollar General customers across nearly every state need to check their coffee cabinets immediately following a nationwide recall affecting three specific product lots.\r\nThe retail giant announced Mon… [+3998 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Bethany Heitman",
+      "title": "Hand soap recall: What you need to know",
+      "description": "Four hand soap formulas were recalled due to possible contamination with Burkholderia cepacia complex, a bacteria that may pose health risks. Here’s what to know.",
+      "url": "https://www.nbcnews.com/select/shopping/hand-soap-recall-rcna224873",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250813-hand-soap-recall-kb-main-48a3f8.jpg",
+      "publishedAt": "2025-08-14T13:50:38Z",
+      "content": "Hand soap has a basic but very necessary function: It needs to clean your hands and keep them free of bacteria. But one hand soap brand has just been recalled due to reports that it may actually be c… [+2638 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -216,7 +320,7 @@
       },
       "author": "thehill.com",
       "title": "Coffee recalled from Dollar General over glass contamination concerns",
-      "description": "Dollar General has issued a recall for three lots of its 8-ounce Clover Valley Instant Coffee due to the potential presence of glass fragments, according to the Food and Drug Administration (FDA).\nThe recall was issued Aug. 11 after a customer alerted Dollar ���",
+      "description": "Dollar General has issued a recall for three lots of its 8-ounce Clover Valley Instant Coffee due to the potential presence of glass fragments, according to the Food and Drug Administration (FDA).\nThe recall was issued Aug. 11 after a customer alerted Dollar …",
       "url": "https://biztoc.com/x/c699c08779f50021",
       "urlToImage": "https://biztoc.com/cdn/c699c08779f50021_s.webp",
       "publishedAt": "2025-08-13T17:52:38Z",
@@ -532,7 +636,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-hand-wash-products-sold-at-walmart-recalled-nationwide-over-life-threatening-risk-sepsis-what-should-you-do-if-you-bought-it/articleshow/123262972.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-123263037,width-1200,height-630,imgsize-228028,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-08-12T17:09:03Z",
-      "content": "A number of variety soaps sold in the US and in Puerto Rico have been voluntarily recalled after it was found they have been contaminated with life-threatening bacteria. A nationwide recall was issue… [+5619 chars]"
+      "content": "A number of variety soaps sold in the US and in Puerto Rico have been voluntarily recalled after it was found they have been contaminated with life-threatening bacteria. A nationwide recall was issue�� [+5619 chars]"
     },
     {
       "source": {
@@ -1183,99 +1287,8 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/woman-buying-fish-market-snapper.jpg",
       "publishedAt": "2025-08-09T20:43:29Z",
       "content": "Doctors recommend foods like berries, nuts, fish packed with omega-3 fatty acids and even dark chocolate for neurological health. They also discourage foods high in sugar and saturated fat, which can… [+4287 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rutherford Daily Voice"
-      },
-      "author": "Zak Failla",
-      "title": "Dangerous Bacteria Found in Popular Soaps: Nationwide Recall Hits US Homes, Hospitals",
-      "description": "A nationwide recall is in effect for dozens of soap and skincare products sold in homes, hospitals, and care facilities after tests revealed dangerous bacterial contamination, the US Food and Drug Ad…",
-      "url": "https://dailyvoice.com/md/bel-air/dangerous-bacteria-found-in-popular-soaps-nationwide-recall-hits-us-homes-hospitals/",
-      "urlToImage": "https://edge.dailyvoice.com/upload/Screenshot_2025-08-09_at_3.41.25PM.png?width=1280",
-      "publishedAt": "2025-08-09T19:52:19Z",
-      "content": "New Jersey-based DermaRite Industries is pulling multiple lots of DermaKleen, DermaSarra, KleenFoam, and PeriGiene products from shelves nationwide, including Puerto Rico, after the products tested p… [+4103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "2,700 kg decomposed chicken, 100 kg rotten fish seized",
-      "description": "DFCO’s major Crackdown on Food Adulteration STATE TIMES NEWS JAMMU: In a significant crackdown on the sale of unsafe food, the Drug and Food Control Organisation (DFCO), Jammu, on Saturday seized and disposed of a massive haul of 28 quintals of rotten and spo…",
-      "url": "https://statetimes.in/2700-kg-decomposed-chicken-100-kg-rotten-fish-seized/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/08/tEAM.jpg",
-      "publishedAt": "2025-08-09T19:20:22Z",
-      "content": "DFCO’s major Crackdown on Food Adulteration\r\nSTATE TIMES NEWS\r\nJAMMU: In a significant crackdown on the sale of unsafe food, the Drug and Food Control Organisation (DFCO), Jammu, on Saturday seized a… [+3560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "author": "Ida, Kenzu",
-      "title": "BPOM revokes permits for 21 cosmetics over mislabeling",
-      "description": "The Food and Drug Authority (BPOM) has canceled the distribution permits for 21 cosmetic products whose contents do not match the information on their ...",
-      "url": "https://en.antaranews.com/news/372413/bpom-revokes-permits-for-21-cosmetics-over-mislabeling",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/02/21/20250221_153337.jpg",
-      "publishedAt": "2025-08-09T17:33:21Z",
-      "content": "Jakarta (ANTARA) - The Food and Drug Authority (BPOM) has canceled the distribution permits for 21 cosmetic products whose contents do not match the information on their packaging.In a statement rele… [+2347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Global News"
-      },
-      "author": "The Canadian Press",
-      "title": "Pistachios in your pantry? What health experts say you should do amid a salmonella recall | Globalnews.ca",
-      "description": "Pistachios have been the subject of several recalls linked to a salmonella outbreak. While some officials say that doesn’t mean you should avoid products, others say toss the nut.",
-      "url": "http://globalnews.ca/news/11328255/pistachios-salmonella-recall-heath-advice/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/08/a7ab0e58da412bbdc7237eb1421501e60ffd5088f53f75ff4d4ea22c681e68c8.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2025-08-09T16:34:35Z",
-      "content": "Pistachios have been the subject of a series of recalls linked to a salmonella outbreak, and while some health officials say that doesnt mean people should avoid all pistachio products, others say to… [+2699 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "We-heart.com"
-      },
-      "author": "Steven John",
-      "title": "How Frisco Businesses Stay Bug‑Free",
-      "description": "Running a business in Frisco means keeping your property clean and inviting, which includes tackling the risk of pests before they can cause problems. Frisco businesses stay bug‑free by partnering with local experts in Frisco pest control, focusing on prevent…",
-      "url": "https://www.we-heart.com/2025/08/09/how-frisco-businesses-stay-bug%e2%80%91free-best-pest-control/",
-      "urlToImage": "https://www.we-heart.com/upload-images/friscopestcontrol2.jpg",
-      "publishedAt": "2025-08-09T16:25:17Z",
-      "content": "Running a business in Frisco means keeping your property clean and inviting, which includes tackling the risk of pests before they can cause problems. Frisco businesses stay bugfree by partnering wit… [+11089 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "James Bickerton",
-      "title": "Dessert Recalled Nationwide as FDA Issues Risk Warning",
-      "description": "The recall was in response to fears the desserts could have been contaminated with plastic.",
-      "url": "https://www.newsweek.com/dessert-recalled-nationwide-fda-issues-risk-warning-2111233",
-      "urlToImage": "https://d.newsweek.com/en/full/2699659/cinnamon-bun.jpg",
-      "publishedAt": "2025-08-09T15:57:12Z",
-      "content": "The recall of cinnamon bun desserts produced by the Michigan-based Superior Foods Company has been given a Class II classification by the U.S. Food and Drug Administration (FDA) on Friday.\r\nThe recal… [+3075 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "DermaRite Industries Issues Voluntary Nationwide Recall of DermaKleen, Dermasarra, Kleenfoam, and Perigiene Products Due to Burkholderia cepacia Contamination",
-      "description": "DermaRite Industries, LLC is voluntarily recalling individual lots of products in the table below due to microbial contamination identified as Burkholderia cepecia.",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dermarite-industries-issues-voluntary-nationwide-recall-dermakleen-dermasarra-kleenfoam-and",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-08-09T15:41:11Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nAugust 08, 2025\r\nFDA Publish Date:\r\nAugust 09, 2025\r\nProduct Type:\r\nDrugs \r\nReason for Announcement:\r\nRecall Reason Description\r\nContamination with Burkholderia c… [+2577 chars]"
     }
   ],
-  "totalResults": 98,
+  "totalResults": 99,
   "filteredCount": 0
 }
