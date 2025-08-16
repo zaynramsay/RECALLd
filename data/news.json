@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-15T18:36:30.126Z",
+  "lastUpdated": "2025-08-16T01:59:17.591Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Daily News"
+      },
+      "author": "Karu F. Daniels, New York Daily News",
+      "title": "Dollar General instant coffee recalled over glass contamination concerns",
+      "description": "Buyers beware of the bargain basement brew sold at Dollar General! The Clover Valley Instant Coffee brand being sold exclusively at the discount retailer is ...",
+      "url": "https://www.nydailynews.com/2025/08/14/dollar-general-instant-coffee-recall-clover-valley/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Cf6SxljSjhVRTW8zfg3MUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ny_daily_news_national_852/5e8f2849698913024bc4c45e5e2ac0b1",
+      "publishedAt": "2025-08-14T22:27:00Z",
+      "content": "Buyers beware of the bargain basement brew sold at Dollar General!\r\nThe Clover Valley Instant Coffee brand being sold exclusively at the discount retailer is being recalled due to the potential prese… [+1244 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -43,19 +56,6 @@
     {
       "source": {
         "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Otter poop reveals they may be ecosystem engineers",
-      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
-      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
-      "publishedAt": "2025-08-14T14:00:00Z",
-      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Plos.org"
       },
       "author": "Kelemu Yimenu Gebre, Abebe Girma Demissie, Aderajew Adgo Tesema, Habtamu Zegeye Belay, Mekashaw Worku Akalye, Agere Bereket Friew, Fisseha Getachew Baye, Habtie Bassie Felatie, Mezgebu Abunie Yohannes, Marye Alemu Eshetu, Wondye Ayalew Shiferaw",
@@ -78,6 +78,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330167.g011&size=inline",
       "publishedAt": "2025-08-14T14:00:00Z",
       "content": "Introduction\r\nWater, Sanitation, and Hygiene (WASH) play an essential role in public health, particularly in low- and middle-income countries (LMICs). According to the World Health Organisation (WHO)… [+60836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Otter poop reveals they may be ecosystem engineers",
+      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
+      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
     },
     {
       "source": {
@@ -636,7 +649,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-hand-wash-products-sold-at-walmart-recalled-nationwide-over-life-threatening-risk-sepsis-what-should-you-do-if-you-bought-it/articleshow/123262972.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-123263037,width-1200,height-630,imgsize-228028,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-08-12T17:09:03Z",
-      "content": "A number of variety soaps sold in the US and in Puerto Rico have been voluntarily recalled after it was found they have been contaminated with life-threatening bacteria. A nationwide recall was issue�� [+5619 chars]"
+      "content": "A number of variety soaps sold in the US and in Puerto Rico have been voluntarily recalled after it was found they have been contaminated with life-threatening bacteria. A nationwide recall was issue… [+5619 chars]"
     },
     {
       "source": {
@@ -1274,19 +1287,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109409547.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-08-09T20:50:21Z",
       "content": "Ice cream lovers may have more than a meltdown.\r\nFriendlys Ice Cream has recalled one of its most popular flavors after a packaging mix up sparking an allergy risk warning from the Food and Drug Admi… [+1990 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Neurologists reveal the top 3 foods to avoid to protect your brain and nervous system",
-      "description": "Neurologists identify common foods that can contain dangerous neurotoxins and tapeworms that could harm brain health, and provides tips on what to look out for",
-      "url": "https://www.foxnews.com/food-drink/im-neurologist-i-never-eat-3-common-foods-can-harm-brain",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/woman-buying-fish-market-snapper.jpg",
-      "publishedAt": "2025-08-09T20:43:29Z",
-      "content": "Doctors recommend foods like berries, nuts, fish packed with omega-3 fatty acids and even dark chocolate for neurological health. They also discourage foods high in sugar and saturated fat, which can… [+4287 chars]"
     }
   ],
   "totalResults": 99,
