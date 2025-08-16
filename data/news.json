@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-08-16T12:48:44.964Z",
+  "lastUpdated": "2025-08-16T18:32:34.544Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aclu.org"
+      },
+      "author": "ACLU",
+      "title": "Florida's Secretive Immigration Detention Center, Explained",
+      "description": "Deep in the Florida Everglades, a new immigration detention facility has appeared almost overnight. It’s the latest example of the Trump administration’s extreme approach to immigration enforcement, and it’s drawing significant, well-deserved outrage.\nIn just…",
+      "url": "https://www.aclu.org/news/immigrants-rights/floridas-secretive-immigration-detention-center-explained",
+      "urlToImage": "https://assets.aclu.org/live/uploads/2025/08/a-a-social.jpg",
+      "publishedAt": "2025-08-15T18:27:56Z",
+      "content": "Deep in the Florida Everglades, a new immigration detention facility has appeared almost overnight. Its the latest example of the Trump administrations extreme approach to immigration enforcement, an… [+8151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Swig"
+      },
+      "author": "James Kettle",
+      "title": "HTTP/1.1 must die: the desync endgame",
+      "description": "Abstract Upstream HTTP/1.1 is inherently insecure and regularly exposes millions of websites to hostile takeover. Six years of attempted mitigations have hidden the issue, but failed to fix it. This p",
+      "url": "https://portswigger.net/research/http1-must-die",
+      "urlToImage": "https://portswigger.net/cms/images/03/e6/ab75-twittercard-1.1_whitepaper_twitter.png",
+      "publishedAt": "2025-08-15T17:27:18Z",
+      "content": "<ul><li>Published: 06 August 2025 at 22:20 UTC\r\n</li><li>Updated: 12 August 2025 at 09:50 UTC\r\n</li><li></li></ul>Abstract\r\nUpstream HTTP/1.1 is inherently insecure and regularly exposes millions of … [+41166 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Daily Galaxy",
+      "title": "A Giant, Destructive Volcanic Eruption Is Set to Shake the World in the Coming Months, Bringing About the End of Mankind, Scientists Warn",
+      "description": "Hidden magma chambers, rising heat, and global climate implications are now under intense scrutiny. The stakes go far beyond the American West — and the timeline may be shorter than expected. Massive Volcanic Eruption. Credit: Shutterstock | The Daily Galaxy …",
+      "url": "https://freerepublic.com/focus/f-chat/4334777/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-08-15T16:56:56Z",
+      "content": "Skip to comments.\r\nA Giant, Destructive Volcanic Eruption Is Set to Shake the World in the Coming Months, Bringing About the End of Mankind, Scientists Warn\r\nDaily Galaxy ^\r\n | August 15, 2025\r\n | Ar… [+11791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Salad Recall Sparks Highest Risk Warning For Consumers",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nRecalls of 15 products containing tuna salad have been given the highest-alert warning by the U.S. Food and Drug Administration (FDA).\nThe recalls relate to possible contamination with listeria monocytogenes i…",
+      "url": "https://biztoc.com/x/cfad445d3f9c10d1",
+      "urlToImage": "https://biztoc.com/cdn/cfad445d3f9c10d1_s.webp",
+      "publishedAt": "2025-08-15T16:38:40Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.Recalls of 15 products containing tuna salad have been given the highest-alert warning by the U.S. Food and Drug Administration (FDA).The recalls rela… [+140 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matt Cannon",
+      "title": "Salad Recall Sparks Highest Risk Warning For Consumers",
+      "description": "Bacteria feared to have contaminated the products can survive in refrigerated temperatures and can easily spread to other foods, the FDA warned.",
+      "url": "https://www.newsweek.com/salad-recall-sparks-highest-risk-warning-consumers-2113586",
+      "urlToImage": "https://d.newsweek.com/en/full/2702538/stock-image-tuna-salad.jpg",
+      "publishedAt": "2025-08-15T16:32:27Z",
+      "content": "Recalls of 15 products containing tuna salad have been given the highest-alert warning by the U.S. Food and Drug Administration (FDA).\r\nThe recalls relate to possible contamination with listeria mono… [+4240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Review of Books"
+      },
+      "author": "Bathsheba Demuth",
+      "title": "Where the Dogs Run",
+      "description": "The best days to work a salmon net are dry and bright. Bankside willows tilt from summer green to autumn gold. Light wind, no longer warm, riffles the river’s surface in arcs of silver. Late summer in the Arctic has as many days of lashing rain as it does sun…",
+      "url": "http://www.nybooks.com/online/2025/08/15/where-the-dogs-run/",
+      "urlToImage": "https://www.nybooks.com/wp-content/uploads/2025/08/Demuth202508_6.jpeg",
+      "publishedAt": "2025-08-15T14:49:48Z",
+      "content": "The best days to work a salmon net are dry and bright. Bankside willows tilt from summer green to autumn gold. Light wind, no longer warm, riffles the river’s surface in arcs of silver. Late summer i… [+27080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Daniel Gettings, Sessional Tutor, Department of History, University of Warwick",
+      "title": "Is mineral water ‘natural’ if it’s filtered? The debate gripping France today has raged since the 18th-century",
+      "description": "Is a thing still ‘natural’ if someone has subjected it to filtration?",
+      "url": "https://theconversation.com/is-mineral-water-natural-if-its-filtered-the-debate-gripping-france-today-has-raged-since-the-18th-century-263149",
+      "urlToImage": "https://images.theconversation.com/files/685734/original/file-20250815-56-wv6oq0.jpg?ixlib=rb-4.1.0&rect=0%2C643%2C3570%2C1785&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-08-15T14:47:28Z",
+      "content": "A year ago, French newspaper Le Monde and Radio France broke a scandal in big water – Perrier was filtering its product. The filtering began due to worries about water contamination linked to climate… [+6374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Cheese Recall Over Potential Listeria Risk",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA New York-based cheese company has issued a recall of cases of brie over possible Listeria contamination, the Food and Drug Administration (FDA) announced on Thursday.\nNew York-based Fromi USA is recalling 12…",
+      "url": "https://biztoc.com/x/0393632fd581f4b2",
+      "urlToImage": "https://biztoc.com/cdn/0393632fd581f4b2_s.webp",
+      "publishedAt": "2025-08-15T14:23:48Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A New York-based cheese company has issued a recall of cases of brie over possible Listeria contamination, the Food and Drug Administration (FDA) anno… [+143 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Toby Meyjes",
+      "title": "Cheese Recall Over Potential Listeria Risk",
+      "description": "Fromi USA is recalling 12 Cases of Brie Royal Faucon 1kg due to Listeria contamination risk",
+      "url": "https://www.newsweek.com/cheese-recall-listeria-risk-fda-2114003",
+      "urlToImage": "https://d.newsweek.com/en/full/2703256/recalled-brie-stock.jpg",
+      "publishedAt": "2025-08-15T14:15:37Z",
+      "content": "A New York-based cheese company has issued a recall of cases of brie over possible Listeria contamination, the Food and Drug Administration (FDA) announced on Thursday.\r\nNew York-based Fromi USA is r… [+2889 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailycoffeenews.com"
+      },
+      "author": "Daily Coffee News Staff",
+      "title": "Weekly Coffee News: Major Lawsuit Update + Auction Series Highlighting African Coffees",
+      "description": "Roast Magazine’s Daily Coffee News is proud to maintain advertising partnerships with many of the world’s leading coffee companies, yet maintains a focus on fair and objective editorial content, with no sponsored content or native advertising.",
+      "url": "https://dailycoffeenews.com/2025/08/15/weekly-coffee-news-major-lawsuit-update-auction-series-highlighting-african-coffees/",
+      "urlToImage": "https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-growing.jpg",
+      "publishedAt": "2025-08-15T13:05:00Z",
+      "content": "Welcome to DCNs Weekly Coffee News! Subscribe here for all the latest coffee industry news. Also, check out the latest career opportunities at CoffeeIndustryJobs.com.\r\nD.C. Superior Court Gives Consu… [+6051 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -108,6 +238,19 @@
     {
       "source": {
         "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Otter poop reveals they may be ecosystem engineers",
+      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
+      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Plos.org"
       },
       "author": "Kelemu Yimenu Gebre, Abebe Girma Demissie, Aderajew Adgo Tesema, Habtamu Zegeye Belay, Mekashaw Worku Akalye, Agere Bereket Friew, Fisseha Getachew Baye, Habtie Bassie Felatie, Mezgebu Abunie Yohannes, Marye Alemu Eshetu, Wondye Ayalew Shiferaw",
@@ -130,19 +273,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330167.g011&size=inline",
       "publishedAt": "2025-08-14T14:00:00Z",
       "content": "Introduction\r\nWater, Sanitation, and Hygiene (WASH) play an essential role in public health, particularly in low- and middle-income countries (LMICs). According to the World Health Organisation (WHO)… [+60836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Otter poop reveals they may be ecosystem engineers",
-      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
-      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
-      "publishedAt": "2025-08-14T14:00:00Z",
-      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
     },
     {
       "source": {
@@ -527,7 +657,7 @@
         "name": "The Conversation Africa"
       },
       "author": "Chang He, Professor of environmental sciences, The University of Queensland",
-      "title": "How to improve the monitoring of chemical contaminants in the human body",
+      "title": "How to improve the monitoring of��chemical contaminants in the human body",
       "description": "We are exposed to countless chemicals every day, some of which can harm our health. Measuring the effects of this pollution is a major challenge.",
       "url": "https://theconversation.com/how-to-improve-the-monitoring-of-chemical-contaminants-in-the-human-body-233255",
       "urlToImage": "https://images.theconversation.com/files/684885/original/file-20250811-56-yej1a0.jpg?ixlib=rb-4.1.0&rect=0%2C11%2C1920%2C960&q=45&auto=format&w=1356&h=668&fit=crop",
@@ -1144,136 +1274,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328982.g003&size=inline",
       "publishedAt": "2025-08-11T14:00:00Z",
       "content": "Citation: Rodríguez-Hernández Á, Ruiz-Suárez N, Henríquez-Hernández LA, Díaz-Díaz R, Zumbado M, Bernal Suárez MdM, et al. (2025) Bananas in the aftermath of La Palma volcanic eruption (Canary Islands… [+54427 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jacobin.com"
-      },
-      "author": "H. Akhrouf",
-      "title": "The Silencing of Health Workers Who Speak Up for Palestine",
-      "description": "Israel has killed over 1,400 health care workers in Palestine. Yet the doctors and nurses in Britain who speak up in solidarity with their colleagues have repeatedly been disciplined and silenced.",
-      "url": "https://jacobin.com/2025/08/britain-silencing-health-workers-palestine",
-      "urlToImage": "https://images.jacobinmag.com/wp-content/uploads/2025/08/08104946/GettyImages-1775237965.jpg",
-      "publishedAt": "2025-08-11T13:00:30Z",
-      "content": "The recent airing of the documentary Gaza: Doctors Under Attack on Britains Channel 4 was a wake-up call to many whod been fence-sitting about the horrors that Israel has inflicted on the Palestinian… [+10377 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lawyersgunsmoneyblog.com"
-      },
-      "author": "Paul Campos",
-      "title": "The only good bug is a dead bug",
-      "description": "In a social media post on Sunday, Donald Trump has demanded homeless residents of Washington DC leave the country’s capital or face eviction, and again promised to use federal officers to jail criminals, even though violent crime in the city was at a 30-year …",
-      "url": "https://www.lawyersgunsmoneyblog.com/2025/08/the-only-good-bug-is-a-dead-bug",
-      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/08/images-1.jpeg",
-      "publishedAt": "2025-08-11T12:25:24Z",
-      "content": "In a social media post on Sunday, Donald Trump has demanded homeless residents of Washington DC leave the countrys capital or face eviction, and again promised to use federal officers to jail crimina… [+5312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Opiniojuris.org"
-      },
-      "author": "Mohsen al Attar",
-      "title": "What Will Gaza Become After Genocide? Restitution, Reparations, and Renewal (Part 3)",
-      "description": "3. A Freedom Dream “The question of genocide is never far from discussions of settler colonialism.” Patrick Wolfe For the third counterfactual, violence and legality took a backseat to aspiration and freedom dreaming. By this, I mean that I would let the Pale…",
-      "url": "http://opiniojuris.org/2025/08/11/what-will-gaza-become-after-genocide-restitution-reparations-and-renewal-part-3/",
-      "urlToImage": "https://i2.wp.com/opiniojuris.org/wp-content/uploads/Zaytoun.jpg?fit=600%2C400",
-      "publishedAt": "2025-08-11T12:00:32Z",
-      "content": "3. A Freedom Dream\r\nThe question of genocide is never far from discussions of settler colonialism.\r\nPatrick Wolfe\r\nFor the third counterfactual, violence and legality took a backseat to aspiration an… [+19710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Observer"
-      },
-      "author": "John Woodside",
-      "title": "Complaints are piling up against a Canadian oil company — but there's nobody to hear them",
-      "description": "Experts are dismayed at the lack of progress from the Canadian Ombudsperson for Responsible Enterprise (CORE), which received the complaint in April 2024. Part of the problem is the head position at the CORE has been vacant for months and in the absence of ac…",
-      "url": "https://www.nationalobserver.com/2025/08/07/news/complaints-are-piling-against-canadian-oil-company-theres-nobody-hear-them",
-      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/08/07/3217790990_bf5dd3ec2b_o2.jpg",
-      "publishedAt": "2025-08-11T09:09:04Z",
-      "content": "It has been nearly 500 days since Canadian oil company ReconAfrica was accused of committing human rights abuses and environmental destruction in an ecologically sensitive region in Namibia and the a… [+12370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "S.D. Wells",
-      "title": "STUDY: Ultra-processed foods raise the risk of LUNG CANCER, non-small cell lung cancer and small cell lung cancer",
-      "description": "Cancer rates are on the rise globally, and the Big Food Industrial Complex is mostly to blame. Natural health advocates have been warning the world for decades now about this. A new study by Chinese researchers has found that diets high in ultra-processed foo…",
-      "url": "https://www.naturalnews.com/2025-08-11-ultra-processed-foods-raise-lung-cancer-risk.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Lung-Cancer.jpg",
-      "publishedAt": "2025-08-11T06:00:00Z",
-      "content": "Cancer rates are on the rise globally, and the Big Food Industrial Complex is mostly to blame. Natural health advocates have been warning the world for decades now about this.\r\nA new study by Chinese… [+4831 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CleanTechnica"
-      },
-      "author": "Steve Hanley",
-      "title": "New Jersey Wins $2 Billion Settlement From DuPont Over PFAS Contamination",
-      "description": "DuPont has agreed to pay $2 billion to New Jersey to clean up 4 PFAS waste sites -- a mere drop in the bucket in the big picture.\nThe post New Jersey Wins $2 Billion Settlement From DuPont Over PFAS Contamination appeared first on CleanTechnica.",
-      "url": "https://cleantechnica.com/2025/08/11/new-jersey-wins-2-billion-settlement-from-dupont-over-pfas-contamination/",
-      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/06/PFAS.png",
-      "publishedAt": "2025-08-11T04:13:11Z",
-      "content": "PFAS substances — per- and poly-fluoroalkyl substances — are commonly known as “forever chemicals” because they do not break down naturally for hundreds or thousands of years. There are tens of thous… [+11286 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Weekly Health Quiz: SSRI Use During Pregnancy, MCCPs in Your Body, and Water Contamination Risks",
-      "description": "1 Beyond heart-related effects, what other concerns are linked to SSRI use during pregnancy?\r\n\n<ul>\n<li>Deteriorating maternal psychological and emotional vulnerability</li>\n<li>Lowered blood pressure in the fetus</li>\n<li>Brain development problems and seizu…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/08/11/weekly-health-quiz-35.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/weekly-health-quiz-fb.jpg",
-      "publishedAt": "2025-08-11T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "New ‘Dirty Dozen’ List Warns About Rising Pesticide Residue in Common Produce",
-      "description": "The Environmental Working Group (EWG) has recently released the 2025 Shopper’s Guide to Pesticides in Produce™, which analyzes popular fruit and vegetables and ranks them according to their pesticide contamination and toxicity. This year’s list has a couple o…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/08/11/2025-dirty-dozen-list-high-pesticide.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/August/FB/dirty-dozen-list-high-pesticide-fb.jpg",
-      "publishedAt": "2025-08-11T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inside the Magic"
-      },
-      "author": "Alessia Dunn",
-      "title": "Orlando Theme Park Mogul Forced into Indefinite Closure, Grotesquely Fails Health and Safety Investigation",
-      "description": "Busch Gardens Tampa Bay recently faced significant public backlash after the sudden mid-day closure of its Dragon Fire Grill, a popular quick-service dining location within the park. The closure, which occurred during normal operating hours, forced guests din…",
-      "url": "https://insidethemagic.net/2025/08/orlando-theme-park-mogul-forced-into-indefinite-closure-after-grotesquely-failing-health-and-safety-investigation-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Untitled-design-55-1.jpg",
-      "publishedAt": "2025-08-10T17:30:21Z",
-      "content": "Busch Gardens Tampa Bay recently faced significant public backlash after the sudden mid-day closure of its Dragon Fire Grill, a popular quick-service dining location within the park. The closure, whi… [+7093 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Emma Marsden",
-      "title": "Nationwide Soap Recall Issued Over Contamination Linked to Sepsis",
-      "description": "To date, DermaRite has not received any reports of adverse events related to the product recall.",
-      "url": "https://www.newsweek.com/nationwide-soap-recall-issued-contamination-sepsis-dermarite-2111372",
-      "urlToImage": "https://d.newsweek.com/en/full/2699847/soap.jpg",
-      "publishedAt": "2025-08-10T13:33:15Z",
-      "content": "DermaRite Industries has voluntarily recalled specific lots of its products nationwide due to contamination with Burkholderia cepacia, a bacterium that can cause serious infections in immunocompromis… [+6705 chars]"
     }
   ],
   "totalResults": 98,
