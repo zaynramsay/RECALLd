@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-17T02:11:11.533Z",
+  "lastUpdated": "2025-08-17T06:35:34.331Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Shauna Bowers",
+      "title": "From goats cheese to hummus - why there has been so many listeria recalls",
+      "description": "Despite recent publicity, Ireland’s rate of infection is low, with good safety procedures in place",
+      "url": "https://www.irishtimes.com/health/2025/08/16/from-goats-cheese-to-hummus-why-there-has-been-so-many-listeria-recalls/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/YMTRDRWNK5C5ZHJFONX4MV2MQE.jpg?smart=true&auth=ae306aa049612185e6dba9b26709333bba2539b9d0000ba33f5255f0bce347c6&width=1200&height=630",
+      "publishedAt": "2025-08-16T05:00:00Z",
+      "content": "News last month that a person had died with a rare bacterial infection called listeriosis sparked concern among the public. \r\nThe Food Safety Authority of Ireland (FSAI) described the outbreak of lis… [+3498 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,19 +1274,6 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013368.g003&size=inline",
       "publishedAt": "2025-08-11T14:00:00Z",
       "content": "Abstract\r\nPlants and fungi often produce toxic metabolites, but herbivores and fungivores that evolve resistance to these toxins gain access to underutilized resources. An additional benefit of livin… [+43688 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Ángel Rodríguez-Hernández, Norberto Ruiz-Suárez, Luis Alberto Henríquez-Hernández, Ricardo Díaz-Díaz, Manuel Zumbado, María del Mar Bernal Suárez, Pablo Alonso-González, Eva Parga-Dans, Octavio P. Luzardo",
-      "title": "Bananas in the aftermath of La Palma volcanic eruption (Canary Islands, Spain): A study on the nutritional and toxic element composition of post-disaster production",
-      "description": "The 2021 Tajogaite eruption on La Palma devastated banana production, a key crop, with a 50% loss (53,000 tons). Concerned about potential contamination from volcanic ash and magma, we investigated the elemental composition of bananas from the eruption area a…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328982",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328982.g003&size=inline",
-      "publishedAt": "2025-08-11T14:00:00Z",
-      "content": "Citation: Rodríguez-Hernández Á, Ruiz-Suárez N, Henríquez-Hernández LA, Díaz-Díaz R, Zumbado M, Bernal Suárez MdM, et al. (2025) Bananas in the aftermath of La Palma volcanic eruption (Canary Islands… [+54427 chars]"
     }
   ],
   "totalResults": 98,
