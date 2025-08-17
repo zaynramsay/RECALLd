@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-17T12:49:36.722Z",
+  "lastUpdated": "2025-08-17T18:33:57.480Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Simplyrecipes.com"
+      },
+      "author": "Cheyenne Buckingham",
+      "title": "2 Food Recalls You Need To Know About This Week",
+      "description": "Check your instant coffee and imported cheese.",
+      "url": "https://www.simplyrecipes.com/food-recalls-you-need-to-know-about-august-2025-week-two-11791898",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iEnnppK7IXlnxzhi.gYigg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/simply_recipes_854/ff124d40b0781047db7b4d1b3c120d48",
+      "publishedAt": "2025-08-16T10:32:00Z",
+      "content": "I dont think twice about what I toss in my grocery cartuntil something ends up on a recall list.\r\nThis week, instant coffee and imported Camembert cheese made headlines after being contaminated with … [+3827 chars]"
+    },
     {
       "source": {
         "id": "the-irish-times",
@@ -142,7 +155,7 @@
       "url": "https://dailycoffeenews.com/2025/08/15/weekly-coffee-news-major-lawsuit-update-auction-series-highlighting-african-coffees/",
       "urlToImage": "https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-growing.jpg",
       "publishedAt": "2025-08-15T13:05:00Z",
-      "content": "Welcome to DCNs Weekly Coffee News! Subscribe here for all the latest coffee industry news. Also, check out the latest career opportunities at��CoffeeIndustryJobs.com.\r\nD.C. Superior Court Gives Consu… [+6051 chars]"
+      "content": "Welcome to DCNs Weekly Coffee News! Subscribe here for all the latest coffee industry news. Also, check out the latest career opportunities at CoffeeIndustryJobs.com.\r\nD.C. Superior Court Gives Consu… [+6051 chars]"
     },
     {
       "source": {
@@ -251,19 +264,6 @@
     {
       "source": {
         "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Otter poop reveals they may be ecosystem engineers",
-      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
-      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
-      "publishedAt": "2025-08-14T14:00:00Z",
-      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Plos.org"
       },
       "author": "Kelemu Yimenu Gebre, Abebe Girma Demissie, Aderajew Adgo Tesema, Habtamu Zegeye Belay, Mekashaw Worku Akalye, Agere Bereket Friew, Fisseha Getachew Baye, Habtie Bassie Felatie, Mezgebu Abunie Yohannes, Marye Alemu Eshetu, Wondye Ayalew Shiferaw",
@@ -286,6 +286,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330167.g011&size=inline",
       "publishedAt": "2025-08-14T14:00:00Z",
       "content": "Introduction\r\nWater, Sanitation, and Hygiene (WASH) play an essential role in public health, particularly in low- and middle-income countries (LMICs). According to the World Health Organisation (WHO)… [+60836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Otter poop reveals they may be ecosystem engineers",
+      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
+      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
     },
     {
       "source": {
@@ -1261,19 +1274,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
       "publishedAt": "2025-08-11T14:00:00Z",
       "content": "Ottawa, Aug. 11, 2025 (GLOBE NEWSWIRE) -- The global plastic-free cosmetic packaging market size stood in 2025 and is projected to reach by 2034, according to a study published by Towards Packaging, … [+30990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Kayla F. Reddy, Aleksey Prok, Corinne M. Stouthamer, Todd A. Schlenke",
-      "title": "Flies use acetic acid to protect their offspring from parasitoids",
-      "description": "Author summary When organisms evolve resistance to the toxic metabolites of plants and fungi found in their environment, they gain access to new resources and also gain protection from non-resistant predators and parasites. The fruit fly Drosophila melanogast…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013368",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013368.g003&size=inline",
-      "publishedAt": "2025-08-11T14:00:00Z",
-      "content": "Abstract\r\nPlants and fungi often produce toxic metabolites, but herbivores and fungivores that evolve resistance to these toxins gain access to underutilized resources. An additional benefit of livin… [+43688 chars]"
     }
   ],
   "totalResults": 98,
