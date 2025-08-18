@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-18T06:41:02.807Z",
+  "lastUpdated": "2025-08-18T12:55:22.369Z",
   "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Pistachio recall tied to viral chocolate bar reflects salmonella risks from dried nuts",
+      "description": "More brands of TikTok-famous chocolates with pistachios have been recalled over salmonella concerns. Here why food scientists say the nuts can be prime suspects for causing foodborne illness outbreaks.",
+      "url": "https://www.cbc.ca/news/health/dubai-chocolate-pistachios-recall-salmonella-1.7610646",
+      "urlToImage": "https://i.cbc.ca/1.7610649.1755295221!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/chocolates-recalled-for-potential-salmonella.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-17T08:00:00Z",
+      "content": "More brands of TikTok-famous chocolates with pistachios have been recalled over salmonella concerns. Here why food scientists say the nuts can be prime suspects for causing outbreaks of foodborne ill… [+4480 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1261,19 +1274,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3hcuQDcpsbOfrZbMVEqBaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/masslive_articles_390/0e85419bb9a3fc0e6359c64d2fe7a2bd",
       "publishedAt": "2025-08-11T16:05:18Z",
       "content": "A voluntary recall has been initiated for certain soap products that could contain bacteria which can lead to life-threatening infections including sepsis, according to the Food and Drug Administrati… [+1889 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Nationwide soap recall sparks sepsis fears — check your bathroom now",
-      "description": "DermaRite Industries has initiated a nationwide recall of several hygiene products, including popular soaps and cleansers used in hospitals and homes, due to contamination with Burkholderia cepacia. While no illnesses have been reported, the recall was issued…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/nationwide-soap-recall-sparks-sepsis-fears-check-your-bathroom-now/articleshow/123237493.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123239342,width-1200,height-630,imgsize-50050,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-11T14:33:32Z",
-      "content": "A nationwide soap recall could affect you, so check your bathroom shelves. In another news, DermaRite Industries has recalled numerous hygiene products from stores and hospitals. Individuals with com… [+3690 chars]"
     }
   ],
   "totalResults": 98,
