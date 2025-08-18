@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-18T12:55:22.369Z",
+  "lastUpdated": "2025-08-18T18:37:25.380Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Why your bath towel could be dirtier than your toilet seat",
+      "description": "That fluffy bath towel hanging innocently in your bathroom might harbor a shocking secret. While most people meticulously clean their toilet seats and consider them among the dirtiest surfaces in their homes, research reveals that bath towels often contain si…",
+      "url": "https://rollingout.com/2025/08/17/bath-towel-could-be-dirtier-than-toilet/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/09/shutterstock_2513098531.jpg",
+      "publishedAt": "2025-08-17T13:32:17Z",
+      "content": "That fluffy bath towel hanging innocently in your bathroom might harbor a shocking secret. While most people meticulously clean their toilet seats and consider them among the dirtiest surfaces in the… [+5813 chars]"
+    },
     {
       "source": {
         "id": "cbc-news",
@@ -1261,19 +1274,6 @@
       "urlToImage": "https://platform.pdx.eater.com/wp-content/uploads/sites/29/2025/08/IMG_6182.jpg?quality=90&strip=all&crop=0%2C25.011002476715%2C100%2C39.267015706806&w=1200",
       "publishedAt": "2025-08-11T16:33:55Z",
       "content": "The town of Springfield, Oregon — about two hours from Portland and 10 minutes from Eugene — is actually the pastiche of what one might expect a town that happens to share its name with that town mad… [+5139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MassLive.com"
-      },
-      "author": "Liesel Nygard",
-      "title": "Nationwide recall alert: Soap products may cause sepsis, life-threatening infections",
-      "description": "A nationwide recall has been issued for several soap products due to potential contamination with a dangerous bacteria.",
-      "url": "https://www.masslive.com/news/2025/08/nationwide-recall-alert-soap-products-may-cause-sepsis-life-threatening-infections.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3hcuQDcpsbOfrZbMVEqBaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/masslive_articles_390/0e85419bb9a3fc0e6359c64d2fe7a2bd",
-      "publishedAt": "2025-08-11T16:05:18Z",
-      "content": "A voluntary recall has been initiated for certain soap products that could contain bacteria which can lead to life-threatening infections including sepsis, according to the Food and Drug Administrati… [+1889 chars]"
     }
   ],
   "totalResults": 98,
