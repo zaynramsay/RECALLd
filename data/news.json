@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-08-19T12:49:54.507Z",
+  "lastUpdated": "2025-08-19T18:32:46.326Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "BBQ Seasoning Recall as Consumer Risk Warning Issued",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of various seasoning products due to potential contamination with foreign objects has received the second-highest risk warning by the Food and Drug Administration (FDA).\nQST Ingredients and Packaging …",
+      "url": "https://biztoc.com/x/7ef958576f592d00",
+      "urlToImage": "https://biztoc.com/cdn/7ef958576f592d00_s.webp",
+      "publishedAt": "2025-08-18T14:11:18Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of various seasoning products due to potential contamination with foreign objects has received the second-highest risk warning by the Food an… [+145 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "BBQ Seasoning Recall as Consumer Risk Warning Issued",
+      "description": "QST Ingredients and Packaging issued a voluntary recall for four products on August 7 over the possible presence of metal fragments.",
+      "url": "https://www.newsweek.com/bbq-seasoning-recall-consumer-risk-warning-issued-fda-metal-fragments-2114989",
+      "urlToImage": "https://d.newsweek.com/en/full/2704442/seasoning.jpg",
+      "publishedAt": "2025-08-18T14:05:42Z",
+      "content": "A recall of various seasoning products due to potential contamination with foreign objects has received the second-highest risk warning by the Food and Drug Administration (FDA).\r\nQST Ingredients and… [+2587 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Pablo Fernando Cuervo, Roberto Mera y Sierra, Patricio Artigas, María Cecilia Fantozzi, María Dolores Bargues, Santiago Mas-Coma",
+      "title": "Impact of climate change on the spread of fascioliasis into the extreme south of South America",
+      "description": "Author summary Fascioliasis is a highly pathogenic parasitic disease caused by liver flukes and transmitted by freshwater snails from animals to humans. Despite the presaged global warming’s impact on its transmission, only a few studies have tried to verify …",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013433",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013433.g009&size=inline",
+      "publishedAt": "2025-08-18T14:00:00Z",
+      "content": "Abstract\r\nThe impact of global warming on the transmission of fascioliasis, a highly pathogenic zoonotic snail-borne disease, was already highlighted during the 2010s. However, since then, only a few… [+71323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Simachew Getaneh Endalamew, Alebachew Tilahun Wassie, Andnet Yirga Assefa, Yihenew Getahun Ambaw, Solomon Mekuriaw Ayalew, Solomon Keflie Assefa",
+      "title": "Prevalence and risk factors of sheep and goats fasciolosis in Ethiopia: A systematic review and meta-analysis",
+      "description": "Author summary Fasciolosis is a neglected parasitic disease caused by liver flukes and affects both animals and humans. In Ethiopia, fasciolosis poses a significant burden to animal health and agricultural livelihoods. Despite this, there has been no recent n…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013074",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013074.g006&size=inline",
+      "publishedAt": "2025-08-18T14:00:00Z",
+      "content": "Abstract\r\nBackground\r\nFasciolosis is a parasitic disease caused by liver flukes of the genus Fasciola, predominantly Fasciola hepatica and Fasciola gigantica. This zoonotic disease significantly impa… [+43014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "National Observer"
+      },
+      "author": "Dylan Robertson",
+      "title": "With the Ottawa Treaty under threat, one expert warns landmines won't keep Europe safe",
+      "description": "An expert who has disposed of bombs in some of the world's most dangerous places says European governments pinning their security hopes on landmines are turning to an ineffective tool that will only spread misery and hunger.",
+      "url": "https://www.nationalobserver.com/2025/08/18/news/ottawa-treaty-under-threat-one-expert-warns-landmines-wont-keep-europe-safe",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/08/18/d48ea944cdcdd2324e509884f3640a0def5b8947e6286e1427e1c938973b6d79.jpg",
+      "publishedAt": "2025-08-18T13:24:19Z",
+      "content": "An expert who has disposed of bombs in some of the world's most dangerous places says European governments pinning their security hopes on landmines are turning to an ineffective tool that will only … [+7401 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -337,7 +402,7 @@
       "url": "https://theweek.com/environment/britains-giant-rat-problem",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Js5EJbPCbLosP8PVbaEiJF.jpg",
       "publishedAt": "2025-08-15T08:56:44Z",
-      "content": "New data has revealed that Britain is experiencing a significant rat problem, with more than half a million infestations reported in the past two years.\r\nAnalysis of Freedom of Information data by Dr… [+3469 chars]"
+      "content": "New data has revealed that Britain is experiencing a significant rat problem, with more than half a million infestations reported in the past two years.\r\nAnalysis of Freedom of Information data by Dr��� [+3469 chars]"
     },
     {
       "source": {
@@ -1196,86 +1261,8 @@
       "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/11/12/Kepala-BPOM-Taruna-Ikrar.jpg",
       "publishedAt": "2025-08-12T07:19:41Z",
       "content": "Jakarta (ANTARA) - Indonesia’s Food and Drug Authority (BPOM) has revoked the permits of 14 women’s cosmetic products for overly exaggerated and indecent promotional claims, including “breast enlarge… [+1792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Eggplant: The humble superfood that can boost your antioxidant defenses",
-      "description": "Eggplant is low in calories but rich in fiber, vitamins, minerals and antioxidants like nasunin and anthocyanins, supporting heart health, digestion and cell protection. Native to India and Southeast Asia, eggplant has been cultivated for over 2,000 years and…",
-      "url": "https://www.naturalnews.com/2025-08-12-eggplant-humble-superfood-boost-your-antioxidant-defenses.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Eggplant-Farm-Crop-Vine.jpg",
-      "publishedAt": "2025-08-12T06:00:00Z",
-      "content": "<ul><li>Eggplant is low in calories but rich in fiber, vitamins, minerals and antioxidants like nasunin and anthocyanins, supporting heart health, digestion and cell protection.</li><li>Native to Ind… [+6494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Willow Tohi",
-      "title": "USDA, EPA greenlight RNA food tech amid calls for transparency",
-      "description": "The EPA approved dsRNA pesticide Ledprona in 2023 to target Colorado potato beetles, claiming it’s “safe” but with limited long-term testing. Florida lawmakers are pushing a bill to ban mRNA vaccines in crops, citing threats to consumer choice and health. Sta…",
-      "url": "https://www.naturalnews.com/2025-08-12-usda-epa-greenlight-rna-food-tech.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/GMO-food-and-chemicals-in-vegetables-concept-1.jpg",
-      "publishedAt": "2025-08-12T06:00:00Z",
-      "content": "<ul><li>The EPA approved dsRNA pesticide Ledprona in 2023 to target Colorado potato beetles, claiming its safe but with limited long-term testing.</li><li>Florida lawmakers are pushing a bill to ban … [+5722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": "Priyanjana Pramanik",
-      "title": "Microplastics found in all popular UK drinks, with hot beverages worst offenders",
-      "description": "Researchers found microplastics in every hot and cold beverage tested in the UK, with higher levels in hot drinks and packaging as the main source. Beverage consumption was shown to significantly increase daily microplastic intake beyond water-only estimates.",
-      "url": "https://www.news-medical.net/news/20250811/Microplastics-found-in-all-popular-UK-drinks-with-hot-beverages-worst-offenders.aspx",
-      "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_816524_1754958855548843.jpg",
-      "publishedAt": "2025-08-12T00:37:28Z",
-      "content": "From your morning tea to a cold soft drink, UK beverages carry hidden microplastic loads, and hot drinks could be giving you an even bigger dose.\r\nStudy: Synthetic microplastics in hot and cold bever… [+7597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Urgent Friendly’s ice cream recall affects 3 states now",
-      "description": "Friendly’s Ice Cream has triggered an urgent product recall across three states after a dangerous packaging error that could endanger lives. The company discovered that hundreds of Vanilla Bean ice cream cartons were accidentally filled with Cookies and Cream…",
-      "url": "https://rollingout.com/2025/08/11/friendlys-ice-recall-affects-3-states/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_1473084830-scaled.jpg",
-      "publishedAt": "2025-08-11T23:49:43Z",
-      "content": "Friendly’s Ice Cream has triggered an urgent product recall across three states after a dangerous packaging error that could endanger lives. The company discovered that hundreds of Vanilla Bean ice c… [+5735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Chocolate Recall Sparks Nationwide Warning to Customers",
-      "description": "Numerous recalls have been initiated this year due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.",
-      "url": "https://biztoc.com/x/95b2ca3a86bfab48",
-      "urlToImage": "https://biztoc.com/cdn/950/og.png",
-      "publishedAt": "2025-08-11T22:17:38Z",
-      "content": "Numerous recalls have been initiated this year due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.\r\nThis story appeared on newsweek.com, 2025-08… [+12 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Chocolate Recall Sparks Nationwide Warning to Customers",
-      "description": "Numerous recalls have been initiated this year due to the potential for damaged products, foodborne illness, contamination and undeclared food allergens.",
-      "url": "https://www.newsweek.com/chocolate-recall-sparks-nationwide-warning-2112040",
-      "urlToImage": "https://d.newsweek.com/en/full/2700688/neuhaus-chocolate.jpg",
-      "publishedAt": "2025-08-11T22:10:17Z",
-      "content": "Neuhaus Chocolates NV is recalling their Belgian Chocolate Moments Smurfs 'Popping Milk Chocolates with Cookies because the product contains wheat which was not declared on the packaging.\r\nNewsweek r… [+2977 chars]"
     }
   ],
-  "totalResults": 98,
-  "filteredCount": 0
+  "totalResults": 97,
+  "filteredCount": 1
 }
