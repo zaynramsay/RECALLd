@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-19T01:58:13.229Z",
+  "lastUpdated": "2025-08-19T06:36:40.199Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Caitlin McCormack",
+      "title": "2 premature babies die from infection linked to suspected dish soap contamination at Italy hospital as director warns ‘not unique’ issue",
+      "description": "The germ was linked to the industrial dishwashing soap used at the hospital, which was swiftly recalled.",
+      "url": "https://nypost.com/2025/08/17/world-news/2-premature-babies-die-from-infection-linked-to-suspected-dish-soap-contamination-at-italy-hospital/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/Untitled-1-2025-08-17T203156.540.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-08-18T02:42:57Z",
+      "content": "Two premature babies weighing less than two pounds died last week after contracting infections officials believe came from contaminated dish soap at the Italian hospital where they were being treated… [+2930 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,19 +1274,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VnE0Y1aD15vwfxA0_3RtOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b3e08a20-76e9-11f0-9ffb-75fb85bc5664",
       "publishedAt": "2025-08-11T19:36:18Z",
       "content": "Nearly four dozen lots of hand soap and lotion products made by DermaRite Industries are being voluntarily recalled after the company discovered contamination by potentially deadly bacteria, accordin… [+2626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Taylor Leamey",
-      "title": "8 Common Foods That Can Contain Microplastics and How to Avoid Them",
-      "description": "From rice to bottled water, you may be ingesting microplastics. However, there are some simple ways to minimize your exposure.",
-      "url": "https://www.cnet.com/health/nutrition/8-common-foods-that-can-contain-microplastics-and-how-to-avoid-them/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-08-11T19:09:00Z",
-      "content": "Microplastics aren't just an ocean pollution issue anymore. They're now a daily life, from diet to kitchen tools. Recent research shows that common foods, drinks and food storage containers may be de… [+11176 chars]"
     }
   ],
   "totalResults": 98,
