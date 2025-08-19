@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-18T18:37:25.380Z",
+  "lastUpdated": "2025-08-19T01:58:13.229Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tastingtable.com"
+      },
+      "author": "Lily McElveen",
+      "title": "These Are Hands Down Some Of The Most Annoying Things About Shopping At Whole Foods",
+      "description": "Even with alluring health food labels and unique products, there are still some things customers can't help but be bothered by while shopping at Whole Foods.",
+      "url": "https://www.tastingtable.com/1937075/most-annoying-things-about-shopping-whole-foods/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YZ5QmfV.ttE7ckPbDx.Qsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/tasting_table_543/15c715269efaa6d33dc4e9cb893f03f7",
+      "publishedAt": "2025-08-17T23:20:00Z",
+      "content": "Since its founding in Austin in 1978, Whole Foods has grown from being a local natural food store with 19 employees to an international grocery juggernaut that Amazon paid a cool $13.7 billion to acq… [+16576 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Hunter Geisel",
+      "title": "Mother sues Florida dairy farm, claiming she lost unborn baby after toddler got sick from drinking raw milk",
+      "description": "A Florida dairy farm was named in a lawsuit filed by a woman who claims she lost her unborn child after getting sick from drinking raw milk. Her toddler also got sick.",
+      "url": "https://www.cbsnews.com/miami/news/florida-mom-raw-milk-dairy-farm-lawsuit-fetus-lost/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/12/11/5f96461a-0e86-4322-937a-3602865cb11b/thumbnail/1200x630/980149b0bbea3af91b0455fa8aa04874/cbsn-fusion-raw-unpasteurized-milk-must-test-bird-flu-usda-mandates-thumbnail.jpg",
+      "publishedAt": "2025-08-17T22:33:35Z",
+      "content": "A Florida dairy farm was named in a lawsuit filed by a woman who claims she lost her unborn child after getting sick while caring for her toddler, who also got sick after drinking raw milk.\r\nRachel M… [+6065 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -329,6 +355,19 @@
     {
       "source": {
         "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Otter poop reveals they may be ecosystem engineers",
+      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
+      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Plos.org"
       },
       "author": "Kelemu Yimenu Gebre, Abebe Girma Demissie, Aderajew Adgo Tesema, Habtamu Zegeye Belay, Mekashaw Worku Akalye, Agere Bereket Friew, Fisseha Getachew Baye, Habtie Bassie Felatie, Mezgebu Abunie Yohannes, Marye Alemu Eshetu, Wondye Ayalew Shiferaw",
@@ -351,19 +390,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330167.g011&size=inline",
       "publishedAt": "2025-08-14T14:00:00Z",
       "content": "Introduction\r\nWater, Sanitation, and Hygiene (WASH) play an essential role in public health, particularly in low- and middle-income countries (LMICs). According to the World Health Organisation (WHO)… [+60836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Otter poop reveals they may be ecosystem engineers",
-      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
-      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
-      "publishedAt": "2025-08-14T14:00:00Z",
-      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
     },
     {
       "source": {
@@ -696,12 +722,12 @@
         "name": "DW (English)"
       },
       "author": "Holly Young",
-      "title": "Photosynthesis under attack by microplastics",
-      "description": "Research suggests tiny particles of plastic could hamper plant growth, with potentially serious consequences for global food supply and climate change. Cutting plastic production would help.",
-      "url": "https://www.dw.com/en/photosynthesis-under-attack-by-microplastics/a-73623861",
+      "title": "Plastic in plants: What it means for your food",
+      "description": "Plastic in soil can get into plant cells, slowing photosynthesis. That may mean smaller harvests. Scientists are racing to pin down how big the risk is.",
+      "url": "https://www.dw.com/en/plastic-in-plants-what-it-means-for-your-food/a-73623861",
       "urlToImage": "https://static.dw.com/image/72609897_6.jpg",
       "publishedAt": "2025-08-13T13:14:00Z",
-      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6691 chars]"
+      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6703 chars]"
     },
     {
       "source": {
@@ -709,12 +735,12 @@
         "name": "DW (English)"
       },
       "author": "Holly Young",
-      "title": "Plastic in plants: What it means for your food",
-      "description": "Plastic in soil can get into plant cells, slowing photosynthesis. That may mean smaller harvests. Scientists are racing to pin down how big the risk is.",
-      "url": "https://www.dw.com/en/plastic-in-plants-what-it-means-for-your-food/a-73623861",
+      "title": "Photosynthesis under attack by microplastics",
+      "description": "Research suggests tiny particles of plastic could hamper plant growth, with potentially serious consequences for global food supply and climate change. Cutting plastic production would help.",
+      "url": "https://www.dw.com/en/photosynthesis-under-attack-by-microplastics/a-73623861",
       "urlToImage": "https://static.dw.com/image/72609897_6.jpg",
       "publishedAt": "2025-08-13T13:14:00Z",
-      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6703 chars]"
+      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6691 chars]"
     },
     {
       "source": {
@@ -1248,32 +1274,6 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/2aec0495e5e1178d4908d2f3209f010de5f8b1cc/hub/2025/02/20/64231689-587b-49b3-a14b-a1e6389c7355/gettyimages-1210408853.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-08-11T19:09:00Z",
       "content": "Microplastics aren't just an ocean pollution issue anymore. They're now a daily life, from diet to kitchen tools. Recent research shows that common foods, drinks and food storage containers may be de… [+11176 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "John Hayward, John Hayward",
-      "title": "Zambia Insists Chinese River Poisoning 'Under Control' as U.S. Orders Personnel Away",
-      "description": "The U.S. embassy in Zambia has ordered all U.S. government personnel to avoid the area around the Chinese-owned mine near the northern city of Kitwe because “hazardous and carcinogenic substances” released during an accident six months ago may have polluted t…",
-      "url": "https://www.breitbart.com/africa/2025/08/11/zambia-insists-chinese-river-poisoning-under-control-as-u-s-orders-personnel-away/",
-      "urlToImage": "https://media.breitbart.com/media/2025/08/GettyImages-94902670-640x335.png",
-      "publishedAt": "2025-08-11T17:49:18Z",
-      "content": "The U.S. embassy in Zambia has ordered all U.S. government personnel to avoid the area around the Chinese-owned mine near the northern city of Kitwe because hazardous and carcinogenic substances rele… [+3130 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eater"
-      },
-      "author": "Paolo Bicchieri",
-      "title": "This Gluten-Free Bakery Is a Nostalgic Powerhouse",
-      "description": "The town of Springfield, Oregon — about two hours from Portland and 10 minutes from Eugene — is actually the pastiche of what one might expect a town that happens to share its name with that town made famous in the Simpsons. Not a ton going on. One Main Stree…",
-      "url": "https://pdx.eater.com/openings/105406/estelle-bakery-opening-springfield-eugene",
-      "urlToImage": "https://platform.pdx.eater.com/wp-content/uploads/sites/29/2025/08/IMG_6182.jpg?quality=90&strip=all&crop=0%2C25.011002476715%2C100%2C39.267015706806&w=1200",
-      "publishedAt": "2025-08-11T16:33:55Z",
-      "content": "The town of Springfield, Oregon — about two hours from Portland and 10 minutes from Eugene — is actually the pastiche of what one might expect a town that happens to share its name with that town mad… [+5139 chars]"
     }
   ],
   "totalResults": 98,
