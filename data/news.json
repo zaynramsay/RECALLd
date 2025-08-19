@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-08-19T06:36:40.199Z",
+  "lastUpdated": "2025-08-19T12:49:54.507Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Glenmark, Alembic Pharma, Sun Pharma recall products in US: USFDA",
+      "description": "Glenmark, Alembic Pharmaceuticals, and Sun Pharma are recalling various products in the US due to manufacturing issues, according to the USFDA. Glenmark is recalling Carvedilol tablets due to nitrosamine impurity and Theophylline tablets for failed dissolutio…",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/glenmark-alembic-pharma-sun-recall-products-in-us-usfda/articleshow/123365050.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123365204,width-1200,height-630,imgsize-55644,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-18T12:13:22Z",
+      "content": "Drug makers Glenmark, Alembic Pharmaceuticals and Sun Pharma are recalling products in the US due to manufacturing issues, according to the US health regulator.Mumbai-based Glenmark is recalling two … [+1833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nutritionfacts.org"
+      },
+      "author": "Michael Greger M.D. FACLM",
+      "title": "Are Environmental Toxins Lower in Wild-Caught or Farmed Fish?",
+      "description": "The adverse effects of industrial pollutants in seafood may counteract the benefits of nutrients in fish.",
+      "url": "https://nutritionfacts.org/video/are-environmental-toxins-lower-in-wild-caught-or-farmed-fish/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/07/07-are-the-pollutant-levels-lower-in-wild-caught-versus-farmed-fish-1200x675.jpg",
+      "publishedAt": "2025-08-18T11:50:55Z",
+      "content": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nAlthough the levels of i… [+4103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "U.S. Compounding Pharmacies Market Size on Track to Hit $10.93 Billion by 2034",
+      "description": "The U.S. compounding pharmacies market size reached USD 6.10 billion in 2024 and is expected to grow from USD 6.45 billion in 2025 to USD 10.93 billion by 2034. The market is growing at a CAGR of 6.04% from 2025 to 2034, driven by rising personalized medicine…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/18/3134876/0/en/U-S-Compounding-Pharmacies-Market-Size-on-Track-to-Hit-10-93-Billion-by-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-08-18T10:22:00Z",
+      "content": "Ottawa, Aug. 18, 2025 (GLOBE NEWSWIRE) -- According to precedence research, the U.S. compounding pharmacies market size will hit around USD 10.93 billion by 2034, fueled by growing demand for customi… [+26989 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "SC rejects plea over toxic cassia being sold as cinnamon in Kerala",
+      "description": "The Supreme Court declined to hear a plea concerning the sale of toxic cassia as cinnamon in Kerala, citing the High Court's existing directives to authorities. The petitioner alleged that cassia, containing harmful substances, was being sold as cinnamon.",
+      "url": "https://economictimes.indiatimes.com/news/india/sc-rejects-plea-over-toxic-cassia-being-sold-as-cinnamon-in-kerala/articleshow/123361035.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123361065,width-1200,height-630,imgsize-12822,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-18T09:19:53Z",
+      "content": "The Supreme Court on Monday refused to examine a plea alleging contamination of cinnamon and toxic cassia being sold as the spice in Kerala. A bench of Justices Vikram Nath and Sandeep Mehta was hear… [+1856 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -368,19 +420,6 @@
     {
       "source": {
         "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Otter poop reveals they may be ecosystem engineers",
-      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
-      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
-      "publishedAt": "2025-08-14T14:00:00Z",
-      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Plos.org"
       },
       "author": "Kelemu Yimenu Gebre, Abebe Girma Demissie, Aderajew Adgo Tesema, Habtamu Zegeye Belay, Mekashaw Worku Akalye, Agere Bereket Friew, Fisseha Getachew Baye, Habtie Bassie Felatie, Mezgebu Abunie Yohannes, Marye Alemu Eshetu, Wondye Ayalew Shiferaw",
@@ -403,6 +442,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330167.g011&size=inline",
       "publishedAt": "2025-08-14T14:00:00Z",
       "content": "Introduction\r\nWater, Sanitation, and Hygiene (WASH) play an essential role in public health, particularly in low- and middle-income countries (LMICs). According to the World Health Organisation (WHO)… [+60836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Otter poop reveals they may be ecosystem engineers",
+      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
+      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
     },
     {
       "source": {
@@ -735,12 +787,12 @@
         "name": "DW (English)"
       },
       "author": "Holly Young",
-      "title": "Plastic in plants: What it means for your food",
-      "description": "Plastic in soil can get into plant cells, slowing photosynthesis. That may mean smaller harvests. Scientists are racing to pin down how big the risk is.",
-      "url": "https://www.dw.com/en/plastic-in-plants-what-it-means-for-your-food/a-73623861",
+      "title": "Photosynthesis under attack by microplastics",
+      "description": "Research suggests tiny particles of plastic could hamper plant growth, with potentially serious consequences for global food supply and climate change. Cutting plastic production would help.",
+      "url": "https://www.dw.com/en/photosynthesis-under-attack-by-microplastics/a-73623861",
       "urlToImage": "https://static.dw.com/image/72609897_6.jpg",
       "publishedAt": "2025-08-13T13:14:00Z",
-      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6703 chars]"
+      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6691 chars]"
     },
     {
       "source": {
@@ -748,12 +800,12 @@
         "name": "DW (English)"
       },
       "author": "Holly Young",
-      "title": "Photosynthesis under attack by microplastics",
-      "description": "Research suggests tiny particles of plastic could hamper plant growth, with potentially serious consequences for global food supply and climate change. Cutting plastic production would help.",
-      "url": "https://www.dw.com/en/photosynthesis-under-attack-by-microplastics/a-73623861",
+      "title": "Plastic in plants: What it means for your food",
+      "description": "Plastic in soil can get into plant cells, slowing photosynthesis. That may mean smaller harvests. Scientists are racing to pin down how big the risk is.",
+      "url": "https://www.dw.com/en/plastic-in-plants-what-it-means-for-your-food/a-73623861",
       "urlToImage": "https://static.dw.com/image/72609897_6.jpg",
       "publishedAt": "2025-08-13T13:14:00Z",
-      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6691 chars]"
+      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6703 chars]"
     },
     {
       "source": {
@@ -1222,58 +1274,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2700688/neuhaus-chocolate.jpg",
       "publishedAt": "2025-08-11T22:10:17Z",
       "content": "Neuhaus Chocolates NV is recalling their Belgian Chocolate Moments Smurfs 'Popping Milk Chocolates with Cookies because the product contains wheat which was not declared on the packaging.\r\nNewsweek r… [+2977 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Dollar General Announces Voluntary Recall of Clover Valley® Instant Coffee Due to Potential Presence of Glass",
-      "description": "Goodlettsville, Tennessee – August 11, 2025 –Dollar General Corporation is recalling three (3) lots of its eight (8) ounce Clover Valley® Instant Coffee due to the potential presence of glass.",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dollar-general-announces-voluntary-recall-clover-valleyr-instant-coffee-due-potential-presence-glass",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-08-11T21:55:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nAugust 11, 2025\r\nFDA Publish Date:\r\nAugust 12, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nReason for Announcement:\r\nRecall Reason Description\r\nPotential presence… [+2775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BroBible"
-      },
-      "author": "Douglas Charles",
-      "title": "FDA Issues Warning About Hand Soap Potentially Causing ‘Life-Threatening’ Sepsis",
-      "description": "The U.S. Food and Drug Administration (FDA) has issued a nationwide recall of a specific brand of hand soap due to the risk of sepsis. The recall was issued for hand soaps manufactured and distributed by DermaRite Industries due to microbial contamination ide…",
-      "url": "https://brobible.com/culture/article/fda-warning-hand-soap-causing-sepsis/",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2025/08/Bacteria-in-blood-flow-Bacteremia-or-Sepsis.jpg",
-      "publishedAt": "2025-08-11T20:40:53Z",
-      "content": "iStockphoto\r\nAudio By Carbonatix\r\nThe U.S. Food and Drug Administration (FDA) has issued a nationwide recall of a specific brand of hand soap due to the risk of sepsis. The recall was issued for hand… [+2115 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Mili Godio",
-      "title": "We tested over a dozen meal delivery services — these are the ones we recommend",
-      "description": "We asked experts for the best meal delivery services in 2025. These are the best meal kit services for everyone from Blue Apron, Home Chef, CookUnity and more.",
-      "url": "https://www.nbcnews.com/select/shopping/best-meal-delivery-services-rcna224305",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250807-meal-delivery-bd-main-4202d3.jpg",
-      "publishedAt": "2025-08-11T20:33:56Z",
-      "content": "If your weekly routine consists of struggling with dinner recipes or feeling overwhelmed by meal prep times, you may want to consider exploring a meal delivery service. These services send either pre… [+24616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Andrew Romano",
-      "title": "Hand soap recalled over bacterial contamination that could cause sepsis. Here’s a list of the affected products.",
-      "description": "DermaRite's recalled products were distributed throughout the United States and Puerto Rico.",
-      "url": "https://www.yahoo.com/news/us/article/hand-soap-recalled-over-bacterial-contamination-that-could-cause-sepsis-heres-a-list-of-the-affected-products-193618990.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VnE0Y1aD15vwfxA0_3RtOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b3e08a20-76e9-11f0-9ffb-75fb85bc5664",
-      "publishedAt": "2025-08-11T19:36:18Z",
-      "content": "Nearly four dozen lots of hand soap and lotion products made by DermaRite Industries are being voluntarily recalled after the company discovered contamination by potentially deadly bacteria, accordin… [+2626 chars]"
     }
   ],
   "totalResults": 98,
