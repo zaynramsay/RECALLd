@@ -1,6 +1,201 @@
 {
-  "lastUpdated": "2025-08-20T12:51:17.375Z",
+  "lastUpdated": "2025-08-20T18:35:02.925Z",
   "articles": [
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Richard Hall",
+      "title": "FDA Issues Warning Over Potentially Radioactive Shrimp",
+      "description": "The FDA warned about certain frozen shrimp products sold at Walmart due to possible contamination with Cesium-137, a radioactive isotope.",
+      "url": "https://time.com/7310679/fda-shrimp-radioactive-warning-recall/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2021/03/Shrimp-Tails-Cinnamon-Toast-Crunch.jpg?quality=85&w=478&h=360&crop=1",
+      "publishedAt": "2025-08-19T18:16:43Z",
+      "content": "The Food and Drug Administration has warned the public not to consume certain frozen shrimp products sold at Walmart due to possible contamination with Cesium-137, a radioactive isotope.\r\nIt said the… [+3127 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Is Walmart selling radioactive shrimp? What the FDA wants you to know",
+      "description": "The FDA has warned that certain frozen shrimp sold at Walmart may be contaminated with the radioactive isotope Cesium-137. The affected products come from Indonesia’s BMS Foods and carry specific lot codes of Great Value brand shrimp. While no contaminated sh…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/is-walmart-selling-radioactive-shrimp-what-the-fda-wants-you-to-know/articleshow/123393112.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123393157,width-1200,height-630,imgsize-103113,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-19T18:02:03Z",
+      "content": "The U.S. Food and Drug Administration has issued a warning to Walmart customers over certain frozen shrimp that may be contaminated with Cesium-137, a radioactive isotope. In a press release, the FDA… [+3876 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Aimee  Picchi",
+      "title": "FDA warns some Walmart shrimp carry risk of radioactive contamination",
+      "description": "Some packages of Great Value frozen shrimp sold at Walmart are at risk for potential for Cesium-137 contamination, the FDA says.",
+      "url": "https://www.cbsnews.com/news/walmart-great-value-shrimp-radioactive-contamination-cesium-137-fda/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/15/e0eb438e-0160-4cd5-8d29-a19e64dcabc1/thumbnail/1200x630/9232fb1fdfafcb6326577d7adc21a916/cbsn-fusion-walmart-plans-to-raise-prices-as-tariff-uncertainty-looms-over-upcoming-holidays-thumbnail.jpg",
+      "publishedAt": "2025-08-19T17:58:57Z",
+      "content": "Some frozen shrimp sold at Walmart under the Great Value label are at risk of radioactive contamination and shouldn't be consumed, according to a warning from the U.S. Food and Drug Administration. \r… [+2774 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Robert Alexander",
+      "title": "Mom Launches Raw Milk Lawsuit After Losing Unborn Son",
+      "description": "The milk was blamed for a mother's miscarriage and second child's illness, raising questions over Florida's dairy rules.",
+      "url": "https://www.newsweek.com/mom-launches-raw-milk-lawsuit-after-losing-unborn-son-2115745",
+      "urlToImage": "https://d.newsweek.com/en/full/2705380/keely-farms-dairy-raw-milk.jpg",
+      "publishedAt": "2025-08-19T17:42:03Z",
+      "content": "A Florida mother has filed a lawsuit against a dairy farm, alleging that raw milk sold at a market caused severe illness in her toddler and led to the loss of her 20-week pregnancy.\r\nThe complaint, f… [+6623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Neia Balao",
+      "title": "Walmart shrimp recalled due to possible radioactive contamination, FDA says",
+      "description": "The FDA issued a press release on Tuesday outlining the potential risks.",
+      "url": "https://www.yahoo.com/news/us/articles/walmart-shrimp-recalled-due-to-possible-radioactive-contamination-fda-says-173449010.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QWuHfQfZHjVmuESes1rzwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/dec097e0-7d1e-11f0-b6f3-62979c1245ae",
+      "publishedAt": "2025-08-19T17:34:49Z",
+      "content": "The U.S. Food and Drug Administration is warning the public about possibly radioactive shrimp being sold at Walmart locations.\r\nOn Tuesday morning, the FDA advised Walmart customers in a press releas… [+1649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPXI Pittsburgh"
+      },
+      "author": "Cox Media Group National Content Desk",
+      "title": "FDA warning: Do not eat Walmart Indonesian shrimp; one sample tested for radioactive contamination",
+      "description": "The FDA is investigating reports of Cesium-137 contamination in frozen shrimp products from PT. Bahari Makmur Sejati of Indonesia, after  Customs & Border Protection detected the radioisotope at four U.S. ports.",
+      "url": "https://www.wpxi.com/news/trending/fda-warning-do-not-eat-walmart-indonesian-shrimp-one-sample-tested-radioactive-contamination/N2Z3LL4JSFAPZEQCGBWFLERCMU/",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBNHTDZETSRE73DGXKLZTQGRFMI.jpeg?auth=7ce133bb46d66d4249bf7e8b229f90a013dbfa0123eab7b70e90429e950c6e8e&width=1200&height=630&smart=true",
+      "publishedAt": "2025-08-19T17:31:48Z",
+      "content": "The FDA is investigating reports of Cesium-137 contamination in frozen shrimp products from PT. Bahari Makmur Sejati of Indonesia, after Customs &amp; Border Protection detected the radioisotope at f… [+1596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPVI-TV"
+      },
+      "author": "6abc philadelphia",
+      "title": "FDA investigating possibly radioactive shrimp sold at WALMART...",
+      "description": "Officials said, at this time, no product that has tested positive or alerted for Cesium-137 (Cs-137) has entered the U.S. commerce",
+      "url": "https://6abc.com/post/fda-warns-public-not-eat-possibly-radioactive-shrimp-great-value-brand-sold-walmart-13-states/17586897/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17586977_081925-wpvi-fda-shrimp-radioactive-img.jpg?w=1600",
+      "publishedAt": "2025-08-19T17:00:03Z",
+      "content": "The FDA is warning the public about possibly radioactive shrimp that may have been sold at Walmart in 13 states.\r\nThe warning is for some Great Value raw frozen shrimp because it may be contaminated … [+2545 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Sony Salzman",
+      "title": "FDA warns public not to eat possibly radioactive shrimp sold at Walmart",
+      "description": "No shrimp that tested positive has entered the U.S. food supply, the FDA said.",
+      "url": "https://abcnews.go.com/US/fda-warns-public-eat-possibly-radioactive-shrimp-sold/story?id=124780934",
+      "urlToImage": "https://i.abcnewsfe.com/a/dc63a201-1ec6-4f50-814f-f4876133da4a/frozen-shrimp-gty-jt-250819_1755618783992_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-08-19T16:15:00Z",
+      "content": "The Food and Drug Administration is warning the public not to eat, sell or serve certain Great Value raw frozen shrimp sold at Walmart due to possible contamination with Cesium-137, a radioactive iso… [+2127 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Andrew Stanton",
+      "title": "Shrimp Sold at Walmart May Be Radioactive: Warning Issued to Customers",
+      "description": "The FDA warned that some frozen shrimp products may contain radioactive substance Cesium-137.",
+      "url": "https://www.newsweek.com/shrimp-walmart-radioactive-fda-warning-2115714",
+      "urlToImage": "https://d.newsweek.com/en/full/2705343/shrimp-warning-issued-fda.jpg",
+      "publishedAt": "2025-08-19T15:21:40Z",
+      "content": "The Food and Drug Administration (FDA) warned Americans that some shrimp products sold at Walmart may contain a radioactive substance known as Cesium-137.\r\nNewsweek reached out to Walmart for comment… [+3610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Jeff Butts",
+      "title": "5 personalized kitchen gadgets you can 3D print",
+      "description": "From spice organizers to cookie cutters, bring creativity and practicality to your cooking space.",
+      "url": "https://www.xda-developers.com/personalized-kitchen-gadgets-3d-print/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/cat-planter-on-top-of-3d-printer.jpeg",
+      "publishedAt": "2025-08-19T15:00:10Z",
+      "content": "Cooking is more fun when the tools you use feel like they belong in your kitchen. With a 3D printer, you can take personalization a step further by making gadgets designed for your exact space, style… [+8172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Raeesa Bhikhoo, Krisdan Bezuidenhout, Lesego Molale-Tom, Charlotte Mienie, Carlos Bezuidenhout",
+      "title": "Marine outfall discharges contribute to coastal microplastic pollution and the spread of antimicrobial resistance",
+      "description": "Microplastics are widespread in marine environments, with significant contributions from land-based wastewater treatment plants (WWTPs). A desktop study was conducted on regulatory framework for marine outfalls in South African coastal cities. The South Afric…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329599",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329599.g011&size=inline",
+      "publishedAt": "2025-08-19T14:00:00Z",
+      "content": "Abstract\r\nMicroplastics are widespread in marine environments, with significant contributions from land-based wastewater treatment plants (WWTPs). A desktop study was conducted on regulatory framewor… [+94176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Viviana Pagone, David Pujal, José Luis Maestro",
+      "title": "An insulin-like peptide specific for a cockroach male reproductive gland",
+      "description": "The insulin-IGF-signalling (IIS) pathway plays crucial roles in animal physiology. In insects, this pathway uses multiple ligands, insulin-like peptides (ILPs), and a smaller number of insulin receptors (InRs). Consequently, much of the regulation of IIS path…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329852",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329852.g007&size=inline",
+      "publishedAt": "2025-08-19T14:00:00Z",
+      "content": "Citation: Pagone V, Pujal D, Maestro JL (2025) An insulin-like peptide specific for a cockroach male reproductive gland. PLoS One 20(8):\r\n e0329852.\r\nhttps://doi.org/10.1371/journal.pone.0329852\r\nEdi… [+35369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Anhui Hanbon Daily Chemical Co., Ltd. - 708903 - 08/11/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/anhui-hanbon-daily-chemical-co-ltd-708903-08112025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-08-19T13:20:05Z",
+      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-100\r\nProduct:\r\nDrugs \r\nRecipient:\r\nAnhui Hanbon Daily Chemical Co., Ltd.\r\nNo.55 Chuangye AvenueXinqiao International Industrial ParkHuainan… [+15162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Boothwyn Pharmacy LLC - 710247 - 06/09/2025",
+      "description": "Unapproved New Animal Drug/Adulterated/Misbranded",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/boothwyn-pharmacy-llc-710247-06092025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-08-19T13:20:04Z",
+      "content": "Product:\r\nAnimal &amp; VeterinaryDrugs \r\nRecipient:\r\nBoothwyn Pharmacy LLC \r\n221 Gale LnKennett Square, PA19348United States\r\nadustman@boothwyn.com\r\nIssuing Office:\r\nCenter for Veterinary Medicine\r\nU… [+24769 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Matthew Robinson",
+      "title": "Cheese Recall as 'Serious' Contamination Warning Issued",
+      "description": "Middlefield Original Cheese Co-Op has announced a recall of various cheese products due to potential Listeria contamination.",
+      "url": "https://www.newsweek.com/cheese-recall-serious-contamination-warning-listeria-fda-2115594",
+      "urlToImage": "https://d.newsweek.com/en/full/2705149/cheese.jpg",
+      "publishedAt": "2025-08-19T13:17:17Z",
+      "content": "An Ohio-based company has issued a voluntary recall for various cheese products due to potential contamination with Listeria monocytogenes, the U.S. Food and Drug Administration (FDA) said.\r\nMiddlefi… [+4407 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -654,6 +849,19 @@
     {
       "source": {
         "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Otter poop reveals they may be ecosystem engineers",
+      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
+      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Plos.org"
       },
       "author": "Kelemu Yimenu Gebre, Abebe Girma Demissie, Aderajew Adgo Tesema, Habtamu Zegeye Belay, Mekashaw Worku Akalye, Agere Bereket Friew, Fisseha Getachew Baye, Habtie Bassie Felatie, Mezgebu Abunie Yohannes, Marye Alemu Eshetu, Wondye Ayalew Shiferaw",
@@ -676,19 +884,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330167.g011&size=inline",
       "publishedAt": "2025-08-14T14:00:00Z",
       "content": "Introduction\r\nWater, Sanitation, and Hygiene (WASH) play an essential role in public health, particularly in low- and middle-income countries (LMICs). According to the World Health Organisation (WHO)… [+60836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Otter poop reveals they may be ecosystem engineers",
-      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
-      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
-      "publishedAt": "2025-08-14T14:00:00Z",
-      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
     },
     {
       "source": {
@@ -1021,12 +1216,12 @@
         "name": "DW (English)"
       },
       "author": "Holly Young",
-      "title": "Photosynthesis under attack by microplastics",
-      "description": "Research suggests tiny particles of plastic could hamper plant growth, with potentially serious consequences for global food supply and climate change. Cutting plastic production would help.",
-      "url": "https://www.dw.com/en/photosynthesis-under-attack-by-microplastics/a-73623861",
+      "title": "Plastic in plants: What it means for your food",
+      "description": "Plastic in soil can get into plant cells, slowing photosynthesis. That may mean smaller harvests. Scientists are racing to pin down how big the risk is.",
+      "url": "https://www.dw.com/en/plastic-in-plants-what-it-means-for-your-food/a-73623861",
       "urlToImage": "https://static.dw.com/image/72609897_6.jpg",
       "publishedAt": "2025-08-13T13:14:00Z",
-      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6691 chars]"
+      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6703 chars]"
     },
     {
       "source": {
@@ -1034,12 +1229,12 @@
         "name": "DW (English)"
       },
       "author": "Holly Young",
-      "title": "Plastic in plants: What it means for your food",
-      "description": "Plastic in soil can get into plant cells, slowing photosynthesis. That may mean smaller harvests. Scientists are racing to pin down how big the risk is.",
-      "url": "https://www.dw.com/en/plastic-in-plants-what-it-means-for-your-food/a-73623861",
+      "title": "Photosynthesis under attack by microplastics",
+      "description": "Research suggests tiny particles of plastic could hamper plant growth, with potentially serious consequences for global food supply and climate change. Cutting plastic production would help.",
+      "url": "https://www.dw.com/en/photosynthesis-under-attack-by-microplastics/a-73623861",
       "urlToImage": "https://static.dw.com/image/72609897_6.jpg",
       "publishedAt": "2025-08-13T13:14:00Z",
-      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6703 chars]"
+      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6691 chars]"
     },
     {
       "source": {
@@ -1053,216 +1248,8 @@
       "urlToImage": "https://grist.org/wp-content/uploads/2025/08/Pongan-fin-a-la-contaminacion-plastica.jpg?quality=75&strip=all",
       "publishedAt": "2025-08-13T13:00:00Z",
       "content": "Plastics dont just pose a threat to the marine environment and peoples health; they jeopardize basic human rights. This is the framing that a growing number of legal experts, policymakers, and enviro… [+9833 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matt Cannon",
-      "title": "Nationwide Coffee Recall as Products May Contain Glass",
-      "description": "Dollar General Corporation has recalled select lots of its Clover Valley Instant Coffee products over contamination concerns.",
-      "url": "https://www.newsweek.com/coffee-recall-nationwide-dollar-general-contain-glass-fda-2112785",
-      "urlToImage": "https://d.newsweek.com/en/full/2701608/coffee.jpg",
-      "publishedAt": "2025-08-13T12:59:14Z",
-      "content": "Dollar General Corporation has recalled select lots of its Clover Valley Instant Coffee products sold nationwide over concerns they may contain glass fragments.\r\nThe recalled products were sold and d… [+2984 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Chang He, Professor of environmental sciences, The University of Queensland",
-      "title": "How to improve the monitoring of chemical contaminants in the human body",
-      "description": "We are exposed to countless chemicals every day, some of which can harm our health. Measuring the effects of this pollution is a major challenge.",
-      "url": "https://theconversation.com/how-to-improve-the-monitoring-of-chemical-contaminants-in-the-human-body-233255",
-      "urlToImage": "https://images.theconversation.com/files/684885/original/file-20250811-56-yej1a0.jpg?ixlib=rb-4.1.0&rect=0%2C11%2C1920%2C960&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-08-13T12:27:32Z",
-      "content": "From pesticides in our food to hormone disruptors in our kitchen pans, modern life is saturated with chemicals, exposing us to unknown long-term health impacts.\n\nOne of the surest routes to quantifyi… [+6992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "Benjamin Lee, Rahimy Rahim, Allison Lai",
-      "title": "Special select committee sets October hearing on Kelantan river contamination",
-      "description": "KUALA LUMPUR: A special select Parliamentary committee hearing on severe river contamination near an Orang Asli village in Kelantan will be held in October. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/08/13/special-select-committee-sets-october-hearing-on-kelantan-river-contamination",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-08-13T08:53:00Z",
-      "content": "KUALA LUMPUR: A special select Parliamentary committee hearing on severe river contamination near an Orang Asli village in Kelantan will be held in October.\r\nThe affected village - Kampung Kelaik in … [+909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
-      "title": "[Latest] Global Stainless Steel Scrap Market Size/Share Worth USD 70.84 Billion by 2034 at a 7.01% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "description": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Stainless Steel Scrap Market size & share revenue was valued at approximately USD 35.98 Billion in 2024 and is expected to reach…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/13/3132336/0/en/Latest-Global-Stainless-Steel-Scrap-Market-Size-Share-Worth-USD-70-84-Billion-by-2034-at-a-7-01-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmenta.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
-      "publishedAt": "2025-08-13T08:30:00Z",
-      "content": "Austin, TX, USA, Aug. 13, 2025 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled Stainless Steel Scrap Market Size, Trends and Insights By Scrap Type (Austenitic 3… [+33904 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Plastic in Cadbury chocolate? Company recalls its popular product amid concerns; what you need to know",
-      "description": "Cadbury Australia has recalled its Marvellous Creations chocolate. This recall is due to potential plastic contamination. The affected product is the 160g share bag with a May 26, 2026, use-by date. Consumers are advised not to eat the chocolate. They should …",
-      "url": "https://economictimes.indiatimes.com/news/international/australia/plastic-in-cadbury-chocolate-company-recalls-its-popular-products-amid-concerns-what-you-need-to-know/articleshow/123275210.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123275273,width-1200,height-630,imgsize-827171,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-13T07:47:48Z",
-      "content": "A highly popular Cadbury chocolate across Australia has been recalled amid concerns about the presence of foreign matter (plastic). Food Standards Australia announced the recall of the 10-piece share… [+2059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "author": "Gretchen McKay",
-      "title": "Cheeseburger rice paper spirals offer tasty gluten-free option",
-      "description": "Recipes for the culinary creation dubbed the \"Big Mac Spiral\" have been making the rounds on social media for a while.",
-      "url": "https://www.bostonherald.com/2025/08/13/cheeseburger-rice-paper-spirals-offer-tasty-gluten-free-option/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/STP-Z-SPIRALS-01.jpg?w=992&h=794",
-      "publishedAt": "2025-08-13T07:25:57Z",
-      "content": "Fast food burgers hit the spot on road trips and when youre pressed for time. But given most sandwich buns are made with wheat, there often arent a lot of options for those with gluten allergies.\r\nTh… [+4135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Caitlin McCormack",
-      "title": "2 dead, 14 hospitalized after eating tainted sausage and turnip top sandwiches in Italy",
-      "description": "One of the victims was sent home from the hospital after complaining he still wasn't feeling well and later died, his sister said.",
-      "url": "https://nypost.com/2025/08/12/world-news/2-dead-14-hospitalized-after-eating-tainted-sausage-and-turnip-top-sandwiches-in-italy/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/Comp-Two-die.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-08-12T21:59:42Z",
-      "content": "Two people died and 14 others, including two teenagers, were hospitalized after eating sausage and turnip top paninis from a food truck in southwest Italy linked to the country’s second toxic botulis… [+2408 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Mary  Cunningham",
-      "title": "DermaRite recalls antiseptic soaps and topical lotion due to infection risk",
-      "description": "DermaRite Industries announced​ on Friday that it was voluntarily recalling three skin-cleansing products and an anti-itch lotion over microbial contamination concerns.",
-      "url": "https://www.cbsnews.com/news/recall-contamination-dermarite-antiseptic-soap-lotion-burkholderia/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/12/20d2122b-4de6-4dc6-9f7a-a410ec481370/thumbnail/1200x630/4804f34f8c72b98c29eb3348c45d7a0f/image-3-76.jpg",
-      "publishedAt": "2025-08-12T21:19:19Z",
-      "content": "A U.S. company that makes health care products is recalling four over-the-counter skin cleansers and an anti-itch lotion it says could lead to \"serious and life-threatening infections.\" \r\nNew Jersey-… [+2254 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Andrew Stanton",
-      "title": "Weed Recall Issued for Thousands of Products Over Health Risk",
-      "description": "More than 26,000 cannabis products have been recalled across Michigan.",
-      "url": "https://www.newsweek.com/weed-recall-issued-michigan-mct-oil-2112553",
-      "urlToImage": "https://d.newsweek.com/en/full/2701270/marijuana-recall-michigan.jpg",
-      "publishedAt": "2025-08-12T20:34:38Z",
-      "content": "More than 20,000 cannabis products have been recalled in Michigan over health concerns, the state's Cannabis Regulatory Agency (CRA) announced on Tuesday.\r\nNewsweek reached out to the Michigan CRA fo… [+2827 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "See you in court! Trump targets Fed Chair Jerome Powell with massive lawsuit threat",
-      "description": "Donald Trump lawsuit Jerome Powell: Donald Trump is threatening a lawsuit against Federal Reserve Chair Jerome Powell over a $3 billion renovation project he deems \"horrible and grossly incompetent.\" Trump claims the project should have cost only $50 million.…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/donald-trump-lawsuit-jerome-powell-news-trump-targets-fed-chair-jerome-powell-with-massive-lawsuit-threat/articleshow/123262712.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123262675,width-1200,height-630,imgsize-68308,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-12T18:51:35Z",
-      "content": "Donald Trump lawsuit Jerome Powell: US president Donald Trump is once again turning up the heat on Federal Reserve Chair Jerome Powell, this time threatening a major lawsuit over what he calls a \"hor… [+3603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Study Finds",
-      "title": "Licorice Extract Nearly Doubles Chicken Shelf Life In Lab Tests",
-      "description": "A chef carefully inspects a cooked chicken breast. (Photo by guys_who_shoot on Shutterstock) In A Nutshell * Licorice root extract significantly slowed P. bifermentans bacterial growth in ready-to-eat chicken at concentrations ≥ 12.5 mg/mL. * At 15°C and 20°C…",
-      "url": "https://freerepublic.com/focus/f-chat/4334193/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-08-12T18:06:00Z",
-      "content": "Skip to comments.\r\nLicorice Extract Nearly Doubles Chicken Shelf Life In Lab Tests\r\nStudy Finds ^\r\n | August 12, 2025\r\n | Ming Huang and Jichao Huang (Nanjing Agricultural University)\r\nPosted on 08/1… [+8300 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Yi-Jin Yu",
-      "title": "Hand soaps, cleansers voluntarily recalled due to bacteria contamination",
-      "description": "DermaRite is recalling multiple products, including some of its DermaKleen, PeriGiene and KleenFoam soaps, due to bacteria contamination.",
-      "url": "https://abcnews.go.com/GMA/Living/hand-soaps-cleansers-voluntarily-recalled-due-bacteria-contamination/story?id=124573121",
-      "urlToImage": "https://i.abcnewsfe.com/a/8525e3ff-7ea7-4865-a489-16634f973e43/dermarite-recall-2-ht-gmh-250812_1755005571198_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "2025-08-12T18:01:55Z",
-      "content": "A New Jersey-based medical care and skin care products manufacturer is voluntarily recalling multiple types of hand soap, cleanser and antiseptic products due to bacteria contamination.\r\nDermaRite In… [+2750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPVI-TV"
-      },
-      "author": null,
-      "title": "DermaRite hand soap recall: New Jersey company recalls certain soaps, lotions, cleansers due to potentially deadly bacteria",
-      "description": "DermaRite hand soap recall: New Jersey company recalls certain soaps, lotions, cleansers due to potentially deadly bacteria6abc.com",
-      "url": "https://6abc.com/post/dermarite-hand-soap-recall-new-jersey-company-recalls-certain-soaps-lotions-cleansers-due-potentially-deadly-bacteria/17514047/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/17513465_081225-wabc-REV-dermarite-split-img.jpg?w=1600",
-      "publishedAt": "2025-08-12T17:50:30Z",
-      "content": "NORTH BERGEN, N.J. (WPVI) -- A New Jersey-based medical care and skin care products manufacturer is voluntarily recalling multiple types of hand soap, cleanser and antiseptic products due to bacteria… [+3414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Deadly bacteria forces nationwide recall of 4 hand soaps",
-      "description": "Federal health authorities have issued an urgent warning after DermaRite Industries voluntarily recalled dozens of hand soap and lotion products due to dangerous bacterial contamination that could prove fatal for vulnerable populations. The Food Safety and In…",
-      "url": "https://rollingout.com/2025/08/12/bacteria-forces-recall-of-4-hand-soaps/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_1059692093-scaled.jpg",
-      "publishedAt": "2025-08-12T17:45:46Z",
-      "content": "Federal health authorities have issued an urgent warning after DermaRite Industries voluntarily recalled dozens of hand soap and lotion products due to dangerous bacterial contamination that could pr… [+4571 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Hand wash products sold at Walmart recalled nationwide over life-threatening risk. What should you do if you bought it?",
-      "description": "A nationwide recall has been issued for several soap and lotion products sold in the US and Puerto Rico due to contamination with Burkholderia cepacia complex (Bcc) bacteria. DermaRite Industries initiated the recall after discovering the bacteria, which can …",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-hand-wash-products-sold-at-walmart-recalled-nationwide-over-life-threatening-risk-sepsis-what-should-you-do-if-you-bought-it/articleshow/123262972.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123263037,width-1200,height-630,imgsize-228028,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-12T17:09:03Z",
-      "content": "A number of variety soaps sold in the US and in Puerto Rico have been voluntarily recalled after it was found they have been contaminated with life-threatening bacteria. A nationwide recall was issue… [+5619 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Yi-Jin Yu",
-      "title": "Hand soaps, cleansers voluntarily recalled over bacteria contamination",
-      "description": "DermaRite is recalling multiple products, including some of its DermaKleen, PeriGiene and KleenFoam soaps, due to bacteria contamination.",
-      "url": "https://abcnews.go.com/GMA/Wellness/hand-soaps-cleansers-voluntarily-recalled-due-bacteria-contamination/story?id=124573121",
-      "urlToImage": "https://i.abcnewsfe.com/a/8525e3ff-7ea7-4865-a489-16634f973e43/dermarite-recall-2-ht-gmh-250812_1755005571198_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "2025-08-12T17:04:33Z",
-      "content": "A New Jersey-based medical care and skin care products manufacturer is voluntarily recalling multiple types of hand soap, cleanser and antiseptic products due to bacteria contamination.\r\nDermaRite In… [+2750 chars]"
     }
   ],
-  "totalResults": 97,
+  "totalResults": 96,
   "filteredCount": 1
 }
