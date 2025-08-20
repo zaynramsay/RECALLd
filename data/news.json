@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-08-20T06:36:42.089Z",
+  "lastUpdated": "2025-08-20T12:51:17.375Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "WPXI Pittsburgh"
+      },
+      "author": "Cox Media Group National Content Desk",
+      "title": "Recall alert: Dollar General recalls Clover Valley Instant Coffee; may contain pieces of glass",
+      "description": "Dollar General Corporation is recalling three lots of its Clover Valley Instant Coffee due to potential glass contamination.",
+      "url": "https://www.wpxi.com/news/trending/recall-alert-dollar-general-recalls-clover-valley-instant-coffee-may-contain-pieces-glass/NZK3M3N6SBCTPF5SWLPTJGBHSY/",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYAT7FXYK3ZDVJGCVVM3AMWWLHU.jpg?auth=3e2f5d3494c74fee08c12cc41b75efe7293b0c86fedc306a141d102fdc727268&width=1200&height=630&smart=true",
+      "publishedAt": "2025-08-19T12:50:57Z",
+      "content": "Dollar General Corporation is recalling three lots of its Clover Valley Instant Coffee due to potential glass contamination.\r\nThe recall affects 8-ounce packages of Clover Valley Instant Coffee with … [+1722 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WFTV Orlando"
+      },
+      "author": "Cox Media Group National Content Desk",
+      "title": "Recall alert: Wegmans recalls Camembert cheese due to possible Listeria contamination",
+      "description": "Wegmans Food Markets, Inc. has issued a recall for its Medium Camembert Soft Ripened Cheese and products containing it due to potential Listeria monocytogenes contamination.",
+      "url": "https://www.wftv.com/news/trending/recall-alert-wegmans-recalls-camembert-cheese-due-possible-listeria-contamination/VSE4XPPDDBAUNKYIP3CDEPL37A/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLVVBXREQE5HELFZKQHBFJWZ2JM.jpg?auth=04cae525a87f395782ad5444f2cecd3c08fba5d92e6936b8fd5e7b6046ffa0ae&width=1200&height=630&smart=true",
+      "publishedAt": "2025-08-19T11:33:05Z",
+      "content": "Wegmans Food Markets, Inc. has issued a recall for its Medium Camembert Soft Ripened Cheese and products containing it due to potential Listeria monocytogenes contamination.\r\nThe recall affects items… [+1499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Cox Media Group National Content Desk",
+      "title": "Recall alert: Wegmans recalls Camembert cheese due to possible Listeria contamination",
+      "description": "Wegmans Food Markets, Inc. has issued a recall for its Medium Camembert Soft Ripened Cheese and products containing it due to potential Listeria monocytogenes contamination.",
+      "url": "https://www.wsbtv.com/news/trending/recall-alert-wegmans-recalls-camembert-cheese-due-possible-listeria-contamination/VSE4XPPDDBAUNKYIP3CDEPL37A/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLVVBXREQE5HELFZKQHBFJWZ2JM.jpg?auth=04cae525a87f395782ad5444f2cecd3c08fba5d92e6936b8fd5e7b6046ffa0ae&width=1200&height=630&smart=true",
+      "publishedAt": "2025-08-19T11:23:15Z",
+      "content": "Wegmans Food Markets, Inc. has issued a recall for its Medium Camembert Soft Ripened Cheese and products containing it due to potential Listeria monocytogenes contamination.\r\nThe recall affects items… [+1499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Resilience"
+      },
+      "author": "Nicole Williams",
+      "title": "Meet the Activist Fighting PFAS Pollution — and Winning",
+      "description": "Emily Donovan has a mission: “Make the polluters pay.” The mother of twins took on the role of activist when she started fighting for her North Carolina community in 2017. Her main target: PFAS “forever chemicals,” which do not degrade and at even low levels …",
+      "url": "https://www.resilience.org/stories/2025-08-19/meet-the-activist-fighting-pfas-pollution-and-winning/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2025/08/Emily-Donovan-PFAS.jpg",
+      "publishedAt": "2025-08-19T10:31:03Z",
+      "content": "Emily Donovan has a mission:\r\nMake the polluters pay.\r\nThe mother of twins took on the role of activist when she started fighting for her North Carolina community in 2017. Her main target: PFAS forev… [+16910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Maryn McKenna",
+      "title": "New Treatments Can Free Kids from the Deadly Threat of Peanut Allergy",
+      "description": "Remarkable new treatments can free millions of kids and adults from the deadly threat of peanut allergy, tackling one of our fastest-growing medical problems",
+      "url": "https://www.scientificamerican.com/article/new-treatments-can-free-kids-from-the-deadly-threat-of-peanut-allergy/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/536b1500d809347/original/sa0925McKe01b.jpg?m=1754930629.618&w=1200",
+      "publishedAt": "2025-08-19T10:00:00Z",
+      "content": "Anabelle Terry, a slender, self-possessed 13-year-old, has heard the peanut butter story her entire life. At two and a half she ate nuts for the first time. Her mother, Victoria, had made a little tr… [+32926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Ecolab (NYSE:ECL) versus Perimeter Solutions (NYSE:PRM) Head-To-Head Survey",
+      "description": "Ecolab (NYSE:ECL – Get Free Report) and Perimeter Solutions (NYSE:PRM – Get Free Report) are both basic materials companies, but which is the better stock? We will contrast the two companies based on the strength of their analyst recommendations, institutiona…",
+      "url": "https://www.etfdailynews.com/2025/08/19/ecolab-nyseecl-versus-perimeter-solutions-nyseprm-head-to-head-survey/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/perimeter-solutions-sa-logo-1200x675.png?v=20220218112558&w=240&h=240&zc=2",
+      "publishedAt": "2025-08-19T07:26:49Z",
+      "content": "Ecolab (NYSE:ECL – Get Free Report) and Perimeter Solutions (NYSE:PRM – Get Free Report) are both basic materials companies, but which is the better stock? We will contrast the two companies based on… [+5957 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -13,6 +91,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Spray-Agriculture-Wheat-Farm-Farmer-Pest-Fertilizer.jpg",
       "publishedAt": "2025-08-19T06:00:00Z",
       "content": "The Seralini team of scientists tried to warn the world that glyphosate causes horrific cancer tumors of the cleansing organs, when they published their comprehensive study years ago that Monsanto ha… [+5582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "MAHA advocates urge Trump to block pesticide liability protections in House spending bill",
+      "description": "Over 240 supporters of the Make America Healthy Again (MAHA) Commission have urged President Trump to block Sections 453 and 507 of the FY 2026 House appropriations bill, which they say grant sweeping legal immunity to pesticide and chemical manufacturers. Th…",
+      "url": "https://www.naturalnews.com/2025-08-19-maha-urges-trump-block-pesticide-liability-protections.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Tractor-Spraying-Pesticides-Soy-Bean.jpg",
+      "publishedAt": "2025-08-19T06:00:00Z",
+      "content": "<ul><li>Over 240 supporters of the Make America Healthy Again (MAHA) Commission have urged President Trump to block Sections 453 and 507 of the FY 2026 House appropriations bill, which they say grant… [+5644 chars]"
     },
     {
       "source": {
@@ -311,7 +402,7 @@
       "url": "https://www.simplyrecipes.com/food-recalls-you-need-to-know-about-august-2025-week-two-11791898",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iEnnppK7IXlnxzhi.gYigg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/simply_recipes_854/ff124d40b0781047db7b4d1b3c120d48",
       "publishedAt": "2025-08-16T10:32:00Z",
-      "content": "I dont think twice about what I toss in my grocery cartuntil something ends up on a recall list.\r\nThis week, instant coffee and imported Camembert cheese made headlines after being contaminated with ��� [+3827 chars]"
+      "content": "I dont think twice about what I toss in my grocery cartuntil something ends up on a recall list.\r\nThis week, instant coffee and imported Camembert cheese made headlines after being contaminated with … [+3827 chars]"
     },
     {
       "source": {
@@ -563,19 +654,6 @@
     {
       "source": {
         "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Otter poop reveals they may be ecosystem engineers",
-      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
-      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
-      "publishedAt": "2025-08-14T14:00:00Z",
-      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Plos.org"
       },
       "author": "Kelemu Yimenu Gebre, Abebe Girma Demissie, Aderajew Adgo Tesema, Habtamu Zegeye Belay, Mekashaw Worku Akalye, Agere Bereket Friew, Fisseha Getachew Baye, Habtie Bassie Felatie, Mezgebu Abunie Yohannes, Marye Alemu Eshetu, Wondye Ayalew Shiferaw",
@@ -598,6 +676,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330167.g011&size=inline",
       "publishedAt": "2025-08-14T14:00:00Z",
       "content": "Introduction\r\nWater, Sanitation, and Hygiene (WASH) play an essential role in public health, particularly in low- and middle-income countries (LMICs). According to the World Health Organisation (WHO)… [+60836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Otter poop reveals they may be ecosystem engineers",
+      "description": "Feces with a ‘fire engine red worm’ inside is actually a good thing.\nThe post Otter poop reveals they may be ecosystem engineers appeared first on Popular Science.",
+      "url": "http://www.popsci.com/environment/otter-poop-ecosystem/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/north-american-river-otter.png?quality=85&w=2000",
+      "publishedAt": "2025-08-14T14:00:00Z",
+      "content": "The phrase this place is a pigsty might need to be replaced with this place is an otter latrine. Particularly the busy latrine of a North American river otter (Lontra canadensis). The small mammals h… [+6451 chars]"
     },
     {
       "source": {
@@ -930,12 +1021,12 @@
         "name": "DW (English)"
       },
       "author": "Holly Young",
-      "title": "Plastic in plants: What it means for your food",
-      "description": "Plastic in soil can get into plant cells, slowing photosynthesis. That may mean smaller harvests. Scientists are racing to pin down how big the risk is.",
-      "url": "https://www.dw.com/en/plastic-in-plants-what-it-means-for-your-food/a-73623861",
+      "title": "Photosynthesis under attack by microplastics",
+      "description": "Research suggests tiny particles of plastic could hamper plant growth, with potentially serious consequences for global food supply and climate change. Cutting plastic production would help.",
+      "url": "https://www.dw.com/en/photosynthesis-under-attack-by-microplastics/a-73623861",
       "urlToImage": "https://static.dw.com/image/72609897_6.jpg",
       "publishedAt": "2025-08-13T13:14:00Z",
-      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6703 chars]"
+      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6691 chars]"
     },
     {
       "source": {
@@ -943,12 +1034,12 @@
         "name": "DW (English)"
       },
       "author": "Holly Young",
-      "title": "Photosynthesis under attack by microplastics",
-      "description": "Research suggests tiny particles of plastic could hamper plant growth, with potentially serious consequences for global food supply and climate change. Cutting plastic production would help.",
-      "url": "https://www.dw.com/en/photosynthesis-under-attack-by-microplastics/a-73623861",
+      "title": "Plastic in plants: What it means for your food",
+      "description": "Plastic in soil can get into plant cells, slowing photosynthesis. That may mean smaller harvests. Scientists are racing to pin down how big the risk is.",
+      "url": "https://www.dw.com/en/plastic-in-plants-what-it-means-for-your-food/a-73623861",
       "urlToImage": "https://static.dw.com/image/72609897_6.jpg",
       "publishedAt": "2025-08-13T13:14:00Z",
-      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6691 chars]"
+      "content": "Microplastics are believed to disrupt photosynthesis the biological process central to life on earth that provides the basis for global food chains as well as the oxygen we breathe.\r\nThe tiny shreds … [+6703 chars]"
     },
     {
       "source": {
@@ -1170,97 +1261,6 @@
       "urlToImage": "https://i.abcnewsfe.com/a/8525e3ff-7ea7-4865-a489-16634f973e43/dermarite-recall-2-ht-gmh-250812_1755005571198_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-08-12T17:04:33Z",
       "content": "A New Jersey-based medical care and skin care products manufacturer is voluntarily recalling multiple types of hand soap, cleanser and antiseptic products due to bacteria contamination.\r\nDermaRite In… [+2750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Katie Teague",
-      "title": "Mold Growing Inside Your Washing Machine? Use This Secret Trick to Get Rid of It",
-      "description": "Dirty or moldy washing machine? There are a few easy ways to get your clothes and washing machine smelling fresh and clean again. And there's even a way to keep mold from coming back. Here's how.",
-      "url": "https://www.cnet.com/home/kitchen-and-household/mold-growing-inside-your-washing-machine-use-this-secret-trick-to-get-rid-of-it/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9afd445302b9d080453c3409d650535305b455e1/hub/2022/08/07/889e798c-0bc1-4306-ba64-2358e92419b3/gettyimages-1319060028.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-08-12T17:00:09Z",
-      "content": "Keeping up with the laundry is never easy. It's a chore that many of us avoid until we have to deal with it, but things get far more difficult if you open up your washing machine and are met with the… [+5249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsbreak.com"
-      },
-      "author": "Coral Beach",
-      "title": "Health officials say venison was likely cause of 4-year-old girl’s death - NewsBreak",
-      "description": "The death of a 4-year-old Tennessee girl in May has been determined to be from E. coli O157:H7 in venison. The girl was one of two patients diagnosed with",
-      "url": "https://www.newsbreak.com/share/4169935575043-health-officials-say-venison-was-likely-cause-of-4-year-old-girl-s-death?s=a2&amp;share_destination_id=NTIyMDA1NzctMTc1NTAxNjQ5Mzk3OQ%3D%3D&amp;pd=03X1kn8N&amp;hl=en_US&amp;send_time=1755016493&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.32.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q3-v9%2Cns_foryou_recall_exp_25q3-v4%2Cns_foryou_model_exp_25q3-v7%2Cns_foryou_blend_exp_25q3-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/0E8veV_13hj36B700",
-      "publishedAt": "2025-08-12T16:35:43Z",
-      "content": "The death of a 4-year-old Tennessee girl in May has been determined to be from E. coli O157:H7 in venison.\r\nThe girl was one of two patients diagnosed with infections from the pathogen. Both had cons… [+3015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "author": "Flood and Coastal Erosion Risk Management Research and Development Programme",
-      "title": "Coastal historic landfills",
-      "description": "Research examined the current and future pollution risk of coastal historic landfills to protect the surrounding environment.",
-      "url": "https://www.gov.uk/government/case-studies/coastal-historic-landfills",
-      "urlToImage": "https://assets.publishing.service.gov.uk/media/67911272cf977e4bf9a2f19d/s300_Hands_full_of_plastic_debris_collected_from_beach_at_Bude.jpg",
-      "publishedAt": "2025-08-12T14:47:24Z",
-      "content": "1 School of Geography, Queen Mary University of London, United Kingdom\r\n2 Environment Agency, United Kingdom\r\n3 Geography, Kings College London, United Kingdom\r\nThe research, led by a team from the Q… [+5498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Gussyup LLC dba Private Label Grooming - 709488 - 07/09/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/gussyup-llc-dba-private-label-grooming-709488-07092025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-08-12T13:20:07Z",
-      "content": "Delivery Method:\r\nVIA UPS\r\nReference #:\r\n320-25-90\r\nProduct:\r\nDrugs \r\nRecipient:\r\nGussyup LLC dba Private Label Grooming\r\n7360 Eastgate Rd, Suite 135Henderson, NV89011-4091United States\r\nIssuing Offi… [+13503 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matt Cannon",
-      "title": "Curry Recall in 33 States as FDA Issues Risk Warning",
-      "description": "Jagpreet Enterprises LLC issued a voluntary recall for four products on July 23 due to potential metal contamination.",
-      "url": "https://www.newsweek.com/curry-recall-sukhis-gourmet-indian-food-33-states-fda-risk-warning-metal-contamination-2112173",
-      "urlToImage": "https://d.newsweek.com/en/full/2700858/chicken-tikka-masala-photo.jpg",
-      "publishedAt": "2025-08-12T13:07:09Z",
-      "content": "A recall of curry sauces and pastes due to potential contamination with metal pieces has been issued the second-highest risk classification by the U.S. Food and Drug Administration (FDA).\r\nCalifornia… [+3390 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rutherford Daily Voice"
-      },
-      "author": "Joe Lombardi",
-      "title": "Cookies Sold At Target Stores In 20 States, Including NY, Pulled From Shelves",
-      "description": "A sweet treat sold at one of the nation’s biggest retailers is now under a safety alert covering 20 states and Washington, DC. \nThe recall involves Favorite Day Bakery Frosted Sugar Cookies, a 10-cou…",
-      "url": "https://dailyvoice.com/new-york/whiteplains/cookies-sold-at-target-stores-in-20-states-including-ny-pulled-from-shelves/",
-      "urlToImage": "https://edge.dailyvoice.com/upload/Recall_Alert_on_Blue_Background.png?width=1280",
-      "publishedAt": "2025-08-12T12:23:29Z",
-      "content": "The recall involves Favorite Day Bakery Frosted Sugar Cookies, a 10-count product sold under Targets private label brand. \r\nAccording to the Food and Drug Administration, manufacturer Give and Go Pre… [+835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Efraín Villa",
-      "title": "I Got A Starring Role On A Hot New TV Show. Then I Received A Text That Changed Everything.",
-      "description": "“The thing about big breaks for recovering cynics like me is that they shift everything about the truths one holds to be self-evident, including the stories we tell ourselves about ourselves.”",
-      "url": "https://www.huffpost.com/entry/efrain-villa-primo-actor-big-break_n_687510d3e4b03db3e7f3f7e2",
-      "urlToImage": "https://img.huffingtonpost.com/asset/687514e92800009ab6c6d33b.png?cache=ugwSGkFfrY&ops=1200_630",
-      "publishedAt": "2025-08-12T12:20:54Z",
-      "content": "The group of cops surrounding me remained stoic, listening to my husky groans and moans taper off. With my eyes trained on my crumpled shirt lying on the floor next to my pants, I shuddered in one la… [+16457 chars]"
     }
   ],
   "totalResults": 97,
