@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-08-21T06:46:15.485Z",
+  "lastUpdated": "2025-08-21T12:50:41.566Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "theguardian.com",
+      "title": "Walmart recalls potentially radioactive shrimp sold in 13 US states",
+      "description": "FDA officials detected Cesium-137, a radioactive isotope, in shipping containers and a sample of shrimp from Indonesia\nWalmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactive contamina…",
+      "url": "https://biztoc.com/x/17e3f6a9ba5609e6",
+      "urlToImage": "https://biztoc.com/cdn/17e3f6a9ba5609e6_s.webp",
+      "publishedAt": "2025-08-20T12:45:14Z",
+      "content": "FDA officials detected Cesium-137, a radioactive isotope, in shipping containers and a sample of shrimp from IndonesiaWalmart has recalled frozen, raw shrimp sold in 13 states because federal health … [+145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Eve-Lyn Hinckley, Associate Professor of Biogeochemistry, University of Colorado Boulder",
+      "title": "Colorado’s subalpine wetlands may be producing a toxic form of mercury – that’s a concern for downstream water supplies",
+      "description": "Subalpine wetlands in the Rocky Mountains are warming,  creating the perfect conditions for producing methylmercury, a potent neurotoxin.",
+      "url": "https://theconversation.com/colorados-subalpine-wetlands-may-be-producing-a-toxic-form-of-mercury-thats-a-concern-for-downstream-water-supplies-259008",
+      "urlToImage": "https://images.theconversation.com/files/677684/original/file-20250701-56-2abnr0.png?ixlib=rb-4.1.0&rect=0%2C154%2C1224%2C612&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-08-20T12:42:58Z",
+      "content": "The wetlands found across the Rocky Mountains of Colorado just below tree line are magical places. Dripping with mosses and deep green sedges, these open expanses flanked by evergreens are a breathta… [+5970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "UK Food Safety Testing Market Size to Reach US$2.8 Billion by 2033 | Astute Analytica",
+      "description": "Shaped by strict Food Standards Agency (FSA) regulations and post-Brexit import complexities, the UK market emphasizes robust allergen management and supply chain traceability. High consumer awareness and advanced rapid testing methods are integral to maintai…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/20/3136389/0/en/UK-Food-Safety-Testing-Market-Size-to-Reach-US-2-8-Billion-by-2033-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2025-08-20T12:30:00Z",
+      "content": "Chicago, Aug. 20, 2025 (GLOBE NEWSWIRE) -- The UK food safety testing market was valued at US$ 1,306.23 million in 2024 and is expected to reach US$ 2,801.82 million by 2033, growing at a CAGR of 9.2… [+16723 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nutritionfacts.org"
+      },
+      "author": "Kristine Dennis PhD, MPH",
+      "title": "Turmeric Supplements and Liver Toxicity",
+      "description": "An increasing number of case reports have linked turmeric extract supplements to liver injury.",
+      "url": "https://nutritionfacts.org/video/turmeric-supplements-and-liver-toxicity/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/07/08-kd-turmeric-supplements-and-liver-toxicity-1200x675.jpg",
+      "publishedAt": "2025-08-20T11:50:40Z",
+      "content": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nLiver injury associated … [+4729 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "'Throw it away': US FDA issues urgent recall of 'radioactive' Walmart shrimp. Does it cause cancer?",
+      "description": "Walmart has issued a recall for certain Great Value raw frozen shrimp due to potential contamination with Cesium-137, a radioactive isotope. The FDA is investigating the source of the contamination, tracing it back to an Indonesian company. Consumers are warn…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-throw-it-away-us-fda-issues-urgent-recall-of-radioactive-walmart-shrimp-does-it-cause-cancer/articleshow/123408495.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123408568,width-1200,height-630,imgsize-1661811,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-20T10:56:21Z",
+      "content": "Walmart has recalled some of its shrimp products in the US after radioactive material was detected in a shipment of seafood. The US Food and Drug Administration (FDA) warned the public not to eat fro… [+4107 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Gianni Lo Iacono, Senior Lecturer in Biostatistics and Epidemiology, School of Veterinary Medicine, Faculty of Health and Medical Sciences, University of Surrey",
+      "title": "Environmental antibiotic resistance unevenly addressed despite growing global risk, study finds",
+      "description": "Most antibiotic resistance research comes from high-income countries but the greatest threats are elsewhere. This inequality is shaping the future of global health.",
+      "url": "https://theconversation.com/environmental-antibiotic-resistance-unevenly-addressed-despite-growing-global-risk-study-finds-262819",
+      "urlToImage": "https://images.theconversation.com/files/685167/original/file-20250812-76-ka5uab.jpg?ixlib=rb-4.1.0&rect=0%2C152%2C3264%2C1632&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-08-20T09:47:04Z",
+      "content": "RR photographer/Shutterstock\r\nIn his 1941 novel The Library of Babel, Jorge Luis Borges imagines a universe made entirely of books – every possible 410-page combination of 22 letters, a period, a com… [+6447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "npr.org",
+      "title": "Walmart recalls frozen shrimp over potential radioactive contamination",
+      "description": "Walmart recalls frozen shrimp over potential radioactive contamination\nWalmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactive contamination.\nThe U.S. Food and Drug Administration aske…",
+      "url": "https://biztoc.com/x/6e59eecfd17d6106",
+      "urlToImage": "https://biztoc.com/cdn/6e59eecfd17d6106_s.webp",
+      "publishedAt": "2025-08-20T09:24:11Z",
+      "content": "Walmart recalls frozen shrimp over potential radioactive contaminationWalmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactiv… [+146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Healthletic",
+      "title": "Healthletic Reports 91% of Users Experience Noticeable Energy Boost with USP-Grade Methylene Blue Formula",
+      "description": "Company's 99.9% Pure Methylene Blue Drops Demonstrate Measurable Impact on Mental Confidence and Fatigue Reduction Among 5,343+ Verified Customers Company's 99.9% Pure Methylene Blue Drops Demonstrate Measurable Impact on Mental Confidence and Fatigue Reducti…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/20/3136150/0/en/Healthletic-Reports-91-of-Users-Experience-Noticeable-Energy-Boost-with-USP-Grade-Methylene-Blue-Formula.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/0a6293a1-2c39-41bc-9041-b895e0ad1c16",
+      "publishedAt": "2025-08-20T07:31:00Z",
+      "content": "Texas, USA, Aug. 20, 2025 (GLOBE NEWSWIRE) -- \r\nHealthletic, a premier U.S.-based wellness supplement manufacturer, today released comprehensive user outcome data revealing that 91% of customers usin… [+10699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Erin Keller",
+      "title": "Walmart recalls shrimp over possible radioactive contamination",
+      "description": "FDA announced that certain Great Value raw frozen shrimp sold at Walmart could be potentially contaminated with Cesium-137, a radioactive isotope",
+      "url": "https://www.the-independent.com/life-style/walmart-recalls-radioactive-shrimp-b2811508.html",
+      "urlToImage": "https://static.the-independent.com/2024/03/20/15/Oceans-Fisheries-Indian_Shrimp_69268.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-08-20T07:24:00Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2459 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -13,6 +130,19 @@
       "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/08/20/488723.jpg?v=3.1",
       "publishedAt": "2025-08-20T06:02:00Z",
       "content": "MANICA, MOZAMBIQUE Digging for gold and jewels is backbreaking and dangerous work, carried out without the most basic protective equipment, and it is illegal. But for the barefoot miners in Mozambiqu… [+5426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Food safety alert: FDA issues warning about shrimp contaminated with RADIOACTIVE isotope",
+      "description": "The FDA has issued a recall for specific Walmart-brand frozen shrimp after detecting trace radioactive cesium-137 contamination (68 Bq/kg) in samples imported from Indonesian supplier BMS Foods. Three lot codes are affected (8005540-1, 8005538-1, 8005539-1). …",
+      "url": "https://www.naturalnews.com/2025-08-20-fda-warns-shrimp-contaminated-radioactive-cesium-137.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Grilled-Shrimp.jpg",
+      "publishedAt": "2025-08-20T06:00:00Z",
+      "content": "<ul><li>The FDA has issued a recall for specific Walmart-brand frozen shrimp after detecting trace radioactive cesium-137 contamination (68 Bq/kg) in samples imported from Indonesian supplier BMS Foo… [+4896 chars]"
     },
     {
       "source": {
@@ -355,19 +485,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "The Associated Press",
-      "title": "Walmart recalls frozen shrimp over potential radioactive contamination",
-      "description": "The FDA detected potential contamination with Cesium-137, a radioactive isotope.",
-      "url": "https://www.denverpost.com/2025/08/19/walmart-recall-frozen-shrimp/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/08/Radioactive_Shrimp_08154.jpg?w=1024&h=682",
-      "publishedAt": "2025-08-19T20:34:19Z",
-      "content": "By JONEL ALECCIA, Associated Press\r\nWalmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactive contamination.\r\nThe U.S. Food an… [+2589 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Boston Herald"
       },
       "author": "Associated Press",
@@ -375,6 +492,19 @@
       "description": "The FDA detected potential contamination with Cesium-137, a radioactive isotope.",
       "url": "https://www.bostonherald.com/2025/08/19/walmart-recall-frozen-shrimp/",
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/Radioactive_Shrimp_08154.jpg?w=1024&h=682",
+      "publishedAt": "2025-08-19T20:34:19Z",
+      "content": "By JONEL ALECCIA, Associated Press\r\nWalmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactive contamination.\r\nThe U.S. Food an… [+2589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "The Associated Press",
+      "title": "Walmart recalls frozen shrimp over potential radioactive contamination",
+      "description": "The FDA detected potential contamination with Cesium-137, a radioactive isotope.",
+      "url": "https://www.denverpost.com/2025/08/19/walmart-recall-frozen-shrimp/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/08/Radioactive_Shrimp_08154.jpg?w=1024&h=682",
       "publishedAt": "2025-08-19T20:34:19Z",
       "content": "By JONEL ALECCIA, Associated Press\r\nWalmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactive contamination.\r\nThe U.S. Food an… [+2589 chars]"
     },
@@ -1066,136 +1196,6 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/12/11/5f96461a-0e86-4322-937a-3602865cb11b/thumbnail/1200x630/980149b0bbea3af91b0455fa8aa04874/cbsn-fusion-raw-unpasteurized-milk-must-test-bird-flu-usda-mandates-thumbnail.jpg",
       "publishedAt": "2025-08-17T22:33:35Z",
       "content": "A Florida dairy farm was named in a lawsuit filed by a woman who claims she lost her unborn child after getting sick while caring for her toddler, who also got sick after drinking raw milk.\r\nRachel M… [+6065 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Tega Egwabor",
-      "title": "Why your bath towel could be dirtier than your toilet seat",
-      "description": "That fluffy bath towel hanging innocently in your bathroom might harbor a shocking secret. While most people meticulously clean their toilet seats and consider them among the dirtiest surfaces in their homes, research reveals that bath towels often contain si…",
-      "url": "https://rollingout.com/2025/08/17/bath-towel-could-be-dirtier-than-toilet/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/09/shutterstock_2513098531.jpg",
-      "publishedAt": "2025-08-17T13:32:17Z",
-      "content": "That fluffy bath towel hanging innocently in your bathroom might harbor a shocking secret. While most people meticulously clean their toilet seats and consider them among the dirtiest surfaces in the… [+5813 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Pistachio recall tied to viral chocolate bar reflects salmonella risks from dried nuts",
-      "description": "More brands of TikTok-famous chocolates with pistachios have been recalled over salmonella concerns. Here why food scientists say the nuts can be prime suspects for causing foodborne illness outbreaks.",
-      "url": "https://www.cbc.ca/news/health/dubai-chocolate-pistachios-recall-salmonella-1.7610646",
-      "urlToImage": "https://i.cbc.ca/1.7610649.1755295221!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/chocolates-recalled-for-potential-salmonella.jpg?im=Resize%3D620",
-      "publishedAt": "2025-08-17T08:00:00Z",
-      "content": "More brands of TikTok-famous chocolates with pistachios have been recalled over salmonella concerns. Here why food scientists say the nuts can be prime suspects for causing outbreaks of foodborne ill… [+4480 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "Why are California’s wild pigs turning blue inside? and what it means for the pork on your plate",
-      "description": "California hunters found wild pigs with blue flesh. Officials traced it to rodent poison. The poison, diphacinone, is dangerous to animals and humans. It causes internal bleeding. Diphacinone was used to kill rodents. Animals and humans can get sick from eati…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-californias-wild-pigs-turning-blue-inside-and-what-it-means-for-the-pork-on-your-plate/articleshow/123341004.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123341121,width-1200,height-630,imgsize-192296,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-17T01:49:36Z",
-      "content": "Hunters in California have reported a disturbing phenomenon: wild pigs with neon blue flesh. The unusual cases were traced back to Monterey County, where authorities now warn of potential contaminati… [+2964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "author": "Vincent Nguyen",
-      "title": "YEEDI M14 PLUS Review: When Cosmic Design Meets Flagship Mopping Technology",
-      "description": "YEEDI M14 PLUS Review: When Cosmic Design Meets Flagship Mopping TechnologyRobot vacuums have become the invisible workhorses of modern homes, but most still follow the same tired design playbook: black plastic discs that hide under...",
-      "url": "https://www.yankodesign.com/2025/08/16/yeedi-m14-plus-review-when-cosmic-design-meets-flagship-mopping-technology/",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/08/yeedi-m14-plus-review-when-cosmic-design-meets-flagship-mopping-technology/IMG_20250814_171458.jpg",
-      "publishedAt": "2025-08-17T01:45:37Z",
-      "content": "Robot vacuums have become the invisible workhorses of modern homes, but most still follow the same tired design playbook: black plastic discs that hide under furniture like technological roaches. The… [+18311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Men's Journal"
-      },
-      "author": "Anne Erickson",
-      "title": "FDA Announces Major Recall of Popular Coffee",
-      "description": "Another day, and another recall. While it can be daunting to keep up with recalls, it's important, because following guidance sent out regarding recalls can ...",
-      "url": "https://www.mensjournal.com/news/fda-announces-major-recall-of-popular-coffee",
-      "urlToImage": "https://media.zenfs.com/en/men_s_journal_718/a83c0aed2235c7778ccd1bb544f06c06",
-      "publishedAt": "2025-08-16T22:32:20Z",
-      "content": "Another day, and another recall. While it can be daunting to keep up with recalls, it's important, because following guidance sent out regarding recalls can make sure that your family and loved ones … [+2210 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Simplyrecipes.com"
-      },
-      "author": "Cheyenne Buckingham",
-      "title": "2 Food Recalls You Need To Know About This Week",
-      "description": "Check your instant coffee and imported cheese.",
-      "url": "https://www.simplyrecipes.com/food-recalls-you-need-to-know-about-august-2025-week-two-11791898",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iEnnppK7IXlnxzhi.gYigg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/simply_recipes_854/ff124d40b0781047db7b4d1b3c120d48",
-      "publishedAt": "2025-08-16T10:32:00Z",
-      "content": "I dont think twice about what I toss in my grocery cartuntil something ends up on a recall list.\r\nThis week, instant coffee and imported Camembert cheese made headlines after being contaminated with … [+3827 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Shauna Bowers",
-      "title": "From goats cheese to hummus - why there has been so many listeria recalls",
-      "description": "Despite recent publicity, Ireland’s rate of infection is low, with good safety procedures in place",
-      "url": "https://www.irishtimes.com/health/2025/08/16/from-goats-cheese-to-hummus-why-there-has-been-so-many-listeria-recalls/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/YMTRDRWNK5C5ZHJFONX4MV2MQE.jpg?smart=true&auth=ae306aa049612185e6dba9b26709333bba2539b9d0000ba33f5255f0bce347c6&width=1200&height=630",
-      "publishedAt": "2025-08-16T05:00:00Z",
-      "content": "News last month that a person had died with a rare bacterial infection called listeriosis sparked concern among the public. \r\nThe Food Safety Authority of Ireland (FSAI) described the outbreak of lis… [+3498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aclu.org"
-      },
-      "author": "ACLU",
-      "title": "Florida's Secretive Immigration Detention Center, Explained",
-      "description": "Deep in the Florida Everglades, a new immigration detention facility has appeared almost overnight. It’s the latest example of the Trump administration’s extreme approach to immigration enforcement, and it’s drawing significant, well-deserved outrage.\nIn just…",
-      "url": "https://www.aclu.org/news/immigrants-rights/floridas-secretive-immigration-detention-center-explained",
-      "urlToImage": "https://assets.aclu.org/live/uploads/2025/08/a-a-social.jpg",
-      "publishedAt": "2025-08-15T18:27:56Z",
-      "content": "Deep in the Florida Everglades, a new immigration detention facility has appeared almost overnight. Its the latest example of the Trump administrations extreme approach to immigration enforcement, an… [+8151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Swig"
-      },
-      "author": "James Kettle",
-      "title": "HTTP/1.1 must die: the desync endgame",
-      "description": "Abstract Upstream HTTP/1.1 is inherently insecure and regularly exposes millions of websites to hostile takeover. Six years of attempted mitigations have hidden the issue, but failed to fix it. This p",
-      "url": "https://portswigger.net/research/http1-must-die",
-      "urlToImage": "https://portswigger.net/cms/images/03/e6/ab75-twittercard-1.1_whitepaper_twitter.png",
-      "publishedAt": "2025-08-15T17:27:18Z",
-      "content": "<ul><li>Published: 06 August 2025 at 22:20 UTC\r\n</li><li>Updated: 12 August 2025 at 09:50 UTC\r\n</li><li></li></ul>Abstract\r\nUpstream HTTP/1.1 is inherently insecure and regularly exposes millions of … [+41166 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Daily Galaxy",
-      "title": "A Giant, Destructive Volcanic Eruption Is Set to Shake the World in the Coming Months, Bringing About the End of Mankind, Scientists Warn",
-      "description": "Hidden magma chambers, rising heat, and global climate implications are now under intense scrutiny. The stakes go far beyond the American West — and the timeline may be shorter than expected. Massive Volcanic Eruption. Credit: Shutterstock | The Daily Galaxy …",
-      "url": "https://freerepublic.com/focus/f-chat/4334777/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-08-15T16:56:56Z",
-      "content": "Skip to comments.\r\nA Giant, Destructive Volcanic Eruption Is Set to Shake the World in the Coming Months, Bringing About the End of Mankind, Scientists Warn\r\nDaily Galaxy ^\r\n | August 15, 2025\r\n | Ar… [+11791 chars]"
     }
   ],
   "totalResults": 92,
