@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-22T06:36:04.184Z",
+  "lastUpdated": "2025-08-22T12:49:29.566Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Celebitchy.com"
+      },
+      "author": "Kismet",
+      "title": "FDA warns public not to eat possibly radioactive shrimp from Walmart",
+      "description": "I’m still thinking about the crazy food influencer car crash story. Obviously my sincerest healing thoughts go out to the YouTube hosts as they recover from being rained on with shards of broken glass. But I’m also me, and glutton that I am, I’m still thinkin…",
+      "url": "https://www.celebitchy.com/937061/fda_warns_public_not_to_eat_possibly_radioactive_shrimp_from_walmart/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-21T11:00:46Z",
+      "content": "Im still thinking about the crazy food influencer car crash story. Obviously my sincerest healing thoughts go out to the YouTube hosts as they recover from being rained on with shards of broken glass… [+4081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Reviewing Westaim (OTCMKTS:WEDXF) & Ecolab (NYSE:ECL)",
+      "description": "Ecolab (NYSE:ECL – Get Free Report) and Westaim (OTCMKTS:WEDXF – Get Free Report) are both basic materials companies, but which is the better stock? We will contrast the two companies based on the strength of their earnings, institutional ownership, profitabi…",
+      "url": "https://www.etfdailynews.com/2025/08/21/reviewing-westaim-otcmktswedxf-ecolab-nyseecl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/the-westaim-co-logo-1200x675.png?v=20241015071734&w=240&h=240&zc=2",
+      "publishedAt": "2025-08-21T07:44:53Z",
+      "content": "Ecolab (NYSE:ECL – Get Free Report) and Westaim (OTCMKTS:WEDXF – Get Free Report) are both basic materials companies, but which is the better stock? We will contrast the two companies based on the st… [+6272 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,32 +1209,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329852.g007&size=inline",
       "publishedAt": "2025-08-19T14:00:00Z",
       "content": "Citation: Pagone V, Pujal D, Maestro JL (2025) An insulin-like peptide specific for a cockroach male reproductive gland. PLoS One 20(8):\r\n e0329852.\r\nhttps://doi.org/10.1371/journal.pone.0329852\r\nEdi… [+35369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Anhui Hanbon Daily Chemical Co., Ltd. - 708903 - 08/11/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/anhui-hanbon-daily-chemical-co-ltd-708903-08112025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-08-19T13:20:05Z",
-      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-100\r\nProduct:\r\nDrugs \r\nRecipient:\r\nAnhui Hanbon Daily Chemical Co., Ltd.\r\nNo.55 Chuangye AvenueXinqiao International Industrial ParkHuainan… [+15162 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Boothwyn Pharmacy LLC - 710247 - 06/09/2025",
-      "description": "Unapproved New Animal Drug/Adulterated/Misbranded",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/boothwyn-pharmacy-llc-710247-06092025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-08-19T13:20:04Z",
-      "content": "Product:\r\nAnimal &amp; VeterinaryDrugs \r\nRecipient:\r\nBoothwyn Pharmacy LLC \r\n221 Gale LnKennett Square, PA19348United States\r\nadustman@boothwyn.com\r\nIssuing Office:\r\nCenter for Veterinary Medicine\r\nU… [+24769 chars]"
     }
   ],
   "totalResults": 93,
