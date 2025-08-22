@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-22T01:55:49.990Z",
+  "lastUpdated": "2025-08-22T06:36:04.184Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Katy McGuinness",
+      "title": "Restaurant review: ‘I’m glad people who want to eat plant-based, gluten-free food have a place to call their own. I just wish the food had more flavour’",
+      "description": "A friend has been newly diagnosed with coeliac disease and her experience of eating out has so far been hit-and-miss. Sometimes, even though she’s told the restaurant she is coeliac and has ordered dishes she has been assured are gluten-free, she has suffered…",
+      "url": "https://www.independent.ie/life/food-drink/food-reviews/restaurant-review-im-glad-people-who-want-to-eat-plant-based-gluten-free-food-have-a-place-to-call-their-own-i-just-wish-the-food-had-more-flavour/a1922853324.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/Qmv1lk82792G7Pky0IJMeTBD3vE=/273x0:3249x1984/629x0/prod-mh-ireland/57bc69f8-4a86-45a7-aed4-9e2c6f2d1a5a/79dc5a7c-d2b4-4054-875e-396e4ba4402b/57bc69f8-4a86-45a7-aed4-9e2c6f2d1a5a.jpg",
+      "publishedAt": "2025-08-21T04:30:00Z",
+      "content": "Our critic finds the presentation dated and the flavour lacking at this coeliac and vegan-friendly spot\r\nAfriend has been newly diagnosed with coeliac disease and her experience of eating out has so … [+586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Katy McGuinness",
+      "title": "Restaurant review: ‘I’m glad people who want to eat plant-based, gluten-free food have a place to call their own. I just wish the food was better’",
+      "description": "A friend has been newly diagnosed with coeliac disease and her experience of eating out has so far been hit-and-miss. Sometimes, even though she’s told the restaurant she is coeliac and has ordered dishes she has been assured are gluten-free, she has suffered…",
+      "url": "https://www.independent.ie/life/food-drink/food-reviews/restaurant-review-im-glad-people-who-want-to-eat-plant-based-gluten-free-food-have-a-place-to-call-their-own-i-just-wish-the-food-was-better/a1922853324.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/FRgyIFPBRzU7b4iIh1FaGKGqR4Y=/273x0:3249x1984/629x0/prod-mh-ireland/57bc69f8-4a86-45a7-aed4-9e2c6f2d1a5a/271a7a16-a1cc-4079-94aa-684dc5756185/57bc69f8-4a86-45a7-aed4-9e2c6f2d1a5a.jpg",
+      "publishedAt": "2025-08-21T04:30:00Z",
+      "content": "Our critic finds the presentation dated and the flavour lacking at this coeliac and vegan-friendly spot\r\nAfriend has been newly diagnosed with coeliac disease and her experience of eating out has so … [+586 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1183,32 +1209,6 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-08-19T13:20:04Z",
       "content": "Product:\r\nAnimal &amp; VeterinaryDrugs \r\nRecipient:\r\nBoothwyn Pharmacy LLC \r\n221 Gale LnKennett Square, PA19348United States\r\nadustman@boothwyn.com\r\nIssuing Office:\r\nCenter for Veterinary Medicine\r\nU… [+24769 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "Cheese Recall as 'Serious' Contamination Warning Issued",
-      "description": "Middlefield Original Cheese Co-Op has announced a recall of various cheese products due to potential Listeria contamination.",
-      "url": "https://www.newsweek.com/cheese-recall-serious-contamination-warning-listeria-fda-2115594",
-      "urlToImage": "https://d.newsweek.com/en/full/2705149/cheese.jpg",
-      "publishedAt": "2025-08-19T13:17:17Z",
-      "content": "An Ohio-based company has issued a voluntary recall for various cheese products due to potential contamination with Listeria monocytogenes, the U.S. Food and Drug Administration (FDA) said.\r\nMiddlefi… [+4407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "author": "Cox Media Group National Content Desk",
-      "title": "Recall alert: Dollar General recalls Clover Valley Instant Coffee; may contain pieces of glass",
-      "description": "Dollar General Corporation is recalling three lots of its Clover Valley Instant Coffee due to potential glass contamination.",
-      "url": "https://www.wpxi.com/news/trending/recall-alert-dollar-general-recalls-clover-valley-instant-coffee-may-contain-pieces-glass/NZK3M3N6SBCTPF5SWLPTJGBHSY/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYAT7FXYK3ZDVJGCVVM3AMWWLHU.jpg?auth=3e2f5d3494c74fee08c12cc41b75efe7293b0c86fedc306a141d102fdc727268&width=1200&height=630&smart=true",
-      "publishedAt": "2025-08-19T12:50:57Z",
-      "content": "Dollar General Corporation is recalling three lots of its Clover Valley Instant Coffee due to potential glass contamination.\r\nThe recall affects 8-ounce packages of Clover Valley Instant Coffee with … [+1722 chars]"
     }
   ],
   "totalResults": 93,
