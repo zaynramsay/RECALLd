@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-24T12:46:03.100Z",
+  "lastUpdated": "2025-08-24T18:32:05.972Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Advaita Suresh",
+      "title": "Stop! 9 everyday items you should never keep in your fridge door — experts reveal why",
+      "description": "Several people use the refrigerator door for convenience, but it is one of the least stable places for perishable food items.Constant temperature fluctuations can lead to spoilage and initiate bacterial growth, minimizing food safety and shelf life. Experts h…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/stop-9-everyday-items-you-should-never-keep-in-your-fridge-door-experts-reveal-why/articleshow/123474192.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123474192,width-1200,height-630,imgsize-38080,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-23T16:29:24Z",
+      "content": "Many people assume that the refrigerator door is the most suitable place for all their groceries, but unaware that it is one of the least ideal places for perishable items. Constant opening and closi… [+3550 chars]"
+    },
     {
       "source": {
         "id": "associated-press",
@@ -461,19 +474,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "Personal care products RECALLED over contamination by resilient pathogen",
-      "description": "Four personal care items manufactured by DermaRite Industries, LLC – DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser –were voluntarily recalled after FDA testing revealed contamination with B…",
-      "url": "https://www.naturalnews.com/2025-08-22-personal-care-products-recalled-contamination-resilient-pathogen.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Wash-Hands-Soap-Bar-Suds.jpg",
-      "publishedAt": "2025-08-22T06:00:00Z",
-      "content": "<ul><li>Four personal care items manufactured by DermaRite Industries, LLC DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser were vol… [+8070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "S.D. Wells",
       "title": "RADIOACTIVE SHRIMP sold at TOXIC WALMART now carries FDA warning after it tested positive for radioactive substance cesium-137",
       "description": "Shopping for anything at Walmart is quite terrifying, with all the mass shootings, the recalled food products, and the “people of Walmart” that are there regularly. It’s just not safe to mix with all those ‘animals’ and take chances like that. Plus, who reall…",
@@ -481,6 +481,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Shrimp.jpg",
       "publishedAt": "2025-08-22T06:00:00Z",
       "content": "Shopping for anything at Walmart is quite terrifying, with all the mass shootings, the recalled food products, and the people of Walmart that are there regularly. Its just not safe to mix with all th… [+4732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Personal care products RECALLED over contamination by resilient pathogen",
+      "description": "Four personal care items manufactured by DermaRite Industries, LLC – DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser –were voluntarily recalled after FDA testing revealed contamination with B…",
+      "url": "https://www.naturalnews.com/2025-08-22-personal-care-products-recalled-contamination-resilient-pathogen.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Wash-Hands-Soap-Bar-Suds.jpg",
+      "publishedAt": "2025-08-22T06:00:00Z",
+      "content": "<ul><li>Four personal care items manufactured by DermaRite Industries, LLC DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser were vol… [+8070 chars]"
     },
     {
       "source": {
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://static.the-independent.com/2024/03/20/15/Oceans-Fisheries-Indian_Shrimp_69268.jpg?width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-08-20T07:24:00Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Japan Times"
-      },
-      "author": "Samuel Come",
-      "title": "Mozambique's illegal miners reap risky rewards but land suffers",
-      "description": "Rivers around mining sites are polluted, and mercury has seeped into the soil, creating a nightmare for farmers.",
-      "url": "https://www.japantimes.co.jp/environment/2025/08/20/sustainability/mozambique-illegal-miners/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/08/20/488723.jpg?v=3.1",
-      "publishedAt": "2025-08-20T06:02:00Z",
-      "content": "MANICA, MOZAMBIQUE Digging for gold and jewels is backbreaking and dangerous work, carried out without the most basic protective equipment, and it is illegal. But for the barefoot miners in Mozambiqu… [+5426 chars]"
     }
   ],
   "totalResults": 96,
