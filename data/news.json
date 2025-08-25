@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-25T06:38:15.582Z",
+  "lastUpdated": "2025-08-25T12:52:06.551Z",
   "articles": [
     {
       "source": {
@@ -112,7 +112,7 @@
       },
       "author": "Terry Chea, The Associated Press",
       "title": "‘Eating out is definitely really dangerous’: 17-year-old Californian with severe peanut allergy welcomes legislation on restaurant menu disclosures",
-      "description": "“When dining out, obviously I always bring my EpiPens, and I’m really nervous all the time.���",
+      "description": "“When dining out, obviously I always bring my EpiPens, and I’m really nervous all the time.”",
       "url": "https://fortune.com/2025/08/23/california-legislation-food-allergies-menus/",
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/AP25234122167767-e1755948947732.jpg?resize=1200,600",
       "publishedAt": "2025-08-23T11:38:01Z",
@@ -552,19 +552,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "S.D. Wells",
-      "title": "RADIOACTIVE SHRIMP sold at TOXIC WALMART now carries FDA warning after it tested positive for radioactive substance cesium-137",
-      "description": "Shopping for anything at Walmart is quite terrifying, with all the mass shootings, the recalled food products, and the “people of Walmart” that are there regularly. It’s just not safe to mix with all those ‘animals’ and take chances like that. Plus, who reall…",
-      "url": "https://www.naturalnews.com/2025-08-22-radioactive-shrimp-sold-at-walmart-now-carries-fda-warning.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Shrimp.jpg",
-      "publishedAt": "2025-08-22T06:00:00Z",
-      "content": "Shopping for anything at Walmart is quite terrifying, with all the mass shootings, the recalled food products, and the people of Walmart that are there regularly. Its just not safe to mix with all th… [+4732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Olivia Cook",
       "title": "Personal care products RECALLED over contamination by resilient pathogen",
       "description": "Four personal care items manufactured by DermaRite Industries, LLC – DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser –were voluntarily recalled after FDA testing revealed contamination with B…",
@@ -572,6 +559,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Wash-Hands-Soap-Bar-Suds.jpg",
       "publishedAt": "2025-08-22T06:00:00Z",
       "content": "<ul><li>Four personal care items manufactured by DermaRite Industries, LLC DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser were vol… [+8070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "RADIOACTIVE SHRIMP sold at TOXIC WALMART now carries FDA warning after it tested positive for radioactive substance cesium-137",
+      "description": "Shopping for anything at Walmart is quite terrifying, with all the mass shootings, the recalled food products, and the “people of Walmart” that are there regularly. It’s just not safe to mix with all those ‘animals’ and take chances like that. Plus, who reall…",
+      "url": "https://www.naturalnews.com/2025-08-22-radioactive-shrimp-sold-at-walmart-now-carries-fda-warning.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Shrimp.jpg",
+      "publishedAt": "2025-08-22T06:00:00Z",
+      "content": "Shopping for anything at Walmart is quite terrifying, with all the mass shootings, the recalled food products, and the people of Walmart that are there regularly. Its just not safe to mix with all th… [+4732 chars]"
     },
     {
       "source": {
