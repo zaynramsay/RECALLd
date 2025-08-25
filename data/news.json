@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-25T12:52:06.551Z",
+  "lastUpdated": "2025-08-25T18:35:16.482Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Blogspot.com"
+      },
+      "author": "chezjim",
+      "title": "The great medieval water myth (2013)",
+      "description": "A food history blog, focusing mainly on early medieval food and French bread history, written by Jim Chevallier (visit chezjim.com for more). .",
+      "url": "https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html",
+      "urlToImage": null,
+      "publishedAt": "2025-08-24T17:25:47Z",
+      "content": "This is one of several posts on drink in the Middle Ages. The others are:For looks at later water myths, seeOld Regime water after the Middle Ages and Early America.The idea that Medieval people dran… [+15267 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://images.theconversation.com/files/677684/original/file-20250701-56-2abnr0.png?ixlib=rb-4.1.0&rect=0%2C154%2C1224%2C612&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-08-20T12:42:58Z",
       "content": "The wetlands found across the Rocky Mountains of Colorado just below tree line are magical places. Dripping with mosses and deep green sedges, these open expanses flanked by evergreens are a breathta… [+5970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "AstuteAnalytica India Pvt. Ltd.",
-      "title": "UK Food Safety Testing Market Size to Reach US$2.8 Billion by 2033 | Astute Analytica",
-      "description": "Shaped by strict Food Standards Agency (FSA) regulations and post-Brexit import complexities, the UK market emphasizes robust allergen management and supply chain traceability. High consumer awareness and advanced rapid testing methods are integral to maintai…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/20/3136389/0/en/UK-Food-Safety-Testing-Market-Size-to-Reach-US-2-8-Billion-by-2033-Astute-Analytica.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-      "publishedAt": "2025-08-20T12:30:00Z",
-      "content": "Chicago, Aug. 20, 2025 (GLOBE NEWSWIRE) -- The UK food safety testing market was valued at US$ 1,306.23 million in 2024 and is expected to reach US$ 2,801.82 million by 2033, growing at a CAGR of 9.2… [+16723 chars]"
     }
   ],
   "totalResults": 96,
