@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-08-26T01:56:51.563Z",
+  "lastUpdated": "2025-08-26T06:37:00.258Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "admin",
+      "title": "Australia Has Banned 3 ‘Forever Chemicals’ – but Europe Wants to Ban all 14,000",
+      "description": "Last month, Australia’s ban on the import, use and manufacture of three types of “forever chemical” came into effect. These chemicals – PFOA, PFOS and PFHxS – have long lifespans and resist breaking down. They’re considered harmful due to their …",
+      "url": "https://www.insurancejournal.com/news/international/2025/08/25/836812.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/08/contamination-with-forever-chemicals-1329862239-AdobeStock-scaled.jpeg",
+      "publishedAt": "2025-08-25T05:55:48Z",
+      "content": "Last month, Australia’s ban on the import, use and manufacture of three types of “forever chemical” came into effect. These chemicals PFOA, PFOS and PFHxS have long lifespans and resist breaking down… [+6046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indonesiabusinesspost.com"
+      },
+      "author": "Annelis Putri",
+      "title": "From Chaoshan to Classrooms: Illegal Imports, Health Hazards, and Halal Concerns",
+      "description": "Indonesia Business Post uncovers potential fraud in MBG food trays: Chaoshan factories export mislabeled “Made in Indonesia” products, raising questions.",
+      "url": "https://indonesiabusinesspost.com/5066/investigations/from-chaoshan-to-classrooms-illegal-imports-health-hazards-and-halal-concerns",
+      "urlToImage": "https://cdn.indonesiabusinesspost.com/4/1/1/8/image-source-ibp-media-group_300x206.jpeg",
+      "publishedAt": "2025-08-25T03:46:37Z",
+      "content": "In the third week of August 2025, the Indonesia Business Post investigative team traveled to Chaoshan, an industrial hub in Guangdong Province, China. The area, home to 3040 factories producing food … [+15727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Bhavna Middha, ARC DECRA Senior Research Fellow in Environmental Sociology, RMIT University, Ralph Horne, Associate Deputy Vice Chancellor in Research & Innovation, RMIT University, Vincent Pettigrove, Professor of Aquatic Ecology, RMIT University",
+      "title": "Australia has banned 3 ‘forever chemicals’ – but Europe wants to ban all 14,000. This precautionary approach makes clear sense",
+      "description": "It’s taken years for Australia to ban three types of forever chemicals. But Europe plans to ban thousands of these chemicals to avoid future issues.",
+      "url": "https://theconversation.com/australia-has-banned-3-forever-chemicals-but-europe-wants-to-ban-all-14-000-this-precautionary-approach-makes-clear-sense-262802",
+      "urlToImage": "https://images.theconversation.com/files/686233/original/file-20250819-56-ek8zjc.jpg?ixlib=rb-4.1.0&rect=0%2C462%2C5999%2C2999&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-08-25T02:24:47Z",
+      "content": "Last month, Australia’s ban on the import, use and manufacture of three types of “forever chemical” came into effect. These chemicals – PFOA, PFOS and PFHxS – have long lifespans and resist breaking … [+6614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Bhavna Middha, ARC DECRA Senior Research Fellow in Environmental Sociology, RMIT University, Ralph Horne, Associate Deputy Vice Chancellor in Research & Innovation, RMIT University, Vincent Pettigrove, Professor of Aquatic Ecology, RMIT University",
+      "title": "Australia has banned 3 ‘forever chemicals’ – but Europe wants to ban all 14,000 as a precaution",
+      "description": "It’s taken years for Australia to ban three types of forever chemicals. But Europe plans to ban thousands of these chemicals to avoid future issues.",
+      "url": "https://theconversation.com/australia-has-banned-3-forever-chemicals-but-europe-wants-to-ban-all-14-000-as-a-precaution-262802",
+      "urlToImage": "https://images.theconversation.com/files/686233/original/file-20250819-56-ek8zjc.jpg?ixlib=rb-4.1.0&rect=0%2C462%2C5999%2C2999&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-08-25T02:24:47Z",
+      "content": "Last month, Australia’s ban on the import, use and manufacture of three types of “forever chemical” came into effect. These chemicals – PFOA, PFOS and PFHxS – have long lifespans and resist breaking … [+6614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "kcra.com",
+      "title": "Radioactive shrimp are potentially in California now, too",
+      "description": "Radioactive shrimp are potentially in California now, too\nUpdated: 2:43 PM PDT Aug 24, 2025\nEditorial Standards\nOn Thursday, Southwind Foods, headquartered in Carson, California, recalled multiple brands of frozen shrimp potentially affected by radioactive co…",
+      "url": "https://biztoc.com/x/7c83cd8534ce51c4",
+      "urlToImage": "https://biztoc.com/cdn/7c83cd8534ce51c4_s.webp",
+      "publishedAt": "2025-08-25T02:08:14Z",
+      "content": "Radioactive shrimp are potentially in California now, tooUpdated: 2:43 PM PDT Aug 24, 2025Editorial StandardsOn Thursday, Southwind Foods, headquartered in Carson, California, recalled multiple brand… [+147 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,71 +1248,6 @@
       "urlToImage": "https://i.cbc.ca/1.7613487.1755698095!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-medium-file.jpg?im=Resize%3D620",
       "publishedAt": "2025-08-20T14:18:03Z",
       "content": "Walmart has recalled frozen, raw shrimp sold in 13 U.S. states because federal health officials say it could have potential radioactive contamination.\r\nThe U.S. Food and Drug Administration asked Wal… [+2293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Jeffrey Steele, Contributor, \n Jeffrey Steele, Contributor\n https://www.forbes.com/sites/jeffsteele/",
-      "title": "Blight To Bright: Old Mill Morphs Into Economic Engine",
-      "description": "The challenges of building a new affordable housing community on the environmentally contaminated site of an abandoned mill didn't stop developers from working a miracle.",
-      "url": "https://www.forbes.com/sites/jeffsteele/2025/08/20/blight-to-bright-old-mill-morphs-into-economic-engine/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a5422eae476bfcbf81efa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-08-20T14:00:00Z",
-      "content": "The contamination of an old mill site in Columbus, Ga. did not stop developers from transforming the property into new affordable housing.\r\ngetty\r\nOld industrial sites are often the most difficult up… [+3965 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Single-Use Bioreactors Market Size to Envision USD 22.46 Billion by 2034",
-      "description": "The global single-use bioreactors market is valued at USD 5.38 billion in 2025 and is projected to expand to approximately USD 22.46 billion by 2034, advancing at a CAGR of 17.21% during the forecast period. The global single-use bioreactors market is valued …",
-      "url": "https://www.globenewswire.com/news-release/2025/08/20/3136525/0/en/Single-Use-Bioreactors-Market-Size-to-Envision-USD-22-46-Billion-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-08-20T14:00:00Z",
-      "content": "Ottawa, Aug. 20, 2025 (GLOBE NEWSWIRE) -- The global single-use bioreactors market size was valued at USD 4.59 billion in 2024 and is projected to reach approximately USD 22.46 billion by 2034, growi… [+22974 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Roanoke Times"
-      },
-      "author": "JONEL ALECCIA Associated Press",
-      "title": "Walmart recalls frozen shrimp over potential radioactive contamination",
-      "description": "Walmart has recalled frozen, raw shrimp sold in 13 states after federal health officials warned of potential radioactive contamination.",
-      "url": "https://roanoke.com/news/nation-world/business/article_a6d36043-47e9-582d-b21f-d93ed44edad6.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/a/6d/a6d36043-47e9-582d-b21f-d93ed44edad6/68a5b27ad5656.preview.jpg?crop=1439%2C756%2C106%2C370&resize=1200%2C631&order=crop%2Cresize",
-      "publishedAt": "2025-08-20T13:30:00Z",
-      "content": "Walmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactive contamination.\r\nThe U.S. Food and Drug Administration asked Walmart … [+2678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BroBible"
-      },
-      "author": "Claire Goforth",
-      "title": "California Health Inspector Shares The ‘Cleanest’ Fast-Food Place. The Answer May Pleasantly Surprise You",
-      "description": "In the world of fast-food chains, which conjures the image of cleanliness? A health inspector says the chain that tops the list might not be the one most of us expect. It’s Taco Bell. TikToker @fullof_sunshine, who says she’s a certified health inspector, wen…",
-      "url": "https://brobible.com/culture/article/health-inspector-cleanest-fast-food-taco-bell/",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2025/08/cleanest-F.food_.jpg",
-      "publishedAt": "2025-08-20T13:00:45Z",
-      "content": "Audio By Carbonatix\r\nIn the world of fast-food chains, which conjures the image of cleanliness? A health inspector says the chain that tops the list might not be the one most of us expect. It’s Taco … [+4138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "theguardian.com",
-      "title": "Walmart recalls potentially radioactive shrimp sold in 13 US states",
-      "description": "FDA officials detected Cesium-137, a radioactive isotope, in shipping containers and a sample of shrimp from Indonesia\nWalmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactive contamina…",
-      "url": "https://biztoc.com/x/17e3f6a9ba5609e6",
-      "urlToImage": "https://biztoc.com/cdn/17e3f6a9ba5609e6_s.webp",
-      "publishedAt": "2025-08-20T12:45:14Z",
-      "content": "FDA officials detected Cesium-137, a radioactive isotope, in shipping containers and a sample of shrimp from IndonesiaWalmart has recalled frozen, raw shrimp sold in 13 states because federal health … [+145 chars]"
     }
   ],
   "totalResults": 96,
