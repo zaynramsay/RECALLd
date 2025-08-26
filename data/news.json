@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-25T18:35:16.482Z",
+  "lastUpdated": "2025-08-26T01:56:51.563Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Dempsey May Ayuco",
+      "title": "Cooking chicken properly: Hidden kitchen dangers",
+      "description": "The overlooked epidemic threatening millions of home kitchens nationwide Every year, more than one million Americans fall victim to an invisible threat lurking in their own kitchens. The culprit isn’t a faulty appliance or dangerous chemical – it’s improperly…",
+      "url": "https://rollingout.com/2025/08/24/cooking-chicken-properly-hidden-dangers/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_1659246814.jpg",
+      "publishedAt": "2025-08-24T18:39:08Z",
+      "content": "The overlooked epidemic threatening millions of home kitchens nationwide\r\nEvery year, more than one million Americans fall victim to an invisible threat lurking in their own kitchens. The culprit isn… [+6026 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://biztoc.com/cdn/17e3f6a9ba5609e6_s.webp",
       "publishedAt": "2025-08-20T12:45:14Z",
       "content": "FDA officials detected Cesium-137, a radioactive isotope, in shipping containers and a sample of shrimp from IndonesiaWalmart has recalled frozen, raw shrimp sold in 13 states because federal health … [+145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Eve-Lyn Hinckley, Associate Professor of Biogeochemistry, University of Colorado Boulder",
-      "title": "Colorado’s subalpine wetlands may be producing a toxic form of mercury – that’s a concern for downstream water supplies",
-      "description": "Subalpine wetlands in the Rocky Mountains are warming,  creating the perfect conditions for producing methylmercury, a potent neurotoxin.",
-      "url": "https://theconversation.com/colorados-subalpine-wetlands-may-be-producing-a-toxic-form-of-mercury-thats-a-concern-for-downstream-water-supplies-259008",
-      "urlToImage": "https://images.theconversation.com/files/677684/original/file-20250701-56-2abnr0.png?ixlib=rb-4.1.0&rect=0%2C154%2C1224%2C612&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-08-20T12:42:58Z",
-      "content": "The wetlands found across the Rocky Mountains of Colorado just below tree line are magical places. Dripping with mosses and deep green sedges, these open expanses flanked by evergreens are a breathta… [+5970 chars]"
     }
   ],
   "totalResults": 96,
