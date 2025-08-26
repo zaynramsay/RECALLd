@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-08-26T06:37:00.258Z",
+  "lastUpdated": "2025-08-26T12:53:13.646Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Resilience"
+      },
+      "author": "Eliza Daley",
+      "title": "Growing your own food…??",
+      "description": "...I think I would do better for myself and for the planet if I bought my food from local farmers, those that I know are using the least harmful methods of growing food.",
+      "url": "https://www.resilience.org/stories/2025-08-25/growing-your-own-food/",
+      "urlToImage": "https://www.resilience.org/wp-content/uploads/2025/08/1080px-Mustard_Seed_Farms_Oregon_CSA.jpg",
+      "publishedAt": "2025-08-25T10:03:49Z",
+      "content": "Dont you hate when reality ruins a really good idea Yeah, I know thats not a problem for many people. Economics even ecological economics wouldnt be a thing if it was regularly reality tested, being … [+19150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "7 Places Microplastics Are Hiding in Your Kitchen and Potentially Entering Your Body",
+      "description": "Plus, these are the swaps you can make to reduce the number of microplastics in your home.",
+      "url": "https://www.cnet.com/health/sneaky-places-microplastics-hiding-kitchen-potentially-entering-body/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-08-25T08:06:03Z",
+      "content": "Microplastics are a hot topic nowadays, as the tiny plastic particles exist almost everywhere -- in our water, air and even the food we consume. Though microplastics are often microscopic, they have … [+7911 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Civil Eats"
+      },
+      "author": "Melissa Dai, Investigate Midwest",
+      "title": "Faster Lines, Less Oversight at Pork and Poultry Plants",
+      "description": "Another head is already coming. For a year and seven months, Lopez performed procedures like this for 10 hours a day, five to six days a week. It’s what he was trained for as a consumer safety inspector at the U.S. Department of Agriculture’s (USDA) Food Safe…",
+      "url": "https://civileats.com/2025/08/25/faster-lines-less-oversight-at-pork-and-poultry-plants/",
+      "urlToImage": "https://civileats.com/wp-content/uploads/2025/08/250819-faster-lines-less-federal-oversight-and-rising-risks-at-US-pork-and-poultry-plants.jpg",
+      "publishedAt": "2025-08-25T08:01:40Z",
+      "content": "Adequate training only goes so far, Lopez said. In his experience, even if carcass sorters were well trained, their priorities as private personnel may have leaned toward keeping the lines moving.\r\nS… [+9900 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -643,19 +682,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Olivia Cook",
-      "title": "Personal care products RECALLED over contamination by resilient pathogen",
-      "description": "Four personal care items manufactured by DermaRite Industries, LLC – DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser –were voluntarily recalled after FDA testing revealed contamination with B…",
-      "url": "https://www.naturalnews.com/2025-08-22-personal-care-products-recalled-contamination-resilient-pathogen.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Wash-Hands-Soap-Bar-Suds.jpg",
-      "publishedAt": "2025-08-22T06:00:00Z",
-      "content": "<ul><li>Four personal care items manufactured by DermaRite Industries, LLC DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser were vol… [+8070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "S.D. Wells",
       "title": "RADIOACTIVE SHRIMP sold at TOXIC WALMART now carries FDA warning after it tested positive for radioactive substance cesium-137",
       "description": "Shopping for anything at Walmart is quite terrifying, with all the mass shootings, the recalled food products, and the “people of Walmart” that are there regularly. It’s just not safe to mix with all those ‘animals’ and take chances like that. Plus, who reall…",
@@ -663,6 +689,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Shrimp.jpg",
       "publishedAt": "2025-08-22T06:00:00Z",
       "content": "Shopping for anything at Walmart is quite terrifying, with all the mass shootings, the recalled food products, and the people of Walmart that are there regularly. Its just not safe to mix with all th… [+4732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Personal care products RECALLED over contamination by resilient pathogen",
+      "description": "Four personal care items manufactured by DermaRite Industries, LLC – DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser –were voluntarily recalled after FDA testing revealed contamination with B…",
+      "url": "https://www.naturalnews.com/2025-08-22-personal-care-products-recalled-contamination-resilient-pathogen.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Wash-Hands-Soap-Bar-Suds.jpg",
+      "publishedAt": "2025-08-22T06:00:00Z",
+      "content": "<ul><li>Four personal care items manufactured by DermaRite Industries, LLC DermaKleen antiseptic lotion, DermaSarra analgesic, KleenFoam antimicrobial soap, and PeriGiene antiseptic cleanser were vol… [+8070 chars]"
     },
     {
       "source": {
@@ -1209,45 +1248,6 @@
       "urlToImage": "https://images.theconversation.com/files/685291/original/file-20250813-56-d6tdbm.jpg?ixlib=rb-4.1.0&rect=0%2C432%2C5184%2C2592&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-08-20T16:13:15Z",
       "content": "MOHAMED ABDULRAHEEM/Shutterstock\r\nPlastic is one of the most remarkable materials ever created. It’s cheap, lightweight and endlessly versatile. It can be shaped into anything from shopping bags to l… [+5328 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AccuWeather.com"
-      },
-      "author": "Jeffrey Kopp",
-      "title": "Walmart radioactive shrimp recall",
-      "description": "(CNN) —&nbsp;The&nbsp;US Food and Drug Administration&nbsp;on Tuesday urged the public not to eat certain bags of frozen raw shrimp sold at Walmart, citing concerns about unsanitary conditions and&nbsp;radioactive contamination found in shipments from the sam…",
-      "url": "https://www.accuweather.com/en/health-wellness/walmart-radioactive-shrimp-recall/1807768",
-      "urlToImage": "https://cms.accuweather.com/wp-content/uploads/2025/08/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWVqMnkwZTkwMDBjM2I2b3JrYnJ5NWdn-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZWoyOXR0NjAwMXIyY3FlNTR0ODJkeHo.jpg?w=768",
-      "publishedAt": "2025-08-20T16:04:33Z",
-      "content": "The FDA is warning consumers not to eat some frozen raw shrimp sold at Walmart due to unsanitary conditions and radioactive contamination found in shipments from the same supplier.\r\nA Walmart cart si… [+1958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Cut"
-      },
-      "author": "Erica Schwiegershausen",
-      "title": "Wait, What’s This About a Radioactive-Shrimp Recall?",
-      "description": "Add this to the list of things you didn’t know you needed to worry about: The FDA is warning people not to eat certain frozen shrimp from Walmart due to potential radioactive contamination.",
-      "url": "http://www.thecut.com/article/walmart-recalls-radioactive-great-value-shrimp.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/2a5/d4c/df5c902549b022a2c75748dbcb2f5f9cd1-frozen-shrimp-fda-recall.1x.rsocial.w1200.jpg",
-      "publishedAt": "2025-08-20T15:54:45Z",
-      "content": "Add this to the list of things you didnt know you needed to worry about: The U.S. Food and Drug Administration is warning people not to eat certain frozen shrimp from Walmart due to potential radioac… [+1799 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Risk of radioactive contamination prompts Walmart frozen shrimp recall in U.S.",
-      "description": "Walmart has recalled frozen, raw shrimp sold in 13 U.S. states because federal health officials say it could have potential radioactive contamination.",
-      "url": "https://www.cbc.ca/news/health/walmart-shrimp-recall-1.7613476",
-      "urlToImage": "https://i.cbc.ca/1.7613487.1755698095!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-medium-file.jpg?im=Resize%3D620",
-      "publishedAt": "2025-08-20T14:18:03Z",
-      "content": "Walmart has recalled frozen, raw shrimp sold in 13 U.S. states because federal health officials say it could have potential radioactive contamination.\r\nThe U.S. Food and Drug Administration asked Wal… [+2293 chars]"
     }
   ],
   "totalResults": 96,
