@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-08-27T06:34:11.165Z",
+  "lastUpdated": "2025-08-27T12:49:37.721Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Fresno Bee"
+      },
+      "author": "Bryant-Jon Anteola",
+      "title": "Will Clovis restaurant reopen after health violations, including cockroach sighting?",
+      "description": "“You see that, right?” the customer says in the video.",
+      "url": "https://www.fresnobee.com/living/food-drink/article311795777.html",
+      "urlToImage": "https://media.zenfs.com/en/fresno_bee_mcclatchy_articles_660/9b159ba2a916a85b743b966ce418aaf3",
+      "publishedAt": "2025-08-26T12:30:00Z",
+      "content": "A Clovis restaurant where a cockroach was discovered crawling not just inside the establishment but on top of food has closed.\r\nPerhaps permanently.\r\nA hand-written note taped onto the front door of … [+5193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Recycled Polystyrene Market Size to Worth USD 7.49 Billion by 2034",
+      "description": "According to Towards Chemical and Materials, the global recycled polystyrene market size was estimated at USD 4.95 billion in 2024 and is expected to be worth around USD 7.49 billion by 2034, growing at a compound annual growth rate (CAGR) of 4.23% over the f…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/26/3139172/0/en/Recycled-Polystyrene-Market-Size-to-Worth-USD-7-49-Billion-by-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-08-26T11:45:00Z",
+      "content": "Ottawa, Aug. 26, 2025 (GLOBE NEWSWIRE) -- The global recycled polystyrene market size\r\n is valued at USD 5.16 billion in 2025 and is anticipated to reach around USD 7.49 billion by 2034, growing at a… [+25469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Longreads.com"
+      },
+      "author": "Olivia Potts",
+      "title": "99 Problems: The Ice Cream Truck’s Surprising History",
+      "description": "From crime panics to TikTok, summer's favorite vehicle has driven a bumpy road.",
+      "url": "http://longreads.com/2025/08/26/ice-cream-truck-history-hysteria/",
+      "urlToImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2025/08/3.png?fit=2400%2C1400&ssl=1",
+      "publishedAt": "2025-08-26T10:00:00Z",
+      "content": "For 15 years, Longreads has published and curated the best longform writing on the weband we wouldnt exist without dedicated readers like you. Give today and ensure that quality journalism continues … [+33546 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,45 +1261,6 @@
       "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2019/11/Shrimp_Shutdown_97993.jpg?w=1024&h=681",
       "publishedAt": "2025-08-20T21:10:28Z",
       "content": "Walmart has recalled frozen, raw shrimp sold in 13 states because federal health officials say it could have potential radioactive contamination.\r\nThe U.S. Food and Drug Administration asked Walmart … [+2331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Mechanics"
-      },
-      "author": "Darren Orf",
-      "title": "Do Not Eat the Radioactive Shrimp!",
-      "description": "The FDA announced that Great Value brand shrimp sold at Walmart may contain unsafe levels of cesium-137, a radioactive isotope.",
-      "url": "https://www.popularmechanics.com/science/health/a65832293/radioactive-shrimp/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/frozen-prawns-in-metal-colander-royalty-free-image-1755723038.pjpeg?crop=1.00xw:0.752xh;0,0.118xh&resize=1200:*",
-      "publishedAt": "2025-08-20T20:59:09Z",
-      "content": "Heres what youll learn when you read this story:\r\n<ul><li>The U.S. Food and Drug Administration (FDA) issued a warning that Great Value brand shrimp sold at Walmart in 12 U.S. states contained unsafe… [+3709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "nytimes.com",
-      "title": "Walmart Recalls Frozen Shrimp After Radioactive Contamination Warning",
-      "description": "The Food and Drug Administration urged consumers to discard packages of frozen shrimp sold in 13 states. A food safety expert said the risk to the public was low.",
-      "url": "https://biztoc.com/x/0a40af095e4c0d03",
-      "urlToImage": "https://biztoc.com/cdn/0a40af095e4c0d03_s.webp",
-      "publishedAt": "2025-08-20T20:02:34Z",
-      "content": "The Food and Drug Administration urged consumers to discard packages of frozen shrimp sold in 13 states. A food safety expert said the risk to the public was low.\r\nThis story appeared on nytimes.com,… [+20 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "pbs.org",
-      "title": "Walmart recalls its frozen shrimp in 13 states, citing potential radioactive contamination",
-      "description": "The U.S. Food and Drug Administration asked Walmart to pull three lots of Great Value brand frozen shrimp from stores after federal officials detected Cesium-137, a radioactive isotope, in shipping containers and a sample of breaded shrimp imported from Indon…",
-      "url": "https://biztoc.com/x/706bbdb3567bef7d",
-      "urlToImage": "https://biztoc.com/cdn/706bbdb3567bef7d_s.webp",
-      "publishedAt": "2025-08-20T19:42:06Z",
-      "content": "The U.S. Food and Drug Administration asked Walmart to pull three lots of Great Value brand frozen shrimp from stores after federal officials detected Cesium-137, a radioactive isotope, in shipping c… [+118 chars]"
     }
   ],
   "totalResults": 97,
