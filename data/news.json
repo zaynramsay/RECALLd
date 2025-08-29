@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-29T06:34:35.098Z",
+  "lastUpdated": "2025-08-29T12:48:47.793Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Manu Kaushik",
+      "title": "Ice that cannot melt is here, scientists invent jelly ice to make life easy for you",
+      "description": "Scientists have developed 'jelly ice,' a reusable and compostable alternative to traditional ice, addressing the problem of meltwater. Made from gelatin, it holds water in pores, freezing and thawing without leaks. With 80% cooling efficiency compared to regu…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/ice-that-cannot-melt-is-here-scientists-invent-jelly-ice-to-make-life-easy-for-you/articleshow/123560366.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123560414,width-1200,height-630,imgsize-167950,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-28T08:55:34Z",
+      "content": "For centuries, ice has served as the go-to method for keeping food, drinks, and medical supplies cold, but it always comes with a messy drawback: meltwater. Now, researchers at the University of Cali… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Refrigeration Oils Market Review 2020-2025 and Forecast to 2030 - Shift to Low-GWP Refrigerants Accelerate Amid Stricter EPA and EU Regulations",
+      "description": "The rise of the food & beverage sector boosts demand, while challenges remain in oil disposal The rise of the food & beverage sector boosts demand, while challenges remain in oil disposal",
+      "url": "https://www.globenewswire.com/news-release/2025/08/28/3140578/28124/en/Refrigeration-Oils-Market-Review-2020-2025-and-Forecast-to-2030-Shift-to-Low-GWP-Refrigerants-Accelerate-Amid-Stricter-EPA-and-EU-Regulations.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-28T08:42:00Z",
+      "content": "Dublin, Aug. 28, 2025 (GLOBE NEWSWIRE) -- The \"Refrigeration Oil Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F\" has been added to ResearchAndMarkets.com's offeri… [+9015 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,32 +1248,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330872.g005&size=inline",
       "publishedAt": "2025-08-22T14:00:00Z",
       "content": "Citation: Werfelli N, Taboubi M, Ridene S, Bousselmi H, Mansouri A, Landoulsi A, et al. (2025) Novel method for combining microbial bioremediation with static magnetic fields to remediate mercury-con… [+35244 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "Chick-fil-A Product Recalled as Consumer Risk Warning Issued",
-      "description": "Griffith Foods Inc. announced a recall for a biscuit mix packaged for Chick-fil-A on August 10 due to possible undeclared egg.",
-      "url": "https://www.newsweek.com/chick-fil-biscuit-mix-recalled-fda-risk-warning-2117624",
-      "urlToImage": "https://d.newsweek.com/en/full/2707835/biscuits-stock-image.jpg",
-      "publishedAt": "2025-08-22T13:59:57Z",
-      "content": "A recall of a biscuit mix due to a potential undeclared allergen has been issued the second-highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nGriffith Foods Inc., based in Illinoi… [+2333 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "author": "Kyra Piperides",
-      "title": "Want To Avoid Microplastic Consumption? Counterintuitively, This New Study Suggests You Avoid Glass Soda Bottles, And Select Plastic Ones Instead.",
-      "description": "This is so confusing...",
-      "url": "http://twistedsifter.com/2025/08/want-to-avoid-microplastic-consumption-counterintuitively-this-new-study-suggests-you-avoid-glass-soda-bottles-and-select-plastic-ones-instead/",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/07/Glass-Bottles.jpg",
-      "publishedAt": "2025-08-22T13:55:55Z",
-      "content": "Pexels\r\nAs the research becomes more clear as to the effects of microplastics on the body, it’s understandable that people are becoming increasingly concerned about the quantity of tiny plastic parti… [+3934 chars]"
     }
   ],
   "totalResults": 96,
