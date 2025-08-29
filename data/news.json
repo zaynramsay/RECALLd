@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2025-08-29T12:48:47.793Z",
+  "lastUpdated": "2025-08-29T18:30:57.675Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Sarah Jacoby",
+      "title": "92 People Sick in Salmonella Outbreak Linked to These Recalled Eggs",
+      "description": "Eggs linked to a salmonella outbreak that's sickened more than 90 people have been recalled. The eggs, sold in two states, include these cage-free varieties.",
+      "url": "https://www.today.com/health/recall/brown-egg-recall-salmonella-fda-august-2025-rcna227791",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-08/egg-recall-te-250828-0add1a.jpg",
+      "publishedAt": "2025-08-28T17:29:08Z",
+      "content": "Cage-free eggs that were distributed to two states have been recalled due to possible contamination with salmonella. \r\nTo date, 92 people have gotten sick in relation to the recall, but there have be… [+3431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Radiant Offshore Consultancy LLP",
+      "title": "Chromatography Market is Forecasted to Reach US$18.8 Billion in 2031, Says Stratview Research",
+      "description": "Detroit, Aug. 28, 2025 (GLOBE NEWSWIRE) -- The global chromatography market size was valued at US$12.3 billion in 2024, and is projected to reach US$18.8 billion by 2031, witnessing a market growth CAGR of 6.1% from 2024 to 2031, according to an analysis by S…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/28/3140989/0/en/Chromatography-Market-is-Forecasted-to-Reach-US-18-8-Billion-in-2031-Says-Stratview-Research.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0b13b3bb-ce12-4d7e-b698-1d1a9fe7f607",
+      "publishedAt": "2025-08-28T16:00:00Z",
+      "content": "Detroit, Aug. 28, 2025 (GLOBE NEWSWIRE) -- The global chromatographymarket size was valued at US$12.3 billion in 2024, and is projected to reach US$18.8 billion by 2031, witnessing a market growth CA… [+14401 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Daniel Orton",
+      "title": "Walmart Recall Update: Customers in 23 States Warned Not To Eat Products",
+      "description": "The products include salads, ice cream and potentially radioactive shrimp.",
+      "url": "https://www.newsweek.com/walmart-food-product-recall-radioactive-shrimp-update-2120895",
+      "urlToImage": "https://d.newsweek.com/en/full/2711297/walmart-logo.jpg",
+      "publishedAt": "2025-08-28T15:41:08Z",
+      "content": "Several major food recalls of products sold at Walmart have been issued in August, with federal officials warning people not to consume the items sold in select stores across half the country.\r\nThe i… [+4314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Skeptic.com"
+      },
+      "author": "Skeptic",
+      "title": "Zero—Much to Do About Nothing?",
+      "description": "Zero means more than nothing. From ancient philosophy to AI, food safety, and finance, this essay explores how the number zero shapes our world—and why its interpretation still causes confusion, fear, and fascination.",
+      "url": "https://www.skeptic.com/article/zero-much-to-do-about-nothing/",
+      "urlToImage": "https://www.skeptic.com/content/images/size/w1200/2025/08/Zero-----billiard-balls-by-Moi-Escudero-2.webp",
+      "publishedAt": "2025-08-28T14:54:00Z",
+      "content": "Zero and Nothing. They sound like such simple words, but have you ever thought about what they actually mean? When a calculation results in zero, one takes a second look. Why cant you divide by zero?… [+19106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jessica R. Furber, Richard J. Delahay, Ruth Cox, Rosie Woodroffe, Maria O’Hagan, Naratip Santitissadeekorn, Stefan Klus, Giovanni Lo Iacono, Mark A. Chambers, David J. B. Lloyd",
+      "title": "Data-driven analysis of fine-scale badger movement in the UK",
+      "description": "Author summary Wild animals move for many reasons, such as searching for food, finding mates, or maintaining territories, and these movements can be affected by changes in their environment. In this comparative study, we focused on European badgers, a social …",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013372",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013372.g002&size=inline",
+      "publishedAt": "2025-08-28T14:00:00Z",
+      "content": "Citation: Furber JR, Delahay RJ, Cox R, Woodroffe R, OHagan M, Santitissadeekorn N, et al. (2025) Data-driven analysis of fine-scale badger movement in the UK. PLoS Comput Biol 21(8):\r\n e1013372.\r\nht… [+55869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Muluneh Assefa, Mitkie Tigabie, Azanaw Amare, Getu Girmay, Alene Geteneh, Getnet Ayalew, Sirak Biset, Wesam Taher Almagharbeh",
+      "title": "Emergence of extensively and pan-drug resistance in clinical bacterial isolates: A systematic scoping review from Ethiopian public health perspective",
+      "description": "Author summary This systematic scoping review addresses the critical public health concern of antimicrobial resistance in Ethiopia, specifically focusing on the emergence of XDR and PDR bacteria, including Pre-XDR and XDR-TB. The review, adhering to PRISMA-Sc…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013363",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013363.g001&size=inline",
+      "publishedAt": "2025-08-28T14:00:00Z",
+      "content": "Abstract\r\nIntroduction\r\nThe growing challenge of antimicrobial resistance in Ethiopia and itsprogression towards XDR and PDR has become a critical public health concern. Therefore, thisreview determi… [+49964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Borja González-Rabanal, Marco Vidal-Cordasco, Jennifer R. Jones, Lucía Agudo Pérez, Eduardo Carmona-Ballestero, Belén López, Miguel Ángel Martín Merino, Ana Isabel Ortega, Lawrence G. Straus, Rhiannon E. Stevens, Cristina Vega-Maeso, Manuel R. González Morales, Ana B. Marín-Arroyo",
+      "title": "Sulfur as a proxy for identifying coast-inland human mobility in Northern Iberia during Late Prehistory",
+      "description": "Population movements constitute a significant driver of cultural change in prehistoric societies. In recent years, sulfur isotopes have emerged as a valuable approach for distinguishing human/animal provenance. However, the scarcity of sulfur isotope studies …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330249",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330249.g009&size=inline",
+      "publishedAt": "2025-08-28T14:00:00Z",
+      "content": "Citation: González-Rabanal B, Vidal-Cordasco M, Jones JR, Agudo Pérez L, Carmona-Ballestero E, López B, et al. (2025) Sulfur as a proxy for identifying coast-inland human mobility in Northern Iberia … [+64437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Functional Drinks Market Size Worth USD 439.21 Billion by 2034 with Health and Wellness Trends Driving Growth",
+      "description": "According to Towards FnB, the global functional drinks market size is set to grow significantly, starting at an estimated USD 249.19 billion in 2025. By 2034, this market is expected to nearly triple in size, reaching USD 439.21 billion, representing a CAGR o…",
+      "url": "https://www.globenewswire.com/news-release/2025/08/28/3140863/0/en/Functional-Drinks-Market-Size-Worth-USD-439-21-Billion-by-2034-with-Health-and-Wellness-Trends-Driving-Growth.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-08-28T13:30:00Z",
+      "content": "Ottawa, Aug. 28, 2025 (GLOBE NEWSWIRE) -- The global functional drinks market size stood at USD 233.98 billion in 2024 and is predicted to grow form USD 249.19 billion in 2025 to around USD 439.21 bi… [+17408 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1144,110 +1248,6 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/08/garlic-shrimp-shutterstock-1200x675.jpg",
       "publishedAt": "2025-08-22T19:15:24Z",
       "content": "The Food and Drug Administration issued an alert earlier this week about shrimp sold at Walmart over concerns that it could be radioactive. And now more shrimp are being added to the list.\r\nSouthwind… [+2456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Scott Stump",
-      "title": "More Shrimp Potentially Contaminated With Radioactive Material Recalled",
-      "description": "After frozen shrimp sold at Walmart were recalled, the FDA shared another release for shrimp exposed to Cesium-137 from Southwind Foods.",
-      "url": "https://www.today.com/health/recall/fda-shrimp-recall-southwind-foods-rcna226631",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-08/shrimp-recall-tease-te-250822-c6dd79.jpg",
-      "publishedAt": "2025-08-22T18:05:38Z",
-      "content": "For the second time in a week, a company is recalling shrimp imported from Indonesia due to potential contamination with radioactive material. \r\nCalifornia-based Southwind Foods announced Aug. 21 tha… [+2992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Michigan State University",
-      "title": "New nanoparticle methods speed up detection of viruses in food and water",
-      "description": "Waiting is the hardest part. Especially in the case of testing for water or food contamination, which can take days or even a week in some cases for the results, leaving the possibility that people have been unknowingly exposed.",
-      "url": "https://phys.org/news/2025-08-nanoparticle-methods-viruses-food.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-develop-fa.jpg",
-      "publishedAt": "2025-08-22T17:00:01Z",
-      "content": "Waiting is the hardest part. Especially in the case of testing for water or food contamination, which can take days or even a week in some cases for the results, leaving the possibility that people h… [+4302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Salon"
-      },
-      "author": "Blaise Malley",
-      "title": "Ron DeSantis scoffs at judge’s order shutting down “Alligator Alcatraz”",
-      "description": "“The deportations will continue until morale improves,\" the Florida governor's office said.",
-      "url": "https://www.salon.com/2025/08/22/ron-desantis-scoffs-at-judges-order-shutting-down-alligator-alcatraz/",
-      "urlToImage": "https://www.salon.com/app/uploads/2024/10/ron_desantis_2165410075.jpg",
-      "publishedAt": "2025-08-22T16:30:48Z",
-      "content": "A federal judge has ordered the shutdown of Alligator Alcatraz, the controversial immigrant detention center deep in the Florida Everglades, citing environmental damage and legal violations in its co… [+2289 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Durva More",
-      "title": "Women over 50? Experts say this popular supplement might be sabotaging your health",
-      "description": "Many women over 50 take supplements for health, but experts warn not all are safe. Iron needs drop after menopause, and taking too much can cause serious health problems. Instead, focus on protein, calcium, vitamin D, and vitamin B12. Checking with a dietitia…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/women-over-50-experts-say-this-popular-supplement-might-be-sabotaging-your-health/articleshow/123457823.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123457858,width-1200,height-630,imgsize-106942,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-22T15:50:34Z",
-      "content": "Experts say as we age, our nutritional needs change, and what works in your 20s or 30s may not work after your 50s. Babies, teens, and pregnant women all have different needs. The same goes for women… [+3676 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Muskan Singh",
-      "title": "More frozen shrimp recalled over possible radioactive contamination, FDA warns",
-      "description": "Southwind Foods in the United States initiates a recall of frozen shrimp. This action follows concerns about potential radioactive contamination with Cesium-137. The affected products were distributed across nine states recently. Health officials advise consu…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/more-frozen-shrimp-recalled-over-possible-radioactive-contamination-fda-warns/articleshow/123457047.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123457462,width-1200,height-630,imgsize-1661811,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-22T15:05:08Z",
-      "content": "This week, grocery stores all over the U.S. are getting another seafood recall. The FDA says that Southwind Foods is taking some of its frozen shrimp products off the market. The move comes after mor… [+4841 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Associated Press",
-      "title": "More bags of frozen shrimp recalled over possible radioactive contamination",
-      "description": "More packages of frozen shrimp potentially affected by radioactive contamination have been recalled, federal officials said Thursday.",
-      "url": "https://nypost.com/2025/08/22/us-news/more-frozen-shrimp-recalled-for-possible-radioactive-contamination/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/shrimp-recall-comp.jpg?quality=75&strip=all&1755857685&w=1024",
-      "publishedAt": "2025-08-22T14:34:47Z",
-      "content": "More packages of frozen shrimp potentially affected by radioactive contamination have been recalled, federal officials said Thursday.\r\nCalifornia-based Southwind Foods recalled frozen shrimp sold und… [+1385 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "fastcompany.com",
-      "title": "The FDA’s radioactive shrimp recall now includes more brands: See the full list of impacted products",
-      "description": "Southwind Foods has issued a voluntary recall of frozen shrimp products due to potential radioactive contamination, according to the company and an alert issued Thursday by the Food and Drug Administration (FDA).\nIt follows an earlier warning on Tuesday about…",
-      "url": "https://biztoc.com/x/5362b36d2317e88d",
-      "urlToImage": "https://biztoc.com/cdn/5362b36d2317e88d_s.webp",
-      "publishedAt": "2025-08-22T14:15:39Z",
-      "content": "Southwind Foods has issued a voluntary recall of frozen shrimp products due to potential radioactive contamination, according to the company and an alert issued Thursday by the Food and Drug Administ… [+140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Naima Werfelli, Mariem Taboubi, Sirine Ridene, Hadir Bousselmi, Ahlem Mansouri, Ahmed Landoulsi, Chiraz Abbes",
-      "title": "Novel method for combining microbial bioremediation with static magnetic fields to remediate mercury-contaminated soils",
-      "description": "Heavy metal contamination poses a significant risk to both the environment and public health, particularly through metallic mercury, a neurotoxic contaminant capable of bioaccumulating in food chains. This article presents a novel approach to remediating merc…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330872",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330872.g005&size=inline",
-      "publishedAt": "2025-08-22T14:00:00Z",
-      "content": "Citation: Werfelli N, Taboubi M, Ridene S, Bousselmi H, Mansouri A, Landoulsi A, et al. (2025) Novel method for combining microbial bioremediation with static magnetic fields to remediate mercury-con… [+35244 chars]"
     }
   ],
   "totalResults": 96,
