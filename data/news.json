@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-08-30T06:31:10.863Z",
+  "lastUpdated": "2025-08-30T12:42:57.315Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "14 US states on high alert due to salmonella outbreak as nearly 100 fall sick: Check symptoms and treatment",
+      "description": "A Salmonella outbreak linked to eggs has sickened at least 95 people across 14 US states, according to the Centers for Disease Control and Prevention (CDC). The affected eggs were sold under the brand names Nagatoshi Produce, Mishuo, and Nijiya Markets. Consu…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-14-us-states-on-high-alert-due-to-salmonella-outbreak-as-nearly-100-fall-sick-check-symptoms-and-treatment/articleshow/123581880.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123581922,width-1200,height-630,imgsize-2378458,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-29T09:34:53Z",
+      "content": "The US Food and Drug Administration (FDA) on Thursday announced the recall of eggs connected to a salmonella outbreak. The recall is linked to at least 92 instances of illnesses but zero reported dea… [+4849 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -203,7 +216,7 @@
       },
       "author": "Manu Kaushik",
       "title": "Ice that cannot melt is here, scientists invent jelly ice to make life easy for you",
-      "description": "Scientists have developed 'jelly ice,' a reusable and compostable alternative to traditional ice, addressing the problem of meltwater. Made from gelatin, it holds water in pores, freezing and thawing without leaks. With 80% cooling efficiency compared to regu��",
+      "description": "Scientists have developed 'jelly ice,' a reusable and compostable alternative to traditional ice, addressing the problem of meltwater. Made from gelatin, it holds water in pores, freezing and thawing without leaks. With 80% cooling efficiency compared to regu…",
       "url": "https://economictimes.indiatimes.com/news/international/us/ice-that-cannot-melt-is-here-scientists-invent-jelly-ice-to-make-life-easy-for-you/articleshow/123560366.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-123560414,width-1200,height-630,imgsize-167950,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-08-28T08:55:34Z",
@@ -1235,19 +1248,6 @@
       "urlToImage": "https://i.abcnewsfe.com/a/f5198f58-d4fe-469d-a25a-cac295f3bdf1/wirestory_76205f8ea868534b72ef8a9da4c98efe_16x9.jpg?w=1600",
       "publishedAt": "2025-08-23T04:30:33Z",
       "content": "SAN JOSE, Calif. -- Braxton Kimura dreads eating at restaurants. The California teenager is severely allergic to peanuts, shellfish and most tree nuts. Consuming even a tiny amount could send him to … [+4654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Coral Beach",
-      "title": "Deep brand frozen sprouts confirmed as source of Salmonella in multi-state outbreak",
-      "description": "The Food and Drug Administration has expanded advice for retailers and consumers to not eat, sell, or serve Deep-brand Premium Select Frozen Surti Undhiu sprout mix based on recent product sample results indicating Salmonella contamination in this product. Th…",
-      "url": "https://www.foodsafetynews.com/2025/08/deep-brand-frozen-sprouts-confirmed-as-source-of-salmonella-in-multi-state-outbreak/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/102/186/364/3Be2PXkVAQ4bNdxazm78j1oNa/7f191bc83e85f94455327ab0d2e1cba9b831e071.png",
-      "publishedAt": "2025-08-23T01:45:42Z",
-      "content": "The Food and Drug Administration has expanded advice for retailers and consumers to not eat, sell, or serve Deep-brand Premium Select Frozen Surti Undhiu sprout mix based on recent product sample res… [+2728 chars]"
     }
   ],
   "totalResults": 96,
