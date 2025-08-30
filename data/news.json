@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-08-29T18:30:57.675Z",
+  "lastUpdated": "2025-08-30T01:46:44.402Z",
   "articles": [
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Mary Kekatos, Cheyenne Haslett, Youri Benadjaoud",
+      "title": "Mass layoffs, major vaccine policy changes: Timeline of turmoil at CDC",
+      "description": "The news that the CDC director was being ousted and four high-profile officials were resigning was the latest in turmoil that has been plaguing the federal health agency.",
+      "url": "https://abcnews.go.com/Health/mass-layoffs-resignations-major-vaccine-policy-timeline-turmoil/story?id=125056783",
+      "urlToImage": "https://i.abcnewsfe.com/a/c1a7e802-8b02-47fa-aa5d-88a10d674600/cdc-shooting-01-gty-jef-250814_1755198464713_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-08-28T22:46:38Z",
+      "content": "The attempted ousting of the director of the Centers for Disease Control and Prevention (CDC) and resignations of four high-profile officials on Wednesday were the latest developments in turmoil that… [+6662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "Tan Jingjing",
+      "title": "Nearly 100 sickened in U.S. salmonella outbreak linked to recalled eggs",
+      "description": "LOS ANGELES, Aug. 28 (Xinhua) -- Nearly 100 people have fallen ill in a multistate salmonella outbreak in the United States linked to recalled eggs, the U.S. Centers for Disease Control and Prevention (CDC) said on Thursday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/08/29/nearly-100-sickened-in-us-salmonella-outbreak-linked-to-recalled-eggs",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-08-28T21:05:00Z",
+      "content": "LOS ANGELES, Aug. 28 (Xinhua) -- Nearly 100 people have fallen ill in a multistate salmonella outbreak in the United States linked to recalled eggs, the U.S. Centers for Disease Control and Preventio… [+1434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wonderhowto.com"
+      },
+      "author": "WonderHowTo",
+      "title": "College Food Hacks: Transform Dorm Eating From Survival",
+      "description": "College Food Hacks: Transform Your Dorm Eating From Survival Mode to Satisfying\nDifficulty: Novice\nTime: 2-60 minutes per recipe\nCost: Free with meal plan to $6 per serving \nYou've got a microwave, a mini-fridge, and maybe access to a dining hall that serves …",
+      "url": "https://food-hacks.wonderhowto.com/how-to/college-food-hacks-transform-dorm-eating-from-survival/",
+      "urlToImage": "https://assets.content.technologyadvice.com/photo_1683099765379_5ec4956fdb49_591610f8f5.webp",
+      "publishedAt": "2025-08-28T20:08:31Z",
+      "content": "Difficulty: NoviceTime: 2-60 minutes per recipeCost: Free with meal plan to $6 per serving\r\nYou've got a microwave, a mini-fridge, and maybe access to a dining hall that serves the same rotation of b… [+13250 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Egg Recall Sparks New Warning as Nearly 100 Illnesses Reported",
+      "description": "Numerous recalls have been initiated this year due to the potential for foodborne illness, contamination and undeclared allergens.",
+      "url": "https://www.newsweek.com/egg-recall-warning-salmonella-2121138",
+      "urlToImage": "https://d.newsweek.com/en/full/2711748/recalled-eggs.jpg",
+      "publishedAt": "2025-08-28T19:58:51Z",
+      "content": "Country Eggs, LLC, is recalling its Brown Cage Free \"Sunshine Yolks\" eggs due to concerns that the product may be contaminated with salmonella after nearly 100 consumers fell ill.\r\nNewsweek reached o… [+3234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Aquastar (USA) Corp Recalls Cocktail Shrimp 6oz Because of Possible Health Risk",
+      "description": "August 28, 2025, AquaStar (USA) Corp of Seattle, WA is recalling approximately 26,460 packages of Cocktail Shrimp 6oz (see photo), imported from Indonesia, because they may have been prepared, packed, or held under insanitary conditions whereby they may have …",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aquastar-usa-corp-recalls-cocktail-shrimp-6oz-because-possible-health-risk",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-08-28T19:28:00Z",
+      "content": "Summary\r\nCompany Announcement Date:\r\nAugust 28, 2025\r\nFDA Publish Date:\r\nAugust 28, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nShellfish\r\nContaminants\r\nReason for Announcement:\r\nRecall Reason Descri… [+1967 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,71 +1248,6 @@
       "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/August/FB/adenomyosis-symptoms-causes-natural-treatment-fb.jpg",
       "publishedAt": "2025-08-23T00:00:00Z",
       "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Discover Magazine"
-      },
-      "author": "Jenny Lehmann",
-      "title": "Radioactive Shrimp Recalled — Radiation Levels Are Low, but Caution Is Still Advised",
-      "description": "Learn what cesium-137 is, how food can become radioactive, and what to do if you recently purchased shrimp.",
-      "url": "https://www.discovermagazine.com/radioactive-shrimp-recalled-from-big-retailer-radiation-levels-are-low-but-caution-is-still-advised-47960",
-      "urlToImage": "https://cdn.discovermagazine.com/assets/image/57061/frozen-shrimp-x.jpg",
-      "publishedAt": "2025-08-22T21:20:00Z",
-      "content": "Product recalls are nothing new. Most happen because of bacterial contamination like Salmonella, foreign objects accidentally entering the production line, or even mislabeled ingredients. But the lat… [+4175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Beaver Street Fisheries, LLC Recalls Great Value Frozen Raw Shrimp Because of Possible Health Risk",
-      "description": "Beaver Street Fisheries, LLC of Jacksonville, FL is voluntarily recalling a limited quantity of Great Value Frozen Raw Shrimp EZ-Peel & Deveined Tail-On 21-25 Per lb as a precautionary measure per the recommended action stated in an FDA advisory statement dat…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/beaver-street-fisheries-llc-recalls-great-value-frozen-raw-shrimp-because-possible-health-risk",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-08-22T21:11:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nAugust 22, 2025\r\nFDA Publish Date:\r\nAugust 22, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nShellfish\r\nContaminants\r\nReason for Announcement:\r\nRecall Reason Descri… [+2821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ohepic.com"
-      },
-      "author": "Oh! Epic",
-      "title": "Salema Porgy: Hallucinogenic Effects, Nutrition & Safety",
-      "description": "Explore Salema porgy hallucinations, nutrition & safety tips. Uncover dreamfish toxins, omega-3 perks & smart sourcing for safe bites.",
-      "url": "https://ohepic.com/salema-porgy-hallucinogenic-effects-nutrition-safety/",
-      "urlToImage": "https://ohepic.com/wp-content/uploads/2025/08/Knowing-more-about-the-effects-of-consuming-the-Salema-porgy-2025-08-22T064446.000Z.jpg",
-      "publishedAt": "2025-08-22T20:55:23Z",
-      "content": "The Salema porgy creates a fascinating paradox in Mediterranean cuisine, delivering outstanding nutritional benefits while carrying the risk of intense hallucinations that can persist for up to 36 ho… [+22572 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Frank Landymore",
-      "title": "Even More Shrimp Just Got Recalled Because of Radiation, at More Grocery Stores",
-      "description": "Alas, nuclear waste may have seeped into a greater share of delectable sea bugs than initially believed. On Thursday, the US Food and Drug Administration said that even more bags of frozen shrimp are being recalled for possible radioactive contamination after…",
-      "url": "https://futurism.com/neoscope/fda-finds-more-radioactive-shrimp",
-      "urlToImage": "https://wordpress-assets.futurism.com/2025/08/fda-finds-more-radioactive-shrimp-1.jpg",
-      "publishedAt": "2025-08-22T20:12:53Z",
-      "content": "Alas, nuclear waste may have seeped into a greater share of delectable sea bugs than initially believed.\r\nOn Thursday, the US Food and Drug Administration said that even more bags of frozen shrimp ar… [+2536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Matt Novak",
-      "title": "The Radioactive Shrimp Recall Gets Jumbo-Sized",
-      "description": "Unfortunately, it won't give you superpowers.",
-      "url": "https://gizmodo.com/radioactive-shrimp-recall-walmart-fda-update-2000646986",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/08/garlic-shrimp-shutterstock-1200x675.jpg",
-      "publishedAt": "2025-08-22T19:15:24Z",
-      "content": "The Food and Drug Administration issued an alert earlier this week about shrimp sold at Walmart over concerns that it could be radioactive. And now more shrimp are being added to the list.\r\nSouthwind… [+2456 chars]"
     }
   ],
   "totalResults": 96,
