@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-30T01:46:44.402Z",
+  "lastUpdated": "2025-08-30T06:31:10.863Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "FDA recalls ice cream in 16 states over undeclared nuts after a packaging mix-up",
+      "description": "Blue Bell is recalling half-gallon cartons of Moo-llennium Crunch Ice Cream mistakenly packaged in Chocolate Chip Cookie Dough cartons. The affected products, marked with lid code 061027524, contain undeclared almonds, pecans and walnuts. For people with nut …",
+      "url": "https://www.naturalnews.com/2025-08-29-fda-recalls-ice-cream-in-16-states.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Cute-Toddler-Girl-Eating-Ice-Cream.jpg",
+      "publishedAt": "2025-08-29T06:00:00Z",
+      "content": "<ul><li>Blue Bell is recalling half-gallon cartons of Moo-llennium Crunch Ice Cream mistakenly packaged in Chocolate Chip Cookie Dough cartons. The affected products, marked with lid code 061027524, … [+6615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Fox Business",
+      "title": "Country Eggs recalls cage-free products in California and Nevada following salmonella outbreak",
+      "description": "The US Food and Drug Administration (FDA) on Thursday announced the recall of eggs linked to a salmonella outbreak across the West Coast.",
+      "url": "https://www.foxbusiness.com/lifestyle/country-eggs-recalls-cage-free-products-california-nevada-following-salmonella-outbreak",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/country-eggs-recalls-cage-free-110259526.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-08-29T04:42:10Z",
+      "content": "The US Food and Drug Administration (FDA) on Thursday announced the recall of eggs connected to a salmonella outbreak.\r\nThe recall is linked to at least 92 instances of illnesses but zero reported de… [+1497 chars]"
+    },
     {
       "source": {
         "id": "abc-news",
@@ -177,7 +203,7 @@
       },
       "author": "Manu Kaushik",
       "title": "Ice that cannot melt is here, scientists invent jelly ice to make life easy for you",
-      "description": "Scientists have developed 'jelly ice,' a reusable and compostable alternative to traditional ice, addressing the problem of meltwater. Made from gelatin, it holds water in pores, freezing and thawing without leaks. With 80% cooling efficiency compared to regu…",
+      "description": "Scientists have developed 'jelly ice,' a reusable and compostable alternative to traditional ice, addressing the problem of meltwater. Made from gelatin, it holds water in pores, freezing and thawing without leaks. With 80% cooling efficiency compared to regu��",
       "url": "https://economictimes.indiatimes.com/news/international/us/ice-that-cannot-melt-is-here-scientists-invent-jelly-ice-to-make-life-easy-for-you/articleshow/123560366.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-123560414,width-1200,height-630,imgsize-167950,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-08-28T08:55:34Z",
@@ -1222,32 +1248,6 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/102/186/364/3Be2PXkVAQ4bNdxazm78j1oNa/7f191bc83e85f94455327ab0d2e1cba9b831e071.png",
       "publishedAt": "2025-08-23T01:45:42Z",
       "content": "The Food and Drug Administration has expanded advice for retailers and consumers to not eat, sell, or serve Deep-brand Premium Select Frozen Surti Undhiu sprout mix based on recent product sample res… [+2728 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Ice Cream Recall Map Shows New Warning Issued in 16 States",
-      "description": "Numerous recalls have been initiated this year due to the potential for damaged products, foodborne illness and undeclared allergens.",
-      "url": "https://www.newsweek.com/ice-cream-recall-map-shows-new-warning-issued-16-states-2118120",
-      "urlToImage": "https://d.newsweek.com/en/full/2708415/blue-bell-ice-cream.jpg",
-      "publishedAt": "2025-08-23T01:24:40Z",
-      "content": "Blue Bell Creameries, L.P., is recalling a limited amount of their Moo-llennium Crunch Ice Cream packaged in their Chocolate Chip Cookie Dough carton due to undeclared almonds, walnuts and pecans.\r\nN… [+3402 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Adenomyosis Is a Hidden, Estrogen-Driven Cause of Severe Period Pain",
-      "description": "If your period pain feels unbearable — like a deep, throbbing ache or stabbing cramps that knock the wind out of you — it's not something to brush off. Pain that severe isn’t normal. For millions of women, it’s the body’s warning signal for something deeper t…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/08/23/adenomyosis-symptoms-causes-natural-treatment.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/August/FB/adenomyosis-symptoms-causes-natural-treatment-fb.jpg",
-      "publishedAt": "2025-08-23T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
   "totalResults": 96,
