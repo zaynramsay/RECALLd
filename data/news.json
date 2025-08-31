@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-08-31T01:57:56.066Z",
+  "lastUpdated": "2025-08-31T06:32:07.746Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Caroline O'Doherty",
+      "title": "Second company set to deploy cameras to check if customers are putting waste in correct bins",
+      "description": "A second company is to deploy cameras in their bin lorries to check if people are putting their waste in the correct bins.",
+      "url": "https://www.independent.ie/irish-news/second-company-set-to-deploy-cameras-to-check-if-customers-are-putting-waste-in-correct-bins/a469369333.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/SXK2KAw_ircqd8yjOl72PQh_CyU=/60x0:735x450/629x0/prod-mh-ireland/be184bfb-9b88-49f4-b796-101e81292cbc/e2352ac7-69a8-439d-9b48-73b5cb328ca2/video/video.jpg",
+      "publishedAt": "2025-08-30T04:30:00Z",
+      "content": "System complies with GDPR rules that are already in place, but privacy concerns raised \r\nA second company is to deploy cameras in their bin lorries to check if people are putting their waste in the c… [+4377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Chris Knox",
+      "title": "Ready-to-eat supermarket salads recalled over metal filings risk",
+      "description": "Speirs Foods and Woolworths brand salad being recalled due to possible metal filings.",
+      "url": "https://www.nzherald.co.nz/nz/ready-to-eat-supermarket-salads-recalled-over-metal-filings-risk/4UX4KEMYSJDOVKQCOYEI74MKBM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/UJRTXV5YLZEM7FCNLP5MCZT77E.jpg?auth=d9005fca439ded7a9b2416ae28e8fc4ebf4b15364bc99b0bdc24aedd8158eab1&width=1200&height=675&quality=70&focal=435%2C94&smart=false",
+      "publishedAt": "2025-08-30T04:20:07Z",
+      "content": "New Zealand Food Safety has not been notified of any injuries related to the metal filings.\r\nNew Zealand Food Safety deputy director-general Vincent Arbuckle said: The concern with metal filings is t… [+761 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -111,7 +137,7 @@
         "name": "Salon"
       },
       "author": "Blaise Malley",
-      "title": "“Alligator Alcatraz” closure could cost Florida taxpayers $218M",
+      "title": "���Alligator Alcatraz” closure could cost Florida taxpayers $218M",
       "description": "The Everglades detention center has faced legal challenges over environmental damage and detainee conditions..",
       "url": "https://www.salon.com/2025/08/29/alligator-alcatraz-closure-could-cost-florida-taxpayers-218m/",
       "urlToImage": "https://www.salon.com/app/uploads/2024/10/ron_desantis_2165410075.jpg",
@@ -1209,32 +1235,6 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-08-25T08:06:03Z",
       "content": "Microplastics are a hot topic nowadays, as the tiny plastic particles exist almost everywhere -- in our water, air and even the food we consume. Though microplastics are often microscopic, they have … [+7911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Civil Eats"
-      },
-      "author": "Melissa Dai, Investigate Midwest",
-      "title": "Faster Lines, Less Oversight at Pork and Poultry Plants",
-      "description": "Another head is already coming. For a year and seven months, Lopez performed procedures like this for 10 hours a day, five to six days a week. It’s what he was trained for as a consumer safety inspector at the U.S. Department of Agriculture’s (USDA) Food Safe…",
-      "url": "https://civileats.com/2025/08/25/faster-lines-less-oversight-at-pork-and-poultry-plants/",
-      "urlToImage": "https://civileats.com/wp-content/uploads/2025/08/250819-faster-lines-less-federal-oversight-and-rising-risks-at-US-pork-and-poultry-plants.jpg",
-      "publishedAt": "2025-08-25T08:01:40Z",
-      "content": "Adequate training only goes so far, Lopez said. In his experience, even if carcass sorters were well trained, their priorities as private personnel may have leaned toward keeping the lines moving.\r\nS… [+9900 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insurance Journal"
-      },
-      "author": "admin",
-      "title": "Australia Has Banned 3 ‘Forever Chemicals’ – but Europe Wants to Ban all 14,000",
-      "description": "Last month, Australia’s ban on the import, use and manufacture of three types of “forever chemical” came into effect. These chemicals – PFOA, PFOS and PFHxS – have long lifespans and resist breaking down. They’re considered harmful due to their …",
-      "url": "https://www.insurancejournal.com/news/international/2025/08/25/836812.htm",
-      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/08/contamination-with-forever-chemicals-1329862239-AdobeStock-scaled.jpeg",
-      "publishedAt": "2025-08-25T05:55:48Z",
-      "content": "Last month, Australia’s ban on the import, use and manufacture of three types of “forever chemical” came into effect. These chemicals PFOA, PFOS and PFHxS have long lifespans and resist breaking down… [+6046 chars]"
     }
   ],
   "totalResults": 95,
