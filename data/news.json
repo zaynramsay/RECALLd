@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-01T12:51:38.998Z",
+  "lastUpdated": "2025-09-01T18:32:09.868Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Dempsey May Ayuco",
+      "title": "Gluten: Why millions suffer from this silent health bomb",
+      "description": "Millions unknowingly suffer from gluten-related disorders while this common protein wreaks havoc on digestive systems nationwide Constant fatigue blamed on busy schedules. Stomach cramps dismissed as stress. Mysterious rashes attributed to aging skin. For mil…",
+      "url": "https://rollingout.com/2025/08/31/gluten-why-millions-suffer-from-this/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_1911997906.jpg",
+      "publishedAt": "2025-08-31T17:24:47Z",
+      "content": "Millions unknowingly suffer from gluten-related disorders while this common protein wreaks havoc on digestive systems nationwide\r\nConstant fatigue blamed on busy schedules. Stomach cramps dismissed a… [+5249 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -307,7 +320,7 @@
       },
       "author": "thehill.com",
       "title": "FDA recalls more shrimp due to radioactive threat",
-      "description": "The Food and Drug Administration (FDA) has announced another recall of frozen shrimp sold at Walmart, citing potential contamination with cesium-137, a radioactive isotope.\nThis marks the third shrimp recall this month tied to imports from Indonesia.\nAccordin��",
+      "description": "The Food and Drug Administration (FDA) has announced another recall of frozen shrimp sold at Walmart, citing potential contamination with cesium-137, a radioactive isotope.\nThis marks the third shrimp recall this month tied to imports from Indonesia.\nAccordin…",
       "url": "https://biztoc.com/x/8db53ba5e2f0f04c",
       "urlToImage": "https://biztoc.com/cdn/8db53ba5e2f0f04c_s.webp",
       "publishedAt": "2025-08-29T19:31:57Z",
@@ -1222,19 +1235,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
       "publishedAt": "2025-08-26T11:45:00Z",
       "content": "Ottawa, Aug. 26, 2025 (GLOBE NEWSWIRE) -- The global recycled polystyrene market size\r\n is valued at USD 5.16 billion in 2025 and is anticipated to reach around USD 7.49 billion by 2034, growing at a… [+25469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Longreads.com"
-      },
-      "author": "Olivia Potts",
-      "title": "99 Problems: The Ice Cream Truck’s Surprising History",
-      "description": "From crime panics to TikTok, summer's favorite vehicle has driven a bumpy road.",
-      "url": "http://longreads.com/2025/08/26/ice-cream-truck-history-hysteria/",
-      "urlToImage": "https://i0.wp.com/longreads.com/wp-content/uploads/2025/08/3.png?fit=2400%2C1400&ssl=1",
-      "publishedAt": "2025-08-26T10:00:00Z",
-      "content": "For 15 years, Longreads has published and curated the best longform writing on the weband we wouldnt exist without dedicated readers like you. Give today and ensure that quality journalism continues … [+33546 chars]"
     }
   ],
   "totalResults": 95,
