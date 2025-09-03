@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-09-03T12:48:32.139Z",
+  "lastUpdated": "2025-09-03T18:32:10.444Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Pamela Vachon",
+      "title": "Cleaning Your Microwave Is Easier Than Ever With This 2-Minute Hack",
+      "description": "With a few step-by-step instructions, cleaning even the messiest microwave is possible.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/cleaning-your-microwave-is-easier-than-ever-with-this-2-minute-hack/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/82e083e900f1f88859a2ffd1e731c5326ce80769/hub/2023/02/21/6d6e60e6-5219-4b91-9921-eed88aa50508/gettyimages-sb10069213g-001.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-02T18:21:00Z",
+      "content": "It's easy to overlook cleaning your microwave during kitchen cleanup, but it's still an important chore that should be added to your list. While meals can leave behind a hardened mess that can be a n… [+6437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "CVS Recall Update—Customers Told to Immediately Stop Using Items Nationwide",
+      "description": "Voice is AI-generated. Inconsistencies may occur.\nCVS Pharmacy updated its online recalls list in August, instructing customers to immediately stop using several items due to potential health and safety risks.\nWhy It Matters\nFood recalls may be triggered by c…",
+      "url": "https://biztoc.com/x/d09f36202a13cc23",
+      "urlToImage": "https://biztoc.com/cdn/d09f36202a13cc23_s.webp",
+      "publishedAt": "2025-09-02T14:21:35Z",
+      "content": "Voice is AI-generated. Inconsistencies may occur.CVS Pharmacy updated its online recalls list in August, instructing customers to immediately stop using several items due to potential health and safe… [+145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Stacey Pizzino, Bryan G. Fry",
+      "title": "80 years after the end of World War II, a dangerous legacy lingers in the Pacific",
+      "description": "On September 2, 1945, the Second World War ended when Japan officially surrendered. Today, on the 80th anniversary, the physical legacy of the conflict remains etched into land and sea.",
+      "url": "https://phys.org/news/2025-09-years-world-war-ii-dangerous.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/80-years-after-the-end.jpg",
+      "publishedAt": "2025-09-02T14:20:05Z",
+      "content": "On September 2, 1945, the Second World War ended when Japan officially surrendered. Today, on the 80th anniversary, the physical legacy of the conflict remains etched into land and sea.\r\nNowhere is t… [+6398 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Daniel Orton",
+      "title": "CVS Recall Update—Customers Told to Immediately Stop Using Items Nationwide",
+      "description": "The products included dietary supplements and ice cream.",
+      "url": "https://www.newsweek.com/cvs-product-recall-update-august-2123059",
+      "urlToImage": "https://d.newsweek.com/en/full/2714230/cvs-signage.jpg",
+      "publishedAt": "2025-09-02T14:18:16Z",
+      "content": "CVS Pharmacy updated its online recalls list in August, instructing customers to immediately stop using several items due to potential health and safety risks.\r\nWhy It Matters\r\nFood recalls may be tr… [+3426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Łukasz Warguła, Łukasz Gierz, Olga Zharkevich, Bartosz Wieczorek, Łukasz Wojciechowski, Karolina Perz, Alexandra Berg, Andrey Berg, Darkhan Zhunuspekov, Asset Altynbaev, Piotr Kaczmarzyk, Anna Dziechciarz",
+      "title": "The influence of kinematic viscosity of oils on the energy consumption of a gear pump used for pumping oil in machines and vehicles",
+      "description": "The general theory of oil pumping using gear pumps shows that as kinematic viscosity increases, so does the energy requirement to drive the pump shaft. However, modern oils used in machines and vehicles are characterized by a wide range of modifiers that alte…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331371",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331371.g011&size=inline",
+      "publishedAt": "2025-09-02T14:00:00Z",
+      "content": "Abstract\r\nThe general theory of oil pumping using gear pumps shows that as kinematic viscosity increases, so does the energy requirement to drive the pump shaft. However, modern oils used in machines… [+45889 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Norio Miyamura, Chisato M. Yamazaki, Yasuaki Anami, Kyoji Tsuchikama, Kazuki N. Sugahara",
+      "title": "A cytotoxic peptide-drug conjugate for tumor-specific delivery of co-injected molecules",
+      "description": "An ideal cancer therapy enhances anti-tumor effects while minimizing side effects. iRGD, a non-cytotoxic peptide that activates a tumor-specific molecular transport machinery, promotes the penetration of co-injected drugs into tumor tissues. Clinical trials h…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331564",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331564.g004&size=inline",
+      "publishedAt": "2025-09-02T14:00:00Z",
+      "content": "Abstract\r\nAn ideal cancer therapy enhances anti-tumor effects while minimizing side effects. iRGD, a non-cytotoxic peptide that activates a tumor-specific molecular transport machinery, promotes the … [+34035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Amneal Pharmaceuticals, LLC - 709894 - 08/27/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amneal-pharmaceuticals-llc-709894-08272025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-09-02T13:20:08Z",
+      "content": "Delivery Method:\r\nVIA Electronic Mail\r\nReference #:\r\n320-25-104\r\nProduct:\r\nDrugs \r\nRecipient:\r\nCo-Chief Executive Officer \r\nAmneal Pharmaceuticals, LLC \r\n50 Horseblock RoadBrookhaven, NY11719-9509Uni… [+16388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Chromatography Institute of America dba Compounder’s International Analytical Laboratory - 708944 - 08/20/2025",
+      "description": "CGMP/Finished Pharmaceutical/API/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/chromatography-institute-america-dba-compounders-international-analytical-laboratory-708944-08202025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-09-02T13:20:07Z",
+      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-101\r\nProduct:\r\nAnimal &amp; VeterinaryDrugs \r\nRecipient:\r\nChromatography Institute of America dba Compounders International Analytical Laboratory \r\n4… [+17943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Wisconsin Pharmacal Company, LLC - 710329 - 08/22/2025",
+      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/wisconsin-pharmacal-company-llc-710329-08222025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-09-02T13:20:06Z",
+      "content": "Delivery Method:\r\nVIA EMAIL WITH READ RECEIPT\r\nReference #:\r\n320-25-103\r\nProduct:\r\nDrugs \r\nRecipient:\r\nWisconsin Pharmacal Company, LLC \r\n1 Pharmacal WayJackson, WI53037United States\r\nIssuing Office:… [+15766 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -701,7 +818,7 @@
       "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013311",
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013311.g004&size=inline",
       "publishedAt": "2025-08-29T14:00:00Z",
-      "content": "Citation: Arisqueta-Chabl�� C, Bibiano-Marín W, Che-Mendoza A, Chan-Perez G, Ramos-Jiménez H, Medina-Barreiro A, et al. (2025) Successful control of Triatoma dimidiata with residual application of a m… [+33156 chars]"
+      "content": "Citation: Arisqueta-Chablé C, Bibiano-Marín W, Che-Mendoza A, Chan-Perez G, Ramos-Jiménez H, Medina-Barreiro A, et al. (2025) Successful control of Triatoma dimidiata with residual application of a m… [+33156 chars]"
     },
     {
       "source": {
@@ -1131,123 +1248,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-08/ding-dongs-recalled-zz-250827-7ca8e0.jpg",
       "publishedAt": "2025-08-27T16:54:19Z",
       "content": "Hostess has recalled some chocolate Ding Dongs due to potential mold contamination.\r\nIn a statement on its website, Hostess confirmed that it had \"initiated a voluntary recall of select lots of Hoste… [+4079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BroBible"
-      },
-      "author": "Douglas Charles",
-      "title": "Hostess Announces Recall Of Ding Dongs Due To Potential Mold Contamination",
-      "description": "Some Hostess Ding Dongs sold in the United States are being recalled because of the potential they may be contaminated with mold. According to a company announcement, consuming any of the contaminated Ding Dongs could cause mycotoxins exposure. The J.M. Smuck…",
-      "url": "https://brobible.com/culture/article/hostess-recall-ding-dongs-mold-contamination/",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2025/08/hostess-ding-dongs.jpg",
-      "publishedAt": "2025-08-27T16:46:49Z",
-      "content": "iStockphoto\r\nAudio By Carbonatix\r\nSome Hostess Ding Dongs sold in the United States are being recalled because of the potential they may be contaminated with mold. According to a company announcement… [+2340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "fastcompany.com",
-      "title": "Don’t feed your dog or cat this recalled raw pet food. It might be contaminated with listeria or salmonella",
-      "description": "Charlotte-based pet food brand Viva Raw has voluntarily recalled two lots of raw pet food due to a risk of contamination with Salmonella and Listeria monocytogenes. \nAnimals that eat the contaminated products can become ill, and pet owners who handle contamin…",
-      "url": "https://biztoc.com/x/907196222d256e95",
-      "urlToImage": "https://biztoc.com/cdn/907196222d256e95_s.webp",
-      "publishedAt": "2025-08-27T16:32:32Z",
-      "content": "Charlotte-based pet food brand Viva Raw has voluntarily recalled two lots of raw pet food due to a risk of contamination with Salmonella and Listeria monocytogenes. Animals that eat the contaminated … [+149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Dempsey May Ayuco",
-      "title": "Unlocking longevity: Hidden secrets science just revealed",
-      "description": "Revolutionary research exposes the surprising dietary strategies that could transform your health span The quest for a longer, healthier life has captivated humanity for centuries, but recent breakthroughs offer real answers for lasting health and longevity. …",
-      "url": "https://rollingout.com/2025/08/27/unlocking-longevity-hidden-secrets/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/04/shutterstock_2131691825.jpg",
-      "publishedAt": "2025-08-27T16:31:04Z",
-      "content": "Revolutionary research exposes the surprising dietary strategies that could transform your health span\r\nThe quest for a longer, healthier life has captivated humanity for centuries, but recent breakt… [+4268 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Dog and cat food recalled over salmonella and listeria concerns as FDA issues warning to owners",
-      "description": "The recalled pet food was sold in seven states",
-      "url": "https://www.the-independent.com/life-style/dog-cat-food-recall-viva-raw-b2815100.html",
-      "urlToImage": "https://static.the-independent.com/2025/08/27/14/45/iStock-2215078680.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-08-27T14:39:48Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Single-use Pump Market Size to Project USD 2,133.2 Million by 2034",
-      "description": "The global single-use pump market is valued at USD 606.34 million in 2025 and is projected to reach approximately USD 2,133.2 million by 2034, expanding at a compound annual growth rate (CAGR) of 15.95% over the forecast period. The global single-use pump mar…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/27/3140135/0/en/Single-use-Pump-Market-Size-to-Project-USD-2-133-2-Million-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-08-27T14:00:00Z",
-      "content": "Ottawa, Aug. 27, 2025 (GLOBE NEWSWIRE) -- The global single-use pump market size estimated at USD 523.65 million in 2024, is anticipated to grow to USD 2,133.2 million by 2034, reflecting a strong CA… [+14741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Guido Corradi, Pilar Aguilar, Fernando Aguiar, Antonio Olivera-La Rosa",
-      "title": "Age and moral disgust: An experimental priming effects vignette study",
-      "description": "Disgust influences how people perceive and judge moral violations. Individuals who are more sensitive to disgust often judge such violations more harshly. This sensitivity may change depending on the context, like the age of the person committing the act. How…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328392",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328392.g002&size=inline",
-      "publishedAt": "2025-08-27T14:00:00Z",
-      "content": "Abstract\r\nDisgust influences how people perceive and judge moral violations. Individuals who are more sensitive to disgust often judge such violations more harshly. This sensitivity may change depend… [+47355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Post-Harvest Treatment Market to Surpass USD 23.60 Billion by 2032 | Demand Fueled by Growth in Fresh Produce Consumption, Food Security Concerns, and Reduction of Post-Harvest Losses",
-      "description": "The global post-harvest treatment market is witnessing steady growth as rising concerns over food security, increasing demand for fresh fruits and vegetables, and globalization of the food trade drive the adoption of effective preservation and treatment solut…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/27/3140139/0/en/Post-Harvest-Treatment-Market-to-Surpass-USD-23-60-Billion-by-2032-Demand-Fueled-by-Growth-in-Fresh-Produce-Consumption-Food-Security-Concerns-and-Reduction-of-Post-Harvest-Losses.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-08-27T14:00:00Z",
-      "content": "Austin, Aug. 27, 2025 (GLOBE NEWSWIRE) -- The global post-harvest treatment market\r\n was valued at USD 11.03 billion in 2024 and is projected to reach USD 23.60 billion by 2032, expanding at a compou… [+7500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slaynews.com"
-      },
-      "author": "Frank Bergman",
-      "title": "Major Study Confirms VAIDS Is Surging Among COVID-Vaxxed",
-      "description": "The U.S. Food and Drug Administration (FDA) has admitted that people who received Covid mRNA \"vaccines\" are at risk of suffering from a deadly blood clot for up to 15 years after they received their last injection.",
-      "url": "https://slaynews.com/news/fda-admits-covid-vaccinated-risk-blood-clots-15-years/",
-      "urlToImage": "https://slaynews.com/wp-content/uploads/2025/02/child-covid-vaccine-blood-clot-risk-15-years.jpg",
-      "publishedAt": "2025-08-27T12:22:44Z",
-      "content": "The U.S. Food and Drug Administration (FDA) has admitted that people who received Covid mRNA “vaccines” are at risk of suffering from a deadly blood clot for up to 15 years after they received their … [+6636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutritionfacts.org"
-      },
-      "author": "Kristine Dennis PhD, MPH",
-      "title": "Preventing and Treating Sarcoidosis",
-      "description": "The cause of sarcoidosis is unknown, but new research indicates that mycobacteria, like MAP bacteria found in dairy and meat products, are likely involved in some sarcoidosis cases.",
-      "url": "https://nutritionfacts.org/video/preventing-and-treating-sarcoidosis/",
-      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/07/10-kd-preventing-and-treating-sarcoidosis-1200x675.jpg",
-      "publishedAt": "2025-08-27T11:50:37Z",
-      "content": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nSarcoidosis is a disease… [+5035 chars]"
     }
   ],
   "totalResults": 96,
