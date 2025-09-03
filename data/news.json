@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-03T06:33:11.335Z",
+  "lastUpdated": "2025-09-03T12:48:32.139Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "author": "Associated Press",
+      "title": "Death Toll Rises To 900 In Afghanistan Earthquake As Search For Survivors Continues",
+      "description": "A 6.0 magnitude earthquake destroyed villages in eastern Afghanistan after striking late Sunday night in mountainous regions. Here's the latest.",
+      "url": "https://weather.com/news/news/2025-09-01-deadly-earthquake-strikes-east-afghanistan",
+      "urlToImage": "https://media.zenfs.com/en/the_weather_channel_articles_180/bc41d1d7280893b24ae533e5485031ad",
+      "publishedAt": "2025-09-02T09:38:40Z",
+      "content": "Rescue teams continued to scour Afghanistan's mountainous east for survivors on Tuesday as the death toll from a strong earthquake rose to 900 with 3,000 people injured, an official said.\r\nThe injure… [+4476 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Energyskeptic.com"
+      },
+      "author": "energyskeptic",
+      "title": "Palm Oil biofuels destroy rain forests",
+      "description": "Preface. This is a book review of “Planet Palm: How Palm Oil Ended Up in Everything-and Endangered the World.” In my book “Life After Fossil Fuels” and energyskeptic.com post “Peak Soil” I record the many ways energy crops are destructive … Continue reading →",
+      "url": "https://energyskeptic.com/2025/palm-oil-destroyer-of-health-and-rain-forests-for-food-and-biofuels/",
+      "urlToImage": null,
+      "publishedAt": "2025-09-02T08:34:28Z",
+      "content": "Preface. This is a book review of Planet Palm: How Palm Oil Ended Up in Everything-and Endangered the World.\r\nIn my book Life After Fossil Fuels and energyskeptic.com post Peak Soil I record the many… [+65841 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -675,7 +701,7 @@
       "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013311",
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013311.g004&size=inline",
       "publishedAt": "2025-08-29T14:00:00Z",
-      "content": "Citation: Arisqueta-Chablé C, Bibiano-Marín W, Che-Mendoza A, Chan-Perez G, Ramos-Jiménez H, Medina-Barreiro A, et al. (2025) Successful control of Triatoma dimidiata with residual application of a m… [+33156 chars]"
+      "content": "Citation: Arisqueta-Chabl�� C, Bibiano-Marín W, Che-Mendoza A, Chan-Perez G, Ramos-Jiménez H, Medina-Barreiro A, et al. (2025) Successful control of Triatoma dimidiata with residual application of a m… [+33156 chars]"
     },
     {
       "source": {
@@ -1222,21 +1248,8 @@
       "urlToImage": "https://nutritionfacts.org/app/uploads/2025/07/10-kd-preventing-and-treating-sarcoidosis-1200x675.jpg",
       "publishedAt": "2025-08-27T11:50:37Z",
       "content": "Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.\r\nSarcoidosis is a disease… [+5035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Wugen",
-      "title": "Wugen Secures $115 Million to Advance Pivotal Study of First-in-Class Allogeneic CAR-T Therapy, WU-CART-007",
-      "description": "Wugen Secures $115 Million to Advance Pivotal Study of First-in-Class Allogeneic CAR-T Therapy, WU-CART-007......",
-      "url": "https://www.globenewswire.com/news-release/2025/08/27/3139864/0/en/Wugen-Secures-115-Million-to-Advance-Pivotal-Study-of-First-in-Class-Allogeneic-CAR-T-Therapy-WU-CART-007.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/45bc8c22-6919-4005-87d6-1873ad0cc3b6",
-      "publishedAt": "2025-08-27T11:00:00Z",
-      "content": "Financing led by Fidelity Management &amp; Research Company with participation from RiverVest Venture Partners, Lightchain Capital, LYZZ Capital, Abingworth, Intermediate Capital Group (ICG), Tybourn… [+5801 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 96,
   "filteredCount": 1
 }
