@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-09-04T01:47:05.499Z",
+  "lastUpdated": "2025-09-04T06:33:55.243Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Flaxseed: The nutrient-packed ancient seed that can boost modern meals",
+      "description": "Flaxseed, cultivated for over 5,000 years, was valued in ancient Egypt, India and Babylon for its nutritional value and utility in linen production. Today, the flax plant is grown worldwide, especially in Canada, Russia and Kazakhstan. Flaxseed is rich in ome…",
+      "url": "https://www.naturalnews.com/2025-09-03-flaxseed-nutrient-packed-ancient-seed-modern-meals.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Flaxseed.jpg",
+      "publishedAt": "2025-09-03T06:00:00Z",
+      "content": "<ul><li>Flaxseed, cultivated for over 5,000 years, was valued in ancient Egypt, India and Babylon for its nutritional value and utility in linen production. Today, the flax plant is grown worldwide, … [+6909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ramon Tomey",
+      "title": "Unlocking longevity and health with enzymes: Dr. Edward Howell’s “Enzyme Nutrition”",
+      "description": "Dr. Edward Howell’s “Enzyme Nutrition: The Food Enzyme Concept” reveals that lifespan is inversely related to enzyme depletion. Conserving enzyme potential – through raw foods or supplementation – supports longevity and metabolic health.  Cooking destroys enz…",
+      "url": "https://www.naturalnews.com/2025-09-03-enzyme-nutrition-food-enzyme-concept-edward-howell.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Carrot-Cucumber-Salad-Raw-Food-Vegan.jpg",
+      "publishedAt": "2025-09-03T06:00:00Z",
+      "content": "<ul><li>Dr. Edward Howell's \"Enzyme Nutrition: The Food Enzyme Concept\" reveals that lifespan is inversely related to enzyme depletion. Conserving enzyme potential through raw foods or supplementatio… [+5155 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Not just danger of overdose. CMC Vellore doctor gives 3 reasons why you should not split your tablet for lower doses",
+      "description": "Splitting pills without a score line poses significant health risks, warns Dr. Sudhir Kumar, a senior neurologist at Apollo Hospitals. Breaking film-coated, extended-release, or orally disintegrating tablets can cause overdoses, ineffectiveness, and adverse e…",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-danger-of-overdose-cmc-vellore-doctor-gives-3-reasons-why-you-should-not-split-your-tablet-for-lower-doses/articleshow/123668046.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123668533,width-1200,height-630,imgsize-30844,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2025-09-03T03:33:44Z",
+      "content": "Many people, at some point, have broken a pill into two partseither because it appeared too large to swallow, because they wanted to minimize potential side effects, or because they were adjusting th… [+3750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Buddytv.com"
+      },
+      "author": "Buddy TV",
+      "title": "‘Alien: Earth’ Episode 5 Shocks Fans with Franchise Ties and a Haunting Flashback",
+      "description": "Alien: Earth episode 5 dropped on September 1, 2025, and it quickly became one of the most dissected chapters of the season. The installment not only tightened its links to Ridley Scott’s original franchise but also raised profound questions about survival, m…",
+      "url": "https://www.buddytv.com/alien-earth-episode-5-shocks-fans-with-franchise-ties-and-a-haunting-flashback/",
+      "urlToImage": "https://www.buddytv.com/wp-content/uploads/2025/09/alien-earth-episode-5.jpg",
+      "publishedAt": "2025-09-03T02:35:00Z",
+      "content": "Alien: Earth episode 5 dropped on September 1, 2025, and it quickly became one of the most dissected chapters of the season. The installment not only tightened its links to Ridley Scotts original fra… [+3327 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,6 +117,19 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/82e083e900f1f88859a2ffd1e731c5326ce80769/hub/2023/02/21/6d6e60e6-5219-4b91-9921-eed88aa50508/gettyimages-sb10069213g-001.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-02T18:21:00Z",
       "content": "It's easy to overlook cleaning your microwave during kitchen cleanup, but it's still an important chore that should be added to your list. While meals can leave behind a hardened mess that can be a n… [+6437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Parade"
+      },
+      "author": "Nathan Hutsenpiller",
+      "title": "Major Shrimp Recall Expanded Due to Potential Link to Cancer",
+      "description": "Once again, it's time to check those labels.",
+      "url": "https://parade.com/food/shrimp-recall-nationwide-update",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ngKg0G6IA_Nkwbyoq1W98g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/parade_250/f89fa60bd8f61883e068ba7152d1ace6",
+      "publishedAt": "2025-09-02T17:30:00Z",
+      "content": "Earlier this month, the FDA announced a recall of frozen shrimp sold at Walmart that has been expanding week by week. According to the original notice, the shrimp in question are potentially radioact… [+3396 chars]"
     },
     {
       "source": {
@@ -1196,60 +1261,8 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Bpa-Bisphenol-Plastic-Background-Bisphenol-A-Chalkboard-Chemical.jpg",
       "publishedAt": "2025-08-28T06:00:00Z",
       "content": "<ul><li>The \"BPA-free\" labels on food packaging are misleading and potentially more dangerous than BPA itself.</li><li>Chemicals from price stickers and packaging migrate into food, causing severe ce… [+4623 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Dog and cat food recalled over salmonella and listeria concerns as warning issued to owners",
-      "description": "The recalled pet food was sold in seven states",
-      "url": "https://www.the-independent.com/life-style/dog-cat-food-recall-viva-raw-listeria-salmonella-b2815513.html",
-      "urlToImage": "https://static.the-independent.com/2025/08/27/14/45/iStock-2215078680.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-08-28T05:43:05Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Wissen Research Pvt Ltd",
-      "title": "Lateral Flow Assays Market to Grow at a CAGR of 7.5% During the Forecast Period (2025 – 2030): Wissen Research",
-      "description": "The global lateral flow assay market is estimated at USD 8.2 billion in 2024 and is projected to reach USD 12.6 billion by 2030, expected to grow at a CAGR of 7.5% during the forecast period, 2025-2030. The global lateral flow assay market is estimated at USD…",
-      "url": "https://www.globenewswire.com/news-release/2025/08/28/3140477/0/en/Lateral-Flow-Assays-Market-to-Grow-at-a-CAGR-of-7-5-During-the-Forecast-Period-2025-2030-Wissen-Research.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/bdcbddbb-e1d8-4d87-bf97-d68f80176334",
-      "publishedAt": "2025-08-28T03:00:00Z",
-      "content": "Sheridan, Aug. 27, 2025 (GLOBE NEWSWIRE) -- According to the latest market report published by Wissen Research, the global lateral flow assays market was valued at USD 8.2 billion in 2024. Furthermor… [+6946 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Suzanne Blake",
-      "title": "Hostess Ding Dongs Recall 2025 Over Potential Mold Contamination",
-      "description": "The company \"initiated a voluntary recall of select lots of Hostess Ding Dongs® products due to the potential for the presence of mold.\"",
-      "url": "https://www.newsweek.com/hostess-ding-dong-recall-2025-nationwide-mold-contamination-2120453",
-      "urlToImage": "https://d.newsweek.com/en/full/2710805/hostess-sign.jpg",
-      "publishedAt": "2025-08-27T21:21:56Z",
-      "content": "Snack company Hostess has recalled chocolate Ding Dong snacks over concerns of potential mold contamination.\r\nThe company said it \"initiated a voluntary recall of select lots of Hostess Ding Dongs® p… [+3198 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "author": "Dempsey May Ayuco",
-      "title": "Food poisoning: Why your next bite could betray you",
-      "description": "When contaminated cuisine strikes, knowing the warning signs could save your life Food poisoning transforms an ordinary meal into a medical nightmare, affecting millions of Americans annually through contaminated ingredients harboring dangerous bacteria, viru…",
-      "url": "https://rollingout.com/2025/08/27/food-poisoning-why-your-next-bite-could/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/05/shutterstock_2286026245-scaled.jpg",
-      "publishedAt": "2025-08-27T20:12:02Z",
-      "content": "When contaminated cuisine strikes, knowing the warning signs could save your life\r\nFood poisoning transforms an ordinary meal into a medical nightmare, affecting millions of Americans annually throug… [+5213 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 97,
   "filteredCount": 1
 }
