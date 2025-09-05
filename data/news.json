@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-09-05T12:47:41.529Z",
+  "lastUpdated": "2025-09-05T18:30:46.248Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Kate Aronoff",
+      "title": "It’s Time for the MAHA Moms to Turn on RFK Jr., Too",
+      "description": "On Wednesday, more than 1,000 Health and Human Services employees demanded, in a letter, that HHS Secretary Robert F. Kennedy Jr. resign. They criticized him for firing Susan Monarez, the director of the Centers for Disease Control and Prevention; severely cu…",
+      "url": "https://newrepublic.com/article/199956/it-time-maha-moms-turn-rfk-jr",
+      "urlToImage": "https://images.newrepublic.com/dbbec27f52d56e7390b3793f07d39f104218458f.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-09-04T17:04:32Z",
+      "content": "On Wednesday, more than 1,000 Health and Human Services employees demanded, in a letter, that HHS Secretary Robert F. Kennedy Jr. resign. They criticized him for firing Susan Monarez, the director of… [+5350 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Theo Burman",
+      "title": "Republican Says Radioactive Shrimp May Turn You Into Xenomorph",
+      "description": "John Kennedy's comments come as recalls of frozen shrimp feared to be radioactive have been designated the second-highest health hazard warning.",
+      "url": "https://www.newsweek.com/republican-radioiactive-shrimp-xenomorph-2124553",
+      "urlToImage": "https://d.newsweek.com/en/full/2716021/frozen-shrimp.jpg",
+      "publishedAt": "2025-09-04T16:17:29Z",
+      "content": "Louisiana Senator John Kennedy, a Republican, compared radioactive shrimp to the deadly extraterrestrial creatures from the Alien film franchise.\r\nHis remarks came during a Senate hearing on water co… [+3701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Senator Says Radioactive Shrimp Will Turn You Into the Alien From ‘Alien’",
+      "description": "\"Even if it doesn't turn you into the alien if you eat this stuff, I guarantee you'll grow an extra ear.\"",
+      "url": "https://gizmodo.com/senator-says-radioactive-shrimp-will-turn-you-into-the-alien-from-alien-2000653223",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/john-kennedy-shrimp-sept-3-2025-1200x675.jpg",
+      "publishedAt": "2025-09-04T16:00:59Z",
+      "content": "U.S. health officials have issued several recalls of shrimp in recent weeks over concerns about radioactive material. And now a sitting U.S. Senator has taken the opportunity to warn people in the mo… [+4082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "David Edwards",
+      "title": "'You're killing people!' RFK Jr. testimony immediately interrupted by protester",
+      "description": "Health and Human Services Secretary Robert F. Kennedy was interrupted by a protester who accused him of \"killing people.\"During a Senate Finance Committee hearing on Thursday, the protester spoke out just seconds after Kennedy began his opening remarks.\"In ju…",
+      "url": "https://www.rawstory.com/rfk-jr-protester-at-hearing/",
+      "urlToImage": "https://www.rawstory.com/media-library/rfk-jr.jpg?id=61555394&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "publishedAt": "2025-09-04T14:47:59Z",
+      "content": "Health and Human Services Secretary Robert F. Kennedy was interrupted by a protester who accused him of \"killing people.\"\r\nDuring a Senate Finance Committee hearing on Thursday, the protester spoke o… [+741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Algae Products Market Size Worth USD 80.95 Billion by 2034 Amid Rising Demand in Food, Cosmetics & Biofuels",
+      "description": "According to Towards FnB, the global algae products market size accounted for USD 44.78 billion in 2025 and is forecasted to hit around USD 80.95 billion by 2034, expanding at a CAGR of 6.8% during the forecast period. The algae products market is seeing stro…",
+      "url": "https://www.globenewswire.com/news-release/2025/09/04/3144674/0/en/Algae-Products-Market-Size-Worth-USD-80-95-Billion-by-2034-Amid-Rising-Demand-in-Food-Cosmetics-Biofuels.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-09-04T14:00:00Z",
+      "content": "Ottawa, Sept. 04, 2025 (GLOBE NEWSWIRE) -- The global algae products market size stood at USD 41.93 billion in 2024 and is expected to grow steadily from USD 44.78 billion in 2025 to around USD 80.95… [+21978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Stephen Takeshi Terada, Hitomi Matsunaga, Aizhan Zabirowa, Tomoko Watanabe, Yuya Kashiwazaki, Makiko Orita, Thierry Schneider, Noboru Takamura",
+      "title": "What the public wants to know about the recycling of contaminated soil",
+      "description": "After the Fukushima Daiichi Nuclear Power Plant accident of March 11, 2011, the Japanese government implemented a soil decontamination program as part of disaster area recovery. This resulted in approximately 14 million cubic meters of contaminated soil being…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331478",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331478.t004&size=inline",
+      "publishedAt": "2025-09-04T14:00:00Z",
+      "content": "Abstract\r\nAfter the Fukushima Daiichi Nuclear Power Plant accident of March 11, 2011, the Japanese government implemented a soil decontamination program as part of disaster area recovery. This result… [+34844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joey Skladany",
+      "title": "Takeout Containers Should Never Go in the Microwave. This Is Why",
+      "description": "Some takeout containers pose the risk of leeching microplastics into your food.",
+      "url": "https://www.cnet.com/home/takeout-containers-should-never-go-in-the-microwave-this-is-why/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ba5e4d6491851ae04d7ea70e5127bc5ed582b30e/hub/2025/05/29/11568557-dbff-4fe5-8a37-7ebb789824c9/gettyimages-1406993092.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-04T13:32:00Z",
+      "content": "When hunger and laziness coincide, reheating last night's leftovers in the microwave seems like a great idea. But if you reheat them in the plastic container they came in, you put yourself at risk fo… [+6409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Sweeteners Market Size to Surpass USD 156.26 Billion by 2034, Led by Technological Advancements and Health Awareness",
+      "description": "According to Towards FnB, the global sweeteners market size accounted for USD 113.17 billion in 2025 and is forecasted to hit around USD 156.26 billion by 2034, expanding at a CAGR of 3.65% during the forecast period. The sweeteners market is growing rapidly …",
+      "url": "https://www.globenewswire.com/news-release/2025/09/04/3144651/0/en/Sweeteners-Market-Size-to-Surpass-USD-156-26-Billion-by-2034-Led-by-Technological-Advancements-and-Health-Awareness.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-09-04T13:30:00Z",
+      "content": "Ottawa, Sept. 04, 2025 (GLOBE NEWSWIRE) -- The global sweeteners market size reached at USD 109.18 billion in 2024 and is anticipated to increase from USD 113.17 billion in 2025 to around USD 156.26 … [+22743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Ruohao Zhang, Assistant Professor of Agricultural Economics, Penn State, Jiameng Zheng, Assistant Professor of Agriculture Economics, Louisiana State University , Wendong Zhang, Associate Professor of Agricultural Economics, Cornell University, Xibo Wan, Postdoctoral Research Associate in Agriculture and Resource Economics, University of Connecticut",
+      "title": "You can be exposed to PFAS through food, water, even swimming in lakes – new maps show how risk from ‘forever chemicals’ varies",
+      "description": "PFAS exposure can vary significantly from one community to the next. A close-up view of three Great Lakes states offers some insights for everyone.",
+      "url": "https://theconversation.com/you-can-be-exposed-to-pfas-through-food-water-even-swimming-in-lakes-new-maps-show-how-risk-from-forever-chemicals-varies-261632",
+      "urlToImage": "https://images.theconversation.com/files/688018/original/file-20250828-238151-w7u901.jpg?ixlib=rb-4.1.0&rect=0%2C5%2C3600%2C1800&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-09-04T12:52:39Z",
+      "content": "Since the 1940s, companies have been using PFAS – perfluoroalkyl and polyfluoroalkyl substances – to make products easier to use, from Teflon nonstick pots to waterproof rain gear, stain-resistant ca… [+8117 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -149,19 +266,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
-      "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
-      "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331389",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
       "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
       "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
@@ -169,6 +273,19 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
       "publishedAt": "2025-09-03T14:00:00Z",
       "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
+      "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
+      "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331389",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
+      "publishedAt": "2025-09-03T14:00:00Z",
+      "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
     },
     {
       "source": {
@@ -1092,138 +1209,8 @@
       "urlToImage": "https://www.salon.com/app/uploads/2024/10/ron_desantis_2165410075.jpg",
       "publishedAt": "2025-08-29T19:36:00Z",
       "content": "Florida taxpayers could lose nearly all of the $218 million the state poured into its controversial Everglades detention center after a federal judge upheld her order shutting it down.\r\nThe facility,… [+2288 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "thehill.com",
-      "title": "FDA recalls more shrimp due to radioactive threat",
-      "description": "The Food and Drug Administration (FDA) has announced another recall of frozen shrimp sold at Walmart, citing potential contamination with cesium-137, a radioactive isotope.\nThis marks the third shrimp recall this month tied to imports from Indonesia.\nAccordin…",
-      "url": "https://biztoc.com/x/8db53ba5e2f0f04c",
-      "urlToImage": "https://biztoc.com/cdn/8db53ba5e2f0f04c_s.webp",
-      "publishedAt": "2025-08-29T19:31:57Z",
-      "content": "The Food and Drug Administration (FDA) has announced another recall of frozen shrimp sold at Walmart, citing potential contamination with cesium-137, a radioactive isotope.This marks the third shrimp… [+142 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Mary Kekatos",
-      "title": "FDA expands warning of radioactive shrimp as 2 more brands are recalled",
-      "description": "FDA expands warning of radioactive shrimp as 2 more brands are recalledgo.com",
-      "url": "https://abcnews.go.com/Health/fda-expands-warning-radioactive-shrimp-2-brands-recalled/story?id=125104448",
-      "urlToImage": "https://i.abcnewsfe.com/a/570a13bb-c24b-4a3f-b2f1-a6ea6b5c515e/shrimp-2-ap-gmh-250829_1756487682561_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "2025-08-29T18:56:19Z",
-      "content": "The U.S. Food and Drug Administration is expanding its warning about radioactive shrimp, recalling more brands due to possible contamination.\r\nThe federal health agency said earlier this week nearly … [+2876 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Wsbtv.com News Staff",
-      "title": "Possibly radioactive shrimp recalled from Walmart, Kroger",
-      "description": "AquaStar (USA) Corp. is recalling ABOUT 26,460 packages of Cocktail Shrimp 6oz and 18,000 bags of Kroger Mercado Cooked Medium Peeled Tail-Off Shrimp due to potential cesium-137 contamination.",
-      "url": "https://www.wsbtv.com/news/local/possibly-radioactive-shrimp-recalled-walmart-kroger/U6ZOEC2JHNARTAZPVLR5GX3Y7E/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7BXK6V45TFCX5M2RB3BZGGWZMU.jpg?auth=985572e34e971d40238437242b36c60680519bbeacb8972c415ac0730e68a45c&width=1200&height=630&smart=true",
-      "publishedAt": "2025-08-29T18:27:03Z",
-      "content": "AquaStar (USA) Corp. is recalling about 26,460 packages of Cocktail Shrimp 6oz and 18,000 bags of Kroger Mercado Cooked Medium Peeled Tail-Off Shrimp due to potential cesium-137 contamination.\r\nThe r… [+1697 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WFTV Orlando"
-      },
-      "author": "Jonel Aleccia",
-      "title": "More companies pull thousands of packages of shrimp for potential radioactive contamination",
-      "description": "More companies are recalling tens of thousands of packages of imported shrimp that may contain radioactive contamination",
-      "url": "https://www.wftv.com/news/more-companies-pull/Z2URMF6VIFFPJES4MWG36VUWCI/",
-      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FE3RXZUQ4IQBHF6UAIEM5AVOWA4.jpg?auth=6fb29517760cfc652f33e4bf2e3268da8df7e289bc6f544af703776837e2834f&width=1200&height=630&smart=true",
-      "publishedAt": "2025-08-29T17:53:46Z",
-      "content": "More companies are recalling tens of thousands of packages of imported shrimp sold at Walmart, Kroger and other U.S. stores because they may contain radioactive contamination, according to federal no… [+3635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Hans Kissle LLC Issues Allergy Alert on Undeclared Wheat (Allergen) in Hans Kissle Red Potato Bliss Salad",
-      "description": "Haverhill, MA — Hans Kissle is voluntarily recalling 120 units of Hans Kissle Red Potato Bliss Salad due to undeclared allergen (wheat). People who have an allergy or severe sensitivity to wheat run the risk of serious or life-threatening allergic reaction if…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/hans-kissle-llc-issues-allergy-alert-undeclared-wheat-allergen-hans-kissle-red-potato-bliss-salad-0",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-08-29T17:15:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nAugust 29, 2025\r\nFDA Publish Date:\r\nAugust 29, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nCompany… [+1800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Salon"
-      },
-      "author": "Francesca Giangiulio",
-      "title": "FDA warns: Walmart shrimp may be radioactive",
-      "description": "Shrimp from multiple recalls tied to an Indonesian supplier may carry cesium-137, a radioactive isotope",
-      "url": "https://www.salon.com/2025/08/29/fda-warns-walmart-shrimp-may-be-radioactive/",
-      "urlToImage": "https://www.salon.com/app/uploads/2024/06/raw_shrimp_1124267083.jpg",
-      "publishedAt": "2025-08-29T16:45:23Z",
-      "content": "In comic books, falling into something radioactive is the best thing that can happen to you. Just ask Spider-Man, the Hulk or the Fantastic Four.\r\nUnfortunately, Walmarts recently recalled shrimp won… [+1676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Carlos Arisqueta-Chablé, Wilbert Bibiano-Marín, Azael Che-Mendoza, Guillermo Chan-Perez, Henry Ramos-Jiménez, Anuar Medina-Barreiro, Norma Pavía-Ruz, Juan Ortiz-Rivera, Jorge Palacio-Vargas, Fabian Correa-Morales, Hugo Delfín-González, Gabriela González-Olvera, Héctor Gómez-Dantés, María Jesús Sánchez, Gonzalo Vázquez-Prokopec, Pablo Manrique-Saide",
-      "title": "Successful control of Triatoma dimidiata with residual application of a microencapsulated formulation of pirimiphos-methyl (Actellic 300CS) in southeast Mexico",
-      "description": "Author summary Chemical control of Chagas disease has been focused on the use of pyrethroid formulations for over 40 years. New insecticides and formulations are available but have not been sufficiently evaluated for Triatomine control. This study reports the…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013311",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013311.g004&size=inline",
-      "publishedAt": "2025-08-29T14:00:00Z",
-      "content": "Citation: Arisqueta-Chablé C, Bibiano-Marín W, Che-Mendoza A, Chan-Perez G, Ramos-Jiménez H, Medina-Barreiro A, et al. (2025) Successful control of Triatoma dimidiata with residual application of a m… [+33156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Yu Jin, Haifeng Wu, Shuai Huo, Siyu Chen, Lili Shen, Hongjie Di, Lianfeng Du, Peng Li",
-      "title": "Mg²⁺-modified corncob biochar and natural zeolite significantly enhanced simultaneous N and P recovery from livestock wastewater",
-      "description": "Livestock and poultry farming effluents (LPFE) have become a significant source of pollution in the agricultural water environment, with nitrogen (N) and phosphorus (P) being the major pollutants. The use of inexpensive Mg2+ -modified materials as crystalliza…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331575",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331575.g010&size=inline",
-      "publishedAt": "2025-08-29T14:00:00Z",
-      "content": "Citation: Jin Y, Wu H, Huo S, Chen S, Shen L, Di H, et al. (2025) Mg²-modified corncob biochar and natural zeolite significantly enhanced simultaneous N and P recovery from livestock wastewater. PLoS… [+56229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Frederik Stein, Oliver Gailing",
-      "title": "Identification of BOLD engine deficiencies and suggestions for improvement based on a curated Tachina (Diptera) record set",
-      "description": "The increasing number of Barcode of Life Database (BOLD) records per species and genus leads to contradictory species assignments within Barcode Index Numbers (BINs), serving as identifiers for the BOLD ID engine. To examine these issues, we analyzed a datase…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331216",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331216.g003&size=inline",
-      "publishedAt": "2025-08-29T14:00:00Z",
-      "content": "Citation: Stein F, Gailing O (2025) Identification of BOLD engine deficiencies and suggestions for improvement based on a curated Tachina (Diptera) record set. PLoS One 20(8):\r\n e0331216.\r\nhttps://do… [+46329 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matt Cannon",
-      "title": "Radioactive Shrimp Recall Update as FDA Sets Risk Warning",
-      "description": "The FDA has issued an update on where certain frozen shrimp products were distributed.",
-      "url": "https://www.newsweek.com/radioactive-shrimp-food-recall-update-fda-risk-warning-2121456",
-      "urlToImage": "https://d.newsweek.com/en/full/2712153/shrimp-radioactive-hazard-sign.jpg",
-      "publishedAt": "2025-08-29T13:38:36Z",
-      "content": "Recalls of frozen shrimp feared to be radioactive have been designated the second-highest health hazard warning, a Class II, by the U.S. Food and Drug Administration (FDA).\r\nFlorida-based Beaver Stre… [+4947 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 93,
   "filteredCount": 1
 }
