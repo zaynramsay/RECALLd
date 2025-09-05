@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-04T18:32:30.988Z",
+  "lastUpdated": "2025-09-05T01:49:25.925Z",
   "articles": [
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "The Associated Press",
+      "title": "Cat in San Francisco euthanized after latest bird flu infection tied to raw pet food",
+      "description": "Federal health officials are warning that certain lots of raw cat food may be contaminated with H5N1 bird flu after a pet cat in San Francisco that ate the food became infected with the virus and had to be euthanized. The U.S. Food and Drug Administration sai…",
+      "url": "https://financialpost.com/pmn/cat-in-san-francisco-euthanized-after-latest-bird-flu-infection-tied-to-raw-pet-food",
+      "urlToImage": null,
+      "publishedAt": "2025-09-04T00:53:44Z",
+      "content": "Federal health officials are warning that certain lots of raw cat food may be contaminated with H5N1 bird flu after a pet cat in San Francisco that ate the food became infected with the virus and had… [+4534 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Texas Tribune",
+      "title": "Texas sued over its lab-grown meat ban",
+      "description": "Two cultivated meat companies have filed a lawsuit against officials in Texas over the law that bans the sales of lab-grown meat in the state for two years. California-based companies UPSIDE Foods, which makes cultivated chicken, and Wildtype, which makes cul…",
+      "url": "https://freerepublic.com/focus/f-bloggers/4338457/posts",
+      "urlToImage": null,
+      "publishedAt": "2025-09-03T20:32:06Z",
+      "content": "Skip to comments.\r\nTexas sued over its lab-grown meat banTexas Tribune ^\r\n | 09/03/2025\r\n | Jessica Shuran Yu\r\nPosted on 09/03/2025 1:32:06 PM PDT by DFG\r\nTwo cultivated meat companies have filed a l… [+6401 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,47 +1235,8 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/country-eggs-recalls-cage-free-110259526.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-08-29T04:42:10Z",
       "content": "The US Food and Drug Administration (FDA) on Thursday announced the recall of eggs connected to a salmonella outbreak.\r\nThe recall is linked to at least 92 instances of illnesses but zero reported de… [+1497 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "Joe Whitworth",
-      "title": "Denmark sees outbreaks fall in 2024",
-      "description": "Denmark has revealed norovirus caused the most foodborne outbreaks this past year with Salmonella and Campylobacter in joint second. In 2024, 55 foodborne outbreaks were registered with 1,126 people sick. Representatives from the National Food Institute at th…",
-      "url": "https://www.foodsafetynews.com/2025/08/denmark-sees-outbreaks-fall-in-2024/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/102/905/977/Lvpkalx2D6BlnJXoYWE7rB3Xq/123eb07ec0002eab8df28313efa0be338a5d863c.png",
-      "publishedAt": "2025-08-29T04:02:00Z",
-      "content": "Denmark has revealed norovirus caused the most foodborne outbreaks this past year with Salmonella and Campylobacter in joint second.\r\nIn 2024, 55 foodborne outbreaks were registered with 1,126 people… [+4524 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Mary Kekatos, Cheyenne Haslett, Youri Benadjaoud",
-      "title": "Mass layoffs, major vaccine policy changes: Timeline of turmoil at CDC",
-      "description": "The news that the CDC director was being ousted and four high-profile officials were resigning was the latest in turmoil that has been plaguing the federal health agency.",
-      "url": "https://abcnews.go.com/Health/mass-layoffs-resignations-major-vaccine-policy-timeline-turmoil/story?id=125056783",
-      "urlToImage": "https://i.abcnewsfe.com/a/c1a7e802-8b02-47fa-aa5d-88a10d674600/cdc-shooting-01-gty-jef-250814_1755198464713_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "2025-08-28T22:46:38Z",
-      "content": "The attempted ousting of the director of the Centers for Disease Control and Prevention (CDC) and resignations of four high-profile officials on Wednesday were the latest developments in turmoil that… [+6662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "Tan Jingjing",
-      "title": "Nearly 100 sickened in U.S. salmonella outbreak linked to recalled eggs",
-      "description": "LOS ANGELES, Aug. 28 (Xinhua) -- Nearly 100 people have fallen ill in a multistate salmonella outbreak in the United States linked to recalled eggs, the U.S. Centers for Disease Control and Prevention (CDC) said on Thursday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/08/29/nearly-100-sickened-in-us-salmonella-outbreak-linked-to-recalled-eggs",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-08-28T21:05:00Z",
-      "content": "LOS ANGELES, Aug. 28 (Xinhua) -- Nearly 100 people have fallen ill in a multistate salmonella outbreak in the United States linked to recalled eggs, the U.S. Centers for Disease Control and Preventio… [+1434 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 95,
   "filteredCount": 1
 }
