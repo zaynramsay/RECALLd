@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-05T06:34:22.259Z",
+  "lastUpdated": "2025-09-05T12:47:41.529Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Stephanie Pappas",
+      "title": "Bacteria in Spacecraft Clean Rooms Can Go Dormant, Evading Death",
+      "description": "A type of bacteria found in clean rooms has an unexpected method of survival, with implications for planetary protection",
+      "url": "https://www.scientificamerican.com/article/bacteria-in-spacecraft-clean-rooms-can-go-dormant-evading-death/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/1fa70896172f3115/original/curiosity_rover_in_nasa_clean-room.jpg?m=1756908833.712&w=1200",
+      "publishedAt": "2025-09-04T10:30:00Z",
+      "content": "A bacterial species found in spacecraft clean rooms can survives intensive antimicrobial cleaning in spacecraft clean rooms by going dormant, new research finds. That’s important because other clean-… [+4298 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump's tariffs force China to feel the heat",
+      "description": "President Trump's trade enforcement with China ends decades of economic exploitation as tariffs protect American workers and revitalize domestic industries.",
+      "url": "https://www.foxnews.com/opinion/trumps-tariffs-force-china-feel-heat",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1139413807.jpg",
+      "publishedAt": "2025-09-04T09:00:26Z",
+      "content": "President Donald Trumps America First trade agenda is working, and China is feeling the heat.  \r\nWhile the legacy media has spent months lying about slow growth, Trumps tariff agenda is already resha… [+4981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "National Observer"
+      },
+      "author": "Agatha Khishchenko, Andy Lehren, Robert Cribb, Molly MacNaughton",
+      "title": "Sewage taints Canadian oysters — then Americans eat them",
+      "description": "Canada is a major oyster supplier to the US, but regulatory inaction and oversights are harming both diners and oyster farmers.",
+      "url": "https://www.nationalobserver.com/2025/09/04/news/bc-oyster-recalls-polluted-water",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/09/03/pic-31-2048x1366.jpg",
+      "publishedAt": "2025-09-04T08:55:03Z",
+      "content": "This story was originally published by Inside Climate News and appears here as part of the Climate Desk collaboration\r\nMark Kapczynski had been looking forward to it for weeks. \r\nHe had VIP tickets f… [+28371 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,60 +1222,8 @@
       "urlToImage": "https://d.newsweek.com/en/full/2712153/shrimp-radioactive-hazard-sign.jpg",
       "publishedAt": "2025-08-29T13:38:36Z",
       "content": "Recalls of frozen shrimp feared to be radioactive have been designated the second-highest health hazard warning, a Class II, by the U.S. Food and Drug Administration (FDA).\r\nFlorida-based Beaver Stre… [+4947 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Ice Cream Factory Issues Allergy Alert on Undeclared Almond in Vanilla G.Nutt Ice Cream",
-      "description": "Ice Cream Factory of Mount Vernon, NY is recalling 40 Pints, 8 Quarts and 3 Half Gallons of Vanilla G.Nutt ice cream, because it may contain undeclared almond. People who have an allergy or severe sensitivity to tree nuts run the risk of serious or life-threa…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ice-cream-factory-issues-allergy-alert-undeclared-almond-vanilla-gnutt-ice-cream",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-08-29T13:33:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nAugust 29, 2025\r\nFDA Publish Date:\r\nSeptember 02, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nAllergens\r\nReason for Announcement:\r\nRecall Reason Description\r\nUnde… [+1564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Scitech Daily",
-      "title": "Study Finds 95% of Tested Beers Contain Toxic “Forever Chemicals”",
-      "description": "Researchers found PFAS in 95% of tested beers, with the highest levels linked to contaminated local water sources. Per- and polyfluoroalkyl substances (PFAS), better known as forever chemicals, are gaining notoriety for their ability to linger in the environm…",
-      "url": "https://freerepublic.com/focus/f-chat/4337421/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-08-29T12:55:06Z",
-      "content": "Skip to comments.\r\nStudy Finds 95% of Tested Beers Contain Toxic Forever Chemicals\r\nScitech Daily ^\r\n | August 28, 2025\r\n | American Chemical Society\r\nPosted on 08/29/2025 5:55:06 AM PDT by Red Badge… [+5120 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "14 US states on high alert due to salmonella outbreak as nearly 100 fall sick: Check symptoms and treatment",
-      "description": "A Salmonella outbreak linked to eggs has sickened at least 95 people across 14 US states, according to the Centers for Disease Control and Prevention (CDC). The affected eggs were sold under the brand names Nagatoshi Produce, Mishuo, and Nijiya Markets. Consu…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-14-us-states-on-high-alert-due-to-salmonella-outbreak-as-nearly-100-fall-sick-check-symptoms-and-treatment/articleshow/123581880.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123581922,width-1200,height-630,imgsize-2378458,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-08-29T09:34:53Z",
-      "content": "The US Food and Drug Administration (FDA) on Thursday announced the recall of eggs connected to a salmonella outbreak. The recall is linked to at least 92 instances of illnesses but zero reported dea… [+4849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "FDA recalls ice cream in 16 states over undeclared nuts after a packaging mix-up",
-      "description": "Blue Bell is recalling half-gallon cartons of Moo-llennium Crunch Ice Cream mistakenly packaged in Chocolate Chip Cookie Dough cartons. The affected products, marked with lid code 061027524, contain undeclared almonds, pecans and walnuts. For people with nut …",
-      "url": "https://www.naturalnews.com/2025-08-29-fda-recalls-ice-cream-in-16-states.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Cute-Toddler-Girl-Eating-Ice-Cream.jpg",
-      "publishedAt": "2025-08-29T06:00:00Z",
-      "content": "<ul><li>Blue Bell is recalling half-gallon cartons of Moo-llennium Crunch Ice Cream mistakenly packaged in Chocolate Chip Cookie Dough cartons. The affected products, marked with lid code 061027524, … [+6615 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 94,
   "filteredCount": 1
 }
