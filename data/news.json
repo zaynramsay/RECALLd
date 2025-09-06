@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-09-06T06:30:47.314Z",
+  "lastUpdated": "2025-09-06T12:41:11.236Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Another Cat Euthanized After Eating Raw Food Tainted With Bird Flu",
+      "description": "The CDC stop publishing data on bird flu infections in animals back in July.",
+      "url": "https://gizmodo.com/another-cat-euthanized-after-eating-raw-food-tainted-with-bird-flu-2000654074",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/evilcat-1-1200x675.jpg",
+      "publishedAt": "2025-09-05T12:35:26Z",
+      "content": "The FDA issued a warning this week after health officials discovered that a cat who became ill and had to be euthanized was likely infected by the same strain of bird flu that was discovered in raw c… [+3059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "Stop Eating Plastic: 7 Kitchen Items That Are Secretly Full of Microplastics",
+      "description": "Want fewer microplastics at home? Start with these practical replacements.",
+      "url": "https://www.cnet.com/health/stop-eating-plastic-7-kitchen-items-that-are-secretly-full-of-microplastics/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-05T10:00:05Z",
+      "content": "Microplastics aren't just an environmental buzzword. They're in the water you drink, the air you breathe and even the food on your plate. These tiny fragments of plastic are nearly impossible to avoi… [+8424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Europe, Middle East, and Africa (EMEA) Aseptic Packaging Market Report 2025-2030 | Pharmaceuticals, Processed Food, and Dairy Demand Bolster Growth",
+      "description": "The EMEA aseptic packaging market is projected to grow from USD 16.926 billion in 2025 to USD 21.582 billion by 2030, driven by pharmaceuticals, processed food, and dairy demands. Strict EU regulations and sustainable packaging trends enhance growth. Key play…",
+      "url": "https://www.globenewswire.com/news-release/2025/09/05/3145118/28124/en/Europe-Middle-East-and-Africa-EMEA-Aseptic-Packaging-Market-Report-2025-2030-Pharmaceuticals-Processed-Food-and-Dairy-Demand-Bolster-Growth.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-09-05T08:05:00Z",
+      "content": "Dublin, Sept. 05, 2025 (GLOBE NEWSWIRE) -- The \"Europe Middle East and Africa (EMEA) Aseptic Packaging Market - Forecasts from 2025 to 2030\" report has been added to ResearchAndMarkets.com's offering… [+8017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Cultivated Meat Companies Sue Texas Over Its Lab-Grown Meat Ban",
+      "description": "Two cultivated meat companies have filed a lawsuit against officials in Texas over the law that bans the sales of lab-grown meat in the state for two years. California-based companies UPSIDE Foods, which makes cultivated chicken, and Wildtype, which makes …",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/09/05/837804.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-lawsuits-1200x630.png",
+      "publishedAt": "2025-09-05T08:00:16Z",
+      "content": "Two cultivated meat companies have filed a lawsuit against officials in Texas over the law that bans the sales of lab-grown meat in the state for two years.\r\nCalifornia-based companies UPSIDE Foods, … [+5462 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -461,19 +513,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
-      "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
-      "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013441",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
       "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
       "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
@@ -481,6 +520,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
       "publishedAt": "2025-09-03T14:00:00Z",
       "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
+      "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
+      "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013441",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
+      "publishedAt": "2025-09-03T14:00:00Z",
+      "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
     },
     {
       "source": {
@@ -1157,58 +1209,6 @@
       "urlToImage": null,
       "publishedAt": "2025-08-30T18:29:50Z",
       "content": "Skip to comments.\r\nFDA expands radioactive shrimp recall amid concerns over possible contamination (From Russian Sub Base?)Fox Business ^\r\n | 30 August, 2025\r\n | Rachel Wolf\r\nPosted on 08/30/2025 11:… [+2493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ahouseinthehills.com"
-      },
-      "author": "Gianna Russo",
-      "title": "Summer Seafood Feasts: How to Keep Shrimp & Salmon Fresh",
-      "description": "Few things say summer better than a table full of seafood. Grilled salmon, a crisp shrimp salad, maybe a few oysters on ice—it’s indulgence and lightness in one. But seafood is also one of the most perishable proteins you can buy. Knowing how to buy it, store…",
-      "url": "https://ahouseinthehills.com/summer-seafood-feasts-how-to-keep-shrimp-salmon-fresh/",
-      "urlToImage": "https://ahouseinthehills.com/wp-content/uploads/2025/08/word-image-144032-1.png",
-      "publishedAt": "2025-08-30T16:49:39Z",
-      "content": "Few things say summer better than a table full of seafood. Grilled salmon, a crisp shrimp salad, maybe a few oysters on iceits indulgence and lightness in one. But seafood is also one of the most per… [+4791 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sun Sentinel"
-      },
-      "author": "Lois K. Solomon",
-      "title": "Restaurant owners push back on 'Bring Your Own Food' trend",
-      "description": "If you walk in with your own grub, know this: You are committing a grave offense in the view of many restaurant owners.",
-      "url": "https://www.sun-sentinel.com/2025/08/30/bring-your-own-food-south-florida-restaurant-owners-push-back-on-this-expanding-trend/",
-      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/08/TFL-L-bring-own-food-05.jpg?w=1024&h=683",
-      "publishedAt": "2025-08-30T15:59:21Z",
-      "content": "Sometimes you just want to get together with your friends. Wherever they may be.\r\nBut what if they’re headed to a restaurant whose food you don’t want? Maybe the eatery serves mostly meat when you’re… [+6628 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Martha McHardy",
-      "title": "Trader Joe's Frozen Pizza Warning As Customers Told to Throw Away Product",
-      "description": "The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) has issued a public health alert for a frozen Trader Joe's pepperoni pizza.",
-      "url": "https://www.newsweek.com/trader-joes-frozen-pizza-warning-2122063",
-      "urlToImage": "https://d.newsweek.com/en/full/2712922/trader-joes.jpg",
-      "publishedAt": "2025-08-30T14:15:10Z",
-      "content": "The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) has issued a public health alert for a frozen Trader Joe's pepperoni pizza imported from Italy after it was discovered t… [+2669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mental Floss"
-      },
-      "author": "CaLea Johnson",
-      "title": "You Probably Aren’t Cleaning Your Kitchen Sink Enough",
-      "description": "Think rinsing with water in between uses counts as cleaning your sink? Think again.",
-      "url": "https://www.mentalfloss.com/live-smarter/home/how-to-clean-kitchen-sink",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_18,y_0,w_2813,h_1582/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01k3hhfrweaw1c9ezt1w.jpg",
-      "publishedAt": "2025-08-30T13:56:00Z",
-      "content": "There are plenty of areas youre probably forgetting to clean, and your kitchen sink might be one of them. Luckily, the process hardly takes any time and only requires a sink strainer, dish soap, a sp… [+2656 chars]"
     }
   ],
   "totalResults": 93,
