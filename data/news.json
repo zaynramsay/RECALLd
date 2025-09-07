@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-07T06:31:02.045Z",
+  "lastUpdated": "2025-09-07T12:41:57.755Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "How Long Do Eggs Stay Fresh in the Fridge? Longer Than You Think",
+      "description": "Fresh eggs stored right can stay good in your fridge for up to five weeks.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/how-long-do-eggs-stay-fresh-in-the-fridge-longer-than-you-think/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/eb058b8b80a51127aa2948ff5f94ae475b9cb242/hub/2024/09/09/fe310f95-7e39-4eb2-b69a-b77d2d1de868/gettyimages-1996271988.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-06T11:00:05Z",
+      "content": "Eggs are one of the most dependable staples in the kitchen. They're affordable, versatile, and easy to buy in bulk, which makes them a go-to for stretching a grocery budget. But with food prices clim… [+5706 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -104,6 +117,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/frozen-vegetables-recalled-zz-250905-0d7277.jpg",
       "publishedAt": "2025-09-05T17:13:00Z",
       "content": "Frozen vegetables sold in six states were recalled over a possible listeria contamination. \r\nEndico Potatoes Inc. in Mount Vernon, New York, recalled its frozen peas and carrots, as well as its mixed… [+1230 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Computer chips, with a side of forever chemicals",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things at the intersection of environment and technology, follow Justine Calma. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in…",
+      "url": "https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24389544/1242819188.jpg?quality=90&strip=all&crop=0%2C10.831397866394%2C100%2C78.337204267213&w=1200",
+      "publishedAt": "2025-09-05T16:49:25Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply, demand, and deregulation.\r\nSupply, demand, and deregulation.\r\nby\r\nJustine CalmaClose\r\nJustine Calma\r\nPosts from this author will be added to your daily e… [+8545 chars]"
     },
     {
       "source": {
@@ -721,19 +747,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
-      "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
-      "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013441",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
       "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
       "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
@@ -741,6 +754,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
       "publishedAt": "2025-09-03T14:00:00Z",
       "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
+      "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
+      "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013441",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
+      "publishedAt": "2025-09-03T14:00:00Z",
+      "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
     },
     {
       "source": {
@@ -800,7 +826,7 @@
         "name": "The-independent.com"
       },
       "author": "Emilie Lavinia",
-      "title": "I drank kefir for a month and it made me feel like a superhuman – what’s the secret behind this gut-friendly drink?",
+      "title": "I drank kefir for a month and it made me feel like a superhuman – what��s the secret behind this gut-friendly drink?",
       "description": "Could this fermented drink hold the key to better health?",
       "url": "https://www.the-independent.com/health-and-fitness/what-is-kefir-b2819117.html",
       "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
@@ -1183,32 +1209,6 @@
       "urlToImage": "https://images.theconversation.com/files/688134/original/file-20250829-238428-1utdbr.jpg?ixlib=rb-4.1.0&rect=0%2C85%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-09-01T20:06:16Z",
       "content": "On September 2, 1945, the second world war ended when Japan officially surrendered. Today, on the 80th anniversary, the physical legacy of the conflict remains etched into land and sea.\r\nNowhere is t… [+6335 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BroBible"
-      },
-      "author": "Stacy Fernandez",
-      "title": "‘I’m Never Eating There Ever Again’: Pittsburgh Texas Roadhouse Server Shares All The Items Customers Have Found In Their Food After Staple Roll Incident",
-      "description": "After a staple was allegedly found baked into bread at a Texas Roadhouse location, a former employee has come forward to share her own unsettling experiences from when she worked at the chain. In a viral video with more than 460,000 views, content creator Abi…",
-      "url": "https://brobible.com/culture/article/pittsburgh-texas-roadhouse-server-customers-findings-food/",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2025/08/texas-roadhouse-ex-employee.jpg",
-      "publishedAt": "2025-09-01T19:00:42Z",
-      "content": "Audio By Carbonatix\r\nAfter a staple was allegedly found baked into bread at a Texas Roadhouse location, a former employee has come forward to share her own unsettling experiences from when she worked… [+4218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wonderhowto.com"
-      },
-      "author": "WonderHowTo",
-      "title": "5 Fridge Zone Strategy Saves $500 Annually",
-      "description": "Save Hundreds Per Year: The 5 Fridge Zone Strategy That Stops Food Waste\nDifficulty: Novice\nTime: 15 minutes\nCost: Free\nSavings: Up to $500 annually \nWhy You'll Love This Money-Saving System\nThrowing away hundreds of dollars worth of food each year because yo…",
-      "url": "https://food-hacks.wonderhowto.com/how-to/5-fridge-zone-strategy-saves-500-annually/",
-      "urlToImage": "https://assets.content.technologyadvice.com/photo_1626788570217_79607ba88bed_496bd0cfad.webp",
-      "publishedAt": "2025-09-01T17:15:09Z",
-      "content": "Difficulty: NoviceTime: 15 minutesCost: FreeSavings: Up to $500 annually\r\nWhy You'll Love This Money-Saving System\r\nThrowing away hundreds of dollars worth of food each year because you stored it wro… [+4083 chars]"
     }
   ],
   "totalResults": 93,
