@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2025-09-06T18:28:33.031Z",
+  "lastUpdated": "2025-09-07T01:55:20.378Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "WHIO"
+      },
+      "author": "Jonel Aleccia",
+      "title": "Radioactive metal at an Indonesia industrial site may be linked to shrimp recall",
+      "description": "International officials say contaminated metal at an industrial site in Indonesia could be the source of radioactive material behind recalls of imported shrimp",
+      "url": "https://www.whio.com/news/health/radioactive-metal-an/ETKMPEYX5VASBMIDHW3KV45GK4/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FE3RXZUQ4IQBHF6UAIEM5AVOWA4.jpg?auth=6fb29517760cfc652f33e4bf2e3268da8df7e289bc6f544af703776837e2834f&width=1200&height=630&smart=true",
+      "publishedAt": "2025-09-06T01:08:00Z",
+      "content": "Contaminated metal at an industrial site in Indonesia may be the source of radioactive material that led to massive recalls of imported frozen shrimp, international nuclear safety officials say, as e… [+3992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Jonel Aleccia",
+      "title": "Radioactive metal at an Indonesia industrial site may be linked to shrimp recall",
+      "description": "International officials say contaminated metal at an industrial site in Indonesia could be the source of radioactive material behind recalls of imported shrimp",
+      "url": "https://www.wsbtv.com/news/health/radioactive-metal-an/ETKMPEYX5VASBMIDHW3KV45GK4/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FE3RXZUQ4IQBHF6UAIEM5AVOWA4.jpg?auth=6fb29517760cfc652f33e4bf2e3268da8df7e289bc6f544af703776837e2834f&width=1200&height=630&smart=true",
+      "publishedAt": "2025-09-06T00:32:14Z",
+      "content": "Contaminated metal at an industrial site in Indonesia may be the source of radioactive material that led to massive recalls of imported frozen shrimp, international nuclear safety officials say, as e… [+3992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Unhealthy Plant-Based Diets Raise Your Risk of Heart Disease",
+      "description": "Plant-based diets, especially ones that are touted as “meat” alternatives, are all the rage these days. According to a market analysis by The Humane League, this industry was valued at $14 billion in 2021, and is expected to grow by a tremendous amount in 203…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/06/processed-plant-based-diets-health-risks.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/processed-plant-based-diets-health-risks-fb.jpg",
+      "publishedAt": "2025-09-06T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Radioactive metal at an Indonesia industrial site may be linked to shrimp recall",
+      "description": "None of the shrimp that triggered alerts or tested positive for Cesium-137 was sold.",
+      "url": "https://www.bostonherald.com/2025/09/05/indonesia-radioactive-shrimp/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/09/Radioactive-Shrimp_00317.jpg?w=1024&h=481",
+      "publishedAt": "2025-09-05T21:35:14Z",
+      "content": "By JONEL ALECCIA\r\nContaminated metal at an industrial site in Indonesia may be the source of radioactive material that led to massive recalls of imported frozen shrimp, international nuclear safety o… [+3908 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JONEL ALECCIA AP health writer",
+      "title": "Radioactive metal at an Indonesia industrial site may be linked to shrimp recall",
+      "description": "International officials say contaminated metal at an industrial site in Indonesia could be the source of radioactive material behind recalls of imported shrimp",
+      "url": "https://abcnews.go.com/Health/wireStory/radioactive-metal-indonesia-industrial-site-linked-shrimp-recall-125305856",
+      "urlToImage": "https://i.abcnewsfe.com/a/56c4627b-a298-43ae-9626-f134ffcb3530/wirestory_7391f5767076afc6731b8c8f4f35e084_16x9.jpg?w=1600",
+      "publishedAt": "2025-09-05T20:46:51Z",
+      "content": "Contaminated metal at an industrial site in Indonesia may be the source of radioactive material that led to massive recalls of imported frozen shrimp, international nuclear safety officials say, as e… [+3842 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Nicole  Brown Chau",
+      "title": "Frozen vegetables sold in 6 states recalled due listeria risk",
+      "description": "The Endico bags of frozen peas and carrots and mixed vegetables were distributed in New York, New Jersey, Pennsylvania, Connecticut, Maryland, Florida and Washington, D.C.",
+      "url": "https://www.cbsnews.com/news/endico-frozen-vegetables-recall-possible-listeria-contamination/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/05/3574d137-1a76-438a-82b8-80460adcb006/thumbnail/1200x630/f612a36e24f0f48fb23d30ef500a6dc7/endico-vegetables.jpg",
+      "publishedAt": "2025-09-05T18:52:22Z",
+      "content": "Bags of frozen vegetables sold in six states and Washington, D.C., are being recalled because of a risk of listeria contamination, federal officials said Thursday. \r\nThe Endico 2.5 lb bags of frozen … [+1539 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -441,7 +519,7 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331478",
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331478.t004&size=inline",
       "publishedAt": "2025-09-04T14:00:00Z",
-      "content": "Abstract\r\nAfter the Fukushima Daiichi Nuclear Power Plant accident of March 11, 2011, the Japanese government implemented a soil decontamination program as part of disaster area recovery. This result�� [+34844 chars]"
+      "content": "Abstract\r\nAfter the Fukushima Daiichi Nuclear Power Plant accident of March 11, 2011, the Japanese government implemented a soil decontamination program as part of disaster area recovery. This result… [+34844 chars]"
     },
     {
       "source": {
@@ -1131,84 +1209,6 @@
       "urlToImage": "https://assets.content.technologyadvice.com/photo_1626788570217_79607ba88bed_496bd0cfad.webp",
       "publishedAt": "2025-09-01T17:15:09Z",
       "content": "Difficulty: NoviceTime: 15 minutesCost: FreeSavings: Up to $500 annually\r\nWhy You'll Love This Money-Saving System\r\nThrowing away hundreds of dollars worth of food each year because you stored it wro… [+4083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Breast Pump Market Size Surges USD 7.58 Billion at 8.63% CAGR by 2034",
-      "description": "The global breast pump market is valued at approximately USD 3.52 billion in 2025 and is projected to grow to about USD 7.58 billion by 2034, expanding at an estimated compound annual growth rate (CAGR) of 8.63% over the forecast period. The global breast pum…",
-      "url": "https://www.globenewswire.com/news-release/2025/09/01/3142206/0/en/Breast-Pump-Market-Size-Surges-USD-7-58-Billion-at-8-63-CAGR-by-2034.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-09-01T15:00:00Z",
-      "content": "Ottawa, Sept. 01, 2025 (GLOBE NEWSWIRE) -- Towards Healthcare, a sister firm of Precedence Research, reports that the global breast pump market was valued at USD 3.23 billion in 2024 and is expected … [+14870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Cheese Recall Sparks Highest Consumer Risk Warning",
-      "description": "Voice is AI-generated. Inconsistencies may occur.\nA recall of cheese due to potential listeria contamination has been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\nFromi USA, based in New York, issued a voluntary recall for a…",
-      "url": "https://biztoc.com/x/6e81c8508f7680a5",
-      "urlToImage": "https://biztoc.com/cdn/6e81c8508f7680a5_s.webp",
-      "publishedAt": "2025-09-01T13:35:05Z",
-      "content": "Voice is AI-generated. Inconsistencies may occur.A recall of cheese due to potential listeria contamination has been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).Fro… [+145 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Matthew Robinson",
-      "title": "Cheese Recall Sparks Highest Consumer Risk Warning",
-      "description": "Fromi USA issued a voluntary recall for a limited amount of Brie Royal Faucon on August 14 due to possible listeria contamination.",
-      "url": "https://www.newsweek.com/cheese-recall-fda-issues-highest-risk-warning-fromi-usa-new-york-brie-royal-faucon-2122570",
-      "urlToImage": "https://d.newsweek.com/en/full/2713473/cheese.jpg",
-      "publishedAt": "2025-09-01T13:27:32Z",
-      "content": "A recall of cheese due to potential listeria contamination has been issued the highest risk warning by the U.S. Food and Drug Administration (FDA).\r\nFromi USA, based in New York, issued a voluntary r… [+3801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsonjapan.com"
-      },
-      "author": null,
-      "title": "Ministop Apologizes for Mislabeling Expiry Dates",
-      "description": "Ministop, a major Japanese convenience store chain, is under scrutiny following revelations of tampered expiry dates on in-store food items. President Masatsugu Hotta held a press conference at 4 p.m. on September 1st, formally apologizing again for the issue…",
-      "url": "https://newsonjapan.com/article/146729.php",
-      "urlToImage": "https://i2.ytimg.com/vi/pnLH_R-J8_A/mqdefault.jpg",
-      "publishedAt": "2025-09-01T13:22:05Z",
-      "content": "TOKYO, Sep 01 (News On Japan) -\r\n Ministop, a major Japanese convenience store chain, is under scrutiny following revelations of tampered expiry dates on in-store food items. President Masatsugu Hott… [+2495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Surface Disinfectant Company Evaluation Report 2025 | Reckitt Benckiser, Procter & Gamble, and 3M Lead Through Strategic Portfolio Focus, Market Expansion, and Operational Transformation",
-      "description": "Explore the comprehensive Surface Disinfectant Companies Quadrant, an in-depth analysis of the global surface disinfectant market. This report evaluates 92 companies, with the top 11 recognized as quadrant leaders. Surface disinfectants, formulated with activ…",
-      "url": "https://www.globenewswire.com/news-release/2025/09/01/3142061/28124/en/Surface-Disinfectant-Company-Evaluation-Report-2025-Reckitt-Benckiser-Procter-Gamble-and-3M-Lead-Through-Strategic-Portfolio-Focus-Market-Expansion-and-Operational-Transformation.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-09-01T09:28:00Z",
-      "content": "Dublin, Sept. 01, 2025 (GLOBE NEWSWIRE) -- The \"Surface Disinfectant - Company Evaluation Report, 2025\" report has been added to ResearchAndMarkets.com's offering.\r\nThe Surface Disinfectant Companies… [+8481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ava Grace",
-      "title": "U.S. accuses India of being ARROGANT for its continued purchase of Russian oil, doubles tariffs on Indian goods to 50%",
-      "description": "The U.S. imposed severe economic and diplomatic pressure by doubling tariffs on Indian goods to 50 percent and publicly accusing India of being arrogant for its continued purchase of Russian oil. India refused to capitulate, with Prime Minister Modi invoking …",
-      "url": "https://www.naturalnews.com/2025-09-01-us-doubles-tariffs-on-indian-goods.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/russia_india_ties_diplomacy_defense.jpg",
-      "publishedAt": "2025-09-01T06:00:00Z",
-      "content": "<ul><li>The U.S. imposed severe economic and diplomatic pressure by doubling tariffs on Indian goods to 50 percent and publicly accusing India of being arrogant for its continued purchase of Russian … [+8869 chars]"
     }
   ],
   "totalResults": 93,
