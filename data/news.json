@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-07T12:41:57.755Z",
+  "lastUpdated": "2025-09-07T18:28:51.095Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Chowhound"
+      },
+      "author": "Amara Michelle",
+      "title": "The Costco Olive Oil You Should Avoid Buying (And Why)",
+      "description": "Quality olive oil has a strong aroma and rich flavor notes that can range from bitter to floral and peppery. Sadly, this Costco bottle failed to meet the...",
+      "url": "https://www.chowhound.com/1956267/costco-olive-oil-avoid-buying/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ipfI4tL5b949iwPbXmes.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/chowhound_739/6b5798759236f9bed92b6e741e8cadd4",
+      "publishedAt": "2025-09-06T14:35:00Z",
+      "content": "Whether you're devoted to extra virgin olive oil or swear by its refined state, olive oil is a staple in many kitchens for a reason. In case you're late to the party, the secret to an excellent bottl… [+2540 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -632,7 +645,7 @@
       },
       "author": "Ava Grace",
       "title": "Landmark study reveals ULTRA-PROCESSED FOODS drive weight gain, harm male fertility in weeks",
-      "description": "A new controlled study challenges the “calories in, calories out” model, proving that the ultra-processing of food – not just its calorie content – directly harms metabolic health and reproductive potential. Men consuming a calorie-matched ultra-processed die…",
+      "description": "A new controlled study challenges the ��calories in, calories out” model, proving that the ultra-processing of food – not just its calorie content – directly harms metabolic health and reproductive potential. Men consuming a calorie-matched ultra-processed die…",
       "url": "https://www.naturalnews.com/2025-09-04-study-upfs-drive-weight-gain-harm-fertility.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Overweight-Man-Eating-Chips.jpg",
       "publishedAt": "2025-09-04T06:00:00Z",
@@ -747,19 +760,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
-      "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
-      "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331389",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
       "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
       "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
@@ -767,6 +767,19 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
       "publishedAt": "2025-09-03T14:00:00Z",
       "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
+      "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
+      "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331389",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
+      "publishedAt": "2025-09-03T14:00:00Z",
+      "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
     },
     {
       "source": {
@@ -826,7 +839,7 @@
         "name": "The-independent.com"
       },
       "author": "Emilie Lavinia",
-      "title": "I drank kefir for a month and it made me feel like a superhuman – what��s the secret behind this gut-friendly drink?",
+      "title": "I drank kefir for a month and it made me feel like a superhuman – what’s the secret behind this gut-friendly drink?",
       "description": "Could this fermented drink hold the key to better health?",
       "url": "https://www.the-independent.com/health-and-fitness/what-is-kefir-b2819117.html",
       "urlToImage": "https://static.the-independent.com/2025/01/20/11/46/iStock-1888984270.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
@@ -1196,19 +1209,6 @@
       "urlToImage": "https://focus.independent.ie/thumbor/Fn8A9mj94Cdjoz3XezXadCuQMR8=/0x0:3238x2158/629x0/prod-mh-ireland/456ce883-f3e2-4d80-8209-2e3011b83702/ac24481c-21d3-4d1b-a9dd-0e7cfb3b3f91/456ce883-f3e2-4d80-8209-2e3011b83702.jpg",
       "publishedAt": "2025-09-01T20:28:11Z",
       "content": "Rescuers comb rubble of homes in remote mountainous area\r\nImpassable roads, rough terrain\r\nHelicopters ferry the injured to hospital\r\nMidnight quake hit at a depth of 10 km\r\nTaliban-ruled Afghanistan… [+5565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Stacey Pizzino, Lecturer, School of Public Health, The University of Queensland, Bryan G. Fry, Professor of Toxicology, School of the Environment, The University of Queensland",
-      "title": "80 years since the end of World War II, a dangerous legacy lingers in the Pacific",
-      "description": "Toxic remnants of war can damage ecosystems and communities long after the fighting stops.",
-      "url": "https://theconversation.com/80-years-since-the-end-of-world-war-ii-a-dangerous-legacy-lingers-in-the-pacific-264127",
-      "urlToImage": "https://images.theconversation.com/files/688134/original/file-20250829-238428-1utdbr.jpg?ixlib=rb-4.1.0&rect=0%2C85%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-09-01T20:06:16Z",
-      "content": "On September 2, 1945, the second world war ended when Japan officially surrendered. Today, on the 80th anniversary, the physical legacy of the conflict remains etched into land and sea.\r\nNowhere is t… [+6335 chars]"
     }
   ],
   "totalResults": 93,
