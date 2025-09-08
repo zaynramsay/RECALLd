@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-08T01:55:17.944Z",
+  "lastUpdated": "2025-09-08T06:36:37.311Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Amit   Mittal",
+      "title": "Sustainable packaging for agri-produce: How paper can reduce post-harvest losses in India",
+      "description": "By protecting produce, improving market returns and supporting regulatory goals, paper packaging safeguards both livelihoods and the environment",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/sustainable-packaging-for-agri-produce-how-paper-can-reduce-post-harvest-losses-in-india/article70019377.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/fiq4zj/article70021732.ece/alternates/LANDSCAPE_1200/IMG_BL31_BRAND_HARISH_CO_2_1_4N8KEL7L.jpg",
+      "publishedAt": "2025-09-07T05:00:00Z",
+      "content": "India ranks among the top global producers of fruits, vegetables and grains, yet a considerable portion of this harvest never reaches consumers in good condition. Losses from microbial spoilage and m… [+5419 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1202,7 +1215,7 @@
         "id": null,
         "name": "Mercola.com"
       },
-      "author": "Dr. Mercola",
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
       "title": "How to Tell the Difference Between Food Poisoning and a Stomach Bug",
       "description": "If you’ve ever had stomach cramps, vomiting, diarrhea, and chills soon after eating, there’s a good chance you were dealing with contaminated food. But here’s where it gets confusing: not all gut-related sickness is foodborne. Viral infections like norovirus,…",
       "url": "https://articles.mercola.com/sites/articles/archive/2025/09/02/food-poisoning-vs-stomach-virus.aspx",
@@ -1211,6 +1224,6 @@
       "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
-  "totalResults": 93,
-  "filteredCount": 1
+  "totalResults": 94,
+  "filteredCount": 0
 }
