@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-07T18:28:51.095Z",
+  "lastUpdated": "2025-09-08T01:55:17.944Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": "Cna Lifestyle",
+      "title": "Is kombucha good for you? Experts say benefits are possible, but evidence is still limited",
+      "description": "Is kombucha good for you? Experts say benefits are possible, but evidence is still limitedchannelnewsasia.com",
+      "url": "https://cnalifestyle.channelnewsasia.com/wellness/health-benefits-kombucha-470486",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Z1SDW7wj--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/01/well_kombucha_aug28-0_0.jpg?itok=DCUaOHZJ",
+      "publishedAt": "2025-09-06T22:47:25Z",
+      "content": "Gabriela Fraiz, a doctoral student in Brazil, said she has noticed improvements in her gut health since she started drinking a little kombucha with her lunch. Shes less bloated and gassy, she said, a… [+5047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Is kombucha good for you? Experts say benefits are possible, but evidence is still limited",
+      "description": "The fermented tea is full of healthy compounds, but the research on its benefits is limited.",
+      "url": "https://www.channelnewsasia.com/wellness/health-benefits-kombucha-5320741",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--97NCBUoT--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/01/well_kombucha_aug28-0_0.jpg?itok=WEn5MvBM",
+      "publishedAt": "2025-09-06T22:47:25Z",
+      "content": "Gabriela Fraiz, a doctoral student in Brazil, said she has noticed improvements in her gut health since she started drinking a little kombucha with her lunch. Shes less bloated and gassy, she said, a… [+5047 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Rachel Clayton",
+      "title": "A banned pesticide is showing up in blueberries. No-one can find the source",
+      "description": "A scientist investigating why pesticides were appearing in marine life discovers a banned chemical on NSW berries. The underwhelming response from the government has exposed regulatory blind spots in the system meant to protect consumers.",
+      "url": "https://www.abc.net.au/news/2025-09-07/pesticide-review-thiometon-dimethoate-blueberries-raspberries/105701674",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5e54693d106179afe9a1d6ab16c6a064?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=178&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-06T19:05:51Z",
+      "content": "The blueberries looked perfect: plump, glossy and round, stacked in neat plastic punnets under supermarket lights.\r\nKirsten Benkendorff, a professor of marine science from Southern Cross University, … [+17385 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -645,7 +684,7 @@
       },
       "author": "Ava Grace",
       "title": "Landmark study reveals ULTRA-PROCESSED FOODS drive weight gain, harm male fertility in weeks",
-      "description": "A new controlled study challenges the ��calories in, calories out” model, proving that the ultra-processing of food – not just its calorie content – directly harms metabolic health and reproductive potential. Men consuming a calorie-matched ultra-processed die…",
+      "description": "A new controlled study challenges the “calories in, calories out” model, proving that the ultra-processing of food – not just its calorie content – directly harms metabolic health and reproductive potential. Men consuming a calorie-matched ultra-processed die…",
       "url": "https://www.naturalnews.com/2025-09-04-study-upfs-drive-weight-gain-harm-fertility.html",
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Overweight-Man-Eating-Chips.jpg",
       "publishedAt": "2025-09-04T06:00:00Z",
@@ -760,19 +799,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
-      "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
-      "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013441",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
       "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
       "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
@@ -780,6 +806,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
       "publishedAt": "2025-09-03T14:00:00Z",
       "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
+      "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
+      "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013441",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
+      "publishedAt": "2025-09-03T14:00:00Z",
+      "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
     },
     {
       "source": {
@@ -1170,45 +1209,6 @@
       "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/food-poisoning-vs-stomach-virus-fb.jpg",
       "publishedAt": "2025-09-02T00:00:00Z",
       "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The BMJ"
-      },
-      "author": "Mark A Bellis, Lisa Jones, Jennifer Tucker, Robert Muggah, Karen Hughes, Kat Ford, Emily Smith, Gene Feder",
-      "title": "Weapons, wealth, and health: the arms industry as a commercial determinant of health",
-      "description": "As governments worldwide increase defence spending and arms company revenues climb, we urgently need to examine how the arms industry (and not just its products) influences health, argue Mark Bellis and colleagues \n\nGovernments often justify investment in wea…",
-      "url": "https://www.bmj.com/content/390/bmj-2025-086166",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/390/8470.cover-source.jpg",
-      "publishedAt": "2025-09-01T23:05:45Z",
-      "content": "<ol><li>Mark A Bellis, professor of public health and behaviour sciences1, </li><li>Lisa Jones, reader in public health1, </li><li>Jennifer Tucker, founding director2, </li><li>Robert Muggah, co-foun… [+22509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Japan Today"
-      },
-      "author": null,
-      "title": "Taliban asks world for help after Afghanistan earthquake kills 800, injures 2,800",
-      "description": "One of Afghanistan's worst earthquakes killed more than 800 people and injured at least 2,800, authorities said on Monday, as rescuers struggled to reach remote areas due to rough mountainous terrain and inclement weather. The disaster will further stretch th…",
-      "url": "https://japantoday.com/category/world/afghanistan-earthquake-kills-800-injures-2-800-taliban-asks-world-for-help1",
-      "urlToImage": null,
-      "publishedAt": "2025-09-01T21:22:05Z",
-      "content": "One of Afghanistan's worst earthquakes killed more than 800 people and injured at least 2,800, authorities said on Monday, as rescuers struggled to reach remote areas due to rough mountainous terrain… [+4859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "author": "Mohammad Yunus Yawar and Charlotte Greenfield",
-      "title": "Afghanistan earthquake kills 800, injures 2,800 as Taliban asks world for help",
-      "description": "One of Afghanistan's worst earthquakes killed more than 800 people and injured at least 2,800, authorities said on Monday, as rescuers struggled to reach remote areas due to rough mountainous terrain and inclement weather.",
-      "url": "https://www.independent.ie/world-news/middle-east/afghanistan-earthquake-kills-800-injures-2800-as-taliban-asks-world-for-help/a2141878298.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/Fn8A9mj94Cdjoz3XezXadCuQMR8=/0x0:3238x2158/629x0/prod-mh-ireland/456ce883-f3e2-4d80-8209-2e3011b83702/ac24481c-21d3-4d1b-a9dd-0e7cfb3b3f91/456ce883-f3e2-4d80-8209-2e3011b83702.jpg",
-      "publishedAt": "2025-09-01T20:28:11Z",
-      "content": "Rescuers comb rubble of homes in remote mountainous area\r\nImpassable roads, rough terrain\r\nHelicopters ferry the injured to hospital\r\nMidnight quake hit at a depth of 10 km\r\nTaliban-ruled Afghanistan… [+5565 chars]"
     }
   ],
   "totalResults": 93,
