@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-09-08T18:33:40.662Z",
+  "lastUpdated": "2025-09-09T01:51:11.938Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Weekly Health Quiz: Teeth Grinding, Cortisol Reset, Gut Bacteria, and Safe Strength Training",
+      "description": "1 Which daily practice can help relax your jaw and reduce nighttime teeth grinding?\r\n\n<ul>\n<li>Drinking green tea in the evening</li>\n<li>Skipping sleep so you grind less at night</li>\n<li>Clenching your jaw during the day to strengthen it</li>\n<li>Using hot …",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/08/weekly-health-quiz-39.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/weekly-health-quiz-fb.jpg",
+      "publishedAt": "2025-09-08T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Microplastics Found to Trigger Cancer-Linked Changes in Lung Cells",
+      "description": "Microplastics are no longer just a problem in the ocean — they’re showing up deep in your lungs, changing how your cells function, and raising red flags about cancer risk.\n\nA new study published in the Journal of Hazardous Materials revealed that when healthy…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/08/microplastics-lung-cancer-risk.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/microplastics-lung-cancer-risk-fb.jpg",
+      "publishedAt": "2025-09-08T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Jacqueline Lynch",
+      "title": "Councils call for state to help save WA food waste bins",
+      "description": "As more Perth councils bring in a third bin for food waste, some of the early adopters of the so-called FOGO system are just months away from potentially scrapping the system.",
+      "url": "https://www.abc.net.au/news/2025-09-08/fogo-bin-system-failing-in-south-west-wa-amid-wider-perth-push/105737394",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/089a4dae96781d27cabb233d327c25fa?impolicy=wcms_watermark_news&cropH=1035&cropW=1841&xPos=0&yPos=361&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-07T23:00:29Z",
+      "content": "As more Perth councils bring in a third bin for food waste, some of WA's earliest adopters of the so-called FOGO system are just months away from potentially scrapping the scheme.\r\nA third bin for fo… [+4998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Rick Kazmer",
+      "title": "Researchers discover incredible new method to pull toxic chemicals out of our food: 'A lot of people now are aware'",
+      "description": "\"It’s the million-dollar question.\"",
+      "url": "https://www.yahoo.com/news/articles/researchers-discover-incredible-method-pull-210000127.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eHgqK4GmWZnwPusjmNHaeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/c23a1f33f5db2c38aeff424ebc85f0db",
+      "publishedAt": "2025-09-07T21:00:00Z",
+      "content": "Vegetables' health benefits may extend beyond their nutritious value, thanks to researchers studying their ability to detect and possibly remove harmful forever chemicals from soil.\r\nThe chemicals, o… [+3681 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -838,19 +890,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
-      "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
-      "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013441",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
       "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
       "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
@@ -858,6 +897,19 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
       "publishedAt": "2025-09-03T14:00:00Z",
       "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
+      "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
+      "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013441",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
+      "publishedAt": "2025-09-03T14:00:00Z",
+      "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
     },
     {
       "source": {
@@ -1170,58 +1222,6 @@
       "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
       "publishedAt": "2025-09-02T13:20:06Z",
       "content": "Delivery Method:\r\nVIA EMAIL WITH READ RECEIPT\r\nReference #:\r\n320-25-103\r\nProduct:\r\nDrugs \r\nRecipient:\r\nWisconsin Pharmacal Company, LLC \r\n1 Pharmacal WayJackson, WI53037United States\r\nIssuing Office:… [+15766 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Weather Channel"
-      },
-      "author": "Associated Press",
-      "title": "Death Toll Rises To 900 In Afghanistan Earthquake As Search For Survivors Continues",
-      "description": "A 6.0 magnitude earthquake destroyed villages in eastern Afghanistan after striking late Sunday night in mountainous regions. Here's the latest.",
-      "url": "https://weather.com/news/news/2025-09-01-deadly-earthquake-strikes-east-afghanistan",
-      "urlToImage": "https://media.zenfs.com/en/the_weather_channel_articles_180/bc41d1d7280893b24ae533e5485031ad",
-      "publishedAt": "2025-09-02T09:38:40Z",
-      "content": "Rescue teams continued to scour Afghanistan's mountainous east for survivors on Tuesday as the death toll from a strong earthquake rose to 900 with 3,000 people injured, an official said.\r\nThe injure… [+4476 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Energyskeptic.com"
-      },
-      "author": "energyskeptic",
-      "title": "Palm Oil biofuels destroy rain forests",
-      "description": "Preface. This is a book review of “Planet Palm: How Palm Oil Ended Up in Everything-and Endangered the World.” In my book “Life After Fossil Fuels” and energyskeptic.com post “Peak Soil” I record the many ways energy crops are destructive … Continue reading →",
-      "url": "https://energyskeptic.com/2025/palm-oil-destroyer-of-health-and-rain-forests-for-food-and-biofuels/",
-      "urlToImage": null,
-      "publishedAt": "2025-09-02T08:34:28Z",
-      "content": "Preface. This is a book review of Planet Palm: How Palm Oil Ended Up in Everything-and Endangered the World.\r\nIn my book Life After Fossil Fuels and energyskeptic.com post Peak Soil I record the many… [+65841 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Goat cheese: A nutritional powerhouse with timeless appeal",
-      "description": "Goat cheese is rich in calcium, protein, vitamins and minerals like iron and potassium. It’s easier to digest than cow’s milk cheese due to its lower lactose content and smaller fat molecules. Goat cheese has roots in ancient Mediterranean cultures dating bac…",
-      "url": "https://www.naturalnews.com/2025-09-02-goat-cheese-nutritional-powerhouse-with-timeless-appeal.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Goat-cheese-head-1.jpg",
-      "publishedAt": "2025-09-02T06:00:00Z",
-      "content": "<ul><li>Goat cheese is rich in calcium, protein, vitamins and minerals like iron and potassium. It's easier to digest than cow's milk cheese due to its lower lactose content and smaller fat molecules… [+7153 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ava Grace",
-      "title": "CDC quietly scales back surveillance initiative for food safety",
-      "description": "The CDC reduced its FoodNet monitoring program, now tracking only Salmonella and shigatoxigenic E. coli, abandoning detection of six other dangerous pathogens (Campylobacter, Cyclospora, Listeria, Shigella, Vibrio, Yersinia). Critics warn this will blindside …",
-      "url": "https://www.naturalnews.com/2025-09-02-cdc-scales-back-surveillance-initiative-food-safety.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Cdc-Sign-Center-For-Disease-Control.jpg",
-      "publishedAt": "2025-09-02T06:00:00Z",
-      "content": "<ul><li>The CDC reduced its FoodNet monitoring program, now tracking only Salmonella and shigatoxigenic E. coli, abandoning detection of six other dangerous pathogens (Campylobacter, Cyclospora, List… [+6842 chars]"
     }
   ],
   "totalResults": 94,
