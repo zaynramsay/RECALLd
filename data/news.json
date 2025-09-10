@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2025-09-10T12:48:06.144Z",
+  "lastUpdated": "2025-09-10T18:33:01.728Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "Jon Stojan",
+      "title": "10 AI tools every entrepreneur needs to know",
+      "description": "Snov.io has built its reputation as a powerful all-in-one sales automation platform, serving over 3 million users worldwide. Its newest feature, the AI Buyer Persona Generator, is designed to solve one of the biggest challenges facing entrepreneurs today: fin…",
+      "url": "https://www.digitaljournal.com/business/10-ai-tools-every-entrepreneur-needs-to-know/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/09/TechTO-1-21.png",
+      "publishedAt": "2025-09-09T18:19:17Z",
+      "content": "Photo by Growtika on Unsplash\r\nOpinions expressed by Digital Journal contributors are their own.\r\nSnov.io has built its reputation as a powerful all-in-one sales automation platform, serving over 3 m… [+12073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Institute of Science Tokyo",
+      "title": "Flow-powered pollution sensor detects toxic amines in water",
+      "description": "With pollution levels rising, the need to quickly check water quality has become more urgent than ever. Traditional monitoring systems often rely on expensive bulky equipment with operational difficulty, making them impractical in remote areas or in places wi…",
+      "url": "https://phys.org/news/2025-09-powered-pollution-sensor-toxic-amines.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/flow-powered-pollution.jpg",
+      "publishedAt": "2025-09-09T17:26:03Z",
+      "content": "With pollution levels rising, the need to quickly check water quality has become more urgent than ever. Traditional monitoring systems often rely on expensive bulky equipment with operational difficu… [+4888 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Riyan Ramanath V",
+      "title": "Bhubaneswar Municipal Corporation dumps 100kg stale food in a week, imposes Rs 15k fine",
+      "description": "The Bhubaneswar Municipal Corporation (BMC) has intensified its efforts to combat the sale of stale food, particularly during the monsoon season, to prevent diseases. BMC's food safety wing has discarded 100 kg of stale food, imposed fines of Rs 15,000 on est…",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/bhubaneswar-municipal-corporation-dumps-100kg-stale-food-in-a-week-imposes-rs-15k-fine/articleshow/123791491.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123791491,width-1070,height-580,imgsize-89498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-09T17:25:48Z",
+      "content": "The Ba***ds of Bollywood: Shah Rukh Khan, Salman, Aamir, Ranveer and more in cameo"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Saroash Shahid",
+      "title": "The hidden plastic problem in your daily dental routine, and what's being done about it",
+      "description": "You brush twice daily, floss religiously and see your dentist every six months. But what if these acts of oral hygiene are quietly contributing to one of the planet's most pressing environmental crises?",
+      "url": "https://phys.org/news/2025-09-hidden-plastic-problem-daily-dental.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/flossing.jpg",
+      "publishedAt": "2025-09-09T17:09:04Z",
+      "content": "You brush twice daily, floss religiously and see your dentist every six months. But what if these acts of oral hygiene are quietly contributing to one of the planet's most pressing environmental cris… [+5809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Hive"
+      },
+      "author": "Isabelle Docto",
+      "title": "Ottawa has found dozens of instances of imported groceries being mislabelled as Canadian",
+      "description": "The Canadian Food Inspection Agency (CFIA) found dozens of cases in which major grocers were mislabeling imported items as Canadian-made, amid tensions caused by U.S.-Canada tariffs.The CFIA said in an email that it saw an increase in complaints \"related to c…",
+      "url": "https://dailyhive.com/canada/canada-grocers-mislabelling-tariffs",
+      "urlToImage": "https://images.blogto.com/articles/20250909-made-in-canada.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
+      "publishedAt": "2025-09-09T14:56:58Z",
+      "content": "The Canadian Food Inspection Agency (CFIA) found dozens of cases in which major grocers were mislabeling imported items as Canadian-made, amid tensions caused by U.S.-Canada tariffs.\r\nThe CFIA said i… [+2302 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Daniel Orton",
+      "title": "Walmart Recall Update: Risk of Deadly Sepsis from Product Sold in 14 States",
+      "description": "Multiple Sam's Club stores across the country sold DermaRite skincare and hygiene products that are part of a nationwide recall.",
+      "url": "https://www.newsweek.com/walmart-recall-update-sepsis-risk-sams-club-dermarite-products-nationwide-2126929",
+      "urlToImage": "https://d.newsweek.com/en/full/2718806/walmart-store.jpg",
+      "publishedAt": "2025-09-09T14:48:39Z",
+      "content": "DermaRite Industries has expanded a voluntary nationwide recall of multiple products after potential contamination with Burkholderia cepacia complex, and Walmart says some of the recalled items were … [+6512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Lamrot Yohannes, Tsegaye Adane Birhan, Mastewal Endalew, Jember Azanaw, Fasika Weldegebrel",
+      "title": "Microbial quality assessment of Niger seed (Guizotia abyssinica (Linnaeus f.) Cassini) oil in Gondar city: A laboratory-based cross-sectional study",
+      "description": "Foodborne diseases pose a significant public health challenge worldwide. The increasing availability of edible oils in the market, combined with Ethiopia’s lack of stringent quality control and regulatory oversight, raises concerns about their safety. This in…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331546",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331546.g001&size=inline",
+      "publishedAt": "2025-09-09T14:00:00Z",
+      "content": "Enumerative value of microbes in the oil\r\nIn the current study, the highest enumeration value on MSA was 9.7×104 cfu/ml, while the highest fecal and total coliform counts were 4 cfu/ml and 1,350 cfu/… [+11909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Jonathan Rigby, Catherine N. Wilson, Allan Zuza, Yohane Diness, Charity Mkwanda, Katalina Tonthola, Oscar Kanjerwa, Chifundo Salifu, Oliver Pearse, Chisomo Msefula, Blanca M. Perez-Sepulveda, Jay C.D. Hinton, Satheesh Nair, Nicola Elviss, Mathew A. Beale, Patrick Musicha, Nicholas A. Feasey",
+      "title": "Diversity of Salmonella enterica isolates from urban river and sewage water in Blantyre, Malawi",
+      "description": "Author summary Salmonella enterica is a diverse, complex species, with serovars associated with human, animal and environmental health, including invasive disease. This study sequenced isolates of non-typhoidal Salmonella (NTS) that had been cultured from riv…",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012413",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012413.g003&size=inline",
+      "publishedAt": "2025-09-09T14:00:00Z",
+      "content": "Abstract\r\nBackground\r\nSalmonella enterica encompasses over 2,600 serovars, including several commonly associated with severe infection in humans. Salmonella is a major cause of sepsis in Africa; howe… [+56124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "blogTO"
+      },
+      "author": "Becky Robertson",
+      "title": "Toronto high-end grocery store shut down over health code issues",
+      "description": "Farm Boy, the upscale grocery chain that has grown into a local success story, has just had one of its bustling downtown Toronto locations shuttered by health officials.Known to many as the Canadian version of Trader Joe's, the Cornwall-founded brand has doze…",
+      "url": "https://www.blogto.com/eat_drink/2025/09/farm-boy-shut-down-health-code-issues/",
+      "urlToImage": "https://images.blogto.com/articles/20250909-farm-boy-yonge-and-eglinton.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
+      "publishedAt": "2025-09-09T13:44:17Z",
+      "content": "Farm Boy, the upscale grocery chain that has grown into a local success story, has just had one of its bustling downtown Toronto locations shuttered by health officials.\r\nKnown to many as the Canadia… [+2016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FDA.gov"
+      },
+      "author": "FDA",
+      "title": "Hikal Limited - 709370 - 08/20/2025",
+      "description": "CGMP/Active Pharmaceutical Ingredient (API)/Adulterated",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/hikal-limited-709370-08202025",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-09-09T13:20:08Z",
+      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-102\r\nProduct:\r\nDrugs \r\nRecipient:\r\nHead Corporate Quality and Regulatory Affairs \r\nHikal Limited\r\n72 - 82 / A Kiadb Industrial AreaJigani560105Karnat… [+14513 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1118,125 +1248,8 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Overweight-Man-Eating-Chips.jpg",
       "publishedAt": "2025-09-04T06:00:00Z",
       "content": "<ul><li>A new controlled study challenges the \"calories in, calories out\" model, proving that the ultra-processing of food not just its calorie content directly harms metabolic health and reproductiv… [+5586 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "The Associated Press",
-      "title": "Cat in San Francisco euthanized after latest bird flu infection tied to raw pet food",
-      "description": "Federal health officials are warning that certain lots of raw cat food may be contaminated with H5N1 bird flu after a pet cat in San Francisco that ate the food became infected with the virus and had to be euthanized. The U.S. Food and Drug Administration sai…",
-      "url": "https://financialpost.com/pmn/cat-in-san-francisco-euthanized-after-latest-bird-flu-infection-tied-to-raw-pet-food",
-      "urlToImage": null,
-      "publishedAt": "2025-09-04T00:53:44Z",
-      "content": "Federal health officials are warning that certain lots of raw cat food may be contaminated with H5N1 bird flu after a pet cat in San Francisco that ate the food became infected with the virus and had… [+4534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Texas Tribune",
-      "title": "Texas sued over its lab-grown meat ban",
-      "description": "Two cultivated meat companies have filed a lawsuit against officials in Texas over the law that bans the sales of lab-grown meat in the state for two years. California-based companies UPSIDE Foods, which makes cultivated chicken, and Wildtype, which makes cul…",
-      "url": "https://freerepublic.com/focus/f-bloggers/4338457/posts",
-      "urlToImage": null,
-      "publishedAt": "2025-09-03T20:32:06Z",
-      "content": "Skip to comments.\r\nTexas sued over its lab-grown meat banTexas Tribune ^\r\n | 09/03/2025\r\n | Jessica Shuran Yu\r\nPosted on 09/03/2025 1:32:06 PM PDT by DFG\r\nTwo cultivated meat companies have filed a l… [+6401 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Reactormag.com"
-      },
-      "author": "Leah Schnelbach",
-      "title": "Alien: Earth Works it out in the Remix: “In Space, No One…”",
-      "description": "In which human greed (and stupidity) has predictably disastrous results...\nThe post Alien: Earth Works it out in the Remix: “In Space, No One…” appeared first on Reactor.",
-      "url": "https://reactormag.com/tv-review-alien-earth-season-1-episode-5-in-space-no-one/",
-      "urlToImage": "https://reactormag.com/wp-content/uploads/2025/09/Alien-Earth-Ep-5-5.jpg",
-      "publishedAt": "2025-09-03T17:30:00Z",
-      "content": "And were back with another chest-bursting episode of Alien: Earth! Episode Five is titled In Space, No One… and was written and directed by Noah Hawley, and its, well… \r\nWe spend the whole episode tr… [+13064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Sarah Njeri, Lecturer in Humanitarian and Development Studies, SOAS, University of London, Christina Greene, Research Scientist in the Arizona Institute for Resilience, University of Arizona",
-      "title": "How unexploded bombs cause environmental damage – and why climate change exacerbates the problem",
-      "description": "One of the main ways conflict leads to environmental harm is by leaving behind unexploded weapons and ammunition.",
-      "url": "https://theconversation.com/how-unexploded-bombs-cause-environmental-damage-and-why-climate-change-exacerbates-the-problem-242535",
-      "urlToImage": "https://images.theconversation.com/files/651799/original/file-20250226-43-vcjnyw.jpg?ixlib=rb-4.1.0&rect=0%2C1270%2C5126%2C2563&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-09-03T16:26:55Z",
-      "content": "Daria Yehorova / Shutterstock\r\nThere are a record number of conflicts raging around the world – from Ukraine and Gaza to Sudan and Myanmar. Alongside their devastating human toll, these conflicts are… [+6458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Endico Potatoes Inc. Recalls 2.5lb Bags of Frozen “Peas And Carrots” and “Mixed Vegetables” Because of Possible Health Risk",
-      "description": "ENDICO POTATOES of MOUNT VERNON NY is recalling Endico brand PEAS AND CARROTS AND MIXED VEGETABLES, because they have the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young chi…",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/endico-potatoes-inc-recalls-25lb-bags-frozen-peas-and-carrots-and-mixed-vegetables-because-possible",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-09-03T15:26:00Z",
-      "content": "Summary\r\nCompany Announcement Date:\r\nSeptember 03, 2025\r\nFDA Publish Date:\r\nSeptember 04, 2025\r\nProduct Type:\r\nFood &amp; Beverages \r\nFoodborne Illness\r\nReason for Announcement:\r\nRecall Reason Descri… [+1938 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "author": null,
-      "title": "Retort Packaging Market to Hit US$ 6.8 Billion by 2032 | Sustainability and Convenience Fuel Growth | According to DataM Intelligence",
-      "description": "AUSTIN, Texas and TOKYO, Sept. 3, 2025 /PRNewswire/ -- According to DataM Intelligence Report, \"The Retort Packaging Market Size was valued at US$ 4.3 billion in 2024 and is projected to reach US$ 6.8 billion by 2032, expanding at a CAGR of 5.8% by 2024–2031\"…",
-      "url": "https://www.prnewswire.co.uk/news-releases/retort-packaging-market-to-hit-us-6-8-billion-by-2032--sustainability-and-convenience-fuel-growth--according-to-datam-intelligence-302545358.html",
-      "urlToImage": "https://mma.prnewswire.com/media/1858619/5489540/DataM_Intelligence_Logo.jpg?p=facebook",
-      "publishedAt": "2025-09-03T14:46:00Z",
-      "content": "AUSTIN, Texas and TOKYO, Sept. 3, 2025 /PRNewswire/ -- According to DataM Intelligence Report, \"The Retort Packaging Market Size was valued at US$ 4.3 billion in 2024 and is projected to reach US$ 6.… [+9242 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Andrés Gómez-Palacio, Howard Junca, Rafael J. Vivero-Gomez, Juan Suaza, Claudia X. Moreno-Herrera, Gloria Cadavid-Restrepo, Dietmar H. Pieper, Sandra Uribe",
-      "title": "Metagenomic profiling of the insect-specific virome in non-urban mosquitoes (Culicidae: Culicinae) from Colombia’s Northern inter-Andean valleys",
-      "description": "Hematophagous mosquitoes are major vectors of diverse pathogens and serve as bioindicators in tropical ecosystems, yet their virome in non-urban Neotropical regions remains poorly characterized. We analyzed the virome of 147 mosquitoes from two natural ecosys…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331552",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331552.g003&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Abstract\r\nHematophagous mosquitoes are major vectors of diverse pathogens and serve as bioindicators in tropical ecosystems, yet their virome in non-urban Neotropical regions remains poorly character… [+42651 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lutz Wiehlmann, Thorsten Adams, Claus Urbanke, Sonja Horatzek, Doris Jordan, Ilona Rosenboom, Leo Eberl, Burkhard Tümmler",
-      "title": "Versatile roles of rubredoxin reductase of Pseudomonas aeruginosa TBCF10839 in virulence and stress protection",
-      "description": "Authors summary Rubredoxin and rubredoxin reductase are phylogenetically ancient iron sulfur proteins that protect anaerobic bacteria from the deleterious effect of oxygen. Moreover, many bacteria engage this electron transfer and redox system for the degrada…",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013465",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013465.g007&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Abstract\r\nMany microorganisms can degrade alkanes, using them as carbon source. The first and key step in alkane utilization is its hydroxylation, which requires a catalytic membrane-bound monooxygen… [+66548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
-      "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
-      "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331389",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
     }
   ],
-  "totalResults": 95,
+  "totalResults": 96,
   "filteredCount": 0
 }
