@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-09T18:30:09.776Z",
+  "lastUpdated": "2025-09-10T01:47:39.171Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Calvin Coffee",
+      "title": "Researchers make unsettling discovery after analyzing items for sale at public markets: 'It is surprising'",
+      "description": "They are calling for expanded protections.",
+      "url": "https://www.yahoo.com/news/articles/researchers-unsettling-discovery-analyzing-items-224500429.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BjfLUtpngBRWLsq6__aoXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/384f0663e9a2f74eee0077ed54777ee2",
+      "publishedAt": "2025-09-08T22:45:00Z",
+      "content": "A new study using DNA barcoding has revealed that fish maw markets in Singapore and Malaysia sell species listed as vulnerable, endangered, or even critically endangered.\r\nThe finding raised red flag… [+2782 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Cheese Recall Map Shows New Warning to Customers",
+      "description": "Specific cheese products are being recalled due to concerns that they may be contaminated with Listeria monocytogenes.",
+      "url": "https://www.newsweek.com/cheese-recall-map-listeria-warning-2126611",
+      "urlToImage": "https://d.newsweek.com/en/full/2718366/cheese.jpg",
+      "publishedAt": "2025-09-08T20:17:53Z",
+      "content": "Middlefield Original Cheese Co-op is recalling specific cheese products due to concerns that they may be contaminated with Listeria monocytogenes.\r\nThe company declined to comment when contacted by N… [+3584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "CrazyBulk",
+      "title": "Tren Cycle for Bodybuilding: CrazyBulk Introduce Test and Tren Stack for Muscle Growth, Dosage, Benefits & Results",
+      "description": "New York City, NY, Sept. 08, 2025 (GLOBE NEWSWIRE) -- Introduction: The Ultimate Tren Cycle and Why the Tren and Test Conversation Dominates Modern Bodybuilding",
+      "url": "https://www.globenewswire.com/news-release/2025/09/08/3146404/0/en/Tren-Cycle-for-Bodybuilding-CrazyBulk-Introduce-Test-and-Tren-Stack-for-Muscle-Growth-Dosage-Benefits-Results.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/48990036-2537-4124-97f5-5cdbf00aa0f9",
+      "publishedAt": "2025-09-08T19:23:00Z",
+      "content": "New York City, NY, Sept. 08, 2025 (GLOBE NEWSWIRE) -- \r\nIntroduction: The Ultimate Tren Cycle and Why the Tren and Test Conversation Dominates Modern Bodybuilding\r\nTren and Test dominate the narrativ… [+18339 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1013,7 +1052,7 @@
       "url": "https://reactormag.com/tv-review-alien-earth-season-1-episode-5-in-space-no-one/",
       "urlToImage": "https://reactormag.com/wp-content/uploads/2025/09/Alien-Earth-Ep-5-5.jpg",
       "publishedAt": "2025-09-03T17:30:00Z",
-      "content": "And were back with another chest-bursting episode of Alien: Earth! Episode Five is titled In Space, No One… and was written and directed by Noah Hawley, and its, well… \r\nWe spend the whole episode tr… [+13064 chars]"
+      "content": "And were back with another chest-bursting episode of Alien: Earth! Episode Five is titled In Space, No One��� and was written and directed by Noah Hawley, and its, well… \r\nWe spend the whole episode tr… [+13064 chars]"
     },
     {
       "source": {
@@ -1085,19 +1124,6 @@
         "id": null,
         "name": "Plos.org"
       },
-      "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
-      "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
-      "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331389",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
-      "publishedAt": "2025-09-03T14:00:00Z",
-      "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
       "author": "Yanlong Ma, Fei Feng, Hui Feng, Xue Ma, Ziqiao Wang, Yutong Han, Yunkai Zhu, Yuyan Wang, Zhichao Gao, Yuyuan Zhang, Qiang Ding, Jincun Zhao, Rong Zhang",
       "title": "Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E",
       "description": "Author summary Coronaviruses exploit host cells to replicate, but how our cells naturally block infection remains unclear. We discovered that GPI biosynthesis, a pathway that attaches proteins to cell membranes, serves as a critical defense system against mul…",
@@ -1105,6 +1131,19 @@
       "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013441.g007&size=inline",
       "publishedAt": "2025-09-03T14:00:00Z",
       "content": "Citation: Ma Y, Feng F, Feng H, Ma X, Wang Z, Han Y, et al. (2025) Glycosylphosphatidylinositol biosynthesis functions as a conserved host defense pathway against coronaviruses via regulation of LY6E… [+63756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Briton M. Kavulavu, Eric O. Omwenga, Oscar Asanya Nyangiri, Andrew K. Nyerere, Rael J. Too, Elizabeth J. Matey, Siri Göpel, Wycliffe Mogoa, Thorben Schilling, Ludwig E. Hoelzle, Beryl Primrose Gladstone",
+      "title": "One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, Kenya",
+      "description": "Background Antimicrobial resistance (AMR) is a major public health challenge, particularly in Sub-Saharan Africa, where diagnostic and surveillance capacities are limited. Enterobacterales significantly contribute to AMR, with environmental reservoirs facilit…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331389",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331389.g006&size=inline",
+      "publishedAt": "2025-09-03T14:00:00Z",
+      "content": "Citation: Kavulavu BM, Omwenga EO, Nyangiri OA, Nyerere AK, Too RJ, Matey EJ, et al. (2025) One health approach unravels worrying antimicrobial resistance patterns: A cross-sectional study in Kisii, … [+36055 chars]"
     },
     {
       "source": {
@@ -1183,45 +1222,6 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/mixed-plastic-waste-recycling-bin.webp",
       "publishedAt": "2025-09-03T07:02:57Z",
       "content": "The future of plastic recycling may soon get much less complicated, frustrating and tedious.In a new study, Northwestern University chemists have introduced a new plastic upcycling process that can d… [+8091 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Laura Harris",
-      "title": "Flaxseed: The nutrient-packed ancient seed that can boost modern meals",
-      "description": "Flaxseed, cultivated for over 5,000 years, was valued in ancient Egypt, India and Babylon for its nutritional value and utility in linen production. Today, the flax plant is grown worldwide, especially in Canada, Russia and Kazakhstan. Flaxseed is rich in ome…",
-      "url": "https://www.naturalnews.com/2025-09-03-flaxseed-nutrient-packed-ancient-seed-modern-meals.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Flaxseed.jpg",
-      "publishedAt": "2025-09-03T06:00:00Z",
-      "content": "<ul><li>Flaxseed, cultivated for over 5,000 years, was valued in ancient Egypt, India and Babylon for its nutritional value and utility in linen production. Today, the flax plant is grown worldwide, … [+6909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Unlocking longevity and health with enzymes: Dr. Edward Howell’s “Enzyme Nutrition”",
-      "description": "Dr. Edward Howell’s “Enzyme Nutrition: The Food Enzyme Concept” reveals that lifespan is inversely related to enzyme depletion. Conserving enzyme potential – through raw foods or supplementation – supports longevity and metabolic health.  Cooking destroys enz…",
-      "url": "https://www.naturalnews.com/2025-09-03-enzyme-nutrition-food-enzyme-concept-edward-howell.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Carrot-Cucumber-Salad-Raw-Food-Vegan.jpg",
-      "publishedAt": "2025-09-03T06:00:00Z",
-      "content": "<ul><li>Dr. Edward Howell's \"Enzyme Nutrition: The Food Enzyme Concept\" reveals that lifespan is inversely related to enzyme depletion. Conserving enzyme potential through raw foods or supplementatio… [+5155 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Not just danger of overdose. CMC Vellore doctor gives 3 reasons why you should not split your tablet for lower doses",
-      "description": "Splitting pills without a score line poses significant health risks, warns Dr. Sudhir Kumar, a senior neurologist at Apollo Hospitals. Breaking film-coated, extended-release, or orally disintegrating tablets can cause overdoses, ineffectiveness, and adverse e…",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-danger-of-overdose-cmc-vellore-doctor-gives-3-reasons-why-you-should-not-split-your-tablet-for-lower-doses/articleshow/123668046.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123668533,width-1200,height-630,imgsize-30844,overlay-etpanache/articleshow.jpg",
-      "publishedAt": "2025-09-03T03:33:44Z",
-      "content": "Many people, at some point, have broken a pill into two partseither because it appeared too large to swallow, because they wanted to minimize potential side effects, or because they were adjusting th… [+3750 chars]"
     }
   ],
   "totalResults": 94,
