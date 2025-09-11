@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-09-10T18:33:01.728Z",
+  "lastUpdated": "2025-09-11T01:50:36.135Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Mercola.com"
+      },
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Scientists Identify Key Factors Behind E. Coli Outbreaks in Romaine Lettuce",
+      "description": "Most strains of Escherichia coli live quietly in the human gut and pose no threat to health, but a handful are capable of causing life-threatening illness. Among them, E. coli O157:H7 is the most notorious, known for triggering severe gastrointestinal distres…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/10/romaine-lettuce-e-coli-outbreaks.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/romaine-lettuce-e-coli-outbreaks-fb.jpg",
+      "publishedAt": "2025-09-10T00:00:00Z",
+      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Newswire Editor",
+      "title": "MAHA Report Capitulates to Big Ag, PFAS Polluters",
+      "description": "This afternoon the White House’s “Make America Healthy Again” (MAHA) Commission released its strategy report outlining the Trump administration’s priorities for policies to overhaul the food system and address chronic disease.In keeping with White House promi…",
+      "url": "https://www.commondreams.org/newswire/maha-report-capitulates-to-big-ag-pfas-polluters",
+      "urlToImage": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjEwMDM4OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgxMjIyMDI1N30.ErOfRE5hvYF7nWXKN4iUp2dOTKR2-o5weET2FxMgj9A/image.png?width=210",
+      "publishedAt": "2025-09-09T19:01:03Z",
+      "content": "Amazon claims these workers are not employees, but \"contractors,\" and that firing them does not constitute illegal union busting.\r\nThe union, however, described this as \"a phony shell game,\" saying t… [+4076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Drew Weisholtz",
+      "title": "Cheese Recalled in Multiple States Due to Listeria Concerns",
+      "description": "The FDA has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese due to potential listeria contamination.",
+      "url": "https://www.today.com/health/recall/cheese-recalled-listeria-middlefield-rcna230142",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
+      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
+      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
+      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Takeout"
+      },
+      "author": "Holly Riddle",
+      "title": "14 Ham Recalls That Affected Millions",
+      "description": "Ham is one of our favorite products to stock up on, but everything from foodborne pathogens to skipped safety measures have landed it in some major recalls.",
+      "url": "https://www.thetakeout.com/1959412/ham-recalls-affected-millions/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IM83lVvlUoWrpLVQ5F6Xlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM7Y2Y9d2VicA--/https://media.zenfs.com/en/the_takeout_667/af56875541b2219f848ff70305d8032f",
+      "publishedAt": "2025-09-09T18:40:00Z",
+      "content": "A lot of ham comes ready to eat. Think jamón ibérico or prosciutto, which you can snack on as soon as you open the packaging, no need to break out a skillet. Even your holiday ham, which you probably… [+16967 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,60 +1261,8 @@
       "urlToImage": "https://images.theconversation.com/files/688018/original/file-20250828-238151-w7u901.jpg?ixlib=rb-4.1.0&rect=0%2C5%2C3600%2C1800&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2025-09-04T12:52:39Z",
       "content": "Since the 1940s, companies have been using PFAS – perfluoroalkyl and polyfluoroalkyl substances – to make products easier to use, from Teflon nonstick pots to waterproof rain gear, stain-resistant ca… [+8117 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Scientific American"
-      },
-      "author": "Stephanie Pappas",
-      "title": "Bacteria in Spacecraft Clean Rooms Can Go Dormant, Evading Death",
-      "description": "A type of bacteria found in clean rooms has an unexpected method of survival, with implications for planetary protection",
-      "url": "https://www.scientificamerican.com/article/bacteria-in-spacecraft-clean-rooms-can-go-dormant-evading-death/",
-      "urlToImage": "https://static.scientificamerican.com/dam/m/1fa70896172f3115/original/curiosity_rover_in_nasa_clean-room.jpg?m=1756908833.712&w=1200",
-      "publishedAt": "2025-09-04T10:30:00Z",
-      "content": "A bacterial species found in spacecraft clean rooms can survives intensive antimicrobial cleaning in spacecraft clean rooms by going dormant, new research finds. That’s important because other clean-… [+4298 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Trump's tariffs force China to feel the heat",
-      "description": "President Trump's trade enforcement with China ends decades of economic exploitation as tariffs protect American workers and revitalize domestic industries.",
-      "url": "https://www.foxnews.com/opinion/trumps-tariffs-force-china-feel-heat",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1139413807.jpg",
-      "publishedAt": "2025-09-04T09:00:26Z",
-      "content": "President Donald Trumps America First trade agenda is working, and China is feeling the heat.  \r\nWhile the legacy media has spent months lying about slow growth, Trumps tariff agenda is already resha… [+4981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Observer"
-      },
-      "author": "Agatha Khishchenko, Andy Lehren, Robert Cribb, Molly MacNaughton",
-      "title": "Sewage taints Canadian oysters — then Americans eat them",
-      "description": "Canada is a major oyster supplier to the US, but regulatory inaction and oversights are harming both diners and oyster farmers.",
-      "url": "https://www.nationalobserver.com/2025/09/04/news/bc-oyster-recalls-polluted-water",
-      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/09/03/pic-31-2048x1366.jpg",
-      "publishedAt": "2025-09-04T08:55:03Z",
-      "content": "This story was originally published by Inside Climate News and appears here as part of the Climate Desk collaboration\r\nMark Kapczynski had been looking forward to it for weeks. \r\nHe had VIP tickets f… [+28371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ava Grace",
-      "title": "Landmark study reveals ULTRA-PROCESSED FOODS drive weight gain, harm male fertility in weeks",
-      "description": "A new controlled study challenges the “calories in, calories out” model, proving that the ultra-processing of food – not just its calorie content – directly harms metabolic health and reproductive potential. Men consuming a calorie-matched ultra-processed die…",
-      "url": "https://www.naturalnews.com/2025-09-04-study-upfs-drive-weight-gain-harm-fertility.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Overweight-Man-Eating-Chips.jpg",
-      "publishedAt": "2025-09-04T06:00:00Z",
-      "content": "<ul><li>A new controlled study challenges the \"calories in, calories out\" model, proving that the ultra-processing of food not just its calorie content directly harms metabolic health and reproductiv… [+5586 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 97,
   "filteredCount": 0
 }
