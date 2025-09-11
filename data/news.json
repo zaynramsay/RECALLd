@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-11T06:34:42.502Z",
+  "lastUpdated": "2025-09-11T12:47:13.833Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "Keith Kelly",
+      "title": "Rodent droppings lead to closure of section of McDonald’s in Louth after FSAI inspection",
+      "description": "A section of a McDonald’s restaurant in Co Louth has been issued with a closure order by the Food Safety Authority of Ireland (FSAI) following the discovery of rodent droppings on the premises.",
+      "url": "https://www.independent.ie/irish-news/rodent-droppings-lead-to-closure-of-section-of-mcdonalds-in-louth-after-fsai-inspection/a230131689.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/uYg1idAgDemvr6GZ_5Ou3sAG_10=/629x460/smart/prod-mh-ireland/fa5311e9-a4b7-4bd2-af5f-6082017dae4d/8b7dd822-89d6-4bbc-8737-dbcbbcdd2e99/DI%20MCDONALD%27S.jpg",
+      "publishedAt": "2025-09-10T12:25:59Z",
+      "content": "A section of a McDonalds restaurant in Co Louth has been issued with a closure order by the Food Safety Authority of Ireland (FSAI) following the discovery of rodent droppings on the premises.The bre… [+3054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Europe Fresh Food Packaging Market Worth USD 49.52 Bn by 2034",
+      "description": "As highlighted by Towards Packaging research, the global Europe fresh food packaging market, valued at USD 35.93 billion in 2025, is expected to reach USD 49.52 billion by 2034, registering a CAGR of 3.63% throughout the forecast period. As highlighted by Tow…",
+      "url": "https://www.globenewswire.com/news-release/2025/09/10/3147551/0/en/Europe-Fresh-Food-Packaging-Market-Worth-USD-49-52-Bn-by-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-09-10T09:00:00Z",
+      "content": "Ottawa, Sept. 10, 2025 (GLOBE NEWSWIRE) -- The global Europe fresh food packaging market size was recorded at USD 34.67 billion in 2024 and is forecast to increase to USD 49.52 billion in 2034, as pe… [+22876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Best Penny Stocks To Consider – September 8th",
+      "description": "Beyond Air, Microbot Medical, loanDepot, Sky Quarry, BigBear.ai, Richtech Robotics, and Direxion Daily NVDA Bear 1X Shares are the seven Penny stocks to watch today, according to MarketBeat’s stock screener tool. Penny stocks are low‐priced shares—typically t…",
+      "url": "https://www.etfdailynews.com/2025/09/10/best-penny-stocks-to-consider-september-8th/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/beyond-air-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-09-10T07:02:58Z",
+      "content": "Beyond Air, Microbot Medical, loanDepot, Sky Quarry, BigBear.ai, Richtech Robotics, and Direxion Daily NVDA Bear 1X Shares are the seven Penny stocks to watch today, according to MarketBeat’s stock s… [+3787 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -94,19 +133,6 @@
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
-      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
-      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
-      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "TODAY"
       },
@@ -117,6 +143,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
       "publishedAt": "2025-09-09T18:44:00Z",
       "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
+      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
+      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
+      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
     },
     {
       "source": {
@@ -578,19 +617,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "S.D. Wells",
-      "title": "Hop off the high-dose caffeine âenergyâ drinks and the Starbucks âstuffâ and try some super-healthy drinks with bioactive compounds to fuel longevity",
-      "description": "Water is essential for life—supporting everything from digestion and circulation to temperature control, muscle function, and cellular health. But plain water isn’t the only way to stay hydrated. In fact, several other beverages offer hydration plus additiona…",
-      "url": "https://www.naturalnews.com/2025-09-08-hop-off-caffeine-energy-drinks-try-healthy-drinks-with-bioactive-compounds.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Woman-Fit-Drink-Happy-Smoothie-Detox-White.jpg",
-      "publishedAt": "2025-09-08T06:00:00Z",
-      "content": "<li>Black CoffeeMore than just a morning ritual, black coffee contains over 1,000 bioactive compounds that can promote longevity, support heart health, and protect cognitive function. Large-scale stu… [+2963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Ascorbic acid (vitamin C): The powerful preservative and nutritional powerhouse",
       "description": "Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly cancer. It is widely used in the food industry as a natural preservati…",
@@ -598,6 +624,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/C-Vitamin-Food-Bowl-Cartoon-Cranberry-Diet.jpg",
       "publishedAt": "2025-09-08T06:00:00Z",
       "content": "<ul><li>Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly ca… [+7246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "Hop off the high-dose caffeine âenergyâ drinks and the Starbucks âstuffâ and try some super-healthy drinks with bioactive compounds to fuel longevity",
+      "description": "Water is essential for life—supporting everything from digestion and circulation to temperature control, muscle function, and cellular health. But plain water isn’t the only way to stay hydrated. In fact, several other beverages offer hydration plus additiona…",
+      "url": "https://www.naturalnews.com/2025-09-08-hop-off-caffeine-energy-drinks-try-healthy-drinks-with-bioactive-compounds.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Woman-Fit-Drink-Happy-Smoothie-Detox-White.jpg",
+      "publishedAt": "2025-09-08T06:00:00Z",
+      "content": "<li>Black CoffeeMore than just a morning ritual, black coffee contains over 1,000 bioactive compounds that can promote longevity, support heart health, and protect cognitive function. Large-scale stu… [+2963 chars]"
     },
     {
       "source": {
@@ -1222,45 +1261,6 @@
       "urlToImage": "https://d.newsweek.com/en/full/2716021/frozen-shrimp.jpg",
       "publishedAt": "2025-09-04T16:17:29Z",
       "content": "Louisiana Senator John Kennedy, a Republican, compared radioactive shrimp to the deadly extraterrestrial creatures from the Alien film franchise.\r\nHis remarks came during a Senate hearing on water co… [+3701 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Matt Novak",
-      "title": "Senator Says Radioactive Shrimp Will Turn You Into the Alien From ‘Alien’",
-      "description": "\"Even if it doesn't turn you into the alien if you eat this stuff, I guarantee you'll grow an extra ear.\"",
-      "url": "https://gizmodo.com/senator-says-radioactive-shrimp-will-turn-you-into-the-alien-from-alien-2000653223",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/john-kennedy-shrimp-sept-3-2025-1200x675.jpg",
-      "publishedAt": "2025-09-04T16:00:59Z",
-      "content": "U.S. health officials have issued several recalls of shrimp in recent weeks over concerns about radioactive material. And now a sitting U.S. Senator has taken the opportunity to warn people in the mo… [+4082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Paradepets.com"
-      },
-      "author": "Melissa Mitas",
-      "title": "Popular Dog and Cat Food Recalled As FDA Warns of Possible Salmonella & Listeria",
-      "description": "Check your pet food labels from this brand of dog and cat food.",
-      "url": "https://paradepets.com/pet-news/viva-raw-dog-cat-food-recalled",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TW8QT.3JRmf_j2yD0AFJwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/parade_pets_articles_328/4eabf9612032f7b02228457096c8bc16",
-      "publishedAt": "2025-09-04T15:10:00Z",
-      "content": "An important announcement for pet owners: Pet food brand Viva Raw issued a voluntary recall of several varieties of its raw dog and cat food products due to possible salmonella and listeria contamina… [+3273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "David Edwards",
-      "title": "'You're killing people!' RFK Jr. testimony immediately interrupted by protester",
-      "description": "Health and Human Services Secretary Robert F. Kennedy was interrupted by a protester who accused him of \"killing people.\"During a Senate Finance Committee hearing on Thursday, the protester spoke out just seconds after Kennedy began his opening remarks.\"In ju…",
-      "url": "https://www.rawstory.com/rfk-jr-protester-at-hearing/",
-      "urlToImage": "https://www.rawstory.com/media-library/rfk-jr.jpg?id=61555394&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "publishedAt": "2025-09-04T14:47:59Z",
-      "content": "Health and Human Services Secretary Robert F. Kennedy was interrupted by a protester who accused him of \"killing people.\"\r\nDuring a Senate Finance Committee hearing on Thursday, the protester spoke o… [+741 chars]"
     }
   ],
   "totalResults": 97,
