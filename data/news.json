@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2025-09-11T12:47:13.833Z",
+  "lastUpdated": "2025-09-11T18:28:57.888Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Special",
+      "title": "Reliance family announces ten-point flood relief plan for Punjab",
+      "description": "Reliance Foundation is helping Punjab flood victims. They are working with the government to aid over 10,000 families in affected areas like Amritsar. Anant Ambani expressed solidarity. The foundation provides food, water, shelter, and medical care. They are …",
+      "url": "https://economictimes.indiatimes.com/news/company/reliance-family-announces-ten-point-flood-relief-plan-for-punjab/articleshow/123812547.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123812864,width-1200,height-630,imgsize-146346,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-09-10T16:25:49Z",
+      "content": "As Punjab reels under the impact of its worst flood in decades, Reliance Foundation, has partnered with Reliance Retail, Jio and Vantara, to roll out a comprehensive ten-point humanitarian and relief… [+3239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Manuel Conde Cid, Investigador postdoctoral en el área de Edafología y Química Agrícola, Universidade de Vigo, Universidade de Vigo",
+      "title": "Our study analysed pesticide use and residues across Europe. Here’s what we found",
+      "description": "A recent study of nearly 200 European wheat farms found 73 different pesticides – including in organic fields.",
+      "url": "https://theconversation.com/our-study-analysed-pesticide-use-and-residues-across-europe-heres-what-we-found-264907",
+      "urlToImage": "https://images.theconversation.com/files/689854/original/file-20250902-66-c7iep9.jpeg?ixlib=rb-4.1.0&rect=0%2C0%2C5580%2C2790&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-09-10T15:50:47Z",
+      "content": "BG Media/Shutterstock\r\nIncreased demand for food due to population growth, together with a reduction in suitable arable land, has made pesticides essential for ensuring food security. They play a key… [+6629 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Conor Pope",
+      "title": "Partial closure order issued to a McDonald’s restaurant over storage unit issues",
+      "description": "Cockroaches and inadequate pest-proofing among reasons number of food outlets nationwide issued with closure orders",
+      "url": "https://www.irishtimes.com/ireland/2025/09/10/partial-closure-order-issued-to-a-mcdonalds-restaurant-over-storage-unit-issues/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/4IQOE5G7XZ6OEZ3MGM543LFKYE.jpg?smart=true&auth=d1904f4bbb2e80df00accced68932f90dd124db5763a494bd85c07fe65922308&width=1200&height=630",
+      "publishedAt": "2025-09-10T14:52:27Z",
+      "content": "A McDonalds in Drogheda was issued with a partial closure order after rodent droppings and other issues were detected in a storage unit at the side of the restaurant.\r\nA total of nine closure and pro… [+3631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Amna Rehman, Fatima Ismail, Ayesha Safdar, Muhammad Imran",
+      "title": "In vitro characterization of Trichophyton rubrum biofilm by combined anti-biofilm enzymes",
+      "description": "Trichophyton rubrum, a dermatophyte, demonstrates a notable ability to form mature biofilms on skin and associated surfaces, strengthening its resistance to antifungal agents. This characteristic poses intricate challenges in dermatological research and thera…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331291",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331291.g011&size=inline",
+      "publishedAt": "2025-09-10T14:00:00Z",
+      "content": "Abstract\r\nTrichophyton rubrum, a dermatophyte, demonstrates a notable ability to form mature biofilms on skin and associated surfaces, strengthening its resistance to antifungal agents. This characte… [+46566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Devinn M. Sinnott, Melissa Miller, David Arranz-Solís, Felipe Rodriguez, Jeroen P. J. Saeij, Francesca Batac, Katherine Greenwald, Colleen Young, Michael D. Harris, Mary Gomes, Karen Shapiro",
+      "title": "Fatal Toxoplasma gondii COUG strain infections in southern sea otters (Enhydra lutris nereis): New insight on contributing factors and parasite serotyping",
+      "description": "Fatal infections with the rare COUG strain of the zoonotic parasite Toxoplasma gondii were recently detected for the first time in four southern sea otters (Enhydra lutris nereis) exhibiting severe protozoal steatitis. The objectives of this study were to des…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332223",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332223.g004&size=inline",
+      "publishedAt": "2025-09-10T14:00:00Z",
+      "content": "Abstract\r\nFatal infections with the rare COUG strain of the zoonotic parasite Toxoplasma gondii were recently detected for the first time in four southern sea otters (Enhydra lutris nereis) exhibitin… [+52998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Anja B. Frank, Jens May, Serena Sabatini, Franz Schopper, Robert Frei, Flemming Kaul, Susanne Storch, Svend Hansen, Kristian Kristiansen, Karin M. Frei",
+      "title": "A Late Bronze Age foreign elite? Investigating mobility patterns at Seddin, Germany",
+      "description": "During the Late Bronze Age (ca. 11th-8th century BCE), far-reaching and extensive trade and exchange networks linked communities across Europe. The area around Seddin in north-western Brandenburg, Germany, has long been considered as at the core of one such n…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330390",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330390.g005&size=inline",
+      "publishedAt": "2025-09-10T14:00:00Z",
+      "content": "Constraining a local bioavailable Sr isotope baseline\r\nBioavailable Sr, sourced from mineral weathering of soils and rocks and from exogenous deposition, is directly taken up by humans through their … [+31044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Polypropylene Market Size to Worth USD 211.91 Billion by 2034",
+      "description": "According to Towards Chemical and Materials, the global Polypropylene market size was reached at USD 133.23 billion in 2024 and is expected to be worth around USD 211.91 billion by 2034, growing at a compound annual growth rate (CAGR) of 4.75 % over the forec…",
+      "url": "https://www.globenewswire.com/news-release/2025/09/10/3147851/0/en/Polypropylene-Market-Size-to-Worth-USD-211-91-Billion-by-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-09-10T13:26:00Z",
+      "content": "Ottawa, Sept. 10, 2025 (GLOBE NEWSWIRE) -- The global polypropylene market volume\r\n is valued at 91.11 million tons in 2025 and is anticipated to reach around 135.05 million tons by 2034, growing at … [+31916 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ News",
+      "title": "Rat droppings at McDonald's among eight FSAI closures",
+      "description": "Rat droppings in the storage unit of a McDonald's in Co Louth as well as an active cockroach infestation in a Dublin restaurant were among the reasons for eight closure orders on Irish food businesses last month.",
+      "url": "https://www.rte.ie/news/ireland/2025/0910/1532776-fsai-closures-ireland/",
+      "urlToImage": "https://www.rte.ie/images/00203835-1600.jpg",
+      "publishedAt": "2025-09-10T13:23:09Z",
+      "content": "Rat droppings in the storage unit of a McDonald's in Co Louth as well as an active cockroach infestation in a Dublin restaurant were among the reasons for eight closure orders on Irish food businesse… [+4654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "Emma Hickey",
+      "title": "McDonald's restaurant in Louth found with rodent droppings among eight served closure orders",
+      "description": "An active cockroach infestation, rodent droppings, and floors congealed with grease and dirt: here’s the restaurants the FSAI served closure orders to.",
+      "url": "https://www.thejournal.ie/closure-orders-fsai-mcdonalds-drogheda-6812752-Sep2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6812752/river/?height=400&version=6812793",
+      "publishedAt": "2025-09-10T13:20:10Z",
+      "content": "A MCDONALDS RESTAURANT in Co Louth is among eight food businesses issued a closure order by the Food Safety Authority last month.\r\nA ninth business, Chillers Restaurant and Lounge in Liffey Valley, w… [+2525 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,112 +1274,8 @@
       "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/09/Assembled-Cosmetics.jpg",
       "publishedAt": "2025-09-05T01:00:36Z",
       "content": "As Ghana begins to grapple with the threat of toxic PFAS chemicals in its environment and consumer products, the Food and Drugs Authority (FDA) has issued a public alert urging Ghanaians to watch out… [+3755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Frozen vegetables recalled over potentially life-threatening threat",
-      "description": "The recalled product may have been contaminated with a disease-causing bacteria",
-      "url": "https://www.the-independent.com/life-style/frozen-vegetable-recall-listeria-endico-b2820484.html",
-      "urlToImage": "https://static.the-independent.com/2025/09/04/21/58/iStock-184109655.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-09-04T22:02:37Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3559 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rana Sarkar",
-      "title": "FDA recalls Endico frozen peas & carrots and mixed vegetables over listeria in 7 states",
-      "description": "Endico Potatoes Inc. has initiated a recall of its Endico brand Peas & Carrots and Mixed Vegetables due to potential Listeria monocytogenes contamination, confirmed by distributor testing in Pennsylvania. The FDA announced the recall on September 4th, affecti…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/fda-recalls-endico-frozen-peas-carrots-and-mixed-vegetables-over-listeria-in-7-states/articleshow/123706589.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-123706592,width-1200,height-630,imgsize-729732,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-09-04T21:30:56Z",
-      "content": "Due to the possibility of Listeria monocytogenes contamination, New York-based Endico Potatoes Inc. is recalling its Endico brand Peas &amp; Carrots and Mixed Vegetables, the US Food and Drug Adminis… [+2828 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "fastcompany.com",
-      "title": "Frozen vegetables recalled over Listeria fears: Toss these bags of peas and carrots right now",
-      "description": "The Food and Drug Administration (FDA) is alerting the public via its recall website to be on the lookout for bags of frozen vegetables, due to possible contamination from Listeria.\nNew York-based Endico Potatoes is voluntarily recalling peas and carrots and …",
-      "url": "https://biztoc.com/x/58f0fb86ca451c2d",
-      "urlToImage": "https://biztoc.com/cdn/58f0fb86ca451c2d_s.webp",
-      "publishedAt": "2025-09-04T21:26:13Z",
-      "content": "The Food and Drug Administration (FDA) is alerting the public via its recall website to be on the lookout for bags of frozen vegetables, due to possible contamination from Listeria.New York-based End… [+149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheWrap"
-      },
-      "author": "Jacob Bryant",
-      "title": "Louisiana Senator Bizarrely Compares Radioactive Walmart Shrimp to ‘Alien’ Chestbursters: ‘It’ll Grow You An Extra Ear’",
-      "description": "\"This is what you could end up looking like if you eat some of the raw frozen shrimp being sent to the U.S. by other countries,\" John Kennedy says\nThe post Louisiana Senator Bizarrely Compares Radioactive Walmart Shrimp to ‘Alien’ Chestbursters: ‘It’ll Grow Y…",
-      "url": "https://www.thewrap.com/senator-john-kennedy-radioactive-walmart-shrimp-alien-chestbursters-cspan/",
-      "urlToImage": "https://www.thewrap.com/wp-content/uploads/2025/09/AlienChestburster.jpg",
-      "publishedAt": "2025-09-04T21:24:10Z",
-      "content": "Sen. John Kennedy (LA-R) took the floor this week to compare the effects of recently recalled radioactive shrimp to … the Chestbursters from the “Alien” franchise?\r\nKennedy made this comparison durin… [+1948 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "VP Vance curses out senators after heated Kennedy hearing: 'Full of s--- and everyone knows it'",
-      "description": "Vice President Vance took to social media on Thursday to support HHS Secretary Robert F. Kennedy Jr. amid blowback from Democratic senators in a Finance Committee hearing.",
-      "url": "https://www.foxnews.com/politics/vp-vance-curses-senators-heated-kennedy-hearing-full-sh-everyone-knows-it",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/robert-f-kennedy-jr-senate-hearing.jpg",
-      "publishedAt": "2025-09-04T20:49:01Z",
-      "content": "Vice President JD Vance shot back at senators who clashed withHealth and Human Services Secretary Robert F. Kennedy Jr.\r\n at a hearing before the Senate Finance Committee Thursday, saying they are \"f… [+3313 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaite"
-      },
-      "author": "Zachary Leeman",
-      "title": "John Kennedy Warns of ‘Radioactive Shrimp’ Accompanied By Photo of Alien Chestburster on Senate Floor",
-      "description": "John Kennedy busted out an image of the Xenomorph creature from 1979's Alien to deliver a wild warning about \"radioactive shrimp\" on the Senate floor.\nThe post John Kennedy Warns of ‘Radioactive Shrimp’ Accompanied By Photo of Alien Chestburster on Senate Flo…",
-      "url": "https://www.mediaite.com/media/news/john-kennedy-warns-of-radioactive-shrimp-accompanied-by-photo-of-alien-chestburster-on-senate-floor/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/09/alien.jpg",
-      "publishedAt": "2025-09-04T19:43:02Z",
-      "content": "Sen. John Kennedy (R-LA) busted out an image of the Xenomorph creature from 1979’s Alien to deliver a wild warning about “radioactive shrimp” on the Senate floor.\r\nKennedy spoke in the Senate on Tues… [+1490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Republic"
-      },
-      "author": "Kate Aronoff",
-      "title": "It’s Time for the MAHA Moms to Turn on RFK Jr., Too",
-      "description": "On Wednesday, more than 1,000 Health and Human Services employees demanded, in a letter, that HHS Secretary Robert F. Kennedy Jr. resign. They criticized him for firing Susan Monarez, the director of the Centers for Disease Control and Prevention; severely cu…",
-      "url": "https://newrepublic.com/article/199956/it-time-maha-moms-turn-rfk-jr",
-      "urlToImage": "https://images.newrepublic.com/dbbec27f52d56e7390b3793f07d39f104218458f.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "publishedAt": "2025-09-04T17:04:32Z",
-      "content": "On Wednesday, more than 1,000 Health and Human Services employees demanded, in a letter, that HHS Secretary Robert F. Kennedy Jr. resign. They criticized him for firing Susan Monarez, the director of… [+5350 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Theo Burman",
-      "title": "Republican Says Radioactive Shrimp May Turn You Into Xenomorph",
-      "description": "John Kennedy's comments come as recalls of frozen shrimp feared to be radioactive have been designated the second-highest health hazard warning.",
-      "url": "https://www.newsweek.com/republican-radioiactive-shrimp-xenomorph-2124553",
-      "urlToImage": "https://d.newsweek.com/en/full/2716021/frozen-shrimp.jpg",
-      "publishedAt": "2025-09-04T16:17:29Z",
-      "content": "Louisiana Senator John Kennedy, a Republican, compared radioactive shrimp to the deadly extraterrestrial creatures from the Alien film franchise.\r\nHis remarks came during a Senate hearing on water co… [+3701 chars]"
     }
   ],
-  "totalResults": 97,
+  "totalResults": 98,
   "filteredCount": 0
 }
