@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-12T01:45:57.081Z",
+  "lastUpdated": "2025-09-12T06:34:18.900Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Skepticalscience.com"
+      },
+      "author": null,
+      "title": "Skeptical Science New Research for Week #37 2025",
+      "description": "Open access notables\n\nWild, scenic, and toxic: Recent degradation of an iconic Arctic watershed with permafrost thaw, Sullivan et al., Proceedings of the National Academy of Science\n\nThe streams of Alaska’s Brooks Range lie within a vast (~14M ha) tract of pr…",
+      "url": "https://skepticalscience.com/new_research_2025_37.html",
+      "urlToImage": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+      "publishedAt": "2025-09-11T06:23:19Z",
+      "content": "Posted on 11 September 2025 by Doug Bostrom, Marc Kodack\r\nOpen access notables\r\nWild, scenic, and toxic: Recent degradation of an iconic Arctic watershed with permafrost thaw, Sullivan et al., Procee… [+36184 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Arlene Harris",
+      "title": "Food allergies: ‘Restaurants and society in general think it’s a fad... when it could cost someone their life’",
+      "description": "Symptoms of mild food allergies are not pleasant, but for those with anaphylaxis, the stakes are a whole lot higher",
+      "url": "https://www.irishtimes.com/health/your-wellness/2025/09/11/food-allergies-restaurants-and-society-in-general-think-its-a-fad-when-actually-it-could-cost-someone-their-life/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/ZMWDCJXCIBGLJIUWDZ6EWCVYGA.jpg?smart=true&auth=50da58e3e4832c8ab8aa0274d10ea428048de211b05b234beb6886a8369371d8&width=1200&height=630",
+      "publishedAt": "2025-09-11T05:01:00Z",
+      "content": "Approximately 134,000 people in Ireland have a food allergy ranging from mild symptoms to, for a small number, life-threatening anaphylaxis.\r\n Symptoms of mild allergies are not pleasant, and people … [+11572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": "Tarun Sai Lomte",
+      "title": "Experts warn tiny plastics in arteries may raise heart attack risk",
+      "description": "Experts caution that nanoplastics and microplastics may constitute an emerging cardiovascular risk factor, with particles identified in arterial plaques associated with a 4.5-fold increase in major adverse cardiovascular events. Experimental evidence points t…",
+      "url": "https://www.news-medical.net/news/20250910/Experts-warn-tiny-plastics-in-arteries-may-raise-heart-attack-risk.aspx",
+      "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_818844_17575600269388266.jpg",
+      "publishedAt": "2025-09-11T03:12:21Z",
+      "content": "Experts reveal how plastic particles lodged in arteries could heighten heart disease risk, demanding urgent attention from clinicians and policymakers.\r\nMicroplastics and nanoplastics: tiny threats f… [+5622 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -289,19 +328,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Drew Weisholtz",
-      "title": "Cheese Recalled in Multiple States Due to Listeria Concerns",
-      "description": "The FDA has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese due to potential listeria contamination.",
-      "url": "https://www.today.com/health/recall/cheese-recalled-listeria-middlefield-rcna230142",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
-    },
-    {
-      "source": {
         "id": "cbc-news",
         "name": "CBC News"
       },
@@ -312,6 +338,19 @@
       "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
       "publishedAt": "2025-09-09T18:44:00Z",
       "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Drew Weisholtz",
+      "title": "Cheese Recalled in Multiple States Due to Listeria Concerns",
+      "description": "The FDA has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese due to potential listeria contamination.",
+      "url": "https://www.today.com/health/recall/cheese-recalled-listeria-middlefield-rcna230142",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
     },
     {
       "source": {
@@ -773,19 +812,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Ascorbic acid (vitamin C): The powerful preservative and nutritional powerhouse",
-      "description": "Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly cancer. It is widely used in the food industry as a natural preservati…",
-      "url": "https://www.naturalnews.com/2025-09-08-ascorbic-acid-powerful-preservative-and-nutritional-powerhouse.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/C-Vitamin-Food-Bowl-Cartoon-Cranberry-Diet.jpg",
-      "publishedAt": "2025-09-08T06:00:00Z",
-      "content": "<ul><li>Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly ca… [+7246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "S.D. Wells",
       "title": "Hop off the high-dose caffeine âenergyâ drinks and the Starbucks âstuffâ and try some super-healthy drinks with bioactive compounds to fuel longevity",
       "description": "Water is essential for life—supporting everything from digestion and circulation to temperature control, muscle function, and cellular health. But plain water isn’t the only way to stay hydrated. In fact, several other beverages offer hydration plus additiona…",
@@ -793,6 +819,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Woman-Fit-Drink-Happy-Smoothie-Detox-White.jpg",
       "publishedAt": "2025-09-08T06:00:00Z",
       "content": "<li>Black CoffeeMore than just a morning ritual, black coffee contains over 1,000 bioactive compounds that can promote longevity, support heart health, and protect cognitive function. Large-scale stu… [+2963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Ascorbic acid (vitamin C): The powerful preservative and nutritional powerhouse",
+      "description": "Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly cancer. It is widely used in the food industry as a natural preservati…",
+      "url": "https://www.naturalnews.com/2025-09-08-ascorbic-acid-powerful-preservative-and-nutritional-powerhouse.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/C-Vitamin-Food-Bowl-Cartoon-Cranberry-Diet.jpg",
+      "publishedAt": "2025-09-08T06:00:00Z",
+      "content": "<ul><li>Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly ca… [+7246 chars]"
     },
     {
       "source": {
@@ -1209,45 +1248,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-09-05T08:05:00Z",
       "content": "Dublin, Sept. 05, 2025 (GLOBE NEWSWIRE) -- The \"Europe Middle East and Africa (EMEA) Aseptic Packaging Market - Forecasts from 2025 to 2030\" report has been added to ResearchAndMarkets.com's offering… [+8017 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insurance Journal"
-      },
-      "author": "Admin",
-      "title": "Cultivated Meat Companies Sue Texas Over Its Lab-Grown Meat Ban",
-      "description": "Two cultivated meat companies have filed a lawsuit against officials in Texas over the law that bans the sales of lab-grown meat in the state for two years. California-based companies UPSIDE Foods, which makes cultivated chicken, and Wildtype, which makes …",
-      "url": "https://www.insurancejournal.com/news/southcentral/2025/09/05/837804.htm",
-      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-lawsuits-1200x630.png",
-      "publishedAt": "2025-09-05T08:00:16Z",
-      "content": "Two cultivated meat companies have filed a lawsuit against officials in Texas over the law that bans the sales of lab-grown meat in the state for two years.\r\nCalifornia-based companies UPSIDE Foods, … [+5462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Olivia Cook",
-      "title": "FDA recalls men’s supplement containing prescription-only erectile dysfunction drug",
-      "description": "The FDA recalled Green Lumber’s Natural Fuel for Men supplement after counterfeit batches were found to contain tadalafil, a prescription-only erectile dysfunction drug. Counterfeit capsules can be identified because they are smaller, paler green and lack the…",
-      "url": "https://www.naturalnews.com/2025-09-05-fda-recalls-supplement-containing-prescription-only-drug.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Green-Herbal-Supplements.jpg",
-      "publishedAt": "2025-09-05T06:00:00Z",
-      "content": "<ul><li>The FDA recalled Green Lumber's Natural Fuel for Men supplement after counterfeit batches were found to contain tadalafil, a prescription-only erectile dysfunction drug.</li><li>Counterfeit c… [+8145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Kevin Hughes",
-      "title": "Health Ranger Report: Dr. Jane Ruby and the TOXIC THREATS in Florida’s skies",
-      "description": "Dr. Jane Ruby collected samples of a mysterious substance that accumulated on a greenhouse tarp over six months in Florida. The samples were analyzed by Mike Adams at his ISO 17025-accredited lab, revealing alarming findings. Microscopic analysis of the sampl…",
-      "url": "https://www.naturalnews.com/2025-09-05-dr-jane-ruby-toxic-threats-florida-skies.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Chemtrails-Telephone-Pole-Sky-Criss-Crossing.jpg",
-      "publishedAt": "2025-09-05T06:00:00Z",
-      "content": "<ul><li>Dr. Jane Ruby collected samples of a mysterious substance that accumulated on a greenhouse tarp over six months in Florida. The samples were analyzed by Mike Adams at his ISO 17025-accredited… [+7034 chars]"
     }
   ],
   "totalResults": 96,
