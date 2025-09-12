@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-12T06:34:18.900Z",
+  "lastUpdated": "2025-09-12T12:46:11.180Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Antaranews.com"
+      },
+      "author": "Arie Novarina",
+      "title": "Indonesian govt seals radioactive Cesium-137 site in Serang",
+      "description": "The Indonesian government confirmed it has sealed and contained a radioactive Cesium-137 contamination site at the Cikande Modern Industrial Estate, Serang ...",
+      "url": "https://en.antaranews.com/news/379353/indonesian-govt-seals-radioactive-cesium-137-site-in-serang",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/09/11/WhatsApp-Image-2025-09-11-at-15.45.56.jpeg",
+      "publishedAt": "2025-09-11T11:52:39Z",
+      "content": "Jakarta (ANTARA) - The Indonesian government confirmed it has sealed and contained a radioactive Cesium-137 contamination site at the Cikande Modern Industrial Estate, Serang District, Banten Provinc… [+1941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Over 22,000 juice pouches part of elevated recall over potentially harmful bacteria contamination",
+      "description": "The recall has been declared a Class II by the FDA",
+      "url": "https://www.the-independent.com/life-style/juice-recall-evergreen-orchard-farm-fda-b2824429.html",
+      "urlToImage": "https://static.the-independent.com/2025/09/10/20/24/iStock-1472582604.jpeg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-09-11T07:13:14Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3857 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -328,19 +354,6 @@
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
-      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
-      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
-      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "TODAY"
       },
@@ -351,6 +364,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
       "publishedAt": "2025-09-09T18:44:00Z",
       "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
+      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
+      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
+      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
     },
     {
       "source": {
@@ -812,19 +838,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "S.D. Wells",
-      "title": "Hop off the high-dose caffeine âenergyâ drinks and the Starbucks âstuffâ and try some super-healthy drinks with bioactive compounds to fuel longevity",
-      "description": "Water is essential for life—supporting everything from digestion and circulation to temperature control, muscle function, and cellular health. But plain water isn’t the only way to stay hydrated. In fact, several other beverages offer hydration plus additiona…",
-      "url": "https://www.naturalnews.com/2025-09-08-hop-off-caffeine-energy-drinks-try-healthy-drinks-with-bioactive-compounds.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Woman-Fit-Drink-Happy-Smoothie-Detox-White.jpg",
-      "publishedAt": "2025-09-08T06:00:00Z",
-      "content": "<li>Black CoffeeMore than just a morning ritual, black coffee contains over 1,000 bioactive compounds that can promote longevity, support heart health, and protect cognitive function. Large-scale stu… [+2963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Ascorbic acid (vitamin C): The powerful preservative and nutritional powerhouse",
       "description": "Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly cancer. It is widely used in the food industry as a natural preservati…",
@@ -832,6 +845,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/C-Vitamin-Food-Bowl-Cartoon-Cranberry-Diet.jpg",
       "publishedAt": "2025-09-08T06:00:00Z",
       "content": "<ul><li>Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly ca… [+7246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "Hop off the high-dose caffeine âenergyâ drinks and the Starbucks âstuffâ and try some super-healthy drinks with bioactive compounds to fuel longevity",
+      "description": "Water is essential for life—supporting everything from digestion and circulation to temperature control, muscle function, and cellular health. But plain water isn’t the only way to stay hydrated. In fact, several other beverages offer hydration plus additiona…",
+      "url": "https://www.naturalnews.com/2025-09-08-hop-off-caffeine-energy-drinks-try-healthy-drinks-with-bioactive-compounds.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Woman-Fit-Drink-Happy-Smoothie-Detox-White.jpg",
+      "publishedAt": "2025-09-08T06:00:00Z",
+      "content": "<li>Black CoffeeMore than just a morning ritual, black coffee contains over 1,000 bioactive compounds that can promote longevity, support heart health, and protect cognitive function. Large-scale stu… [+2963 chars]"
     },
     {
       "source": {
@@ -1209,47 +1235,8 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
       "publishedAt": "2025-09-05T13:00:00Z",
       "content": "Ottawa, Sept. 05, 2025 (GLOBE NEWSWIRE) -- The global recyclable plastic market size stood at USD 91.03 billion in 2025 and is projected to reach USD 195.92 billion by 2034, according to a study publ… [+29125 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Matt Novak",
-      "title": "Another Cat Euthanized After Eating Raw Food Tainted With Bird Flu",
-      "description": "The CDC stop publishing data on bird flu infections in animals back in July.",
-      "url": "https://gizmodo.com/another-cat-euthanized-after-eating-raw-food-tainted-with-bird-flu-2000654074",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/evilcat-1-1200x675.jpg",
-      "publishedAt": "2025-09-05T12:35:26Z",
-      "content": "The FDA issued a warning this week after health officials discovered that a cat who became ill and had to be euthanized was likely infected by the same strain of bird flu that was discovered in raw c… [+3059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Lena Borrelli",
-      "title": "Stop Eating Plastic: 7 Kitchen Items That Are Secretly Full of Microplastics",
-      "description": "Want fewer microplastics at home? Start with these practical replacements.",
-      "url": "https://www.cnet.com/health/stop-eating-plastic-7-kitchen-items-that-are-secretly-full-of-microplastics/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-05T10:00:05Z",
-      "content": "Microplastics aren't just an environmental buzzword. They're in the water you drink, the air you breathe and even the food on your plate. These tiny fragments of plastic are nearly impossible to avoi… [+8424 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Research and Markets",
-      "title": "Europe, Middle East, and Africa (EMEA) Aseptic Packaging Market Report 2025-2030 | Pharmaceuticals, Processed Food, and Dairy Demand Bolster Growth",
-      "description": "The EMEA aseptic packaging market is projected to grow from USD 16.926 billion in 2025 to USD 21.582 billion by 2030, driven by pharmaceuticals, processed food, and dairy demands. Strict EU regulations and sustainable packaging trends enhance growth. Key play…",
-      "url": "https://www.globenewswire.com/news-release/2025/09/05/3145118/28124/en/Europe-Middle-East-and-Africa-EMEA-Aseptic-Packaging-Market-Report-2025-2030-Pharmaceuticals-Processed-Food-and-Dairy-Demand-Bolster-Growth.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2025-09-05T08:05:00Z",
-      "content": "Dublin, Sept. 05, 2025 (GLOBE NEWSWIRE) -- The \"Europe Middle East and Africa (EMEA) Aseptic Packaging Market - Forecasts from 2025 to 2030\" report has been added to ResearchAndMarkets.com's offering… [+8017 chars]"
     }
   ],
-  "totalResults": 96,
+  "totalResults": 95,
   "filteredCount": 0
 }
