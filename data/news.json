@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-13T01:41:38.606Z",
+  "lastUpdated": "2025-09-13T06:30:21.124Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Olivia Cook",
+      "title": "Jessie Lord Bakery’s sweet treat RECALL exposes the sour truth about artificial food dyes",
+      "description": "The recall of more than 130,000 Jessie Lord Bakery lemon meringue pies sold at Walmart stores highlighted how a single synthetic dye, Yellow #5, can slip into foods and pose serious risks to sensitive consumers. Artificial food dyes are petroleum-based chemic…",
+      "url": "https://www.naturalnews.com/2025-09-12-sweet-treat-recall-exposes-truth-artificial-food-dyes.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Child-Boy-Sweets-Cupcakes-Desserts-Sugar-Food.jpg",
+      "publishedAt": "2025-09-12T06:00:00Z",
+      "content": "<ul><li>The recall of more than 130,000 Jessie Lord Bakery lemon meringue pies sold at Walmart stores highlighted how a single synthetic dye, Yellow #5, can slip into foods and pose serious risks to … [+8549 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -536,19 +549,6 @@
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
-      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
-      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
-      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "TODAY"
       },
@@ -559,6 +559,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
       "publishedAt": "2025-09-09T18:44:00Z",
       "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
+      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
+      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
+      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
     },
     {
       "source": {
@@ -1020,19 +1033,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "S.D. Wells",
-      "title": "Hop off the high-dose caffeine âenergyâ drinks and the Starbucks âstuffâ and try some super-healthy drinks with bioactive compounds to fuel longevity",
-      "description": "Water is essential for life—supporting everything from digestion and circulation to temperature control, muscle function, and cellular health. But plain water isn’t the only way to stay hydrated. In fact, several other beverages offer hydration plus additiona…",
-      "url": "https://www.naturalnews.com/2025-09-08-hop-off-caffeine-energy-drinks-try-healthy-drinks-with-bioactive-compounds.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Woman-Fit-Drink-Happy-Smoothie-Detox-White.jpg",
-      "publishedAt": "2025-09-08T06:00:00Z",
-      "content": "<li>Black CoffeeMore than just a morning ritual, black coffee contains over 1,000 bioactive compounds that can promote longevity, support heart health, and protect cognitive function. Large-scale stu… [+2963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "Laura Harris",
       "title": "Ascorbic acid (vitamin C): The powerful preservative and nutritional powerhouse",
       "description": "Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly cancer. It is widely used in the food industry as a natural preservati…",
@@ -1040,6 +1040,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/C-Vitamin-Food-Bowl-Cartoon-Cranberry-Diet.jpg",
       "publishedAt": "2025-09-08T06:00:00Z",
       "content": "<ul><li>Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly ca… [+7246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "Hop off the high-dose caffeine âenergyâ drinks and the Starbucks âstuffâ and try some super-healthy drinks with bioactive compounds to fuel longevity",
+      "description": "Water is essential for life—supporting everything from digestion and circulation to temperature control, muscle function, and cellular health. But plain water isn’t the only way to stay hydrated. In fact, several other beverages offer hydration plus additiona…",
+      "url": "https://www.naturalnews.com/2025-09-08-hop-off-caffeine-energy-drinks-try-healthy-drinks-with-bioactive-compounds.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Woman-Fit-Drink-Happy-Smoothie-Detox-White.jpg",
+      "publishedAt": "2025-09-08T06:00:00Z",
+      "content": "<li>Black CoffeeMore than just a morning ritual, black coffee contains over 1,000 bioactive compounds that can promote longevity, support heart health, and protect cognitive function. Large-scale stu… [+2963 chars]"
     },
     {
       "source": {
@@ -1209,19 +1222,6 @@
       "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FE3RXZUQ4IQBHF6UAIEM5AVOWA4.jpg?auth=6fb29517760cfc652f33e4bf2e3268da8df7e289bc6f544af703776837e2834f&width=1200&height=630&smart=true",
       "publishedAt": "2025-09-06T00:32:14Z",
       "content": "Contaminated metal at an industrial site in Indonesia may be the source of radioactive material that led to massive recalls of imported frozen shrimp, international nuclear safety officials say, as e… [+3992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Unhealthy Plant-Based Diets Raise Your Risk of Heart Disease",
-      "description": "Plant-based diets, especially ones that are touted as “meat” alternatives, are all the rage these days. According to a market analysis by The Humane League, this industry was valued at $14 billion in 2021, and is expected to grow by a tremendous amount in 203…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/06/processed-plant-based-diets-health-risks.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/processed-plant-based-diets-health-risks-fb.jpg",
-      "publishedAt": "2025-09-06T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
   "totalResults": 94,
