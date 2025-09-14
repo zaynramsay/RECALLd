@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-09-13T18:27:47.473Z",
+  "lastUpdated": "2025-09-14T01:54:48.989Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Meth burn by FBI smokes out Montana animal shelter",
+      "description": "Every couple of months law enforcement officers use the incinerator to burn seized narcotics.",
+      "url": "https://www.bostonherald.com/2025/09/12/montana-animal-shelter-meth-burn/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/09/Animal_Shelter_Meth_Smoke_97488-1.jpg?w=1024&h=683",
+      "publishedAt": "2025-09-12T23:55:22Z",
+      "content": "By MATTHEW BROWN\r\nBILLINGS, Mont. (AP) A cloud of smoke from two pounds of methamphetamine seized by the FBI and incinerated inside a Montana animal shelter prompted its evacuation and sent workers t… [+2308 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Matthew Brown",
+      "title": "FBI drug burn smokes up Montana animal shelter",
+      "description": "Workers at a Montana animal shelter were evacuated and sent to the hospital after smoke from two pounds of methamphetamine incinerated by FBI agents started to fill the building. City of Billings Assistant Administrator Kevin Iffland said the incinerator is p…",
+      "url": "https://apnews.com/article/montana-animal-shelter-incinerator-methamphetamine-c471a1a007237b55aa6b8fea8af5673d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b4e5d1d/2147483647/strip/true/crop/1620x911+0+84/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F34%2Fb5e3f4a14fc56e4415e0dbe70ecc%2Fee3d6e2d603344c3950fbf51ac669028",
+      "publishedAt": "2025-09-12T22:19:57Z",
+      "content": "BILLINGS, Mont. (AP) A cloud of smoke from two pounds of methamphetamine seized by the FBI and incinerated inside a Montana animal shelter sent its workers to the hospital, city officials in Billings… [+2621 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Anna Commander",
+      "title": "Beef Alert Prompts New Warning to Customers",
+      "description": "Numerous public health alerts and recalls have been initiated this year because of the potential for undeclared food allergens.",
+      "url": "https://www.newsweek.com/beef-alert-prompts-new-warning-customers-2129220",
+      "urlToImage": "https://d.newsweek.com/en/full/2721703/sweet-heat-sirloin-beef-tips.jpg",
+      "publishedAt": "2025-09-12T21:35:55Z",
+      "content": "The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) has issued a public health alert for a raw sirloin beef tip product because the product contains wheat and sesame that i… [+2890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "This Is How Long Eggs Stay Fresh in the Fridge",
+      "description": "The \"best by\" date on your carton isn't always the most accurate measurement.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/this-is-how-long-eggs-stay-fresh-in-the-fridge/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/454f63b65202d17dc67603f7bf051915e6f1a389/hub/2022/09/16/d9511990-ea04-4908-9198-faa0aeeb4c82/gettyimages-1308706741.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-12T21:00:00Z",
+      "content": "Eggs are one of the most dependable staples in the kitchen. They're versatile and easy to buy in bulk, which makes them a perfect go-to for stretching a grocery budget. But with food prices still hig… [+5580 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -666,19 +718,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Drew Weisholtz",
-      "title": "Cheese Recalled in Multiple States Due to Listeria Concerns",
-      "description": "The FDA has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese due to potential listeria contamination.",
-      "url": "https://www.today.com/health/recall/cheese-recalled-listeria-middlefield-rcna230142",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
-    },
-    {
-      "source": {
         "id": "cbc-news",
         "name": "CBC News"
       },
@@ -689,6 +728,19 @@
       "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
       "publishedAt": "2025-09-09T18:44:00Z",
       "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Drew Weisholtz",
+      "title": "Cheese Recalled in Multiple States Due to Listeria Concerns",
+      "description": "The FDA has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese due to potential listeria contamination.",
+      "url": "https://www.today.com/health/recall/cheese-recalled-listeria-middlefield-rcna230142",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
     },
     {
       "source": {
@@ -1150,19 +1202,6 @@
         "id": null,
         "name": "Naturalnews.com"
       },
-      "author": "Laura Harris",
-      "title": "Ascorbic acid (vitamin C): The powerful preservative and nutritional powerhouse",
-      "description": "Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly cancer. It is widely used in the food industry as a natural preservati…",
-      "url": "https://www.naturalnews.com/2025-09-08-ascorbic-acid-powerful-preservative-and-nutritional-powerhouse.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/C-Vitamin-Food-Bowl-Cartoon-Cranberry-Diet.jpg",
-      "publishedAt": "2025-09-08T06:00:00Z",
-      "content": "<ul><li>Ascorbic acid (vitamin C) is essential for immune support, collagen production, iron absorption, detoxification and protecting against oxidative stress, cardiovascular disease and possibly ca… [+7246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
       "author": "S.D. Wells",
       "title": "Hop off the high-dose caffeine âenergyâ drinks and the Starbucks âstuffâ and try some super-healthy drinks with bioactive compounds to fuel longevity",
       "description": "Water is essential for life—supporting everything from digestion and circulation to temperature control, muscle function, and cellular health. But plain water isn’t the only way to stay hydrated. In fact, several other beverages offer hydration plus additiona…",
@@ -1170,60 +1209,8 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Woman-Fit-Drink-Happy-Smoothie-Detox-White.jpg",
       "publishedAt": "2025-09-08T06:00:00Z",
       "content": "<li>Black CoffeeMore than just a morning ritual, black coffee contains over 1,000 bioactive compounds that can promote longevity, support heart health, and protect cognitive function. Large-scale stu… [+2963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Weekly Health Quiz: Teeth Grinding, Cortisol Reset, Gut Bacteria, and Safe Strength Training",
-      "description": "1 Which daily practice can help relax your jaw and reduce nighttime teeth grinding?\r\n\n<ul>\n<li>Drinking green tea in the evening</li>\n<li>Skipping sleep so you grind less at night</li>\n<li>Clenching your jaw during the day to strengthen it</li>\n<li>Using hot …",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/08/weekly-health-quiz-39.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2024/December/FB/weekly-health-quiz-fb.jpg",
-      "publishedAt": "2025-09-08T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Microplastics Found to Trigger Cancer-Linked Changes in Lung Cells",
-      "description": "Microplastics are no longer just a problem in the ocean — they’re showing up deep in your lungs, changing how your cells function, and raising red flags about cancer risk.\n\nA new study published in the Journal of Hazardous Materials revealed that when healthy…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/08/microplastics-lung-cancer-risk.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/microplastics-lung-cancer-risk-fb.jpg",
-      "publishedAt": "2025-09-08T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Jacqueline Lynch",
-      "title": "Councils call for state to help save WA food waste bins",
-      "description": "As more Perth councils bring in a third bin for food waste, some of the early adopters of the so-called FOGO system are just months away from potentially scrapping the system.",
-      "url": "https://www.abc.net.au/news/2025-09-08/fogo-bin-system-failing-in-south-west-wa-amid-wider-perth-push/105737394",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/089a4dae96781d27cabb233d327c25fa?impolicy=wcms_watermark_news&cropH=1035&cropW=1841&xPos=0&yPos=361&width=862&height=485&imformat=generic",
-      "publishedAt": "2025-09-07T23:00:29Z",
-      "content": "As more Perth councils bring in a third bin for food waste, some of WA's earliest adopters of the so-called FOGO system are just months away from potentially scrapping the scheme.\r\nA third bin for fo… [+4998 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Rick Kazmer",
-      "title": "Researchers discover incredible new method to pull toxic chemicals out of our food: 'A lot of people now are aware'",
-      "description": "\"It’s the million-dollar question.\"",
-      "url": "https://www.yahoo.com/news/articles/researchers-discover-incredible-method-pull-210000127.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eHgqK4GmWZnwPusjmNHaeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/c23a1f33f5db2c38aeff424ebc85f0db",
-      "publishedAt": "2025-09-07T21:00:00Z",
-      "content": "Vegetables' health benefits may extend beyond their nutritious value, thanks to researchers studying their ability to detect and possibly remove harmful forever chemicals from soil.\r\nThe chemicals, o… [+3681 chars]"
     }
   ],
-  "totalResults": 94,
+  "totalResults": 93,
   "filteredCount": 0
 }
