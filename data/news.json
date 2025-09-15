@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-15T01:56:21.469Z",
+  "lastUpdated": "2025-09-15T06:36:56.376Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Laura Harris",
+      "title": "Pasta: More than just a comfort food",
+      "description": "Whole-grain and legume-based pastas provide complex carbs for steady energy, fiber for digestion, protein (especially in chickpea or lentil pasta) and essential vitamins (B vitamins) and minerals (iron, magnesium). Its origins trace back thousands of years to…",
+      "url": "https://www.naturalnews.com/2025-09-14-pasta-more-than-just-a-comfort-food.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Pasta-Shells-Variety.jpg",
+      "publishedAt": "2025-09-14T06:00:00Z",
+      "content": "<ul><li>Whole-grain and legume-based pastas provide complex carbs for steady energy, fiber for digestion, protein (especially in chickpea or lentil pasta) and essential vitamins (B vitamins) and mine… [+6469 chars]"
+    },
     {
       "source": {
         "id": "cbs-news",
@@ -139,10 +152,10 @@
       "author": "WATE",
       "title": "45 pounds of food tossed at Crossville Cracker Barrel during health inspection",
       "description": "KNOXVILLE, Tenn. (WATE) — The eatery with the failing health score is in Cumberland County. There were a lot of problems with food temperatures. The grade is a 67 at Cracker Barrel, the one in Crossville. That 67 is a failing score. A grade of 69 and below is…",
-      "url": "https://freerepublic.com/focus/f-news/4340156/posts",
+      "url": "https://freerepublic.com/focus/f-chat/4340156/posts",
       "urlToImage": null,
       "publishedAt": "2025-09-13T07:16:11Z",
-      "content": "Skip to comments.\r\n45 pounds of food tossed at Crossville Cracker Barrel during health inspectionWATE ^\r\n | September 11, 2025\r\n | Don Dare\r\nPosted on 09/13/2025 12:16:11 AM PDT by xxqqzz\r\nKNOXVILLE,… [+2956 chars]"
+      "content": "Skip to comments.\r\n45 pounds of food tossed at Crossville Cracker Barrel during health inspectionWATE ^\r\n | September 11, 2025\r\n | Don Dare\r\nPosted on 09/13/2025 12:16:11 AM PDT by xxqqzz\r\nKNOXVILLE,… [+6424 chars]"
     },
     {
       "source": {
@@ -152,10 +165,10 @@
       "author": "WATE",
       "title": "45 pounds of food tossed at Crossville Cracker Barrel during health inspection",
       "description": "KNOXVILLE, Tenn. (WATE) — The eatery with the failing health score is in Cumberland County. There were a lot of problems with food temperatures. The grade is a 67 at Cracker Barrel, the one in Crossville. That 67 is a failing score. A grade of 69 and below is…",
-      "url": "https://freerepublic.com/focus/f-chat/4340156/posts",
+      "url": "https://freerepublic.com/focus/f-news/4340156/posts",
       "urlToImage": null,
       "publishedAt": "2025-09-13T07:16:11Z",
-      "content": "Skip to comments.\r\n45 pounds of food tossed at Crossville Cracker Barrel during health inspectionWATE ^\r\n | September 11, 2025\r\n | Don Dare\r\nPosted on 09/13/2025 12:16:11 AM PDT by xxqqzz\r\nKNOXVILLE,… [+6424 chars]"
+      "content": "Skip to comments.\r\n45 pounds of food tossed at Crossville Cracker Barrel during health inspectionWATE ^\r\n | September 11, 2025\r\n | Don Dare\r\nPosted on 09/13/2025 12:16:11 AM PDT by xxqqzz\r\nKNOXVILLE,… [+2956 chars]"
     },
     {
       "source": {
@@ -913,19 +926,6 @@
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
-      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
-      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
-      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "TODAY"
       },
@@ -936,6 +936,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
       "publishedAt": "2025-09-09T18:44:00Z",
       "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
+      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
+      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
+      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
     },
     {
       "source": {
@@ -1183,19 +1196,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Tempeh-2.jpg",
       "publishedAt": "2025-09-09T06:00:00Z",
       "content": "<ul><li>Tempeh is a fermented soybean product originating from Indonesia, Made using Rhizopus oligosporus mold, it has a firm texture and nutty flavor.</li><li>A complete protein, tempeh is also high… [+5918 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Calvin Coffee",
-      "title": "Researchers make unsettling discovery after analyzing items for sale at public markets: 'It is surprising'",
-      "description": "They are calling for expanded protections.",
-      "url": "https://www.yahoo.com/news/articles/researchers-unsettling-discovery-analyzing-items-224500429.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BjfLUtpngBRWLsq6__aoXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/384f0663e9a2f74eee0077ed54777ee2",
-      "publishedAt": "2025-09-08T22:45:00Z",
-      "content": "A new study using DNA barcoding has revealed that fish maw markets in Singapore and Malaysia sell species listed as vulnerable, endangered, or even critically endangered.\r\nThe finding raised red flag… [+2782 chars]"
     }
   ],
   "totalResults": 92,
