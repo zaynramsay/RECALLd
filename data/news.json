@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-09-16T06:34:56.473Z",
+  "lastUpdated": "2025-09-16T12:49:38.969Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "It's Time to Stop Eating Plastic. Start by Trashing These 7 Items Full of Microplastics",
+      "description": "These everyday kitchen items are dumping microplastics into your meals.",
+      "url": "https://www.cnet.com/health/its-time-to-stop-eating-plastic-start-by-trashing-these-7-items-full-of-microplastics/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-15T11:00:05Z",
+      "content": "It's a strange thought, but you're probably consuming tiny bits of plastic with your meals every day. They're called microplastics, and these invisible particles are practically everywhere-in our foo… [+8279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "The New Yorker",
+      "title": "Letters from Our Readers",
+      "description": "Readers respond to John Seabrook’s piece on floods, Eyal Press’s article on the National Restaurant Association, and Adam Gopnik’s essay on the history of gambling in New York.",
+      "url": "https://www.newyorker.com/magazine/2025/09/22/letters-from-the-september-22-2025-issue",
+      "urlToImage": "",
+      "publishedAt": "2025-09-15T10:00:00Z",
+      "content": "When It Rains\r\nJohn Seabrooks piece on the increasing frequency and formidable power of river flooding is both moving and scientifically instructive (The Flood Will Come, July 28th). I served as Verm… [+3385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "HelloNation Staff Writer",
+      "title": "Catering Expert Colin Neville Breaks Down the Must-Ask Questions for Wedding Caterers in HelloNation",
+      "description": "Colin Neville of Madeline's Catering provides clear answers for engaged couples' concerns about wedding caterers. ......",
+      "url": "https://www.globenewswire.com/news-release/2025/09/15/3149775/0/en/Catering-Expert-Colin-Neville-Breaks-Down-the-Must-Ask-Questions-for-Wedding-Caterers-in-HelloNation.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/b0446242-5adf-4b80-aae9-dc5932ce223c",
+      "publishedAt": "2025-09-15T09:44:00Z",
+      "content": "ROCHESTER, N.Y., Sept. 15, 2025 (GLOBE NEWSWIRE) -- What should couples ask before choosing a wedding caterer in Rochester? A recent article in HelloNation\r\n featuring Colin Neville of Madeline's Cat… [+5672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Jocelyn C. Zuckerman",
+      "title": "Ghana’s Toxic Gold Rush",
+      "description": "Jocelyn C. Zuckerman\n\n\n\nAs gold prices spike across the globe, illegal mining is exploding—and driving the west African country toward ecological collapse.\r\n\n\r\n\n\nThe post Ghana’s Toxic Gold Rush appeared first on The Nation.",
+      "url": "https://www.thenation.com/article/environment/ghana-gold-rush-galamsey/",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/09/Zuckerman-Ghana-Bftr.jpg",
+      "publishedAt": "2025-09-15T09:00:02Z",
+      "content": "Feature / September 15, 2025\r\nAs gold prices spike across the globe, illegal mining is explodingand driving the west African country toward ecological collapse.\r\nAn unhappy prospect: A group of men e… [+32271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antaranews.com"
+      },
+      "author": "Prisca Triferna Violleta, Cindy Frishanti Octavia",
+      "title": "Indonesia locks down a factory in Banten over Cesium-137 contamination",
+      "description": "The Environment Ministry (KLH) has sealed a factory owned by PT Peter Metal Technology (PMT) in the Cikande industrial area of Serang, Banten Province, after ...",
+      "url": "https://en.antaranews.com/news/379949/indonesia-locks-down-a-factory-in-banten-over-cesium-137-contamination",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/09/15/WhatsApp-Image-2025-09-11-at-17.36.19.jpeg",
+      "publishedAt": "2025-09-15T08:55:52Z",
+      "content": "..the government would not hesitate to impose administrative sanctions, including revoking the companys environmental permit.\r\nJakarta (ANTARA) - The Environment Ministry (KLH) has sealed a factory o… [+2350 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -363,7 +428,7 @@
       "url": "https://www.newsweek.com/hersheys-ice-cream-recall-update-consumer-risk-warning-issued-2128871",
       "urlToImage": "https://d.newsweek.com/en/full/2721245/hersheys.jpg",
       "publishedAt": "2025-09-12T13:13:39Z",
-      "content": "Hershey's voluntarily recalled a small number of one of its ice cream varieties recently, with the U.S. Food and Drug Administration (FDA) now classifying the recall as a Class II risk.\r\nThe recalled… [+3449 chars]"
+      "content": "Hershey's voluntarily recalled a small number of one of its ice cream varieties recently, with the U.S. Food and Drug Administration (FDA) now classifying the recall as a Class II risk.\r\nThe recalled�� [+3449 chars]"
     },
     {
       "source": {
@@ -991,19 +1056,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Drew Weisholtz",
-      "title": "Cheese Recalled in Multiple States Due to Listeria Concerns",
-      "description": "The FDA has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese due to potential listeria contamination.",
-      "url": "https://www.today.com/health/recall/cheese-recalled-listeria-middlefield-rcna230142",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
-    },
-    {
-      "source": {
         "id": "cbc-news",
         "name": "CBC News"
       },
@@ -1014,6 +1066,19 @@
       "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
       "publishedAt": "2025-09-09T18:44:00Z",
       "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Drew Weisholtz",
+      "title": "Cheese Recalled in Multiple States Due to Listeria Concerns",
+      "description": "The FDA has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese due to potential listeria contamination.",
+      "url": "https://www.today.com/health/recall/cheese-recalled-listeria-middlefield-rcna230142",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
+      "publishedAt": "2025-09-09T18:44:00Z",
+      "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
     },
     {
       "source": {
@@ -1131,71 +1196,6 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012413.g003&size=inline",
       "publishedAt": "2025-09-09T14:00:00Z",
       "content": "Abstract\r\nBackground\r\nSalmonella enterica encompasses over 2,600 serovars, including several commonly associated with severe infection in humans. Salmonella is a major cause of sepsis in Africa; howe… [+56124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "blogTO"
-      },
-      "author": "Becky Robertson",
-      "title": "Toronto high-end grocery store shut down over health code issues",
-      "description": "Farm Boy, the upscale grocery chain that has grown into a local success story, has just had one of its bustling downtown Toronto locations shuttered by health officials.Known to many as the Canadian version of Trader Joe's, the Cornwall-founded brand has doze…",
-      "url": "https://www.blogto.com/eat_drink/2025/09/farm-boy-shut-down-health-code-issues/",
-      "urlToImage": "https://images.blogto.com/articles/20250909-farm-boy-yonge-and-eglinton.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "publishedAt": "2025-09-09T13:44:17Z",
-      "content": "Farm Boy, the upscale grocery chain that has grown into a local success story, has just had one of its bustling downtown Toronto locations shuttered by health officials.\r\nKnown to many as the Canadia… [+2016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Hikal Limited - 709370 - 08/20/2025",
-      "description": "CGMP/Active Pharmaceutical Ingredient (API)/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/hikal-limited-709370-08202025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-09-09T13:20:08Z",
-      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-102\r\nProduct:\r\nDrugs \r\nRecipient:\r\nHead Corporate Quality and Regulatory Affairs \r\nHikal Limited\r\n72 - 82 / A Kiadb Industrial AreaJigani560105Karnat… [+14513 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ssir.org"
-      },
-      "author": "SSIR",
-      "title": "The Nonprofit Sector Has an RCT Problem",
-      "description": "Randomized controlled trials are touted as the benchmark for evaluating social programs. The social sector should focus instead on an improvement orientation to evaluating performance.&amp;nbsp;| Open access to this article made possible by the Crown Family S…",
-      "url": "https://ssir.org/articles/entry/the-problem-with-randomized-controlled-trials",
-      "urlToImage": "https://ssir.org/images/articles/fall-2025-feature-rct-marwell-xrulers-737x737.jpg",
-      "publishedAt": "2025-09-09T11:56:00Z",
-      "content": "Among many in the social sector, its an article of faith that randomized controlled trials (RCTs) are the gold standard for evaluating the effectiveness of social programs. There are good reasons for… [+37861 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "author": "Rishabh Bhatnagar",
-      "title": "India's Seafood Exports To Get EU Boost After US Tariff Hit",
-      "description": "India’s seafood exporters are set to gain a crucial lifeline in the European Union after being hit by the US’ steep tariff regime. The Commerce Ministry said seafood exports to the EU could see an immediate 20% jump, providing relief to the shrimp sector whic…",
-      "url": "https://www.ndtvprofit.com/business/indias-seafood-exports-to-get-eu-boost-after-us-tariff-hit",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-04-14%2Fkeri1628%2Fcontainer-with-shrimp-in-ice-water-2025-02-10-07-09-37-utc.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2025-09-09T11:45:10Z",
-      "content": "Indias seafood exporters are set to gain a crucial lifeline in the European Union after being hit by the US steep tariff regime. The Commerce Ministry said seafood exports to the EU could see an imme… [+1586 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "SNS Insider pvt ltd",
-      "title": "Extrusion Coating Market to Reach USD 8.67 Billion by 2032, Fueled by Sustainable Packaging Demand and Technological Advancements – SNS Insider",
-      "description": "SNS Insider Highlights U.S. Market’s Key Role as Converters and Brand Owners Accelerate Adoption of Bio-Based and Recyclable Coating Solutions. SNS Insider Highlights U.S. Market’s Key Role as Converters and Brand Owners Accelerate Adoption of Bio-Based and R…",
-      "url": "https://www.globenewswire.com/news-release/2025/09/09/3146711/0/en/Extrusion-Coating-Market-to-Reach-USD-8-67-Billion-by-2032-Fueled-by-Sustainable-Packaging-Demand-and-Technological-Advancements-SNS-Insider.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "publishedAt": "2025-09-09T10:30:00Z",
-      "content": "Pune, Sept. 09, 2025 (GLOBE NEWSWIRE) -- Extrusion Coating Market Size &amp; Growth Analysis\r\nAccording to SNS Insider, the global Extrusion Coating Market size was valued at USD 5.89 billion in 2024… [+9632 chars]"
     }
   ],
   "totalResults": 92,
