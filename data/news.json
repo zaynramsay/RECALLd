@@ -1,6 +1,149 @@
 {
-  "lastUpdated": "2025-09-16T12:49:38.969Z",
+  "lastUpdated": "2025-09-16T18:33:08.828Z",
   "articles": [
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "News.com.au",
+      "title": "Friend slammed by groom’s family for ‘selfish’ act on the wedding day",
+      "description": "A wedding guest has been criticized by the groom’s mother after she was caught eating food she brought herself to the wedding.",
+      "url": "https://www.news.com.au/lifestyle/relationships/marriage/friend-slammed-for-selfish-wedding-day-move/news-story/e90f5d1ea7fd4df8eae485aa3cbe82d4",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/wedding-guest-food-comp.jpg?quality=75&strip=all&1757939137&w=1024",
+      "publishedAt": "2025-09-15T17:36:12Z",
+      "content": "A wedding guest has been criticized by the grooms mother after she was caught eating food she brought herself to the wedding.\r\nSharing her story on Reddit, she explained she was at her university fri… [+3359 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Recycled Plastics Market Size to Surge USD 183.80 Billion by 2034",
+      "description": "According to Towards Chemical and Materials, the global recycled plastics market size was reached at USD 90.05 billion in 2025 and is expected to surge around USD 183.80 billion by 2034, growing at a CAGR of 8.25% from 2025 to 2034. According to Towards Chemi…",
+      "url": "https://www.globenewswire.com/news-release/2025/09/15/3150182/0/en/Recycled-Plastics-Market-Size-to-Surge-USD-183-80-Billion-by-2034.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-09-15T15:11:00Z",
+      "content": "Ottawa, Sept. 15, 2025 (GLOBE NEWSWIRE) -- The global recycled plastics market size\r\n was valued at USD 83.19 billion in 2024 and is expected to hit around USD 183.80 billion by 2034, growing at a co… [+23232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Francesca Giangiulio",
+      "title": "Tailgate foods that hold up on game day",
+      "description": "From bean salad to walking tacos, these dishes stay tasty all day long. No coagulated dips or cold burgers here",
+      "url": "https://www.salon.com/2025/09/15/tailgate-foods-that-hold-up-on-game-day/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/09/Tailgate-531267129.jpg",
+      "publishedAt": "2025-09-15T15:05:10Z",
+      "content": "Its the most wonderful time of the year! And yes, I do mean football season.\r\nWhether youre watching college, pro or your nephews pee-wee games, weekends for the next few months are completely blocke… [+7808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Backpackinglight.com"
+      },
+      "author": "Backpacking Light",
+      "title": "Episode 133 | Human Waste Management",
+      "description": "In episode 133 of the Backpacking Light podcast, we challenge traditional cathole practices, advocating for pack-out systems in alpine, desert, and high-use areas based on science and LNT ethics.\nThe post Episode 133 | Human Waste Management appeared first on…",
+      "url": "https://backpackinglight.com/podcast-episode-133-human-waste-management/",
+      "urlToImage": null,
+      "publishedAt": "2025-09-15T14:35:22Z",
+      "content": "Episode Summary\r\nIn this episode, Ryan Jordan examines why traditional cathole practices often fail in alpine, desert, and high-use environments. Drawing on scientific research, policy gaps, and evol… [+5710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Carolina Henao-Rodríguez, Jenny-Paola Lis-Gutiérrez",
+      "title": "Water injustice in Colombia: Perceptions and realities of water quality examined through advanced machine learning",
+      "description": "Access to safe drinking water is essential for public health. In Colombia, Resolution 2115 of 2007 mandates the use of the Water Quality Risk Index for Human Consumption (IRCA) to classify risk levels. However, a significant gap exists between objective IRCA …",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332274",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332274.t006&size=inline",
+      "publishedAt": "2025-09-15T14:00:00Z",
+      "content": "4.2.1. Logistic regression with LASSO regularization.\r\nFor the LASSO-regularized logistic regression model, a dependent variable called perception of water contamination was constructed as a binary v… [+9473 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Tirth Uprety, Chithra C. Sreenivasan, Jieshi Yu, Miaoyun Zhao, Runxia Liu, Hai Yu, Ahsan Naveed, Lianne G. Eertink, Shalini Soni, Rebecca E. Ruby, Xi Chen, Radhey S. Kaushik, Zizhang Sheng, Qingsheng Li, Dan Wang, Feng Li",
+      "title": "Differential tissue tropism and transmission efficiency of two dominant influenza D clades with overlapping but distinct receptor binding fine specificities in ferrets",
+      "description": "Author summary Although no human infection is reported, genome fragments of bovine influenza D virus and its antibodies were detected in humans. To evaluate the zoonotic potential of IDV and to gain a deeper understanding of the in vivo function of the viral …",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013493",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013493.g011&size=inline",
+      "publishedAt": "2025-09-15T14:00:00Z",
+      "content": "Introduction\r\nIn 2011, a novel influenza virus was isolated from a diseased piglet exhibiting influenza like symptoms [1]. Further genetic and antigenic characterization led to its classification as … [+77291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "S. Navalan",
+      "title": "Asean News Headlines at 10pm on Monday (Sept 15, 2025)",
+      "description": "Here's a look at the news highlights from Asean countries in the Star-AseanPlus section for Monday (Sept 15, 2025). Read full story",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/15/asean-news-headlines-at-10pm-on-monday-sept-15-2025",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/15/3522747.jpg",
+      "publishedAt": "2025-09-15T13:55:00Z",
+      "content": "Malaysia:\r\n* Malaysia welcomes delegates to Global Halal Summit 2025\r\n* RM10mil aid approved for Sabah flood victims, says PM\r\n* Hadi Awang's son-in-law detained over Kg Sg Baru fracas\r\n* I'm too old… [+8442 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MEGAN JANETSKY Associated Press, TERESA DE MIGUEL Associated Press",
+      "title": "Illegal gold mining fueling 'mercury boom' in Mexico, poisoning people, environment",
+      "description": "The soaring price of gold is fueling a \"mercury boom\" in central Mexico",
+      "url": "https://abcnews.go.com/International/wireStory/illegal-gold-mining-fueling-mercury-boom-mexico-poisoning-125583356",
+      "urlToImage": "https://i.abcnewsfe.com/a/9a372cef-7b9d-4d64-b2fa-f15884d24346/wirestory_ea7cf266304d06576eebfbd1901982fe_16x9.jpg?w=1600",
+      "publishedAt": "2025-09-15T13:39:45Z",
+      "content": "SAN JOAQUIN, Mexico -- A drill echoes through narrow tunnels deep within the mountain where miner Hugo Flores bores into rock in search of one of Earths most toxic elements.\r\nBuried in red stripes of… [+10426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Precedence Research",
+      "title": "Edible Oil Market Size Worth USD 361 Billion by 2034, Driven by Health Trends and Growing Demand Across Diverse Industries",
+      "description": "According to Towards FnB, the global edible oil market size is calculated USD 222.96 billion in 2025 and is projected to exceed over USD 361 billion by 2034, expanding at a CAGR of 5.5% during the forecast period from 2025 to 2034. Key drivers include the gro…",
+      "url": "https://www.globenewswire.com/news-release/2025/09/15/3150081/0/en/Edible-Oil-Market-Size-Worth-USD-361-Billion-by-2034-Driven-by-Health-Trends-and-Growing-Demand-Across-Diverse-Industries.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "publishedAt": "2025-09-15T13:30:00Z",
+      "content": "Ottawa, Sept. 15, 2025 (GLOBE NEWSWIRE) -- The global edible oil market size stood at USD 211.34 billion in 2024 and is anticipated to increase from USD 222.96 billion in 2025 to around USD 361 billi… [+19872 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Megan Janetsky",
+      "title": "Illegal gold mining in the Amazon is fueling a 'mercury boom' in central Mexico",
+      "description": "The soaring price of gold is fueling a \"mercury boom\" in central Mexico. A surge in the demand for the toxic metal, which is key in illegal gold mining, is benefiting Mexican miners but also exposing them and the environment to mercury poisoning. Despite glob…",
+      "url": "https://apnews.com/article/mexico-mercury-mines-illegal-gold-mining-ea7cf266304d06576eebfbd1901982fe",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7f6c16b/2147483647/strip/true/crop/5443x3062+0+284/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F62%2F674d6b703ca7b036aceaef291095%2F0c8265941d854eb0b215587cd607022e",
+      "publishedAt": "2025-09-15T13:24:40Z",
+      "content": "SAN JOAQUIN, Mexico (AP) A drill echoes through narrow tunnels deep within the mountain where miner Hugo Flores bores into rock in search of one of Earths most toxic elements.\r\nBuried in red stripes … [+13728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "MEGAN JANETSKY and TERESA DE MIGUEL",
+      "title": "Illegal gold mining is fueling a 'mercury boom' in Mexico, poisoning people and the environment",
+      "description": "Here in the pine-covered mountains known as the Sierra Gorda – one of the most biodiverse stretches of Mexico – a “mercury boom” is underway.  While the...",
+      "url": "https://www.yahoo.com/news/articles/illegal-gold-mining-fueling-mercury-130535584.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2RE2Cun.ipPbPZmRF3nfhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/1623ed831bd962b6a1ba4000f1077b93",
+      "publishedAt": "2025-09-15T13:05:35Z",
+      "content": "SAN JOAQUIN, Mexico (AP) A drill echoes through narrow tunnels deep within the mountain where miner Hugo Flores bores into rock in search of one of Earths most toxic elements.\r\nBuried in red stripes … [+10533 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -428,7 +571,7 @@
       "url": "https://www.newsweek.com/hersheys-ice-cream-recall-update-consumer-risk-warning-issued-2128871",
       "urlToImage": "https://d.newsweek.com/en/full/2721245/hersheys.jpg",
       "publishedAt": "2025-09-12T13:13:39Z",
-      "content": "Hershey's voluntarily recalled a small number of one of its ice cream varieties recently, with the U.S. Food and Drug Administration (FDA) now classifying the recall as a Class II risk.\r\nThe recalled�� [+3449 chars]"
+      "content": "Hershey's voluntarily recalled a small number of one of its ice cream varieties recently, with the U.S. Food and Drug Administration (FDA) now classifying the recall as a Class II risk.\r\nThe recalled… [+3449 chars]"
     },
     {
       "source": {
@@ -1040,164 +1183,8 @@
       "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/romaine-lettuce-e-coli-outbreaks-fb.jpg",
       "publishedAt": "2025-09-10T00:00:00Z",
       "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Common Dreams"
-      },
-      "author": "Newswire Editor",
-      "title": "MAHA Report Capitulates to Big Ag, PFAS Polluters",
-      "description": "This afternoon the White House’s “Make America Healthy Again” (MAHA) Commission released its strategy report outlining the Trump administration’s priorities for policies to overhaul the food system and address chronic disease.In keeping with White House promi…",
-      "url": "https://www.commondreams.org/newswire/maha-report-capitulates-to-big-ag-pfas-polluters",
-      "urlToImage": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjEwMDM4OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgxMjIyMDI1N30.ErOfRE5hvYF7nWXKN4iUp2dOTKR2-o5weET2FxMgj9A/image.png?width=210",
-      "publishedAt": "2025-09-09T19:01:03Z",
-      "content": "Amazon claims these workers are not employees, but \"contractors,\" and that firing them does not constitute illegal union busting.\r\nThe union, however, described this as \"a phony shell game,\" saying t… [+4076 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Midtown Farm Boy forced to close after failing Toronto's DineSafe inspection",
-      "description": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.",
-      "url": "https://www.cbc.ca/news/canada/toronto/farm-boy-closed-after-food-safety-inspection-1.7629248",
-      "urlToImage": "https://i.cbc.ca/1.7629253.1757442271!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/yonge-and-eglinton-farm-boy.jpeg?im=Resize%3D620",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The Farm Boy location near Yonge Street and Eglinton Avenue has closed temporarily after failing an inspection conducted through the city's DineSafe program.\r\nThe inspection found two \"crucial\" and o… [+1083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Drew Weisholtz",
-      "title": "Cheese Recalled in Multiple States Due to Listeria Concerns",
-      "description": "The FDA has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese due to potential listeria contamination.",
-      "url": "https://www.today.com/health/recall/cheese-recalled-listeria-middlefield-rcna230142",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/cheese-recall-2-te-250909-c7f187.jpg",
-      "publishedAt": "2025-09-09T18:44:00Z",
-      "content": "The United States Food and Drug Administration has announced that Middlefield Original Cheese Co-op has recalled multiple brands of its cheese from its facility in Middlefield, Ohio, due to potential… [+3579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Takeout"
-      },
-      "author": "Holly Riddle",
-      "title": "14 Ham Recalls That Affected Millions",
-      "description": "Ham is one of our favorite products to stock up on, but everything from foodborne pathogens to skipped safety measures have landed it in some major recalls.",
-      "url": "https://www.thetakeout.com/1959412/ham-recalls-affected-millions/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IM83lVvlUoWrpLVQ5F6Xlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM7Y2Y9d2VicA--/https://media.zenfs.com/en/the_takeout_667/af56875541b2219f848ff70305d8032f",
-      "publishedAt": "2025-09-09T18:40:00Z",
-      "content": "A lot of ham comes ready to eat. Think jamón ibérico or prosciutto, which you can snack on as soon as you open the packaging, no need to break out a skillet. Even your holiday ham, which you probably… [+16967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "author": "Jon Stojan",
-      "title": "10 AI tools every entrepreneur needs to know",
-      "description": "Snov.io has built its reputation as a powerful all-in-one sales automation platform, serving over 3 million users worldwide. Its newest feature, the AI Buyer Persona Generator, is designed to solve one of the biggest challenges facing entrepreneurs today: fin…",
-      "url": "https://www.digitaljournal.com/business/10-ai-tools-every-entrepreneur-needs-to-know/article",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/09/TechTO-1-21.png",
-      "publishedAt": "2025-09-09T18:19:17Z",
-      "content": "Photo by Growtika on Unsplash\r\nOpinions expressed by Digital Journal contributors are their own.\r\nSnov.io has built its reputation as a powerful all-in-one sales automation platform, serving over 3 m… [+12073 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Institute of Science Tokyo",
-      "title": "Flow-powered pollution sensor detects toxic amines in water",
-      "description": "With pollution levels rising, the need to quickly check water quality has become more urgent than ever. Traditional monitoring systems often rely on expensive bulky equipment with operational difficulty, making them impractical in remote areas or in places wi…",
-      "url": "https://phys.org/news/2025-09-powered-pollution-sensor-toxic-amines.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/flow-powered-pollution.jpg",
-      "publishedAt": "2025-09-09T17:26:03Z",
-      "content": "With pollution levels rising, the need to quickly check water quality has become more urgent than ever. Traditional monitoring systems often rely on expensive bulky equipment with operational difficu… [+4888 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Riyan Ramanath V",
-      "title": "Bhubaneswar Municipal Corporation dumps 100kg stale food in a week, imposes Rs 15k fine",
-      "description": "The Bhubaneswar Municipal Corporation (BMC) has intensified its efforts to combat the sale of stale food, particularly during the monsoon season, to prevent diseases. BMC's food safety wing has discarded 100 kg of stale food, imposed fines of Rs 15,000 on est…",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/bhubaneswar-municipal-corporation-dumps-100kg-stale-food-in-a-week-imposes-rs-15k-fine/articleshow/123791491.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-123791491,width-1070,height-580,imgsize-89498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-09-09T17:25:48Z",
-      "content": "The Ba***ds of Bollywood: Shah Rukh Khan, Salman, Aamir, Ranveer and more in cameo"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Saroash Shahid",
-      "title": "The hidden plastic problem in your daily dental routine, and what's being done about it",
-      "description": "You brush twice daily, floss religiously and see your dentist every six months. But what if these acts of oral hygiene are quietly contributing to one of the planet's most pressing environmental crises?",
-      "url": "https://phys.org/news/2025-09-hidden-plastic-problem-daily-dental.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/flossing.jpg",
-      "publishedAt": "2025-09-09T17:09:04Z",
-      "content": "You brush twice daily, floss religiously and see your dentist every six months. But what if these acts of oral hygiene are quietly contributing to one of the planet's most pressing environmental cris… [+5809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Hive"
-      },
-      "author": "Isabelle Docto",
-      "title": "Ottawa has found dozens of instances of imported groceries being mislabelled as Canadian",
-      "description": "The Canadian Food Inspection Agency (CFIA) found dozens of cases in which major grocers were mislabeling imported items as Canadian-made, amid tensions caused by U.S.-Canada tariffs.The CFIA said in an email that it saw an increase in complaints \"related to c…",
-      "url": "https://dailyhive.com/canada/canada-grocers-mislabelling-tariffs",
-      "urlToImage": "https://images.blogto.com/articles/20250909-made-in-canada.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "publishedAt": "2025-09-09T14:56:58Z",
-      "content": "The Canadian Food Inspection Agency (CFIA) found dozens of cases in which major grocers were mislabeling imported items as Canadian-made, amid tensions caused by U.S.-Canada tariffs.\r\nThe CFIA said i… [+2302 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Daniel Orton",
-      "title": "Walmart Recall Update: Risk of Deadly Sepsis from Product Sold in 14 States",
-      "description": "Multiple Sam's Club stores across the country sold DermaRite skincare and hygiene products that are part of a nationwide recall.",
-      "url": "https://www.newsweek.com/walmart-recall-update-sepsis-risk-sams-club-dermarite-products-nationwide-2126929",
-      "urlToImage": "https://d.newsweek.com/en/full/2718806/walmart-store.jpg",
-      "publishedAt": "2025-09-09T14:48:39Z",
-      "content": "DermaRite Industries has expanded a voluntary nationwide recall of multiple products after potential contamination with Burkholderia cepacia complex, and Walmart says some of the recalled items were … [+6512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Lamrot Yohannes, Tsegaye Adane Birhan, Mastewal Endalew, Jember Azanaw, Fasika Weldegebrel",
-      "title": "Microbial quality assessment of Niger seed (Guizotia abyssinica (Linnaeus f.) Cassini) oil in Gondar city: A laboratory-based cross-sectional study",
-      "description": "Foodborne diseases pose a significant public health challenge worldwide. The increasing availability of edible oils in the market, combined with Ethiopia’s lack of stringent quality control and regulatory oversight, raises concerns about their safety. This in…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331546",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331546.g001&size=inline",
-      "publishedAt": "2025-09-09T14:00:00Z",
-      "content": "Enumerative value of microbes in the oil\r\nIn the current study, the highest enumeration value on MSA was 9.7×104 cfu/ml, while the highest fecal and total coliform counts were 4 cfu/ml and 1,350 cfu/… [+11909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Jonathan Rigby, Catherine N. Wilson, Allan Zuza, Yohane Diness, Charity Mkwanda, Katalina Tonthola, Oscar Kanjerwa, Chifundo Salifu, Oliver Pearse, Chisomo Msefula, Blanca M. Perez-Sepulveda, Jay C.D. Hinton, Satheesh Nair, Nicola Elviss, Mathew A. Beale, Patrick Musicha, Nicholas A. Feasey",
-      "title": "Diversity of Salmonella enterica isolates from urban river and sewage water in Blantyre, Malawi",
-      "description": "Author summary Salmonella enterica is a diverse, complex species, with serovars associated with human, animal and environmental health, including invasive disease. This study sequenced isolates of non-typhoidal Salmonella (NTS) that had been cultured from riv…",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012413",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012413.g003&size=inline",
-      "publishedAt": "2025-09-09T14:00:00Z",
-      "content": "Abstract\r\nBackground\r\nSalmonella enterica encompasses over 2,600 serovars, including several commonly associated with severe infection in humans. Salmonella is a major cause of sepsis in Africa; howe… [+56124 chars]"
     }
   ],
-  "totalResults": 92,
+  "totalResults": 91,
   "filteredCount": 0
 }
