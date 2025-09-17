@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-16T18:33:08.828Z",
+  "lastUpdated": "2025-09-17T01:47:16.316Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "Hayati",
+      "title": "Indonesia seals factory over radioactive contamination allegations",
+      "description": "JAKARTA, Sept. 15 (Xinhua) -- The Indonesian government has sealed PT Peter Metal Technology (PMT)'s factory in Cikande industrial area in Banten province, after it was suspected as the source of Cesium-137 (Cs-137) exposure linked to frozen shrimp exports fr…",
+      "url": "https://www.thestar.com.my/news/world/2025/09/16/indonesia-seals-factory-over-radioactive-contamination-allegations",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-09-15T20:27:00Z",
+      "content": "JAKARTA, Sept. 15 (Xinhua) -- The Indonesian government has sealed PT Peter Metal Technology (PMT)'s factory in Cikande industrial area in Banten province, after it was suspected as the source of Ces… [+1088 chars]"
+    },
     {
       "source": {
         "id": "news-com-au",
@@ -1170,19 +1183,6 @@
       "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/104/627/603/NWlVkgmbMQEDV37d6ZyAqEwDo/73e9c024ccb763ed2bd8396ea4dac076b72e2125.png",
       "publishedAt": "2025-09-10T01:30:07Z",
       "content": "Shaikh Al Kar brand plain halva is being recalled in Canada because government testing showed Salmonella contamination.\r\nThe recalling firm is Nabil Boutamina dba as Mediterranean Halal Meats, accord… [+1707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Scientists Identify Key Factors Behind E. Coli Outbreaks in Romaine Lettuce",
-      "description": "Most strains of Escherichia coli live quietly in the human gut and pose no threat to health, but a handful are capable of causing life-threatening illness. Among them, E. coli O157:H7 is the most notorious, known for triggering severe gastrointestinal distres…",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/10/romaine-lettuce-e-coli-outbreaks.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/romaine-lettuce-e-coli-outbreaks-fb.jpg",
-      "publishedAt": "2025-09-10T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
   "totalResults": 91,
