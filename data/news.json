@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2025-09-17T01:47:16.316Z",
+  "lastUpdated": "2025-09-17T06:35:04.519Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "The invisible invader: How microplastics infiltrate your arteries and endanger your health",
+      "description": "The study found microplastics embedded in human arterial plaque, with levels 51 times higher in patients who had experienced strokes or heart attacks, suggesting they are a direct contributor to these vascular events. This discovery is part of a larger body o…",
+      "url": "https://www.naturalnews.com/2025-09-16-how-microplastics-infiltrate-arteries-and-endanger-health.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/microplastics-1.jpeg",
+      "publishedAt": "2025-09-16T06:00:00Z",
+      "content": "<ul><li>The study found microplastics embedded in human arterial plaque, with levels 51 times higher in patients who had experienced strokes or heart attacks, suggesting they are a direct contributor… [+5835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "S.D. Wells",
+      "title": "DEADLY CHEMICALS that last forever in the environment and the human body now discovered in NEARLY ALL BEER in USA",
+      "description": "If you thought having a couple beers when you get home from work or at the cookout was pretty harmless, think again. Per- and polyfluoroalkyl substances (PFAS), often called “forever chemicals” because of their resistance to natural breakdown, have been detec…",
+      "url": "https://www.naturalnews.com/2025-09-16-deadly-chemicals-that-last-forever-in-the-environment-and-human-body-discovered-in-beer.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Beer-Alcohol-Woman.jpg",
+      "publishedAt": "2025-09-16T06:00:00Z",
+      "content": "If you thought having a couple beers when you get home from work or at the cookout was pretty harmless, think again.\r\nPer- and polyfluoroalkyl substances (PFAS), often called forever chemicals becaus… [+4617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Patrick Lewis",
+      "title": "Outbreak of rare SALMONELLA in the U.K. and Europe linked to Sicilian cherry tomatoes, over 200 people infected",
+      "description": "A rare Salmonella strain (Strathcona ST2559) has infected nearly 300 people across Europe and the U.K. since early 2024, raising serious public health concerns. From January 2023 to November 2024, health authorities confirmed 232 cases across 16 EU/EEA nation…",
+      "url": "https://www.naturalnews.com/2025-09-16-salmonella-outbreak-sicilian-cherry-tomatoes-uk-europe.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Tomatoes-Vine-Bunch.jpg",
+      "publishedAt": "2025-09-16T06:00:00Z",
+      "content": "<ul><li>A rare Salmonella strain (Strathcona ST2559) has infected nearly 300 people across Europe and the U.K. since early 2024, raising serious public health concerns.</li><li>From January 2023 to N… [+6605 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "12 sickened in B.C. by salmonella in outbreak linked to dog food and treats",
+      "description": "A total of 27 people have lab-confirmed salmonella illness linked to dog food and treats, the Public Health Agency of Canada (PHAC) says.",
+      "url": "https://www.cbc.ca/news/health/salmonella-dog-food-outbreak-1.7634745",
+      "urlToImage": "https://i.cbc.ca/1.7635270.1758043777!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-huge-file.jpg?im=Resize%3D620",
+      "publishedAt": "2025-09-16T03:16:31Z",
+      "content": "A total of 27 people have lab-confirmed salmonella illness linked to dog food and treats, the Public Health Agency of Canada (PHAC) says.\r\nThe illnesses\r\n span the country, with 13 cases in Alberta, … [+4208 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1144,47 +1196,8 @@
       "urlToImage": "https://static.the-independent.com/2025/09/09/18/12/iStock-1434778198.jpeg?trim=0,350,0,12&width=1200&height=800&crop=1200:800",
       "publishedAt": "2025-09-10T05:44:40Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3864 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Alice Gibbs",
-      "title": "Americans Are Unknowingly Buying Critically Endangered Shark Meat",
-      "description": "Some shark species, researchers warned, contain high levels of the toxins arsenic, mercury and methylmercury.",
-      "url": "https://www.newsweek.com/shark-meat-critically-endangered-us-stores-toxins-mercury-2126894",
-      "urlToImage": "https://d.newsweek.com/en/full/2718737/shark-meat.png",
-      "publishedAt": "2025-09-10T04:00:01Z",
-      "content": "Food products containing shark are being sold in grocery stores, seafood markets and online across the United States—and in some cases, they come from species at risk of extinction.\r\nThis is the warn… [+3641 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "University of North Carolina at Chapel Hill",
-      "title": "Study finds critically endangered sharks being sold as food in U.S. grocery stores",
-      "description": "A new study from the University of North Carolina at Chapel Hill has uncovered that shark meat sold in U.S. grocery stores, seafood markets, and online vendors often comes from endangered species and is frequently mislabeled. Researchers purchased and DNA bar…",
-      "url": "https://phys.org/news/2025-09-critically-endangered-sharks-sold-food.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/study-finds-critically.jpg",
-      "publishedAt": "2025-09-10T04:00:01Z",
-      "content": "A new study from the University of North Carolina at Chapel Hill has uncovered that shark meat sold in U.S. grocery stores, seafood markets, and online vendors often comes from endangered species and… [+3170 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food Safety News"
-      },
-      "author": "News Desk",
-      "title": "Halva recalled because of Salmonella",
-      "description": "Shaikh Al Kar brand plain halva is being recalled in Canada because government testing showed Salmonella contamination. The recalling firm is Nabil Boutamina dba as Mediterranean Halal Meats, according to the recall notice from the Canadian Food Inspection Ag…",
-      "url": "https://www.foodsafetynews.com/2025/09/halva-recalled-because-of-salmonella/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/104/627/603/NWlVkgmbMQEDV37d6ZyAqEwDo/73e9c024ccb763ed2bd8396ea4dac076b72e2125.png",
-      "publishedAt": "2025-09-10T01:30:07Z",
-      "content": "Shaikh Al Kar brand plain halva is being recalled in Canada because government testing showed Salmonella contamination.\r\nThe recalling firm is Nabil Boutamina dba as Mediterranean Halal Meats, accord… [+1707 chars]"
     }
   ],
-  "totalResults": 91,
+  "totalResults": 92,
   "filteredCount": 0
 }
