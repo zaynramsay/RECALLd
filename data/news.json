@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-18T01:47:25.346Z",
+  "lastUpdated": "2025-09-18T06:34:37.407Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "The invisible threat: “Forever chemicals” are quietly fueling a diabetes crisis",
+      "description": "Groundbreaking research from the Icahn School of Medicine at Mount Sinai provides strong evidence that these “forever chemicals,” found in nearly all Americans, are a direct contributor to the national diabetes epidemic, challenging the notion that the diseas…",
+      "url": "https://www.naturalnews.com/2025-09-17-how-forever-chemicals-are-quietly-fueling-diabetes-crisis.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Diabetes-Highlighted.jpg",
+      "publishedAt": "2025-09-17T06:00:00Z",
+      "content": "<ul><li>Groundbreaking research from the Icahn School of Medicine at Mount Sinai provides strong evidence that these \"forever chemicals,\" found in nearly all Americans, are a direct contributor to th… [+7631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Fin Ocheduszko Brown",
+      "title": "Pātea residents advised to boil water while new treatment unit installed",
+      "description": "The current supply does not meet the new drinking water quality assurance rules.",
+      "url": "https://www.nzherald.co.nz/whanganui-chronicle/news/patea-residents-advised-to-boil-water-while-new-treatment-unit-installed/ZVRV6PIAQJG2JB4PP34YKSDOMY/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/CZT7BNGGUVERPHBE47UXBX754M.JPG?auth=72a6bb212ce385ce2d3c5c8dd76c58315c4f58fb54baf6625b764edae8f6ff7c&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-09-17T04:14:48Z",
+      "content": "The current ineffective disinfection treatment supply carries a potential risk of micro biological contamination.\r\nDaily tests had detected no E. coli in the water network to date but, by boiling wat… [+1659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Steven Grattan",
+      "title": "Endangered pink river dolphins face a rising mercury threat in the Amazon",
+      "description": "Scientists in Colombia’s Amazon are capturing and testing endangered pink river dolphins to monitor mercury contamination from illegal gold mining and deforestation",
+      "url": "https://www.wsbtv.com/news/endangered-pink/4NEMCSS5EBCWVDDX4USOBRDWLI/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FVJ5BDFWDUNAESGU53VP6SFKWYM.jpg?auth=3e9264befd6e5238a299b5b3118a6ba2b4b73f83e9a24cfc02833c32bae4b36d&width=1200&height=630&smart=true",
+      "publishedAt": "2025-09-17T02:15:17Z",
+      "content": "PUERTO NARINO, Colombia — (AP) A flash of pink breaks the muddy surface of the Amazon River as scientists and veterinarians, waist-deep in the warm current, patiently work a mesh net around a pod of … [+7547 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,45 +1209,6 @@
       "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/09/11/WhatsApp-Image-2025-09-11-at-15.45.56.jpeg",
       "publishedAt": "2025-09-11T11:52:39Z",
       "content": "Jakarta (ANTARA) - The Indonesian government confirmed it has sealed and contained a radioactive Cesium-137 contamination site at the Cikande Modern Industrial Estate, Serang District, Banten Provinc… [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Amber Raiken",
-      "title": "Over 22,000 juice pouches part of elevated recall over potentially harmful bacteria contamination",
-      "description": "The recall has been declared a Class II by the FDA",
-      "url": "https://www.the-independent.com/life-style/juice-recall-evergreen-orchard-farm-fda-b2824429.html",
-      "urlToImage": "https://static.the-independent.com/2025/09/10/20/24/iStock-1472582604.jpeg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-09-11T07:13:14Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3857 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Skepticalscience.com"
-      },
-      "author": null,
-      "title": "Skeptical Science New Research for Week #37 2025",
-      "description": "Open access notables\n\nWild, scenic, and toxic: Recent degradation of an iconic Arctic watershed with permafrost thaw, Sullivan et al., Proceedings of the National Academy of Science\n\nThe streams of Alaska’s Brooks Range lie within a vast (~14M ha) tract of pr…",
-      "url": "https://skepticalscience.com/new_research_2025_37.html",
-      "urlToImage": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
-      "publishedAt": "2025-09-11T06:23:19Z",
-      "content": "Posted on 11 September 2025 by Doug Bostrom, Marc Kodack\r\nOpen access notables\r\nWild, scenic, and toxic: Recent degradation of an iconic Arctic watershed with permafrost thaw, Sullivan et al., Procee… [+36184 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Arlene Harris",
-      "title": "Food allergies: ‘Restaurants and society in general think it’s a fad... when it could cost someone their life’",
-      "description": "Symptoms of mild food allergies are not pleasant, but for those with anaphylaxis, the stakes are a whole lot higher",
-      "url": "https://www.irishtimes.com/health/your-wellness/2025/09/11/food-allergies-restaurants-and-society-in-general-think-its-a-fad-when-actually-it-could-cost-someone-their-life/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/ZMWDCJXCIBGLJIUWDZ6EWCVYGA.jpg?smart=true&auth=50da58e3e4832c8ab8aa0274d10ea428048de211b05b234beb6886a8369371d8&width=1200&height=630",
-      "publishedAt": "2025-09-11T05:01:00Z",
-      "content": "Approximately 134,000 people in Ireland have a food allergy ranging from mild symptoms to, for a small number, life-threatening anaphylaxis.\r\n Symptoms of mild allergies are not pleasant, and people … [+11572 chars]"
     }
   ],
   "totalResults": 93,
