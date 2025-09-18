@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-18T06:34:37.407Z",
+  "lastUpdated": "2025-09-18T12:48:45.037Z",
   "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Mike Darnay",
+      "title": "Noodlehead in Shadyside hit with health department consumer alert for second time in one month",
+      "description": "Multiple complaints were filed from people who said they got sick after eating at the restaurant earlier this month.",
+      "url": "https://www.cbsnews.com/pittsburgh/news/noodlehead-shadyside-allegheny-county-health-department-consumer-alert/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/17/f648bac9-72e5-42e2-91f1-fac20695c105/thumbnail/1200x630/27cccf5a51505c19f2d1a8565134108c/b3e6b673-6c6b-4e5b-96a6-3aef543bb689.png",
+      "publishedAt": "2025-09-17T10:00:36Z",
+      "content": "Noodlehead, a Thai-inspired restaurant in Pittsburgh's Shadyside neighborhood has been hit with another consumer alert from the Allegheny County Health Department.\r\nIt's the second time a consumer al… [+1304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Press & Sun-Bulletin"
+      },
+      "author": "USA TODAY Network",
+      "title": "Two Broome County eateries have flawless health inspections; one marked with critical violations in July",
+      "description": "Here's a look at the results of restaurant inspections conducted in Broome County last month.",
+      "url": "https://www.pressconnects.com/story/news/local/2025/09/17/monthly-restaurant-inspections/86172092007/",
+      "urlToImage": "https://media.zenfs.com/en/press-connects-press-sun-bulletin/75b6bab5b5cbc8c969c976692cc08391",
+      "publishedAt": "2025-09-17T09:02:21Z",
+      "content": "Out of 11 health inspections conducted in Broome County last month, one had critical violations, two had no violations, and nine had unfixed violations remaining from previous inspections, according … [+6384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "National Observer"
+      },
+      "author": "Natasha Bulowski",
+      "title": "Federal freshwater agency stares down budget cuts",
+      "description": "A federal agency tasked with protecting Canada's freshwater resource is at risk of budget cuts, much to the dismay of water experts and some opposition MPs.",
+      "url": "https://www.nationalobserver.com/2025/09/12/news/federal-freshwater-agency-budget-cuts",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/09/12/51262825007_ff60a7988a_k.jpg",
+      "publishedAt": "2025-09-17T08:55:12Z",
+      "content": "A brand new agency tasked with protecting Canadas freshwater is likely on the chopping block as part of an array of budget cuts promised by Prime Minister Mark Carney that span most departments and a… [+9165 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -13,6 +52,19 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Diabetes-Highlighted.jpg",
       "publishedAt": "2025-09-17T06:00:00Z",
       "content": "<ul><li>Groundbreaking research from the Icahn School of Medicine at Mount Sinai provides strong evidence that these \"forever chemicals,\" found in nearly all Americans, are a direct contributor to th… [+7631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "Study finds widespread PFAS contamination in beer",
+      "description": "A new study found that 95 percent of beers tested in the U.S. contain detectable levels of per- and polyfluoroalkyl substances (PFAS), also known as “forever chemicals.” The primary pathway for contamination is the water used in brewing. The research establis…",
+      "url": "https://www.naturalnews.com/2025-09-17-study-finds-widespread-pfas-contamination-in-beer.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Row-Of-Beer-Tasters-Lined-Up-In-A-Brewpub.jpg",
+      "publishedAt": "2025-09-17T06:00:00Z",
+      "content": "<ul><li>A new study found that 95 percent of beers tested in the U.S. contain detectable levels of per- and polyfluoroalkyl substances (PFAS), also known as \"forever chemicals.\"</li><li>The primary p… [+7573 chars]"
     },
     {
       "source": {
@@ -1170,47 +1222,8 @@
       "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013048.g005&size=inline",
       "publishedAt": "2025-09-11T14:00:00Z",
       "content": "Abstract\r\nBackground\r\nSalmonella enterica serovar Paratyphi A (S. Paratyphi A) has emerged as a significant global health concern due to the progressive development of antimicrobial resistance and it… [+46388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Mutairah S. Alshammari, Amro H. Mohamed, Samah A. Mohamed, Hussein M. Ahmed",
-      "title": "An innovative synthesis approach for Na A. Zeolite: A new pathway for enhanced performance, wastewater treatment, and antibacterial applications",
-      "description": "Wastewater treatment is essential for protecting water resources and public health. Zeolite-based adsorbents offer an effective and sustainable solution for this purpose, providing high selectivity and regeneration potential. Zeolites are inorganic, highly cr…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332132",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332132.g019&size=inline",
-      "publishedAt": "2025-09-11T14:00:00Z",
-      "content": "Abstract\r\nWastewater treatment is essential for protecting water resources and public health. Zeolite-based adsorbents offer an effective and sustainable solution for this purpose, providing high sel… [+52156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Meat Products Market Size Worth USD 2,713.43 Billion by 2034 | Towards FnB",
-      "description": "According to Towards FnB, the global meat products market size is calculated USD 1,810.23 billion in 2025 and is forecasted to hit around USD 2,713.43 billion by 2034, expanding at a CAGR of 4.6% during the forecast period. Factors contributing to this growth…",
-      "url": "https://www.globenewswire.com/news-release/2025/09/11/3148638/0/en/Meat-Products-Market-Size-Worth-USD-2-713-43-Billion-by-2034-Towards-FnB.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-09-11T13:45:00Z",
-      "content": "Ottawa, Sept. 11, 2025 (GLOBE NEWSWIRE) -- The global meat products market size stood at USD 1,730.62 billion in 2024, increasing from USD 1,810.23 billion in 2025 to around USD 2,713.43 billion by 2… [+25250 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "author": "Arie Novarina",
-      "title": "Indonesian govt seals radioactive Cesium-137 site in Serang",
-      "description": "The Indonesian government confirmed it has sealed and contained a radioactive Cesium-137 contamination site at the Cikande Modern Industrial Estate, Serang ...",
-      "url": "https://en.antaranews.com/news/379353/indonesian-govt-seals-radioactive-cesium-137-site-in-serang",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/09/11/WhatsApp-Image-2025-09-11-at-15.45.56.jpeg",
-      "publishedAt": "2025-09-11T11:52:39Z",
-      "content": "Jakarta (ANTARA) - The Indonesian government confirmed it has sealed and contained a radioactive Cesium-137 contamination site at the Cikande Modern Industrial Estate, Serang District, Banten Provinc… [+1941 chars]"
     }
   ],
-  "totalResults": 93,
+  "totalResults": 94,
   "filteredCount": 0
 }
