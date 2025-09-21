@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-21T01:58:07.307Z",
+  "lastUpdated": "2025-09-21T06:32:54.403Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "The invisible poison: How pesticides in the sky are turning rain toxic",
+      "description": "A study confirmed that clouds contain numerous pesticides, with concentrations at times exceeding safety limits for drinking water, turning rain into a vector for contamination. Chemicals evaporate, travel vast distances in the atmosphere and fall back to ear…",
+      "url": "https://www.naturalnews.com/2025-09-20-how-pesticides-in-sky-turning-rain-toxic.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/09/Sky-Clouds-Mountain.jpg",
+      "publishedAt": "2025-09-20T06:00:00Z",
+      "content": "<ul><li>A study confirmed that clouds contain numerous pesticides, with concentrations at times exceeding safety limits for drinking water, turning rain into a vector for contamination.</li><li>Chemi… [+6157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbreak.com"
+      },
+      "author": "Amber Raiken",
+      "title": "Nationwide fish recall issued after health risk uncovered - NewsBreak",
+      "description": "A popular brand has issued a nationwide recall of two types of its fish over contamination concerns . Haifa Smoked Fish, based in New York, is recalling it",
+      "url": "https://www.newsbreak.com/share/4244271137184-nationwide-fish-recall-issued-after-health-risk-uncovered?s=a2&amp;share_destination_id=MjIzNTc5MDctMTc1ODM0MTM0MDI4NA%3D%3D&amp;pd=01VoJP8O&amp;hl=en_US&amp;send_time=1758341340&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.37.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-v3",
+      "urlToImage": "https://img.particlenews.com/img/id/24TZQh_14tctSmv00",
+      "publishedAt": "2025-09-20T04:09:33Z",
+      "content": "A popular brand has issued a nationwide recall of two types of its fish over contamination concerns. \r\nHaifa Smoked Fish, based in New York, is recalling its cold-smoked salmon and cold-smoked sea ba… [+2880 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -675,7 +701,7 @@
       "url": "https://www.cbsnews.com/pittsburgh/news/noodlehead-shadyside-allegheny-county-health-department-consumer-alert/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/17/f648bac9-72e5-42e2-91f1-fac20695c105/thumbnail/1200x630/27cccf5a51505c19f2d1a8565134108c/b3e6b673-6c6b-4e5b-96a6-3aef543bb689.png",
       "publishedAt": "2025-09-17T10:00:36Z",
-      "content": "Noodlehead, a Thai-inspired restaurant in Pittsburgh's Shadyside neighborhood has been hit with another consumer alert from the Allegheny County Health Department.\r\nIt's the second time a consumer al�� [+1304 chars]"
+      "content": "Noodlehead, a Thai-inspired restaurant in Pittsburgh's Shadyside neighborhood has been hit with another consumer alert from the Allegheny County Health Department.\r\nIt's the second time a consumer al… [+1304 chars]"
     },
     {
       "source": {
@@ -1144,32 +1170,6 @@
       "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332274.t006&size=inline",
       "publishedAt": "2025-09-15T14:00:00Z",
       "content": "4.2.1. Logistic regression with LASSO regularization.\r\nFor the LASSO-regularized logistic regression model, a dependent variable called perception of water contamination was constructed as a binary v… [+9473 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Tirth Uprety, Chithra C. Sreenivasan, Jieshi Yu, Miaoyun Zhao, Runxia Liu, Hai Yu, Ahsan Naveed, Lianne G. Eertink, Shalini Soni, Rebecca E. Ruby, Xi Chen, Radhey S. Kaushik, Zizhang Sheng, Qingsheng Li, Dan Wang, Feng Li",
-      "title": "Differential tissue tropism and transmission efficiency of two dominant influenza D clades with overlapping but distinct receptor binding fine specificities in ferrets",
-      "description": "Author summary Although no human infection is reported, genome fragments of bovine influenza D virus and its antibodies were detected in humans. To evaluate the zoonotic potential of IDV and to gain a deeper understanding of the in vivo function of the viral …",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013493",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013493.g011&size=inline",
-      "publishedAt": "2025-09-15T14:00:00Z",
-      "content": "Introduction\r\nIn 2011, a novel influenza virus was isolated from a diseased piglet exhibiting influenza like symptoms [1]. Further genetic and antigenic characterization led to its classification as … [+77291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "S. Navalan",
-      "title": "Asean News Headlines at 10pm on Monday (Sept 15, 2025)",
-      "description": "Here's a look at the news highlights from Asean countries in the Star-AseanPlus section for Monday (Sept 15, 2025). Read full story",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/15/asean-news-headlines-at-10pm-on-monday-sept-15-2025",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/15/3522747.jpg",
-      "publishedAt": "2025-09-15T13:55:00Z",
-      "content": "Malaysia:\r\n* Malaysia welcomes delegates to Global Halal Summit 2025\r\n* RM10mil aid approved for Sabah flood victims, says PM\r\n* Hadi Awang's son-in-law detained over Kg Sg Baru fracas\r\n* I'm too old… [+8442 chars]"
     }
   ],
   "totalResults": 90,
