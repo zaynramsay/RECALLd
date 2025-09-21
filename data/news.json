@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-20T18:28:43.685Z",
+  "lastUpdated": "2025-09-21T01:58:07.307Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "CDC Panel Votes to Nix Current Covid Vaccine Recommendations",
+      "description": "The ACIP is now recommending “individual decision-making” for people and their doctors over whether to get vaccinated for covid-19.",
+      "url": "https://gizmodo.com/cdc-panel-votes-to-nix-current-covid-vaccine-recommendations-2000661562",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/covid-vaccines-1200x675.jpg",
+      "publishedAt": "2025-09-19T21:05:48Z",
+      "content": "On Friday, the Advisory Committee on Immunization Practices (ACIP) voted to drop its recommendation that U.S. adults should generally receive the covid-19 vaccine, instead endorsing an individualized… [+3425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Corin Cesaric",
+      "title": "Eggs Last Much Longer Than You Think. Here's How to Know for Sure",
+      "description": "This is how long eggs last in your fridge, according to a food safety expert.",
+      "url": "https://www.cnet.com/home/kitchen-and-household/eggs-last-much-longer-than-you-think-heres-how-to-know-for-sure/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d6787b364c4c507c6a86fa27923d476c110502cf/hub/2025/09/19/d4fa9c23-9d32-4139-b1cc-81e09915b5b3/gettyimages-2196443730.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-19T19:00:00Z",
+      "content": "Eggs are one of the most versatile foods you can purchase, and they're easy to buy in bulk, which makes them a perfect go-to for stretching a grocery budget. However, if you're only relying on the \"b… [+5534 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ProPublica"
+      },
+      "author": "by Debbie Cenziper and Megan Rose, ProPublica, and Katherine Dailey, Medill Investigative Lab",
+      "title": "“Unacceptable”: Prominent U.S. Senators Demand FDA Provide Names of Troubled Foreign Drugmakers Skirting Import Bans",
+      "description": "by Debbie Cenziper and Megan Rose, ProPublica, and Katherine Dailey, Medill Investigative Lab \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nT…",
+      "url": "https://www.propublica.org/article/senators-letter-fda-drug-import-bans",
+      "urlToImage": "https://img.assets-d.propublica.org/v5/images/20250919-fda-impact.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=16c9127a8681e3a28fce156a3f49712b",
+      "publishedAt": "2025-09-19T18:45:00Z",
+      "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nTwo prominent U.S. senators are demanding the Food and Drug … [+5909 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -320,7 +359,7 @@
       },
       "author": "Business Wire",
       "title": "Evidence-Driven Outcomes and Clinical Innovation Highlight Covalon’s Presence at the Association for Vascular Access 2025 Annual Meeting",
-      "description": "MISSISSAUGA, Ontario — Covalon Technologies Ltd. (the “Company” or “Covalon���) (TSXV: COV; OTCQX: CVALF), an advanced medical technologies company, announced its participation at the Association for Vascular Access (AVA) Annual Scientific Meeting in Orlando, F…",
+      "description": "MISSISSAUGA, Ontario — Covalon Technologies Ltd. (the “Company” or “Covalon”) (TSXV: COV; OTCQX: CVALF), an advanced medical technologies company, announced its participation at the Association for Vascular Access (AVA) Annual Scientific Meeting in Orlando, F…",
       "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/evidence-driven-outcomes-and-clinical-innovation-highlight-covalons-presence-at-the-association-for-vascular-access-2025-annual-meeting",
       "urlToImage": null,
       "publishedAt": "2025-09-18T11:07:47Z",
@@ -636,7 +675,7 @@
       "url": "https://www.cbsnews.com/pittsburgh/news/noodlehead-shadyside-allegheny-county-health-department-consumer-alert/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/17/f648bac9-72e5-42e2-91f1-fac20695c105/thumbnail/1200x630/27cccf5a51505c19f2d1a8565134108c/b3e6b673-6c6b-4e5b-96a6-3aef543bb689.png",
       "publishedAt": "2025-09-17T10:00:36Z",
-      "content": "Noodlehead, a Thai-inspired restaurant in Pittsburgh's Shadyside neighborhood has been hit with another consumer alert from the Allegheny County Health Department.\r\nIt's the second time a consumer al… [+1304 chars]"
+      "content": "Noodlehead, a Thai-inspired restaurant in Pittsburgh's Shadyside neighborhood has been hit with another consumer alert from the Allegheny County Health Department.\r\nIt's the second time a consumer al�� [+1304 chars]"
     },
     {
       "source": {
@@ -1131,45 +1170,6 @@
       "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/15/3522747.jpg",
       "publishedAt": "2025-09-15T13:55:00Z",
       "content": "Malaysia:\r\n* Malaysia welcomes delegates to Global Halal Summit 2025\r\n* RM10mil aid approved for Sabah flood victims, says PM\r\n* Hadi Awang's son-in-law detained over Kg Sg Baru fracas\r\n* I'm too old… [+8442 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "MEGAN JANETSKY Associated Press, TERESA DE MIGUEL Associated Press",
-      "title": "Illegal gold mining fueling 'mercury boom' in Mexico, poisoning people, environment",
-      "description": "The soaring price of gold is fueling a \"mercury boom\" in central Mexico",
-      "url": "https://abcnews.go.com/International/wireStory/illegal-gold-mining-fueling-mercury-boom-mexico-poisoning-125583356",
-      "urlToImage": "https://i.abcnewsfe.com/a/9a372cef-7b9d-4d64-b2fa-f15884d24346/wirestory_ea7cf266304d06576eebfbd1901982fe_16x9.jpg?w=1600",
-      "publishedAt": "2025-09-15T13:39:45Z",
-      "content": "SAN JOAQUIN, Mexico -- A drill echoes through narrow tunnels deep within the mountain where miner Hugo Flores bores into rock in search of one of Earths most toxic elements.\r\nBuried in red stripes of… [+10426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Precedence Research",
-      "title": "Edible Oil Market Size Worth USD 361 Billion by 2034, Driven by Health Trends and Growing Demand Across Diverse Industries",
-      "description": "According to Towards FnB, the global edible oil market size is calculated USD 222.96 billion in 2025 and is projected to exceed over USD 361 billion by 2034, expanding at a CAGR of 5.5% during the forecast period from 2025 to 2034. Key drivers include the gro…",
-      "url": "https://www.globenewswire.com/news-release/2025/09/15/3150081/0/en/Edible-Oil-Market-Size-Worth-USD-361-Billion-by-2034-Driven-by-Health-Trends-and-Growing-Demand-Across-Diverse-Industries.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "publishedAt": "2025-09-15T13:30:00Z",
-      "content": "Ottawa, Sept. 15, 2025 (GLOBE NEWSWIRE) -- The global edible oil market size stood at USD 211.34 billion in 2024 and is anticipated to increase from USD 222.96 billion in 2025 to around USD 361 billi… [+19872 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Megan Janetsky",
-      "title": "Illegal gold mining in the Amazon is fueling a 'mercury boom' in central Mexico",
-      "description": "The soaring price of gold is fueling a \"mercury boom\" in central Mexico. A surge in the demand for the toxic metal, which is key in illegal gold mining, is benefiting Mexican miners but also exposing them and the environment to mercury poisoning. Despite glob…",
-      "url": "https://apnews.com/article/mexico-mercury-mines-illegal-gold-mining-ea7cf266304d06576eebfbd1901982fe",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7f6c16b/2147483647/strip/true/crop/5443x3062+0+284/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F62%2F674d6b703ca7b036aceaef291095%2F0c8265941d854eb0b215587cd607022e",
-      "publishedAt": "2025-09-15T13:24:40Z",
-      "content": "SAN JOAQUIN, Mexico (AP) A drill echoes through narrow tunnels deep within the mountain where miner Hugo Flores bores into rock in search of one of Earths most toxic elements.\r\nBuried in red stripes … [+13728 chars]"
     }
   ],
   "totalResults": 90,
