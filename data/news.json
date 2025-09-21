@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-21T06:32:54.403Z",
+  "lastUpdated": "2025-09-21T12:43:17.445Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lena Borrelli",
+      "title": "You Just Ate a Side of Plastic for Dinner. These 7 Kitchen Items May Be the Culprit",
+      "description": "Newsflash: That \"convenient\" plastic spatula is seasoning your food in the worst way possible.",
+      "url": "https://www.cnet.com/health/you-just-ate-a-side-of-plastic-for-dinner-blame-these-kitchen-items-full-of-microplastics/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3cd127813b6328474b775ab1dd9a187f23ab4bf0/hub/2025/05/06/27011acc-9edd-41e7-936c-9f067e082e58/gettyimages-1404990797.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-20T10:00:04Z",
+      "content": "Let's be honest, \"microplastics\" has been a buzzword we've all probably tried to ignore. But it's time for a reality check: You are eating and drinking tiny particles of plastic every single day. The… [+8447 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -26,6 +39,19 @@
       "urlToImage": "https://img.particlenews.com/img/id/24TZQh_14tctSmv00",
       "publishedAt": "2025-09-20T04:09:33Z",
       "content": "A popular brand has issued a nationwide recall of two types of its fish over contamination concerns. \r\nHaifa Smoked Fish, based in New York, is recalling its cold-smoked salmon and cold-smoked sea ba… [+2880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "author": null,
+      "title": "Costa Rican Bananas Stand Out Globally for Innovation and Sustainability",
+      "description": "Costa Rica is already making significant progress in collaboration with organizations such as the Country Bran essential COSTA RICA and the Trade & Investment Promotion Agency of Costa Rica (PROCOMER). SAN JOSÉ, Costa Rica, Sept. 19, 2025 /PRNewswire/ -- Know…",
+      "url": "https://www.prnewswire.co.uk/news-releases/costa-rican-bananas-stand-out-globally-for-innovation-and-sustainability-302561987.html",
+      "urlToImage": "https://mma.prnewswire.com/media/2776940/Banana.jpg?p=facebook",
+      "publishedAt": "2025-09-19T21:12:00Z",
+      "content": "<ul><li>Costa Rica is already making significant progress in collaboration with organizations such as the Country Bran essential COSTA RICA and the Trade &amp; Investment Promotion Agency of Costa Ri… [+4102 chars]"
     },
     {
       "source": {
@@ -1144,32 +1170,6 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/09/Tailgate-531267129.jpg",
       "publishedAt": "2025-09-15T15:05:10Z",
       "content": "Its the most wonderful time of the year! And yes, I do mean football season.\r\nWhether youre watching college, pro or your nephews pee-wee games, weekends for the next few months are completely blocke… [+7808 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Backpackinglight.com"
-      },
-      "author": "Backpacking Light",
-      "title": "Episode 133 | Human Waste Management",
-      "description": "In episode 133 of the Backpacking Light podcast, we challenge traditional cathole practices, advocating for pack-out systems in alpine, desert, and high-use areas based on science and LNT ethics.\nThe post Episode 133 | Human Waste Management appeared first on…",
-      "url": "https://backpackinglight.com/podcast-episode-133-human-waste-management/",
-      "urlToImage": null,
-      "publishedAt": "2025-09-15T14:35:22Z",
-      "content": "Episode Summary\r\nIn this episode, Ryan Jordan examines why traditional cathole practices often fail in alpine, desert, and high-use environments. Drawing on scientific research, policy gaps, and evol… [+5710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Carolina Henao-Rodríguez, Jenny-Paola Lis-Gutiérrez",
-      "title": "Water injustice in Colombia: Perceptions and realities of water quality examined through advanced machine learning",
-      "description": "Access to safe drinking water is essential for public health. In Colombia, Resolution 2115 of 2007 mandates the use of the Water Quality Risk Index for Human Consumption (IRCA) to classify risk levels. However, a significant gap exists between objective IRCA …",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332274",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332274.t006&size=inline",
-      "publishedAt": "2025-09-15T14:00:00Z",
-      "content": "4.2.1. Logistic regression with LASSO regularization.\r\nFor the LASSO-regularized logistic regression model, a dependent variable called perception of water contamination was constructed as a binary v… [+9473 chars]"
     }
   ],
   "totalResults": 90,
