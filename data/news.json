@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-22T18:32:01.681Z",
+  "lastUpdated": "2025-09-23T01:48:10.620Z",
   "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Marlene Lenthang",
+      "title": "Costco recalls poke sold under Kirkland Signature brand over possible listeria contamination",
+      "description": "Over 3,300 pounds of Ahi Tuna Wasabi Poke sold under Costco’s Kirkland Signature brand have been recalled because potential listeria contamination in the green onions used in the product",
+      "url": "https://www.nbcnews.com/business/recall/costco-recalls-poke-kirkland-signature-possible-listeria-rcna232842",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250610-costco-mn-1215-6bb73a.jpg",
+      "publishedAt": "2025-09-22T01:41:38Z",
+      "content": "Over 3,300 pounds of Ahi Tuna Wasabi Poke sold under Costcos Kirkland Signature brand have been recalled because potential listeria contamination in the green onions used in the product.\r\nWestern Uni… [+2322 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Adeola Adeosun",
+      "title": "FDA Expands Warning of Radioactive Shrimp as Two More Brands Recalled",
+      "description": "The brands may have been contaminated with cesium-137, a radioactive isotope.",
+      "url": "https://www.newsweek.com/kroger-aquastar-shrimp-recalled-radioactive-contamination-risk-2133387",
+      "urlToImage": "https://d.newsweek.com/en/full/2727033/shrimp.jpg",
+      "publishedAt": "2025-09-21T21:15:27Z",
+      "content": "The U.S. Food &amp; Drug Administration (FDA) announced on Sunday that AquaStar (USA) Corp of Seattle has recalled approximately 85,000 bags of shrimp products sold at major grocery chains nationwide… [+6355 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1144,32 +1170,6 @@
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
       "publishedAt": "2025-09-16T15:23:00Z",
       "content": "Dublin, Sept. 16, 2025 (GLOBE NEWSWIRE) -- The \"Packaged Sprouts Market - Forecasts from 2025 to 2030\" has been added to ResearchAndMarkets.com's offering.\r\nThe global packaged sprouts market is anti… [+6445 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Battle Creek Enquirer"
-      },
-      "author": "Keith Matheny, Detroit Free Press",
-      "title": "Study finds 'forever chemicals' showing up in beer produced in Michigan counties",
-      "description": "Specific beers and breweries aren't named in the study. But beers tested from Kalamazoo and Kent counties had the potentially harmful compounds.",
-      "url": "https://www.battlecreekenquirer.com/story/money/2025/09/16/michigan-beer-nonstick-pfas-compounds-water-breweries/86178323007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JCDnhcZu1Ur7hujvkMWOyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/the-battle-creek-enquirer/63b5669ea39c67ac857049a38393c9e0",
-      "publishedAt": "2025-09-16T14:59:08Z",
-      "content": "If potentially health-harming, nonstick \"forever chemicals\" PFAS are in a brewery's water supply, they tend to end up in its beer, a study has found. And though the study doesn't name the beers it te… [+6309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "FDA",
-      "title": "Somerset Therapeutics Private Limited - 711340 - 09/04/2025",
-      "description": "CGMP/Finished Pharmaceuticals/Adulterated",
-      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/somerset-therapeutics-private-limited-711340-09042025",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2025-09-16T14:50:04Z",
-      "content": "Delivery Method:\r\nVia Email\r\nReference #:\r\n320-25-106\r\nProduct:\r\nDrugs \r\nRecipient:\r\nMr. Veerappan Subramanian\r\nSomerset Therapeutics Private Limited \r\n300 Franklin Square DriveSomerset, NJ08873Unite… [+22215 chars]"
     }
   ],
   "totalResults": 90,
