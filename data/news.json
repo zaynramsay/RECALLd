@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-24T06:34:49.448Z",
+  "lastUpdated": "2025-09-24T12:49:44.203Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Lisa Salmon",
+      "title": "Experts answer the age-old question: Should you remove shoes in the house?",
+      "description": "A microbiologist and a flooring expert reveal all",
+      "url": "https://www.the-independent.com/life-style/no-shoe-household-hygiene-germs-carpets-floors-b2831857.html",
+      "urlToImage": "https://static.the-independent.com/s3fs-public/thumbnails/image/2020/07/31/20/istock-1161160631.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-09-23T10:21:06Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+6719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Lisa Salmon",
+      "title": "Do you really need to take your shoes off in the house?",
+      "description": "A microbiologist and a flooring expert explain why removing shoes in the house is down to personal preference, hygiene and looking after your carpet.",
+      "url": "https://www.the-independent.com/life-style/shoes-emma-tiktok-university-of-leicester-university-of-arizona-b2831792.html",
+      "urlToImage": "https://static.the-independent.com/2025/09/23/09/23081611-8f50c55f-1ca2-45f7-9755-a8e847cfa2b7.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-09-23T07:54:48Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+6689 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1092,47 +1118,8 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g4TcnjeboV1HPTF31Vq4DA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/14384baa75d3fcc8941594d7d55a6970",
       "publishedAt": "2025-09-18T03:48:49Z",
       "content": "TOKYO (AP) For stretches of her four long years in running purgatory, the poster child for a drug-fighting system in sports that nobody truly understands was as likely to be seen driving her 71 VW mi… [+5275 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Smoked Fish Recall Sparks New Nationwide Warning",
-      "description": "Numerous recalls have been initiated this year because of the potential for damaged products, foodborne illness and contamination.",
-      "url": "https://www.newsweek.com/smoked-fish-recall-sparks-new-nationwide-warning-2131614",
-      "urlToImage": "https://d.newsweek.com/en/full/2724849/cold-smoked-salmon.png",
-      "publishedAt": "2025-09-18T02:25:16Z",
-      "content": "Haifa Smoked Fish is recalling specific lots of its cold smoked salmon and cold smoked sea bass due to fears the products may be contaminated with Listeria Monocytogenes.\r\nNewsweek reached out to the… [+3092 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "thestreet.com",
-      "title": "Costco issues urgent recall on Kirkland product",
-      "description": "Food recalls happen more often than you might think. Every year the Food and Drug Administration (FDA) issues dozens of recalls related to allergens, possible bacterial infections, lead contamination, and the potential presence of glass or other matter. \nSo f…",
-      "url": "https://biztoc.com/x/9011438a701f1be6",
-      "urlToImage": "https://biztoc.com/cdn/9011438a701f1be6_s.webp",
-      "publishedAt": "2025-09-18T00:52:58Z",
-      "content": "Food recalls happen more often than you might think. Every year the Food and Drug Administration (FDA) issues dozens of recalls related to allergens, possible bacterial infections, lead contamination… [+141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercola.com"
-      },
-      "author": "communities@mercola.com (Dr. Joseph Mercola)",
-      "title": "Fecal Transplant May Help Reduce Infections in Long-Term Care Patients",
-      "description": "As its name suggests, fecal microbiota transplantation (FMT) is a treatment that involves getting fecal sample from one healthy donor and then transplanting it to the gastrointestinal (GI) tract of another patient to help solve their GI issues. FMT has shown …",
-      "url": "https://articles.mercola.com/sites/articles/archive/2025/09/18/fecal-microbiota-transplantation-therapy.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/September/FB/fecal-microbiota-transplantation-therapy-fb.jpg",
-      "publishedAt": "2025-09-18T00:00:00Z",
-      "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
     }
   ],
-  "totalResults": 87,
+  "totalResults": 86,
   "filteredCount": 0
 }
